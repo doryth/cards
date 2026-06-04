@@ -1,0 +1,98 @@
+{
+  "id": "card_af4e40",
+  "slug": "general-purpose-robot-workers",
+  "type": "news",
+  "title": "The Push for Robots That Can Do Any Job, Not Just One",
+  "hook": "Factory robots have always been narrow specialists — great at one welded joint, useless at anything else. AI is what's driving the push toward robots general enough to work almost anywhere.",
+  "key_points": [
+    "Ars Technica interviewed robotics researchers and founders about the shift toward general-purpose robot autonomy.",
+    "Older industrial robots are built and programmed for one repetitive task, in one fixed setup.",
+    "AI models trained on huge amounts of data let robots adapt to new tasks and environments, not just one.",
+    "The eventual goal, per the reporting: robot workers capable in workplaces — and maybe homes.",
+    "It's a research-and-forecast piece, not a product announcement — this is still unfolding."
+  ],
+  "content_html": "\u003cp\u003eIndustrial robots have always been narrow specialists: superb at one welded joint or one box on one conveyor belt, and useless the moment the task changes. Ars Technica spoke with robotics researchers and founders about what's driving a shift away from that — the push toward robots general enough to handle a wide range of jobs, in workplaces and maybe eventually homes.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe engine behind that shift is the same one behind chatbots: AI models trained on huge amounts of data, which let a robot generalize from what it's learned instead of being hand-programmed for one exact setup. A robot arm that's seen enough varied examples of \u0026quot;pick this up and place it there\u0026quot; can, in principle, apply that skill to objects and layouts it's never seen before — closer to how a person adapts to a new job than how a traditional industrial robot works. This is still a research-and-forecast story, not a shipped product; the researchers interviewed are describing a direction, not a finished robot you can buy. But it's the same underlying logic that took AI from \u0026quot;answers questions\u0026quot; to \u0026quot;takes actions\u0026quot; as an agent — now applied to bodies instead of just software, which is why the jobs conversation around AI increasingly includes physical work, not just desk work.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics",
+    "published_at": "2026-07-07",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "robots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_66e39d",
+      "slug": "robots-and-self-driving",
+      "type": "concept",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_933f8f",
+      "slug": "gm-factory-robots",
+      "type": "news",
+      "title": "GM's Robots and the 'Dark Factory'",
+      "hook": "GM put robots into its flagship EV plant just after laying off 1,300 workers — and the autoworkers' union is warning of a 'dark factory' future where the lights stay off because nobody's there.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_800ed6",
+      "slug": "viral-robot-demos",
+      "type": "news",
+      "title": "That Viral Robot Video Probably Isn't What It Looks Like",
+      "hook": "Humanoid robots dancing and doing backflips rack up millions of views — but slick demos can badly distort what these machines can actually do on their own, in the real world.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_af4e40#0",
+      "format": "quiz",
+      "prompt": "What's the key difference between a classic factory robot and the 'general-purpose' robot researchers are chasing?",
+      "choices": [
+        {
+          "text": "The classic robot does one fixed task; a general-purpose robot adapts to many",
+          "correct": true
+        },
+        {
+          "text": "The classic robot is faster in every situation",
+          "correct": false
+        },
+        {
+          "text": "There is no real difference — it's just marketing",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTraditional industrial robots are hard-programmed for a single repetitive job.\nThe new push uses AI trained on broad data so a robot can handle varied tasks.\u003c/p\u003e"
+    },
+    {
+      "id": "card_af4e40#1",
+      "format": "flip",
+      "prompt": "What's actually driving the move toward general-purpose robots, according to the reporting?",
+      "back_html": "\u003cp\u003eAI models trained on large amounts of data — the same kind of approach behind\nchatbots — letting robots generalize instead of needing task-specific programming.\u003c/p\u003e"
+    }
+  ]
+}

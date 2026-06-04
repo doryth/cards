@@ -1,0 +1,120 @@
+{
+  "id": "card_5ecf54",
+  "slug": "apple-photo-provenance",
+  "type": "news",
+  "title": "Proving Your Photo Came Out of a Real Camera",
+  "hook": "Code in an iOS beta hints at an Apple system that stamps provenance data into a photo the moment it's captured — flipping deepfake defense from 'detect the fake' to 'prove the real'.",
+  "key_points": [
+    "9to5Mac found references to an 'Apple Reference Image' system in an iOS 27 beta.",
+    "It would embed provenance metadata into photographs at the moment of capture.",
+    "The point is to let you prove a photo was shot on an iPhone camera, not generated.",
+    "This is the inverse of AI detection: certify authentic media instead of hunting fakes.",
+    "It's unannounced beta code — Apple has not shipped or confirmed the feature."
+  ],
+  "content_html": "\u003cp\u003eAs fake images get easier to make, the more tractable problem may be the opposite one: proving a photo is genuine. According to 9to5Mac, code in an iOS 27 beta refers to an \u0026quot;Apple Reference Image\u0026quot; system that would embed provenance metadata into iPhone photographs at the point of capture — a record, attached by the camera itself, of where the image came from. The Verge reports that this would let people demonstrate a photo was actually shot rather than generated.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat flip matters. AI detectors look at a finished file and make a statistical guess, which is why they're unreliable and why false accusations are common. Provenance works the other way around: the device signs a claim at the moment of capture, so instead of asking \u0026quot;does this look fake?\u0026quot; a viewer can ask \u0026quot;is there a valid record that this is real?\u0026quot; The catch is the same one that dogs all metadata — it has to survive editing, uploading, and platforms that strip it, and it only helps for images taken on gear that supports it.\u003c/p\u003e\n\u003cp\u003eWorth holding loosely: this is unannounced beta code, not a shipped feature. Apple hasn't confirmed anything.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+    "published_at": "2026-08-11",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "deepfakes",
+    "spotting-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "vision"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_669b34",
+      "slug": "claude-watermarks-ai-text",
+      "type": "news",
+      "title": "Claude Will Start Signing Its Own Homework",
+      "hook": "Anthropic says Claude's text and files will carry invisible machine-readable marks — a nudge from EU transparency rules, and the first time watermarking reaches plain text.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_03fe8f",
+      "slug": "ai-detectors-distrust",
+      "type": "news",
+      "title": "AI Detectors Are Making Everyone Suspicious of Everyone",
+      "hook": "Tools that claim to spot AI writing are unreliable enough to flag honest work — and the damage isn't just false accusations. It's that nobody trusts anything anymore.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5ecf54#0",
+      "format": "flip",
+      "prompt": "What would Apple's rumored 'Reference Image' system do?",
+      "back_html": "\u003cp\u003eEmbed provenance metadata into a photo at the moment the iPhone camera\ncaptures it, so you can later prove the image came from a real camera.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5ecf54#1",
+      "format": "quiz",
+      "prompt": "How does capture-time provenance differ from an AI detector?",
+      "choices": [
+        {
+          "text": "It certifies that real media is real, instead of guessing whether media is fake",
+          "correct": true
+        },
+        {
+          "text": "It scans the internet for copies of your photo",
+          "correct": false
+        },
+        {
+          "text": "It blurs faces automatically before sharing",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDetectors examine a finished file and estimate. Provenance attaches a signed\nclaim at the source, so authenticity is proven rather than inferred.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5ecf54#2",
+      "format": "quiz",
+      "prompt": "How firm is this news?",
+      "choices": [
+        {
+          "text": "It's code spotted in a beta by a reporter — unannounced and unconfirmed",
+          "correct": true
+        },
+        {
+          "text": "Apple announced it on stage with a ship date",
+          "correct": false
+        },
+        {
+          "text": "It already works on every iPhone",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Verge relays a 9to5Mac finding of references in an iOS 27 beta. Beta\nstrings often describe features that change or never launch.\u003c/p\u003e"
+    }
+  ]
+}

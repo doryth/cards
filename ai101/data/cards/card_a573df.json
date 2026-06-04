@@ -1,0 +1,105 @@
+{
+  "id": "card_a573df",
+  "slug": "trump-backs-openai-nyt-case",
+  "type": "news",
+  "title": "The US Government Filed on the AI Company's Side",
+  "hook": "The Trump administration intervened in the New York Times' copyright case against OpenAI — arguing for the lab. That's a new kind of pressure on the courts.",
+  "key_points": [
+    "The Trump administration intervened in the NYT v. OpenAI copyright lawsuit, arguing in the AI lab's favor, per The Verge.",
+    "The suit, filed in December 2023, alleges OpenAI unlawfully trained on Times articles and seeks billions in damages.",
+    "It's the landmark test of whether training on copyrighted text is fair use in the US.",
+    "Government intervention signals a policy stance: treating AI competitiveness as a national interest.",
+    "The court still decides — an administration's brief is advocacy, not a ruling."
+  ],
+  "content_html": "\u003cp\u003eThe Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, filing an argument in favor of the AI lab. The case, brought in December 2023, alleges OpenAI unlawfully trained its systems on Times articles and seeks to recover billions of dollars in damages. It is the landmark American test of whether training a model on copyrighted work counts as fair use.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eUnderstanding why this matters means separating two things. The lawsuit is a private dispute between a newspaper and a company, and a judge will decide it on the law. An administration's brief is advocacy — it can influence how a court reads the public interest, but it doesn't settle anything.\u003c/p\u003e\n\u003cp\u003eWhat it does settle is the policy posture. A government weighing in on the side of an AI lab in the flagship training-data case is treating AI capability as a national interest that outranks the copyright claims of a publisher. Whichever way you land on the merits, that's a thumb on a scale that was supposed to be held by courts, in a case whose outcome will shape what every model in the country is allowed to learn from.\u003c/p\u003e\n\u003cp\u003eThe Times case has already produced its share of procedural fights, including a dispute over deleted conversation logs. This is the first time the federal government has joined one of them.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Hayden Field"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+    "published_at": "2026-09-02",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-ownership",
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "dataset"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_9882eb",
+      "slug": "openai-nyt-copyright-logs",
+      "type": "news",
+      "title": "OpenAI's Copyright Fight Takes a Turn Over Missing Logs",
+      "hook": "In its copyright fight with news organizations, OpenAI reportedly claimed it couldn't search its training data — while allegedly hiding and deleting billions of ChatGPT logs. That gap could cost it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_b3e759",
+      "slug": "google-hollywood-licensing",
+      "type": "news",
+      "title": "Buying the Training Data Instead of Taking It",
+      "hook": "Google is reportedly offering Hollywood studios big money to train on their films. That's an admission about how the last decade of scraping worked.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-09-01"
+    },
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a573df#0",
+      "format": "quiz",
+      "prompt": "What is the core question in The New York Times' lawsuit against OpenAI?",
+      "choices": [
+        {
+          "text": "Whether training AI models on copyrighted articles without permission is lawful",
+          "correct": true
+        },
+        {
+          "text": "Whether ChatGPT can be sold in New York State",
+          "correct": false
+        },
+        {
+          "text": "Whether AI-written articles can themselves be copyrighted",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFiled in December 2023, the suit alleges OpenAI unlawfully trained on Times articles\nand seeks billions in damages — the landmark US test of training-data fair use.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a573df#1",
+      "format": "flip",
+      "prompt": "What does it mean that the administration 'intervened' in the case?",
+      "back_html": "\u003cp\u003eIt filed an argument supporting OpenAI's position. That's advocacy that a court may\nweigh — not a decision, and not binding on the judge.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a573df#2",
+      "format": "flip",
+      "prompt": "Why is a government taking a side in this case significant?",
+      "back_html": "\u003cp\u003eIt reframes a private copyright dispute as a national-competitiveness question,\nputting the state's weight behind one answer before the courts have given theirs.\u003c/p\u003e"
+    }
+  ]
+}

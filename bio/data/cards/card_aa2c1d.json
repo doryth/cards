@@ -1,0 +1,102 @@
+{
+  "id": "card_aa2c1d",
+  "slug": "how-plants-are-built",
+  "type": "concept",
+  "title": "How a Plant Is Built",
+  "hook": "Most plants are made of three working parts — roots that drink, stems that lift, and leaves that catch sunlight — and together they turn dirt and light into a living thing.",
+  "key_points": [
+    "Most plants have three main organs: roots, stems, and leaves.",
+    "Roots anchor the plant and absorb water and minerals from the soil.",
+    "Stems hold the plant up and carry water and food between roots and leaves.",
+    "Leaves are the main site of photosynthesis, capturing sunlight to make food.",
+    "Internal tubes (xylem and phloem) move water up and sugars throughout the plant."
+  ],
+  "content_html": "\u003cp\u003eStrip a typical plant down to its essentials and you find three organs doing three jobs. Roots burrow into the soil to anchor the plant and soak up water and minerals. Stems rise upward, holding leaves toward the light and acting as a highway between top and bottom. And leaves spread out like solar panels, catching sunlight to manufacture food. Together these parts let a plant feed itself from nothing but light, water, air, and soil.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eInside the stem run two sets of plumbing that tie the whole plant together: xylem carries water and minerals up from the roots, while phloem distributes the sugars made in the leaves to wherever they're needed. The leaves are where the real chemistry happens — their cells are packed with chlorophyll, the green pigment that captures light for photosynthesis. Roots, meanwhile, do double duty, gripping the plant against wind and gravity while pulling in the water that the rest of the plant depends on. As Encyclopaedia Britannica's overview of plant organs explains, this division of labor between root, stem, and leaf is what lets plants live rooted in one spot and still thrive.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/plant/Organs-and-tissue-systems",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "plants"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_140092",
+      "slug": "why-plants-run-the-planet",
+      "type": "concept",
+      "title": "Why Plants Run the Planet",
+      "hook": "Nearly every breath you take and every meal you eat traces back to plants — they make the oxygen, anchor the food chain, and lock away carbon for the whole biosphere.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4be834",
+      "slug": "photosynthesis",
+      "type": "concept",
+      "title": "Photosynthesis",
+      "hook": "Plants pull carbon dioxide from the air and water from the soil, and using only sunlight, build sugar — releasing the oxygen you're breathing right now.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_aa2c1d#0",
+      "format": "flip",
+      "prompt": "What are the three main organs of most plants?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eRoots\u003c/strong\u003e, \u003cstrong\u003estems\u003c/strong\u003e, and \u003cstrong\u003eleaves\u003c/strong\u003e. Roots absorb water, stems provide support and\ntransport, and leaves capture sunlight to make food.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aa2c1d#1",
+      "format": "quiz",
+      "prompt": "What is the main job of a plant's leaves?",
+      "choices": [
+        {
+          "text": "To capture sunlight and carry out photosynthesis",
+          "correct": true
+        },
+        {
+          "text": "To anchor the plant in the soil",
+          "correct": false
+        },
+        {
+          "text": "To store the plant's seeds",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLeaves are the plant's solar panels — flat surfaces packed with chlorophyll that\nabsorb light to power photosynthesis. Anchoring is the roots' job.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aa2c1d#2",
+      "format": "quiz",
+      "prompt": "What do a plant's roots do?",
+      "choices": [
+        {
+          "text": "Anchor the plant and absorb water and minerals from the soil",
+          "correct": true
+        },
+        {
+          "text": "Produce flowers and fruit",
+          "correct": false
+        },
+        {
+          "text": "Release oxygen into the air",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRoots hold the plant in place and draw up water and dissolved minerals, which travel\nup the stem to the rest of the plant.\u003c/p\u003e"
+    }
+  ]
+}

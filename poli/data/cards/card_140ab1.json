@@ -1,0 +1,128 @@
+{
+  "id": "card_140ab1",
+  "slug": "geofence-warrants-and-the-fourth-amendment",
+  "type": "news",
+  "title": "Geofence Warrants \u0026 the Fourth Amendment",
+  "hook": "Police can ask a tech company which phones were near a crime scene at a given hour — sweeping up everyone's location, not just a suspect's. In 2026 the Court said that's a 'search.'",
+  "key_points": [
+    "A geofence warrant asks a tech company for the location data of every device within a drawn area during a set time window.",
+    "That sweeps in innocent bystanders' data along with any suspect's — the reverse of a normal, name-first warrant.",
+    "The Fourth Amendment requires a warrant, based on probable cause, for government 'searches.'",
+    "In June 2026 the Supreme Court ruled that using a geofence warrant is itself a Fourth Amendment 'search', per SCOTUSblog.",
+    "The ruling extends the logic of Carpenter v. United States (2018), which protected cellphone location records generally."
+  ],
+  "content_html": "\u003cp\u003eMost warrants start with a suspect: police identify a person, then ask a court for permission to search their phone, home, or records. A \u0026quot;geofence warrant\u0026quot; runs the process backward — police draw a location and time window on a map and ask a tech company (often Google) to hand over data on every device that passed through it, then work backward to a suspect.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat reversal is exactly what raised the constitutional question: the Fourth Amendment protects against unreasonable government \u0026quot;searches\u0026quot; and generally requires a warrant grounded in probable cause aimed at a specific target, not a dragnet sweep of anyone who happened to be nearby. In June 2026, SCOTUSblog's Amy Howe reports, the Supreme Court ruled that law enforcement's use of a geofence warrant is itself a Fourth Amendment search — meaning the practice must meet the Amendment's warrant and probable-cause standards. \u003ca href=\"https://theconversation.com/supreme-court-rules-your-cellphone-location-data-is-protected-by-the-fourth-amendment-286424\"\u003eThe Conversation\u003c/a\u003e frames the decision as an extension of \u003cem\u003eCarpenter v. United States\u003c/em\u003e (2018), where the Court first held that cellphone location records deserve Fourth Amendment protection because they can reveal a detailed record of someone's movements. Geofencing takes that concern further, since a single request sweeps up location data on everyone in an area — not just the eventual suspect — putting bystanders' movements in front of police by default. (This card describes U.S. constitutional law specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Amy Howe"
+    ],
+    "url": "https://scotusblog.com/2026/06/court-rules-that-law-enforcements-use-of-geofence-warrant-was-a-search",
+    "published_at": "2026-06-29",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "technology-and-politics",
+    "rights-civil-liberties"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_cbef24",
+      "slug": "surveillance-and-privacy",
+      "type": "concept",
+      "title": "Surveillance \u0026 Privacy",
+      "hook": "Technology lets states and companies watch people at a scale once unimaginable — putting the old right to be left alone on a collision course with security and profit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_cbef24",
+      "slug": "surveillance-and-privacy",
+      "type": "concept",
+      "title": "Surveillance \u0026 Privacy",
+      "hook": "Technology lets states and companies watch people at a scale once unimaginable — putting the old right to be left alone on a collision course with security and profit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_140ab1#0",
+      "format": "flip",
+      "prompt": "How does a geofence warrant work, and why is that different from a typical warrant?",
+      "back_html": "\u003cp\u003ePolice draw a location and time window and ask a company for every\ndevice's data inside it, then work backward to a suspect — the reverse\nof starting with a named suspect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_140ab1#1",
+      "format": "quiz",
+      "prompt": "What did the Supreme Court rule about geofence warrants in June 2026?",
+      "choices": [
+        {
+          "text": "Using one is itself a Fourth Amendment 'search', so it must meet warrant and probable-cause standards",
+          "correct": true
+        },
+        {
+          "text": "Geofence warrants are not searches and need no warrant at all",
+          "correct": false
+        },
+        {
+          "text": "Only federal agencies may use geofence warrants",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Court held the practice counts as a Fourth Amendment search,\ntriggering the Amendment's usual protections.\u003c/p\u003e"
+    },
+    {
+      "id": "card_140ab1#2",
+      "format": "quiz",
+      "prompt": "Which earlier case does this 2026 ruling extend the logic of?",
+      "choices": [
+        {
+          "text": "Carpenter v. United States (2018), on cellphone location records",
+          "correct": true
+        },
+        {
+          "text": "Miranda v. Arizona, on the right to remain silent",
+          "correct": false
+        },
+        {
+          "text": "Brown v. Board of Education, on school segregation",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCarpenter first held cellphone location data deserves Fourth Amendment\nprotection; this ruling applies that logic to geofence warrants.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "card_316952",
+  "slug": "two-doors-to-public-money",
+  "type": "news",
+  "title": "Two Doors to the Same Public Money",
+  "hook": "A school Texas rejected as a charter got approved for taxpayer-funded vouchers months later. Same money, same state, different door — and a far lower bar.",
+  "key_points": [
+    "When a government funds the same activity through more than one program, each program brings its own approval standard.",
+    "An applicant refused under the strict standard can often re-apply under the lax one, and the earlier rejection does not travel with them.",
+    "Per ProPublica, the Texas State Board of Education rejected Alpha School's charter bid in 2025, citing an unproven AI-driven model tested mainly on affluent, self-selected students.",
+    "The comptroller's office, which runs the voucher program, checked four things: operating in Texas, accreditation, at least two years of operation, and annual standardized testing.",
+    "No curriculum review, no evidence-of-success requirement, and no consideration of the board's earlier concerns, ProPublica reports.",
+    "The general fix is procedural, not ideological: make approval standards consistent across funding channels, or make one channel's findings visible to the other."
+  ],
+  "content_html": "\u003cp\u003eGovernments often fund the same thing through more than one program. Each program is written separately, with its own gatekeeper and its own checklist — and applicants notice.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Lexi Churchill reports that the Texas State Board of Education rejected Alpha School's charter application in the summer of 2025, with members expressing skepticism about its AI-driven model and the evidence behind its claimed academic gains, which had largely been tested on affluent, self-selected students. Rather than reapply to the board, the school went to the state comptroller's office, which administers the voucher program, where approval turned on four criteria: operating in Texas, holding accreditation from an approved organization, having operated at least two years, and administering annual standardized tests. There was no curriculum review, no requirement to show educational results, and no mechanism for the board's earlier concerns to surface. ProPublica reports Alpha grew to more than 30 Texas campuses after voucher approval. Notice that this is not really an argument about school choice. It is a design flaw that appears wherever parallel funding channels have unequal standards: the strictest gate becomes optional. Closing it takes one of two procedural moves — harmonize the standards, or require each gatekeeper to see and account for the other's findings. (This card describes Texas education funding specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Lexi Churchill"
+    ],
+    "url": "https://propublica.org/article/alpha-school-texas-vouchers-ai",
+    "published_at": "2026-09-02",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "public-policy-economy",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_c9fb31",
+      "slug": "voucher-school-oversight-gap",
+      "type": "news",
+      "title": "Public Money, Private Oversight: The Voucher Accountability Gap",
+      "hook": "Public schools face extensive state regulation. Private schools funded by the same taxpayer dollars, through vouchers, often don't — a gap one Arkansas case exposed starkly.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "card_a5dbb4",
+      "slug": "quasi-public-schools-and-conflict-rules",
+      "type": "news",
+      "title": "When a Private School Is 100% Publicly Funded",
+      "hook": "Some private schools get every dollar of their tuition from taxpayers — yet the conflict-of-interest, open-records, and open-meeting rules that come with public money don't follow it in.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "card_89ecd5",
+      "slug": "regulatory-capture",
+      "type": "news",
+      "title": "Regulatory Capture",
+      "hook": "Who protects a city's drinking water when the industry that put it at risk is also the one the regulator was built to serve? That's the problem political scientists call regulatory capture.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_316952#0",
+      "format": "flip",
+      "prompt": "What is a forum-shopping problem in public funding programs?",
+      "back_html": "\u003cp\u003eWhen the same activity can be funded through two programs with different\napproval standards, an applicant rejected by the strict one can simply\napply through the lax one.\u003c/p\u003e"
+    },
+    {
+      "id": "card_316952#1",
+      "format": "quiz",
+      "prompt": "What did the Texas comptroller's voucher program check before approving Alpha School?",
+      "choices": [
+        {
+          "text": "Texas operation, accreditation, two years of operation, and annual standardized testing",
+          "correct": true
+        },
+        {
+          "text": "Curriculum alignment and documented evidence of academic success",
+          "correct": false
+        },
+        {
+          "text": "Whether the State Board of Education had previously approved the school",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFour administrative boxes, none of which revisited the substantive\nconcerns that had sunk the charter application.\u003c/p\u003e"
+    },
+    {
+      "id": "card_316952#2",
+      "format": "quiz",
+      "prompt": "What procedural fix does this pattern point to?",
+      "choices": [
+        {
+          "text": "Align approval standards across funding channels, or share one channel's findings with the other",
+          "correct": true
+        },
+        {
+          "text": "Abolish standardized testing requirements entirely",
+          "correct": false
+        },
+        {
+          "text": "Require every school to apply to both programs simultaneously",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe failure is that a rejection in one process carried no weight in the\nother — a coordination gap rather than a judgment call about vouchers.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "card_ae572c",
+  "slug": "enforcing-human-rights",
+  "type": "concept",
+  "title": "Enforcing Human Rights",
+  "hook": "Declaring a right is easy; enforcing it against a sovereign state is hard. The global human-rights system relies more on pressure and exposure than on a world police.",
+  "key_points": [
+    "There is no world government to compel states, so enforcement is the hardest part.",
+    "Tools include treaties, UN bodies, regional human-rights courts, and monitoring reports.",
+    "Pressure also comes from other states, NGOs, and public exposure ('naming and shaming').",
+    "Sovereignty limits enforcement — yet norms still shape state behavior over time."
+  ],
+  "content_html": "\u003cp\u003eWriting down that everyone has rights is one thing; making those rights real when a government violates them is another — and it is the central, unresolved challenge of the human-rights project. The difficulty traces back to the structure of the international system: because states are sovereign and there is no world government above them, no global police force can simply arrest a violating state or compel it to comply. Enforcement therefore looks very different from how a domestic court enforces the law on an individual.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eInstead, the global human-rights system works through a layered web of softer mechanisms. States voluntarily sign binding treaties that commit them to specific rights and to reporting on their compliance. UN bodies and special investigators monitor conditions and publish findings. Regional human-rights courts — where they exist — can hear cases and issue rulings against member states that have accepted their authority. The UN Human Rights Office (OHCHR) coordinates much of this monitoring and promotion. Alongside the official machinery, a great deal of enforcement is really pressure: non-governmental organizations, journalists, and other governments document abuses and expose them publicly — \u0026quot;naming and shaming\u0026quot; — raising the diplomatic, economic, and reputational costs of mistreating people. The honest assessment is that this system is partial and uneven: sovereignty and power politics let determined abusers escape real consequences. Yet it is far from powerless. Over time, the existence of agreed standards, monitoring, and pressure shapes what states feel able to do, turns rights into expectations, and gives victims and advocates a recognized language and forum in which to make their case.\u003c/p\u003e",
+  "source": {
+    "name": "UN Human Rights Office (OHCHR)",
+    "url": "https://www.ohchr.org/en/what-are-human-rights",
+    "license": "© United Nations / OHCHR (public information)"
+  },
+  "topic_ids": [
+    "human-rights"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ac077c",
+      "slug": "what-are-human-rights",
+      "type": "concept",
+      "title": "What Human Rights Are",
+      "hook": "Human rights are the radical claim that every person — regardless of country, status, or who's in charge — holds certain basic rights simply by being human.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c9b4e7",
+      "slug": "universal-declaration-of-human-rights",
+      "type": "concept",
+      "title": "The Universal Declaration of Human Rights",
+      "hook": "After a world war and the Holocaust, nations did something unprecedented: they wrote down, together, a common list of rights belonging to everyone on Earth.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ce31e0",
+      "slug": "treaties-and-international-law",
+      "type": "concept",
+      "title": "Treaties \u0026 International Law",
+      "hook": "If no world government can pass laws, how do nations bind themselves at all? Largely by agreeing to — treaties are the contracts that knit the international order together.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_c9b4e7",
+      "slug": "universal-declaration-of-human-rights",
+      "type": "concept",
+      "title": "The Universal Declaration of Human Rights",
+      "hook": "After a world war and the Holocaust, nations did something unprecedented: they wrote down, together, a common list of rights belonging to everyone on Earth.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_ae572c#0",
+      "format": "flip",
+      "prompt": "Why is enforcing human rights so difficult?",
+      "back_html": "\u003cp\u003eBecause there is \u003cstrong\u003eno world government\u003c/strong\u003e to compel a sovereign state —\nenforcement leans on pressure, exposure, and consent rather than coercion.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ae572c#1",
+      "format": "quiz",
+      "prompt": "Which mechanism helps enforce human rights internationally?",
+      "choices": [
+        {
+          "text": "Treaties, UN bodies, regional human-rights courts, and monitoring reports",
+          "correct": true
+        },
+        {
+          "text": "A single global army that invades violators",
+          "correct": false
+        },
+        {
+          "text": "Nothing — rights are never monitored",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA web of treaties, UN and regional institutions, courts, and monitors\nscrutinizes states, even without a world police force.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ae572c#2",
+      "format": "quiz",
+      "prompt": "What is 'naming and shaming' in human-rights enforcement?",
+      "choices": [
+        {
+          "text": "Publicly exposing abuses to pressure a state into changing",
+          "correct": true
+        },
+        {
+          "text": "A formal criminal trial of a head of state",
+          "correct": false
+        },
+        {
+          "text": "A type of election monitoring",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eExposure by NGOs, the press, and other states raises the reputational and\ndiplomatic cost of abuses, pressuring violators to reform.\u003c/p\u003e"
+    }
+  ]
+}

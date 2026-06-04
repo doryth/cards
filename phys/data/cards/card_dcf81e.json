@@ -1,0 +1,110 @@
+{
+  "id": "card_dcf81e",
+  "slug": "jwst-black-hole-star",
+  "type": "news",
+  "title": "A 'Black Hole Star' in the Early Universe",
+  "hook": "JWST found something from the universe's first few hundred million years that looks like a giant star but shines a hundred billion times too brightly to be one.",
+  "key_points": [
+    "The object dates from just a few hundred million years after the Big Bang and appears very red in JWST's infrared images.",
+    "Its spectrum resembles a star's, but its luminosity is around 100 billion times what a star can produce.",
+    "The proposed explanation: a black hole of roughly 100,000 solar masses wrapped in a dense cocoon of hydrogen.",
+    "The cocoon is about the size of the solar system, and it is the cocoon — not the black hole — that produces the star-like spectrum.",
+    "Such objects would offer a route to growing supermassive black holes fast enough to match the ones JWST sees early on."
+  ],
+  "content_html": "\u003cp\u003eJames Webb has turned up an object from a few hundred million years after the Big Bang\nthat does not fit either of the usual categories. Its light looks stellar — the sort\nof spectrum a giant star produces — yet it is roughly 100 billion times brighter than\nany star could be. Astronomers have nicknamed it a \u0026quot;black hole star.\u0026quot;\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe favoured explanation is that a black hole of around 100,000 solar masses sits\ninside a dense cocoon of hydrogen about the size of our solar system. The black hole\nsupplies the energy; the surrounding envelope is what actually radiates, and it does\nso with the absorption features that make the object look like an enormous star. The\ndisguise is the point — this is a black hole hiding behind stellar clothing.\u003c/p\u003e\n\u003cp\u003eIf the interpretation holds, it matters beyond one odd source. JWST has repeatedly\nfound black holes that look too massive for how early they appear, and a hidden\nmassive black hole already gorging inside a gas envelope is one way to build up to\nsupermassive scales fast enough. See ScienceDaily's report for the discovery details.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260813045538.htm",
+    "published_at": "2026-08-13",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "cosmology"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-13",
+  "related": [
+    {
+      "id": "card_326281",
+      "slug": "ancient-quasars-too-early",
+      "type": "news",
+      "title": "31 Quasars That Are Too Old to Make Sense",
+      "hook": "Astronomers found 31 quasars shining from when the universe was just 5% of its current age — powered by black holes that shouldn't have had time to grow so big yet.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_7b1e60",
+      "slug": "primordial-black-holes-little-red-dots",
+      "type": "paper",
+      "title": "Did Clusters of Primordial Black Holes Seed JWST's Puzzling 'Little Red Dots'?",
+      "hook": "JWST found overweight black holes far too early in the universe for standard theories to explain. One proposal: they were seeded by swarms of black holes born moments after the Big Bang.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a212b1",
+      "slug": "webb-new-universe-puzzle",
+      "type": "news",
+      "title": "Why Does Webb Keep Finding Things That Shouldn't Exist?",
+      "hook": "JWST keeps spotting early black holes and galaxies that are too big, too bright, or too early to fit standard models — and cosmologists are racing to figure out which of many new theories is right.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_dcf81e#0",
+      "format": "flip",
+      "prompt": "Why can't the 'black hole star' simply be an unusually large star?",
+      "back_html": "\u003cp\u003eIts spectrum looks stellar, but it shines roughly 100 billion times more\nbrightly than a star can. No star can sustain that output — something other\nthan fusion has to be powering it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dcf81e#1",
+      "format": "quiz",
+      "prompt": "In the proposed model, what produces the object's star-like appearance?",
+      "choices": [
+        {
+          "text": "A dense hydrogen cocoon, about the size of the solar system, wrapped around a black hole",
+          "correct": true
+        },
+        {
+          "text": "A cluster of millions of ordinary stars blurred together by distance",
+          "correct": false
+        },
+        {
+          "text": "A supernova caught mid-explosion, briefly mimicking a stellar spectrum",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe black hole — around 100,000 solar masses — supplies the power, but the\nsurrounding envelope of hydrogen is what radiates, giving the object a\ndeceptively stellar spectrum.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dcf81e#2",
+      "format": "flip",
+      "prompt": "Why are objects like this interesting for the puzzle of early supermassive black holes?",
+      "back_html": "\u003cp\u003eJWST keeps finding very massive black holes very early in cosmic history. A\nmassive black hole already fed by a dense envelope offers a way to reach those\nmasses in the short time available.\u003c/p\u003e"
+    }
+  ]
+}

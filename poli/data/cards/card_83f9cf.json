@@ -1,0 +1,111 @@
+{
+  "id": "card_83f9cf",
+  "slug": "referendums-and-direct-democracy",
+  "type": "concept",
+  "title": "Referendums \u0026 Direct Democracy",
+  "hook": "Usually we elect others to decide for us. Sometimes the people decide a question themselves — that's direct democracy, and the referendum is its main modern tool.",
+  "key_points": [
+    "Direct democracy lets citizens vote on policies themselves, not just choose representatives.",
+    "A referendum puts a specific question or law directly to a public vote.",
+    "An initiative lets citizens propose a measure and force a vote by gathering enough signatures.",
+    "It boosts legitimacy on big questions but can oversimplify complex issues into yes/no choices."
+  ],
+  "content_html": "\u003cp\u003eMost modern democracies are representative: citizens elect officials who then make decisions on their behalf. Direct democracy is the alternative impulse — letting the people decide particular questions themselves. Pure direct democracy, where everyone votes on everything, is impractical at the scale of a modern state, so it survives mainly through specific tools layered on top of representative government.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe most common is the referendum: a vote that puts a single question or proposed law directly to the public, such as approving a constitutional amendment or a major treaty. A related device is the initiative, which lets citizens themselves propose a measure and compel a public vote by gathering a required number of signatures — shifting agenda-setting power from officials toward the public. Encyclopaedia Britannica notes these mechanisms vary widely in how binding and how frequent they are across countries. Their appeal is legitimacy: a decision made directly by voters carries unusual weight, and the option of a referendum can check representatives who drift from public opinion. The standard criticism is that reducing a complex, multi-sided issue to a single yes-or-no choice can oversimplify it, and that outcomes may turn on the wording of the question or the intensity of a campaign rather than careful deliberation.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/referendum-and-initiative",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_51131a",
+      "slug": "what-is-democracy",
+      "type": "concept",
+      "title": "What Democracy Means",
+      "hook": "Rule by the people: a system where political power ultimately traces back to citizens, usually through regular, free elections.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1d0cfe",
+      "slug": "amending-a-constitution",
+      "type": "concept",
+      "title": "Amending a Constitution",
+      "hook": "A constitution has to last — but not freeze. Amendment rules let it change deliberately, usually demanding more agreement than an ordinary law.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_83f9cf#0",
+      "format": "flip",
+      "prompt": "What is the difference between direct and representative democracy?",
+      "back_html": "\u003cp\u003eIn \u003cstrong\u003edirect\u003c/strong\u003e democracy citizens vote on policies themselves; in\n\u003cstrong\u003erepresentative\u003c/strong\u003e democracy they elect others to decide on their behalf.\u003c/p\u003e"
+    },
+    {
+      "id": "card_83f9cf#1",
+      "format": "quiz",
+      "prompt": "What is a 'referendum'?",
+      "choices": [
+        {
+          "text": "A public vote on a specific question or proposed law",
+          "correct": true
+        },
+        {
+          "text": "An election to choose a head of government",
+          "correct": false
+        },
+        {
+          "text": "A meeting of the legislature's committees",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA referendum puts a particular question or measure directly to voters,\nrather than leaving it to elected representatives.\u003c/p\u003e"
+    },
+    {
+      "id": "card_83f9cf#2",
+      "format": "quiz",
+      "prompt": "What does a citizens' 'initiative' allow?",
+      "choices": [
+        {
+          "text": "Citizens to propose a measure and force a vote by collecting enough signatures",
+          "correct": true
+        },
+        {
+          "text": "The government to cancel an election",
+          "correct": false
+        },
+        {
+          "text": "Judges to rewrite a statute",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn initiative lets the public, not just officials, put a proposal on the\nballot once a signature threshold is met.\u003c/p\u003e"
+    }
+  ]
+}

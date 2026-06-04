@@ -1,0 +1,91 @@
+{
+  "id": "card_e521e1",
+  "slug": "local-government",
+  "type": "concept",
+  "title": "Local Government",
+  "hook": "The layer of government you meet most often isn't the national one — it's the city or council that runs your streets, schools, and rubbish collection.",
+  "key_points": [
+    "Local government delivers close-to-home services: roads, schools, sanitation, policing, permits.",
+    "It is the tier of the state nearest to daily life and easiest for citizens to influence.",
+    "Its powers can be granted by a higher level (and revoked) or constitutionally protected.",
+    "Local autonomy lets policy fit local needs; critics warn it can deepen inequality between areas."
+  ],
+  "content_html": "\u003cp\u003eLocal government is the tier of the state closest to everyday life. While national governments handle defense, currency, and broad law, it is usually a city, county, or council that paves the roads, runs the schools, collects the rubbish, issues building permits, and provides local policing and parks. Because it is small and near, it is also the level citizens can most easily reach — attending a council meeting is far more practical than lobbying the national parliament.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHow much power local government holds depends on the wider structure. In many unitary states, local bodies exercise authority delegated from the center, which can expand, reshape, or withdraw it. In federal systems, by contrast, local government often sits under regional states or provinces, and some powers may be constitutionally protected. Encyclopaedia Britannica notes that the case for local autonomy is that decisions fit local conditions and let citizens hold nearby officials directly accountable; the standing worry is that areas with weaker tax bases may deliver thinner services, so genuine local control can widen gaps between richer and poorer communities unless higher levels redistribute resources.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/local-government",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "federalism-levels"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_07c9e3",
+      "slug": "what-is-federalism",
+      "type": "concept",
+      "title": "What Federalism Is",
+      "hook": "Some countries split authority between a national government and regional ones, each with powers the other can't simply override.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_97746d",
+      "slug": "unitary-vs-federal",
+      "type": "concept",
+      "title": "Unitary vs Federal Systems",
+      "hook": "Where does the final say live — with one national government, or shared with regions? That choice shapes how a country is run.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7c285e",
+      "slug": "devolution-and-confederation",
+      "type": "concept",
+      "title": "Devolution \u0026 Confederation",
+      "hook": "Between a single central government and a loose alliance of states lies a spectrum — and where power sits on it shapes who can really decide.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e521e1#0",
+      "format": "flip",
+      "prompt": "What kinds of things does local government typically handle?",
+      "back_html": "\u003cp\u003eClose-to-home services — \u003cstrong\u003eroads, schools, sanitation, local policing,\npermits\u003c/strong\u003e — the parts of the state nearest to daily life.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e521e1#1",
+      "format": "quiz",
+      "prompt": "What is one trade-off of strong local autonomy?",
+      "choices": [
+        {
+          "text": "Policy can fit local needs, but services may differ widely between areas",
+          "correct": true
+        },
+        {
+          "text": "It guarantees every area receives identical funding",
+          "correct": false
+        },
+        {
+          "text": "It removes the need for any national government",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTailoring to local needs is a strength, but uneven local resources can\nwiden inequality between richer and poorer areas.\u003c/p\u003e"
+    }
+  ]
+}

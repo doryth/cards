@@ -1,0 +1,119 @@
+{
+  "id": "card_6980cd",
+  "slug": "endosymbiosis",
+  "type": "concept",
+  "title": "Endosymbiosis",
+  "hook": "Your cells run on power plants that were once free-living bacteria. Billions of years ago, one cell swallowed another — and never let go.",
+  "key_points": [
+    "Endosymbiosis explains how complex cells acquired mitochondria and chloroplasts.",
+    "A host cell engulfed a bacterium that, instead of being digested, stayed and helped.",
+    "Mitochondria descend from energy-producing bacteria; chloroplasts from photosynthetic ones.",
+    "Both still have their own DNA and divide on their own — leftover signs of bacterial ancestry."
+  ],
+  "content_html": "\u003cp\u003eOne of the strangest and most important events in the history of life was a merger. The endosymbiotic theory holds that the complex cells of plants, animals, and fungi got their internal machinery by absorbing other organisms. Long ago, a larger host cell engulfed a smaller bacterium — but instead of digesting it, the host let it stay. The bacterium kept doing what it did best, generating energy, and over countless generations the two became inseparable. That captured bacterium is the ancestor of the mitochondrion, the structure that powers nearly every eukaryotic cell today.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA similar swallowing happened again with photosynthetic bacteria, giving rise to chloroplasts — which is why plants and algae can turn sunlight into food. The evidence for this ancient partnership is striking: mitochondria and chloroplasts still carry their own loop of DNA, separate from the cell's nucleus, and they reproduce by splitting in two, exactly as bacteria do. They're even wrapped in a double membrane, a relic of being engulfed. As Khan Academy describes, endosymbiosis — championed by biologist Lynn Margulis — transformed simple cells into the complex ones capable of building everything from seaweed to redwoods to you.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/a/the-endosymbiosis-theory",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "origin-of-life"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_be717b",
+      "slug": "how-life-began",
+      "type": "concept",
+      "title": "How Life Began",
+      "hook": "Before the first living thing, there was only chemistry. Abiogenesis is the idea — and active research — into how plain molecules on early Earth crossed the line into life.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_71676e",
+      "slug": "the-history-of-life",
+      "type": "concept",
+      "title": "The History of Life",
+      "hook": "Life is about 3.5 billion years old, but for most of that time it was just microbes. Animals, plants, and us are latecomers crowded into the most recent slice of deep time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d56522",
+      "slug": "prokaryote-vs-eukaryote",
+      "type": "concept",
+      "title": "Two Kinds of Cells",
+      "hook": "All cells fall into two camps: simple prokaryotes with no nucleus, and complex eukaryotes that pack their DNA into a sealed control room.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ad51fc",
+      "slug": "symbiosis",
+      "type": "concept",
+      "title": "Symbiosis",
+      "hook": "Living things rarely go it alone. From gut microbes to coral reefs, species often share their lives — sometimes helping, sometimes harming, their partners.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6980cd#0",
+      "format": "flip",
+      "prompt": "What does the theory of endosymbiosis explain?",
+      "back_html": "\u003cp\u003eHow complex (eukaryotic) cells got their \u003cstrong\u003emitochondria and chloroplasts\u003c/strong\u003e: a host cell\nengulfed a free-living bacterium that survived inside and became a permanent partner.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6980cd#1",
+      "format": "quiz",
+      "prompt": "What is the best evidence that mitochondria descend from free-living bacteria?",
+      "choices": [
+        {
+          "text": "They have their own DNA and divide on their own inside the cell",
+          "correct": true
+        },
+        {
+          "text": "They are larger than the cell that contains them",
+          "correct": false
+        },
+        {
+          "text": "They can leave the cell and live independently today",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMitochondria and chloroplasts carry their own circular DNA and reproduce by splitting,\njust as bacteria do — strong clues to their independent origin.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6980cd#2",
+      "format": "quiz",
+      "prompt": "From what kind of bacteria did chloroplasts most likely originate?",
+      "choices": [
+        {
+          "text": "Photosynthetic bacteria that captured energy from sunlight",
+          "correct": true
+        },
+        {
+          "text": "Disease-causing bacteria that infected the host",
+          "correct": false
+        },
+        {
+          "text": "Bacteria that lived only in boiling water",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eChloroplasts trace back to engulfed photosynthetic (cyanobacteria-like) microbes,\nwhich is why plant and algae cells can harvest sunlight.\u003c/p\u003e"
+    }
+  ]
+}

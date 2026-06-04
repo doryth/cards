@@ -1,0 +1,119 @@
+{
+  "id": "card_6cb7ea",
+  "slug": "shieldfont-scraper-poison",
+  "type": "news",
+  "title": "A Font That Reads Fine to You and Gibberish to a Scraper",
+  "hook": "ShieldFont scrambles the underlying characters of a web page while rendering the words normally — so humans read the article and AI crawlers harvest nonsense.",
+  "key_points": [
+    "ShieldFont is a typeface designed to poison AI training data scraped from web pages.",
+    "The glyphs a reader sees don't match the character codes a crawler copies.",
+    "Pages stay readable for people; the scraped text comes out as garbage.",
+    "It's part of a wider shift from asking crawlers not to scrape to making scraping useless.",
+    "Trade-offs are real: text encoded this way resists copy-paste, search, and screen readers."
+  ],
+  "content_html": "\u003cp\u003eWebsite owners who don't want their words feeding AI models have mostly had two options: ask crawlers politely to stay away, or sue. ShieldFont, covered by Ars Technica, tries a third: make the harvest worthless. The typeface renders text that looks perfectly normal to a reader while the characters actually stored in the page are scrambled, so an automated crawler copying the text away ends up with gibberish.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is data poisoning applied to typography, and it's a neat illustration of why the scraping fight is shifting. Signals like \u003ccode\u003erobots.txt\u003c/code\u003e only work if the crawler chooses to obey them; poisoning doesn't ask permission, it just lowers the value of what gets taken.\u003c/p\u003e\n\u003cp\u003eThe catch is that scrapers aren't the only software that reads the real characters. Screen readers, browser search, copy-paste, translation tools, and search-engine indexing all depend on the text underneath matching the text on screen. Break that link and you break accessibility and discoverability along with the crawlers — which is why approaches like this tend to stay a targeted tactic rather than a default for the whole web.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Kyle Orland"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers",
+    "published_at": "2026-08-12",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "training",
+    "dataset"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_6c6e41",
+      "slug": "where-ai-learns-from",
+      "type": "concept",
+      "title": "Where AI Learns From",
+      "hook": "An AI is a mirror of its training data — and most big models learned from a giant scrape of the public internet. That explains both their broad knowledge and their inherited flaws.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_78574d",
+      "slug": "web-scraper-court-win",
+      "type": "news",
+      "title": "A Web Scraper Beat Google and Reddit in Court",
+      "hook": "\"Google and Reddit do not own the Internet,\" the winner said — after a court rejected their attempt to use copyright takedown law to stop a company from collecting public web pages.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "card_18c21b",
+      "slug": "suno-scraped-streaming-platforms",
+      "type": "news",
+      "title": "A Hack Exposed What an AI Music Generator Trained On",
+      "hook": "Suno never said what music trained its AI. A hacking incident did the talking instead, reportedly exposing millions of songs and lyrics scraped from YouTube, Genius, and Deezer.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-15"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6cb7ea#0",
+      "format": "flip",
+      "prompt": "How does ShieldFont make a page unreadable to AI scrapers but fine for people?",
+      "back_html": "\u003cp\u003eThe characters stored in the page don't match the shapes the font draws. A\nreader sees normal words; a crawler copying the underlying text gets nonsense.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6cb7ea#1",
+      "format": "quiz",
+      "prompt": "What broader strategy does ShieldFont represent?",
+      "choices": [
+        {
+          "text": "Data poisoning — making scraped content worthless rather than merely asking crawlers to stay out",
+          "correct": true
+        },
+        {
+          "text": "Suing every company that trains on web data",
+          "correct": false
+        },
+        {
+          "text": "Encrypting websites so only paying readers can load them",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePoliteness signals like robots.txt rely on crawlers cooperating. Poisoning\nchanges the economics by degrading the value of whatever gets taken.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6cb7ea#2",
+      "format": "quiz",
+      "prompt": "What's a real cost of publishing text this way?",
+      "choices": [
+        {
+          "text": "Anything depending on the true characters — copy-paste, search, screen readers — breaks too",
+          "correct": true
+        },
+        {
+          "text": "The page loads images at lower quality",
+          "correct": false
+        },
+        {
+          "text": "Visitors have to install the font themselves",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA scraper and a screen reader both read the underlying characters. Scrambling\nthem hurts assistive tech and search along with the crawlers.\u003c/p\u003e"
+    }
+  ]
+}

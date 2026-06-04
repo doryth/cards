@@ -1,0 +1,104 @@
+{
+  "id": "card_3b2793",
+  "slug": "chatgpt-computer-history",
+  "type": "news",
+  "title": "ChatGPT Can Now Watch How You Use Your Mac",
+  "hook": "A new ChatGPT feature called Computer History records your clicks and keystrokes to learn how you work — then suggests automations and picks up tasks you abandoned.",
+  "key_points": [
+    "The Verge reports ChatGPT's macOS app can log your on-screen activity into a timeline.",
+    "That timeline becomes context ChatGPT and Codex can reference when you ask for something.",
+    "The pitch: it learns your workflow, suggests automations, and resumes half-done tasks.",
+    "The cost: clicks and keystrokes are among the most revealing data you produce.",
+    "Assistants that watch your whole screen need a deliberate yes, not a default on."
+  ],
+  "content_html": "\u003cp\u003eOpenAI has added a feature to ChatGPT's macOS app called Computer History. The Verge reports it records what you do on your computer — clicks and keystrokes — and turns that stream into a timeline the assistant can refer back to, so it can learn how you work, propose automations, and even resume tasks you left half finished.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt's a genuine capability leap: an assistant that has seen your workflow can help in ways one that only reads your prompts cannot. It's also a different category of data. A chat log contains what you decided to share; an activity timeline contains everything else — the client names in a spreadsheet, the password manager you opened, the message you typed and deleted. Neither the usefulness nor the risk is hypothetical, which is exactly why this is a decision to make on purpose. If the automations don't solve a problem you actually have, leaving it off costs you nothing.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O'Brien"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "published_at": "2026-08-16",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-17",
+  "date": "2026-08-16",
+  "related": [
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e8725c",
+      "slug": "chatgpt-work-atlas-shutdown",
+      "type": "news",
+      "title": "OpenAI Kills Its AI Browser, Bets on an Agent That Works For You",
+      "hook": "Less than a year after launching an AI browser, OpenAI is shutting it down — and replacing the ambition behind it with 'ChatGPT Work,' an agent built to run independent tasks for hours at a time.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_ba06cb",
+      "slug": "apple-private-cloud-ai",
+      "type": "news",
+      "title": "Can Cloud AI Be Private? Apple's Bet",
+      "hook": "Apple's pitch for its AI is privacy: small models run on your device, and bigger ones run in the cloud — even on Google's servers — in a way Apple says gives the host no access to your data.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3b2793#0",
+      "format": "flip",
+      "prompt": "What does ChatGPT's Computer History feature actually collect?",
+      "back_html": "\u003cp\u003eYour activity on the Mac — clicks and keystrokes — assembled into a timeline\nthat ChatGPT and Codex can consult when you make a request.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3b2793#1",
+      "format": "quiz",
+      "prompt": "Why is a keystroke-and-click timeline a bigger privacy question than a chat log?",
+      "choices": [
+        {
+          "text": "It captures everything you do on the machine, not just what you chose to type into the assistant",
+          "correct": true
+        },
+        {
+          "text": "It is stored forever while chat logs are deleted instantly",
+          "correct": false
+        },
+        {
+          "text": "It is the only AI feature that sends data over the internet",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA chat log holds what you deliberately shared. An activity timeline holds\nwork you never intended to hand to an assistant at all.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3b2793#2",
+      "format": "flip",
+      "prompt": "What's the sensible default for a feature like this?",
+      "back_html": "\u003cp\u003eLeave it off unless the payoff is concrete for you. Broad screen-watching\naccess deserves a deliberate decision, not a shrug at a setup prompt.\u003c/p\u003e"
+    }
+  ]
+}

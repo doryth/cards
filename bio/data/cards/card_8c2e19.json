@@ -1,0 +1,101 @@
+{
+  "id": "card_8c2e19",
+  "slug": "carnivorous-plants",
+  "type": "concept",
+  "title": "Carnivorous Plants",
+  "hook": "A handful of plants turn the food chain upside down: instead of being eaten, they trap and digest animals to mine nutrients their soil can't provide.",
+  "key_points": [
+    "Carnivorous plants trap and digest small animals, mostly insects, for nutrients.",
+    "They evolved in poor soils where nitrogen and phosphorus are scarce.",
+    "Traps come in several styles — snapping leaves, sticky hairs, and slippery pitfalls.",
+    "They still photosynthesize for energy; prey supplies minerals, not calories."
+  ],
+  "content_html": "\u003cp\u003eMost plants sit at the bottom of the food chain, but a few have flipped the script. Carnivorous plants lure, trap, and digest small animals — usually insects — to harvest nutrients. They didn't give up sunlight: like all plants they photosynthesize for energy. What they're after is minerals such as nitrogen and phosphorus, because they evolved in bogs and other soils too poor to supply enough. The Venus flytrap, with its hinged leaves that snap shut on a visitor, is the most famous of them.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eCarnivorous plants have evolved several ingenious traps, and the same solution appeared independently in many plant lineages. Some, like the flytrap, use rapid snapping leaves triggered by touch-sensitive hairs. Sundews coat their leaves in glistening, glue-tipped tentacles that mire and then curl around prey. Pitcher plants take a passive approach: their leaves form deep, slippery vessels filled with digestive fluid that insects tumble into and cannot escape. Encyclopaedia Britannica notes that once prey is caught, the plant releases enzymes (or relies on resident bacteria) to break the body down and absorb its nutrients — a striking adaptation that lets these plants flourish exactly where richer soil-feeders would starve.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/plant/carnivorous-plant",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "plants"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aa2c1d",
+      "slug": "how-plants-are-built",
+      "type": "concept",
+      "title": "How a Plant Is Built",
+      "hook": "Most plants are made of three working parts — roots that drink, stems that lift, and leaves that catch sunlight — and together they turn dirt and light into a living thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_140092",
+      "slug": "why-plants-run-the-planet",
+      "type": "concept",
+      "title": "Why Plants Run the Planet",
+      "hook": "Nearly every breath you take and every meal you eat traces back to plants — they make the oxygen, anchor the food chain, and lock away carbon for the whole biosphere.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8c2e19#0",
+      "format": "flip",
+      "prompt": "Why do carnivorous plants trap and digest animals?",
+      "back_html": "\u003cp\u003eTo get \u003cstrong\u003enutrients\u003c/strong\u003e — especially nitrogen and phosphorus — that are scarce in the poor,\nboggy soils where they grow. They still photosynthesize for their energy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8c2e19#1",
+      "format": "quiz",
+      "prompt": "What does a Venus flytrap actually gain from the insects it catches?",
+      "choices": [
+        {
+          "text": "Minerals like nitrogen that its poor soil lacks",
+          "correct": true
+        },
+        {
+          "text": "The energy it needs to live, since it can't photosynthesize",
+          "correct": false
+        },
+        {
+          "text": "Water, which it cannot absorb through its roots",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCarnivorous plants still make their own food by photosynthesis. Prey provides scarce\nmineral nutrients, not calories — which is why they thrive where the soil is nutrient-poor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8c2e19#2",
+      "format": "quiz",
+      "prompt": "Which of these is a real carnivorous-plant trapping strategy?",
+      "choices": [
+        {
+          "text": "A slippery pitcher that animals fall into and can't climb out of",
+          "correct": true
+        },
+        {
+          "text": "Roots that chase and grab prey underground",
+          "correct": false
+        },
+        {
+          "text": "Seeds that explode to stun nearby insects",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePitcher plants use slippery, fluid-filled pitfalls. Others use snapping leaves (Venus\nflytrap) or sticky, glue-tipped hairs (sundews) to capture prey.\u003c/p\u003e"
+    }
+  ]
+}

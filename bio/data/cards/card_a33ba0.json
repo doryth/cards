@@ -1,0 +1,111 @@
+{
+  "id": "card_a33ba0",
+  "slug": "bacterial-docking-domains-cancer-drugs",
+  "type": "news",
+  "title": "Bacteria Have a Natural 'Mix and Match' Trick for Making Cancer Drugs",
+  "hook": "A soil bacterium naturally makes several related anti-cancer drugs, using molecular 'docking domains' that work like an assembly line with swappable parts.",
+  "key_points": [
+    "The bacterium Pseudomonas chlororaphis subsp. piscium naturally produces multiple related anti-cancer compounds, including romidepsin (Istodax), an approved cancer drug.",
+    "Small molecular regions called 'docking domains' act as connectors between different enzyme modules, letting the bacterium reliably assemble several related drug variants.",
+    "The underlying system is a hybrid PKS-NRPS assembly line: enzyme complexes that recognize and pass along partially built molecules, module by module.",
+    "Understanding this natural 'mix and match' strategy lets researchers design synthetic pathways for new drug candidates with better potency, selectivity, or fewer side effects."
+  ],
+  "content_html": "\u003cp\u003eSome of the most effective cancer drugs started life as natural products made by bacteria and fungi. This study explains how one soil bacterium, Pseudomonas chlororaphis subsp. piscium, manages to make not just one but several related anti-cancer compounds — including the approved drug romidepsin — using a strikingly reusable molecular trick.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe bacterium builds these compounds on a hybrid assembly line of enzyme complexes, known as PKS-NRPS systems, where each module builds part of the molecule and hands it to the next. The key to making several related drug variants reliably, rather than one at a time by chance, is small molecular \u0026quot;docking domains\u0026quot; — connector regions that make sure the right modules link up in the right order. Understanding that natural mix-and-match logic gives researchers a template: instead of discovering new cancer compounds by luck, they can reverse-engineer the bacterium's own assembly-line strategy to design synthetic pathways aimed at better potency, better selectivity, or fewer side effects than the treatments already in use.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260701205001.htm",
+    "published_at": "2026-07-08",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "biotechnology",
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-08",
+  "related": [
+    {
+      "id": "card_ba0985",
+      "slug": "what-is-biotechnology",
+      "type": "concept",
+      "title": "What Is Biotechnology?",
+      "hook": "From cheese and beer to insulin and vaccines, biotechnology puts living things — or their molecular parts — to work making products we need.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_70a274",
+      "slug": "rye-pollen-secalosides-cancer",
+      "type": "news",
+      "title": "A 30-Year Molecular Mystery, Solved by Building the Molecule From Scratch",
+      "hook": "Two rye pollen molecules showed promise against tumors decades ago, but no one could pin down their exact 3D shape — until chemists built them atom by atom in the lab.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a33ba0#0",
+      "format": "flip",
+      "prompt": "What natural trick lets this bacterium make several related anti-cancer drugs?",
+      "back_html": "\u003cp\u003eIt uses molecular \u003cstrong\u003e'docking domains'\u003c/strong\u003e — connector regions between enzyme\nmodules — that let it reliably mix and match parts to assemble multiple\nrelated drug compounds, including the approved drug romidepsin.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a33ba0#1",
+      "format": "quiz",
+      "prompt": "What kind of biological system builds these compounds inside the bacterium?",
+      "choices": [
+        {
+          "text": "A hybrid PKS-NRPS assembly line of enzyme complexes that pass along partially built molecules",
+          "correct": true
+        },
+        {
+          "text": "The bacterium's ribosomes translating the compounds directly from RNA",
+          "correct": false
+        },
+        {
+          "text": "A single all-purpose enzyme that builds each compound from scratch every time",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePKS-NRPS (polyketide synthase–nonribosomal peptide synthetase) systems work\nlike a molecular assembly line, with docking domains ensuring each module hands\noff its product to the next correctly.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a33ba0#2",
+      "format": "quiz",
+      "prompt": "Why does understanding this natural assembly-line matter for drug development?",
+      "choices": [
+        {
+          "text": "It lets researchers design synthetic versions of the pathway to create new drug candidates with better properties",
+          "correct": true
+        },
+        {
+          "text": "It proves the bacterium itself can be used as a drug with no further engineering",
+          "correct": false
+        },
+        {
+          "text": "It shows that natural cancer drugs can no longer be improved upon",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBy reverse-engineering the docking-domain 'mix and match' logic, scientists can\nbuild new synthetic pathways aimed at improved potency, selectivity, or fewer\nside effects than existing treatments.\u003c/p\u003e"
+    }
+  ]
+}

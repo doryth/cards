@@ -1,0 +1,133 @@
+{
+  "id": "card_225232",
+  "slug": "a-grown-up-galaxy-in-the-young-universe",
+  "type": "paper",
+  "title": "A Calm, Dusty Disc 700 Million Years After the Big Bang",
+  "hook": "REBELS-25 should be a chaotic infant. Instead, ALMA and JWST find an orderly rotating disc, already dusty and chemically enriched, in a universe barely 5% of its current age.",
+  "key_points": [
+    "REBELS-25 sits at redshift 7.31, in the reionisation era, and is one of the most mature galaxies known that early.",
+    "New high-resolution ALMA [O III] 88 micron data plus [C II], dust continuum, and JWST/NIRSpec spectroscopy give a sub-kiloparsec view.",
+    "Ultraviolet and optical light looks clumpy and irregular, but the far-infrared emission follows smooth, near-exponential disc profiles.",
+    "That mismatch is dust: roughly 55-98% of the star formation across the galaxy is obscured, so the UV view is misleading.",
+    "Both the warm ionised gas and the colder neutral gas share one large-scale rotating structure.",
+    "The disc is dynamically cold - ordered motion beats random motion by factors of about 11 and 4.5 for the two tracers - though not perfectly circular."
+  ],
+  "content_html": "\u003cp\u003eFor most of the universe's first billion years, galaxies are supposed to be a mess — clumpy, turbulent, violently assembling. REBELS-25, seen at redshift 7.31 when the cosmos was about 700 million years old, keeps refusing to behave that way. Rowland and colleagues now deliver the sharpest look yet, and it looks less like an infant than an adolescent.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe study combines new high-resolution ALMA observations of the [O III] 88 micron line with resolution-matched [C II], dust continuum, and JWST/NIRSpec integral-field spectroscopy, resolving structures below a kiloparsec. The first surprise is a mismatch between wavelengths: the rest-frame ultraviolet and optical emission appears clumpy and irregular, while the far-infrared emission is well described by smooth, near-exponential disc profiles, with [C II] the most extended tracer. Comparing the two, the authors find that obscured star formation accounts for roughly 55–98% of the total across the galaxy. The clumpy UV picture is largely an artefact of where the dust happens to be thin.\u003c/p\u003e\n\u003cp\u003eKinematically, both the warm ionised gas traced by [O III] and the colder neutral gas traced by [C II] turn out to share the same large-scale rotating structure, and both are dynamically cold — ratios of ordered to random motion of about 11 and 4.5 respectively — though the authors do see non-circular motions that a simple rotating disc does not capture. Resolved ionisation diagnostics show little variation across the source, suggesting broadly similar conditions throughout. Together it reinforces a picture of a dusty, chemically enriched, settled interstellar medium already in place in the reionisation era.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Lucie E. Rowland",
+      "Hiddo S. B. Algera",
+      "Jacqueline Hodge",
+      "Renske Smit",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2608.25982",
+    "published_at": "2026-08-26",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_96372e",
+      "slug": "azahar-project-early-bright-galaxies",
+      "type": "paper",
+      "title": "The Azahar Project: Non-Thermal Physics Drives Star Formation Burstiness and the Evolution of the UV Luminosity Density at Cosmic Dawn",
+      "hook": "JWST keeps finding early galaxies too bright and fast-growing for standard simulations — a new suite finally reproduces them, and the fix is radiation pressure and cosmic rays, not supernovae.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_07b52b",
+      "slug": "jwst-hidden-faint-stars-early-galaxies",
+      "type": "news",
+      "title": "Early Galaxies May Be Hiding Most of Their Mass in Faint Stars",
+      "hook": "JWST finds far more small, dim stars in massive early galaxies than expected — enough to make some of them three to four times heavier than we thought, and even harder to explain.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-22"
+    },
+    {
+      "id": "card_326281",
+      "slug": "ancient-quasars-too-early",
+      "type": "news",
+      "title": "31 Quasars That Are Too Old to Make Sense",
+      "hook": "Astronomers found 31 quasars shining from when the universe was just 5% of its current age — powered by black holes that shouldn't have had time to grow so big yet.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_c2d6a0",
+      "slug": "little-red-dots-tip-of-the-iceberg",
+      "type": "news",
+      "title": "Webb's Little Red Dots May Just Be Galaxies We Can't Resolve",
+      "hook": "Take a nearby spiral galaxy, pretend it's much farther away, and its arms vanish — leaving a lone red dot. That simple test suggests Webb's strangest objects may be ordinary galaxies in disguise.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-17"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_225232#0",
+      "format": "quiz",
+      "prompt": "Why does REBELS-25 look clumpy in the ultraviolet but smooth in the far infrared?",
+      "choices": [
+        {
+          "text": "Dust hides most of the star formation, so the UV shows only the patches that happen to peek through",
+          "correct": true
+        },
+        {
+          "text": "The far-infrared image has much lower resolution, washing out real clumps",
+          "correct": false
+        },
+        {
+          "text": "The galaxy physically changed shape between the two observations",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBetween roughly 55% and 98% of the star formation is obscured. The UV traces where dust\nis thin, not where stars are actually forming.\u003c/p\u003e"
+    },
+    {
+      "id": "card_225232#1",
+      "format": "flip",
+      "prompt": "What does it mean for a galaxy disc to be 'dynamically cold'?",
+      "back_html": "\u003cp\u003eIts gas is dominated by \u003cstrong\u003eordered rotation\u003c/strong\u003e rather than random turbulent motion — a high\nratio of rotation velocity to velocity dispersion, the signature of a settled disc.\u003c/p\u003e"
+    },
+    {
+      "id": "card_225232#2",
+      "format": "quiz",
+      "prompt": "Why is a settled rotating disc surprising at redshift 7.31?",
+      "choices": [
+        {
+          "text": "That early, galaxies were expected to still be turbulent and disordered from rapid assembly",
+          "correct": true
+        },
+        {
+          "text": "Discs cannot form without a supermassive black hole, which had no time to grow",
+          "correct": false
+        },
+        {
+          "text": "Rotation is impossible before the universe stops expanding",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFinding a dusty, chemically enriched, dynamically cold disc already in place in the\nreionisation era compresses the timeline for how quickly galaxies settle.\u003c/p\u003e"
+    }
+  ]
+}

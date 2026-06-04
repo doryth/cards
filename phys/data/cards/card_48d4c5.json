@@ -1,0 +1,110 @@
+{
+  "id": "card_48d4c5",
+  "slug": "quantum-computers-neutron-star-matter",
+  "type": "paper",
+  "title": "Why Neutron Star Interiors May Need a Quantum Computer",
+  "hook": "Nobody can calculate what matter does at neutron-star densities, because the standard trick for solving QCD breaks down there. Quantum computers may be the way around it.",
+  "key_points": [
+    "A neutron star's mass, radius, and tidal deformability all follow from its equation of state — how pressure responds to density inside.",
+    "Deriving that from first-principles QCD fails because lattice gauge theory hits the notorious \"sign problem\" at finite chemical potential (that is, at high density).",
+    "Quantum computers don't suffer the sign problem, so the authors set out concrete targets a future machine would need to hit.",
+    "They develop the canonical QCD Hamiltonian in Weyl gauge using normal modes, plus a squared Gauss operator to keep energy minimisation inside physically allowed states.",
+    "They demonstrate the encoding for three or four particles with a few momentum modes — simulated on a classical cluster, not run on quantum hardware.",
+    "The goal is microscopic predictions arriving alongside next-generation gravitational-wave detectors like the Einstein Telescope."
+  ],
+  "content_html": "\u003cp\u003eA neutron star squeezes more than a Sun's worth of matter into something the size of a city, at densities no laboratory can reach. What happens to matter there — its equation of state, meaning how pressure rises with density — sets the star's mass, radius, and how much it deforms when tidally squeezed by a merging companion. Those are exactly the quantities gravitational-wave detectors measure. And nobody can compute it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe obstacle is specific and well known. Quantum chromodynamics is in principle the right theory, and lattice gauge theory is the standard way to solve it numerically, but the lattice method relies on Monte Carlo sampling that breaks down at finite chemical potential — the sign problem — which is precisely the dense regime a neutron star lives in. Quantum computers are not vulnerable to it, which is the opening this paper pursues. Castaño-García and colleagues set out what a future machine would actually have to accomplish, then build the theoretical apparatus: the canonical QCD Hamiltonian in Weyl (time-axial) gauge expressed in normal modes, together with a squared Gauss operator that constrains energy-minimisation algorithms to the physically legitimate part of Fock space. To show the encoding works, they run QCD at finite chemical potential for three or four particles with a handful of momentum modes — on a classical cluster simulating a quantum computer, which is the honest scale of the demonstration. The ambition is timing: useful quantum machines arriving while the Einstein Telescope and its peers are measuring neutron-star mergers, so theory and observation can finally be compared on the same quantity.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Adrián Castaño-García",
+      "Nahia J. Dios-Bilbao",
+      "J. J. Gálvez-Viruet",
+      "Felipe J. Llanes-Estrada",
+      "Marío Logrosán-Álvarez",
+      "Nicolás M. Arenaza",
+      "María Gómez-Rocha"
+    ],
+    "url": "https://arxiv.org/abs/2608.06515",
+    "published_at": "2026-08-06",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-10",
+  "date": "2026-08-06",
+  "related": [
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_13b1bf",
+      "slug": "the-force-on-a-quark",
+      "type": "paper",
+      "title": "Measuring the force that traps a quark inside the proton",
+      "hook": "Nobody has ever seen a free quark. A sharpened reconstruction of the actual force tugging on one inside the proton comes out looking like a string pulled at constant tension.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_48d4c5#0",
+      "format": "flip",
+      "prompt": "What is a neutron star's equation of state, and why do astronomers want it?",
+      "back_html": "\u003cp\u003eThe relation between pressure and density inside the star. It determines\nobservable properties — \u003cstrong\u003emass, radius, and tidal deformability\u003c/strong\u003e — so it links\nnuclear physics to gravitational-wave measurements.\u003c/p\u003e"
+    },
+    {
+      "id": "card_48d4c5#1",
+      "format": "quiz",
+      "prompt": "Why can't lattice QCD simply compute dense nuclear matter?",
+      "choices": [
+        {
+          "text": "At finite chemical potential it runs into the sign problem, which breaks the usual numerical method",
+          "correct": true
+        },
+        {
+          "text": "QCD does not apply to neutrons, only to protons",
+          "correct": false
+        },
+        {
+          "text": "The equations have been proven to have no solution",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLattice gauge theory's Monte Carlo approach fails at finite chemical potential —\nthe high-density regime — because of the sign problem. Quantum computers don't\nshare that limitation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_48d4c5#2",
+      "format": "flip",
+      "prompt": "How far along is this work — has it run on a quantum computer?",
+      "back_html": "\u003cp\u003eNot yet. The authors build the theoretical machinery and demonstrate their\nencoding for \u003cstrong\u003ethree or four particles\u003c/strong\u003e with a few momentum modes, simulating the\nquantum computer on a classical cluster.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "card_7b3956",
+  "slug": "supernova-kilohertz-gravitational-waves",
+  "type": "paper",
+  "title": "A Dying Star's Gravitational-Wave Whistle",
+  "hook": "A newborn neutron star rings like a bell, and its pitch climbs into the kilohertz as it shrinks. Catch that rising note and you hear the star's insides — or its death.",
+  "key_points": [
+    "A proto-neutron star emits quasi-continuous gravitational waves by ringing in its own oscillation modes.",
+    "Simulations show g- and f-modes dominate, sweeping from hundreds of hertz up to kilohertz.",
+    "The pitch rises as the proto-neutron star grows more compact after core bounce.",
+    "That frequency track is a direct tracer of the star's internal structure.",
+    "If a black hole forms, the strong kilohertz signal abruptly cuts off as the core crosses the horizon.",
+    "A first-order QCD phase transition would add a millisecond burst above about 2 kHz."
+  ],
+  "content_html": "\u003cp\u003eWhen a massive star's core collapses, it leaves behind a proto-neutron star — an object more massive than the Sun packed into a city, and violently unsettled. It rings. Kei Kotake and Takami Kuroda review what state-of-the-art supernova simulations now predict about that ringing, and the picture is remarkably specific: the star's own oscillation modes, mainly the g- and f-modes, dominate its gravitational-wave output, and their frequency climbs from a few hundred hertz into the kilohertz range as the young star contracts and becomes more compact.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat rising note is the point. Because the pitch tracks the star's compactness, following the frequency over time would read out the internal structure of an object no telescope can see inside — plus the churning dynamics of the explosion around it. The authors then survey the more dramatic possibilities that fully general-relativistic simulations have turned up. In very massive progenitors, relentless accretion squeezes the proto-neutron star into early black-hole formation, and the strong kilohertz emission simply stops when the core crosses the horizon. A strong first-order quantum chromodynamics phase transition — matter converting to free quarks — would trigger a secondary collapse and rebound of the newborn quark core, radiating a millisecond burst above roughly 2 kHz. And alternative gravity theories such as scalar-tensor models predict spontaneous scalarization, driving multiple collapses and broadband high-frequency signals. Each of these is, as the authors argue, a potential smoking gun for new physics — waiting on next-generation detectors sensitive enough at kilohertz frequencies.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Kei Kotake",
+      "Takami Kuroda"
+    ],
+    "url": "https://arxiv.org/abs/2607.20921",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_230f1d",
+      "slug": "magnetar-birth-caught-chirping",
+      "type": "news",
+      "title": "Astronomers Caught a Magnetar Being Born",
+      "hook": "A supernova's light curve started 'chirping' — bumps in brightness arriving closer and closer together — the birth cry of one of the universe's most extreme objects: a magnetar.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_7b3956#0",
+      "format": "quiz",
+      "prompt": "Why does a proto-neutron star's gravitational-wave frequency rise over time?",
+      "choices": [
+        {
+          "text": "It becomes more compact after core bounce, raising the pitch of its oscillation modes",
+          "correct": true
+        },
+        {
+          "text": "It spins down, which shifts the emission upward",
+          "correct": false
+        },
+        {
+          "text": "The surrounding ejecta gradually clears, unblocking higher frequencies",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAs the proto-neutron star contracts and its compactness grows, its characteristic g- and f-mode\nfrequencies climb from a few hundred hertz into the kilohertz range.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7b3956#1",
+      "format": "flip",
+      "prompt": "What would a sudden end to strong kilohertz emission signal?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eBlack-hole formation.\u003c/strong\u003e In very massive progenitors, continued accretion drives rapid\ncontraction until the proto-neutron star core is swallowed by the horizon — and the signal stops.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7b3956#2",
+      "format": "quiz",
+      "prompt": "How might a QCD phase transition inside a collapsing star reveal itself?",
+      "choices": [
+        {
+          "text": "As a powerful millisecond burst above roughly 2 kHz from a secondary collapse and rebound",
+          "correct": true
+        },
+        {
+          "text": "As a permanent drop in gravitational-wave frequency to below 10 Hz",
+          "correct": false
+        },
+        {
+          "text": "As a delay of several years before any signal appears",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA strong first-order transition would trigger a secondary collapse and rebound of the nascent\nquark core, producing a short, powerful high-frequency burst.\u003c/p\u003e"
+    }
+  ]
+}

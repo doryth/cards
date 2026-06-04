@@ -1,0 +1,105 @@
+{
+  "id": "card_7357f7",
+  "slug": "hallusquatting-botnets",
+  "type": "news",
+  "title": "Hackers Are Weaponizing AI's Habit of Making Things Up",
+  "hook": "AI coding tools sometimes invent software packages that don't exist. Hackers found they can register those fake names themselves — then wait for AI to recommend their malware to real users.",
+  "key_points": [
+    "Ars Technica reports hackers can use 9 popular AI tools to help assemble massive botnets.",
+    "The technique, dubbed 'HalluSquatting,' exploits LLMs hallucinating names of software packages that don't exist.",
+    "Attackers register those invented package names themselves, filling them with malicious code.",
+    "When an AI tool later 'recommends' that made-up package, unsuspecting users install the attacker's malware instead.",
+    "The root cause is familiar: LLMs answer confidently even when they don't actually know — they rarely say 'I don't know.'"
+  ],
+  "content_html": "\u003cp\u003eAI coding assistants occasionally hallucinate — they'll confidently suggest installing a software package that doesn't actually exist. Ars Technica reports that hackers have turned that specific weakness into an attack: a technique researchers are calling \u0026quot;HalluSquatting,\u0026quot; which they say can be used with 9 of the most popular AI tools to help assemble massive botnets.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe mechanics are simple and unsettling. Attackers first figure out (or predict) the kinds of fake package names an AI tool is likely to hallucinate, then register those exact names themselves and fill them with malicious code. When someone later asks an AI coding tool for help and it hallucinates that same invented package as a real recommendation, the user installs the attacker's malware instead of nothing — because the fake package is now sitting there, real and waiting. The root cause is the same one behind every other hallucination story: LLMs are built to keep answering fluently, and they rarely say \u0026quot;I don't know\u0026quot; even when they should. Here, that habit doesn't just produce a wrong sentence — it opens a door for real malware, which is exactly why the same caution that applies to vibe-coded apps applies here: verify what an AI tool tells you to install, especially names you've never seen before.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Dan Goodin"
+    ],
+    "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
+    "published_at": "2026-07-08",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "hallucinations",
+    "ai-making",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-08",
+  "related": [
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dc48f5",
+      "slug": "vibe-coding-security-risks",
+      "type": "news",
+      "title": "The Hidden Risk of Vibe-Coded Apps",
+      "hook": "Anyone can now describe an app and have AI build it — but the AI can quietly leave the doors unlocked. One builder ran his live site for months before noticing a gaping security hole.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_74281d",
+      "slug": "fact-checking-ai",
+      "type": "concept",
+      "title": "How to Fact-Check AI",
+      "hook": "You can't tell a true AI answer from a made-up one by reading it — both sound equally sure. So build a habit: for anything that matters, verify it somewhere that isn't the AI.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7357f7#0",
+      "format": "quiz",
+      "prompt": "What is 'HalluSquatting'?",
+      "choices": [
+        {
+          "text": "Attackers register the fake software package names an AI hallucinates, then load them with malware",
+          "correct": true
+        },
+        {
+          "text": "A way for AI to detect and block hackers automatically",
+          "correct": false
+        },
+        {
+          "text": "A method for squatting on real, existing websites",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt exploits a specific AI weakness — invented package names — by claiming\nthose exact fake names before a user's AI tool recommends installing them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7357f7#1",
+      "format": "flip",
+      "prompt": "Why does this attack work in the first place?",
+      "back_html": "\u003cp\u003eLLMs tend to answer confidently even when they don't actually know something,\nrather than admitting uncertainty — so a made-up package name sounds just as real.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7357f7#2",
+      "format": "flip",
+      "prompt": "Who is most at risk from HalluSquatting?",
+      "back_html": "\u003cp\u003eAnyone using an AI coding assistant to suggest or install software packages —\nincluding non-programmers 'vibe coding' an app who can't easily spot a fake name.\u003c/p\u003e"
+    }
+  ]
+}

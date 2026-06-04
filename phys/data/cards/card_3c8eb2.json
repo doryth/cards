@@ -1,0 +1,110 @@
+{
+  "id": "card_3c8eb2",
+  "slug": "nuclear-magnetism-low-energy-gamma-rays",
+  "type": "news",
+  "title": "Flipping Magnets Inside the Nucleus Explain a Gamma-Ray Excess",
+  "hook": "Some nuclei emit far more low-energy gamma rays than models predict. A new experiment traced the excess to protons and neutrons flipping their tiny internal magnets.",
+  "key_points": [
+    "Certain atomic nuclei have long produced a puzzling excess of low-energy gamma rays.",
+    "An experiment traced the excess to magnetic rearrangements inside the nucleus.",
+    "Protons and neutrons carry intrinsic magnetic moments that can effectively flip.",
+    "Those flips open a decay channel that models had underestimated.",
+    "Better gamma-ray models feed into reactor physics and heavy-element formation in stars."
+  ],
+  "content_html": "\u003cp\u003eA nucleus that has too much energy sheds it as a gamma ray. How often it does that, and at what energy, is something nuclear models are supposed to predict — and for decades certain nuclei have emitted many more low-energy gamma rays than the models allowed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eScienceDaily reports that a new experiment tracked the excess to a magnetic effect inside the nucleus. Protons and neutrons each carry an intrinsic magnetic moment, and rearranging those tiny internal magnets — effectively flipping them — turns out to open a decay route that models had underweighted. The practical stakes are larger than the effect sounds: emission rates like these are inputs to reactor calculations on Earth and to astrophysical models of how heavy elements get built in stars and in neutron star mergers, so a missing channel propagates into both.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260820202849.htm",
+    "published_at": "2026-08-21",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "atomic-nuclear",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a1831a",
+      "slug": "radioactivity",
+      "type": "concept",
+      "title": "Radioactivity and Half-Life",
+      "hook": "You can't predict when a single unstable atom will decay, yet a huge sample decays on a clock so precise we use it to date rocks billions of years old.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fea6ef",
+      "slug": "nuclear-fission",
+      "type": "concept",
+      "title": "Nuclear Fission",
+      "hook": "Split one heavy nucleus and it releases neutrons that split more — a chain reaction that, tamed, lights cities, and unleashed, levels them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2b3958",
+      "slug": "ai-model-neutron-star-nucleosynthesis",
+      "type": "news",
+      "title": "An AI Shortcut for How Star Mergers Forge Heavy Elements",
+      "hook": "Simulating how neutron star collisions forge gold and other heavy elements normally needs a huge nuclear calculation at every step. A neural network now approximates it almost for free.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3c8eb2#0",
+      "format": "flip",
+      "prompt": "What mechanism did the experiment blame for the extra low-energy gamma rays?",
+      "back_html": "\u003cp\u003eMagnetic changes inside the nucleus — protons and neutrons effectively flipping\ntheir intrinsic magnetic moments, which opens a decay channel models had\nunderweighted.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3c8eb2#1",
+      "format": "quiz",
+      "prompt": "Why does an obscure nuclear decay channel matter beyond nuclear physics?",
+      "choices": [
+        {
+          "text": "Gamma-ray emission rates feed models of reactors and of heavy-element formation in stars and neutron star mergers",
+          "correct": true
+        },
+        {
+          "text": "It changes the value of the electron's charge",
+          "correct": false
+        },
+        {
+          "text": "It only matters for medical imaging",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHow readily a nucleus sheds energy as gamma rays enters both engineering models\non Earth and astrophysical calculations of where heavy elements come from.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3c8eb2#2",
+      "format": "flip",
+      "prompt": "Do protons and neutrons have magnetic properties of their own?",
+      "back_html": "\u003cp\u003eYes — each carries an intrinsic magnetic moment, like a tiny bar magnet. Their\ncollective orientation inside a nucleus is a real, changeable degree of freedom.\u003c/p\u003e"
+    }
+  ]
+}

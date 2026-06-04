@@ -1,0 +1,143 @@
+{
+  "id": "card_7534bb",
+  "slug": "why-noncitizen-voting-cases-are-hard-to-prosecute",
+  "type": "news",
+  "title": "Why Noncitizen Voting Cases Are Hard to Prosecute",
+  "hook": "A rule can be clear and the enforcement still collapse. Charging noncitizens with voting means proving they knew they were ineligible — and that is where the cases fall apart.",
+  "key_points": [
+    "Noncitizens may not vote in U.S. federal elections; the offence generally requires acting *knowingly*, not merely being ineligible.",
+    "ProPublica reports that an unprecedented federal push to prosecute noncitizen voters largely fell apart.",
+    "Common defences: registration offered at a motor-vehicle office, confusing forms, or an official who told the person they could register.",
+    "Records flagged by data matching often turn out to be naturalized citizens or clerical mismatches rather than ineligible voters.",
+    "The lesson generalizes: the number of *suspected* cases a database produces is not the number that survive contact with evidence."
+  ],
+  "content_html": "\u003cp\u003eIt is illegal for a noncitizen to vote in a U.S. federal election. That rule is not in dispute, which makes what ProPublica describes worth understanding: an unprecedented federal effort to prosecute noncitizen voters, reported by Peter Elkind and colleagues, that largely fell apart. The gap between a clear rule and a successful prosecution is one of the most useful things a citizen can learn about how law actually operates.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo things stand in the way. The first is \u003cstrong\u003eintent\u003c/strong\u003e. The relevant offences generally require that a person acted knowingly — that they understood they were ineligible. Many of the people who end up flagged registered in circumstances where that is genuinely arguable: a form handed over at a motor-vehicle office alongside a licence application, ambiguous questions about status, a clerk who said it was fine. A prosecutor who cannot prove the defendant knew tends to lose, or never charges at all. The second is the \u003cstrong\u003equality of the leads\u003c/strong\u003e. Suspected cases typically come from matching voter rolls against immigration or benefits databases, and those matches are noisy: people naturalize and become citizens, names and birthdates collide, records go stale. A large number of flags therefore resolves, on investigation, into eligible voters. The transferable lesson is not that election rules do not matter, but that a headline count of \u0026quot;suspected illegal votes\u0026quot; is a count of database hits, not of proven crimes — and that in any enforcement system the number that survives evidence and the requirement of intent is usually far smaller than the number that starts the process. (U.S. law and practice; eligibility enforcement differs elsewhere.)\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Peter Elkind",
+      "Jen Fifield",
+      "Doug Bock Clark",
+      "Ken B. Morales",
+      "Andy Mannix"
+    ],
+    "url": "https://propublica.org/article/noncitizen-voting-trump-homeland-security-investigations",
+    "published_at": "2026-08-14",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "citizenship-civic-life"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_474ad3",
+      "slug": "proof-of-citizenship-to-vote",
+      "type": "news",
+      "title": "Proof of Citizenship to Vote",
+      "hook": "Should you have to show a passport or birth certificate to register to vote? A fight in Congress over that single requirement reveals a deep tension in election design.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a71308",
+      "slug": "trump-election-vulnerability-claims",
+      "type": "news",
+      "title": "Declassified Isn't the Same as New",
+      "hook": "A primetime address, declassified documents, and warnings of 'shocking vulnerabilities' in U.S. elections — but reviewers found the documents mostly repeated what officials already knew years ago.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_772ca7",
+      "slug": "immigration-and-naturalization",
+      "type": "concept",
+      "title": "Immigration \u0026 Naturalization",
+      "hook": "Every state has to answer two charged questions: who gets to come in, and who gets to become one of us? That's the politics of immigration and citizenship.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_7534bb#0",
+      "format": "flip",
+      "prompt": "What must a prosecutor usually prove to convict someone of illegal voting as a noncitizen?",
+      "back_html": "\u003cp\u003eNot just that the person was ineligible, but that they acted \u003cstrong\u003eknowingly\u003c/strong\u003e —\nthat they understood they were not allowed to register or vote.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7534bb#1",
+      "format": "quiz",
+      "prompt": "Why do database matches overstate the number of noncitizens on voter rolls?",
+      "choices": [
+        {
+          "text": "Many flagged records are naturalized citizens or clerical mismatches",
+          "correct": true
+        },
+        {
+          "text": "Voter rolls are not stored electronically anywhere",
+          "correct": false
+        },
+        {
+          "text": "Databases can only search names, never dates of birth",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCitizenship status changes over time and records are matched imperfectly, so\na flag is a lead to investigate, not a finding of ineligibility.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7534bb#2",
+      "format": "quiz",
+      "prompt": "What broader point does the collapse of these prosecutions illustrate?",
+      "choices": [
+        {
+          "text": "A clear rule can still be hard to enforce once evidence and intent are required",
+          "correct": true
+        },
+        {
+          "text": "Noncitizens are legally permitted to vote in federal elections",
+          "correct": false
+        },
+        {
+          "text": "Prosecutors may not bring election cases at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEligibility rules are unambiguous; proving a knowing violation against a\nspecific person is a much higher bar.\u003c/p\u003e"
+    }
+  ]
+}

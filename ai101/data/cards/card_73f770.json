@@ -1,0 +1,109 @@
+{
+  "id": "card_73f770",
+  "slug": "ai-vs-sci-fi",
+  "type": "concept",
+  "title": "AI vs. the Sci-Fi Version",
+  "hook": "The AI in the movies wants things and plots against us. The AI on your phone autocompletes your texts. Mixing them up makes today's tools seem scarier and smarter than they are.",
+  "key_points": [
+    "Movie AI is conscious and has goals; real AI is a tool with no wants or awareness.",
+    "Today's systems are 'narrow': great at one task, useless outside it.",
+    "'Artificial general intelligence' (AGI) — human-level across the board — doesn't exist yet.",
+    "Real risks are practical (errors, bias, scams), not robot uprisings."
+  ],
+  "content_html": "\u003cp\u003eDecades of films have taught us that AI means a self-aware machine with its own agenda. That picture gets in the way of understanding the real thing. The AI you actually use has no awareness and no desires — it predicts the next word in a sentence or the right label for a photo. It's a tool, like a very advanced calculator, not a character.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers call today's systems \u003cstrong\u003enarrow AI\u003c/strong\u003e: superb at one specific task and helpless outside it. A model that writes fluent emails can't drive a car; one that beats grandmasters at chess can't make you a cup of tea. The hypothetical human-level, do-anything system — \u003cstrong\u003eartificial general intelligence (AGI)\u003c/strong\u003e — is something people debate and pursue, but it doesn't exist today. That doesn't mean there's nothing to worry about. The real concerns are concrete and present: AI that's confidently wrong, that absorbs society's biases, or that helps criminals run better scams. Those are worth taking seriously — and they look nothing like the movies.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "what-is-ai"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b4f14c",
+      "slug": "ai-and-jobs",
+      "type": "concept",
+      "title": "AI \u0026 Jobs",
+      "hook": "AI is less likely to take your whole job than to take certain tasks within it. The pattern through history: tools reshape work faster than they erase it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4830ed",
+      "slug": "ai-scams",
+      "type": "concept",
+      "title": "AI Scams \u0026 Staying Safe",
+      "hook": "AI didn't invent scams — it just made them cheaper, faster, and far more convincing. The good news: the habits that beat them haven't changed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1be62b",
+      "slug": "agi-and-superintelligence",
+      "type": "concept",
+      "title": "AGI \u0026 Superintelligence",
+      "hook": "AGI means AI as broadly capable as a human; superintelligence means far beyond. Both are goals and hypotheses — not products you can buy — and experts deeply disagree on when, or if.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dc90db",
+      "slug": "will-ai-take-over",
+      "type": "concept",
+      "title": "Will AI Take Over?",
+      "hook": "The Terminator scenario — AI 'waking up' and turning on us — isn't what serious researchers worry about. Their real concerns are more mundane and more immediate.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_73f770#0",
+      "format": "quiz",
+      "prompt": "What does 'narrow AI' mean?",
+      "choices": [
+        {
+          "text": "AI that's good at one specific task and useless outside it",
+          "correct": true
+        },
+        {
+          "text": "AI that runs on a small, low-power device",
+          "correct": false
+        },
+        {
+          "text": "AI that's nearly at human level across the board",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eToday's systems are narrow: superb at one task (writing, chess, photo\ntagging) and helpless at anything they weren't built for.\u003c/p\u003e"
+    },
+    {
+      "id": "card_73f770#1",
+      "format": "flip",
+      "prompt": "Does artificial general intelligence (AGI) exist today?",
+      "back_html": "\u003cp\u003eNo. Human-level, do-anything AI is debated and pursued, but it doesn't\nexist yet — every system in use is narrow.\u003c/p\u003e"
+    }
+  ]
+}

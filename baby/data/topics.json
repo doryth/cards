@@ -1,0 +1,246 @@
+{
+  "version": "2026-06-04.681de71f",
+  "topics": [
+    {
+      "id": "pregnancy",
+      "title": "Pregnancy \u0026 Prenatal",
+      "slug": "pregnancy",
+      "parent": "timeline",
+      "order": 10,
+      "card_order": "learning-path",
+      "blurb": "The forty weeks before birth — and how to look after two of you.",
+      "related_topic_ids": [
+        "newborn",
+        "feeding",
+        "health-safety"
+      ]
+    },
+    {
+      "id": "timeline",
+      "title": "The Timeline",
+      "slug": "timeline",
+      "order": 10,
+      "blurb": "From pregnancy to the first day of school, stage by stage."
+    },
+    {
+      "id": "newborn",
+      "title": "Newborn (0–3 months)",
+      "slug": "newborn",
+      "parent": "timeline",
+      "order": 11,
+      "card_order": "learning-path",
+      "blurb": "The fourth trimester — feeding, sleeping, and finding your feet.",
+      "related_topic_ids": [
+        "pregnancy",
+        "infant",
+        "sleep",
+        "feeding"
+      ]
+    },
+    {
+      "id": "infant",
+      "title": "Infant (3–12 months)",
+      "slug": "infant",
+      "parent": "timeline",
+      "order": 12,
+      "card_order": "learning-path",
+      "blurb": "Rolling, sitting, first foods, and a personality emerging.",
+      "related_topic_ids": [
+        "newborn",
+        "toddler",
+        "feeding",
+        "sleep"
+      ]
+    },
+    {
+      "id": "toddler",
+      "title": "Toddler (1–3 years)",
+      "slug": "toddler",
+      "parent": "timeline",
+      "order": 13,
+      "card_order": "learning-path",
+      "blurb": "Walking, talking, big feelings, and testing every limit.",
+      "related_topic_ids": [
+        "infant",
+        "preschooler",
+        "health-safety"
+      ]
+    },
+    {
+      "id": "preschooler",
+      "title": "Preschooler (3–6 years)",
+      "slug": "preschooler",
+      "parent": "timeline",
+      "order": 14,
+      "card_order": "learning-path",
+      "blurb": "Play, language, and the social skills that ready them for school.",
+      "related_topic_ids": [
+        "toddler",
+        "health-safety"
+      ]
+    },
+    {
+      "id": "daily-care",
+      "title": "Daily Care",
+      "slug": "daily-care",
+      "order": 20,
+      "blurb": "The everyday rhythms: feeding, sleep, and keeping them safe."
+    },
+    {
+      "id": "feeding",
+      "title": "Feeding \u0026 Nutrition",
+      "slug": "feeding",
+      "parent": "daily-care",
+      "order": 20,
+      "card_order": "learning-path",
+      "blurb": "Milk, solids, and building a healthy relationship with food.",
+      "related_topic_ids": [
+        "newborn",
+        "infant",
+        "health-safety"
+      ]
+    },
+    {
+      "id": "sleep",
+      "title": "Sleep",
+      "slug": "sleep",
+      "parent": "daily-care",
+      "order": 21,
+      "card_order": "learning-path",
+      "blurb": "How babies and young children actually sleep — and how to help.",
+      "related_topic_ids": [
+        "newborn",
+        "infant",
+        "health-safety"
+      ]
+    },
+    {
+      "id": "health-safety",
+      "title": "Health \u0026 Safety",
+      "slug": "health-safety",
+      "parent": "daily-care",
+      "order": 22,
+      "card_order": "learning-path",
+      "blurb": "Vaccines, fevers, well-child visits, and when to call the doctor.",
+      "related_topic_ids": [
+        "newborn",
+        "infant",
+        "toddler",
+        "illness-care",
+        "safety-first-aid"
+      ]
+    },
+    {
+      "id": "illness-care",
+      "title": "Common Illnesses",
+      "slug": "illness-care",
+      "parent": "daily-care",
+      "order": 23,
+      "card_order": "learning-path",
+      "blurb": "Coughs, fevers, tummy bugs, and rashes — the everyday sick days.",
+      "related_topic_ids": [
+        "health-safety",
+        "newborn",
+        "infant"
+      ]
+    },
+    {
+      "id": "safety-first-aid",
+      "title": "Safety \u0026 First Aid",
+      "slug": "safety-first-aid",
+      "parent": "daily-care",
+      "order": 24,
+      "card_order": "learning-path",
+      "blurb": "Childproofing, car seats, choking, and basic first aid.",
+      "related_topic_ids": [
+        "health-safety",
+        "infant",
+        "toddler"
+      ]
+    },
+    {
+      "id": "development",
+      "title": "Development \u0026 Behavior",
+      "slug": "development",
+      "order": 30,
+      "blurb": "How children grow, learn, and behave — and what's typical when."
+    },
+    {
+      "id": "milestones",
+      "title": "Milestones \u0026 Growth",
+      "slug": "milestones",
+      "parent": "development",
+      "order": 30,
+      "card_order": "learning-path",
+      "blurb": "What develops when — and how to tell normal ranges from real red flags.",
+      "related_topic_ids": [
+        "infant",
+        "toddler",
+        "preschooler",
+        "health-safety"
+      ]
+    },
+    {
+      "id": "behavior",
+      "title": "Behavior \u0026 Discipline",
+      "slug": "behavior",
+      "parent": "development",
+      "order": 31,
+      "card_order": "learning-path",
+      "blurb": "Tantrums, limits, screens, and the feelings behind the behavior.",
+      "related_topic_ids": [
+        "toddler",
+        "preschooler",
+        "milestones"
+      ]
+    },
+    {
+      "id": "learning-play",
+      "title": "Learning \u0026 Play",
+      "slug": "learning-play",
+      "parent": "development",
+      "order": 32,
+      "card_order": "learning-path",
+      "blurb": "How play, talk, and reading grow a young mind.",
+      "related_topic_ids": [
+        "infant",
+        "toddler",
+        "preschooler"
+      ]
+    },
+    {
+      "id": "parent-wellbeing",
+      "title": "Parent Wellbeing",
+      "slug": "parent-wellbeing",
+      "order": 40,
+      "blurb": "Looking after the people who look after the baby."
+    },
+    {
+      "id": "postpartum",
+      "title": "Postpartum \u0026 Recovery",
+      "slug": "postpartum",
+      "parent": "parent-wellbeing",
+      "order": 40,
+      "card_order": "learning-path",
+      "blurb": "Healing, hormones, and minding your own health after birth.",
+      "related_topic_ids": [
+        "pregnancy",
+        "newborn",
+        "caregiving"
+      ]
+    },
+    {
+      "id": "caregiving",
+      "title": "Caregiving \u0026 Support",
+      "slug": "caregiving",
+      "parent": "parent-wellbeing",
+      "order": 41,
+      "card_order": "learning-path",
+      "blurb": "Self-care, partnership, support, and going back to work.",
+      "related_topic_ids": [
+        "postpartum",
+        "newborn"
+      ]
+    }
+  ]
+}

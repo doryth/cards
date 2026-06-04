@@ -1,0 +1,122 @@
+{
+  "id": "card_de7edd",
+  "slug": "why-everything-falls-at-the-same-rate",
+  "type": "concept",
+  "title": "Why Everything Falls at the Same Rate",
+  "hook": "Drop a hammer and a feather together in a vacuum and they hit the ground at the same instant. Gravity doesn't care how heavy you are — and that fact runs surprisingly deep.",
+  "key_points": [
+    "Ignoring air, all objects fall with the same acceleration regardless of mass.",
+    "A heavier object feels more gravity but also resists motion more — exactly canceling out.",
+    "On Earth, air resistance is what makes a feather drift down slowly, not gravity.",
+    "Apollo astronauts dropped a hammer and feather on the airless Moon — they landed together."
+  ],
+  "content_html": "\u003cp\u003eIt seems obvious that heavier things should fall faster — yet they don't. Galileo argued, and countless experiments confirm, that in the absence of air every object falls with the same acceleration, whether it's a bowling ball or a pebble. The cleanest demonstration came during Apollo 15, when an astronaut dropped a hammer and a falcon feather together on the airless Moon; with no air to interfere, they struck the surface at the same moment.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe reason is a beautiful cancellation. A heavier object does feel a stronger gravitational pull — but it also has more inertia, more resistance to being accelerated, in precisely the same proportion. The extra pull and the extra stubbornness exactly offset, so the acceleration comes out identical for everything. On Earth this gets disguised by air resistance, which drags lightweight, spread-out objects like feathers far more than compact ones, making them seem to fall slower. That the gravitational \u0026quot;charge\u0026quot; and inertial mass match so exactly struck Einstein as no accident — he made this equivalence the cornerstone of general relativity. Wikipedia traces the principle from Galileo to Einstein.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Equivalence_principle",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "gravity-orbits"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d3af76",
+      "slug": "mass-vs-weight",
+      "type": "concept",
+      "title": "Mass vs. Weight",
+      "hook": "Your mass is the same on the Moon as on Earth — but your weight isn't. They're related, but they are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_de7edd#0",
+      "format": "flip",
+      "prompt": "In a vacuum, which falls faster — a hammer or a feather?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eNeither\u003c/strong\u003e — they fall together. Without air resistance, every object\naccelerates downward at the same rate, no matter its mass.\u003c/p\u003e"
+    },
+    {
+      "id": "card_de7edd#1",
+      "format": "quiz",
+      "prompt": "Why does a heavier object NOT fall faster than a light one (ignoring air)?",
+      "choices": [
+        {
+          "text": "It feels more gravity, but its greater inertia resists motion by exactly the same factor",
+          "correct": true
+        },
+        {
+          "text": "Heavier objects actually do fall faster; the rule is a myth",
+          "correct": false
+        },
+        {
+          "text": "Gravity is weaker on heavier objects",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDouble the mass and you double the gravitational pull — but you also double the\nresistance to acceleration. The two effects cancel, leaving the rate unchanged.\u003c/p\u003e"
+    },
+    {
+      "id": "card_de7edd#2",
+      "format": "quiz",
+      "prompt": "On Earth, why does a feather usually flutter down slower than a coin?",
+      "choices": [
+        {
+          "text": "Air resistance, not gravity, slows the feather",
+          "correct": true
+        },
+        {
+          "text": "Gravity pulls less on lighter things like feathers",
+          "correct": false
+        },
+        {
+          "text": "Feathers are repelled slightly by the ground",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGravity accelerates them equally; the feather's large surface catches far more\nair drag. Remove the air and both fall identically.\u003c/p\u003e"
+    }
+  ]
+}

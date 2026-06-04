@@ -1,0 +1,102 @@
+{
+  "id": "card_49f6e5",
+  "slug": "one-blood-test-many-diseases",
+  "type": "news",
+  "title": "A Blood Test That Also Says Where the Trouble Is",
+  "hook": "A UCLA test reads DNA signals in blood to flag several cancers, liver disease, and organ damage — and points to which organ the signal came from.",
+  "key_points": [
+    "The test scans DNA fragments circulating in blood for signs of disease.",
+    "It covers more than cancer: liver disease and organ damage showed up too.",
+    "It can indicate which organ the signal came from, narrowing the follow-up.",
+    "Researchers describe the approach as inexpensive, a key hurdle for broad screening.",
+    "Results are early — this is a research finding, not an available test."
+  ],
+  "content_html": "\u003cp\u003eMost disease tests answer one question at a time. UCLA researchers report a blood test that\ntakes a wider view: it scans DNA signals circulating in the bloodstream for evidence of\nseveral cancers, liver disease, and organ damage at once — and can hint at which organ the\nsignal came from.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe idea builds on a simple fact of biology: tissue that is damaged or diseased sheds DNA\nfragments into the blood, and those fragments carry chemical marks that reveal where they\nstarted. Reading both the signal and its origin is what lets a single draw suggest not just\n\u003cem\u003esomething is wrong\u003c/em\u003e but \u003cem\u003elook here\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003eAs ScienceDaily reports, the team describes the approach as inexpensive, which matters —\ncost is one of the biggest barriers to any test meant for wide screening. Early results\nsuggest it could move medicine toward catching a range of diseases before they get harder\nto treat. That's the promise; it is not yet the practice. Tests like this have to prove they\ncatch real disease without flooding healthy people with false alarms, and that finding\nthings earlier actually helps people live longer. Those studies come next.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260810015725.htm",
+    "published_at": "2026-08-10",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "preventive-care"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-10",
+  "related": [
+    {
+      "id": "card_119a55",
+      "slug": "multi-cancer-blood-test",
+      "type": "news",
+      "title": "One Blood Test for Many Cancers?",
+      "hook": "A single blood draw that screens for many cancers at once could win FDA approval within months — a potential shift in how cancer gets caught early.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_427b95",
+      "slug": "cancer-screenings-worth-knowing",
+      "type": "concept",
+      "title": "Cancer Screenings Worth Knowing",
+      "hook": "Screening looks for cancer before symptoms start — and for a few common cancers, that early catch dramatically improves the odds.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_49f6e5#0",
+      "format": "flip",
+      "prompt": "What does the UCLA blood test look at to detect disease?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eDNA signals circulating in the blood.\u003c/strong\u003e Damaged or diseased tissue sheds DNA\nfragments, and the test reads those signals for signs of cancer, liver disease,\nand organ damage.\u003c/p\u003e"
+    },
+    {
+      "id": "card_49f6e5#1",
+      "format": "quiz",
+      "prompt": "What makes this test different from a standard multi-cancer screening test?",
+      "choices": [
+        {
+          "text": "It spans non-cancer diseases too and can suggest which organ is affected",
+          "correct": true
+        },
+        {
+          "text": "It replaces the need for any imaging or biopsy",
+          "correct": false
+        },
+        {
+          "text": "It only works after symptoms have already appeared",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBeyond flagging several cancers, it picked up liver disease and organ damage — and\nindicated where the signal originated, which helps direct follow-up testing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_49f6e5#2",
+      "format": "quiz",
+      "prompt": "How should you treat this result today?",
+      "choices": [
+        {
+          "text": "As an early research finding, not a test you can ask for",
+          "correct": true
+        },
+        {
+          "text": "As an approved screening test to request at your next checkup",
+          "correct": false
+        },
+        {
+          "text": "As proof that routine screenings are no longer needed",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe researchers report early results. Broad screening tests must clear a high bar —\nfalse alarms, missed disease, and real benefit — before they reach the clinic.\u003c/p\u003e"
+    }
+  ]
+}

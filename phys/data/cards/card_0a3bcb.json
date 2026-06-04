@@ -1,0 +1,117 @@
+{
+  "id": "card_0a3bcb",
+  "slug": "more-gates-can-mean-fewer-errors",
+  "type": "paper",
+  "title": "When More Gates Means Fewer Errors",
+  "hook": "The textbook-optimal Toffoli gate uses six two-qubit gates. On a real chip where qubits only talk to neighbours, an eight-gate version wins — hardware layout can reverse which circuit is better.",
+  "key_points": [
+    "The Toffoli gate has an exact six-CX decomposition that is optimal when any qubit can talk to any other.",
+    "On a linear three-qubit chain, two of those six gates connect non-neighbouring qubits and must be routed.",
+    "An alternative exact decomposition uses eight gates but only between nearest neighbours.",
+    "After compilation the nominal six-gate circuit became a twelve-gate implementation; the eight-gate one stayed at eight.",
+    "Tests ran on linear qubit triples of IBM's 156-qubit Heron processors ibm_fez and ibm_kingston.",
+    "The eight-gate version won on nearly all triples, and also gave lower infidelity when preparing a hypergraph state."
+  ],
+  "content_html": "\u003cp\u003eAsk how expensive a quantum gate is and the standard answer is a count: the Toffoli gate, the quantum AND, decomposes exactly into six two-qubit CX gates, and you cannot do better. That \u0026quot;cannot do better\u0026quot; carries a hidden assumption — that any qubit can interact with any other. Real superconducting chips are not like that. Qubits talk to their neighbours, and connecting distant ones means the compiler inserting extra operations to shuttle the interaction along.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSimona Grigorova, Stancho Stanchev, and Nikolay Vitanov made this concrete. On a linear chain of three qubits, the six-gate decomposition needs two of its gates between non-neighbours; a lesser-known eight-gate decomposition needs only nearest-neighbour gates. After compilation onto IBM's 156-qubit Heron processors, the nominally cheaper circuit became a twelve-gate implementation, while the eight-gate circuit stayed at eight native gates.\u003c/p\u003e\n\u003cp\u003eMeasured across sampled linear triples on two machines, the eight-gate version won nearly everywhere. The authors checked it three ways: ensemble estimates of gate performance, the infidelity of a prepared three-qubit hypergraph state — which probes the coherent conditional phase rather than just populations — and phase-altered interleaved randomized benchmarking on Clifford stand-ins. All agreed. The takeaway generalises well past the Toffoli gate: optimality proved in the abstract circuit model is a claim about a model, and the physical machine gets the final vote.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Simona K. Grigorova",
+      "Stancho S. Stanchev",
+      "Nikolay V. Vitanov"
+    ],
+    "url": "https://arxiv.org/abs/2608.21004",
+    "published_at": "2026-08-21",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper",
+    "architecture",
+    "benchmark"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_378915",
+      "slug": "three-qubits-one-josephson-junction",
+      "type": "paper",
+      "title": "Three Qubits Sharing a Single Josephson Junction",
+      "hook": "Superconducting processors usually give each qubit its own hardware. The 'multiunimon' packs three into one junction — and does three-qubit gates natively, in the time a single-qubit gate takes.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "card_5d200f",
+      "slug": "quantum-computers-have-six-degrees-of-separation",
+      "type": "paper",
+      "title": "A Quantum Computer's States Form a Small World",
+      "hook": "Map the states of a quantum register as a social network and you get the same structure as human society — most states about nine handshakes apart, with a sudden tipping point into chaos.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "card_80bcaa",
+      "slug": "scale-up-or-scale-out-quantum",
+      "type": "paper",
+      "title": "Quantum Computers Face the Scale-Up vs Scale-Out Choice",
+      "hook": "Datacentres learned to scale out by networking many machines. For quantum processors that choice costs dearly — a stress test finds distributed designs pay up to an exponential space-time penalty.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-20"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0a3bcb#0",
+      "format": "quiz",
+      "prompt": "Why did the six-gate Toffoli decomposition lose to the eight-gate one on real hardware?",
+      "choices": [
+        {
+          "text": "Two of its six gates span non-neighbouring qubits, and compiling those onto a linear chain inflated the circuit to twelve gates",
+          "correct": true
+        },
+        {
+          "text": "The six-gate version requires a gate the processor does not implement natively",
+          "correct": false
+        },
+        {
+          "text": "The eight-gate version runs faster because its gates are shorter in duration",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGate-count optimality assumed all-to-all connectivity. On a linear chain the non-local gates\nmust be routed, and the compiled circuit ballooned to twelve native two-qubit gates.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0a3bcb#1",
+      "format": "flip",
+      "prompt": "What is the general lesson for anyone counting gates in a quantum circuit?",
+      "back_html": "\u003cp\u003eAbstract gate count is not the cost function. \u003cstrong\u003eHardware connectivity\u003c/strong\u003e can reverse the\nranking — a circuit with more abstract gates may be the cheaper physical one.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0a3bcb#2",
+      "format": "flip",
+      "prompt": "Why did the authors also prepare a hypergraph state rather than only checking gate fidelity?",
+      "back_html": "\u003cp\u003eIt probes the \u003cstrong\u003ecoherent conditional phase\u003c/strong\u003e, not just computational-basis populations — a\nstricter test that a gate is right, and it gave the same ranking.\u003c/p\u003e"
+    }
+  ]
+}

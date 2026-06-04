@@ -1,0 +1,115 @@
+{
+  "id": "card_6ca0c3",
+  "slug": "superconducting-quantum-heat-engine",
+  "type": "news",
+  "title": "A Heat Engine That Runs Near Absolute Zero",
+  "hook": "The first cyclic superconducting quantum heat engine turns a whisper of heat a hair above absolute zero into useful work — and could one day power quantum computers from inside the fridge.",
+  "key_points": [
+    "A heat engine extracts work from a temperature difference; this one operates in the millikelvin range, close to absolute zero.",
+    "It is the first cyclic quantum heat engine built from superconducting circuits — the same technology used for qubits.",
+    "Running a full thermodynamic cycle, rather than a one-shot extraction, is what makes it a genuine engine.",
+    "Future versions could run autonomously inside a dilution refrigerator, generating control signals on the spot.",
+    "That would remove large bundles of microwave cables, which are expensive, bulky, and a source of heat and noise."
+  ],
+  "content_html": "\u003cp\u003eA heat engine needs a temperature difference to work with. That is easy at a power\nstation and very hard a few thousandths of a degree above absolute zero, where the\navailable thermal energy is minuscule. Researchers have now demonstrated the first\ncyclic quantum heat engine built from superconducting circuits, converting heat at\nmillikelvin temperatures into useful work.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe word \u003cem\u003ecyclic\u003c/em\u003e is doing real work in that sentence. Plenty of experiments have\nextracted energy from a quantum system once; running a repeating thermodynamic cycle\nthat returns to its starting state each round is what makes something an engine, and\nit is what lets the device operate continuously.\u003c/p\u003e\n\u003cp\u003eThe reason quantum-computing groups care is logistics. Every superconducting qubit\ntoday is reached by microwave cables running from room-temperature electronics down\ninto the dilution refrigerator. Those cables are costly, take up space, and carry heat\nand noise into the coldest stage — a serious obstacle to scaling to very large\nmachines. An engine that works \u003cem\u003einside\u003c/em\u003e the fridge, autonomously producing the work\nneeded for control, would let some of that harness disappear. That application is\nstill some way off; what has been shown is that the thermodynamics works at all at\nthese temperatures. See ScienceDaily's report for details.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260814011041.htm",
+    "published_at": "2026-08-14",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "heat-thermo",
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_7150b9",
+      "slug": "heat-engines-and-efficiency",
+      "type": "concept",
+      "title": "Heat Engines and Why None Are Perfect",
+      "hook": "Every car engine and power plant turns heat into motion — but physics forbids turning all of it. Some heat must always be thrown away, which is why perpetual motion is impossible.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_02ca0c",
+      "slug": "absolute-zero",
+      "type": "concept",
+      "title": "Absolute Zero: The Coldest Possible Temperature",
+      "hook": "There's no limit to how hot things can get, but cold has a floor. At absolute zero, −273°C, particle motion bottoms out — and you can get achingly close but never quite reach it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_869b2e",
+      "slug": "quantum-computers-colder-not-always-better",
+      "type": "paper",
+      "title": "For Quantum Computers, Colder Isn't Always Better",
+      "hook": "The instinct is to chase ever-lower temperatures for quantum chips. A new study of real silicon qubits finds a 'sweet spot' instead, since cooling itself has a cost.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7150b9",
+      "slug": "heat-engines-and-efficiency",
+      "type": "concept",
+      "title": "Heat Engines and Why None Are Perfect",
+      "hook": "Every car engine and power plant turns heat into motion — but physics forbids turning all of it. Some heat must always be thrown away, which is why perpetual motion is impossible.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_6ca0c3#0",
+      "format": "flip",
+      "prompt": "What makes this device an engine rather than just a one-off energy extraction?",
+      "back_html": "\u003cp\u003eIt runs a repeating thermodynamic \u003cstrong\u003ecycle\u003c/strong\u003e — returning to its starting state\neach time — so it can keep converting heat into work rather than doing it once.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6ca0c3#1",
+      "format": "quiz",
+      "prompt": "Why would an engine running inside the fridge help scale up quantum computers?",
+      "choices": [
+        {
+          "text": "It could generate control signals locally, removing many microwave cables that add bulk, cost, and noise",
+          "correct": true
+        },
+        {
+          "text": "It would cool the qubits below absolute zero, reducing decoherence",
+          "correct": false
+        },
+        {
+          "text": "It would replace error correction by supplying the missing energy to failed gates",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEvery qubit today needs cabling running from room temperature into the\nrefrigerator. An autonomous on-chip source of work could cut that harness down,\nalong with the heat and noise it carries in.\u003c/p\u003e"
+    }
+  ]
+}

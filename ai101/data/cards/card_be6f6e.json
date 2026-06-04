@@ -1,0 +1,88 @@
+{
+  "id": "card_be6f6e",
+  "slug": "wealthy-ai-schools",
+  "type": "news",
+  "title": "Some Wealthy Families Are Swapping School for AI",
+  "hook": "Most Americans say they don't trust AI. That hasn't stopped some wealthy families from enrolling their kids in schools like Alpha and Forge Prep, where AI — not a classroom teacher — leads the lesson.",
+  "key_points": [
+    "The Verge reports companies like Alpha and Forge Prep are offering AI-led education instead of traditional schooling.",
+    "Their customer base skews wealthy — this is a niche, not yet a mainstream shift.",
+    "It's happening despite broad public wariness about trusting AI in general.",
+    "Raises real questions: what AI-led learning gains in personalization, it may lose in social development and oversight."
+  ],
+  "content_html": "\u003cp\u003eSurveys keep finding that most Americans don't fully trust AI. And yet, The Verge reports, some wealthy families are betting their kids' education on it: schools like Alpha and Forge Prep now offer AI-led instruction in place of a traditional classroom teacher.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt's worth being precise about scale here — this is a niche, tuition-driven trend among families who can afford to experiment, not a mainstream replacement for public school. But it's a striking early test case for a bigger question: an AI tutor can adapt endlessly to one student's pace and gaps, which is a genuine strength (see how AI already helps as a patient, adaptive tutor). What's less clear is what a classroom provides that a screen doesn't — peer interaction, a teacher's real-time judgment about a struggling kid, the social fabric of school itself. Families opting into AI-led schools are, in effect, running a live experiment on that tradeoff, well ahead of any consensus on the answer.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O’Brien"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "published_at": "2026-07-05",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-and-kids",
+    "ai-as-tutor",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "tutorial"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-05",
+  "related": [
+    {
+      "id": "card_df602c",
+      "slug": "ai-kids-and-school",
+      "type": "concept",
+      "title": "AI, Kids \u0026 School",
+      "hook": "Banning AI is like banning calculators — futile and beside the point. The real job is teaching kids to use it honestly, to learn with it, and to know when it's lying.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c25220",
+      "slug": "ai-as-a-tutor",
+      "type": "concept",
+      "title": "AI as a Tutor",
+      "hook": "A chatbot is a tutor with infinite patience: ask it to explain anything five different ways at any level, with no judgment. Just remember it can be confidently wrong.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_be6f6e#0",
+      "format": "quiz",
+      "prompt": "What's notable about who's adopting AI-led schools like Alpha and Forge Prep?",
+      "choices": [
+        {
+          "text": "It's concentrated among wealthy families, despite broad public distrust of AI",
+          "correct": true
+        },
+        {
+          "text": "Every public school in the country has switched to this model",
+          "correct": false
+        },
+        {
+          "text": "Only families who already distrust technology are signing up",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Verge frames this as a wealthy-family trend, notable precisely because\nmost surveyed Americans say they don't trust AI — an apparent contradiction.\u003c/p\u003e"
+    },
+    {
+      "id": "card_be6f6e#1",
+      "format": "flip",
+      "prompt": "What's the tradeoff worth watching with AI-led schooling?",
+      "back_html": "\u003cp\u003ePersonalization can go up, but the social development and human oversight\na classroom and teacher provide may go down — the jury is still out.\u003c/p\u003e"
+    }
+  ]
+}

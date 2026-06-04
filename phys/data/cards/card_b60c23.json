@@ -1,0 +1,110 @@
+{
+  "id": "card_b60c23",
+  "slug": "imaging-a-molecular-wavefunction",
+  "type": "news",
+  "title": "A Full 3D Portrait of a Molecule's Wavefunction",
+  "hook": "The wavefunction is quantum mechanics' most fundamental object and its most elusive one. A Göttingen team has now reconstructed one in three dimensions for a real molecule.",
+  "key_points": [
+    "A wavefunction encodes everything knowable about a quantum system, but it is not something you can point a camera at.",
+    "Earlier orbital imaging captured flat projections; this work reconstructs the full three-dimensional shape.",
+    "The method combines photoelectron measurements with newly designed reconstruction algorithms.",
+    "The target was a nanometre-sized organic molecule, whose molecular orbital was mapped in detail.",
+    "Reported resolution beats the spacing between the molecule's own carbon atoms."
+  ],
+  "content_html": "\u003cp\u003eQuantum mechanics says everything knowable about a molecule's electrons lives in its wavefunction — yet the wavefunction itself is famously hard to get at. You cannot photograph a probability amplitude; you can only infer it from what measurements come out. Researchers at the University of Göttingen report they have reconstructed one in full three dimensions for a real, nanometre-sized organic molecule.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe team combined advanced photoelectron measurements — knocking electrons out of the molecule and recording where they land — with newly designed reconstruction algorithms that turn those distributions back into the orbital they came from. Earlier orbital-imaging work generally produced flat projections; per the group's account, this reconstruction is three-dimensional and resolves detail finer than the spacing between the molecule's own carbon atoms. Getting a direct handle on orbital shape matters because orbitals govern how molecules bond, absorb light, and react.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260822015213.htm",
+    "published_at": "2026-08-24",
+    "license": "ScienceDaily (press summary)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "atomic-nuclear"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-24",
+  "related": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_50048a",
+      "slug": "pilot-wave-theory",
+      "type": "paper",
+      "title": "The Quantum Theory Where Particles Have Positions",
+      "hook": "Pilot-wave theory takes the radical step of saying particles always have definite positions, guided by the wave function. It reproduces all of quantum mechanics — at a price.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b60c23#0",
+      "format": "flip",
+      "prompt": "Why is a wavefunction hard to observe directly?",
+      "back_html": "\u003cp\u003eIt is not a physical object sitting in space — it encodes the \u003cem\u003eprobabilities\u003c/em\u003e of\nmeasurement outcomes, so it has to be \u003cstrong\u003ereconstructed\u003c/strong\u003e from many measurements\nrather than photographed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b60c23#1",
+      "format": "quiz",
+      "prompt": "What did the Göttingen team measure to reconstruct the molecular orbital?",
+      "choices": [
+        {
+          "text": "Photoelectrons emitted from the molecule, fed into new reconstruction algorithms",
+          "correct": true
+        },
+        {
+          "text": "The molecule's infrared absorption spectrum",
+          "correct": false
+        },
+        {
+          "text": "Neutrons scattered off the molecule's nuclei",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAdvanced photoelectron measurements plus purpose-built algorithms let them build a\ncomplete 3D image of the orbital.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b60c23#2",
+      "format": "flip",
+      "prompt": "What makes this reconstruction notable compared with earlier orbital imaging?",
+      "back_html": "\u003cp\u003eIt is a \u003cstrong\u003ecomplete 3D\u003c/strong\u003e image rather than a flat projection, and it resolves features\nsmaller than the spacing between the molecule's carbon atoms.\u003c/p\u003e"
+    }
+  ]
+}

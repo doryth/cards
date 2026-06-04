@@ -1,0 +1,109 @@
+{
+  "id": "card_9006b6",
+  "slug": "anthropic-blacklist-ruled-illegal",
+  "type": "news",
+  "title": "A Court Says the Government Can't Blacklist an AI Lab for Saying No",
+  "hook": "A federal judge ruled the Pentagon's blacklisting of Anthropic unconstitutional — the lab had refused to support autonomous weapons and mass surveillance, and was punished for it.",
+  "key_points": [
+    "On August 27, 2026, a judge ruled the Pentagon's blacklisting of Anthropic was unconstitutional.",
+    "Anthropic sued in March in a California district court over alleged retaliation for its usage limits.",
+    "The lab had declined to allow its models to be used for lethal autonomous warfare and mass surveillance.",
+    "The suit argued the administration retaliated against Anthropic for setting those red lines.",
+    "The stakes: whether an AI company can refuse a government use case without losing its business."
+  ],
+  "content_html": "\u003cp\u003eMost AI labs publish a usage policy — a list of things they won't let their models be used for. The interesting question has always been what happens when a powerful customer wants one of those things anyway. On August 27, 2026, a federal judge answered a version of it: the Pentagon's blacklisting of Anthropic, after the lab refused to support lethal autonomous warfare and mass surveillance, was ruled unconstitutional.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAnthropic filed the suit in March 2026 in a California district court, accusing the administration of unlawfully retaliating against it for setting those red lines. Ars Technica and The Verge both reported the ruling as a win for the lab in what The Verge described as a monthslong back-and-forth with the administration.\u003c/p\u003e\n\u003cp\u003eWhy this belongs in a beginner's AI reading: a lot of \u0026quot;AI safety\u0026quot; in practice is not clever engineering but a company deciding what it will refuse to sell. That only means something if refusing is survivable. A blacklist — being cut off from government contracts — is the standard way to make it unsurvivable, and a court just said this particular use of it crossed a constitutional line. Court rulings get appealed, so treat this as an early data point rather than a settled rule.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jon Brodkin"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+    "published_at": "2026-08-28",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-regulation",
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_5711da",
+      "slug": "anthropic-fable-government-ban",
+      "type": "news",
+      "title": "A Government Orders an AI Model Switched Off",
+      "hook": "The US government ordered Anthropic to cut off foreign access to two of its top models over national-security fears — so the company shut them off for everyone. A new kind of control over AI.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bd52ba",
+      "slug": "autonomous-weapons-ukraine",
+      "type": "news",
+      "title": "When the Drone Decides: AI and Autonomous Weapons",
+      "hook": "Ukraine reportedly ran a one-time test of fully autonomous drones that chose and struck targets with no human pulling the trigger. The 'killer robot' debate just stopped being hypothetical.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-12"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9006b6#0",
+      "format": "flip",
+      "prompt": "What did Anthropic refuse that led to the blacklisting?",
+      "back_html": "\u003cp\u003eSupporting lethal autonomous warfare and mass surveillance — usage limits it\nset on what its models may be used for.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9006b6#1",
+      "format": "quiz",
+      "prompt": "What did the federal judge decide?",
+      "choices": [
+        {
+          "text": "The Pentagon's blacklisting of Anthropic was unconstitutional",
+          "correct": true
+        },
+        {
+          "text": "Anthropic must supply its models to the military",
+          "correct": false
+        },
+        {
+          "text": "The government may set any conditions it likes on AI vendors",
+          "correct": false
+        },
+        {
+          "text": "Anthropic's usage policy was itself illegal",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe ruling went against the government: blacklisting the lab over its stated\nred lines was found unconstitutional retaliation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9006b6#2",
+      "format": "flip",
+      "prompt": "Why does this case matter beyond one company?",
+      "back_html": "\u003cp\u003eIt tests whether an AI lab can enforce its own limits on how models are used\nwithout a government customer punishing it for the refusal.\u003c/p\u003e"
+    }
+  ]
+}

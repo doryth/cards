@@ -1,0 +1,105 @@
+{
+  "id": "card_d9c812",
+  "slug": "hyundai-robot-strike",
+  "type": "news",
+  "title": "Workers Just Went on Strike Against Humanoid Robots",
+  "hook": "Hyundai's 40,000-member union walked out over the automaker's plan to bring in 25,000+ humanoid robots — likely the first labor strike ever aimed squarely at humanoid automation.",
+  "key_points": [
+    "Hyundai's South Korean union held a three-day rolling strike with four-hour daily stoppages.",
+    "The target: Hyundai's plan to deploy 25,000+ Atlas humanoid robots across Hyundai and Kia plants by 2028.",
+    "Atlas is built by Hyundai-owned Boston Dynamics and starts at a Georgia factory in 2028.",
+    "Union demands: job-security guarantees, profit-linked bonuses, salaried pay, and final say over robot rollout.",
+    "The stoppage is estimated to have cut about 5,000 cars and roughly $135 million in sales revenue."
+  ],
+  "content_html": "\u003cp\u003eRobots taking factory jobs has been a talking point for decades. This week it became a picket line. Ars Technica reports Hyundai's 40,000-member South Korean union held a three-day rolling strike — four-hour work stoppages each day — explicitly targeting the automaker's plan to deploy more than 25,000 Atlas humanoid robots across Hyundai and Kia factories, likely the first labor strike ever aimed at humanoid robots specifically.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAtlas is built by Boston Dynamics, which Hyundai owns, and it's due to start working at a Hyundai factory in Georgia in 2028 as part of a plan to build 30,000 units a year by then. Union leaders aren't objecting to automation in the abstract — they're worried about an \u0026quot;employment shock\u0026quot; as robots take on more line duties, and they want protections locked in before that happens: job-security guarantees built around the robots, bonuses that track Hyundai's profit margins, a shift from hourly pay to fixed salaries, and — most pointed of all — a formal agreement giving workers final say over any humanoid deployment. The stoppage is estimated to have cost around 5,000 cars and roughly $135 million in sales revenue, real leverage for a fight that's really about who controls the pace of automation, not whether it happens at all. It's a concrete preview of a negotiation more industries are likely to have as humanoid robots move from demos to actual production lines.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory",
+    "published_at": "2026-07-16",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "robots",
+    "ai-and-jobs",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_9f8557",
+      "slug": "south-korea-chip-robot-plan",
+      "type": "news",
+      "title": "South Korea Bets $1 Trillion on Chips and Robots",
+      "hook": "South Korea just committed roughly $1 trillion to memory chips, AI data centers, and mass-produced humanoid robots — a national wager that hardware, not just software, decides who leads AI.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_933f8f",
+      "slug": "gm-factory-robots",
+      "type": "news",
+      "title": "GM's Robots and the 'Dark Factory'",
+      "hook": "GM put robots into its flagship EV plant just after laying off 1,300 workers — and the autoworkers' union is warning of a 'dark factory' future where the lights stay off because nobody's there.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_b4f14c",
+      "slug": "ai-and-jobs",
+      "type": "concept",
+      "title": "AI \u0026 Jobs",
+      "hook": "AI is less likely to take your whole job than to take certain tasks within it. The pattern through history: tools reshape work faster than they erase it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d9c812#0",
+      "format": "quiz",
+      "prompt": "What are Hyundai's union workers actually striking over?",
+      "choices": [
+        {
+          "text": "Hyundai's plan to deploy 25,000+ humanoid robots without agreed worker protections",
+          "correct": true
+        },
+        {
+          "text": "A pay cut that already happened",
+          "correct": false
+        },
+        {
+          "text": "The robots malfunctioning on the factory floor",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe strike targets the plan itself — workers want job-security guarantees\nand a say in the rollout before large-scale humanoid deployment begins.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d9c812#1",
+      "format": "flip",
+      "prompt": "What is Atlas, and who makes it?",
+      "back_html": "\u003cp\u003eAtlas is a humanoid robot built by Boston Dynamics, which Hyundai owns —\nit's set to start work at a Hyundai Georgia factory in 2028.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d9c812#2",
+      "format": "flip",
+      "prompt": "What's one concrete demand the union is making before robots arrive?",
+      "back_html": "\u003cp\u003eA formal agreement giving workers final say over any humanoid robotics\ndeployment, alongside job-security guarantees and profit-linked bonuses.\u003c/p\u003e"
+    }
+  ]
+}

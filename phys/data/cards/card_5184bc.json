@@ -1,0 +1,94 @@
+{
+  "id": "card_5184bc",
+  "slug": "whippet-tidal-disruption-survivor",
+  "type": "news",
+  "title": "A Black Hole Shredded a Giant Star — and Something Survived",
+  "hook": "The flare nicknamed 'the Whippet' released about 400 billion times the Sun's energy. Months later, fast-moving helium hinted that part of the star was not fully destroyed.",
+  "key_points": [
+    "A black hole tore apart an unusually massive star, producing one of the most energetic stellar disruptions ever recorded.",
+    "The event briefly released roughly 400 billion times the Sun's energy output.",
+    "A shock wave from the disruption raced outward at about one-fifth the speed of light.",
+    "Months later, astronomers spotted helium moving unexpectedly fast in the debris.",
+    "One reading is that some structure — a surviving remnant of the star — is still driving material outward."
+  ],
+  "content_html": "\u003cp\u003eWhen a star drifts too close to a black hole, the pull on its near side outmatches the\npull on its far side by more than the star's own gravity can hold together, and it\ncomes apart. Astronomers see the result as a tidal disruption event: a bright flare as\nthe shredded debris heats up and falls in.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe event nicknamed \u0026quot;the Whippet\u0026quot; was an extreme one. The victim was an unusually\nmassive star, and the disruption briefly released on the order of 400 billion times\nthe Sun's energy output — among the most energetic stellar explosions ever observed —\nsending a shock wave outward at roughly a fifth of the speed of light.\u003c/p\u003e\n\u003cp\u003eThe twist came later. Months after the flare, observers found helium in the debris\nmoving far faster than expected, which suggests something is still driving material\noutward rather than the star having been cleanly and completely destroyed. A surviving\ncore is one candidate explanation; disentangling it will take continued monitoring of\nhow the debris evolves. See ScienceDaily's report for the observing team's account.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260814235849.htm",
+    "published_at": "2026-08-15",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "gravity-orbits"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-15",
+  "related": [
+    {
+      "id": "card_81a9b2",
+      "slug": "wandering-black-hole-shreds-a-star",
+      "type": "news",
+      "title": "A Star's Violent Death Exposed a Black Hole in the Wrong Place",
+      "hook": "A supermassive black hole was caught 30,000 light-years off-centre in its galaxy — it only gave itself away by tearing apart a passing star.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-06"
+    },
+    {
+      "id": "card_45fd41",
+      "slug": "black-hole-shreds-white-dwarf",
+      "type": "news",
+      "title": "A Black Hole Caught Shredding a White Dwarf",
+      "hook": "The Einstein Probe may have caught a long-sought 'missing link' black hole tearing apart a dense white dwarf star — and devouring it in a burst of X-ray flashes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5184bc#0",
+      "format": "flip",
+      "prompt": "What is a tidal disruption event?",
+      "back_html": "\u003cp\u003eA star wanders close enough to a black hole that the difference in gravity\nacross it exceeds the star's own self-gravity, tearing it apart. The debris\nheats up and flares brightly as it falls in.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5184bc#1",
+      "format": "quiz",
+      "prompt": "What was the surprising late-time observation in 'the Whippet'?",
+      "choices": [
+        {
+          "text": "Unexpectedly fast-moving helium appearing months after the flare",
+          "correct": true
+        },
+        {
+          "text": "The flare brightening again to twice its original peak",
+          "correct": false
+        },
+        {
+          "text": "A gravitational-wave signal arriving after the light",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe helium's speed months later suggests something is still pushing material\noutward — possibly a surviving piece of the shredded star, rather than a clean\ntotal destruction.\u003c/p\u003e"
+    }
+  ]
+}

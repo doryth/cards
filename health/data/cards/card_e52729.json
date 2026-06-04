@@ -1,0 +1,99 @@
+{
+  "id": "card_e52729",
+  "slug": "medications-reshape-gut-for-years",
+  "type": "news",
+  "title": "Common Medications May Reshape Your Gut for Years After the Last Dose",
+  "hook": "It's not just antibiotics. In more than 2,500 people, antidepressants, beta-blockers, acid reducers, and benzodiazepines all left microbial fingerprints — some still detectable years later.",
+  "key_points": [
+    "A study of more than 2,500 people found lasting gut microbiome changes tied to past medication use.",
+    "Antibiotics were only part of the story: antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines also left marks.",
+    "Some of these microbial changes were still detectable years after the drug was stopped.",
+    "That means today's gut community reflects a person's medication history, not just their current diet.",
+    "It also complicates microbiome research: studies that ignore drug history may misread their results."
+  ],
+  "content_html": "\u003cp\u003eMost people know antibiotics disturb the gut. This study's finding is broader and more uncomfortable: several everyday, long-term medications appear to do it too — and the mark doesn't necessarily fade when the prescription ends.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, researchers examined the gut microbiomes of more than 2,500 people alongside their medication histories. They found lasting microbial changes associated not only with antibiotics but with antidepressants, beta-blockers, acid-reducing drugs, and benzodiazepines. Some of those signatures were still detectable years after the person had stopped taking the drug.\u003c/p\u003e\n\u003cp\u003eTwo implications follow. For individuals, it suggests the gut community you carry today is partly a record of what you've taken in the past, not just what you eat now — one more reason not to take antibiotics or acid reducers casually or for longer than needed. (It is emphatically not a reason to stop a prescribed medication; that's a conversation with your clinician.) For researchers, it's a methodological warning: microbiome studies that don't account for medication history may be reading a drug's long shadow and calling it something else.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260824065605.htm",
+    "published_at": "2026-08-24",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "medication-safety",
+    "nutrition",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-24",
+  "related": [
+    {
+      "id": "card_618737",
+      "slug": "gut-microbiome-basics",
+      "type": "news",
+      "title": "Gut Health: What the Evidence Actually Says",
+      "hook": "Wellness marketing says your gut is 'broken' and a supplement will fix it. Here's what the evidence really supports — and what's just hype.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_3a556a",
+      "slug": "antibiotics-use-them-right",
+      "type": "concept",
+      "title": "Antibiotics: Use Them Right",
+      "hook": "Antibiotics are miracle drugs against bacteria — and useless against viruses like colds and flu. Using them when they won't help fuels a genuinely dangerous problem.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_12a631",
+      "slug": "taking-medicines-safely",
+      "type": "concept",
+      "title": "Taking Medicines Safely",
+      "hook": "Medicines help only when used right. Most medication mishaps are preventable with a few habits — reading the label, knowing your list, and asking questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e52729#0",
+      "format": "quiz",
+      "prompt": "Besides antibiotics, which drug classes did this study link to lasting gut microbiome changes?",
+      "choices": [
+        {
+          "text": "Antidepressants, beta-blockers, acid reducers, and benzodiazepines",
+          "correct": true
+        },
+        {
+          "text": "Only antibiotics showed any lasting effect",
+          "correct": false
+        },
+        {
+          "text": "Vitamins and mineral supplements",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study of more than 2,500 people found microbial fingerprints from all four of those\nclasses, not just from antibiotics.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e52729#1",
+      "format": "flip",
+      "prompt": "How long did these medication-linked microbial changes persist?",
+      "back_html": "\u003cp\u003eSome were \u003cstrong\u003estill detectable years after the last dose\u003c/strong\u003e, meaning a person's current gut\ncommunity partly reflects their medication history.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e52729#2",
+      "format": "flip",
+      "prompt": "Why does this matter for interpreting microbiome studies?",
+      "back_html": "\u003cp\u003eIf past medication use leaves durable marks, research that only records current diet and\ndrugs may \u003cstrong\u003emistake a drug's lingering footprint for something else\u003c/strong\u003e.\u003c/p\u003e"
+    }
+  ]
+}

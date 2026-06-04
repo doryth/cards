@@ -1,0 +1,88 @@
+{
+  "id": "card_b6574a",
+  "slug": "hidden-white-dwarfs-near-earth",
+  "type": "news",
+  "title": "Four White Dwarfs Were Hiding in Plain Sight Nearby",
+  "hook": "Four white dwarf stars sat undetected for decades, drowned out by the glare of their brighter red dwarf companions — until Hubble's ultraviolet eyes finally caught them.",
+  "key_points": [
+    "Astronomers confirmed four white dwarf stars hiding beside brighter red dwarf companions, found first through a telltale stellar 'wobble' and then confirmed with Hubble's ultraviolet spectrograph.",
+    "White dwarfs are far easier to spot in ultraviolet light than visible light, where a bright red dwarf companion simply drowns them out.",
+    "One system, just 25 light-years away, took 27 years from first hint to confirmation and is now the ninth-closest white dwarf to the Sun.",
+    "The discoveries closely match predictions of 4-5 such systems within 65 light-years — and since only about 30% of nearby red dwarfs have been fully surveyed, several more may still be hiding."
+  ],
+  "content_html": "\u003cp\u003eA white dwarf is what's left after a Sun-like star burns through its fuel and sheds its outer layers — a small, dim, dense stellar remnant. You'd think something that close would be easy to find, but four of them turned out to have been hiding in plain sight for decades, each tucked beside a much brighter red dwarf companion star.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe giveaway was a subtle wobble in each red dwarf's motion, a sign of an unseen massive companion tugging on it gravitationally. Confirming what that companion actually was took the Hubble Space Telescope's ultraviolet spectrograph, since white dwarfs — despite being faint in visible light next to their glaring red dwarf partners — stand out much more clearly in ultraviolet wavelengths. One system, G 203-47, sits just 25 light-years away and took 27 years from the first hint of a wobble to final confirmation; it's now recognized as the ninth-closest white dwarf to the Sun, and its red dwarf's oddly slow rotation hints at an unusual shared history. Altogether, the four discoveries line up closely with predictions of 4-5 such hidden systems within 65 light-years of Earth — and since astronomers have thoroughly surveyed only around 30% of nearby red dwarfs so far, several more hidden white dwarfs may still be waiting to be found.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260714225528.htm",
+    "published_at": "2026-07-15",
+    "license": "© ScienceDaily"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-15",
+  "related": [
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_45fd41",
+      "slug": "black-hole-shreds-white-dwarf",
+      "type": "news",
+      "title": "A Black Hole Caught Shredding a White Dwarf",
+      "hook": "The Einstein Probe may have caught a long-sought 'missing link' black hole tearing apart a dense white dwarf star — and devouring it in a burst of X-ray flashes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b6574a#0",
+      "format": "flip",
+      "prompt": "Why were these four white dwarfs hard to spot even though they're nearby?",
+      "back_html": "\u003cp\u003eEach has a \u003cstrong\u003ered dwarf companion\u003c/strong\u003e that appears much brighter and larger in\nvisible light, completely drowning out the fainter white dwarf's light.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b6574a#1",
+      "format": "quiz",
+      "prompt": "How did astronomers finally confirm these hidden white dwarfs?",
+      "choices": [
+        {
+          "text": "By detecting a stellar wobble, then confirming it with Hubble's ultraviolet spectrograph, since white dwarfs stand out more in UV",
+          "correct": true
+        },
+        {
+          "text": "By listening for gravitational waves from the star system",
+          "correct": false
+        },
+        {
+          "text": "By waiting for the red dwarf companion to fade away entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhite dwarfs are much easier to distinguish from their bright companions in\nultraviolet light than in the visible spectrum where red dwarfs dominate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b6574a#2",
+      "format": "flip",
+      "prompt": "What do these four discoveries suggest about our stellar neighborhood?",
+      "back_html": "\u003cp\u003eThey closely match predictions of 4-5 such hidden systems within 65 light-years —\nand since only about 30% of nearby red dwarfs have been fully surveyed, several\nmore are likely still undiscovered.\u003c/p\u003e"
+    }
+  ]
+}

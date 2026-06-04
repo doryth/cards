@@ -1,0 +1,113 @@
+{
+  "id": "card_90a207",
+  "slug": "ai-designed-intrabodies",
+  "type": "news",
+  "title": "AI Turned 672 Antibodies Into Ones That Work Inside Cells",
+  "hook": "Ordinary antibodies fall apart inside a cell. An Essex team used AI protein design to fix that — opening a door on the tangled proteins behind Alzheimer's, Parkinson's and MND.",
+  "key_points": [
+    "Antibodies are the immune system's precision tools, but they only work outside cells — where most neurodegenerative damage isn't.",
+    "'Intrabodies' are antibody fragments engineered to stay stable and functional inside a living cell.",
+    "Scanning millions of antibodies, the team found electrical charge is the key to intracellular stability.",
+    "Using David Baker's AI protein-redesign software, they converted 672 antibodies into working intrabodies.",
+    "Published in Nature Communications; the molecules are being released freely to other researchers.",
+    "This is a toolkit, not a therapy — delivering intrabodies into human neurons is the unsolved next step."
+  ],
+  "content_html": "\u003cp\u003eAntibodies are the immune system's sharpest tool: proteins that latch onto one specific target and nothing else. They are also the basis of a whole generation of drugs. The catch is that antibodies evolved to patrol the fluid \u003cstrong\u003ebetween\u003c/strong\u003e cells, and they generally unravel once they end up inside one — which is awkward, because that is exactly where the misfolded and clumping proteins behind Alzheimer's, Parkinson's, Huntington's and motor neurone disease do their damage.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team at the University of Essex led by Caitlin O'Shea and Gareth Wright, funded by the MND Association, set out to close that gap. Working through millions of antibody sequences, they found that electrical charge is the property that decides whether an antibody stays stable inside a cell. They then fed that insight into the AI protein-redesign software developed by Nobel laureate David Baker, and converted 672 different antibodies into functional \u0026quot;intrabodies\u0026quot; — antibody fragments that keep working in the cell's interior.\u003c/p\u003e\n\u003cp\u003eThe work is published in \u003cem\u003eNature Communications\u003c/em\u003e, and the researchers say the molecules will be made freely available to other scientists, which is arguably the bigger news: this is a reusable toolkit rather than a single drug candidate. The hard part is still ahead. None of these diseases has a cure, and getting an engineered protein into the right neurons in a living person is its own unsolved problem — the authors point to gene therapy as one route worth combining with intrabodies. Read the full write-up via the source link.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260819041242.htm",
+    "published_at": "2026-08-19",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "healthy-aging"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_40bc5a",
+      "slug": "how-alzheimers-spreads",
+      "type": "news",
+      "title": "How Alzheimer's Might Spread From Cell to Cell",
+      "hook": "A common brain protein may double as a delivery vehicle for Alzheimer's, ferrying toxic tau out of damaged neurons and into healthy ones — a possible new target for slowing the disease.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_20e19f",
+      "slug": "grk2-aggregates-alzheimers",
+      "type": "news",
+      "title": "Blocking a Clumping Enzyme Slowed Alzheimer's in Mice",
+      "hook": "An ETH Zurich team found the enzyme GRK2 forms clumps in the Alzheimer's brain — and an experimental compound that stopped the clumping kept mice's nerve cells alive longer.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-16"
+    },
+    {
+      "id": "card_441065",
+      "slug": "parkinsons-spread-mechanism",
+      "type": "news",
+      "title": "How Parkinson's Disease Spreads Through the Brain",
+      "hook": "Yale scientists found two neuron surface proteins that help the toxic protein behind Parkinson's spread from cell to cell — and blocking them dramatically slowed disease progression in mice.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-11"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_90a207#0",
+      "format": "flip",
+      "prompt": "What makes an intrabody different from an ordinary antibody?",
+      "back_html": "\u003cp\u003eAn intrabody is engineered to stay stable and keep binding its target \u003cstrong\u003einside\u003c/strong\u003e a\nliving cell. Ordinary antibodies only work in the space outside cells.\u003c/p\u003e"
+    },
+    {
+      "id": "card_90a207#1",
+      "format": "quiz",
+      "prompt": "What property did the researchers find determines whether an antibody survives inside a cell?",
+      "choices": [
+        {
+          "text": "Its electrical charge",
+          "correct": true
+        },
+        {
+          "text": "Its total molecular weight",
+          "correct": false
+        },
+        {
+          "text": "The number of sugar groups attached to it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eScanning millions of antibodies, the Essex team found electrical charge to be the\ncrucial factor for intracellular stability — which is what let them redesign 672\nantibodies into functional intrabodies.\u003c/p\u003e"
+    },
+    {
+      "id": "card_90a207#2",
+      "format": "quiz",
+      "prompt": "Why does working inside the cell matter for diseases like Alzheimer's and MND?",
+      "choices": [
+        {
+          "text": "The misbehaving proteins that drive these diseases sit inside cells, out of reach of normal antibodies",
+          "correct": true
+        },
+        {
+          "text": "Brain cells cannot be reached by drugs given as pills",
+          "correct": false
+        },
+        {
+          "text": "The immune system does not make antibodies against brain proteins",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eConventional antibody drugs act outside cells. Intrabodies aim at disease-related\nproteins in their native environment within the cell — a target class antibodies\ncould not previously reach.\u003c/p\u003e"
+    }
+  ]
+}

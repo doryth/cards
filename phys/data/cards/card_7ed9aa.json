@@ -1,0 +1,110 @@
+{
+  "id": "card_7ed9aa",
+  "slug": "nuclear-shape-from-tiny-big-bangs",
+  "type": "news",
+  "title": "A Tiny Big Bang Reveals the Shape of the Nucleus",
+  "hook": "Smashing small nuclei at CERN made quark-gluon plasma — the stuff that filled the universe microseconds after the Big Bang — and the debris carried a fingerprint of the colliding nuclei's shape.",
+  "key_points": [
+    "Quark-gluon plasma is matter so hot that protons and neutrons dissolve into free quarks and gluons.",
+    "It is believed to have filled the cosmos in the first microseconds after the Big Bang.",
+    "CERN made it by colliding surprisingly small nuclei at nearly the speed of light.",
+    "The pattern of particles flying out encodes the geometric shape of the nuclei that collided.",
+    "That gives one experiment two payoffs: nuclear structure on Earth and physics of the early universe."
+  ],
+  "content_html": "\u003cp\u003eCollide two atomic nuclei hard enough and, for a fleeting instant, the protons and neutrons stop existing as separate objects: their quarks and gluons roam free in a state called quark-gluon plasma. That is thought to be what the entire universe was made of in its first microseconds, which is why physicists describe these collisions as tiny Big Bangs.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, a CERN team produced this state by colliding surprisingly small nuclei at nearly the speed of light — small enough that it was not obvious a true plasma would form at all. The second result is the more elegant one: the plasma expands outward along whatever shape it was born into, so the spatial pattern of particles reaching the detectors carries an imprint of the geometry of the nuclei that made it. One experiment therefore probes two very different scales at once — the structure of nuclei sitting in matter today, and the conditions of the universe's earliest moments.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260822015143.htm",
+    "published_at": "2026-08-23",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "cosmology"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-23",
+  "related": [
+    {
+      "id": "card_e16fb0",
+      "slug": "quark-gluon-plasma-in-light-ion-collisions",
+      "type": "paper",
+      "title": "Evidence for Sequential Υ(nS) Suppression in Light Ion Collisions",
+      "hook": "Physicists just found the same 'melting pattern' that signals a quark-gluon plasma — the universe's primordial soup — in much smaller particle collisions than ever confirmed before.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "card_06b9c7",
+      "slug": "the-big-bang",
+      "type": "concept",
+      "title": "The Big Bang",
+      "hook": "About 13.8 billion years ago the universe began hot and dense and has been expanding ever since — but it wasn't an explosion into empty space. Space itself stretched.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7ed9aa#0",
+      "format": "flip",
+      "prompt": "What is quark-gluon plasma, and when was the whole universe made of it?",
+      "back_html": "\u003cp\u003eMatter heated so violently that protons and neutrons melt into free quarks and\ngluons. Physicists believe it filled the whole cosmos in the first microseconds\nafter the Big Bang.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7ed9aa#1",
+      "format": "quiz",
+      "prompt": "What surprised physicists about this run of collisions?",
+      "choices": [
+        {
+          "text": "Quark-gluon plasma formed even in collisions of quite small nuclei",
+          "correct": true
+        },
+        {
+          "text": "The plasma stayed stable for several seconds",
+          "correct": false
+        },
+        {
+          "text": "The colliding nuclei fused into a single heavy element",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe headline result is that the primordial-soup state showed up in collisions of\nsurprisingly small nuclei, not only in the heavy-ion smashes usually used.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7ed9aa#2",
+      "format": "flip",
+      "prompt": "How can a collision that destroys a nucleus tell you the nucleus's shape?",
+      "back_html": "\u003cp\u003eThe plasma expands along the geometry it was created in, so the spatial pattern\nof particles that flies out keeps a fingerprint of how the colliding nuclei were\nshaped.\u003c/p\u003e"
+    }
+  ]
+}

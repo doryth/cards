@@ -1,0 +1,114 @@
+{
+  "id": "card_224ba8",
+  "slug": "gravitational-aharonov-bohm-effect",
+  "type": "paper",
+  "title": "A Field You Can't Reach Still Shifts Your Phase",
+  "hook": "Spin a hollow cylinder and the gravitomagnetic field it makes exists only inside — where no particle goes. It still changes the interference pattern outside. Gravity's Aharonov-Bohm effect.",
+  "key_points": [
+    "The setup: quantum interference of two paths that encircle a slowly rotating, infinitely long, infinitely thin cylindrical shell.",
+    "The shell's rotation shifts the interference pattern even though it doesn't affect classical motion outside the shell.",
+    "The gravitomagnetic field is nonzero only inside the shell — a region the interfering particles never enter.",
+    "This makes it a gravitational analogue of the electromagnetic Aharonov-Bohm effect, where a confined field shifts the quantum phase in a field-free region.",
+    "It shows that in gravity too, the potential rather than the local field is what quantum phase responds to."
+  ],
+  "content_html": "\u003cp\u003eIn 1959 Yakir Aharonov and David Bohm pointed out something unsettling about quantum mechanics and electromagnetism. Thread a magnetic field through a solenoid, send electrons around the outside where the field is exactly zero, and the interference pattern still shifts. Classically nothing happened to the electrons; quantum mechanically, the vector potential they passed through carries information the field alone does not.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eZhongyou Mo and Leonardo Modesto work out the gravitational version. Their source is a slowly rotating, infinitely long, infinitely thin cylindrical shell, and they compute the quantum interference of two paths that encircle it, using the spacetime metric the shell induces. Rotating the shell changes the interference pattern — even though the rotation makes no difference at all to the classical motion of particles outside. The reason is the same as in the electromagnetic case: the gravitomagnetic field, general relativity's analogue of a magnetic field arising from moving mass, turns out to be nonzero only \u003cem\u003einside\u003c/em\u003e the shell, in a region the interfering particles never visit. A field locked away where nothing can reach it nonetheless leaves its mark on quantum phase in the field-free exterior.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Zhongyou Mo",
+      "Leonardo Modesto"
+    ],
+    "url": "https://arxiv.org/abs/2608.15587",
+    "published_at": "2026-08-16",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-20",
+  "date": "2026-08-16",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e8216a",
+      "slug": "detecting-quantum-gravitational-waves",
+      "type": "paper",
+      "title": "Could We Ever Tell a Gravitational Wave Is Quantum?",
+      "hook": "If gravity is quantum, gravitational waves should arrive in squeezed quantum states. This analysis finds nearly every route to observing that squeezing quietly destroys it.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_224ba8#0",
+      "format": "flip",
+      "prompt": "What makes this a gravitational Aharonov-Bohm effect?",
+      "back_html": "\u003cp\u003eA field confined to a region the particles \u003cstrong\u003ecannot access\u003c/strong\u003e — inside the rotating shell —\nstill shifts their quantum interference phase outside it. That's the defining feature of\nthe electromagnetic Aharonov-Bohm effect, now in gravity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_224ba8#1",
+      "format": "quiz",
+      "prompt": "Where is the gravitomagnetic field of the rotating shell nonzero?",
+      "choices": [
+        {
+          "text": "Only inside the shell, where the interfering particles never go",
+          "correct": true
+        },
+        {
+          "text": "Only outside the shell, along the particle paths",
+          "correct": false
+        },
+        {
+          "text": "Everywhere, falling off with distance from the shell",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe field is confined to the shell's interior. The interference happens entirely in the\nexterior region — which is exactly why the phase shift is surprising.\u003c/p\u003e"
+    },
+    {
+      "id": "card_224ba8#2",
+      "format": "flip",
+      "prompt": "Why doesn't the shell's rotation show up in classical motion outside it?",
+      "back_html": "\u003cp\u003eBecause it contributes nothing to the classical trajectories of particles propagating\noutside the shell — the effect is visible \u003cstrong\u003eonly\u003c/strong\u003e in the quantum interference pattern.\u003c/p\u003e"
+    }
+  ]
+}

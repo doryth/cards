@@ -1,0 +1,86 @@
+{
+  "id": "card_fbeec2",
+  "slug": "ai-solves-math-problem",
+  "type": "news",
+  "title": "An AI Cracked an 80-Year-Old Math Problem",
+  "hook": "An OpenAI model produced a solution to a famous math problem that had stumped people for about 80 years — a real milestone, with some important fine print.",
+  "key_points": [
+    "An OpenAI model generated a solution to a long-unsolved famous math problem.",
+    "The problem had reportedly gone unsolved by humans for roughly 80 years.",
+    "A machine writing a proof still needs human mathematicians to verify it's correct.",
+    "It's a striking result, not proof that AI now 'does math' on its own across the board."
+  ],
+  "content_html": "\u003cp\u003eIn June 2026, Ars Technica reported that an OpenAI model produced a solution to a famous math problem that had reportedly gone unsolved for around 80 years. That's a genuinely notable moment: it's the kind of hard, long-open question that has resisted plenty of smart human effort. The honest takeaway, though, sits between two extremes — it's neither a parlor trick nor a sign that machines have suddenly mastered mathematics.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA couple of caveats keep this in proportion. First, a proof written by an AI is a \u003cem\u003eclaim\u003c/em\u003e until human mathematicians check every step; verification is what turns a generated answer into an accepted result. Second, solving one celebrated problem doesn't mean AI now \u0026quot;does math\u0026quot; reliably on its own — these systems can still stumble on far simpler arithmetic, and a single success doesn't generalize to everything. So enjoy the milestone for what it is: an impressive, specific achievement that experts will scrutinize, not a blanket guarantee about machine reasoning.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Kai Williams"
+    ],
+    "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths",
+    "published_at": "2026-06-01",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-now",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "reasoning"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-05",
+  "date": "2026-06-01",
+  "related": [],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fbeec2#0",
+      "format": "flip",
+      "prompt": "What did the OpenAI model reportedly accomplish?",
+      "back_html": "\u003cp\u003eIt produced a solution to a famous math problem that had gone unsolved by\npeople for roughly 80 years.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fbeec2#1",
+      "format": "quiz",
+      "prompt": "Why doesn't an AI-written proof end the story?",
+      "choices": [
+        {
+          "text": "Human mathematicians still have to verify the proof is actually correct",
+          "correct": true
+        },
+        {
+          "text": "The proof automatically updates every textbook",
+          "correct": false
+        },
+        {
+          "text": "AI proofs can never be checked by people",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA generated proof is a claim until experts check each step. Verification by\nmathematicians is what turns a result into a confirmed one.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fbeec2#2",
+      "format": "quiz",
+      "prompt": "What does this result NOT prove?",
+      "choices": [
+        {
+          "text": "That AI now reliably 'does math' on its own across the board",
+          "correct": true
+        },
+        {
+          "text": "That AI can sometimes help with hard problems",
+          "correct": false
+        },
+        {
+          "text": "That this particular problem got a solution",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOne striking solution to one problem is a milestone, not evidence that AI\nhandles all of mathematics independently.\u003c/p\u003e"
+    }
+  ]
+}

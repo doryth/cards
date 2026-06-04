@@ -1,0 +1,118 @@
+{
+  "id": "card_e5b14a",
+  "slug": "workers-not-automating-away",
+  "type": "news",
+  "title": "15 Million Real AI Chats Say Your Job Is Mostly Fine",
+  "hook": "Google looked at how people actually use AI at work — 15 million interactions — and found that for most jobs, most tasks are simply untouched. The hype is running ahead of the data.",
+  "key_points": [
+    "Google analyzed roughly 15 million real AI interactions, per Ars Technica's reporting.",
+    "The finding: most tasks in most occupations show little or no AI involvement so far.",
+    "Where AI does show up, it more often assists a task than replaces the whole job.",
+    "A job is a bundle of many tasks; automating a few of them isn't the same as eliminating the role.",
+    "Real usage data is a useful counterweight to both executive hype and layoff panic."
+  ],
+  "content_html": "\u003cp\u003eEvery quarter brings another executive predicting that AI will do your job. Google went and looked at the receipts instead: roughly 15 million real interactions between people and its AI tools. The conclusion Ars Technica draws from the data is deflating for the hype cycle — most tasks, at most jobs, are so far basically unaffected.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe useful mental model here is that a job is a bundle of tasks, not a single thing. Even when AI handles a few of them well — drafting the email, summarizing the document, cleaning up the spreadsheet — the rest of the bundle stays stubbornly human: the judgment calls, the relationships, the accountability when something goes wrong. That's why \u0026quot;AI touches some of my work\u0026quot; and \u0026quot;AI replaces me\u0026quot; are very different claims, and why usage data matters. None of this promises the picture holds forever; it measures the present, not 2030. But when you next read a confident forecast about mass automation, it's worth asking what evidence it rests on — and whether anyone checked what people are actually doing all day.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Kyle Orland"
+    ],
+    "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away",
+    "published_at": "2026-07-28",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-and-jobs",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "benchmark"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-07-28",
+  "related": [
+    {
+      "id": "card_b4f14c",
+      "slug": "ai-and-jobs",
+      "type": "concept",
+      "title": "AI \u0026 Jobs",
+      "hook": "AI is less likely to take your whole job than to take certain tasks within it. The pattern through history: tools reshape work faster than they erase it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bb7ebb",
+      "slug": "ai-help-not-replace",
+      "type": "news",
+      "title": "'AI Will Help You, Not Replace You' — Maybe",
+      "hook": "Microsoft's AI chief walked back his own claim that AI would automate white-collar jobs like lawyers and accountants, clarifying he meant AI will help those workers — not do their work for them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e5b14a#0",
+      "format": "quiz",
+      "prompt": "What did Google's analysis of ~15 million real AI interactions find?",
+      "choices": [
+        {
+          "text": "Most tasks in most occupations are so far largely unaffected by AI",
+          "correct": true
+        },
+        {
+          "text": "Most office jobs had already been fully automated",
+          "correct": false
+        },
+        {
+          "text": "AI was used mainly for entertainment, not work",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe headline result was how little had changed: AI shows up in some tasks, but\nmost work across most occupations was untouched at the time of the analysis.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e5b14a#1",
+      "format": "flip",
+      "prompt": "Why does 'AI can do some of my tasks' not mean 'AI can do my job'?",
+      "back_html": "\u003cp\u003eA job is a bundle of many different tasks. Automating a handful of them\nreshapes the work rather than removing the role — which is what the usage\ndata shows happening so far.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e5b14a#2",
+      "format": "quiz",
+      "prompt": "Why is real usage data valuable in the AI-and-jobs debate?",
+      "choices": [
+        {
+          "text": "It checks both hype and panic against what people are actually doing",
+          "correct": true
+        },
+        {
+          "text": "It predicts exactly which jobs will vanish and when",
+          "correct": false
+        },
+        {
+          "text": "It proves AI will never affect employment",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUsage data measures the present, not the future — but it's a grounded\ncounterweight to sales pitches on one side and doom forecasts on the other.\u003c/p\u003e"
+    }
+  ]
+}

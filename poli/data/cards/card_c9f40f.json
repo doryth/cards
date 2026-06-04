@@ -1,0 +1,95 @@
+{
+  "id": "card_c9f40f",
+  "slug": "voting-rights-act-alabama",
+  "type": "news",
+  "title": "Voting Rights \u0026 the Map Fight",
+  "hook": "The Supreme Court let Alabama use a congressional map a lower court called racially discriminatory — a window into the Voting Rights Act and how redistricting fights reach the Court.",
+  "key_points": [
+    "SCOTUSblog reported the Supreme Court permitted Alabama to use a congressional map a lower court had struck down.",
+    "The lower court had found the map racially discriminatory; the high court allowed its use.",
+    "The Voting Rights Act of 1965 limits drawing district lines in ways that dilute minority voting power.",
+    "Redistricting disputes routinely climb from lower courts to the Supreme Court for a final say."
+  ],
+  "content_html": "\u003cp\u003eSCOTUSblog reports that the U.S. Supreme Court permitted the state of Alabama to use a congressional district map that a lower federal court had struck down as racially discriminatory. The immediate effect is that the contested map may be used while litigation continues. Beyond the day's headline, the case is a clear example of a recurring American legal struggle: the fight over how electoral maps are drawn, and the federal law that constrains them.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe durable concept at the center is the Voting Rights Act of 1965, a landmark federal law enacted to combat racial discrimination in voting. Among other things, it limits \u0026quot;vote dilution\u0026quot; — drawing district boundaries in ways that weaken the collective voting power of a racial minority, a practice often called racial gerrymandering. When a state adopts a new congressional map, voters or civil-rights groups can sue, arguing the lines violate the Act or the Constitution; a lower court may agree and block the map, as happened here. Because these disputes turn on weighty constitutional and statutory questions — and because maps must be settled before elections can proceed — they frequently reach the Supreme Court, which can let a map stand, send it back, or order changes. This case reflects that pattern: a lower-court finding of discrimination, an appeal, and a Supreme Court decision about whether the map may be used in the meantime, with the underlying legal merits still to be resolved.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Amy Howe",
+      "Kelsey Dallas"
+    ],
+    "url": "https://scotusblog.com/2026/06/supreme-court-permits-alabama-to-use-congressional-map-struck-by-lower-court-as-racially-discrim",
+    "published_at": "2026-06-03",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties",
+    "elections-voting-systems"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-06-03",
+  "related": [
+    {
+      "id": "card_15c8cc",
+      "slug": "electoral-districts-and-gerrymandering",
+      "type": "concept",
+      "title": "Districts \u0026 Gerrymandering",
+      "hook": "Where you draw the lines on a map can decide an election before a single vote is cast — which is exactly what gerrymandering exploits.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c9f40f#0",
+      "format": "flip",
+      "prompt": "What does the Voting Rights Act of 1965 restrict in the context of redistricting?",
+      "back_html": "\u003cp\u003eDrawing district lines in ways that \u003cstrong\u003edilute the voting power of racial\nminorities\u003c/strong\u003e — a key federal limit on how maps may be drawn.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c9f40f#1",
+      "format": "quiz",
+      "prompt": "According to SCOTUSblog, what did the Supreme Court do in this case?",
+      "choices": [
+        {
+          "text": "Permitted Alabama to use a congressional map a lower court had found racially discriminatory",
+          "correct": true
+        },
+        {
+          "text": "Ordered Alabama to redraw the map immediately",
+          "correct": false
+        },
+        {
+          "text": "Banned all congressional redistricting nationwide",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Court allowed the contested map to be used despite the lower court's\nfinding; such disputes commonly rise to the Supreme Court.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c9f40f#2",
+      "format": "quiz",
+      "prompt": "What is 'racial gerrymandering'?",
+      "choices": [
+        {
+          "text": "Drawing district boundaries in a way that disadvantages voters of a particular race",
+          "correct": true
+        },
+        {
+          "text": "Counting votes more than once in some districts",
+          "correct": false
+        },
+        {
+          "text": "Holding elections only in certain neighborhoods",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt refers to map-drawing that dilutes or disadvantages a racial group's\nvoting strength — the kind of claim the Voting Rights Act addresses.\u003c/p\u003e"
+    }
+  ]
+}

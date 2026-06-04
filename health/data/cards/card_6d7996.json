@@ -1,0 +1,99 @@
+{
+  "id": "card_6d7996",
+  "slug": "gdf15-protects-the-liver",
+  "type": "news",
+  "title": "An Appetite Hormone With a Second Job in the Liver",
+  "hook": "GDF15 is known for suppressing appetite. McMaster researchers found it also runs a brain-to-liver circuit that calms liver inflammation — even without any weight loss.",
+  "key_points": [
+    "GDF15 is a hormone already studied for curbing appetite and driving weight loss.",
+    "McMaster researchers describe a previously unknown brain-to-liver pathway it activates.",
+    "The pathway triggers glucocorticoid release, which dampens immune activity in the liver.",
+    "The protective effect appeared independent of weight loss — the liver benefit isn't just a side effect of being lighter.",
+    "That matters for fatty liver disease, where inflammation and scarring drive the damage.",
+    "Preclinical work; GDF15-based drugs are still in development."
+  ],
+  "content_html": "\u003cp\u003eGDF15 has been studied mostly as an appetite hormone: raise it, and animals and people eat less. Researchers at McMaster University report a second role that doesn't obviously follow from the first. GDF15 activates a previously undescribed pathway from the brain to the liver, prompting the release of glucocorticoids that quiet immune activity in liver tissue.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe detail that makes this more than mechanism-for-its-own-sake is the independence from weight. Losing weight already helps a fatty liver, so any benefit in a weight-loss context is hard to attribute. Here the anti-inflammatory effect showed up without the weight loss, which argues for a distinct circuit rather than a downstream consequence.\u003c/p\u003e\n\u003cp\u003eThat's directly relevant to fatty liver disease, where the damage that matters comes from inflammation and progressive scarring rather than the fat itself. If a drug could hit the inflammation arm on its own, it would be useful for patients who can't or don't lose weight. This is preclinical work reported via ScienceDaily, and glucocorticoid signaling is a double-edged tool in the body — but the pathway is a genuinely new one to aim at.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260820202854.htm",
+    "published_at": "2026-08-21",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "chronic-conditions"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_b379a7",
+      "slug": "glp1-beyond-weight-loss",
+      "type": "news",
+      "title": "GLP-1 Drugs Linked to Lower Addiction Risk",
+      "hook": "A study of ~600,000 U.S. veterans links GLP-1 drugs like semaglutide to lower rates of addiction and overdose — an association, not proof that the drugs cause the effect.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_0532e5",
+      "slug": "coffee-and-liver-disease",
+      "type": "news",
+      "title": "Coffee Tracks With a Markedly Healthier Liver",
+      "hook": "Across 355,000 people followed 13 years, five-plus cups a day came with a 47% lower risk of liver cancer. Decaf worked too — so it isn't the caffeine doing the work.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-25"
+    },
+    {
+      "id": "card_67a20f",
+      "slug": "brp-appetite-peptide",
+      "type": "news",
+      "title": "An AI Search Through the Genome Turned Up a Natural Appetite Peptide",
+      "hook": "Stanford scientists let an algorithm read all 20,000 human protein-coding genes looking for hidden hormones. It found a 12-amino-acid peptide that curbs appetite through the hypothalamus alone.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-24"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6d7996#0",
+      "format": "flip",
+      "prompt": "What was GDF15 already known for?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eCurbing appetite\u003c/strong\u003e and supporting weight loss — which is why it's been of interest\nas an obesity drug target.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6d7996#1",
+      "format": "quiz",
+      "prompt": "Why is it significant that GDF15's liver benefit appeared without weight loss?",
+      "choices": [
+        {
+          "text": "It means the liver protection is a direct pathway, not just a consequence of losing weight",
+          "correct": true
+        },
+        {
+          "text": "It means GDF15 doesn't actually affect appetite",
+          "correct": false
+        },
+        {
+          "text": "It means weight loss is bad for the liver",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLosing weight helps a fatty liver anyway, so a benefit that survives \u003cem\u003ewithout\u003c/em\u003e\nweight loss points to a separate mechanism — here, a brain-to-liver circuit that\nreleases glucocorticoids and calms immune activity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6d7996#2",
+      "format": "flip",
+      "prompt": "How does the brain-to-liver pathway calm the liver?",
+      "back_html": "\u003cp\u003eGDF15 acting on the brain triggers release of \u003cstrong\u003eglucocorticoids\u003c/strong\u003e, which dampen\nimmune activity in the liver — reducing inflammation and the scarring that follows.\u003c/p\u003e"
+    }
+  ]
+}

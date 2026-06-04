@@ -1,0 +1,129 @@
+{
+  "id": "card_cd3838",
+  "slug": "relativistic-bohmian-photon-trajectories",
+  "type": "paper",
+  "title": "Tracing the Path a Photon 'Really' Took",
+  "hook": "Standard quantum mechanics says particles have no trajectories. Bohmian mechanics says they do — and now a single photon's relativistic Bohmian path has been reconstructed in the lab.",
+  "key_points": [
+    "In the standard interpretation, a quantum particle has no definite path between preparation and detection.",
+    "Bohmian (pilot-wave) mechanics disagrees: each particle rides a guiding wave along a definite, if unobservable-in-one-shot, trajectory.",
+    "Making Bohmian mechanics compatible with relativity is hard, and an operational recipe for doing so was proposed only recently.",
+    "The team reconstructed relativistic Bohmian trajectories of single photons in a Michelson-Sagnac interferometer, where counter-propagating amplitudes meet head-on at light speed.",
+    "As the theory predicts, the reconstructed paths show both subluminal and superluminal features as the photon crosses interference fringes."
+  ],
+  "content_html": "\u003cp\u003eAsk standard quantum mechanics what path a photon took through an interferometer and it declines to answer: between preparation and detection there is only a wavefunction, not a trajectory. Bohmian mechanics — the pilot-wave picture — takes the opposite stance. It says the particle is always somewhere definite, carried along by a guiding wave, and reproduces every quantum prediction while doing so. The trajectories are not directly visible in any single run, but they can be reconstructed from the average flow across many runs.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe long-standing snag is relativity. Bohmian mechanics has an awkward relationship with Lorentz invariance, and an operational method for reconciling the two was only proposed recently. A group at the University of Queensland (Das, Dahl, Ralph, White, Romero and colleagues) put that method to work on single photons in a Michelson–Sagnac interferometer — a geometry where counter-propagating probability amplitudes collide head-on, both moving at the speed of light.\u003c/p\u003e\n\u003cp\u003eThe reconstructed trajectories match what relativistic Bohmian theory predicts, including its stranger features: as a photon works its way across the interference fringes, the inferred path shows both subluminal and superluminal stretches. Nothing here changes any experimental prediction of quantum mechanics — Bohmian mechanics is an interpretation, and it agrees with the standard one on all observable outcomes. What the work provides is experimental access to a picture usually confined to blackboards, and a platform for probing its counterintuitive relativistic behavior.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Sayantan Das",
+      "Daniel S. Dahl",
+      "Daniel Peace",
+      "Timothy C. Ralph",
+      "Andrew G. White",
+      "Jacquiline Romero"
+    ],
+    "url": "https://arxiv.org/abs/2608.26778",
+    "published_at": "2026-08-27",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_50048a",
+      "slug": "pilot-wave-theory",
+      "type": "paper",
+      "title": "The Quantum Theory Where Particles Have Positions",
+      "hook": "Pilot-wave theory takes the radical step of saying particles always have definite positions, guided by the wave function. It reproduces all of quantum mechanics — at a price.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fbcad2",
+      "slug": "classical-probability-double-slit",
+      "type": "paper",
+      "title": "Can Classical Probability Alone Explain the Double-Slit Pattern?",
+      "hook": "The double-slit interference pattern is physics' go-to symbol of quantum weirdness. A theoretical study shows classical probability alone can reproduce it, given the right ingredients.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_50048a",
+      "slug": "pilot-wave-theory",
+      "type": "paper",
+      "title": "The Quantum Theory Where Particles Have Positions",
+      "hook": "Pilot-wave theory takes the radical step of saying particles always have definite positions, guided by the wave function. It reproduces all of quantum mechanics — at a price.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_cd3838#0",
+      "format": "flip",
+      "prompt": "How does Bohmian mechanics differ from the standard interpretation of quantum theory?",
+      "back_html": "\u003cp\u003eBohmian mechanics assigns every particle a definite trajectory, guided by a pilot wave.\nThe standard interpretation assigns no path at all between preparation and detection —\nonly probabilities for outcomes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cd3838#1",
+      "format": "quiz",
+      "prompt": "How can a trajectory be reconstructed if measuring a photon destroys it?",
+      "choices": [
+        {
+          "text": "By building up the average flow from many photons, not by tracking one photon end to end",
+          "correct": true
+        },
+        {
+          "text": "By measuring position and momentum of a single photon simultaneously and exactly",
+          "correct": false
+        },
+        {
+          "text": "By slowing the photon below the speed of light so it can be followed directly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBohmian trajectories are reconstructed statistically from an ensemble. No single photon is\nfollowed continuously — that would violate the uncertainty principle.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cd3838#2",
+      "format": "flip",
+      "prompt": "What surprising feature did the reconstructed relativistic trajectories show?",
+      "back_html": "\u003cp\u003eBoth subluminal and superluminal segments as the photon traversed the interference\nfringes — a counterintuitive prediction of relativistic Bohmian theory that the experiment\nwas able to access.\u003c/p\u003e"
+    }
+  ]
+}

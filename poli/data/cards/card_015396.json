@@ -1,0 +1,109 @@
+{
+  "id": "card_015396",
+  "slug": "checks-and-balances",
+  "type": "concept",
+  "title": "Checks and Balances",
+  "hook": "Separating power isn't enough — each branch also gets tools to limit the others, so power keeps power in check.",
+  "key_points": [
+    "Checks and balances give each branch ways to restrain the actions of the others.",
+    "Examples: a legislature can reject an executive's proposals; courts can strike down unlawful acts.",
+    "The goal is mutual accountability, not gridlock for its own sake.",
+    "It complements separation of powers: dividing power, then making the parts watch each other."
+  ],
+  "content_html": "\u003cp\u003eIf separation of powers divides government into branches, checks and balances is the follow-up idea that keeps that division meaningful. Each branch is given specific tools to limit what the others can do, so that power restrains power. A legislature might refuse to approve a budget or a proposed law; an executive might decline to sign one; a court might rule that an action breaks the constitution and cannot stand.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe point is mutual accountability. No branch can act entirely on its own without the others having some way to respond, which discourages abuse and forces cooperation. The exact mechanisms vary by country — confirmation of appointments, votes of no confidence, judicial review, and budget control are common examples. Critics sometimes note the trade-off: too many checks can slow decisions down. The design reflects a deliberate choice to prioritize restraint of power over speed, on the theory that accountable government is worth the friction.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_466bf3",
+      "slug": "separation-of-powers",
+      "type": "concept",
+      "title": "Separation of Powers",
+      "hook": "Split government into branches that make, enforce, and interpret the law — so no single part can do all three.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5bd59a",
+      "slug": "how-a-bill-becomes-law",
+      "type": "concept",
+      "title": "How a Bill Becomes a Law",
+      "hook": "An idea becomes binding law only after a journey: drafting, committee review, debate, votes, and final approval.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_015396#0",
+      "format": "flip",
+      "prompt": "How do checks and balances differ from separation of powers?",
+      "back_html": "\u003cp\u003eSeparation of powers \u003cstrong\u003edivides\u003c/strong\u003e authority among branches; checks and\nbalances give each branch tools to \u003cstrong\u003elimit\u003c/strong\u003e the others.\u003c/p\u003e"
+    },
+    {
+      "id": "card_015396#1",
+      "format": "quiz",
+      "prompt": "Which is an example of a check on another branch?",
+      "choices": [
+        {
+          "text": "A court striking down a law it finds unlawful",
+          "correct": true
+        },
+        {
+          "text": "A branch deciding it no longer has to follow the constitution",
+          "correct": false
+        },
+        {
+          "text": "Citizens being barred from voting",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eJudicial review — a court overturning an unlawful act — is a classic\ncheck one branch holds over another.\u003c/p\u003e"
+    },
+    {
+      "id": "card_015396#2",
+      "format": "quiz",
+      "prompt": "What is the goal of checks and balances?",
+      "choices": [
+        {
+          "text": "Mutual accountability among the branches",
+          "correct": true
+        },
+        {
+          "text": "Letting one branch overrule all the others permanently",
+          "correct": false
+        },
+        {
+          "text": "Making government completely unable to act",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe aim is for branches to hold each other accountable, not to hand\ntotal control to one or to freeze government entirely.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "card_6021f0",
+  "slug": "quantum-light-engines-and-waste-heat",
+  "type": "news",
+  "title": "When 'Waste Heat' Isn't Waste",
+  "hook": "Build an engine out of one atom and a few photons and thermodynamics starts to wobble: what counts as heat, and what energy can still do work?",
+  "key_points": [
+    "University of Basel researchers built a theoretical framework reconciling quantum mechanics with thermodynamics for microscopic 'light engines'.",
+    "The engine is about as simple as a machine can get: a single atom exchanging energy with particles of light.",
+    "At that scale the textbook split between useful work and dissipated heat stops being obvious.",
+    "Their accounting finds usable energy hiding in what a classical analysis would write off as waste heat."
+  ],
+  "content_html": "\u003cp\u003eHeat engines are one of physics' oldest success stories: take heat from a hot place, dump some in a cold place, and pocket the difference as useful work. The bookkeeping is clean because the machines are big. Shrink one down to a single atom trading energy with a handful of photons and the ledger gets murky — what part of that energy is \u0026quot;work\u0026quot; and what part is \u0026quot;heat\u0026quot;?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers at the University of Basel report a theoretical framework that brings quantum physics and thermodynamics into better agreement for exactly these microscopic light engines. Their result, summarized by ScienceDaily, is that the classical instinct to write off dissipated energy as unusable waste heat is too crude at the quantum scale: some of that energy is still available to do useful work once you account for the quantum state properly. It's a reminder that thermodynamics, for all its age, is still being rebuilt from the bottom up wherever quantum mechanics takes over.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260819041222.htm",
+    "published_at": "2026-08-19",
+    "license": "ScienceDaily (press summary)"
+  },
+  "topic_ids": [
+    "heat-thermo",
+    "modern-physics"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_7150b9",
+      "slug": "heat-engines-and-efficiency",
+      "type": "concept",
+      "title": "Heat Engines and Why None Are Perfect",
+      "hook": "Every car engine and power plant turns heat into motion — but physics forbids turning all of it. Some heat must always be thrown away, which is why perpetual motion is impossible.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6ca0c3",
+      "slug": "superconducting-quantum-heat-engine",
+      "type": "news",
+      "title": "A Heat Engine That Runs Near Absolute Zero",
+      "hook": "The first cyclic superconducting quantum heat engine turns a whisper of heat a hair above absolute zero into useful work — and could one day power quantum computers from inside the fridge.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "card_74d0f8",
+      "slug": "what-really-powers-a-quantum-demon",
+      "type": "paper",
+      "title": "The Quantum Demon Was Cheating in a Different Way Than We Thought",
+      "hook": "The story went: perfectly tell apart overlapping quantum states and you could break the second law. A new analysis says that operation makes things worse — the real culprit is its reverse.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6021f0#0",
+      "format": "flip",
+      "prompt": "What makes the work/heat distinction hard for a one-atom engine?",
+      "back_html": "\u003cp\u003eAt that scale the machine is quantum, so the textbook classical split between\n\u003cstrong\u003eenergy that can do work\u003c/strong\u003e and \u003cstrong\u003eenergy dissipated as heat\u003c/strong\u003e stops being obvious —\nthe two aren't cleanly separable anymore.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6021f0#1",
+      "format": "quiz",
+      "prompt": "What did the Basel team's framework find about so-called waste heat in microscopic light engines?",
+      "choices": [
+        {
+          "text": "Some of it is actually still available to do useful work",
+          "correct": true
+        },
+        {
+          "text": "There is far more of it than classical thermodynamics predicts",
+          "correct": false
+        },
+        {
+          "text": "It vanishes entirely once the engine is small enough",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA proper quantum accounting reveals usable energy hiding inside what a classical\nanalysis would simply write off as dissipated waste heat.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6021f0#2",
+      "format": "flip",
+      "prompt": "What are the working parts of the 'light engine' in this work?",
+      "back_html": "\u003cp\u003eA single \u003cstrong\u003eatom\u003c/strong\u003e exchanging energy with \u003cstrong\u003eparticles of light\u003c/strong\u003e (photons) — about the\nsimplest machine you can build.\u003c/p\u003e"
+    }
+  ]
+}

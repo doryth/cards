@@ -1,0 +1,141 @@
+{
+  "id": "card_f48fca",
+  "slug": "who-decides-what-to-charge",
+  "type": "news",
+  "title": "Who Decides What to Charge",
+  "hook": "A prosecutor builds a case; headquarters picks the charge. That chain of command is normal — and it is also the point where a case can be quietly downgraded.",
+  "key_points": [
+    "Prosecutorial discretion means charging decisions are judgments, not automatic consequences of the evidence.",
+    "In hierarchical prosecution services, line prosecutors recommend and senior officials decide, so accountability for a charge sits above the person who investigated.",
+    "Civil rights cases in the U.S. routinely require consultation with the Justice Department's civil rights division in Washington — a coordination rule that also concentrates control.",
+    "Per ProPublica, Minnesota prosecutors planned to charge an ICE agent with deprivation of rights under color of law over the January 2026 shooting of Julio Cesar Sosa-Celis.",
+    "Washington directed that the case be charged only with false statements instead; the line prosecutor wrote that he objected in the strongest possible terms.",
+    "A DOJ official told ProPublica charging decisions adhere to the facts and law and that the review was not complete."
+  ],
+  "content_html": "\u003cp\u003eAn investigation produces facts. It does not produce a charge. Somebody has to decide which offense, if any, those facts will be presented to a court as — and in most prosecution services that decision does not belong to the person who did the investigating.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Megan Rose and Andy Mannix report that federal prosecutors in Minnesota planned to charge an ICE agent with deprivation of rights under color of law — the statute used in the George Floyd prosecutions — over the January 2026 shooting of Julio Cesar Sosa-Celis. Washington instead directed that the case be charged only with false statements. The assistant U.S. attorney handling it, Matthew Evans, wrote that the decision came from Main Justice and the U.S. attorney and that he \u0026quot;objected in the strongest possible terms and fought it as hard as I could.\u0026quot; A Justice Department official told ProPublica that charging decisions \u0026quot;adhere to the facts and law\u0026quot; and that the department had not reached a conclusion and would not rush its review. The structural feature underneath is worth learning independently of this case. Federal civil rights charges normally require consultation with the civil rights division in Washington, a rule designed to bring specialist review and national consistency. The same rule places the decision inside a chain of command that runs up to political appointees. Coordination and control are not separable here; whether that produces better decisions or downgraded ones depends on who is in the chain. (This card describes U.S. federal prosecution specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Megan Rose",
+      "Andy Mannix"
+    ],
+    "url": "https://propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
+    "published_at": "2026-09-03",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption",
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-03",
+  "related": [
+    {
+      "id": "card_a0fc6f",
+      "slug": "doj-civil-rights-investigations-of-local-police",
+      "type": "news",
+      "title": "When a Gun-Permit Decision Becomes a Federal Civil Rights Case",
+      "hook": "A city police department can revoke a concealed-carry license for 'good cause.' Who that standard gets applied to is what can turn it into a federal civil rights investigation.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_936ba0",
+      "slug": "agency-changes-policy-after-shootings",
+      "type": "news",
+      "title": "How a Federal Agency Changes Its Own Rules — No New Law Required",
+      "hook": "After a string of deadly shootings tied to its officers, ICE didn't wait for Congress to act. It just changed its own internal policy — a reminder of how much agencies can do on their own.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_25d9a3",
+      "slug": "who-can-narrow-a-subpoena",
+      "type": "news",
+      "title": "When the Defendant Helps Decide What Evidence You Get",
+      "hook": "A subpoena went to the city police, not the university. The university stepped in anyway to argue it was too broad — and won the right to help sort which files count.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-28"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_f48fca#0",
+      "format": "flip",
+      "prompt": "What is prosecutorial discretion, and why does it matter for accountability?",
+      "back_html": "\u003cp\u003eThe power to decide whether and what to charge. Because it is a judgment\nrather than an automatic result of the evidence, the same facts can\nproduce a serious charge, a lesser one, or none.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f48fca#1",
+      "format": "quiz",
+      "prompt": "Why does a headquarters-consultation requirement cut both ways in civil rights cases?",
+      "choices": [
+        {
+          "text": "It brings specialist review and consistency, but concentrates control over charging in political appointees' chain of command",
+          "correct": true
+        },
+        {
+          "text": "It removes all discretion by making charges automatic",
+          "correct": false
+        },
+        {
+          "text": "It transfers the decision to the trial judge",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCoordination rules exist for good reasons — uniform standards, expert\nreview — and the same structure lets a decision be overridden centrally.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f48fca#2",
+      "format": "quiz",
+      "prompt": "What charge did Washington direct instead of deprivation of rights under color of law, per ProPublica?",
+      "choices": [
+        {
+          "text": "False statements",
+          "correct": true
+        },
+        {
+          "text": "Obstruction of Congress",
+          "correct": false
+        },
+        {
+          "text": "No charge at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe downgrade from a civil rights charge to false statements is what the\nline prosecutor said he objected to in the strongest possible terms.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "card_e7bcdb",
+  "slug": "quantum-sensor-error-budgets",
+  "type": "paper",
+  "title": "Sensitivity Is Only a Third of What a Quantum Sensor Owes You",
+  "hook": "Two quantum magnetometers with identical headline sensitivity can disagree about the field by a factor of nearly 200. A new framework says which physical mechanism is to blame for which failure.",
+  "key_points": [
+    "Quantum sensors are marketed on sensitivity, but real applications also need accuracy and robustness.",
+    "The framework computes all three metrics from a single open-system simulation and attributes each to its limiting physical mechanism.",
+    "For a nitrogen-vacancy diamond ensemble the attribution inverts across metrics rather than tracking one dominant flaw.",
+    "Dephasing limits sensitivity, the thermal ground-state shift limits accuracy, and optical leakage limits robustness.",
+    "At identical sensitivity the recovered-field bias spans 8 to 1500 nT, so tuning on sensitivity alone can miss an accuracy target by two orders of magnitude.",
+    "The same modeling transfers to a cesium optically pumped magnetometer recording a human magnetocardiogram."
+  ],
+  "content_html": "\u003cp\u003eA quantum sensor is usually sold with one number: sensitivity, the smallest signal it can resolve. But an instrument that resolves a tiny field and reports the wrong value is not much use, and neither is one that drifts out of spec when conditions shift. Accuracy and robustness matter too — and it has been hard to say which physical mechanism inside the device is responsible for each.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eLeclerc and a large collaboration (arXiv, August 2026) introduce a framework that computes sensitivity, accuracy and robustness from a single open-system simulation and attributes each metric to its limiting mechanism, with a signed per-mechanism budget rather than a single culprit.\u003c/p\u003e\n\u003cp\u003eFor a nitrogen-vacancy diamond ensemble the attribution inverts across metrics: dephasing caps sensitivity, the thermal shift of the ground state caps accuracy, and optical leakage caps robustness. The practical consequence is stark. Among designs with identical sensitivity, the bias in the recovered field spans 8 to 1500 nT — so tuning a device on its headline number alone can miss an accuracy target by two orders of magnitude. The authors show the same modeling transfers to a different platform, a cesium optically pumped magnetometer recording a human magnetocardiogram, and argue it works as a digital twin: predict what fixing each limiter would buy, then design to the metrics the application actually needs.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Nima Leclerc",
+      "Marco Capelli",
+      "Kevin James Rietwyk",
+      "Mark Dong",
+      "Dmitry Lyakh",
+      "Geoffrey Iwata",
+      "Brandon Rodenburg",
+      "Sean Oliver",
+      "Benedikt Kloss",
+      "Jin-Sung Kim",
+      "Stefan Bogdanovic",
+      "Yunheng Chen",
+      "Meysam Sharifzadeh Mirshekarloo",
+      "Cedric Weber",
+      "Marcus Doherty",
+      "Ethan Pratt",
+      "Joseph Hagmann"
+    ],
+    "url": "https://arxiv.org/abs/2608.28519",
+    "published_at": "2026-08-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper",
+    "benchmark"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_064be1",
+      "slug": "isotropic-nv0-quantum-sensor",
+      "type": "paper",
+      "title": "A Diamond Magnetometer That Doesn't Care Which Way It Points",
+      "hook": "Diamond quantum sensors are exquisite — as long as the magnetic field lines up with the crystal. A neutral nitrogen-vacancy center drops that requirement entirely.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-27"
+    },
+    {
+      "id": "card_59a026",
+      "slug": "quantum-sensors-that-compute",
+      "type": "paper",
+      "title": "Don't Measure the Field, Measure the Answer",
+      "hook": "A single-qubit sensor gives you one bit per measurement. Instead of averaging thousands of them into a number, why not spend the quantum processing on the question you actually asked?",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-08-18"
+    },
+    {
+      "id": "card_b41405",
+      "slug": "quantum-gravimeter-navigates-without-gps",
+      "type": "paper",
+      "title": "Navigating by Gravity Alone",
+      "hook": "A ship crossed 83 km of open water with GPS switched off, steering by tiny local changes in Earth's gravity measured with falling cold atoms.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e7bcdb#0",
+      "format": "quiz",
+      "prompt": "Why is a sensor's headline sensitivity an incomplete specification?",
+      "choices": [
+        {
+          "text": "Two designs with identical sensitivity can differ enormously in accuracy and robustness, which are limited by different mechanisms",
+          "correct": true
+        },
+        {
+          "text": "Sensitivity is impossible to measure reliably in the lab",
+          "correct": false
+        },
+        {
+          "text": "Sensitivity always degrades over time, so the number is stale",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn the NV ensemble studied, sensitivity, accuracy and robustness are each capped by a\ndifferent physical mechanism — optimizing one need not help the others.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e7bcdb#1",
+      "format": "flip",
+      "prompt": "In the nitrogen-vacancy diamond ensemble, which mechanism limits each of the three metrics?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eDephasing\u003c/strong\u003e limits sensitivity, the \u003cstrong\u003ethermal ground-state shift\u003c/strong\u003e limits accuracy,\nand \u003cstrong\u003eoptical leakage\u003c/strong\u003e limits robustness.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e7bcdb#2",
+      "format": "quiz",
+      "prompt": "What range of recovered-field bias did designs at identical sensitivity span?",
+      "choices": [
+        {
+          "text": "8 to 1500 nT — roughly two orders of magnitude",
+          "correct": true
+        },
+        {
+          "text": "8 to 15 nT — a factor of about two",
+          "correct": false
+        },
+        {
+          "text": "Essentially zero spread, since sensitivity fixes accuracy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThat spread is the whole point: pick a design by sensitivity alone and you can land\ntwo orders of magnitude away from your accuracy requirement.\u003c/p\u003e"
+    }
+  ]
+}

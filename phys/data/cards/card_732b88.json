@@ -1,0 +1,103 @@
+{
+  "id": "card_732b88",
+  "slug": "thermodynamic-computers-use-noise",
+  "type": "news",
+  "title": "Computers That Compute With Randomness, Not Despite It",
+  "hook": "Ordinary chips burn power fighting random thermal noise. A new class of 'thermodynamic computers' does the opposite — it lets that noise do the computing.",
+  "key_points": [
+    "Conventional computers spend energy suppressing thermal fluctuations as unwanted noise.",
+    "Thermodynamic computers instead let a physical system's thermal jostling drive it toward a solution.",
+    "Some designs settle into a low-energy state that IS the answer; others follow noisy trajectories through an energy landscape over time.",
+    "Simulated versions have shown denoising and generative tasks using orders of magnitude less energy than digital neural networks — early, unreviewed claims still to be proven at scale."
+  ],
+  "content_html": "\u003cp\u003eEvery computer chip fights a constant battle against thermal noise — the random jiggling of atoms that engineers spend enormous energy trying to suppress so bits stay reliably 0 or 1. A growing field called thermodynamic computing flips that fight on its head: instead of fighting the noise, it puts it to work.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs physicist Patrick Coles puts it, the idea is \u0026quot;designing computers that exploit thermodynamics as a computational resource.\u0026quot; In one approach, a physical system — built from resonating circuits or other noisy hardware — is left to relax toward a low-energy configuration, and that resting state turns out to represent the solution to a problem like matrix inversion. In another, the system follows a noisy trajectory through an energy landscape over time (governed by the same math, Langevin dynamics, that describes a pollen grain jittering in water), continuously sampling a probability distribution instead of computing a single fixed answer. Simulations by researchers including Stephen Whitelam at Lawrence Berkeley National Lab suggest such systems could denoise images using around 100 billion times less heat dissipation than digital neural networks, and startups like Normal Computing and Extropic are building early hardware to test the idea — though these energy-savings claims are still unreviewed and far from proven at commercial scale.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Philip Ball"
+    ],
+    "url": "https://quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715",
+    "published_at": "2026-07-15",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "heat-thermo"
+  ],
+  "tags": [
+    "efficiency",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-15",
+  "related": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eff6e4",
+      "slug": "heat-vs-temperature",
+      "type": "concept",
+      "title": "Heat vs. Temperature",
+      "hook": "A sparkler can hit thousands of degrees yet barely burn you — because temperature and heat are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_732b88#0",
+      "format": "flip",
+      "prompt": "What do conventional computers do with thermal noise, and what do thermodynamic computers do instead?",
+      "back_html": "\u003cp\u003eConventional chips spend energy \u003cstrong\u003esuppressing\u003c/strong\u003e thermal noise. Thermodynamic\ncomputers \u003cstrong\u003eexploit\u003c/strong\u003e it, letting random thermal jostling do useful computation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_732b88#1",
+      "format": "quiz",
+      "prompt": "In one style of thermodynamic computing, how does the system arrive at an answer?",
+      "choices": [
+        {
+          "text": "It settles into a low-energy configuration that itself represents the solution",
+          "correct": true
+        },
+        {
+          "text": "It runs the same binary logic gates as a normal chip, just at a lower voltage",
+          "correct": false
+        },
+        {
+          "text": "It stores the answer in a separate memory chip before computing",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn equilibrium-style thermodynamic computing, the physical system naturally relaxes\ntoward a low-energy state — and that resting state encodes the answer.\u003c/p\u003e"
+    },
+    {
+      "id": "card_732b88#2",
+      "format": "flip",
+      "prompt": "Why might thermodynamic computers matter for the future of computing?",
+      "back_html": "\u003cp\u003eAs circuits get denser and hotter, dissipating heat and power gets harder. Early\nsimulations suggest thermodynamic designs could need dramatically less energy for\nsome tasks — though this is still unproven at scale.\u003c/p\u003e"
+    }
+  ]
+}

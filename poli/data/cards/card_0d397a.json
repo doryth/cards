@@ -1,0 +1,111 @@
+{
+  "id": "card_0d397a",
+  "slug": "public-opinion-and-polling",
+  "type": "concept",
+  "title": "Public Opinion \u0026 Polling",
+  "hook": "What 'the people' think shapes what governments do — but measuring it is trickier than it looks, and a bad poll can mislead as easily as a good one informs.",
+  "key_points": [
+    "Public opinion is the collective views of a population on issues and leaders.",
+    "Polls estimate it by surveying a sample meant to represent the whole.",
+    "A good poll needs a representative sample and neutral questions; flaws bias the result.",
+    "Opinion both shapes and is shaped by leaders, media, and events."
+  ],
+  "content_html": "\u003cp\u003ePublic opinion — the collective attitudes and views of a population on issues, policies, and leaders — is a powerful force in democratic politics. Governments watch it, parties try to shape it, and elections are in part contests to win it. But \u0026quot;what the public thinks\u0026quot; is not something you can simply read off; it has to be measured, and that is where opinion polling comes in. A poll surveys a sample of people and uses their responses to estimate the views of a much larger population, on the same statistical logic that lets a blood test from a few drops describe the whole.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch is that polling is only as good as its method, and the ways it can mislead are worth knowing. The single most important requirement is a representative sample: the people surveyed must resemble the population in the ways that matter, or the result is skewed no matter how many are asked. Equally important is neutral question wording — subtly leading or loaded questions can manufacture the answer the writer wants. Encyclopaedia Britannica notes that public opinion is also dynamic and reciprocal: it is not just an input that leaders respond to, but something actively shaped by political messaging, media framing, and unfolding events. This two-way relationship is why polling sits in the study of media and civil society. Used well, polls give voice to the public between elections and hold leaders to the test of popular support; used or reported badly — with biased samples, loaded questions, or false precision — they can distort the very opinion they claim to measure.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/public-opinion",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "media-civil-society"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b3bd44",
+      "slug": "free-press-and-democracy",
+      "type": "concept",
+      "title": "The Free Press \u0026 Democracy",
+      "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c16f42",
+      "slug": "disinformation-and-propaganda",
+      "type": "concept",
+      "title": "Disinformation \u0026 Propaganda",
+      "hook": "Democracy depends on citizens being informed — so deliberately polluting what they know is a direct attack on it. That's the threat of propaganda and disinformation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_51131a",
+      "slug": "what-is-democracy",
+      "type": "concept",
+      "title": "What Democracy Means",
+      "hook": "Rule by the people: a system where political power ultimately traces back to citizens, usually through regular, free elections.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0d397a#0",
+      "format": "flip",
+      "prompt": "How do opinion polls estimate what a whole population thinks?",
+      "back_html": "\u003cp\u003eBy surveying a \u003cstrong\u003erepresentative sample\u003c/strong\u003e of people and using it to infer\nthe views of the larger population.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0d397a#1",
+      "format": "quiz",
+      "prompt": "What does a trustworthy poll require?",
+      "choices": [
+        {
+          "text": "A representative sample and neutral, unbiased questions",
+          "correct": true
+        },
+        {
+          "text": "As few people as possible, chosen by the pollster's friends",
+          "correct": false
+        },
+        {
+          "text": "Questions written to push a preferred answer",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIf the sample isn't representative or the questions are leading, the\nresults are biased and unreliable.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0d397a#2",
+      "format": "quiz",
+      "prompt": "What is the relationship between public opinion and leaders?",
+      "choices": [
+        {
+          "text": "Opinion both shapes and is shaped by leaders, media, and events",
+          "correct": true
+        },
+        {
+          "text": "Opinion is fixed and never changes",
+          "correct": false
+        },
+        {
+          "text": "Leaders have no effect on opinion at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePublic opinion influences how leaders treat issues, but it is also molded\nby political messaging, media coverage, and events.\u003c/p\u003e"
+    }
+  ]
+}

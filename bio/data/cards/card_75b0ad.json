@@ -1,0 +1,99 @@
+{
+  "id": "card_75b0ad",
+  "slug": "genetic-drift",
+  "type": "concept",
+  "title": "Genetic Drift",
+  "hook": "Evolution isn't only survival of the fittest — sometimes traits spread or vanish purely by luck, especially in small populations.",
+  "key_points": [
+    "Genetic drift is random change in how common gene versions are, generation to generation.",
+    "Unlike natural selection, drift isn't about which traits are useful — it's pure chance.",
+    "Its effects are strongest in small populations, where luck swamps everything else.",
+    "Drift can erase variation and even fix harmful or neutral traits in a population."
+  ],
+  "content_html": "\u003cp\u003eNatural selection gets the spotlight, but it isn't the only thing that drives evolution. Genetic drift is the random change in how common different versions of a gene are from one generation to the next. Picture a small population where, by sheer bad luck, the few individuals carrying a particular trait happen not to reproduce — that trait can disappear even if it was perfectly fine. No selection pressure required; it's just the roll of the dice.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eDrift matters most in small populations, where chance events carry outsized weight. A classic illustration is the bottleneck: when a disaster slashes a population down to a handful of survivors, the genes that make it through may not be representative of the original group at all. Over time, drift tends to drain genetic variation, fixing some versions of a gene and eliminating others regardless of their usefulness. UC Berkeley's Understanding Evolution describes drift as one of the basic mechanisms of evolution, working alongside — and sometimes against — natural selection to shape what populations look like.\u003c/p\u003e",
+  "source": {
+    "name": "UC Berkeley Understanding Evolution",
+    "url": "https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/genetic-drift/",
+    "license": "© UC Berkeley Understanding Evolution"
+  },
+  "topic_ids": [
+    "evolution"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_89dd5d",
+      "slug": "natural-selection",
+      "type": "concept",
+      "title": "Natural Selection",
+      "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_50ecfa",
+      "slug": "how-new-species-form",
+      "type": "concept",
+      "title": "How New Species Form",
+      "hook": "Split one population in two, let them drift apart long enough, and eventually they can no longer interbreed — that's speciation, the engine that fills the tree of life with branches.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_75b0ad#0",
+      "format": "flip",
+      "prompt": "How does genetic drift differ from natural selection?",
+      "back_html": "\u003cp\u003eNatural selection favors traits that help survival and reproduction. \u003cstrong\u003eGenetic drift\u003c/strong\u003e\nis random — gene versions get more or less common purely by chance, regardless of\nwhether they're helpful.\u003c/p\u003e"
+    },
+    {
+      "id": "card_75b0ad#1",
+      "format": "quiz",
+      "prompt": "In what kind of population does genetic drift have the strongest effect?",
+      "choices": [
+        {
+          "text": "Small populations, where chance can overwhelm other forces",
+          "correct": true
+        },
+        {
+          "text": "Very large populations, where every individual matters more",
+          "correct": false
+        },
+        {
+          "text": "Populations with no genetic variation at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn small populations, a few lucky or unlucky deaths can dramatically shift gene\nfrequencies. In huge populations, random fluctuations tend to average out.\u003c/p\u003e"
+    },
+    {
+      "id": "card_75b0ad#2",
+      "format": "quiz",
+      "prompt": "What can genetic drift do to a population's genetic variation over time?",
+      "choices": [
+        {
+          "text": "Reduce it, even fixing or losing traits by chance",
+          "correct": true
+        },
+        {
+          "text": "Always increase variation by adding new genes",
+          "correct": false
+        },
+        {
+          "text": "Keep variation perfectly constant forever",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDrift tends to erode variation: some gene versions are lost entirely while others\nbecome universal, all without regard to whether they're beneficial.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "card_cf95a8",
+  "slug": "what-is-a-constitution",
+  "type": "concept",
+  "title": "What a Constitution Is",
+  "hook": "The rulebook above the rules: a constitution sets out how a government is structured and the limits on its power.",
+  "key_points": [
+    "A constitution is the highest-level set of rules defining how a state is organized and governed.",
+    "It typically establishes the branches of government, their powers, and how leaders are chosen.",
+    "It often guarantees certain rights and is harder to change than ordinary laws.",
+    "Constitutions can be written in one document, or uncodified across many sources."
+  ],
+  "content_html": "\u003cp\u003eA constitution is the foundational set of rules for a state — the framework that sits above ordinary laws and that those laws must respect. It generally lays out how the government is structured: what branches exist, what powers each one has, how leaders are selected, and how the parts relate to one another. Many constitutions also guarantee a set of basic rights that the government must protect.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBecause a constitution is meant to be the stable backbone of a political system, it is usually harder to change than a regular law — often requiring special majorities or extra steps. Constitutions come in two broad styles: codified, written down in a single authoritative document (as in the United States or Germany), and uncodified, where the rules are scattered across statutes, court decisions, and long-standing conventions (the United Kingdom is the classic example). Encyclopaedia Britannica surveys both. Either way, the constitution is the reference point against which the legitimacy of laws and government actions is judged.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/constitution-politics-and-law",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "how-laws-are-made"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_5bd59a",
+      "slug": "how-a-bill-becomes-law",
+      "type": "concept",
+      "title": "How a Bill Becomes a Law",
+      "hook": "An idea becomes binding law only after a journey: drafting, committee review, debate, votes, and final approval.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_466bf3",
+      "slug": "separation-of-powers",
+      "type": "concept",
+      "title": "Separation of Powers",
+      "hook": "Split government into branches that make, enforce, and interpret the law — so no single part can do all three.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1d0cfe",
+      "slug": "amending-a-constitution",
+      "type": "concept",
+      "title": "Amending a Constitution",
+      "hook": "A constitution has to last — but not freeze. Amendment rules let it change deliberately, usually demanding more agreement than an ordinary law.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7f5b6a",
+      "slug": "statute-vs-common-law",
+      "type": "concept",
+      "title": "Statute Law vs Common Law",
+      "hook": "Not all law is written by legislators. Some of it is built up, case by case, by judges — and these two sources of law work very differently.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cf95a8#0",
+      "format": "flip",
+      "prompt": "What is a constitution, and how does it relate to ordinary laws?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003ehighest-level rules\u003c/strong\u003e for how a state is organized and governed —\nit sits above ordinary laws and is usually harder to change.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cf95a8#1",
+      "format": "quiz",
+      "prompt": "Which of these does a constitution typically do?",
+      "choices": [
+        {
+          "text": "Establish the branches of government and how leaders are chosen",
+          "correct": true
+        },
+        {
+          "text": "List the price of every public service",
+          "correct": false
+        },
+        {
+          "text": "Replace the need for any other laws",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eConstitutions set the structure of government, the powers of its parts,\nand often basic rights — ordinary laws fill in the details.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cf95a8#2",
+      "format": "quiz",
+      "prompt": "Are all constitutions written in a single document?",
+      "choices": [
+        {
+          "text": "No — some are uncodified, spread across many sources",
+          "correct": true
+        },
+        {
+          "text": "Yes, every country has one single written constitution",
+          "correct": false
+        },
+        {
+          "text": "No country writes its constitution down at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMany countries have one codified document, but some (like the UK) have\nan uncodified constitution drawn from statutes, cases, and conventions.\u003c/p\u003e"
+    }
+  ]
+}

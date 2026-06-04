@@ -1,0 +1,138 @@
+{
+  "id": "card_474ad3",
+  "slug": "proof-of-citizenship-to-vote",
+  "type": "news",
+  "title": "Proof of Citizenship to Vote",
+  "hook": "Should you have to show a passport or birth certificate to register to vote? A fight in Congress over that single requirement reveals a deep tension in election design.",
+  "key_points": [
+    "Only U.S. citizens may vote in federal elections; today registrants attest to citizenship under penalty of perjury.",
+    "A Republican bill (the SAVE Act) would require documentary proof of citizenship to register.",
+    "Supporters argue it adds a check against noncitizens registering to vote.",
+    "Critics warn many eligible citizens lack quick access to a passport or birth certificate and could be shut out.",
+    "It captures a core election trade-off: tighter integrity rules versus easier access for eligible voters."
+  ],
+  "content_html": "\u003cp\u003eEvery democracy has to decide how a would-be voter proves they are eligible. In the United States, noncitizens may not vote in federal elections, and the current system relies on registrants affirming their citizenship under penalty of perjury. A recurring proposal would change that by demanding \u003cstrong\u003edocumentary proof of citizenship\u003c/strong\u003e — a passport, a birth certificate, or similar — before a person can register.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's Ashley Lopez reports on the latest version of that push, a Republican measure (the SAVE Act) that has stalled in the Senate. The dispute is a clean illustration of a permanent tension in election design. Supporters present documentary proof as a straightforward safeguard against ineligible registration. Critics counter that voting by noncitizens in federal elections is already illegal and rare, while a paperwork requirement would fall hardest on eligible citizens — those who do not hold a passport or cannot quickly retrieve a birth certificate — and could keep them off the rolls. Underneath the partisan back-and-forth is a question every electoral system must answer: how to balance confidence that only eligible people vote against the goal of letting every eligible person vote with as little friction as possible. (This card describes U.S. election rules specifically; other democracies strike the balance differently.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Ashley Lopez"
+    ],
+    "url": "https://npr.org/2026/06/25/nx-s1-5869577/trump-voting-save-america-act",
+    "published_at": "2026-06-25",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "citizenship-civic-life"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-29",
+  "date": "2026-06-25",
+  "related": [
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c9f40f",
+      "slug": "voting-rights-act-alabama",
+      "type": "news",
+      "title": "Voting Rights \u0026 the Map Fight",
+      "hook": "The Supreme Court let Alabama use a congressional map a lower court called racially discriminatory — a window into the Voting Rights Act and how redistricting fights reach the Court.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_3fb403",
+      "slug": "what-is-citizenship",
+      "type": "concept",
+      "title": "What Citizenship Is",
+      "hook": "Citizenship is the formal bond between a person and a state — the status that turns a resident into a full member, with rights and duties to match.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cbd667",
+      "slug": "what-counts-as-voter-id",
+      "type": "news",
+      "title": "What Counts as Voter ID",
+      "hook": "A voter ID law is really two decisions: require an ID, then decide which IDs count. The second one quietly determines who gets turned away.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-17"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_474ad3#0",
+      "format": "flip",
+      "prompt": "How do U.S. voters typically confirm citizenship when registering today?",
+      "back_html": "\u003cp\u003eThey \u003cstrong\u003eattest to citizenship under penalty of perjury\u003c/strong\u003e on the form. A bill\nlike the SAVE Act would instead require documentary proof to register.\u003c/p\u003e"
+    },
+    {
+      "id": "card_474ad3#1",
+      "format": "quiz",
+      "prompt": "What is the core trade-off in a documentary proof-of-citizenship voting requirement?",
+      "choices": [
+        {
+          "text": "Tighter integrity checks versus easier access for eligible voters",
+          "correct": true
+        },
+        {
+          "text": "Whether noncitizens should be allowed to vote in federal elections",
+          "correct": false
+        },
+        {
+          "text": "Whether elections should be run by states or the federal government",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe debate weighs an added check against ineligible registration against the\nrisk of blocking eligible citizens who can't readily produce documents.\u003c/p\u003e"
+    },
+    {
+      "id": "card_474ad3#2",
+      "format": "quiz",
+      "prompt": "Why do critics say a documentary proof requirement could disenfranchise eligible citizens?",
+      "choices": [
+        {
+          "text": "Many lack quick access to a passport or birth certificate",
+          "correct": true
+        },
+        {
+          "text": "Citizenship documents are illegal to show at registration",
+          "correct": false
+        },
+        {
+          "text": "Noncitizens already vote freely in federal elections",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVoting noncitizens in federal elections is already illegal; the concern is\nthat the paperwork burden falls hardest on eligible citizens without papers.\u003c/p\u003e"
+    }
+  ]
+}

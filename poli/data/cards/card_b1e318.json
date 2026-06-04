@@ -1,0 +1,126 @@
+{
+  "id": "card_b1e318",
+  "slug": "the-orders-docket",
+  "type": "news",
+  "title": "The Supreme Court's Other Docket",
+  "hook": "The Court hears about sixty argued cases a year and disposes of thousands more by short written order. Most of what it does never gets an opinion at all.",
+  "key_points": [
+    "Alongside the merits docket of argued cases, the Court issues orders — mostly one-line dispositions in lists released on scheduled order days.",
+    "The great majority are denials of certiorari, which set no precedent and say nothing about whether the decision below was right.",
+    "A 'GVR' — grant, vacate, remand — sends a case back for a lower court to reconsider in light of a new ruling, without the Court deciding it.",
+    "Occasionally the Court summarily reverses without argument, which is a real merits ruling delivered in a few pages.",
+    "Emergency applications, often called the shadow docket, are one part of this larger orders docket rather than the whole of it.",
+    "Writing at SCOTUSblog, Rory Little argues the orders docket matters far more than its low profile suggests, criminal cases especially."
+  ],
+  "content_html": "\u003cp\u003ePublic attention tracks the Supreme Court's argued cases: briefs, oral argument, a signed opinion months later. That is roughly sixty decisions a year. The far larger stream is the orders docket — lists of short dispositions released on scheduled order days, resolving thousands of petitions with a line or two of text.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMost of those lines are denials of certiorari, which decide only that the Court will not hear a case; they set no precedent and imply no view of the merits. Others do real work. A GVR — grant, vacate, remand — erases a lower court's ruling and sends the case back to be reconsidered under a decision handed down since. A summary reversal decides a case outright without argument. And emergency applications, the ones usually labeled the shadow docket, are one part of this machinery rather than the whole of it.\u003c/p\u003e\n\u003cp\u003eWriting at SCOTUSblog, U.C. Law San Francisco professor Rory Little argues the orders docket deserves far more attention than it gets, and points to this term's criminal-law orders as a case in point: for a defendant, a one-line order can settle everything.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Rory Little"
+    ],
+    "url": "https://scotusblog.com/2026/08/the-orders-docket-why-it-matters-and-this-terms-criminal-law-orders",
+    "published_at": "2026-08-26",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers",
+    "rights-civil-liberties"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_ad4830",
+      "slug": "the-shadow-docket",
+      "type": "news",
+      "title": "The Supreme Court's 'Shadow Docket'",
+      "hook": "Most Supreme Court rulings today aren't fully-argued opinions — they're fast, often unsigned orders with little explanation. In the term ending October 2025, those quietly became the majority.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "card_7da30b",
+      "slug": "how-the-supreme-court-decides",
+      "type": "blog",
+      "title": "How the Supreme Court Decides a Case",
+      "hook": "A top court hears only a sliver of the cases that beg for its attention — and the path from petition to ruling runs through written briefs, a public argument, and a vote taken in secret.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_b7bae3",
+      "slug": "an-administrative-stay-buys-time",
+      "type": "news",
+      "title": "The One-Justice Order That Freezes a Case",
+      "hook": "Before the Supreme Court decides anything, a single justice can push pause. That's how White House ballroom construction kept going after two lower courts had ordered it stopped.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-21"
+    },
+    {
+      "id": "card_3ef564",
+      "slug": "when-the-circuits-disagree",
+      "type": "news",
+      "title": "When Federal Law Means Different Things in Different States",
+      "hook": "Nine federal appeals courts have read the same detention statute; seven say one thing and two say the opposite. Until the Supreme Court steps in, your rights depend on your address.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7da30b",
+      "slug": "how-the-supreme-court-decides",
+      "type": "blog",
+      "title": "How the Supreme Court Decides a Case",
+      "hook": "A top court hears only a sliver of the cases that beg for its attention — and the path from petition to ruling runs through written briefs, a public argument, and a vote taken in secret.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_b1e318#0",
+      "format": "quiz",
+      "prompt": "What does a denial of certiorari mean?",
+      "choices": [
+        {
+          "text": "The Court declined to hear the case — it sets no precedent and endorses nothing",
+          "correct": true
+        },
+        {
+          "text": "The Court agreed with the lower court's reasoning",
+          "correct": false
+        },
+        {
+          "text": "The lower court's ruling becomes binding nationwide",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDenials are the bulk of the orders docket. They leave the decision below\nstanding in its own jurisdiction without approving it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b1e318#1",
+      "format": "flip",
+      "prompt": "What is a GVR?",
+      "back_html": "\u003cp\u003eGrant, vacate, remand — the Court wipes a lower ruling and sends the\ncase back for reconsideration in light of a new decision, without\ndeciding the case itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b1e318#2",
+      "format": "flip",
+      "prompt": "How does the 'shadow docket' relate to the orders docket?",
+      "back_html": "\u003cp\u003eEmergency applications are one slice of the much larger orders docket,\nwhich also covers cert denials, GVRs and summary dispositions.\u003c/p\u003e"
+    }
+  ]
+}

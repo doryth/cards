@@ -1,0 +1,109 @@
+{
+  "id": "card_49adf2",
+  "slug": "meta-data-center-robots",
+  "type": "news",
+  "title": "Meta Is Testing Robots on the Data Center Floor",
+  "hook": "The buildings that run AI are being handed to robots to maintain — Meta is trialing machines on jobs its human technicians do today.",
+  "key_points": [
+    "WIRED, republished by Ars Technica on August 30, 2026, reported on Meta's data center robotics push.",
+    "The robots are being tested on tasks that can currently be performed by human technicians.",
+    "Data centers are an unusually good first workplace: fixed layout, repetitive tasks, few members of the public.",
+    "It's a trial, not a rollout — testing robots on a job is a long way from replacing the job.",
+    "The loop worth noticing: AI demand builds the data centers, and AI-driven robots may run them."
+  ],
+  "content_html": "\u003cp\u003eReporting from WIRED's Paresh Dave, republished by Ars Technica on August 30, 2026, goes inside Meta's effort to put robots to work in its data centers — testing them on tasks that human technicians currently perform, like the physical upkeep of racks and hardware.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eData centers are a shrewd place to start. Robots are still best in predictable environments, and a server hall is about as predictable as an indoor workplace gets: a fixed grid of identical racks, repetitive physical tasks, no customers wandering through, and a single company controlling the whole space. That's why warehouses and factories got robots decades before kitchens did.\u003c/p\u003e\n\u003cp\u003eTwo things to hold in mind. First, \u0026quot;testing\u0026quot; is doing real work in that sentence — trialing a robot on a task is a long way from a robot doing the job reliably, all day, unsupervised. Second, there's a neat loop here: the AI boom is why these data centers are being built at such scale, and AI-powered robots are now candidates to maintain them.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Paresh Dave, WIRED.com"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers",
+    "published_at": "2026-08-30",
+    "license": "© Ars Technica / WIRED (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "robots",
+    "ai-and-jobs",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-31",
+  "date": "2026-08-30",
+  "related": [
+    {
+      "id": "card_af4e40",
+      "slug": "general-purpose-robot-workers",
+      "type": "news",
+      "title": "The Push for Robots That Can Do Any Job, Not Just One",
+      "hook": "Factory robots have always been narrow specialists — great at one welded joint, useless at anything else. AI is what's driving the push toward robots general enough to work almost anywhere.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_933f8f",
+      "slug": "gm-factory-robots",
+      "type": "news",
+      "title": "GM's Robots and the 'Dark Factory'",
+      "hook": "GM put robots into its flagship EV plant just after laying off 1,300 workers — and the autoworkers' union is warning of a 'dark factory' future where the lights stay off because nobody's there.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_969523",
+      "slug": "ai-energy-and-water",
+      "type": "concept",
+      "title": "AI's Energy \u0026 Water",
+      "hook": "Every chatbot reply runs in a warehouse of power-hungry computers somewhere. AI's convenience has a real physical footprint — in electricity, water for cooling, and carbon.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_49adf2#0",
+      "format": "quiz",
+      "prompt": "Why is a data center an easier first workplace for robots than, say, a home?",
+      "choices": [
+        {
+          "text": "Fixed layout, repetitive tasks, and almost no members of the public around",
+          "correct": true
+        },
+        {
+          "text": "Data centers have no electricity hazards",
+          "correct": false
+        },
+        {
+          "text": "Robots don't need any AI to work indoors",
+          "correct": false
+        },
+        {
+          "text": "There are no humans in a data center at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePredictable environments are the ones robots handle best. Homes and streets are\nmessy and unpredictable; a server hall is neither.\u003c/p\u003e"
+    },
+    {
+      "id": "card_49adf2#1",
+      "format": "flip",
+      "prompt": "How much does 'testing robots on a task' tell you about job losses?",
+      "back_html": "\u003cp\u003eLittle on its own. This is a trial on tasks technicians do today — a long\ndistance from a robot reliably doing the whole job unsupervised.\u003c/p\u003e"
+    },
+    {
+      "id": "card_49adf2#2",
+      "format": "flip",
+      "prompt": "What's the feedback loop in this story?",
+      "back_html": "\u003cp\u003eThe AI boom is what's building all these data centers, and AI-driven robots are\nnow being tried out as the ones who maintain them.\u003c/p\u003e"
+    }
+  ]
+}

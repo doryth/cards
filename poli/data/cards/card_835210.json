@@ -1,0 +1,140 @@
+{
+  "id": "card_835210",
+  "slug": "scientific-integrity-policies",
+  "type": "news",
+  "title": "Scientific Integrity Policies Are Only Words Until Tested",
+  "hook": "Agencies that produce official numbers usually have a written rule barring political interference. It is an internal policy — which means the same agency can edit it.",
+  "key_points": [
+    "Statistical and scientific agencies publish figures that governments, markets and courts rely on, so their credibility depends on being visibly insulated from political direction.",
+    "That insulation is often provided by a scientific integrity policy: an internal document barring political interference in research and data.",
+    "Internal policy is weaker than statute — the agency or its parent department can revise it without legislation.",
+    "Per NPR, after the Census Bureau issued an unusual report tied to a Trump-aligned think tank, its parent agency, the Commerce Department, cut language banning political interference from its scientific integrity policy.",
+    "Removing a safeguard is easier to spot than to reverse, and the change itself signals what future outputs may be subject to.",
+    "The durable test of any integrity safeguard is who can amend it, and how visibly."
+  ],
+  "content_html": "\u003cp\u003eGovernments produce numbers that everyone else builds on: population counts, unemployment rates, inflation. The value of those numbers rests entirely on the belief that nobody adjusted them to fit a political conclusion — and that belief is usually protected by an internal document called a scientific integrity policy.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's Hansi Lo Wang reports that after the Census Bureau issued an unusual report tied to a Trump-aligned think tank, the bureau's parent agency, the Commerce Department, cut language barring political interference from its scientific integrity policy. Set aside the specific dispute and notice the structure it exposes. Safeguards come in tiers of durability: a constitutional provision is hardest to change, a statute requires the legislature, and an internal policy can be revised by the department that wrote it. Scientific integrity protections in many countries sit in that weakest tier, which means the guarantee they offer is only as strong as the appointees currently overseeing them. That is also why the edit is itself informative — a change to the rules that govern future outputs tells you something about those outputs before any of them are published. When you evaluate any promised safeguard, the question to ask is not what it says but who is allowed to change it, and whether the change would be visible. (This card describes U.S. federal statistical agencies specifically; other countries place statistical independence at different levels of law.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Hansi Lo Wang"
+    ],
+    "url": "https://npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
+    "published_at": "2026-08-31",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption",
+    "technology-and-politics"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-08-31",
+  "related": [
+    {
+      "id": "card_11cc0c",
+      "slug": "how-official-statistics-earn-trust",
+      "type": "news",
+      "title": "How Official Statistics Earn Trust",
+      "hook": "A government statistic carries weight only because of the process behind it. When a report skips the usual methodology and review, the number stops being evidence and becomes an argument.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_5a0461",
+      "slug": "counting-people-counting-seats",
+      "type": "news",
+      "title": "The Census Decides How Many Seats You Get",
+      "hook": "A once-a-decade headcount sets each state's share of the House for ten years. A Florida challenge argues the count was done wrong — and shows why that is nearly impossible to fix afterward.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_f7cf61",
+      "slug": "the-civil-service-and-bureaucracy",
+      "type": "concept",
+      "title": "The Civil Service \u0026 Bureaucracy",
+      "hook": "Governments change; the bureaucracy stays. The permanent civil service is the machinery that actually delivers policy — for better and, sometimes, for worse.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_835210#0",
+      "format": "flip",
+      "prompt": "What is a scientific integrity policy, and what is its structural weakness?",
+      "back_html": "\u003cp\u003eAn internal agency document barring political interference in research\nand data. Because it is policy rather than statute, the agency or its\nparent department can rewrite it without going to the legislature.\u003c/p\u003e"
+    },
+    {
+      "id": "card_835210#1",
+      "format": "quiz",
+      "prompt": "Why does insulation from political direction matter for a statistical agency in particular?",
+      "choices": [
+        {
+          "text": "Its numbers are relied on by governments, markets and courts, so credibility is the product",
+          "correct": true
+        },
+        {
+          "text": "Statistical agencies are constitutionally forbidden to publish reports",
+          "correct": false
+        },
+        {
+          "text": "Statisticians are barred from being government employees",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOfficial statistics are useful only if users believe they were not\nshaped to a political conclusion.\u003c/p\u003e"
+    },
+    {
+      "id": "card_835210#2",
+      "format": "quiz",
+      "prompt": "According to NPR, what did the Commerce Department change after the Census Bureau's unusual report?",
+      "choices": [
+        {
+          "text": "It cut language banning political interference from its scientific integrity policy",
+          "correct": true
+        },
+        {
+          "text": "It made the scientific integrity policy binding by statute",
+          "correct": false
+        },
+        {
+          "text": "It transferred the Census Bureau to the judiciary",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe safeguard was weakened by editing the policy — the exact move that\ninternal-only rules leave available.\u003c/p\u003e"
+    }
+  ]
+}

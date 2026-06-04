@@ -1,0 +1,87 @@
+{
+  "id": "card_44473e",
+  "slug": "chatgpt-voice-turn-taking",
+  "type": "news",
+  "title": "ChatGPT's Voice Mode Is Learning When to Shut Up",
+  "hook": "The most annoying thing about talking to AI isn't what it says — it's when it says it, cutting you off or barreling ahead. OpenAI's new voice model is built to fix exactly that.",
+  "key_points": [
+    "OpenAI released GPT-Live-1, a new model powering ChatGPT's voice mode.",
+    "It's designed to interrupt less and wait for you if you pause mid-thought.",
+    "OpenAI describes the goal as making the conversation feel more like talking to another person.",
+    "Natural turn-taking — knowing when to listen vs. speak — is a distinct challenge from generating good answers."
+  ],
+  "content_html": "\u003cp\u003eVoice assistants have gotten much better at generating good answers; what they've struggled with is the rhythm of an actual conversation. The Verge reports OpenAI has released GPT-Live-1, a new model behind ChatGPT's voice mode built specifically to fix that — interrupting less, and waiting for you to continue instead of barreling on when you pause mid-thought.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eOpenAI frames the goal simply: make it feel more like talking to another person. That's a distinct engineering problem from getting facts right or writing well — real conversation involves constant, split-second judgment calls about when to listen and when to jump in, timing most people do unconsciously and voice AI has historically gotten wrong in both directions (talking over you, or leaving an awkward dead silence). It's a small-sounding fix, but it's exactly the kind of friction that determines whether talking to an AI assistant feels natural or annoying — and it's part of a broader trend of voice assistants moving from rigid command-takers toward something closer to genuine conversation.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+    "published_at": "2026-07-08",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "voice-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "speech"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-08",
+  "related": [
+    {
+      "id": "card_3f3416",
+      "slug": "siri-ai-arrives",
+      "type": "news",
+      "title": "Siri Gets Rebuilt as a Real Assistant",
+      "hook": "After years of promises, Apple unveiled 'Siri AI' — an 'entirely new version' that's more conversational and can handle messy tasks, like turning a flyer into calendar events. It's now in public beta.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "card_2646c3",
+      "slug": "talking-with-your-voice",
+      "type": "concept",
+      "title": "Voice Assistants",
+      "hook": "Siri and Alexa could set a timer; the new voice AIs can hold a real conversation. Talking is becoming a normal way to use AI — handy, natural, and always a little bit listening.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_44473e#0",
+      "format": "quiz",
+      "prompt": "What specific problem is GPT-Live-1 designed to fix in voice conversations?",
+      "choices": [
+        {
+          "text": "Interrupting the user too much and not waiting through pauses",
+          "correct": true
+        },
+        {
+          "text": "Giving factually wrong answers to voice questions",
+          "correct": false
+        },
+        {
+          "text": "Being too slow to start speaking at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe upgrade targets conversational timing specifically — cutting in less and\nwaiting through a pause — rather than the accuracy of what it says.\u003c/p\u003e"
+    },
+    {
+      "id": "card_44473e#1",
+      "format": "flip",
+      "prompt": "Why is 'knowing when to speak' a different challenge than 'knowing what to say'?",
+      "back_html": "\u003cp\u003eGenerating a good answer is a language problem; timing it naturally in a\nlive back-and-forth is a separate skill — real conversations aren't scripted turns.\u003c/p\u003e"
+    }
+  ]
+}

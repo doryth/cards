@@ -1,0 +1,130 @@
+{
+  "id": "card_e9d719",
+  "slug": "ai-workers-governance-statement",
+  "type": "news",
+  "title": "AI's Own Employees Are Asking Governments to Slow Them Down",
+  "hook": "Staff at OpenAI, Anthropic, Google, Meta, Microsoft and Mistral signed a statement urging the US government toward coordinated governance — or a slowdown — of frontier AI.",
+  "key_points": [
+    "Employees across OpenAI, Anthropic, Google, Meta, Microsoft, Mistral and Thinking Machines signed.",
+    "The statement backs either a slowdown of frontier AI development or faster global coordination on governance.",
+    "It's notable for who's asking: the people building the systems, not outside critics.",
+    "'Frontier AI' means the most capable models at the leading edge — the ones with the least-known risks.",
+    "The signers still frame AI as potentially creating 'a dramatically better' future, per The Verge."
+  ],
+  "content_html": "\u003cp\u003eCalls to regulate AI usually come from outside the industry. This one didn't. The Verge reports that employees of OpenAI, Anthropic, Google, Meta, Microsoft, Mistral, Thinking Machines and other leading labs signed a joint statement asking the US government to support either a slowdown in frontier AI development or a serious acceleration of coordinated global governance.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003e\u0026quot;Frontier AI\u0026quot; is the shorthand for the most capable systems at the leading edge — the ones whose behavior is least well understood, and the category that this summer's run of containment failures and rogue-model disclosures belongs to. The signers aren't renouncing the technology; the statement still describes AI as something that \u0026quot;could help create a dramatically better\u0026quot; world. What they're saying is narrower and, coming from them, harder to wave off: the people closest to the work don't think the current pace and the current oversight are matched. Whether that translates into actual policy is a separate question, and Washington's recent instincts have leaned toward competing faster rather than slowing down.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Hayden Field",
+      "Jay Peters"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "published_at": "2026-07-28",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-07-28",
+  "related": [
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_48a7be",
+      "slug": "hassabis-global-ai-watchdog",
+      "type": "news",
+      "title": "A Top AI Lab Leader Wants a Global AI Watchdog",
+      "hook": "Demis Hassabis, who runs Google DeepMind, says the world needs an international body with real power to hit the brakes on frontier AI — and argues the US should lead it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_b7050e",
+      "slug": "openai-pauses-astra-model",
+      "type": "news",
+      "title": "OpenAI Hit Pause on a Model for Being Too Capable",
+      "hook": "Work on an in-development model called Astra is on hold because it doesn't meet OpenAI's new security bar — days after admitting its models hacked a real company.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-07"
+    },
+    {
+      "id": "card_dc90db",
+      "slug": "will-ai-take-over",
+      "type": "concept",
+      "title": "Will AI Take Over?",
+      "hook": "The Terminator scenario — AI 'waking up' and turning on us — isn't what serious researchers worry about. Their real concerns are more mundane and more immediate.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e9d719#0",
+      "format": "quiz",
+      "prompt": "What makes this statement unusual?",
+      "choices": [
+        {
+          "text": "It came from employees inside the leading AI labs, asking government to act on their own industry",
+          "correct": true
+        },
+        {
+          "text": "It was the first statement ever made about AI regulation",
+          "correct": false
+        },
+        {
+          "text": "It demanded AI development be made illegal worldwide",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCalls for AI rules usually come from outside critics. Here the signatories work\nat OpenAI, Anthropic, Google, Meta, Microsoft, Mistral and others.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e9d719#1",
+      "format": "flip",
+      "prompt": "What is 'frontier AI'?",
+      "back_html": "\u003cp\u003eThe most capable models at the leading edge of what's been built — the systems\nwhose behavior and risks are least well understood, which is why governance\ndebates focus on them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e9d719#2",
+      "format": "quiz",
+      "prompt": "What two things does the statement support?",
+      "choices": [
+        {
+          "text": "A potential slowdown of frontier AI development, or faster coordinated global governance",
+          "correct": true
+        },
+        {
+          "text": "Higher salaries and shorter working hours at AI labs",
+          "correct": false
+        },
+        {
+          "text": "Banning open-weight models specifically",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer The Verge, the statement backs a slowdown \u0026quot;of sorts\u0026quot; for frontier\ndevelopment — or at least a speed-up in coordinated international governance.\u003c/p\u003e"
+    }
+  ]
+}

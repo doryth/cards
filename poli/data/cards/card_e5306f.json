@@ -1,0 +1,130 @@
+{
+  "id": "card_e5306f",
+  "slug": "how-long-a-habeas-petition-takes",
+  "type": "news",
+  "title": "A Speedy Remedy That Isn't Speedy",
+  "hook": "Habeas corpus lets a detained person ask a judge one question: is this lawful? The protection depends on getting an answer quickly — and ProPublica found some judges take months.",
+  "key_points": [
+    "Habeas corpus is the procedure for asking a court to test whether someone's detention is lawful, and to order release if it isn't.",
+    "Its force comes from speed: a ruling that arrives after months of detention cannot give back the time already served.",
+    "ProPublica reports wide variation among federal judges in how long they take to decide habeas petitions from people held in immigration detention.",
+    "Because assignment is effectively a lottery, two people with similar claims can wait very different amounts of time for the same question to be answered.",
+    "Delay works one way here — the government's position is preserved by inaction, since the person stays detained while the petition sits.",
+    "The general lesson: for time-sensitive rights, how fast the process runs is part of the right, not a separate administrative detail."
+  ],
+  "content_html": "\u003cp\u003eHabeas corpus is one of the oldest protections against arbitrary imprisonment, and it is procedurally simple: a detained person asks a court whether their detention is lawful, and the court can order release if it is not. Almost all of its power lies in how fast that answer comes. A judge who eventually agrees you were unlawfully held cannot return the months you spent held.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Carla Astudillo reported in September 2026 on how long federal judges take to rule on habeas petitions filed by people in immigration detention, finding wide variation — with some petitions sitting for months. Two features make that variation consequential. First, case assignment is effectively a lottery, so similar claims can receive very different waits. Second, delay is not neutral: while a petition is pending, the person remains detained, so inaction preserves the government's position by default. The transferable idea reaches well beyond immigration law — where a right is time-sensitive, the pace of the process is part of the right itself.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Carla Astudillo"
+    ],
+    "url": "https://propublica.org/article/ice-detention-judges-habeas-petitions",
+    "published_at": "2026-09-03",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-03",
+  "related": [
+    {
+      "id": "card_3b5986",
+      "slug": "a-right-without-a-remedy",
+      "type": "news",
+      "title": "A Right With No Way to Sue Is Half a Right",
+      "hook": "A prisoner's religious rights were violated and the harm was already done. The hard legal question was not whether it was wrong — it was whether he could recover anything at all.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "card_d04d38",
+      "slug": "when-a-detention-clock-resets",
+      "type": "news",
+      "title": "A Time Limit Only Binds If Someone Counts the Clock",
+      "hook": "A 72-hour cap on holding someone sounds like a hard limit. It is only as hard as the rule about when the count starts over.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-27"
+    },
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_e5306f#0",
+      "format": "flip",
+      "prompt": "What question does a habeas corpus petition put to a court?",
+      "back_html": "\u003cp\u003eWhether the petitioner's detention is lawful — and if it isn't, the\ncourt can order their release.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e5306f#1",
+      "format": "quiz",
+      "prompt": "Why does the time a court takes to rule on a habeas petition matter so much?",
+      "choices": [
+        {
+          "text": "The remedy is release, so a late ruling cannot give back time already spent detained",
+          "correct": true
+        },
+        {
+          "text": "Petitions are legally void if not decided within 30 days",
+          "correct": false
+        },
+        {
+          "text": "Detainees are charged a daily fee while the petition is pending",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHabeas is a time-sensitive remedy. Speed isn't an administrative nicety\nhere; it's most of what makes the protection real.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e5306f#2",
+      "format": "quiz",
+      "prompt": "In a pending habeas case, whose position does delay tend to favor?",
+      "choices": [
+        {
+          "text": "The government's — the person stays detained while the petition waits",
+          "correct": true
+        },
+        {
+          "text": "The petitioner's — detention is suspended once a petition is filed",
+          "correct": false
+        },
+        {
+          "text": "Neither; the case is frozen and the detainee released pending review",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInaction preserves the status quo, and the status quo here is continued\ndetention — which is why variation in judges' timelines has real stakes.\u003c/p\u003e"
+    }
+  ]
+}

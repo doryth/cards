@@ -1,0 +1,85 @@
+{
+  "id": "card_e1cb95",
+  "slug": "raw-milk-outbreak-idaho",
+  "type": "news",
+  "title": "Raw Milk Sickened More Than 100 People in Idaho",
+  "hook": "While cyclospora took the headlines, unpasteurized milk quietly sent an Idaho outbreak past 100 cases — a reminder of what pasteurization is actually for.",
+  "key_points": [
+    "More than 100 people in Idaho were sickened by infections tied to raw milk this summer.",
+    "Raw milk is milk that has not been pasteurized — heated briefly to kill pathogens.",
+    "Unpasteurized dairy can carry salmonella, E. coli, listeria, and campylobacter.",
+    "Children, older adults, pregnant people, and the immunocompromised are most at risk.",
+    "Claimed nutritional advantages of raw milk are not supported by strong evidence."
+  ],
+  "content_html": "\u003cp\u003eCyclospora got the headlines this summer. Meanwhile, an Idaho outbreak traced to raw milk pushed past 100 people sickened.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs NPR reports, unpasteurized milk keeps producing outbreaks for a simple reason: pasteurization is the step that kills the bacteria. Milk straight from an animal can carry salmonella, E. coli, listeria, and campylobacter — organisms that cause serious illness in healthy adults and can be dangerous for children, older adults, pregnant people, and anyone immunocompromised.\u003c/p\u003e\n\u003cp\u003eRaw milk is marketed on claims of better nutrition and easier digestion, but those claims are not supported by strong evidence, and the trade is not close: a brief heating step removes almost all of the infection risk while leaving the nutritional value essentially intact. If you buy dairy, checking that it says pasteurized is one of the cheapest safety habits available.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Lauren Paterson"
+    ],
+    "url": "https://npr.org/2026/08/07/nx-s1-5920411/infections-from-raw-milk-have-sickened-more-than-100-in-idaho",
+    "published_at": "2026-08-07",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "family-wellness",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-07",
+  "related": [
+    {
+      "id": "card_a0a6ec",
+      "slug": "food-safety-at-home",
+      "type": "concept",
+      "title": "Food Safety at Home",
+      "hook": "Most food poisoning starts in an ordinary kitchen. Four simple habits — clean, separate, cook, chill — prevent the great majority of it.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c1e2da",
+      "slug": "record-summer-foodborne-illness",
+      "type": "news",
+      "title": "A Record Summer for Foodborne Illness",
+      "hook": "Cyclosporiasis cases topped 10,000 and the CDC traced a fresh salmonella outbreak to imported jalapeños. Heat plus tainted produce made 2026 a record year.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e1cb95#0",
+      "format": "flip",
+      "prompt": "What does pasteurization actually do to milk?",
+      "back_html": "\u003cp\u003eIt heats the milk briefly to kill disease-causing bacteria. Skipping it — raw\nmilk — leaves pathogens like salmonella, E. coli, listeria, and campylobacter\nalive in the bottle.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e1cb95#1",
+      "format": "quiz",
+      "prompt": "Who is at highest risk from unpasteurized milk?",
+      "choices": [
+        {
+          "text": "Children, older adults, pregnant people, and the immunocompromised",
+          "correct": true
+        },
+        {
+          "text": "Only people with a dairy allergy",
+          "correct": false
+        },
+        {
+          "text": "Healthy adults, who clear the bacteria more slowly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAnyone can get sick, but the groups whose immune systems are weakest or most\nvulnerable — young children, older adults, pregnant people, and people who are\nimmunocompromised — face the worst outcomes.\u003c/p\u003e"
+    }
+  ]
+}

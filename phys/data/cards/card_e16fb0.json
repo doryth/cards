@@ -1,0 +1,107 @@
+{
+  "id": "card_e16fb0",
+  "slug": "quark-gluon-plasma-in-light-ion-collisions",
+  "type": "paper",
+  "title": "Evidence for Sequential Υ(nS) Suppression in Light Ion Collisions",
+  "hook": "Physicists just found the same 'melting pattern' that signals a quark-gluon plasma — the universe's primordial soup — in much smaller particle collisions than ever confirmed before.",
+  "key_points": [
+    "Quarkonia (heavy quark-antiquark pairs) melt at different rates inside a quark-gluon plasma.",
+    "Weakly-bound excited states melt faster than tightly-bound ground states — 'sequential suppression.'",
+    "CMS measured three bottomonium states in small oxygen-oxygen and neon-neon collisions at the LHC.",
+    "The more weakly-bound states were suppressed well below their expected ordinary-collision rates.",
+    "The most weakly-bound state's suppression was over 3 standard deviations stronger than the next one's.",
+    "This suggests quark-gluon plasma can form in smaller collision systems than previously confirmed."
+  ],
+  "content_html": "\u003cp\u003eA new CMS Collaboration preprint on arXiv uses a clever trick to probe the quark-gluon plasma — the ultra-hot \u0026quot;primordial soup\u0026quot; that briefly filled the universe after the Big Bang and can be recreated in particle collisions. Quarkonia, bound pairs of a heavy quark and its antiquark, melt in that plasma at different rates depending on how tightly bound they are, like differently sized ice cubes melting at different speeds in hot soup: weakly-bound excited states go first, tightly-bound ground states last.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe team reported the first measurements of three bottomonium states — Υ(1S), Υ(2S), and Υ(3S) — in the much smaller oxygen-oxygen collisions at the LHC, plus two of them in neon-neon collisions. The more weakly-bound Υ(2S) came out suppressed well below its expected rate from ordinary proton-proton collisions, and the even more weakly-bound Υ(3S) was suppressed further still, by more than 3 standard deviations relative to Υ(2S). That's the same sequential-suppression fingerprint long seen in big lead-lead and gold-gold collisions — now showing up in far smaller, lighter-nucleus collisions, hinting that quark-gluon plasma may form more easily than previously confirmed.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "CMS Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2607.13758",
+    "published_at": "2026-07-15",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-15",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e16fb0#0",
+      "format": "flip",
+      "prompt": "What is 'sequential suppression,' and why is it a clue to quark-gluon plasma?",
+      "back_html": "\u003cp\u003eWeakly-bound excited quarkonium states get suppressed more than tightly-bound\nground states inside hot quark-gluon plasma — like differently sized ice cubes melting at different rates.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e16fb0#1",
+      "format": "quiz",
+      "prompt": "What did CMS measure for the first time in this study?",
+      "choices": [
+        {
+          "text": "The three lowest bottomonium states in small oxygen-oxygen and neon-neon collisions",
+          "correct": true
+        },
+        {
+          "text": "Quarkonia in ordinary proton-proton collisions only",
+          "correct": false
+        },
+        {
+          "text": "The mass of the top quark",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCMS reported the first measurements of the Υ(1S), Υ(2S), and Υ(3S) bottomonium\nstates in oxygen-oxygen collisions, plus Υ(1S)/Υ(2S) in neon-neon collisions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e16fb0#2",
+      "format": "quiz",
+      "prompt": "What does the suppression pattern found in these light-ion collisions suggest?",
+      "choices": [
+        {
+          "text": "Quark-gluon plasma may form in smaller collision systems than previously confirmed",
+          "correct": true
+        },
+        {
+          "text": "Quark-gluon plasma can only exist in gold-gold and lead-lead collisions",
+          "correct": false
+        },
+        {
+          "text": "Bottomonium states are unaffected by the quark-gluon plasma",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe same sequential-suppression signature long seen in big lead-lead and\ngold-gold collisions also showed up here, in much smaller, lighter-nucleus collisions.\u003c/p\u003e"
+    }
+  ]
+}

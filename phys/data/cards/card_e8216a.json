@@ -1,0 +1,108 @@
+{
+  "id": "card_e8216a",
+  "slug": "detecting-quantum-gravitational-waves",
+  "type": "paper",
+  "title": "Could We Ever Tell a Gravitational Wave Is Quantum?",
+  "hook": "If gravity is quantum, gravitational waves should arrive in squeezed quantum states. This analysis finds nearly every route to observing that squeezing quietly destroys it.",
+  "key_points": [
+    "Squeezing is a quantum signature: a state with less noise in one variable than a classical wave allows.",
+    "A real detector couples to one particular wave-packet mode, so squeezing spread across global source modes need not survive in what it can access.",
+    "Inflationary two-mode squeezing reduces to an ordinary unsqueezed thermal state in the one-mode sector a detector sees.",
+    "For stochastic backgrounds, phase incoherence washes the squeezing out; for isolated sources, limited detector sky coverage strongly suppresses it.",
+    "The authors' escape route: squeeze the detector instead — a quantised gravitational wave then yields a positive squeezing witness, while a classical field only displaces the state.",
+    "That trick removes the need for squeezed incoming waves but not the crushing weakness of the graviton-detector coupling."
+  ],
+  "content_html": "\u003cp\u003eWe have detected gravitational waves many times, and every detection is consistent with Einstein's classical theory. Whether gravity is quantum is a separate question, and answering it observationally is notoriously hard: you would need to catch a gravitational wave behaving in a way no classical field can. Squeezing is the natural candidate — a quantum state whose noise in one variable dips below what a classical wave allows — and quantum-gravity models predict that waves from inflation should be strongly squeezed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eYu Miyauchi and colleagues work through whether that prediction is observable, and their answer is a chain of disappointments. The core issue is that a detector does not see the field globally; it couples to one particular wave-packet mode, and squeezing distributed across global source modes need not remain squeezing in that accessible sector. Inflationary two-mode squeezing, restricted to the one mode a detector can reach, reduces to a plain unsqueezed thermal state. For a stochastic background, the random phases of many superposed sources wash the squeezing out. For an isolated source, the small fraction of the sky a detector effectively covers suppresses it severely. The authors then offer a way around the whole problem: source squeezing turns out not to be essential. If you prepare the \u003cem\u003edetector\u003c/em\u003e in a squeezed state, a quantised gravitational wave generates a positive squeezing witness, whereas a classical external gravitational field merely displaces the detector state — a genuine discriminator. The catch is the one that haunts all such proposals: the size of the effect is bounded by the graviton-detector coupling, which is extraordinarily small. Detector squeezing removes one obstacle and leaves the hardest one standing.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Yu Miyauchi",
+      "Hidetoshi Omiya",
+      "Atsuhisa Ota",
+      "Hiroki Takeda",
+      "Takahiro Tanaka"
+    ],
+    "url": "https://arxiv.org/abs/2608.08803",
+    "published_at": "2026-08-09",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-13",
+  "date": "2026-08-09",
+  "related": [
+    {
+      "id": "card_aea720",
+      "slug": "graviton-decoherence-negligible",
+      "type": "paper",
+      "title": "Do Gravitons Ruin Quantum Interference? Not Even Close",
+      "hook": "If gravity is quantum, a molecule in two places at once should radiate gravitons and lose its interference. The calculated effect lands around one part in 10⁶¹.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e8216a#0",
+      "format": "flip",
+      "prompt": "Why is squeezing a candidate signature of quantum gravitational waves?",
+      "back_html": "\u003cp\u003eA squeezed state has \u003cstrong\u003eless noise in one variable than any classical wave permits\u003c/strong\u003e,\nso observing it would show the wave is not a classical field.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e8216a#1",
+      "format": "quiz",
+      "prompt": "Why doesn't squeezing in the source survive to the detector?",
+      "choices": [
+        {
+          "text": "A detector couples to one wave-packet mode, and phase incoherence or limited sky coverage erases the squeezing there",
+          "correct": true
+        },
+        {
+          "text": "Squeezed states decay into thermal states as they propagate through space",
+          "correct": false
+        },
+        {
+          "text": "Detector mirrors reflect only the unsqueezed component of the wave",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInflationary two-mode squeezing looks thermal in the accessible one-mode sector,\nstochastic backgrounds lose it to phase incoherence, and isolated sources are\nsuppressed by the small solid angle a detector covers.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e8216a#2",
+      "format": "flip",
+      "prompt": "What alternative do the authors propose, and what still blocks it?",
+      "back_html": "\u003cp\u003ePrepare the \u003cstrong\u003edetector\u003c/strong\u003e in a squeezed state: a quantised wave then produces a\npositive squeezing witness where a classical field only displaces it. The signal is\nstill bounded by the tiny \u003cstrong\u003egraviton-detector coupling\u003c/strong\u003e.\u003c/p\u003e"
+    }
+  ]
+}

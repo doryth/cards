@@ -1,0 +1,120 @@
+{
+  "id": "card_d115fb",
+  "slug": "metamorphosis-and-life-cycles",
+  "type": "concept",
+  "title": "Metamorphosis and Life Cycles",
+  "hook": "A caterpillar becoming a butterfly is one of nature's great transformations — many animals reshape their bodies entirely as they grow up.",
+  "key_points": [
+    "Metamorphosis is a dramatic change in body form as an animal develops.",
+    "Complete metamorphosis goes egg → larva → pupa → adult, with totally different stages.",
+    "Incomplete metamorphosis goes egg → nymph → adult, with gradual change.",
+    "Larvae and adults often eat different foods, easing competition between them.",
+    "Frogs, butterflies, and many insects pass through these staged life cycles."
+  ],
+  "content_html": "\u003cp\u003eFew changes in nature are as striking as a wriggling caterpillar turning into a winged butterfly, or a swimming tadpole sprouting legs and crawling onto land. This reshaping of the body as an animal grows up is called metamorphosis, and for many animals it's a normal part of life — the young and the adult can look like completely different creatures.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to Encyclopaedia Britannica, insects show two main patterns. In complete metamorphosis, the life cycle runs egg → larva → pupa → adult: a feeding larva (like a caterpillar or grub) eventually seals itself in a pupa, where its body is rebuilt into the adult form. In incomplete metamorphosis, the cycle is egg → nymph → adult, with no pupal stage — the nymph looks like a small, wingless version of the adult and changes gradually with each molt. Either way, the staging brings a real advantage: larvae and adults often eat different foods and live in different places, so the young don't compete with their parents for the same resources. Frogs follow a similar staged path, transforming from water-bound tadpoles into air-breathing adults.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/metamorphosis",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "animals"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d4d915",
+      "slug": "insects-the-most-successful-animals",
+      "type": "concept",
+      "title": "Insects: The Most Successful Animals",
+      "hook": "By sheer numbers and variety, insects rule the animal kingdom — more than half of all known animal species have six legs.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_477fab",
+      "slug": "the-animal-kingdom",
+      "type": "concept",
+      "title": "The Animal Kingdom",
+      "hook": "Sponges, spiders, sharks, and squirrels look nothing alike — yet all are animals, sharing a few deep traits that set them apart from plants, fungi, and microbes.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d50d41",
+      "slug": "animal-adaptations",
+      "type": "concept",
+      "title": "Animal Adaptations",
+      "hook": "A camel's hump, a chameleon's color, a polar bear's fat — these aren't accidents. Each is a trait shaped over generations to fit a particular way of life.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_24c30d",
+      "slug": "butterflies-that-barely-age",
+      "type": "news",
+      "title": "The Butterfly That Barely Ages",
+      "hook": "Most animals fall apart with age. Heliconius butterflies barely do — outliving close relatives several times over with little decline, hinting that lifespan is something evolution can dial up.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-22"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d115fb#0",
+      "format": "flip",
+      "prompt": "What is metamorphosis?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003emajor change in body form\u003c/strong\u003e as an animal grows from its young stage into an\nadult — like a caterpillar transforming into a butterfly.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d115fb#1",
+      "format": "quiz",
+      "prompt": "Which sequence describes complete metamorphosis?",
+      "choices": [
+        {
+          "text": "Egg → larva → pupa → adult",
+          "correct": true
+        },
+        {
+          "text": "Egg → adult, with no stages in between",
+          "correct": false
+        },
+        {
+          "text": "Adult → larva → egg",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn \u003cstrong\u003ecomplete metamorphosis\u003c/strong\u003e, the animal passes through four very different\nstages — egg, larva, pupa, then adult — as seen in butterflies and beetles.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d115fb#2",
+      "format": "quiz",
+      "prompt": "How does incomplete metamorphosis differ from complete metamorphosis?",
+      "choices": [
+        {
+          "text": "The young (nymphs) resemble small adults and change gradually",
+          "correct": true
+        },
+        {
+          "text": "It has more stages than complete metamorphosis",
+          "correct": false
+        },
+        {
+          "text": "It happens only in mammals",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn \u003cstrong\u003eincomplete metamorphosis\u003c/strong\u003e, there's no pupa — nymphs look like miniature\nadults and slowly grow into the adult form, as in grasshoppers.\u003c/p\u003e"
+    }
+  ]
+}

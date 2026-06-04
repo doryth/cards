@@ -1,0 +1,92 @@
+{
+  "id": "card_f3c2dd",
+  "slug": "sorla-protein-protects-against-tau",
+  "type": "news",
+  "title": "A Protein That Shields the Brain From Alzheimer's Tau Damage",
+  "hook": "Mice with extra SORLA, a protein already linked to Alzheimer's risk, developed less tau buildup, less brain atrophy, and healthier neural connections — pointing to a new drug target.",
+  "key_points": [
+    "SORLA is a protein researchers found may defend the brain against toxic tau tangles in Alzheimer's.",
+    "Mice engineered with extra SORLA had less tau accumulation and less brain atrophy.",
+    "Those mice also kept healthier connections between neurons.",
+    "Mice lacking SORLA experienced more severe tau-related damage.",
+    "The findings point to a possible drug target in the brain's supporting cells, not just neurons."
+  ],
+  "content_html": "\u003cp\u003eAlzheimer's research has spent years chasing ways to clear toxic tau tangles. A new study points to a different angle: boosting the brain's own natural defense against them.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, researchers found that a protein called SORLA — already linked to Alzheimer's risk — may act as a powerful shield against tau damage. Mice engineered with extra SORLA developed less tau accumulation, less brain atrophy, and kept healthier connections between neurons. Mice without it fared worse, showing more severe damage.\u003c/p\u003e\n\u003cp\u003eThe findings also point to where that protection happens: not just in neurons, but in the brain's supporting cells, suggesting a possible drug target researchers hadn't previously focused on. It's an early, mouse-based finding, but it reframes SORLA from a risk-gene footnote into a potential lever for treatment.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260718010140.htm",
+    "published_at": "2026-07-20",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "healthy-aging"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-20",
+  "related": [
+    {
+      "id": "card_d7624e",
+      "slug": "what-triggers-alzheimers",
+      "type": "news",
+      "title": "Maybe Plaques Aren't the Whole Story",
+      "hook": "New research suggests Alzheimer's may start not with plaques themselves, but with amyloid beta interfering with tau — the protein that keeps neurons running.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_40bc5a",
+      "slug": "how-alzheimers-spreads",
+      "type": "news",
+      "title": "How Alzheimer's Might Spread From Cell to Cell",
+      "hook": "A common brain protein may double as a delivery vehicle for Alzheimer's, ferrying toxic tau out of damaged neurons and into healthy ones — a possible new target for slowing the disease.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_b417c8",
+      "slug": "kcl-286-alzheimers-dna-repair",
+      "type": "news",
+      "title": "A Spinal-Injury Drug Repairs DNA Damage in Alzheimer's",
+      "hook": "A drug originally developed for spinal cord injury repaired DNA damage and cut brain inflammation in mouse Alzheimer's studies — and it's already cleared a human safety trial.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f3c2dd#0",
+      "format": "flip",
+      "prompt": "What happened to mice engineered with extra SORLA protein?",
+      "back_html": "\u003cp\u003eThey developed \u003cstrong\u003eless tau accumulation\u003c/strong\u003e, less brain atrophy, and kept healthier\nconnections between neurons — compared to mice with less SORLA.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f3c2dd#1",
+      "format": "quiz",
+      "prompt": "What does this finding suggest as a possible treatment strategy?",
+      "choices": [
+        {
+          "text": "Boosting or mimicking SORLA's protective effect against tau damage",
+          "correct": true
+        },
+        {
+          "text": "Completely eliminating tau protein from the brain",
+          "correct": false
+        },
+        {
+          "text": "Removing SORLA to prevent it from causing damage",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMore SORLA meant less tau damage in these mice, while less SORLA meant more — suggesting\nboosting SORLA's activity, not removing it, is the promising direction.\u003c/p\u003e"
+    }
+  ]
+}

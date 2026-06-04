@@ -1,0 +1,116 @@
+{
+  "id": "card_40e578",
+  "slug": "how-fat-cells-develop",
+  "type": "paper",
+  "title": "Mapping How a Fat Cell Grows Up",
+  "hook": "Fat cells don't just appear — they mature through a series of transitional stages, guided by growth signals that differ depending on where the fat sits in your body.",
+  "key_points": [
+    "Single-cell RNA sequencing of human adipose tissue revealed 15 distinct cell states, including 7 transitional stages between progenitor and mature fat cell.",
+    "16 active signaling pathways coordinate communication between developing fat cells and their progenitors.",
+    "Two growth-signal pathways, IGF and FGF, stood out as the most active throughout differentiation.",
+    "Fat around organs (visceral) remodels its structural scaffolding in ways fat under the skin (subcutaneous) does not.",
+    "The map offers potential targets for encouraging healthy fat growth or blocking harmful fat buildup."
+  ],
+  "content_html": "\u003cp\u003eFat tissue looks simple from the outside, but a fat cell doesn't spring into existence fully formed. A new single-cell sequencing study traces the step-by-step path a progenitor cell takes to become a mature adipocyte.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBy sequencing individual cells from human adipose tissue, researchers identified 15 transcriptionally distinct cell states — including 7 transitional stages caught mid-differentiation — mapping out a dynamic process rather than a single switch. They also found 16 active signaling pathways coordinating the conversation between maturing fat cells and their progenitors, with two growth-signal networks, IGF and FGF, the most consistently active throughout. Location mattered too: fat cells around organs (visceral fat) underwent extra remodeling of their structural scaffolding that fat cells under the skin (subcutaneous fat) did not, with IGF signaling concentrated near blood vessels and FGF activity dominant in mature fat zones. The authors frame this as a foundation for finding therapeutic targets — ways to encourage healthy fat expansion or block the pathological kind linked to obesity and metabolic disease.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Weny S. M Sitinjak",
+      "Humasak Tommy Argo Simanjuntak"
+    ],
+    "url": "https://arxiv.org/abs/2606.27657",
+    "published_at": "2026-06-26",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "nutrition-health"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-26",
+  "related": [
+    {
+      "id": "card_f1ffae",
+      "slug": "diet-and-disease",
+      "type": "concept",
+      "title": "Diet and Disease",
+      "hook": "What you eat over years quietly shapes your odds of heart disease, type 2 diabetes, and more — diet is one of the strongest levers on long-term health.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f0fbb5",
+      "slug": "stem-cells",
+      "type": "concept",
+      "title": "Stem Cells: The Body's Blank Slates",
+      "hook": "Some cells haven't decided what to be yet — they can become muscle, nerve, or blood, and that flexibility makes them a frontier of medicine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_f0fbb5",
+      "slug": "stem-cells",
+      "type": "concept",
+      "title": "Stem Cells: The Body's Blank Slates",
+      "hook": "Some cells haven't decided what to be yet — they can become muscle, nerve, or blood, and that flexibility makes them a frontier of medicine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_40e578#0",
+      "format": "flip",
+      "prompt": "What did single-cell sequencing reveal about how fat cells mature?",
+      "back_html": "\u003cp\u003eFat cells pass through \u003cstrong\u003etransitional stages\u003c/strong\u003e, not a single jump from progenitor to\nmature cell — the study found 15 distinct cell states, 7 of them transitional.\u003c/p\u003e"
+    },
+    {
+      "id": "card_40e578#1",
+      "format": "quiz",
+      "prompt": "Which two signaling pathways were most active as fat cells developed?",
+      "choices": [
+        {
+          "text": "IGF (insulin-like growth factor) and FGF (fibroblast growth factor)",
+          "correct": true
+        },
+        {
+          "text": "Insulin and glucagon",
+          "correct": false
+        },
+        {
+          "text": "Dopamine and serotonin",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAmong 16 active signaling pathways coordinating fat-cell development, IGF and FGF\nstood out as the most consistently active networks.\u003c/p\u003e"
+    },
+    {
+      "id": "card_40e578#2",
+      "format": "quiz",
+      "prompt": "How did visceral (around-organ) fat differ from subcutaneous (under-skin) fat in the study?",
+      "choices": [
+        {
+          "text": "Visceral fat underwent extra structural remodeling not seen in subcutaneous fat",
+          "correct": true
+        },
+        {
+          "text": "Visceral and subcutaneous fat developed in identical ways with no differences",
+          "correct": false
+        },
+        {
+          "text": "Only subcutaneous fat contained any progenitor cells",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVisceral adipocytes showed additional remodeling of their surrounding structural\nscaffolding (extracellular matrix) that subcutaneous fat differentiation lacked.\u003c/p\u003e"
+    }
+  ]
+}

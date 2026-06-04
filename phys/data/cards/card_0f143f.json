@@ -1,0 +1,113 @@
+{
+  "id": "card_0f143f",
+  "slug": "quantum-fourier-transform-goes-nonabelian",
+  "type": "paper",
+  "title": "The Quantum Fourier Transform Escapes Its Comfort Zone",
+  "hook": "The QFT is efficient on commutative groups and stubbornly expensive on most others. Two new construction recipes cut the cost exponentially for whole families of non-abelian groups.",
+  "key_points": [
+    "The quantum Fourier transform underlies phase estimation, Shor's algorithm, and most quantum speedups.",
+    "For abelian groups its circuit size is polynomial in the logarithm of the group order; efficient non-abelian constructions were known for only a few families.",
+    "A Mackey-theoretic approach yields QFT circuits for GL_2(F_q) scaling polynomially in log q rather than in q — an exponential improvement.",
+    "A Clifford-theoretic approach handles wreath products F wr S_n, with cost inherited from the QFT over F.",
+    "That removes the previous requirement that |F| be polynomial in n, so an efficient QFT over F carries over to the wreath product.",
+    "A companion paper revises the classic symmetric-group QFT to gate complexity O~(n^3.5) and depth O~(n^3), with a simpler choice of transversal elements."
+  ],
+  "content_html": "\u003cp\u003eThe quantum Fourier transform is the engine room of quantum algorithms — phase estimation, period finding, Shor's algorithm all run on it. For commutative (abelian) groups there is a generic recipe whose circuit size is polynomial in the logarithm of the group order. Step outside that comfort zone and the picture thins out fast: efficient constructions are known for only a handful of non-abelian families, one bespoke result at a time.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBruinsma, Posta, Stokvis, Grinko and Ozols (arXiv, August 2026) offer two systematic tools instead of one-off constructions. The first builds circuits using Mackey theory, and applied to the general linear group GL_2(F_q) it produces circuits scaling polynomially in log q where previous costs scaled polynomially in q — an exponential improvement. The second uses Clifford theory to handle wreath products F wr S_n, with a cost determined by the cost of a QFT over F and the size of its representation registers. Crucially it drops the earlier requirement that |F| be polynomial in n, so any F that already has an efficient QFT hands that efficiency up to the wreath product.\u003c/p\u003e\n\u003cp\u003eA companion paper by Bruinsma, Grinko and Ozols revisits the canonical non-abelian example — Beals's 1997 QFT for the symmetric group, as analyzed by Kawano and Sekigawa. Careful re-examination revises the gate complexity to O~(n^3.5) and the circuit depth to O~(n^3), and a better choice of transversal elements gives a simpler realization.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Carli Bruinsma",
+      "Pietro M. Posta",
+      "Joppe Stokvis",
+      "Dmitry Grinko",
+      "Maris Ozols"
+    ],
+    "url": "https://arxiv.org/abs/2608.28573",
+    "published_at": "2026-08-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper",
+    "efficiency",
+    "architecture"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_9ababf",
+      "slug": "quantum-speedups-need-structure-or-depth",
+      "type": "paper",
+      "title": "Why Quantum Speedups Need Structure",
+      "hook": "A long-standing conjecture says quantum computers can't beat classical ones on unstructured problems. It's now settled for parallel algorithms — and depth is the deciding resource.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0f143f#0",
+      "format": "quiz",
+      "prompt": "Why is the non-abelian quantum Fourier transform harder than the abelian case?",
+      "choices": [
+        {
+          "text": "Abelian groups admit generic circuits polynomial in log |G|; only a few non-abelian families had such constructions",
+          "correct": true
+        },
+        {
+          "text": "Non-abelian groups have no Fourier transform defined on them",
+          "correct": false
+        },
+        {
+          "text": "Non-abelian QFTs require measurement, which destroys the state",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Fourier transform exists for any finite group, but efficient circuits are the\nbottleneck — known for abelian groups generically, for non-abelian ones only case by case.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0f143f#1",
+      "format": "flip",
+      "prompt": "What did the Mackey-theoretic approach buy for GL_2(F_q)?",
+      "back_html": "\u003cp\u003eExplicit QFT circuits scaling polynomially in \u003cstrong\u003elog q\u003c/strong\u003e instead of polynomially in \u003cstrong\u003eq\u003c/strong\u003e —\nan exponential reduction in circuit cost.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0f143f#2",
+      "format": "quiz",
+      "prompt": "For wreath products F wr S_n, what restriction did the Clifford-theoretic construction lift?",
+      "choices": [
+        {
+          "text": "The requirement that |F| be polynomial in n, imposed by earlier generic constructions",
+          "correct": true
+        },
+        {
+          "text": "The requirement that F itself be abelian",
+          "correct": false
+        },
+        {
+          "text": "The requirement that n be a power of two",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith that restriction gone, any F with an efficient QFT passes its efficiency up to the\nwreath product, which can be an exponential gain.\u003c/p\u003e"
+    }
+  ]
+}

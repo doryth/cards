@@ -1,0 +1,107 @@
+{
+  "id": "card_0656e4",
+  "slug": "life-cycle-of-stars",
+  "type": "concept",
+  "title": "The Life Cycle of Stars",
+  "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+  "key_points": [
+    "Stars form when clouds of gas and dust collapse under gravity and ignite fusion.",
+    "Most of a star's life is spent steadily fusing hydrogen into helium in its core.",
+    "Sun-like stars swell into red giants, then fade to white dwarfs.",
+    "Heavyweight stars explode as supernovae, forging most of the heavy elements."
+  ],
+  "content_html": "\u003cp\u003eA star's whole story is a tug-of-war between gravity pulling inward and the heat of fusion pushing outward. It begins when a cloud of gas and dust collapses, growing hot and dense enough at its center to ignite nuclear fusion. For most of its life the star burns steadily, fusing hydrogen into helium and holding that balance.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhen the core's hydrogen runs low, the balance tips and the star changes dramatically. A star like the Sun swells into a red giant, sheds its outer layers, and leaves behind a dense, cooling white dwarf. A much heavier star runs through heavier fuels, then collapses and blows itself apart in a supernova, seeding space with the elements that later build planets and people. Wikipedia traces this path from collapsing cloud to final remnant, and how mass sets the destination.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stellar_evolution",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_3bf1e2",
+      "slug": "what-powers-the-sun",
+      "type": "concept",
+      "title": "What Powers the Sun",
+      "hook": "The Sun isn't burning like a fire — it's fusing hydrogen into helium in its core, and a sliver of mass turning into pure energy is what lights up our sky.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_449648",
+      "slug": "black-hole-winds-quench-galaxies",
+      "type": "news",
+      "title": "Black Hole Winds Starve Their Own Galaxies",
+      "hook": "Why do the biggest galaxies hold far fewer stars than expected? New X-ray data caught a supermassive black hole blasting out winds that sweep away the gas stars need to form.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "card_30455e",
+      "slug": "dying-stars-kick-themselves",
+      "type": "news",
+      "title": "Dying Stars Can Kick Themselves Across Space",
+      "hook": "A dying star flinging off lopsided blobs of gas nudges itself with each one — thousands of tiny kicks that add up to a getaway of about a kilometer per second.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-20"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0656e4#0",
+      "format": "flip",
+      "prompt": "What does a star do for most of its life?",
+      "back_html": "\u003cp\u003eIt steadily fuses \u003cstrong\u003ehydrogen into helium\u003c/strong\u003e in its core. This long, stable\nphase makes up the bulk of a star's lifetime.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0656e4#1",
+      "format": "quiz",
+      "prompt": "What determines how a star ends its life?",
+      "choices": [
+        {
+          "text": "Its mass — lightweight stars fade to white dwarfs, heavyweights explode",
+          "correct": true
+        },
+        {
+          "text": "Its color, regardless of how much matter it contains",
+          "correct": false
+        },
+        {
+          "text": "How far it sits from other stars",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMass is the deciding factor. Sun-like stars become red giants then white\ndwarfs, while much heavier stars end as supernovae.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0656e4#2",
+      "format": "flip",
+      "prompt": "Where do most chemical elements come from?",
+      "back_html": "\u003cp\u003eStars \u003cstrong\u003eforge them\u003c/strong\u003e through fusion over their lifetimes and especially in\ntheir violent deaths, scattering the elements into space.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "card_430c96",
+  "slug": "losing-healthy-fat-and-diabetes",
+  "type": "news",
+  "title": "Losing the Wrong Fat Can Cause Diabetes",
+  "hook": "We treat body fat as the villain in diabetes. New work shows the opposite failure mode: when healthy fat tissue becomes inflamed and disappears, metabolism collapses too.",
+  "key_points": [
+    "Healthy fat tissue is a working organ — it safely stores lipids and releases metabolic hormones.",
+    "Michigan Medicine researchers switched off the lamin A/C gene in mouse fat cells, mimicking a human genetic disorder (familial partial lipodystrophy type 2).",
+    "Three failures compounded: fat cells lost the ability to process and store lipids, cells turned pro-inflammatory, and mitochondria stopped working normally.",
+    "The tissue eventually vanished — and with it the body's ability to manage lipids and metabolic hormones.",
+    "The result was diabetes and fatty liver disease from too little healthy fat, not too much.",
+    "Published in the Journal of Clinical Investigation, using both mouse models and donated human tissue."
+  ],
+  "content_html": "\u003cp\u003eType 2 diabetes is usually explained as a disease of too much — too much weight, too much fat. Work from Michigan Medicine puts a mirror to that story: metabolism also breaks when you lose the healthy fat tissue your body relies on. The reframe worth taking away is that body fat is an organ, not a warehouse. Its job is to hold lipids safely out of circulation and to release metabolic hormones, and like any organ it can fail.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTo watch that failure, the team built a mouse in which they could switch off the lamin A/C gene specifically in adipocytes — the same gene mutated in people with familial partial lipodystrophy type 2, a disorder in which fat tissue is lost from parts of the body. They studied the mice alongside donated human tissue, and reported the results in the Journal of Clinical Investigation. Three problems compounded on each other. Sweeping changes in gene activity left the fat cells unable to properly process and store lipids. Both the fat cells and the immune cells living among them shifted into a pro-inflammatory state. And the mitochondria stopped functioning normally, undermining the cells' energy supply. As researcher Jessica Maung described it: \u0026quot;All of these effects come together to create this perfect environment for the tissue to be really unhealthy and eventually disappear.\u0026quot;\u003c/p\u003e\n\u003cp\u003eOnce the tissue was gone, the body could no longer manage lipids or release metabolic hormones the usual way — and diabetes and fatty liver disease followed. Professor Elif Oral said the finding \u0026quot;is really underscoring the importance of healthy fats in keeping metabolism intact.\u0026quot; The direct clinical relevance is to lipodystrophy, a rare condition, but the general lesson lands wider: what matters metabolically isn't only how much fat you carry, but whether that tissue is still doing its job.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260726015259.htm",
+    "published_at": "2026-07-26",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "chronic-conditions",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-26",
+  "related": [
+    {
+      "id": "card_bcf692",
+      "slug": "preventing-type-2-diabetes",
+      "type": "concept",
+      "title": "Preventing Type 2 Diabetes",
+      "hook": "Type 2 diabetes often arrives slowly, with a warning stage called prediabetes — and at that stage, modest lifestyle changes can stop or delay it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_42b2a6",
+      "slug": "understanding-fats",
+      "type": "concept",
+      "title": "Good Fats, Bad Fats",
+      "hook": "Fat isn't the enemy — the type is what matters. Swapping saturated and trans fats for unsaturated ones beats just trying to eat less fat overall.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_a1c077",
+      "slug": "diabetes-and-brain-health",
+      "type": "news",
+      "title": "The Link Between Diabetes and Dementia",
+      "hook": "Diabetes and dementia keep turning up together — and it may be no coincidence. Trouble with insulin and blood sugar can starve, inflame, and damage the brain's blood vessels.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_430c96#0",
+      "format": "quiz",
+      "prompt": "What's the counterintuitive route to diabetes this study describes?",
+      "choices": [
+        {
+          "text": "Losing healthy fat tissue, which the body needs to store lipids and release metabolic hormones",
+          "correct": true
+        },
+        {
+          "text": "Gaining fat tissue faster than usual",
+          "correct": false
+        },
+        {
+          "text": "Eating too little sugar over many years",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDiabetes is usually framed as a disease of excess fat. Here, damaged fat tissue became\ninflamed, lost its storage function, and disappeared — and metabolism failed for lack of\nhealthy fat, causing diabetes and fatty liver.\u003c/p\u003e"
+    },
+    {
+      "id": "card_430c96#1",
+      "format": "flip",
+      "prompt": "What three failures did researchers see inside failing fat tissue?",
+      "back_html": "\u003col\u003e\n\u003cli\u003eFat cells \u003cstrong\u003elost the ability to process and store lipids\u003c/strong\u003e (major gene-activity\nchanges). 2. Fat cells and resident immune cells \u003cstrong\u003eshifted pro-inflammatory\u003c/strong\u003e.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eMitochondria stopped functioning normally\u003c/strong\u003e, wrecking cellular energy production.\u003c/li\u003e\n\u003c/ol\u003e"
+    },
+    {
+      "id": "card_430c96#2",
+      "format": "flip",
+      "prompt": "Why is it useful to think of body fat as an organ rather than just storage?",
+      "back_html": "\u003cp\u003eBecause it does a job: safely holding lipids out of the bloodstream and releasing\nmetabolic hormones. When that organ fails, lipids end up where they shouldn't — the liver\n— and blood sugar control goes with it.\u003c/p\u003e"
+    }
+  ]
+}

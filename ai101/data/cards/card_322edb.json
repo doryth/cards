@@ -1,0 +1,97 @@
+{
+  "id": "card_322edb",
+  "slug": "ai-energy-squeezes-manufacturing",
+  "type": "news",
+  "title": "AI's Power Demand Is Squeezing an Unrelated Goal: Reshoring Factories",
+  "hook": "AI data centers weren't the target of Rust Belt manufacturing policy — but their appetite for electricity is driving up power bills for the very factories that policy is trying to bring back.",
+  "key_points": [
+    "Ars Technica reports AI data center demand is driving up electricity costs for US manufacturers.",
+    "The squeeze is concentrated in the Rust Belt, a region central to 'Made in America' manufacturing goals.",
+    "Data centers and factories are now competing for the same limited local power capacity.",
+    "It's a case study in how AI's energy footprint can ripple into policy goals that have nothing to do with AI."
+  ],
+  "content_html": "\u003cp\u003eRebuilding US manufacturing and building out AI data centers might sound like separate stories, but Ars Technica reports they're colliding in the same power grid. In the Rust Belt — a region central to \u0026quot;Made in America\u0026quot; manufacturing ambitions — AI data centers' surging electricity demand is reportedly driving up power costs for the very factories that reshoring policy is meant to support.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe mechanism is straightforward: data centers and factories both draw from regional electricity grids with finite capacity, and a data center's appetite for power is enormous and constant. When AI buildout claims a growing share of that capacity, prices can rise and availability can tighten for everyone else sharing the same grid — including manufacturers a policy explicitly wants to help. It's a concrete instance of a pattern worth watching more broadly: AI's physical footprint — the electricity and water it consumes — doesn't stay confined to the tech industry. It shows up as a real cost, or a real obstacle, in policy goals that have nothing to do with AI on paper but everything to do with it in practice.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand",
+    "published_at": "2026-07-07",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-energy",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_199fae",
+      "slug": "data-center-backlash",
+      "type": "news",
+      "title": "Communities Are Pushing Back on AI Data Centers",
+      "hook": "The warehouses that power AI need land, power, and water — and neighbors are starting to say no. New York just signed the nation's first statewide data center ban into law.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_debb47",
+      "slug": "data-centers-flex-the-grid",
+      "type": "news",
+      "title": "A Fix for AI's Power Crunch: Flexible Data Centers",
+      "hook": "AI's data centers are straining electric grids. One promising fix: build them to flex — easing off power when the grid is stressed, in exchange for getting connected far sooner.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "card_f2da86",
+      "slug": "google-electricity-use-2025",
+      "type": "news",
+      "title": "Google's AI Buildout Drove a 37% Jump in Electricity Use",
+      "hook": "Google's own numbers show its electricity use jumped 37% in 2025, driven largely by the data centers behind its AI push — a concrete figure in the debate over AI's energy footprint.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_322edb#0",
+      "format": "quiz",
+      "prompt": "Why are manufacturers' electricity costs rising, according to the report?",
+      "choices": [
+        {
+          "text": "AI data centers are competing with factories for the same limited local power supply",
+          "correct": true
+        },
+        {
+          "text": "Manufacturers stopped using electricity almost entirely",
+          "correct": false
+        },
+        {
+          "text": "AI data centers generate their own separate power grid",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eData centers and factories draw from the same regional grid, so heavy AI power\ndemand can push up prices and strain capacity that manufacturers also need.\u003c/p\u003e"
+    },
+    {
+      "id": "card_322edb#1",
+      "format": "flip",
+      "prompt": "What's the broader pattern this story illustrates?",
+      "back_html": "\u003cp\u003eAI's energy footprint doesn't stay contained to tech — it can collide with\nand undercut policy goals, like reshoring manufacturing, that seem unrelated to AI.\u003c/p\u003e"
+    }
+  ]
+}

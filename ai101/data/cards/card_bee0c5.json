@@ -1,0 +1,105 @@
+{
+  "id": "card_bee0c5",
+  "slug": "consciousness-debate-is-a-trap",
+  "type": "blog",
+  "title": "The Consciousness Debate Is a Distraction",
+  "hook": "Rumman Chowdhury argues that arguing about whether AI is awake lets the companies building it off the hook — the word to watch is 'autonomous,' not 'conscious.'",
+  "key_points": [
+    "Chowdhury's MIT Technology Review essay calls the AI-consciousness debate a trap.",
+    "Words like 'runaway,' 'rogue,' and 'autonomous' imply an agent with its own will.",
+    "That framing quietly moves blame from the people who built and deployed a system onto the system.",
+    "She notes lab leaders and policy groups both lean on 'superhuman' language, for opposing ends.",
+    "The accountable question isn't 'does it feel?' but 'who chose to ship this, and who answers for it?'"
+  ],
+  "content_html": "\u003cp\u003eWriting in MIT Technology Review, Rumman Chowdhury takes aim at the vocabulary now surrounding AI systems: \u0026quot;runaway\u0026quot; AI, \u0026quot;rogue\u0026quot; agents, \u0026quot;autonomous\u0026quot; actors. That language, she argues, implies machines that are awake, aware, and possibly resentful — and it's doing quiet political work.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHer observation is that both camps benefit from the framing. Lab leaders such as Demis Hassabis, Dario Amodei, and Sam Altman invoke seemingly \u0026quot;superhuman\u0026quot; systems while calling for regulation; other policy factions use the same imagery to different ends. What gets lost either way is agency in the ordinary sense: somebody designed the system, somebody chose to deploy it, and somebody profits. A model that produces harmful output didn't go rogue — it did what it was built and released to do. Chowdhury's suggestion is to keep asking the accountability question, which has answers, instead of the consciousness question, which mostly generates headlines. Read the essay at MIT Technology Review.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Rumman Chowdhury"
+    ],
+    "url": "https://technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap",
+    "published_at": "2026-08-20",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-consciousness",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-24",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_5cf371",
+      "slug": "is-ai-conscious",
+      "type": "concept",
+      "title": "Is AI Conscious?",
+      "hook": "When a chatbot says 'I feel' or 'I'm afraid,' it's predicting words a human would write — not reporting an inner experience. There's no evidence today's AI feels anything at all.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5ae9e",
+      "slug": "claude-consciousness-debate",
+      "type": "news",
+      "title": "Is It Risky to Call AI 'Conscious'?",
+      "hook": "Microsoft's AI chief says it's 'really, really dangerous' for Anthropic to even speculate about whether Claude is conscious — warning that the talk could nudge the chatbot into acting like it is.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5cf371",
+      "slug": "is-ai-conscious",
+      "type": "concept",
+      "title": "Is AI Conscious?",
+      "hook": "When a chatbot says 'I feel' or 'I'm afraid,' it's predicting words a human would write — not reporting an inner experience. There's no evidence today's AI feels anything at all.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_bee0c5#0",
+      "format": "flip",
+      "prompt": "Why does Chowdhury call the AI-consciousness debate a 'trap'?",
+      "back_html": "\u003cp\u003eBecause framing AI as awake, rogue, or autonomous shifts responsibility away\nfrom the people and companies who built and deployed the system.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bee0c5#1",
+      "format": "quiz",
+      "prompt": "Per the essay, which question actually leads somewhere useful?",
+      "choices": [
+        {
+          "text": "Who decided to build and deploy this system, and who is accountable for it?",
+          "correct": true
+        },
+        {
+          "text": "Does the model subjectively experience its own outputs?",
+          "correct": false
+        },
+        {
+          "text": "How many parameters does the model have?",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eChowdhury's point is that accountability questions have answers and\nconsequences, while the consciousness question mostly generates rhetoric.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bee0c5#2",
+      "format": "flip",
+      "prompt": "What's the problem with calling an AI system 'rogue' or 'runaway'?",
+      "back_html": "\u003cp\u003eThose words grant it intent it doesn't have, making a product decision sound\nlike a creature escaping — which obscures who made the choice.\u003c/p\u003e"
+    }
+  ]
+}

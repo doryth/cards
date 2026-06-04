@@ -1,0 +1,97 @@
+{
+  "id": "card_04d4e5",
+  "slug": "gemini-flash-release-treadmill",
+  "type": "news",
+  "title": "Three Model Releases in Six Weeks, All Named Almost the Same",
+  "hook": "Google shipped Gemini 3.8 Flash weeks after 3.7. The naming churn hides a real question: which version are you actually talking to?",
+  "key_points": [
+    "Gemini 3.8 Flash is Google's third Flash-tier release in about six weeks, per Ars Technica.",
+    "'Flash' is the cheap, fast tier — the small sibling of the slower, pricier 'Pro' models.",
+    "Google says 3.8 'works harder': more reasoning steps on hard tasks, and calling tools repeatedly.",
+    "Working harder costs more — the same per-token price, but more tokens burned per answer.",
+    "Introductory pricing matches 3.7 Flash: $0.75 per million input tokens, $3.75 per million output.",
+    "Meanwhile Google's flagship Pro updates appear paused, per Ars Technica."
+  ],
+  "content_html": "\u003cp\u003eGoogle released Gemini 3.8 Flash this week — its third Flash-tier model in roughly six weeks, Ars Technica notes, arriving just a few weeks after 3.7. If you've lost track of which Gemini is which, that's the point worth taking away.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe naming has a logic. \u0026quot;Flash\u0026quot; is the cheap, fast tier meant for high volume; \u0026quot;Pro\u0026quot; is the slower, more expensive flagship. Google's pitch for 3.8 Flash is that it \u0026quot;works harder\u0026quot; than its predecessor: performing more reasoning steps on complex tasks and calling tools iteratively rather than answering in one shot. Introductory pricing is unchanged from 3.7 Flash, at $0.75 per million input tokens and $3.75 per million output tokens — but a model that thinks longer spends more tokens, so the same rate can still mean a bigger bill.\u003c/p\u003e\n\u003cp\u003eThe quieter story, per Ars Technica, is what isn't shipping: Google's Pro model updates appear to be on hold while the Flash line iterates rapidly. For everyday users the practical lesson is simpler. The product name on the box stays constant while the thing inside it changes every few weeks, which is why an answer you got in July isn't a promise about the answer you'll get today.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ryan Whitwam"
+    ],
+    "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks",
+    "published_at": "2026-09-02",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "chatbots",
+    "ai-jargon",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "reasoning",
+    "inference"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_42f5a2",
+      "slug": "which-chatbot-to-use",
+      "type": "concept",
+      "title": "Which Chatbot Should I Use?",
+      "hook": "ChatGPT, Claude, Gemini, Copilot, Meta AI — they're more alike than different. The honest answer to 'which is best' is: the one you'll actually open, plus a second to cross-check.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8f3a2b",
+      "slug": "claude-fable-cheaper-agents",
+      "type": "news",
+      "title": "An AI Lab Ships a Model to Fix Customer Complaints, Not Benchmarks",
+      "hook": "Anthropic's Claude Fable 5.1 is pitched on price, data retention, and fewer needless refusals — the three things customers kept griping about.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-09-01"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_04d4e5#0",
+      "format": "flip",
+      "prompt": "In model naming, what does a 'Flash' tier usually mean?",
+      "back_html": "\u003cp\u003eThe fast, cheap version — smaller and quicker than the flagship \u0026quot;Pro\u0026quot; model, meant\nfor high-volume everyday work rather than the hardest problems.\u003c/p\u003e"
+    },
+    {
+      "id": "card_04d4e5#1",
+      "format": "quiz",
+      "prompt": "Google kept 3.8 Flash's per-token price the same as 3.7. Why might your bill still go up?",
+      "choices": [
+        {
+          "text": "It performs more reasoning steps and tool calls, so it uses more tokens per answer",
+          "correct": true
+        },
+        {
+          "text": "Google charges a separate monthly fee for the new version",
+          "correct": false
+        },
+        {
+          "text": "Output tokens are billed at a higher rate than before",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSame price per token, more tokens spent thinking. Google says the model \u0026quot;works\nharder\u0026quot; — reasoning further and calling tools iteratively on complex tasks.\u003c/p\u003e"
+    },
+    {
+      "id": "card_04d4e5#2",
+      "format": "flip",
+      "prompt": "Why does a fast release cadence matter to you as a user?",
+      "back_html": "\u003cp\u003eThe assistant behind the same product name can change under you. Behavior, cost,\nand quirks shift between versions, so \u0026quot;Gemini said X last month\u0026quot; may not hold.\u003c/p\u003e"
+    }
+  ]
+}

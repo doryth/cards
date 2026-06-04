@@ -1,0 +1,83 @@
+{
+  "id": "card_d5bace",
+  "slug": "swift-running-out-of-altitude",
+  "type": "news",
+  "title": "Swift Is Working Again, and Falling",
+  "hook": "NASA has revived two of Swift's telescopes after a failed commercial reboost attempt. The problem now is not electronics but air: atmospheric drag is pulling the observatory down faster than expected.",
+  "key_points": [
+    "Two of the ageing Swift observatory's telescopes are back online after technical problems.",
+    "A commercial mission meant to raise its orbit and extend its life was derailed.",
+    "Even in low Earth orbit there is enough residual air to sap orbital energy — drag.",
+    "Swift is descending faster than predicted, so it may have only a month or two of useful altitude left.",
+    "Below a critical altitude the spacecraft can no longer point and operate reliably."
+  ],
+  "content_html": "\u003cp\u003eSwift has been NASA's fast-reflex eye on the violent sky for two decades, swinging onto gamma-ray\nbursts within a minute of detecting them. After technical trouble, NASA has now brought two of\nits telescopes back online — but the reprieve may be brief.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA commercial mission intended to rescue the ageing spacecraft by raising its orbit was derailed,\nand Swift is still subject to the slow grind that limits every low-Earth-orbit satellite: the\natmosphere does not simply stop, it thins out. The residual air at orbital altitude drags on the\nspacecraft, converting orbital energy into heat and lowering the orbit. According to ScienceDaily,\nthat descent is running faster than expected, leaving perhaps another month or two before Swift\ndrops below the altitude at which it can operate. Without a successful reboost, one of the most\nproductive transient-hunting observatories in astronomy runs out of sky.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/09/260901010702.htm",
+    "published_at": "2026-09-01"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "gravity-orbits"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 2,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-09-01",
+  "related": [
+    {
+      "id": "card_9d6f94",
+      "slug": "fast-radio-bursts-track-star-formation",
+      "type": "paper",
+      "title": "Fast Radio Bursts Follow Star Formation Almost Instantly",
+      "hook": "Mysterious millisecond flashes from across the universe closely track where new stars are being born — with almost no time lag, ruling out one of the leading theories of what causes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "card_230f1d",
+      "slug": "magnetar-birth-caught-chirping",
+      "type": "news",
+      "title": "Astronomers Caught a Magnetar Being Born",
+      "hook": "A supernova's light curve started 'chirping' — bumps in brightness arriving closer and closer together — the birth cry of one of the universe's most extreme objects: a magnetar.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-07-06"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d5bace#0",
+      "format": "quiz",
+      "prompt": "Why does a satellite in low Earth orbit lose altitude over time?",
+      "choices": [
+        {
+          "text": "Residual atmosphere at orbital altitude produces drag, bleeding off orbital energy",
+          "correct": true
+        },
+        {
+          "text": "Earth's gravity strengthens the longer a satellite orbits",
+          "correct": false
+        },
+        {
+          "text": "Solar radiation pressure always pushes satellites downward",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLow Earth orbit is not a vacuum. The thin remaining air exerts drag, so without periodic\nreboosts the orbit decays — which is exactly what is now threatening Swift.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d5bace#1",
+      "format": "flip",
+      "prompt": "What was the commercial mission to Swift meant to accomplish?",
+      "back_html": "\u003cp\u003eRaise the ageing observatory's orbit to counter atmospheric drag and extend its operating\nlife. It ran into technical problems and did not succeed.\u003c/p\u003e"
+    }
+  ]
+}

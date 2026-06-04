@@ -1,0 +1,87 @@
+{
+  "id": "card_d3aef9",
+  "slug": "soil-warming-experiment-hidden-carbon",
+  "type": "news",
+  "title": "A 37-Year Soil Experiment Revealed a Hidden Climate Threat",
+  "hook": "The world's longest-running soil warming experiment just found that warming can unlock carbon scientists thought was safely locked away underground.",
+  "key_points": [
+    "Researchers have kept a soil-warming experiment running continuously for 37 years — the longest of its kind.",
+    "Scientists had long assumed a large share of soil carbon is chemically stabilized and effectively protected from decomposition, even as temperatures rise.",
+    "After nearly four decades, warming caused microbes to break down that supposedly stable carbon anyway, releasing extra CO2.",
+    "This points to a feedback loop — warming frees stored soil carbon, which drives further warming — that current climate models may be underestimating."
+  ],
+  "content_html": "\u003cp\u003eFor 37 years, one research team has kept a patch of soil artificially warmed — the longest-running experiment of its kind. It just delivered an unwelcome surprise.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eScientists have long assumed that a large share of carbon stored in soil is chemically stabilized, bound up in ways that protect it from microbial decomposition even as the climate warms. This experiment says otherwise: after nearly four decades of sustained warming, soil microbes broke down carbon that was thought to be safely locked away, releasing extra carbon dioxide into the atmosphere. That matters beyond one field plot, because it points to a feedback loop current climate models may be underestimating — warming frees up stored soil carbon, and that carbon, once in the atmosphere, drives further warming.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260713000809.htm",
+    "published_at": "2026-07-14",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "ecology",
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_40b8e4",
+      "slug": "climate-change-and-life",
+      "type": "concept",
+      "title": "Climate Change and Life",
+      "hook": "A warming planet doesn't just raise the thermometer — it shifts where species live, when they breed, and which ones survive the squeeze.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d9795d",
+      "slug": "nutrient-cycles",
+      "type": "concept",
+      "title": "Nutrient Cycles",
+      "hook": "The carbon in your breath, the nitrogen in your DNA, the water in your blood — all of it has cycled through living things and the planet countless times. Nothing is used up; everything is recycled.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d3aef9#0",
+      "format": "flip",
+      "prompt": "What had scientists long assumed about a large share of soil carbon?",
+      "back_html": "\u003cp\u003eThat it was chemically stabilized and effectively protected from microbial\ndecomposition, even under warming.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d3aef9#1",
+      "format": "quiz",
+      "prompt": "What did the 37-year soil warming experiment find instead?",
+      "choices": [
+        {
+          "text": "Microbes broke down the supposedly stable carbon anyway, releasing extra CO2",
+          "correct": true
+        },
+        {
+          "text": "Soil carbon became even more stable under warming",
+          "correct": false
+        },
+        {
+          "text": "Warming had no measurable effect on soil carbon",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAfter nearly four decades of sustained warming, carbon once thought\nchemically protected was broken down by microbes and released as extra CO2.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d3aef9#2",
+      "format": "flip",
+      "prompt": "Why does this finding matter for climate modeling?",
+      "back_html": "\u003cp\u003eIt points to a feedback loop — warming releases stored soil carbon, which\ndrives further warming — that current climate models may be underestimating.\u003c/p\u003e"
+    }
+  ]
+}

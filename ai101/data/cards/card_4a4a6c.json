@@ -1,0 +1,78 @@
+{
+  "id": "card_4a4a6c",
+  "slug": "live-voice-translation",
+  "type": "news",
+  "title": "AI Now Translates Your Voice, Live",
+  "hook": "Google's Gemini 3.5 Live Translate turns one spoken language into another almost in real time — and tries to keep your tone, pacing, and pitch, so it still sounds like you.",
+  "key_points": [
+    "Google announced Gemini 3.5 Live Translate: near-instant voice-to-voice translation.",
+    "It aims to preserve the speaker's tone, pacing, and pitch, not just the words.",
+    "The output carries a SynthID watermark, marking the audio as AI-generated.",
+    "Live spoken translation moves from clunky relay to something closer to a real conversation."
+  ],
+  "content_html": "\u003cp\u003eSpoken translation has long meant pausing, waiting, and listening to a robotic relay of your words. Google says that's changing. At its latest event the company announced Gemini 3.5 Live Translate, which turns one spoken language into another almost in real time — and, notably, tries to carry over \u003cem\u003ehow\u003c/em\u003e you said it: your tone, your pacing, even your pitch. The goal is less \u0026quot;translation app\u0026quot; and more two people simply talking, with the language barrier quietly dissolved in between.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe detail worth understanding is that this isn't only about accuracy of words — it's about making translated speech feel natural. According to Ars Technica, the system aims to reproduce the speaker's vocal qualities so the output still sounds recognizably like them, rather than a flat synthetic read-out. Each translated clip also carries a SynthID watermark, Google's invisible marker that flags audio as AI-generated. That matters as voice cloning gets easier: a built-in \u0026quot;this was made by AI\u0026quot; signal is a small but real guardrail against synthetic speech being passed off as a genuine recording. Live, lifelike translation is genuinely useful — for travel, for family across languages, for accessibility — but it's worth remembering it's still a machine's best guess, and like any AI it can mistranslate nuance, idioms, or names.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ryan Whitwam"
+    ],
+    "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation",
+    "published_at": "2026-06-09",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-translation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "speech",
+    "multimodal"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-11",
+  "date": "2026-06-09",
+  "related": [
+    {
+      "id": "card_cef5ae",
+      "slug": "breaking-language-barriers",
+      "type": "concept",
+      "title": "Breaking Language Barriers",
+      "hook": "AI translation has gone from comically bad to genuinely useful — text, speech, even live signs through your camera. Good enough to travel and connect; not yet good enough for the contract.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4a4a6c#0",
+      "format": "quiz",
+      "prompt": "What does Google's Gemini 3.5 Live Translate try to preserve beyond the words?",
+      "choices": [
+        {
+          "text": "The speaker's tone, pacing, and pitch",
+          "correct": true
+        },
+        {
+          "text": "The original background noise",
+          "correct": false
+        },
+        {
+          "text": "Nothing — it only outputs flat text",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer Ars Technica, the feature does voice-to-voice translation that aims to\nkeep the speaker's tone, pacing, and pitch, so the result still sounds like them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4a4a6c#1",
+      "format": "flip",
+      "prompt": "Why does Google add a SynthID watermark to the translated audio?",
+      "back_html": "\u003cp\u003eThe watermark marks the audio as AI-generated — a way to flag that the\nvoice you hear was produced by a machine, not recorded directly.\u003c/p\u003e"
+    }
+  ]
+}

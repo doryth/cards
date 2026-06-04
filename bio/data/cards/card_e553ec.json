@@ -1,0 +1,101 @@
+{
+  "id": "card_e553ec",
+  "slug": "cellular-respiration",
+  "type": "concept",
+  "title": "Cellular Respiration",
+  "hook": "Every cell in your body slowly 'burns' sugar with oxygen to release energy — the same chemistry as photosynthesis, run in reverse.",
+  "key_points": [
+    "Respiration breaks down glucose using oxygen to release usable energy.",
+    "The energy is stored in a molecule called ATP, the cell's rechargeable battery.",
+    "It produces carbon dioxide and water — the exact inputs of photosynthesis.",
+    "In animal cells most of this happens in the mitochondria."
+  ],
+  "content_html": "\u003cp\u003ePhotosynthesis stores energy in sugar; cellular respiration spends it. Every cell — in plants and animals alike — runs respiration to extract usable energy from glucose. It combines that sugar with oxygen and breaks it down step by step, capturing the released energy in a molecule called ATP. Think of ATP as a tiny rechargeable battery the cell can plug into whenever it needs to do work, from contracting a muscle to firing a nerve.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eLook at the bookkeeping and a neat symmetry appears. Respiration takes in glucose and oxygen and gives off carbon dioxide and water — exactly the ingredients photosynthesis consumes. The two processes are mirror images, together cycling carbon and energy through the living world. In animal cells, most of the action happens inside the mitochondria, the organelles often called the cell's powerhouses. This is also why you breathe: you inhale the oxygen respiration needs and exhale the carbon dioxide it produces. Khan Academy walks through how the energy is harvested in stages.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/intro-to-cellular-respiration/a/intro-to-cellular-respiration-and-redox",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "energy-in-life"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_4be834",
+      "slug": "photosynthesis",
+      "type": "concept",
+      "title": "Photosynthesis",
+      "hook": "Plants pull carbon dioxide from the air and water from the soil, and using only sunlight, build sugar — releasing the oxygen you're breathing right now.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d14f9d",
+      "slug": "what-is-a-cell",
+      "type": "concept",
+      "title": "What Is a Cell?",
+      "hook": "Every living thing — from a bacterium to a blue whale — is built from cells, the smallest unit that can call itself alive.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e553ec#0",
+      "format": "flip",
+      "prompt": "What does cellular respiration do?",
+      "back_html": "\u003cp\u003eIt breaks down \u003cstrong\u003eglucose using oxygen\u003c/strong\u003e to release energy, storing it as \u003cstrong\u003eATP\u003c/strong\u003e\nand giving off carbon dioxide and water.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e553ec#1",
+      "format": "quiz",
+      "prompt": "How does cellular respiration relate to photosynthesis?",
+      "choices": [
+        {
+          "text": "It runs the chemistry in reverse — using up sugar and O2, releasing CO2 and water",
+          "correct": true
+        },
+        {
+          "text": "They are completely unrelated processes",
+          "correct": false
+        },
+        {
+          "text": "Both produce oxygen as their main output",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePhotosynthesis builds sugar and releases oxygen; respiration burns that sugar\nwith oxygen and gives back CO2 and water — a tidy cycle.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e553ec#2",
+      "format": "quiz",
+      "prompt": "In animal cells, where does most respiration take place?",
+      "choices": [
+        {
+          "text": "The mitochondria",
+          "correct": true
+        },
+        {
+          "text": "The nucleus",
+          "correct": false
+        },
+        {
+          "text": "The cell membrane",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMitochondria are the cell's powerhouses, where most ATP is generated during\nrespiration.\u003c/p\u003e"
+    }
+  ]
+}

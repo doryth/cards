@@ -1,0 +1,117 @@
+{
+  "id": "card_fb7581",
+  "slug": "adobe-ai-assistants",
+  "type": "news",
+  "title": "AI Assistants Move Into Photoshop and Premiere",
+  "hook": "The chatbot is moving into the software you already use: Adobe is putting AI assistants inside Photoshop, Premiere, and the rest of Creative Cloud — so you edit by describing what you want.",
+  "key_points": [
+    "Adobe's public beta gives Photoshop, Premiere, Illustrator, InDesign, and Frame.io their own built-in AI assistant.",
+    "You can ask for an edit in plain language instead of hunting through menus and tools.",
+    "A redesigned Firefly studio adds persistent memory of your projects and reusable assets.",
+    "It marks a broader shift: AI assistants arriving inside everyday apps, not just standalone chatbots."
+  ],
+  "content_html": "\u003cp\u003eAdobe is rolling conversational AI assistants into its flagship Creative Cloud apps. As part of a public beta, Photoshop, Premiere, Illustrator, InDesign, and Frame.io each get a bespoke AI Assistant — a chat helper that lives inside the app, so instead of digging through menus and tool palettes, you can describe the change you want in plain language and let the software carry it out. It's the same shift you've seen with chatbots, aimed squarely at the tools creative people already work in every day.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAlongside the assistants, Adobe is also reworking its standalone generative tool: a \u0026quot;reimagined\u0026quot; \u003ca href=\"https://theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update\"\u003eFirefly studio\u003c/a\u003e, launching in private beta, that edits and generates designs from a single interface and — per Adobe — gives you \u0026quot;persistent context, reusable assets, and organized workflows\u0026quot; so it remembers what your ongoing projects look like. The Verge reported both moves on June 18, 2026. For everyday users, the takeaway is less about any one feature than the direction: AI is increasingly arriving \u003cem\u003einside\u003c/em\u003e mainstream software rather than living in a separate window. The same caution that applies to AI image tools applies here — generative editing makes it easier to alter or invent visual content, so it's worth knowing when a picture has been AI-changed, and these are still early betas that need a human eye on the results.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+    "published_at": "2026-06-18",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-images",
+    "ai-news"
+  ],
+  "tags": [
+    "generative",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-22",
+  "date": "2026-06-18",
+  "related": [
+    {
+      "id": "card_48f28e",
+      "slug": "ai-photo-editing",
+      "type": "concept",
+      "title": "AI Photo Editing",
+      "hook": "Your phone already uses AI to retouch every photo — and now a sentence can remove a stranger, swap a sky, or 'unblur' a face. Powerful for fixing pictures, slippery for trusting them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aa1028",
+      "slug": "ai-images-and-art",
+      "type": "concept",
+      "title": "AI Images, Art \u0026 Video",
+      "hook": "Type a sentence, get a picture. Image generators learned the link between words and visuals from billions of captioned images — which is also why artists are raising hard questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af34d5",
+      "slug": "ai-in-everyday-tools",
+      "type": "concept",
+      "title": "AI in Everyday Tools",
+      "hook": "You've used AI for years without calling it that — every time your phone unlocks with your face, your maps reroute around traffic, or your inbox filters spam.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fb7581#0",
+      "format": "quiz",
+      "prompt": "What is Adobe's new AI assistant meant to change about using its apps?",
+      "choices": [
+        {
+          "text": "You can ask for an edit in plain language instead of hunting through menus and tools",
+          "correct": true
+        },
+        {
+          "text": "It replaces the human editor entirely, with no review needed",
+          "correct": false
+        },
+        {
+          "text": "It only works in a separate website, not inside the apps",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAdobe is building the assistants directly into Photoshop, Premiere, and other\napps so you can describe what you want rather than navigating their tools by hand.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fb7581#1",
+      "format": "flip",
+      "prompt": "Why is putting an AI assistant inside Photoshop part of a bigger trend?",
+      "back_html": "\u003cp\u003eAI is moving out of standalone chatbots and into the everyday software you\nalready use — the assistant comes to your tools instead of the other way around.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fb7581#2",
+      "format": "quiz",
+      "prompt": "What does Adobe's redesigned Firefly studio add?",
+      "choices": [
+        {
+          "text": "Persistent memory of your projects and reusable assets across your work",
+          "correct": true
+        },
+        {
+          "text": "Free unlimited image generation with no account",
+          "correct": false
+        },
+        {
+          "text": "A guarantee that AI-generated art is copyright-free",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe reimagined Firefly experience is built around persistent context, reusable\nassets, and organized workflows so the tool remembers your ongoing projects.\u003c/p\u003e"
+    }
+  ]
+}

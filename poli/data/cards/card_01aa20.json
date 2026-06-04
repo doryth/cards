@@ -1,0 +1,140 @@
+{
+  "id": "card_01aa20",
+  "slug": "repealing-a-voter-approved-amendment",
+  "type": "news",
+  "title": "How a Legislature Undoes a Ballot Measure Voters Passed",
+  "hook": "Missouri voters wrote abortion rights into their constitution in 2024. Lawmakers' answer wasn't to defy them — it was to put a second measure, with the same name, back on the ballot.",
+  "key_points": [
+    "Missouri's 2024 citizen-initiated Amendment 3 passed 51.6% to 48.4%, protecting abortion rights to fetal viability.",
+    "Legislators referred a new measure — also called Amendment 3 — to the November 2026 ballot that would restore a ban with limited exceptions and bar gender transition care for minors.",
+    "Because a simple majority amends Missouri's constitution, a narrow win is always reversible by the same mechanism that produced it.",
+    "Ballot wording is contested ground: a trial judge called the legislature's summary deceptive, and an appeals court rewrote it to say plainly that the measure repeals the 2024 amendment.",
+    "Bundling matters — ProPublica reports polling where the combined measure drew 47% support to 40% opposition, better than the abortion provision alone.",
+    "Access fights run in parallel: the secretary of state blocked two citizen measures for violating single-subject rules, decisions headed for expedited appeal."
+  ],
+  "content_html": "\u003cp\u003eDirect democracy is often described as the people overruling their politicians. Missouri shows the loop closing the other way. In 2024, a citizen-initiated Amendment 3 narrowly passed — 51.6% to 48.4%, a margin of roughly 48,000 votes — writing protection for abortion up to fetal viability into the state constitution and displacing the near-total ban that followed \u003cem\u003eDobbs\u003c/em\u003e. Republican lawmakers responded by putting a new measure, confusingly given the same name, on the November 2026 ballot.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Jeremy Kohler reports the replacement would restore a ban with exceptions for rape, incest, medical emergencies and fetal anomalies before 12 weeks, and would separately put a prohibition on gender transition care for minors into the constitution — restrictions that largely duplicate existing state law. Two mechanics are worth extracting. First, threshold: where a simple majority can amend a constitution, nothing passed by a narrow majority is ever safely settled. Second, packaging. The legislature's ballot summary initially described the measure as guaranteeing emergency care access and protecting children, never mentioning repeal; a trial judge called that deceptive, and after further challenges a state appeals court rewrote the language to state prominently that it would repeal the 2024 voter-approved amendment. Campaign materials still lead with the gender transition provision, and Kohler cites polling suggesting the bundle polls better than abortion restrictions alone. Meanwhile Secretary of State Denny Hoskins kept two citizen measures off the ballot on single-subject grounds — including one that would have made it harder for lawmakers to alter voter-approved policies — with a judge siding with him and appeals expected. (This card describes Missouri state law specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Jeremy Kohler"
+    ],
+    "url": "https://propublica.org/article/missouri-abortion-gender-transition-minors-amendment-3",
+    "published_at": "2026-08-21",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "rights-civil-liberties"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_83f9cf",
+      "slug": "referendums-and-direct-democracy",
+      "type": "concept",
+      "title": "Referendums \u0026 Direct Democracy",
+      "hook": "Usually we elect others to decide for us. Sometimes the people decide a question themselves — that's direct democracy, and the referendum is its main modern tool.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1a0fa9",
+      "slug": "raising-constitutional-amendment-thresholds",
+      "type": "news",
+      "title": "Making It Harder to Amend a Constitution — by Amending It First",
+      "hook": "Some U.S. states are asking voters to approve a measure that would make future constitutional amendments harder to pass. It's direct democracy voting to limit direct democracy.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_fefd2c",
+      "slug": "abortion-after-dobbs",
+      "type": "news",
+      "title": "Abortion After Dobbs",
+      "hook": "In 2022 the Supreme Court did something rare: it withdrew a constitutional right it had recognized for half a century — and handed the question back to the states.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "card_1d0cfe",
+      "slug": "amending-a-constitution",
+      "type": "concept",
+      "title": "Amending a Constitution",
+      "hook": "A constitution has to last — but not freeze. Amendment rules let it change deliberately, usually demanding more agreement than an ordinary law.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_83f9cf",
+      "slug": "referendums-and-direct-democracy",
+      "type": "concept",
+      "title": "Referendums \u0026 Direct Democracy",
+      "hook": "Usually we elect others to decide for us. Sometimes the people decide a question themselves — that's direct democracy, and the referendum is its main modern tool.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_01aa20#0",
+      "format": "flip",
+      "prompt": "How can a legislature reverse a citizen-initiated constitutional amendment?",
+      "back_html": "\u003cp\u003eBy referring its own amendment to the ballot. If a simple majority\namends the constitution, the same threshold that passed the original\ncan undo it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_01aa20#1",
+      "format": "quiz",
+      "prompt": "Why is ballot wording fought over so hard in initiative campaigns?",
+      "choices": [
+        {
+          "text": "The summary voters read shapes how they vote — here a court rewrote it to state plainly that the measure repeals the 2024 amendment",
+          "correct": true
+        },
+        {
+          "text": "Wording determines how many signatures are required",
+          "correct": false
+        },
+        {
+          "text": "Federal law sets a standard text that states must copy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA trial judge found the legislature's summary deceptive for omitting\nthe repeal; an appeals court rewrote it to say so up front.\u003c/p\u003e"
+    },
+    {
+      "id": "card_01aa20#2",
+      "format": "quiz",
+      "prompt": "What does 'bundling' two policies into one ballot measure do?",
+      "choices": [
+        {
+          "text": "It can lift total support above what either provision would draw alone",
+          "correct": true
+        },
+        {
+          "text": "It automatically invalidates the measure under every state's rules",
+          "correct": false
+        },
+        {
+          "text": "It requires a two-thirds vote instead of a majority",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProPublica cites polling where the combined measure led 47% to 40% —\nstronger than the abortion provision on its own.\u003c/p\u003e"
+    }
+  ]
+}

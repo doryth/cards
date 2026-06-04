@@ -1,0 +1,118 @@
+{
+  "id": "card_121806",
+  "slug": "nanosphere-feels-a-single-atom",
+  "type": "paper",
+  "title": "A Nanosphere That Feels One Atom Hit It",
+  "hook": "Cool a levitated nanosphere into its quantum ground state and it becomes an exquisite force sensor — sensitive enough to register the kick from a single xenon atom.",
+  "key_points": [
+    "The detector is a levitated nanosphere cooled to its motional quantum ground state.",
+    "A supersonic expansion produced a time-gated, directional beam of xenon atoms with a narrow momentum spread.",
+    "Individual momentum kicks below 50 keV/c were observed with 96% confidence.",
+    "Directional momentum transfer from the beam was distinguished from the background of thermal collisions.",
+    "The point of the exercise: probing short-range, distance-dependent interactions between atoms and levitated objects.",
+    "It also opens levitated platforms to impulsive force sensing in previously unexplored regimes."
+  ],
+  "content_html": "\u003cp\u003eThere is a class of experiment that treats a speck of glass as a quantum object. Levitate a nanosphere with light or fields, cool its motion until it sits in the lowest quantum state of its trap, and you have an oscillator whose position noise is limited only by quantum mechanics. Such a thing is an extraordinary force sensor: anything that pushes it, however faintly, shows up.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMaxime Perdriat and colleagues put a number on how faint. Using a supersonic expansion they made a time-gated, directional beam of xenon atoms with a narrow momentum distribution, and aimed it at a ground-state-cooled levitated nanosphere. They report resolving individual momentum kicks below 50 keV/c with 96% confidence, and — the harder achievement — separating the directional momentum transfer from the beam against the constant background of thermal collisions with residual gas.\u003c/p\u003e\n\u003cp\u003eDetecting one atom hitting one nanosphere is not the goal in itself. It is the calibration step for two programmes: measuring how short-range interactions between an atom and a levitated body depend on distance, which is where hypothetical new forces would hide, and using levitated systems as impulsive force sensors — devices that register single sharp kicks rather than steady pushes — in parameter regimes nobody has been able to reach.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Maxime Perdriat",
+      "Maciej Dziewiecki",
+      "Massimiliano Rossi",
+      "Frederic Merkt",
+      "Martin Frimmer",
+      "Lukas Novotny"
+    ],
+    "url": "https://arxiv.org/abs/2608.17656",
+    "published_at": "2026-08-18",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-20",
+  "date": "2026-08-18",
+  "related": [
+    {
+      "id": "card_da171f",
+      "slug": "quantum-classical-crossover-point",
+      "type": "paper",
+      "title": "Quantum-Classical Crossover in Fault-Tolerant Quantum Dynamics Simulation",
+      "hook": "A new paper puts an actual number on 'when do quantum computers win': about 2 hours and 370,000 qubits to beat 100 years of classical computing on one benchmark physics problem.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e8216a",
+      "slug": "detecting-quantum-gravitational-waves",
+      "type": "paper",
+      "title": "Could We Ever Tell a Gravitational Wave Is Quantum?",
+      "hook": "If gravity is quantum, gravitational waves should arrive in squeezed quantum states. This analysis finds nearly every route to observing that squeezing quietly destroys it.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-09"
+    },
+    {
+      "id": "card_a13f1f",
+      "slug": "what-is-momentum",
+      "type": "concept",
+      "title": "Momentum: The Quantity of Motion",
+      "hook": "A slow freight train and a fast bullet are both brutally hard to stop. Momentum captures why: it's mass times velocity, the real measure of moving 'oomph'.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_121806#0",
+      "format": "flip",
+      "prompt": "Why cool the nanosphere to its quantum ground state before using it as a detector?",
+      "back_html": "\u003cp\u003eBecause its own thermal motion is the noise floor. In the motional \u003cstrong\u003eground state\u003c/strong\u003e that\nnoise is as small as quantum mechanics allows, so a single atomic collision stands out.\u003c/p\u003e"
+    },
+    {
+      "id": "card_121806#1",
+      "format": "quiz",
+      "prompt": "How did the experimenters tell a beam atom's kick apart from ordinary background collisions?",
+      "choices": [
+        {
+          "text": "The beam was time-gated and directional, so its momentum transfer had a distinctive direction and timing",
+          "correct": true
+        },
+        {
+          "text": "Beam atoms deposited far more energy than any background collision",
+          "correct": false
+        },
+        {
+          "text": "They cooled the apparatus until background collisions stopped entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSupersonic expansion gave a directional beam with a narrow momentum distribution and known\ntiming, which is what let directional transfer be separated from thermal collisions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_121806#2",
+      "format": "flip",
+      "prompt": "What is this a first step toward?",
+      "back_html": "\u003cp\u003eExploring \u003cstrong\u003edistance-dependent short-range interactions\u003c/strong\u003e between atoms and levitated\nobjects, and using levitated platforms for \u003cstrong\u003eimpulsive force sensing\u003c/strong\u003e in new regimes.\u003c/p\u003e"
+    }
+  ]
+}

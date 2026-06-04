@@ -1,0 +1,81 @@
+{
+  "id": "card_6c2d37",
+  "slug": "honey-bee-flight-paths",
+  "type": "news",
+  "title": "Every Bee Flies Its Own Highway",
+  "hook": "Tracked by drone in the wild, individual honey bees turned out to follow their own personal flight paths — sometimes retracing a route to within centimeters.",
+  "key_points": [
+    "A drone-based tracking system followed honey bees flying out in the open.",
+    "Each bee stuck to its own remarkably consistent route, trip after trip.",
+    "Some repeated a path so precisely they flew within centimeters of before.",
+    "Visual landmarks like trees helped keep them on course.",
+    "Over featureless ground like cornfields, their paths wandered more."
+  ],
+  "content_html": "\u003cp\u003eWe tend to picture a bee as bumbling from flower to flower at random. New research tells a different story. Using a drone-based system to track honey bees flying in the wild, scientists found — reported via ScienceDaily — that each bee follows its own highly consistent flight path, returning along nearly the same line trip after trip.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSome bees were so precise they retraced a route to within centimeters of where they'd flown before. The secret seems to be landmarks: features like trees gave the bees fixed reference points to steer by. Where the landscape was uniform and cue-poor — a stretch of cornfield, say — their paths drifted and varied more. It's a vivid reminder that even a tiny insect brain can build and follow a detailed mental map of its world.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260614011857.htm",
+    "published_at": "2026-06-14",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "animals"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-18",
+  "date": "2026-06-14",
+  "related": [
+    {
+      "id": "card_143de7",
+      "slug": "pigeon-magnetic-navigation",
+      "type": "news",
+      "title": "A Pigeon's Compass in Its Liver",
+      "hook": "The clue to how pigeons find their way home may be hiding in the liver: iron-packed immune cells that could act like tiny magnetic sensors.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "card_9e052d",
+      "slug": "how-animals-behave",
+      "type": "concept",
+      "title": "How Animals Behave",
+      "hook": "A spider spins a perfect web without a lesson, while a crow figures out a new trick by trial and error — two sides of how animals act in the world.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6c2d37#0",
+      "format": "flip",
+      "prompt": "What did drone tracking reveal about how individual honey bees fly?",
+      "back_html": "\u003cp\u003eEach bee follows its \u003cstrong\u003eown highly consistent personal flight path\u003c/strong\u003e, sometimes\nretracing a route to within centimeters of where it flew before.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6c2d37#1",
+      "format": "quiz",
+      "prompt": "What helped the bees fly their routes so precisely?",
+      "choices": [
+        {
+          "text": "Visual landmarks such as trees",
+          "correct": true
+        },
+        {
+          "text": "Following other bees in a single-file line",
+          "correct": false
+        },
+        {
+          "text": "The Earth's magnetic field alone",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLandmarks like trees kept bees on track. Where the ground was uniform — like a\ncornfield — they had fewer cues and their paths varied more.\u003c/p\u003e"
+    }
+  ]
+}

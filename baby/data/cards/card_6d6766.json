@@ -1,0 +1,112 @@
+{
+  "id": "card_6d6766",
+  "slug": "well-child-visits",
+  "type": "concept",
+  "title": "Well-Child Visits: Your Regular Check-Ups",
+  "hook": "Well-child visits aren't just for when something's wrong — they track growth and development, deliver vaccines on schedule, and catch problems early, even when your child seems perfectly fine.",
+  "key_points": [
+    "Visits are preventive: they happen on a set schedule whether or not your child is sick.",
+    "The doctor tracks growth and development, gives recommended vaccines, and screens for issues early.",
+    "Early years are visit-heavy: a few days after birth, then 1, 2, 4, 6, 9, 12, 15, 18, 24, and 30 months, then yearly.",
+    "Each visit is your chance to ask questions — bring your top concerns about feeding, sleep, or behavior."
+  ],
+  "content_html": "\u003cp\u003eWell-child visits are the routine check-ups your child has on a regular schedule, whether or not anything seems wrong. The American Academy of Pediatrics designed this schedule — sometimes called the periodicity schedule — to catch problems before they become serious. At each visit the doctor measures growth, checks development and milestones, gives any recommended vaccines, and offers guidance on nutrition and safety.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe early years are visit-heavy by design, because so much changes so fast: typically a check a few days after birth, then around 1, 2, 4, 6, 9, 12, 15, 18, 24, and 30 months, before settling into yearly visits. According to the AAP, these appointments are also your time — come with your top three to five questions about feeding, sleep, behavior, or anything that's been on your mind, since a regular relationship with one practice helps the doctor know your child well. This is general educational information; your pediatrician sets the right schedule and answers questions specific to your child.\u003c/p\u003e",
+  "source": {
+    "name": "HealthyChildren.org (AAP)",
+    "url": "https://www.healthychildren.org/English/family-life/health-management/Pages/Well-Child-Care-A-Check-Up-for-Success.aspx",
+    "license": "© American Academy of Pediatrics"
+  },
+  "topic_ids": [
+    "health-safety",
+    "milestones"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_9ce053",
+      "slug": "childhood-vaccines",
+      "type": "concept",
+      "title": "How Childhood Vaccines Work",
+      "hook": "Vaccines train a child's immune system to recognize a disease in advance, so it can fight off the real thing — and they're scheduled to protect kids when they're most vulnerable.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_419aeb",
+      "slug": "developmental-milestones-overview",
+      "type": "concept",
+      "title": "Developmental Milestones: The Big Picture",
+      "hook": "Development happens across several areas at once — social, language, thinking, and movement — and milestones describe what most kids do by an age, not deadlines every child must hit.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4dca6c",
+      "slug": "first-teeth-and-dental-care",
+      "type": "concept",
+      "title": "Caring for the First Teeth",
+      "hook": "Baby teeth matter — they hold space for adult teeth and shape eating and speech. Brushing starts with the very first tooth, and the first dental visit comes earlier than most parents expect.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6d6766#0",
+      "format": "quiz",
+      "prompt": "What's the main purpose of a well-child visit?",
+      "choices": [
+        {
+          "text": "Preventive care — tracking growth and development, giving vaccines, and catching issues early",
+          "correct": true
+        },
+        {
+          "text": "Only treating a child who is currently sick",
+          "correct": false
+        },
+        {
+          "text": "Replacing the need to ever call the doctor between visits",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWell-child visits are preventive and happen on a schedule regardless of whether\nyour child is sick — they monitor development, deliver vaccines, and catch problems early.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6d6766#1",
+      "format": "flip",
+      "prompt": "Roughly how often do well-child visits happen in the first two years?",
+      "back_html": "\u003cp\u003eFrequently — a check a few days after birth, then around \u003cstrong\u003e1, 2, 4, 6, 9, 12,\n15, 18, and 24 months\u003c/strong\u003e (and 30 months), before shifting to \u003cstrong\u003eyearly\u003c/strong\u003e visits.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6d6766#2",
+      "format": "quiz",
+      "prompt": "How can parents make the most of a well-child visit?",
+      "choices": [
+        {
+          "text": "Come prepared with their top questions and concerns to ask the doctor",
+          "correct": true
+        },
+        {
+          "text": "Avoid raising worries so the visit stays short",
+          "correct": false
+        },
+        {
+          "text": "Skip the visit if the child seems healthy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe AAP suggests bringing your top three to five questions or concerns —\nabout feeding, sleep, behavior, or development — so nothing gets missed.\u003c/p\u003e"
+    }
+  ]
+}

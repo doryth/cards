@@ -1,0 +1,105 @@
+{
+  "id": "card_4e7e42",
+  "slug": "right-to-a-court-interpreter",
+  "type": "concept",
+  "title": "The Right to Understand Your Trial",
+  "hook": "A trial you can't understand isn't a fair one — so the law promises defendants an interpreter. For speakers of rarer languages, that promise often goes unmet.",
+  "key_points": [
+    "A fair trial requires the accused to understand the proceedings and assist in their own defense.",
+    "U.S. federal law — the Court Interpreters Act — requires interpreters for those who can't follow English in court.",
+    "The guarantee flows from due process and fair-trial rights, not mere convenience.",
+    "It breaks down for less-common and Indigenous languages, where few certified interpreters exist."
+  ],
+  "content_html": "\u003cp\u003eA fair trial assumes the accused can actually follow what is happening — hear the charges, understand the evidence, and help their own lawyer respond. If a defendant doesn't understand the language of the court, none of that is possible, so the right to a competent interpreter is treated as part of the right to a fair trial rather than an optional courtesy. In the United States, the Court Interpreters Act requires federal courts to provide an interpreter when a party or witness cannot adequately understand or speak English.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWriting in The Conversation, linguist Carol Rose Little explains that this promise often falls short in practice. Court systems are generally equipped for widely spoken languages, but they struggle to find qualified, certified interpreters for the many less-common and Indigenous languages people actually speak — and an absent or inaccurate interpreter can distort testimony, confuse a defendant, and undermine the very fairness the guarantee is meant to secure. The gap illustrates a recurring theme in civil liberties: a right written into law is only as real as the institutions and resources available to deliver it. Closing it means training and certifying interpreters for a far wider range of languages than most courts currently support.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Carol Rose Little"
+    ],
+    "url": "https://theconversation.com/the-constitution-promises-an-interpreter-for-fair-trials-us-courts-often-cant-deliver-283540",
+    "published_at": "2026-06-12",
+    "license": "© The Conversation (CC BY-ND)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-15",
+  "date": "2026-06-12",
+  "related": [
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4e7e42#0",
+      "format": "flip",
+      "prompt": "Why is access to a court interpreter treated as part of a fair trial, not just a courtesy?",
+      "back_html": "\u003cp\u003eA fair trial requires the accused to understand the charges and evidence\nand assist their own defense — impossible if they can't follow the\ncourt's language.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4e7e42#1",
+      "format": "quiz",
+      "prompt": "Which U.S. law requires federal courts to provide interpreters?",
+      "choices": [
+        {
+          "text": "The Court Interpreters Act",
+          "correct": true
+        },
+        {
+          "text": "The Freedom of Information Act",
+          "correct": false
+        },
+        {
+          "text": "The Voting Rights Act",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt requires an interpreter when a party or witness cannot adequately\nunderstand or speak English in federal court.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4e7e42#2",
+      "format": "quiz",
+      "prompt": "Where does the right to an interpreter most often break down in practice?",
+      "choices": [
+        {
+          "text": "For speakers of less-common and Indigenous languages, where few certified interpreters exist",
+          "correct": true
+        },
+        {
+          "text": "For defendants who already speak fluent English",
+          "correct": false
+        },
+        {
+          "text": "Only in private civil contract disputes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCourts are equipped for widely spoken languages but lack qualified\ninterpreters for rarer ones, leaving the promise unmet.\u003c/p\u003e"
+    }
+  ]
+}

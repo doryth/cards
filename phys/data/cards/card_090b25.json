@@ -1,0 +1,112 @@
+{
+  "id": "card_090b25",
+  "slug": "lenses-and-mirrors",
+  "type": "concept",
+  "title": "How Lenses and Mirrors Make Images",
+  "hook": "A magnifying glass, your eye, a camera, and a telescope all do one trick: steer light rays to a single focus so they form an image.",
+  "key_points": [
+    "Lenses bend (refract) light; curved mirrors bounce (reflect) it — both can focus rays.",
+    "A convex lens converges light to a focal point: the eye, cameras, magnifying glasses.",
+    "A concave mirror also focuses light: telescopes, headlights, satellite dishes.",
+    "Where the rays meet sets where the image forms and how big it appears."
+  ],
+  "content_html": "\u003cp\u003eLenses and mirrors seem like different gadgets, but they share a single job: taking light rays that are spreading out and herding them back together. A lens does it by bending light as it passes through the glass; a curved mirror does it by bouncing light off its surface. Either way, the goal is to make rays meet at a focus.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA convex lens — fat in the middle — pulls parallel rays inward to a focal point, which is how a magnifying glass, a camera, and the lens in your own eye form an image. A concave mirror — scooped inward — does the same by reflection, which is why telescopes and headlights are built around them. The image appears wherever those rays cross, and that crossing point also fixes how large the image looks. Wikipedia covers the shapes and the ray geometry behind it.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lens",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "light-optics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_af8914",
+      "slug": "reflection-and-refraction",
+      "type": "concept",
+      "title": "Reflection \u0026 Refraction",
+      "hook": "A straw looks bent in a glass of water — not because the straw bends, but because light does when it changes speed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80e637",
+      "slug": "electromagnetic-spectrum",
+      "type": "concept",
+      "title": "The Electromagnetic Spectrum",
+      "hook": "Radio, microwaves, the warmth of sunlight, the colors you see, and a hospital X-ray are all the same thing — electromagnetic waves, differing only in wavelength.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_af8914",
+      "slug": "reflection-and-refraction",
+      "type": "concept",
+      "title": "Reflection \u0026 Refraction",
+      "hook": "A straw looks bent in a glass of water — not because the straw bends, but because light does when it changes speed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_090b25#0",
+      "format": "flip",
+      "prompt": "How does a lens differ from a curved mirror in how it bends light?",
+      "back_html": "\u003cp\u003eA lens \u003cstrong\u003erefracts\u003c/strong\u003e (bends light passing through it); a curved mirror\n\u003cstrong\u003ereflects\u003c/strong\u003e (bounces light off its surface). Both can bring rays to a focus.\u003c/p\u003e"
+    },
+    {
+      "id": "card_090b25#1",
+      "format": "quiz",
+      "prompt": "What does a convex lens do to incoming parallel light?",
+      "choices": [
+        {
+          "text": "Converges it toward a focal point",
+          "correct": true
+        },
+        {
+          "text": "Spreads it apart so it never meets",
+          "correct": false
+        },
+        {
+          "text": "Passes it straight through unchanged",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA convex lens is thicker in the middle and bends parallel rays inward so\nthey meet at a focal point — the basis of magnifying glasses and the eye.\u003c/p\u003e"
+    },
+    {
+      "id": "card_090b25#2",
+      "format": "quiz",
+      "prompt": "What determines where an image forms and how big it looks?",
+      "choices": [
+        {
+          "text": "Where the focused light rays actually meet",
+          "correct": true
+        },
+        {
+          "text": "The color of the lens or mirror",
+          "correct": false
+        },
+        {
+          "text": "How heavy the lens is",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn image forms at the place where the converging rays cross; that location\nsets both the position and the size of the image.\u003c/p\u003e"
+    }
+  ]
+}

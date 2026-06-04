@@ -1,0 +1,134 @@
+{
+  "id": "card_78e07c",
+  "slug": "gravitational-waves",
+  "type": "concept",
+  "title": "Gravitational Waves: Ripples in Spacetime",
+  "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+  "key_points": [
+    "Einstein predicted gravitational waves in 1916; they're ripples in spacetime.",
+    "Violent events — merging black holes or neutron stars — radiate them.",
+    "They stretch and shrink space by a fraction of a proton's width as they pass.",
+    "LIGO first detected one in 2015, opening a new way to observe the universe."
+  ],
+  "content_html": "\u003cp\u003eEinstein's general relativity says mass warps spacetime — so what happens when masses move violently? They send out ripples in spacetime itself, called gravitational waves, that spread outward at the speed of light. Einstein predicted them in 1916 but doubted anyone could ever detect them, because the effect is almost absurdly small: a passing wave stretches and compresses space by less than the width of a single proton.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eFor a century they stayed theoretical. Then in 2015 the LIGO observatories — pairs of laser beams running down kilometers-long vacuum tunnels — caught the unmistakable signal of two black holes, more than a billion light-years away, spiraling together and merging into one. The discovery earned a Nobel Prize and did something profound: it gave astronomers a brand-new sense. Every telescope before had collected light or other electromagnetic waves; gravitational waves let us instead \u0026quot;hear\u0026quot; events that emit little or no light, like colliding black holes. Detecting neutron-star collisions this way has since opened a new era of multi-messenger astronomy. Wikipedia recounts the prediction, the detection, and how the instruments work.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gravitational_wave",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational",
+    "landmark"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_78e07c#0",
+      "format": "flip",
+      "prompt": "What is a gravitational wave?",
+      "back_html": "\u003cp\u003eA ripple in \u003cstrong\u003espacetime itself\u003c/strong\u003e, set off by accelerating masses. As it\npasses, it alternately stretches and squeezes the space it travels through.\u003c/p\u003e"
+    },
+    {
+      "id": "card_78e07c#1",
+      "format": "quiz",
+      "prompt": "What kind of event produces gravitational waves strong enough to detect?",
+      "choices": [
+        {
+          "text": "Extremely violent ones, like two black holes spiraling together and merging",
+          "correct": true
+        },
+        {
+          "text": "Everyday motion, like a car driving down a road",
+          "correct": false
+        },
+        {
+          "text": "A planet quietly orbiting its star",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAny accelerating mass emits gravitational waves, but only cataclysms like\nmerging black holes or neutron stars make ripples we can currently measure.\u003c/p\u003e"
+    },
+    {
+      "id": "card_78e07c#2",
+      "format": "quiz",
+      "prompt": "Why are gravitational waves so hard to detect?",
+      "choices": [
+        {
+          "text": "They stretch space by less than the width of a proton over kilometers",
+          "correct": true
+        },
+        {
+          "text": "They travel far slower than light and arrive too late",
+          "correct": false
+        },
+        {
+          "text": "They only exist briefly and never reach Earth",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe distortion is fantastically tiny, so detectors like LIGO use kilometer-long\nlaser arms to sense changes far smaller than an atomic nucleus.\u003c/p\u003e"
+    }
+  ]
+}

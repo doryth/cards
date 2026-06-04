@@ -1,0 +1,122 @@
+{
+  "id": "card_614e7e",
+  "slug": "presidential-vs-parliamentary",
+  "type": "concept",
+  "title": "Presidential vs Parliamentary",
+  "hook": "Two democracies can run on totally different wiring: in one, voters pick the leader directly; in the other, the legislature does — and that changes everything downstream.",
+  "key_points": [
+    "Presidential systems separately elect the executive, who is independent of the legislature.",
+    "Parliamentary systems pick the executive (prime minister) from within the legislature.",
+    "A prime minister governs only while holding the legislature's confidence; a president has a fixed term.",
+    "The trade-off: presidential systems offer stability and clear separation; parliamentary ones, flexibility and easier removal."
+  ],
+  "content_html": "\u003cp\u003eAmong democracies, one of the deepest structural divides is how the executive relates to the legislature. In a presidential system, the two are elected separately and stand on their own foundations: voters choose a president directly (or nearly so) for a fixed term, and that president is not a member of the legislature and cannot be dismissed by it for ordinary political disagreement. In a parliamentary system, the wiring is fused: voters elect the legislature, and the executive — a prime minister and cabinet — is drawn from within it and governs only as long as it retains the legislature's support.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat single difference cascades. A prime minister who loses a vote of no confidence must usually resign or call an election, making the executive continuously accountable and relatively easy to replace; a president with a fixed term is harder to remove, typically only through an exceptional process like impeachment. Encyclopaedia Britannica notes the familiar trade-off this creates. Presidential systems offer stability and a clear separation of powers, but a president and a hostile legislature can deadlock, and a failing leader is hard to dislodge. Parliamentary systems offer flexibility — a government can be reshuffled or replaced without a national crisis — but can suffer instability when no party commands a reliable majority. Many countries adopt hybrids (semi-presidential systems) that blend a directly elected president with a prime minister answerable to parliament.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/parliamentary-system",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "comparative-systems"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_466bf3",
+      "slug": "separation-of-powers",
+      "type": "concept",
+      "title": "Separation of Powers",
+      "hook": "Split government into branches that make, enforce, and interpret the law — so no single part can do all three.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3e760d",
+      "slug": "the-executive",
+      "type": "concept",
+      "title": "The Executive",
+      "hook": "Laws don't enforce themselves. The executive is the branch that runs the state day to day — carrying out the law, commanding the bureaucracy, and acting in a crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_63346f",
+      "slug": "the-legislature",
+      "type": "concept",
+      "title": "The Legislature",
+      "hook": "The branch that makes the law is also where a society argues out loud — the legislature turns competing interests into binding rules through debate and votes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_466bf3",
+      "slug": "separation-of-powers",
+      "type": "concept",
+      "title": "Separation of Powers",
+      "hook": "Split government into branches that make, enforce, and interpret the law — so no single part can do all three.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_614e7e#0",
+      "format": "flip",
+      "prompt": "What's the core difference between presidential and parliamentary systems?",
+      "back_html": "\u003cp\u003eIn a \u003cstrong\u003epresidential\u003c/strong\u003e system the executive is separately elected and\nindependent of the legislature; in a \u003cstrong\u003eparliamentary\u003c/strong\u003e system the\nexecutive is drawn from, and answerable to, the legislature.\u003c/p\u003e"
+    },
+    {
+      "id": "card_614e7e#1",
+      "format": "quiz",
+      "prompt": "How can a prime minister typically be removed mid-term that a president usually cannot?",
+      "choices": [
+        {
+          "text": "By losing the legislature's confidence (a no-confidence vote)",
+          "correct": true
+        },
+        {
+          "text": "By a direct public recall election held every month",
+          "correct": false
+        },
+        {
+          "text": "By the head of state alone, for any reason",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA prime minister governs only while commanding the legislature's\nconfidence; a president generally serves a fixed term, removable only by\nexceptional means.\u003c/p\u003e"
+    },
+    {
+      "id": "card_614e7e#2",
+      "format": "quiz",
+      "prompt": "What is a commonly cited trade-off between the two systems?",
+      "choices": [
+        {
+          "text": "Presidential offers fixed-term stability and clear separation; parliamentary offers flexibility and easier removal",
+          "correct": true
+        },
+        {
+          "text": "Parliamentary systems never hold elections",
+          "correct": false
+        },
+        {
+          "text": "Presidential systems have no legislature at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFixed terms give stability but can entrench a failing leader; fused\npower lets parliaments replace a government quickly but can be less stable.\u003c/p\u003e"
+    }
+  ]
+}

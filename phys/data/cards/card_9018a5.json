@@ -1,0 +1,89 @@
+{
+  "id": "card_9018a5",
+  "slug": "ai-model-sharpens-supernova-distances",
+  "type": "news",
+  "title": "An AI Framework Could Turn Millions of Exploding Stars Into a Dark Energy Map",
+  "hook": "A new AI framework models a supernova, its host galaxy, and the dust between them all at once — squeezing spectroscopic-grade distances out of ordinary images alone.",
+  "key_points": [
+    "Type Ia supernovae work as 'standard candles' — their known brightness lets astronomers gauge cosmic distances.",
+    "The CIGaRS framework, from the University of Barcelona, jointly models the explosion, host galaxy, dust, and cosmic expansion.",
+    "It reaches near-spectroscopic distance accuracy using only imaging data, no spectra required.",
+    "That matters because the Vera Rubin Observatory will find millions of supernovae but follow up only ~1% with spectroscopy.",
+    "The framework could sharpen cosmological constraints on dark energy by up to 4x over older methods."
+  ],
+  "content_html": "\u003cp\u003eType Ia supernovae are cosmology's reliable yardsticks: they explode with a known, consistent peak brightness, so measuring how bright one looks from Earth reveals how far away it is — a \u0026quot;standard candle.\u0026quot; The catch has always been squeezing precise distances out of the flood of supernovae that wide-field surveys are about to produce, most of which will never get a detailed spectrum.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers at the University of Barcelona's Institute of Cosmos Sciences, led by Konstantin Karchev with Raúl Jiménez, built an AI framework called CIGaRS to close that gap, publishing their results in Nature Astronomy. Instead of analyzing a supernova's explosion, its host galaxy, the intervening dust, and the changing supernova rate across cosmic history as separate problems, CIGaRS folds them into one integrated, simulation-based model. The payoff: distance measurements from ordinary imaging data alone that rival the precision of spectroscopy. That's a big deal for the upcoming Vera C. Rubin Observatory, which is expected to find millions of supernovae over its decade-long survey but can only afford spectroscopic follow-up for roughly 1% of them. By wringing spectroscopic-quality distances out of the other 99%, the researchers estimate CIGaRS could tighten cosmological constraints — including on the nature of dark energy — by as much as fourfold compared with older techniques.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260621060315.htm",
+    "published_at": "2026-06-29",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_1d07ca",
+      "slug": "is-dark-energy-evolving",
+      "type": "paper",
+      "title": "Is Dark Energy Changing Over Time?",
+      "hook": "For decades dark energy looked like a constant. New galaxy-survey data hints it may evolve — and that would shift even our measured value of the cosmic expansion rate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_402dc8",
+      "slug": "cosmic-acceleration-confirmed",
+      "type": "news",
+      "title": "Dark Energy Survives a Major Challenge",
+      "hook": "A bold claim said the universe's accelerating expansion was an illusion. Astronomers checked the math, found the mistakes — and cosmic acceleration came out as strong as ever.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9018a5#0",
+      "format": "flip",
+      "prompt": "Why are Type Ia supernovae useful for measuring cosmic distances?",
+      "back_html": "\u003cp\u003eThey act as 'standard candles' — since they reach a known, consistent peak brightness,\ncomparing that to how bright they appear from Earth reveals how far away they are.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9018a5#1",
+      "format": "quiz",
+      "prompt": "What does the CIGaRS framework do differently from older methods?",
+      "choices": [
+        {
+          "text": "It jointly models the supernova, its host galaxy, dust, and cosmic expansion in one integrated model",
+          "correct": true
+        },
+        {
+          "text": "It only works with high-resolution spectra, never plain images",
+          "correct": false
+        },
+        {
+          "text": "It replaces supernovae with pulsars as the standard candle",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRather than analyzing the supernova, its galaxy, and dust separately, CIGaRS combines\nthem into a single simulation-based model — reaching spectroscopic-level accuracy from\nimaging data alone.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9018a5#2",
+      "format": "flip",
+      "prompt": "Why does an imaging-only method matter for the Vera Rubin Observatory era?",
+      "back_html": "\u003cp\u003eRubin is expected to discover millions of supernovae, but only about 1% will get\nspectroscopic follow-up — so a method that reaches spectroscopic-grade accuracy from\nimages alone can put nearly all of that data to use.\u003c/p\u003e"
+    }
+  ]
+}

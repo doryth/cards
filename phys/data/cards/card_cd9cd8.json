@@ -1,0 +1,101 @@
+{
+  "id": "card_cd9cd8",
+  "slug": "work-and-power",
+  "type": "concept",
+  "title": "Work and Power: Energy and How Fast You Spend It",
+  "hook": "Lifting a box and dropping it back does zero net work. Work is force times distance moved along it — and power is how fast you do that work.",
+  "key_points": [
+    "Work transfers energy: it's force times the distance moved along that force.",
+    "No motion along the force means no work, no matter how hard you push.",
+    "Power is the rate of doing work — work divided by the time it takes.",
+    "Same job done faster needs more power, even though the work is identical."
+  ],
+  "content_html": "\u003cp\u003eIn physics, work has a precise meaning: it's the force you apply times the distance the object moves along that force. Work is how energy gets transferred from one thing to another. Push a box across the floor and you do work on it; hold it still and, despite the effort, you do no work on it because nothing moves.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePower adds the dimension of time: it's the rate at which work gets done, work divided by the time taken. Lifting a crate of books onto a shelf takes the same work whether you do it slowly or in one quick heave — but the quick heave demands far more power. That's why a small motor can eventually raise a heavy load if given enough time, while a powerful one does it in seconds. The distinction matters everywhere from engine ratings to your electricity bill, which is billed in energy used, not power. Wikipedia's article works through the force-times-distance definition and how power relates to it.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Work_(physics)",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "energy-work"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ae227e",
+      "slug": "kinetic-and-potential-energy",
+      "type": "concept",
+      "title": "Kinetic \u0026 Potential Energy",
+      "hook": "Energy comes in two basic flavors: the energy of motion, and the energy stored up waiting to happen.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_29270f",
+      "slug": "simple-machines",
+      "type": "concept",
+      "title": "Simple Machines: Trading Force for Distance",
+      "hook": "A lever lets a child lift a piano — but there's no free lunch. Simple machines multiply your force only by making you move a longer distance.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cd9cd8#0",
+      "format": "flip",
+      "prompt": "In physics, what is 'work'?",
+      "back_html": "\u003cp\u003eWork is \u003cstrong\u003eforce times the distance moved along that force\u003c/strong\u003e — the amount of\nenergy transferred. Pushing without any motion does no work.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cd9cd8#1",
+      "format": "quiz",
+      "prompt": "Two cranes lift identical loads to the same height, but one does it twice as fast. How do they compare?",
+      "choices": [
+        {
+          "text": "Same work, but the faster crane uses more power",
+          "correct": true
+        },
+        {
+          "text": "The faster crane does more work",
+          "correct": false
+        },
+        {
+          "text": "The slower crane uses more power",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWork depends only on force and distance, so it's the same. Power is work per\ntime, so doing it faster means more power.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cd9cd8#2",
+      "format": "quiz",
+      "prompt": "You hold a heavy bag still at your side for a minute. How much work do you do on the bag?",
+      "choices": [
+        {
+          "text": "Zero — the bag doesn't move along the force",
+          "correct": true
+        },
+        {
+          "text": "A lot, because the bag is heavy",
+          "correct": false
+        },
+        {
+          "text": "It increases the longer you hold it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWork needs motion along the applied force. Holding it still does no physics\nwork on the bag, even though your muscles get tired.\u003c/p\u003e"
+    }
+  ]
+}

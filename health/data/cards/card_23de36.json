@@ -1,0 +1,109 @@
+{
+  "id": "card_23de36",
+  "slug": "sleep-duration-and-biological-aging",
+  "type": "news",
+  "title": "There's a Sleep Sweet Spot for Biological Aging — and It's Narrow",
+  "hook": "Across 23 different biological aging clocks, the slowest-aging people slept about 6.4 to 7.8 hours a night. Both too little and too much sleep tracked with faster aging.",
+  "key_points": [
+    "Researchers compared sleep duration against 23 measures of biological aging.",
+    "The lowest aging levels showed up in people sleeping roughly 6.4 to 7.8 hours per day.",
+    "The relationship is U-shaped: short sleep and long sleep both tracked with faster aging.",
+    "Sleep at either extreme was also associated with conditions of the brain, heart, lungs, metabolism, and digestive system.",
+    "Long sleep may be a signal of underlying illness as much as a cause of harm — association, not proven causation."
+  ],
+  "content_html": "\u003cp\u003eSleep advice usually points in one direction: get more. A new analysis suggests the target is a band, not a floor — and that the upper edge matters too.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, researchers compared how long people slept against 23 different biological aging clocks — measures that estimate how old a body looks biologically, as opposed to how many birthdays it has had. Aging levels were lowest among people sleeping roughly 6.4 to 7.8 hours a day. On either side of that band, biological aging ran faster, and short or long sleep was also associated with a spread of conditions affecting the brain, heart, lungs, metabolism, and digestive system.\u003c/p\u003e\n\u003cp\u003eThe U-shape is worth interpreting carefully. Short sleep has a well-established mechanistic case for causing harm. Long sleep is murkier: sleeping ten hours a night is frequently a \u003cem\u003esymptom\u003c/em\u003e of an underlying problem — depression, sleep apnea, chronic inflammation, undiagnosed illness — which could drive both the long nights and the faster aging. So the practical reading isn't \u0026quot;set an alarm to cut your sleep short.\u0026quot; It's that consistently needing far more than eight hours is worth mentioning to a doctor rather than shrugging off.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260823094156.htm",
+    "published_at": "2026-08-24",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "sleep",
+    "healthy-aging",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-24",
+  "related": [
+    {
+      "id": "card_366490",
+      "slug": "why-sleep-matters",
+      "type": "concept",
+      "title": "Why Sleep Matters",
+      "hook": "Sleep isn't downtime — it's when your brain consolidates memory and your body repairs itself. Skimp on it for long and the bill comes due in your health.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_34073f",
+      "slug": "building-better-sleep-habits",
+      "type": "concept",
+      "title": "Building Better Sleep Habits",
+      "hook": "Good sleep is mostly built in the hours before bed. A handful of simple habits — collectively called sleep hygiene — do more than any gadget.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6a80d4",
+      "slug": "mild-sleep-loss-weight-gain",
+      "type": "news",
+      "title": "Losing Just 80 Minutes of Sleep a Night Could Make You Gain Weight",
+      "hook": "You don't need a dramatic all-nighter to feel the metabolic cost of short sleep. Losing about 80 minutes a night for six weeks was enough to cause weight gain and less activity in a new study.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_44a617",
+      "slug": "aging-isnt-all-decline",
+      "type": "news",
+      "title": "Aging Isn't Only Decline",
+      "hook": "A long-term Yale study found nearly half of adults over 65 actually improved — physically, mentally, or both — and a more positive view of aging tracked with those gains.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-21"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_23de36#0",
+      "format": "quiz",
+      "prompt": "Where did this study find the lowest levels of biological aging?",
+      "choices": [
+        {
+          "text": "In people sleeping about 6.4 to 7.8 hours a day",
+          "correct": true
+        },
+        {
+          "text": "In people sleeping as long as possible, 9+ hours",
+          "correct": false
+        },
+        {
+          "text": "In people sleeping under 5 hours, who had the most active days",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAcross 23 biological aging clocks, aging levels were lowest in that middle band — and\nhigher on both the short and the long side of it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_23de36#1",
+      "format": "flip",
+      "prompt": "What shape is the relationship between sleep duration and biological aging here?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eU-shaped.\u003c/strong\u003e Both too little and too much sleep tracked with faster aging, with the\nminimum in the middle — more sleep is not simply better.\u003c/p\u003e"
+    },
+    {
+      "id": "card_23de36#2",
+      "format": "flip",
+      "prompt": "Why shouldn't you read 'long sleep ages you' as a straightforward cause?",
+      "back_html": "\u003cp\u003eThis is an \u003cstrong\u003eassociation\u003c/strong\u003e. Long sleep is often a \u003cem\u003esymptom\u003c/em\u003e of underlying illness, so the\ndisease may be driving both the extra sleep and the faster aging.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "card_0e7aab",
+  "slug": "atom-array-breaks-the-readout-bottleneck",
+  "type": "paper",
+  "title": "The Slowest Step in an Atom Computer",
+  "hook": "Neutral-atom processors have thousands of qubits and a crippling bottleneck: reading a qubit without destroying it takes milliseconds. A new readout scheme cuts that to 15 microseconds.",
+  "key_points": [
+    "Nondestructive measurement was the slowest fundamental operation in atom arrays, capping the whole machine's clock rate.",
+    "Two causes: a photon-budget dilemma (collect enough fluorescence to identify the state without heating the atom away) and frame-based cameras imposing one shared exposure on independent sites.",
+    "The fix is continuous photon counting plus feedforward: decode each atom's state in under a microsecond, then immediately shield it from further scattering.",
+    "Demonstrated across a 100-qubit array with adaptive protection on 25 sites, average probe time fell to 15 µs.",
+    "Discrimination infidelity 4.1×10⁻⁵ and atom loss 2.1×10⁻⁴ — records for atom arrays.",
+    "Circuits then ran at a 1.7 kHz clock rate with atoms reused over 120 rounds, about sevenfold the previous record."
+  ],
+  "content_html": "\u003cp\u003eA quantum processor is only as fast as its slowest step, and for neutral-atom machines that step has been an odd one: looking at the qubits. Reading an atom's state without destroying it means collecting its fluorescence, and doing that reliably has taken milliseconds — thousands of times longer than a gate. Every circuit repetition, and every round of error correction, has had to wait.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo things made it slow. First a physics constraint: you need enough scattered photons to distinguish the states, but too many heat the atom and boil it out of the trap. Second an engineering one: cameras take frames, so every site in the array shares a single exposure time and a single decision latency, even though the measurements are independent.\u003c/p\u003e\n\u003cp\u003eZeng and colleagues attack both. Instead of frames, they count photons continuously at each site and feed the running tally into a real-time decision, decoding a qubit's state with sub-microsecond latency and then immediately shielding that atom from any further scattering. Demonstrated across a 100-qubit reconfigurable array with adaptive protection on a 25-site subarray, average probe time drops to 15 µs, with a discrimination infidelity of 4.1×10⁻⁵ and atom loss of 2.1×10⁻⁴ — both reported as records for the platform. The payoff is systemic: circuits repeat at a 1.7 kHz clock rate with atoms reused across 120 consecutive rounds, roughly seven times the previous record, putting atom arrays into the sub-millisecond cycle regime for the first time and making fast mid-circuit syndrome extraction plausible.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Xu-Zhao-Qiu Zeng",
+      "Chang You",
+      "Qing-Wei Wang",
+      "Zi-Feng Li",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2608.17189",
+    "published_at": "2026-08-17",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-20",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_293b43",
+      "slug": "kiloqubit-neutral-atom-register",
+      "type": "paper",
+      "title": "A Defect-Free Array of 1024 Atoms, Held by Light",
+      "hook": "Atoms are trapped one per laser spot, then shuffled by moving tweezers until every site in a 32x32 grid is filled — pushing neutral-atom qubits past the kiloqubit mark.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "card_80786e",
+      "slug": "neutral-atom-quantum-roadmap",
+      "type": "paper",
+      "title": "The Neutral-Atom Roadmap to a Useful Quantum Computer",
+      "hook": "Fifty-plus researchers from the atom-array world lay out what it would actually take to get practical quantum advantage — and how you'd prove you had it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_083e80",
+      "slug": "the-race-to-build-a-qubit",
+      "type": "news",
+      "title": "Nobody Knows Which Qubit Wins",
+      "hook": "Superconducting circuits, trapped ions, neutral atoms, spins in silicon — no one yet knows which will power real quantum computers, and the uncertainty is producing spectacular machinery.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-19"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0e7aab#0",
+      "format": "quiz",
+      "prompt": "What was the dominant limit on an atom array's clock rate before this work?",
+      "choices": [
+        {
+          "text": "Nondestructive qubit measurement, which took milliseconds",
+          "correct": true
+        },
+        {
+          "text": "The time needed to apply two-qubit entangling gates",
+          "correct": false
+        },
+        {
+          "text": "Loading atoms into the optical tweezers at the start of a run",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eReadout was the slowest fundamental operation, so it set the cycle time for the whole\nprocessor — which is why removing it unlocks a much faster clock.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0e7aab#1",
+      "format": "flip",
+      "prompt": "What is the 'photon-budget dilemma' in atom readout?",
+      "back_html": "\u003cp\u003eYou need to collect enough fluorescence photons to reliably tell which state the atom is\nin — but collecting too many \u003cstrong\u003eheats the atom\u003c/strong\u003e and can knock it out of the trap.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0e7aab#2",
+      "format": "quiz",
+      "prompt": "How does the new architecture escape the photon-budget dilemma?",
+      "choices": [
+        {
+          "text": "It counts photons continuously and, once confident, instantly shields the atom from further scattering",
+          "correct": true
+        },
+        {
+          "text": "It uses a much brighter laser so fewer photons are needed",
+          "correct": false
+        },
+        {
+          "text": "It measures only a random sample of the atoms in each round",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eContinuous, site-resolved photon counting with sub-microsecond feedforward means each\natom stops being probed the moment its state is decided — no redundant scattering.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0e7aab#3",
+      "format": "flip",
+      "prompt": "Why does faster nondestructive readout matter for fault tolerance?",
+      "back_html": "\u003cp\u003eError correction needs \u003cstrong\u003emid-circuit syndrome extraction\u003c/strong\u003e — repeatedly measuring qubits\nduring a computation. If each measurement costs milliseconds, fault-tolerant operation\nis impossibly slow.\u003c/p\u003e"
+    }
+  ]
+}

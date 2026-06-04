@@ -1,0 +1,112 @@
+{
+  "id": "card_42f5a2",
+  "slug": "which-chatbot-to-use",
+  "type": "concept",
+  "title": "Which Chatbot Should I Use?",
+  "hook": "ChatGPT, Claude, Gemini, Copilot, Meta AI — they're more alike than different. The honest answer to 'which is best' is: the one you'll actually open, plus a second to cross-check.",
+  "key_points": [
+    "The big assistants are broadly similar; differences are smaller than the marketing suggests.",
+    "What matters most: it's easy for you to reach, and you trust the maker's privacy terms.",
+    "Built-in ones (in your phone, browser, or office apps) lower the friction to start.",
+    "For anything important, ask two different chatbots and compare."
+  ],
+  "content_html": "\u003cp\u003e\u0026quot;Which AI is best?\u0026quot; is the question everyone asks first, and it's mostly the wrong one. The major assistants — ChatGPT, Claude, Gemini, Microsoft Copilot, Meta AI — are far more alike than the marketing implies. They're all large language models, all fluent, all capable of the same everyday tasks, and all prone to the same kinds of mistakes. Whichever briefly tops a benchmark this month rarely matters for normal use.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSo pick on practical grounds. The best chatbot is the one you'll actually open — which often means whatever's already built into your phone, browser, or office apps, because low friction is what turns \u0026quot;I should try AI\u0026quot; into a habit. Beyond that, weigh whose privacy terms you're comfortable with (see the maker's data policy) and whether you need it tied to tools you use. One genuinely useful habit cuts across all of them: for anything that matters, ask two different chatbots the same question. Where they agree, you can trust it more; where they diverge, that's your signal to verify. The \u0026quot;best AI\u0026quot; is less important than using any of them with a little healthy skepticism.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "chatbots",
+    "choosing-tools"
+  ],
+  "tags": [
+    "generative",
+    "agent"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b49602",
+      "slug": "free-vs-paid-ai",
+      "type": "concept",
+      "title": "Free vs Paid Tools",
+      "hook": "The free tier is enough for most people most of the time. Paid plans mostly buy you the smarter model, higher limits, and stronger privacy — useful only if you'll actually use them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7b1ce5",
+      "slug": "most-americans-wary-of-ai",
+      "type": "news",
+      "title": "Half of Americans Use Chatbots — Most Think AI Is Moving Too Fast",
+      "hook": "A new Pew poll captures the mood of the AI era: chatbot use has jumped to about half of Americans, yet nearly two-thirds say the technology is advancing too quickly.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-17"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_42f5a2#0",
+      "format": "quiz",
+      "prompt": "What's the most practical way to pick a chatbot?",
+      "choices": [
+        {
+          "text": "Choose one you'll actually use and whose privacy terms you trust",
+          "correct": true
+        },
+        {
+          "text": "Only ever use the single one that tops a benchmark this month",
+          "correct": false
+        },
+        {
+          "text": "Pick whichever has the most features, used or not",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe leading assistants are broadly comparable. Accessibility and trust beat\nchasing whichever model marginally leads a leaderboard this week.\u003c/p\u003e"
+    },
+    {
+      "id": "card_42f5a2#1",
+      "format": "flip",
+      "prompt": "How can you sanity-check an important AI answer?",
+      "back_html": "\u003cp\u003eAsk the same question of a second, different chatbot and compare — where\nthey agree you can be more confident; where they differ, dig deeper.\u003c/p\u003e"
+    }
+  ]
+}

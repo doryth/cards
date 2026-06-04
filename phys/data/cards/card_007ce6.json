@@ -1,0 +1,95 @@
+{
+  "id": "card_007ce6",
+  "slug": "two-species-dark-matter-theory",
+  "type": "news",
+  "title": "What If Dark Matter Comes in Two Flavors?",
+  "hook": "A single, simple particle can't explain everything odd about dark matter. A new model splits it into two — a heavy kind and a light kind — that quietly sort themselves over cosmic time.",
+  "key_points": [
+    "Researchers propose dark matter is at least two particle species — one heavier, one lighter — that can collide directly with each other, not just interact through gravity.",
+    "Over time the heavier particles sink toward galaxy centers while lighter ones drift outward, a process called mass segregation.",
+    "Simulations show this naturally produces both under-dense dwarf-galaxy centers and unexpectedly dense, light-bending clumps — two puzzles that have long resisted single-particle dark matter models.",
+    "The theory comes from physicists at the Purple Mountain Observatory (Chinese Academy of Sciences), led by Daneng Yang and colleagues."
+  ],
+  "content_html": "\u003cp\u003eDark matter makes up most of the universe's mass, yet decades of searching haven't pinned down what it actually is. Most models treat it as a single type of particle interacting only through gravity — but that simple picture struggles to explain some odd observations: certain dwarf galaxies have surprisingly little dark matter at their centers, while other regions show unusually dense, compact clumps strong enough to visibly bend light from more distant objects.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePhysicists at the Purple Mountain Observatory of the Chinese Academy of Sciences, led by Daneng Yang, Yi-Zhong Fan, Siyuan Hou, and Yue-Lin Sming Tsai, propose a fix: dark matter could be made of at least two particle species — one heavier, one lighter — that collide directly with each other rather than only feeling gravity. Their simulations show this naturally drives mass segregation over cosmic time, much like how massive stars sink toward the center of a star cluster while lighter ones spread outward. The heavier species accumulates into dense substructures capable of strong gravitational lensing, while the lighter species dilutes galaxy centers — potentially resolving both puzzles with one mechanism.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "authors": [
+      "Daneng Yang",
+      "Yi-Zhong Fan",
+      "Siyuan Hou",
+      "Yue-Lin Sming Tsai"
+    ],
+    "url": "https://sciencedaily.com/releases/2026/07/260711010128.htm",
+    "published_at": "2026-07-13",
+    "license": "© ScienceDaily"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "dataset",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-13",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cb7f47",
+      "slug": "milky-way-gamma-ray-glow-dark-matter",
+      "type": "news",
+      "title": "The Milky Way's Mystery Glow Might Really Be Dark Matter",
+      "hook": "A gamma-ray haze at the galaxy's center has split scientists for years between 'hidden neutron stars' and 'dark matter.' Machine learning just tipped the scales.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-30"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_007ce6#0",
+      "format": "flip",
+      "prompt": "What's the core idea of this new dark matter model?",
+      "back_html": "\u003cp\u003eDark matter isn't one particle type but \u003cstrong\u003eat least two\u003c/strong\u003e — a heavier and a lighter\nkind — that can collide directly with each other, not just via gravity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_007ce6#1",
+      "format": "quiz",
+      "prompt": "What is 'mass segregation' in this model?",
+      "choices": [
+        {
+          "text": "Heavier dark matter particles sink toward galaxy centers while lighter ones drift outward over time",
+          "correct": true
+        },
+        {
+          "text": "Dark matter particles convert into ordinary matter as galaxies age",
+          "correct": false
+        },
+        {
+          "text": "All dark matter particles clump into a single dense point at the galaxy's core",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLike massive stars migrating within a star cluster, the heavier dark matter species\ngradually concentrates near the center while the lighter species spreads out.\u003c/p\u003e"
+    },
+    {
+      "id": "card_007ce6#2",
+      "format": "flip",
+      "prompt": "What two long-standing cosmic puzzles does mass segregation help explain?",
+      "back_html": "\u003cp\u003eWhy some dwarf galaxies have \u003cstrong\u003esurprisingly low\u003c/strong\u003e dark matter density at their\ncenters, and why some regions show \u003cstrong\u003eunexpectedly dense\u003c/strong\u003e dark matter clumps that\nbend light strongly (gravitational lensing).\u003c/p\u003e"
+    }
+  ]
+}

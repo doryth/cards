@@ -1,0 +1,121 @@
+{
+  "id": "card_4a073a",
+  "slug": "what-is-entropy",
+  "type": "concept",
+  "title": "Entropy \u0026 the Arrow of Time",
+  "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+  "key_points": [
+    "Entropy is a measure of how spread out or disordered the energy in a system is.",
+    "The second law of thermodynamics: the total entropy of an isolated system tends to increase.",
+    "This gives time a direction — eggs break but don't un-break.",
+    "Order can grow locally, but only by exporting more disorder to the surroundings."
+  ],
+  "content_html": "\u003cp\u003eEntropy is a measure of disorder — more precisely, of how many ways the energy in a system can be arranged. The second law of thermodynamics states that in an isolated system the total entropy tends to increase: things naturally evolve toward more disordered, more spread-out states.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is why everyday processes have an obvious direction in time. A cup shatters into pieces, hot coffee cools to room temperature, perfume diffuses across a room — and none of these run backward on their own. Each forward step raises the total entropy, while the reverse would lower it, which the second law makes overwhelmingly unlikely. The arrow of time we feel is, in this view, the universe drifting toward higher entropy. Order can still appear locally — a freezer makes orderly ice cubes — but only by dumping even more disorder, as waste heat, into the surroundings, so the grand total keeps climbing.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Entropy",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "heat-thermo"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_eff6e4",
+      "slug": "heat-vs-temperature",
+      "type": "concept",
+      "title": "Heat vs. Temperature",
+      "hook": "A sparkler can hit thousands of degrees yet barely burn you — because temperature and heat are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_11b086",
+      "slug": "conservation-of-energy",
+      "type": "concept",
+      "title": "Conservation of Energy",
+      "hook": "Energy is never created or destroyed — it only changes form. That single rule is one of the most powerful ideas in all of physics.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7150b9",
+      "slug": "heat-engines-and-efficiency",
+      "type": "concept",
+      "title": "Heat Engines and Why None Are Perfect",
+      "hook": "Every car engine and power plant turns heat into motion — but physics forbids turning all of it. Some heat must always be thrown away, which is why perpetual motion is impossible.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eb3c68",
+      "slug": "making-quantum-time-flow-backward",
+      "type": "news",
+      "title": "Physicists Made a Quantum System's Arrow of Time Run Backward",
+      "hook": "By carefully steering quantum measurements, researchers made a system behave as if time were flowing in reverse — and found they could harvest energy from the trick itself.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-03"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4a073a#0",
+      "format": "flip",
+      "prompt": "What does the second law of thermodynamics say about entropy?",
+      "back_html": "\u003cp\u003eThe total entropy of an isolated system tends to \u003cstrong\u003eincrease\u003c/strong\u003e over time —\ndisorder almost always grows, never spontaneously shrinks.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4a073a#1",
+      "format": "quiz",
+      "prompt": "Why does a broken cup never spontaneously reassemble?",
+      "choices": [
+        {
+          "text": "It would lower total entropy, which the second law makes overwhelmingly unlikely",
+          "correct": true
+        },
+        {
+          "text": "It would violate conservation of energy",
+          "correct": false
+        },
+        {
+          "text": "The pieces are too heavy to move back",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eReassembly means less disorder; the second law says total entropy tends to\nrise, so the reverse process essentially never happens on its own.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4a073a#2",
+      "format": "quiz",
+      "prompt": "Can a system ever become more ordered locally?",
+      "choices": [
+        {
+          "text": "Yes, but only by creating more disorder in its surroundings",
+          "correct": true
+        },
+        {
+          "text": "No, order can never increase anywhere under any conditions",
+          "correct": false
+        },
+        {
+          "text": "Yes, with no effect on the surroundings at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLocal order (like a freezer making ice) is allowed as long as the total\nentropy of system plus surroundings still increases.\u003c/p\u003e"
+    }
+  ]
+}

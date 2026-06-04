@@ -1,0 +1,98 @@
+{
+  "id": "card_9eaa6c",
+  "slug": "wasp-121b-two-twilights",
+  "type": "news",
+  "title": "An Alien World With Two Different Twilights",
+  "hook": "On a scorching giant planet that never turns away from its star, the James Webb telescope found that dawn and dusk look nothing alike — winds smear the heat from one side to the other.",
+  "key_points": [
+    "WASP-121 b is an ultra-hot giant planet so close to its star that one side faces it forever.",
+    "JWST found its dawn and dusk regions differ sharply, not the symmetric picture you'd expect.",
+    "Fierce winds drag heat off the permanent dayside, leaving the evening side hotter and puffed up.",
+    "Webb also saw signs of water being torn apart by the heat, and possible mineral clouds on the cooler side."
+  ],
+  "content_html": "\u003cp\u003eWASP-121 b is the kind of planet that stretches the imagination: a giant gas world orbiting so close\nto its star that a \u0026quot;year\u0026quot; lasts only about a day, and the heat is ferocious. Like our Moon facing Earth,\nit's tidally locked — the same hemisphere always faces the star — so one side endures permanent, broiling\nday while the other sits in perpetual night. You might expect its two twilight zones, dawn and dusk, to\nlook like mirror images. They don't.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to a ScienceDaily report, NASA's James Webb Space Telescope found dramatic differences between\nthe planet's dawn and dusk regions. The culprit is weather on a planetary scale: fierce winds drag heat\naway from the permanent dayside, leaving the evening (dusk) side hotter and more puffed up than the morning\nside. Webb also picked up signs that the punishing temperatures are breaking water molecules apart, and\nhints that mysterious mineral clouds may be shaping the cooler side's atmosphere. Studies like this show\nhow far exoplanet science has come — we're no longer just detecting distant worlds, but mapping their\nwinds, chemistry, and weather from light-years away.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260611024559.htm",
+    "published_at": "2026-06-11",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-15",
+  "date": "2026-06-11",
+  "related": [
+    {
+      "id": "card_5d0424",
+      "slug": "interstellar-comet-methane",
+      "type": "news",
+      "title": "Methane on an Interstellar Comet",
+      "hook": "A comet from another star system swept through ours — and the Webb telescope caught methane on it, the first time that molecule has been seen on a visitor from beyond.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7a7eee",
+      "slug": "salt-clouds-pink-planet",
+      "type": "news",
+      "title": "James Webb Finds Salt Clouds on a Mysterious Pink World",
+      "hook": "GJ 504 b has puzzled astronomers for over a decade. James Webb finally read its atmosphere — and found the first direct evidence of salt clouds ever seen on a planet-like object.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "card_7ebb9d",
+      "slug": "super-puff-planets",
+      "type": "news",
+      "title": "Two Planets Lighter Than Cotton Candy",
+      "hook": "TOI-791 b and c are roughly Jupiter-sized but so bloated and gassy they'd float on water — and their unusually neat orbital rhythm is a rare clue to how puffed-up planets like this ever form.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9eaa6c#0",
+      "format": "flip",
+      "prompt": "Why does WASP-121 b have a permanent dayside and nightside?",
+      "back_html": "\u003cp\u003eIt orbits so close to its star that it's tidally locked — the same face always points\ntoward the star, so one side bakes in permanent day while the other stays in night.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9eaa6c#1",
+      "format": "quiz",
+      "prompt": "What made the planet's evening (dusk) side hotter and more puffed-up than expected?",
+      "choices": [
+        {
+          "text": "Fierce winds carrying heat from the permanent dayside",
+          "correct": true
+        },
+        {
+          "text": "The planet's internal nuclear fusion",
+          "correct": false
+        },
+        {
+          "text": "Sunlight reflecting off its nightside",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eJWST traced the asymmetry to powerful winds dragging heat off the dayside toward dusk,\nexpanding that region. Planets don't run on fusion, and a nightside gets no direct sunlight.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9eaa6c#2",
+      "format": "flip",
+      "prompt": "What did Webb suggest is happening to water on WASP-121 b?",
+      "back_html": "\u003cp\u003eThe extreme temperatures appear to be breaking water molecules apart — a sign of just how\nharsh conditions are on this ultra-hot world.\u003c/p\u003e"
+    }
+  ]
+}

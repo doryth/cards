@@ -1,0 +1,130 @@
+{
+  "id": "card_0f51ff",
+  "slug": "quantum-sensor-hunts-dark-matter",
+  "type": "news",
+  "title": "A Quantum Sensor Built to Catch Dark Matter and Ancient Gravitational Waves",
+  "hook": "Two clouds of ultracold atoms, compared against each other, cancel out noise so well that a signal buried in one measurement reappears — aimed at dark matter and ancient gravitational waves.",
+  "key_points": [
+    "The AION collaboration (Imperial College London and UK partner universities) built a prototype using two clouds of ultracold strontium-87 atoms.",
+    "A single ultrastable laser measures both atom clouds, forming a long-baseline atom interferometer.",
+    "Comparing the two interferometers cancels experimental noise that would swamp either one alone.",
+    "Even with deliberately added noise that made single measurements useless, a test signal stayed detectable once both were compared — down to limits set by quantum physics itself."
+  ],
+  "content_html": "\u003cp\u003eSome of the universe's biggest secrets — dark matter, and gravitational waves left over from just after the Big Bang — are expected to leave signals so faint that a single instrument can't tell them apart from its own noise. The Atom Interferometer Observatory and Network (AION), led from Imperial College London with partners across the UK, is building detectors designed to get around that problem.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir prototype uses two clouds of ultracold strontium-87 atoms, both measured with the same ultrastable laser to form a pair of long-baseline atom interferometers. The key trick isn't making either interferometer more sensitive on its own — it's comparing the two against each other, which cancels out noise common to both and lets a shared underlying signal emerge. The team pushed this to an extreme: they deliberately added enough phase noise to make each individual interferometer's readings useless. Compared together, the hidden signal reappeared anyway, with the combined measurement reaching sensitivity limited only by quantum physics itself — not engineering. It's an early proof of concept, but it points toward instruments sensitive enough to catch dark matter or the gravitational-wave afterglow of the universe's first moments. Published in \u003cem\u003eNature\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260622014303.htm",
+    "published_at": "2026-07-07",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "cosmology"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d18019",
+      "slug": "bose-einstein-condensate",
+      "type": "news",
+      "title": "The Fifth State of Matter, Made in Space",
+      "hook": "Chill a gas to a hair above absolute zero and its atoms stop acting like a crowd and merge into one quantum entity. In orbit, weightlessness lets that strange state last even longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_d18019",
+      "slug": "bose-einstein-condensate",
+      "type": "news",
+      "title": "The Fifth State of Matter, Made in Space",
+      "hook": "Chill a gas to a hair above absolute zero and its atoms stop acting like a crowd and merge into one quantum entity. In orbit, weightlessness lets that strange state last even longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_0f51ff#0",
+      "format": "flip",
+      "prompt": "What is the basic setup of this quantum sensor?",
+      "back_html": "\u003cp\u003eTwo clouds of ultracold strontium-87 atoms, each tracked with the same ultrastable laser,\nforming a pair of long-baseline \u003cstrong\u003eatom interferometers\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0f51ff#1",
+      "format": "quiz",
+      "prompt": "How does comparing two interferometers help detect a hidden signal?",
+      "choices": [
+        {
+          "text": "It cancels out experimental noise common to both, letting a real shared signal stand out",
+          "correct": true
+        },
+        {
+          "text": "It doubles the strength of any signal automatically",
+          "correct": false
+        },
+        {
+          "text": "It filters out only signals from dark matter specifically",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe two devices experience much of the same noise. Comparing them subtracts that shared\nnoise away, revealing signals that either device alone couldn't distinguish from noise.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0f51ff#2",
+      "format": "flip",
+      "prompt": "What did the stress test with deliberately added noise show?",
+      "back_html": "\u003cp\u003eIndividual interferometers became unusable, but comparing the two together recovered the\ntest signal anyway — down to limits set by quantum physics itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0f51ff#3",
+      "format": "quiz",
+      "prompt": "What is this quantum sensor ultimately designed to help detect?",
+      "choices": [
+        {
+          "text": "Dark matter and gravitational waves left over from the early universe",
+          "correct": true
+        },
+        {
+          "text": "Cosmic ray showers in Earth's atmosphere",
+          "correct": false
+        },
+        {
+          "text": "Neutrinos from the Sun's core",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe AION collaboration's long-term goal is detecting dark matter and primordial\ngravitational waves — both signals too faint for most current instruments.\u003c/p\u003e"
+    }
+  ]
+}

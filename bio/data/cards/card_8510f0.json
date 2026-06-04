@@ -1,0 +1,111 @@
+{
+  "id": "card_8510f0",
+  "slug": "viruses-living-or-not",
+  "type": "concept",
+  "title": "Are Viruses Alive?",
+  "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+  "key_points": [
+    "A virus is genetic material (DNA or RNA) wrapped in a protein coat.",
+    "Viruses can't reproduce alone — they must hijack a host cell's machinery.",
+    "They are far smaller than bacteria and are not made of cells.",
+    "Because they fail the usual tests for life, their living status is genuinely debated."
+  ],
+  "content_html": "\u003cp\u003eA virus sits right on the blurry border between life and non-life. Strip it down and it's astonishingly simple: a short string of genetic material — DNA or RNA — packed inside a protein coat, sometimes with an outer envelope. It has no cell, no metabolism, and no way to make energy. By itself, a virus is inert, more like a chemical package than a creature.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch is reproduction. A virus can't copy itself; it has to get inside a living cell and commandeer that cell's machinery to manufacture new virus particles, often destroying the host in the process. Because it can't grow, respond, or reproduce independently, a virus fails several standard criteria for life — which is why many biologists describe viruses as existing \u0026quot;at the edge of life\u0026quot; rather than firmly alive. This also explains why antibiotics, which attack bacterial structures, are useless against them; fighting viruses needs vaccines or antiviral drugs instead. Britannica lays out the structure and the lifecycle.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/virus",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "microbiology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d14f9d",
+      "slug": "what-is-a-cell",
+      "type": "concept",
+      "title": "What Is a Cell?",
+      "hook": "Every living thing — from a bacterium to a blue whale — is built from cells, the smallest unit that can call itself alive.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7aac41",
+      "slug": "viruses-and-aging",
+      "type": "paper",
+      "title": "Viruses as Age-Distorters",
+      "hook": "Could an infection leave you biologically older? In flies, the worse a virus was, the more it sped up aging — and the effect lingered after the virus was gone.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8510f0#0",
+      "format": "flip",
+      "prompt": "Why can't a virus reproduce on its own?",
+      "back_html": "\u003cp\u003eIt lacks the machinery to copy itself, so it must \u003cstrong\u003ehijack a living host cell\u003c/strong\u003e\nand use that cell's equipment to make more viruses.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8510f0#1",
+      "format": "quiz",
+      "prompt": "What is a virus basically made of?",
+      "choices": [
+        {
+          "text": "Genetic material wrapped in a protein coat",
+          "correct": true
+        },
+        {
+          "text": "A complete cell with a nucleus",
+          "correct": false
+        },
+        {
+          "text": "A cluster of bacteria stuck together",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA virus is just genes (DNA or RNA) inside a protein shell — it is not a cell\nand has no internal machinery of its own.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8510f0#2",
+      "format": "quiz",
+      "prompt": "Will antibiotics cure a viral infection like the flu?",
+      "choices": [
+        {
+          "text": "No — antibiotics target bacteria, not viruses",
+          "correct": true
+        },
+        {
+          "text": "Yes — antibiotics kill any microbe",
+          "correct": false
+        },
+        {
+          "text": "Yes — but only the strongest ones",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eViruses lack the bacterial structures antibiotics attack, so the drugs do\nnothing against them — antivirals or vaccines are the tools that work.\u003c/p\u003e"
+    }
+  ]
+}

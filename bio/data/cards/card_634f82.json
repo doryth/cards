@@ -1,0 +1,112 @@
+{
+  "id": "card_634f82",
+  "slug": "bumblebee-heavy-metal-accumulation",
+  "type": "news",
+  "title": "Bumblebees Soak Up Far More Toxic Metal Than Honeybees — Even in the Same Field",
+  "hook": "Foraging in identical patches of flowers, bumblebees pick up two to seven times more toxic heavy metals than honeybees. The gap comes down to biology and lifestyle, not location.",
+  "key_points": [
+    "Bumblebees accumulate 2–7 times more heavy metals in the pollen they collect than honeybees foraging in the same areas, and roughly 3 times higher concentrations in their bodies.",
+    "The metals studied include arsenic, cadmium, chromium, cobalt, lead, and tin.",
+    "Underground nesting exposes bumblebees to soil contamination that above-ground honeybee hives avoid.",
+    "Smaller bumblebee colonies (50–500 bees vs. 30,000–60,000), shorter foraging ranges, fewer visited plant species, and hairier bodies all concentrate their metal exposure further.",
+    "Even low-level exposure can quietly impair foraging, learning, navigation, and reproduction, harming colony success over time."
+  ],
+  "content_html": "\u003cp\u003ePut a honeybee and a bumblebee in the exact same flower-filled field, and you'd expect them to pick up roughly the same pollution. They don't. Bumblebees accumulate two to seven times more toxic heavy metals — arsenic, cadmium, chromium, cobalt, lead, and tin — in the pollen they collect, and about three times higher concentrations in their own bodies.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe gap comes down to biology and lifestyle rather than location. Bumblebees nest underground, putting them in direct contact with contaminated soil in a way honeybees' above-ground hives avoid. Their colonies are also far smaller — 50 to 500 bees, compared to a honeybee hive's 30,000 to 60,000 — which concentrates whatever exposure occurs across fewer individuals. Bumblebees forage closer to the nest, visit a narrower range of plant species, and have hairier bodies that trap more airborne metal-laden dust. None of this shows up as an acute poisoning; the danger is subtler. Researchers note that even low-level metal exposure can quietly interfere with learning, memory, navigation, and reproduction — the everyday skills a bee colony depends on to survive.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260707025044.htm",
+    "published_at": "2026-07-07",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "ecology",
+    "animals"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_335198",
+      "slug": "sulfoxaflor-pesticide-bumblebee-reproduction",
+      "type": "news",
+      "title": "A 'Safer' Pesticide May Be Quietly Sabotaging Bumblebee Reproduction",
+      "hook": "Sulfoxaflor was designed to spare bees while killing crop pests. Low doses of it are instead altering gene activity in bumblebee ovaries — with signs of fewer offspring to come.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "card_6d3edb",
+      "slug": "bees-no-refuge-from-heat",
+      "type": "news",
+      "title": "Some Bees Have Nowhere to Hide From Heat",
+      "hook": "A big study of Australian native bees found that where a bee nests — in plant stems versus underground — may decide whether it survives a warming world.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_6c2d37",
+      "slug": "honey-bee-flight-paths",
+      "type": "news",
+      "title": "Every Bee Flies Its Own Highway",
+      "hook": "Tracked by drone in the wild, individual honey bees turned out to follow their own personal flight paths — sometimes retracing a route to within centimeters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-14"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_634f82#0",
+      "format": "flip",
+      "prompt": "How much more heavy metal do bumblebees pick up than honeybees foraging in the same area?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003e2 to 7 times more\u003c/strong\u003e in the pollen they collect, and roughly \u003cstrong\u003e3 times\u003c/strong\u003e higher\nconcentrations in their own bodies — despite foraging in identical locations.\u003c/p\u003e"
+    },
+    {
+      "id": "card_634f82#1",
+      "format": "quiz",
+      "prompt": "Why does underground nesting make bumblebees more exposed to toxic metals than honeybees?",
+      "choices": [
+        {
+          "text": "It puts them in direct contact with contaminated soil, unlike honeybees' above-ground hives",
+          "correct": true
+        },
+        {
+          "text": "Underground nests are colder, which concentrates metals chemically",
+          "correct": false
+        },
+        {
+          "text": "It has no effect — the difference comes only from diet",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBumblebees nest underground, exposing them to soil-borne contamination that\nhoneybees, which build hives above ground, largely avoid.\u003c/p\u003e"
+    },
+    {
+      "id": "card_634f82#2",
+      "format": "quiz",
+      "prompt": "Besides nesting location, what else concentrates bumblebees' metal exposure compared to honeybees?",
+      "choices": [
+        {
+          "text": "Smaller colonies, shorter foraging ranges, fewer plant species visited, and hairier bodies that trap dust",
+          "correct": true
+        },
+        {
+          "text": "Bumblebees only eat metal-rich soil directly",
+          "correct": false
+        },
+        {
+          "text": "Bumblebees live twice as long as honeybees",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBumblebee colonies are far smaller (50–500 vs. 30,000–60,000 bees), forage\ncloser to the nest, visit fewer plant species, and have hairier bodies —\nall factors that concentrate whatever contamination is present.\u003c/p\u003e"
+    }
+  ]
+}

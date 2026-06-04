@@ -1,0 +1,109 @@
+{
+  "id": "card_3c048e",
+  "slug": "epigenetics",
+  "type": "concept",
+  "title": "Epigenetics: Switching Genes On and Off",
+  "hook": "Two cells can carry identical DNA yet behave completely differently — because chemical tags decide which genes are switched on, without touching the code itself.",
+  "key_points": [
+    "Epigenetics is about controlling gene expression without changing the DNA sequence.",
+    "Chemical tags on DNA and its packaging proteins turn genes on or off.",
+    "It explains how one genome produces many specialized cell types.",
+    "Some epigenetic marks respond to environment and can sometimes be inherited."
+  ],
+  "content_html": "\u003cp\u003eEvery cell in your body shares the same DNA, so how does a skin cell end up so different from a neuron? The answer is epigenetics: a layer of control that decides which genes get used in each cell, without altering the genetic code itself. It's the difference between owning a cookbook and choosing which recipes to actually cook.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEpigenetic control works through chemical tags placed on the DNA or on the proteins that DNA wraps around. These tags can switch genes \u003cstrong\u003eon or off\u003c/strong\u003e or dial their activity up and down, which is how a single genome gives rise to hundreds of specialized cell types. As the NIH's genetics glossary describes, what makes epigenetics especially intriguing is that some of these marks respond to the environment — diet, stress, exposures — and a few can even be passed to the next generation. Throughout, the DNA sequence stays untouched; only the pattern of which genes are read changes.\u003c/p\u003e",
+  "source": {
+    "name": "NIH National Human Genome Research Institute",
+    "url": "https://www.genome.gov/genetics-glossary/Epigenetics",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_88ba5a",
+      "slug": "from-dna-to-protein",
+      "type": "concept",
+      "title": "From DNA to Protein: The Central Dogma",
+      "hook": "Your DNA is a recipe book locked in the nucleus — so the cell copies a single recipe to RNA, carries it out, and reads it to build a protein.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80bbc5",
+      "slug": "mutations",
+      "type": "concept",
+      "title": "Mutations: When DNA Changes",
+      "hook": "Every time a cell copies its DNA, tiny typos can slip in — most do nothing at all, a few cause disease, and rare ones fuel evolution.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9fc450",
+      "slug": "crispr-gene-editing",
+      "type": "concept",
+      "title": "CRISPR: Molecular Scissors for DNA",
+      "hook": "Borrowed from a bacterial immune system, CRISPR lets scientists find a precise spot in the genome and cut it — turning gene editing into something almost routine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3c048e#0",
+      "format": "flip",
+      "prompt": "What does epigenetics control, and what does it leave unchanged?",
+      "back_html": "\u003cp\u003eIt controls \u003cstrong\u003ewhich genes are turned on or off\u003c/strong\u003e (gene expression) \u003cstrong\u003ewithout\nchanging the underlying DNA sequence\u003c/strong\u003e itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3c048e#1",
+      "format": "quiz",
+      "prompt": "How does a skin cell and a nerve cell differ if they share the same DNA?",
+      "choices": [
+        {
+          "text": "Different genes are switched on in each, an epigenetic effect",
+          "correct": true
+        },
+        {
+          "text": "They actually have completely different DNA sequences",
+          "correct": false
+        },
+        {
+          "text": "Skin cells have no DNA at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThey carry the \u003cstrong\u003esame genome\u003c/strong\u003e but \u003cstrong\u003eexpress different genes\u003c/strong\u003e. Epigenetic marks\ndetermine which genes are active, giving each cell type its identity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3c048e#2",
+      "format": "quiz",
+      "prompt": "Which statement about epigenetic marks is true?",
+      "choices": [
+        {
+          "text": "Some respond to the environment and can occasionally be inherited",
+          "correct": true
+        },
+        {
+          "text": "They permanently rewrite the DNA sequence",
+          "correct": false
+        },
+        {
+          "text": "They are fixed at birth and never change",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEpigenetic marks can shift in response to environment and lifestyle, and some\ncan even be passed to offspring — yet the DNA sequence stays the same.\u003c/p\u003e"
+    }
+  ]
+}

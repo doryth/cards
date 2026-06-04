@@ -1,0 +1,78 @@
+{
+  "id": "card_a3e570",
+  "slug": "reviving-antibiotics-with-adjuvants",
+  "type": "news",
+  "title": "Rescuing an Antibiotic Superbugs Had Beaten",
+  "hook": "Rather than invent a new antibiotic, scientists paired an old one with a small 'helper' molecule that disables the bug's resistance — reviving a drug that resistant bacteria had shrugged off.",
+  "key_points": [
+    "Some dangerous bacteria have learned to resist vancomycin, a powerful last-resort antibiotic.",
+    "Instead of a brand-new drug, researchers added a small molecule (pghi-4) that blocks a resistance enzyme.",
+    "The combination restored vancomycin's ability to kill drug-resistant Enterococcus faecium.",
+    "The strategy — a resistance-breaking 'helper' molecule — could rescue other failing antibiotics too.",
+    "It's early, lab-stage work, but a promising route amid a slow pipeline of new antibiotics."
+  ],
+  "content_html": "\u003cp\u003eAntibiotic resistance is one of medicine's slow-moving emergencies: bacteria keep learning to defeat our drugs faster than we invent replacements. A ScienceDaily report describes a clever workaround that sidesteps the invention problem entirely — reviving an antibiotic bacteria had already learned to beat.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe drug is vancomycin, a powerful antibiotic that some dangerous bacteria now resist. Instead of building a new molecule from the ground up, researchers paired vancomycin with a small \u0026quot;helper\u0026quot; molecule called pghi-4, which blocks a bacterial enzyme tied to resistance. With the resistance mechanism disabled, the combination restored vancomycin's ability to kill drug-resistant \u003cem\u003eEnterococcus faecium\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003eThe bigger idea is the appeal here: if a cheap chemical helper can neutralize the defense protecting one antibiotic, the same trick might rescue others — squeezing more life out of the drugs we already depend on. This is still lab-stage work, not a therapy you'll be prescribed. But it's a hopeful direction at a time when the new-antibiotic pipeline is thin, and it's a reminder of why using the antibiotics we have carefully — only when they're needed — remains everyone's job.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260722032108.htm",
+    "published_at": "2026-07-22",
+    "license": "ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "medication-safety",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-23",
+  "date": "2026-07-22",
+  "related": [
+    {
+      "id": "card_3a556a",
+      "slug": "antibiotics-use-them-right",
+      "type": "concept",
+      "title": "Antibiotics: Use Them Right",
+      "hook": "Antibiotics are miracle drugs against bacteria — and useless against viruses like colds and flu. Using them when they won't help fuels a genuinely dangerous problem.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a3e570#0",
+      "format": "quiz",
+      "prompt": "How did researchers restore vancomycin's power against resistant bacteria?",
+      "choices": [
+        {
+          "text": "They paired it with a small molecule that blocks a bacterial resistance enzyme",
+          "correct": true
+        },
+        {
+          "text": "They simply gave a much higher dose of vancomycin",
+          "correct": false
+        },
+        {
+          "text": "They replaced vancomycin with an entirely new class of drug",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRather than a new drug, they added a small 'helper' molecule (pghi-4) that disables the\nenzyme behind resistance, restoring the antibiotic's ability to kill the bacteria.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a3e570#1",
+      "format": "flip",
+      "prompt": "Why is the 'helper molecule' strategy exciting beyond this one antibiotic?",
+      "back_html": "\u003cp\u003eIf a small molecule can neutralize the resistance mechanism protecting one drug, similar\nchemical helpers might rescue \u003cem\u003eother\u003c/em\u003e failing antibiotics — extending the life of drugs\nwe already have instead of starting from scratch.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a3e570#2",
+      "format": "flip",
+      "prompt": "How far along is this antibiotic-revival work?",
+      "back_html": "\u003cp\u003eIt's early, lab-stage research showing the combination works against drug-resistant\n\u003cem\u003eEnterococcus faecium\u003c/em\u003e. Encouraging given the slow pipeline of new antibiotics, but not\nyet a treatment.\u003c/p\u003e"
+    }
+  ]
+}

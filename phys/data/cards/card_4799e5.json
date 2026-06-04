@@ -1,0 +1,94 @@
+{
+  "id": "card_4799e5",
+  "slug": "methanol-benchmark-tests-fundamental-constants",
+  "type": "paper",
+  "title": "A 20x-Sharper Methanol Line to Test If Nature's Constants Ever Change",
+  "hook": "Methanol clouds across the galaxy emit a radio line astronomers use to test whether a fundamental constant has drifted since the early universe. A new lab measurement made that test 20x sharper.",
+  "key_points": [
+    "Radio emission from methanol molecules in space is a sensitive way to test whether the proton-to-electron mass ratio has changed over cosmic time.",
+    "That test requires knowing the line's true frequency, measured in the lab, to very high precision — the previous best had real limitations.",
+    "Researchers measured near-infrared transitions of methanol instead of the microwave line directly, using an ultra-stable optical frequency comb referenced to a hydrogen-maser atomic clock.",
+    "The result improves the known frequency of methanol's key 12.2 GHz astrophysical line by a factor of 20, down to sub-kilohertz precision."
+  ],
+  "content_html": "\u003cp\u003eAre the fundamental constants of nature — like the ratio of a proton's mass to an electron's — really constant, or could they drift ever so slightly over cosmic time? One of the sharper ways to check is to compare a specific radio emission line from methanol molecules in distant interstellar gas clouds to the same line measured precisely in an Earth-bound lab. Any mismatch beyond measurement error would hint that the underlying constants have shifted.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat test is only as good as the lab measurement backing it, and researchers led by Frank M. J. Cozijn, Wim Ubachs, and Jeroen C. J. Koelemeij just sharpened it considerably. Rather than measuring methanol's key 12.2 GHz microwave transition directly, they measured near-infrared rovibrational transitions of the same molecule using a technique called NICE-OHMS, locked to an ultra-stable optical frequency comb and referenced via fiber link to a hydrogen-maser atomic clock. By combining pairs of these optical measurements that share a common energy level, they triangulated the microwave line's frequency to a precision 20 times better than the previous best molecular-beam measurement — a sub-kilohertz benchmark that gives astronomers a sharper yardstick for testing whether the proton-to-electron mass ratio has really stayed constant since methanol clouds far across the galaxy emitted the light we see today.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Frank M. J. Cozijn",
+      "Wim Ubachs",
+      "Jeroen C. J. Koelemeij"
+    ],
+    "url": "https://arxiv.org/abs/2607.12533",
+    "published_at": "2026-07-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "atomic-nuclear"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_45c4fe",
+      "slug": "e-equals-mc-squared",
+      "type": "concept",
+      "title": "E = mc²: Mass Is Energy",
+      "hook": "The most famous equation in physics says mass and energy are the same thing. Because the speed of light squared is a colossal number, a tiny bit of mass holds a staggering amount of energy.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4799e5#0",
+      "format": "flip",
+      "prompt": "Why do astronomers care about a precise lab measurement of a methanol radio line?",
+      "back_html": "\u003cp\u003eComparing that line's frequency as seen in distant molecular clouds to its lab\nvalue is a sensitive way to test whether the \u003cstrong\u003eproton-to-electron mass ratio\u003c/strong\u003e\nhas changed over the universe's history.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4799e5#1",
+      "format": "quiz",
+      "prompt": "How did the researchers pin down the methanol line's frequency so precisely?",
+      "choices": [
+        {
+          "text": "By measuring near-infrared transitions with an ultra-stable optical frequency comb, referenced to a hydrogen-maser atomic clock",
+          "correct": true
+        },
+        {
+          "text": "By directly observing the microwave line with a more powerful radio telescope",
+          "correct": false
+        },
+        {
+          "text": "By theoretically calculating the frequency from quantum chemistry alone",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRather than measuring the microwave line directly, they triangulated it from\nprecise near-infrared measurements referenced to an atomic clock standard.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4799e5#2",
+      "format": "flip",
+      "prompt": "By how much did this measurement improve on the previous best value?",
+      "back_html": "\u003cp\u003eA factor of \u003cstrong\u003e20\u003c/strong\u003e, reaching sub-kilohertz precision on the astrophysically\nimportant 12.2 GHz methanol line.\u003c/p\u003e"
+    }
+  ]
+}

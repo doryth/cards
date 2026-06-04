@@ -1,0 +1,105 @@
+{
+  "id": "card_e37437",
+  "slug": "abacavir-hla-hypersensitivity",
+  "type": "concept",
+  "title": "The Gene Test That Prevents a Deadly Drug Reaction",
+  "hook": "One HIV drug can trigger a severe, sometimes fatal allergic reaction — but only in people carrying one specific immune gene variant. A simple DNA test now screens it out before treatment starts.",
+  "key_points": [
+    "Abacavir (Ziagen) is an antiretroviral drug used to treat HIV infection.",
+    "It can cause severe, potentially fatal hypersensitivity reactions — fever, rash, vomiting, shortness of breath — usually within the first six weeks of treatment.",
+    "Carrying the HLA-B*57:01 gene variant sharply raises the risk of this reaction.",
+    "The FDA label requires screening for HLA-B*57:01 before anyone starts abacavir; carriers are prescribed a different drug instead.",
+    "The variant's frequency varies widely worldwide, from under 1% to over 10% of people depending on ancestry."
+  ],
+  "content_html": "\u003cp\u003eAbacavir is an effective antiretroviral used to treat HIV — except for a subset of people it can put in the hospital. In some patients it triggers a severe hypersensitivity reaction: fever, rash, vomiting, shortness of breath, usually within the first six weeks of treatment, and occasionally fatal.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe reason turns out to be written in one gene. People who carry the HLA-B\u003cem\u003e57:01 variant — part of the immune system's machinery for recognizing threats — are at sharply elevated risk of this reaction, across populations from Caucasian to Hispanic to African ancestry. Because the consequences of missing it are so serious, the FDA's drug label for abacavir requires screening every patient for HLA-B\u003c/em\u003e57:01 before treatment begins; anyone who carries it is switched to a different drug, and abacavir is never restarted in someone whose HLA-B*57:01 status is unknown, even if they'd tolerated it before. How common the variant is depends heavily on ancestry, ranging from under 1% to over 10% of people worldwide — which is exactly why a cheap genetic test, rather than guesswork, is now standard practice before this particular prescription is written.\u003c/p\u003e",
+  "source": {
+    "name": "NCBI Medical Genetics Summaries",
+    "authors": [
+      "Laura Dean",
+      "Megan Kane"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28520363",
+    "published_at": "2026-07-06",
+    "license": "NCBI Bookshelf (open access)"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_817bf0",
+      "slug": "warfarin-pharmacogenomics",
+      "type": "concept",
+      "title": "Why One Drug Dose Doesn't Fit All",
+      "hook": "The blood thinner warfarin can need up to a 20-fold different dose from person to person — and about half of that swing is written into two of your genes.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "card_b56025",
+      "slug": "how-immunity-works",
+      "type": "concept",
+      "title": "How Immunity Works",
+      "hook": "Your body fights invaders on two fronts: a fast, general first response that hits anything foreign, and a slower, custom-built defense that learns and remembers each specific enemy.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e37437#0",
+      "format": "flip",
+      "prompt": "Why does someone get screened for a gene variant before starting the HIV drug abacavir?",
+      "back_html": "\u003cp\u003eCarrying the \u003cstrong\u003eHLA-B*57:01\u003c/strong\u003e variant sharply raises the risk of a severe,\npotentially fatal hypersensitivity reaction to abacavir. Screening catches\ncarriers before they ever take the drug.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e37437#1",
+      "format": "quiz",
+      "prompt": "What kind of gene is HLA-B*57:01, and why does it matter for drug safety?",
+      "choices": [
+        {
+          "text": "An immune-system gene involved in recognizing threats — its variants can also trigger dangerous drug reactions",
+          "correct": true
+        },
+        {
+          "text": "A gene that controls how fast the liver breaks down abacavir",
+          "correct": false
+        },
+        {
+          "text": "A gene with no known function in humans",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHLA-B genes help the immune system recognize pathogens; certain variants,\nincluding HLA-B*57:01, can also cause the immune system to attack the drug\nitself, producing hypersensitivity reactions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e37437#2",
+      "format": "quiz",
+      "prompt": "What happens if someone tests positive for HLA-B*57:01 before starting abacavir?",
+      "choices": [
+        {
+          "text": "Abacavir is avoided and an alternative drug is used instead",
+          "correct": true
+        },
+        {
+          "text": "They take a lower dose of abacavir",
+          "correct": false
+        },
+        {
+          "text": "Nothing changes — the test is only for research purposes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAbacavir is contraindicated in HLA-B*57:01-positive individuals. Guidelines\nrecommend an alternate antiretroviral instead, and the drug is stopped\npermanently if a reaction is ever suspected.\u003c/p\u003e"
+    }
+  ]
+}

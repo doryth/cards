@@ -1,0 +1,111 @@
+{
+  "id": "card_f9a54a",
+  "slug": "evidence-for-evolution",
+  "type": "concept",
+  "title": "The Evidence for Evolution",
+  "hook": "Fossils, DNA, shared body plans, and change we can watch happen — evolution isn't a hunch, it's a conclusion forced by many independent lines of evidence.",
+  "key_points": [
+    "Fossils record a sequence of past life, with transitional forms linking groups.",
+    "DNA comparisons show all life is related, with closer kin sharing more sequence.",
+    "Shared anatomy — like the same bones in a bat wing, whale flipper, and human arm — points to common ancestry.",
+    "Evolution is observed directly, from antibiotic-resistant bacteria to finch beaks."
+  ],
+  "content_html": "\u003cp\u003eAsk why biologists are so confident about evolution and the answer is that the evidence comes from many directions at once, and it all points the same way. The fossil record lays out a rough sequence of life through time, complete with transitional forms — feathered dinosaurs, walking-whale ancestors — that bridge major groups. Living bodies tell the same story: the bones in a bat's wing, a whale's flipper, and your own arm are the same set, just reshaped.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe strongest modern confirmation comes from DNA. When we read the genomes of different species, closely related ones share more sequence, producing a branching family tree that independently matches the one drawn from fossils and anatomy. And evolution isn't only a story about the deep past — we watch it happen, from bacteria evolving resistance to antibiotics within years to finch beaks shifting with drought. UC Berkeley's Understanding Evolution project lays out how these separate lines of evidence converge, which is what makes the case so hard to escape: each could stand alone, but together they leave little room for doubt.\u003c/p\u003e",
+  "source": {
+    "name": "Understanding Evolution (UC Berkeley)",
+    "url": "https://evolution.berkeley.edu/evolution-101/the-history-of-life-looking-at-the-patterns/lines-of-evidence-the-science-of-evolution/",
+    "license": "© UC Museum of Paleontology"
+  },
+  "topic_ids": [
+    "evolution"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_89dd5d",
+      "slug": "natural-selection",
+      "type": "concept",
+      "title": "Natural Selection",
+      "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_043084",
+      "slug": "common-descent",
+      "type": "concept",
+      "title": "The Tree of Life",
+      "hook": "Humans, mushrooms, and oak trees share an ancestor if you go back far enough — all life on Earth branches from a single common root.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_50ecfa",
+      "slug": "how-new-species-form",
+      "type": "concept",
+      "title": "How New Species Form",
+      "hook": "Split one population in two, let them drift apart long enough, and eventually they can no longer interbreed — that's speciation, the engine that fills the tree of life with branches.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f9a54a#0",
+      "format": "quiz",
+      "prompt": "Why does the same bone arrangement appear in a bat's wing, a whale's flipper, and a human arm?",
+      "choices": [
+        {
+          "text": "They inherited the limb plan from a shared ancestor",
+          "correct": true
+        },
+        {
+          "text": "Each evolved it independently from scratch for the same job",
+          "correct": false
+        },
+        {
+          "text": "It's a coincidence with no biological meaning",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThese are \u003cstrong\u003ehomologous structures\u003c/strong\u003e — the same underlying bones repurposed for\ndifferent uses, which makes sense only if all three descend from a common ancestor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f9a54a#1",
+      "format": "flip",
+      "prompt": "Name four independent lines of evidence for evolution.",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003efossil record\u003c/strong\u003e, \u003cstrong\u003eDNA/molecular\u003c/strong\u003e comparisons, \u003cstrong\u003eshared anatomy\u003c/strong\u003e\n(homologies), and \u003cstrong\u003edirectly observed change\u003c/strong\u003e in living populations.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f9a54a#2",
+      "format": "quiz",
+      "prompt": "What do DNA comparisons reveal about different species?",
+      "choices": [
+        {
+          "text": "Closely related species share more of their DNA sequence",
+          "correct": true
+        },
+        {
+          "text": "Every species has completely unique, unrelated DNA",
+          "correct": false
+        },
+        {
+          "text": "DNA is identical across all living things",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe more recently two species shared an ancestor, the more similar their DNA —\na nested pattern that matches the tree of life built from fossils and anatomy.\u003c/p\u003e"
+    }
+  ]
+}

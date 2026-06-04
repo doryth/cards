@@ -1,0 +1,139 @@
+{
+  "id": "card_1c8726",
+  "slug": "how-extradition-works",
+  "type": "news",
+  "title": "How Extradition Works",
+  "hook": "One country asking another to hand over a person is not a favor between friends — it runs on treaties and courts, and political goodwill is not the deciding vote.",
+  "key_points": [
+    "Extradition is the formal transfer of a person from one state to another to face prosecution or serve a sentence.",
+    "It normally requires a treaty, a matching offense in both countries, and approval by a court in the sending state.",
+    "Courts, not politicians, usually decide whether the legal conditions are met — which limits how much political alignment can help or hurt.",
+    "Common bars include political-offense exceptions, the risk of unfair trial or ill-treatment, and double-jeopardy protections.",
+    "NPR reports Andrew Tate was arrested and held in U.S. federal prison following a U.K. extradition request, a year after predicting political protection."
+  ],
+  "content_html": "\u003cp\u003eExtradition is the machinery by which one state formally asks another to hand over a person so they can be prosecuted or serve a sentence. It looks like diplomacy and is often reported as diplomacy, but the load is carried by law: an extradition request typically needs a treaty between the two countries, an offense that counts as a crime in both of them, and — crucially — approval from a court in the country being asked. NPR's Bill Chappell reports that Andrew Tate was arrested and held in U.S. federal prison following a U.K. extradition request, a year after he had publicly predicted political protection would keep him free.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat structure explains why extradition disputes so often defy expectations about political favor. Because a judge in the sending state has to find that the treaty's conditions are satisfied, warm relations between two governments cannot simply produce a transfer, and cold relations cannot simply block one — though governments do retain some discretion at the margins, and the executive usually has a final say once the courts have cleared the way. Treaties also build in substantive protections that belong to the person, not the states: exceptions for political offenses, refusal where the individual has already been tried for the same conduct, and refusal where they would face an unfair trial or serious mistreatment. The result is a genuinely hybrid institution — a bargain between sovereigns that is nonetheless administered as an individual legal proceeding, with the person's own rights capable of defeating it.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Bill Chappell"
+    ],
+    "url": "https://npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
+    "published_at": "2026-08-12",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "international-relations",
+    "rights-civil-liberties"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_ce31e0",
+      "slug": "treaties-and-international-law",
+      "type": "concept",
+      "title": "Treaties \u0026 International Law",
+      "hook": "If no world government can pass laws, how do nations bind themselves at all? Largely by agreeing to — treaties are the contracts that knit the international order together.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5ab42f",
+      "slug": "state-sovereignty-among-nations",
+      "type": "concept",
+      "title": "Sovereignty Among Nations",
+      "hook": "Inside its borders a state is supreme — but in the world of states there's no higher ruler. That gap, called anarchy, shapes everything about international politics.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_766f74",
+      "slug": "rule-of-law",
+      "type": "concept",
+      "title": "The Rule of Law",
+      "hook": "The principle that everyone — including those in power — is bound by the same publicly known laws, applied equally.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_ce31e0",
+      "slug": "treaties-and-international-law",
+      "type": "concept",
+      "title": "Treaties \u0026 International Law",
+      "hook": "If no world government can pass laws, how do nations bind themselves at all? Largely by agreeing to — treaties are the contracts that knit the international order together.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_1c8726#0",
+      "format": "flip",
+      "prompt": "What is extradition, and what does it normally require?",
+      "back_html": "\u003cp\u003eThe formal transfer of a person to another state for prosecution or\nsentence. It typically needs a treaty, an offense recognized in both\ncountries, and court approval in the sending state.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1c8726#1",
+      "format": "quiz",
+      "prompt": "Why does political alignment between two governments not settle an extradition request?",
+      "choices": [
+        {
+          "text": "Courts in the sending state must find the treaty's legal conditions satisfied",
+          "correct": true
+        },
+        {
+          "text": "Because extradition requests are decided by the United Nations",
+          "correct": false
+        },
+        {
+          "text": "Because extradition is automatic once requested",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eExtradition runs through judicial process, so the request must clear legal\ntests regardless of how friendly the two governments are.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1c8726#2",
+      "format": "quiz",
+      "prompt": "Which of these is a common bar to extradition?",
+      "choices": [
+        {
+          "text": "A serious risk of unfair trial or ill-treatment in the requesting state",
+          "correct": true
+        },
+        {
+          "text": "The person being a public figure",
+          "correct": false
+        },
+        {
+          "text": "The offense carrying a prison sentence",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTreaties routinely carve out political offenses, double jeopardy, and cases\nwhere the person would face an unfair trial or mistreatment.\u003c/p\u003e"
+    }
+  ]
+}

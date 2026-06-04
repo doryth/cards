@@ -1,0 +1,88 @@
+{
+  "id": "card_51c42f",
+  "slug": "surgeon-controlled-robot-surgery",
+  "type": "news",
+  "title": "Surgeons Just Ran an Operation Through Humanoid Robots",
+  "hook": "In a world first, surgeons operated on live pigs not with their own hands, but by controlling humanoid robots — an early test of whether robotic bodies can stand in for a surgeon's touch.",
+  "key_points": [
+    "Ars Technica reports humanoid robots controlled by surgeons performed a world-first operation on live pigs.",
+    "It's a preclinical trial — animal testing that comes before any human procedure is considered.",
+    "The goal is testing whether humanoid robots are feasible for real surgical use.",
+    "The surgeons remain fully in control; the robot is the hands, not the decision-maker."
+  ],
+  "content_html": "\u003cp\u003eRobotic surgery isn't new, but Ars Technica reports a genuine world first: surgeons performed an operation on live pigs by controlling humanoid robots rather than using their own hands directly at a console.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is a preclinical trial — the standard early stage where new medical techniques are tested on animals before anyone considers using them on people — so it's a feasibility test, not a treatment. The surgeons stayed fully in charge of every decision; the humanoid robot functioned as their hands, extending what a surgeon can do rather than replacing their judgment. That distinction matters for how to read stories like this one: the interesting question in surgical robotics right now isn't \u0026quot;can a robot operate on its own?\u0026quot; (it can't, and isn't meant to), but \u0026quot;can a robot's body stand in reliably for a surgeon's touch?\u0026quot; This trial is one early data point toward answering that.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs",
+    "published_at": "2026-07-09",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "robots",
+    "ai-healthcare",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-09",
+  "related": [
+    {
+      "id": "card_66e39d",
+      "slug": "robots-and-self-driving",
+      "type": "concept",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eb781a",
+      "slug": "ai-in-healthcare",
+      "type": "concept",
+      "title": "AI in Healthcare",
+      "hook": "AI can spot a tumor on a scan faster than a tired radiologist and flag patterns no one would catch by eye. It's a powerful assistant to doctors — not a replacement for one.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_51c42f#0",
+      "format": "quiz",
+      "prompt": "In this world-first operation, who actually made the surgical decisions?",
+      "choices": [
+        {
+          "text": "Human surgeons — they controlled the humanoid robots performing the operation",
+          "correct": true
+        },
+        {
+          "text": "The robots operated fully on their own, without human input",
+          "correct": false
+        },
+        {
+          "text": "An AI chatbot gave instructions to the surgeons",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThis was teleoperation: surgeons remained in control throughout, using the\nhumanoid robot as an extension of their hands rather than an autonomous actor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_51c42f#1",
+      "format": "flip",
+      "prompt": "Why test this on live pigs first, instead of humans?",
+      "back_html": "\u003cp\u003eIt's a preclinical trial — the standard early step used to test feasibility\nand safety before any procedure is considered for human patients.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "card_421603",
+  "slug": "angular-momentum",
+  "type": "concept",
+  "title": "Angular Momentum: Why a Skater Speeds Up",
+  "hook": "A spinning figure skater pulls her arms in and whirls faster — without pushing off anything. That's angular momentum being conserved.",
+  "key_points": [
+    "Angular momentum is the rotational version of momentum — a measure of spin.",
+    "It stays constant when no outside torque acts on the system.",
+    "Pull mass inward and the spin rate rises to keep it conserved.",
+    "Gyroscopes and spinning tops resist tipping because of it."
+  ],
+  "content_html": "\u003cp\u003eAngular momentum is the spinning twin of ordinary momentum. Just as a moving object resists changes to its straight-line motion, a spinning object resists changes to its rotation. And just as momentum is conserved when nothing pushes on a system, angular momentum is conserved when no outside torque acts.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat conservation produces some lovely effects. A figure skater pulls her arms in and spins faster, because moving mass toward the axis must be offset by a quicker spin. A gyroscope or spinning top stays stubbornly upright, resisting any tip. And planets keep orbiting and rotating for billions of years with nothing to slow them. Wikipedia details how angular momentum is defined and why it ranks among physics' most reliable conservation laws.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Angular_momentum",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "rotational-motion"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_8f74bc",
+      "slug": "torque",
+      "type": "concept",
+      "title": "Torque: The Twist That Makes Things Turn",
+      "hook": "Why is a long wrench easier than a short one? Torque is rotational force — it grows with how far from the pivot you push, not just how hard.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3776ab",
+      "slug": "conservation-of-momentum",
+      "type": "concept",
+      "title": "Conservation of Momentum",
+      "hook": "Fire a gun and it kicks back; push off a friend on skates and you both glide apart. Total momentum never changes unless an outside force interferes.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eac18f",
+      "slug": "gyroscopes-and-stability",
+      "type": "concept",
+      "title": "Gyroscopes: Why Spinning Things Stay Upright",
+      "hook": "A spinning top won't fall over and a rolling coin stays balanced. Spin gives an object a stubborn sense of direction — angular momentum resists any attempt to tip its axis.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_8f74bc",
+      "slug": "torque",
+      "type": "concept",
+      "title": "Torque: The Twist That Makes Things Turn",
+      "hook": "Why is a long wrench easier than a short one? Torque is rotational force — it grows with how far from the pivot you push, not just how hard.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_421603#0",
+      "format": "flip",
+      "prompt": "When is angular momentum conserved?",
+      "back_html": "\u003cp\u003eWhen no outside \u003cstrong\u003etorque\u003c/strong\u003e acts on a spinning system. With nothing to\nchange its spin, the total angular momentum stays constant.\u003c/p\u003e"
+    },
+    {
+      "id": "card_421603#1",
+      "format": "quiz",
+      "prompt": "Why does a figure skater spin faster when she pulls her arms in?",
+      "choices": [
+        {
+          "text": "Bringing mass closer to the axis makes spin rate rise to conserve angular momentum",
+          "correct": true
+        },
+        {
+          "text": "Her muscles add new energy that speeds up the spin",
+          "correct": false
+        },
+        {
+          "text": "Pulling in reduces air resistance to almost nothing",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith no outside torque, angular momentum is conserved. Drawing mass toward\nthe axis must be balanced by a faster spin.\u003c/p\u003e"
+    },
+    {
+      "id": "card_421603#2",
+      "format": "quiz",
+      "prompt": "Angular momentum is the rotational counterpart of what quantity?",
+      "choices": [
+        {
+          "text": "Momentum (the straight-line measure of motion)",
+          "correct": true
+        },
+        {
+          "text": "Temperature",
+          "correct": false
+        },
+        {
+          "text": "Electric charge",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eJust as momentum describes motion in a straight line, angular momentum\ndescribes spinning motion and is conserved in the same way.\u003c/p\u003e"
+    }
+  ]
+}

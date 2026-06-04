@@ -1,0 +1,71 @@
+{
+  "id": "card_ae227e",
+  "slug": "kinetic-and-potential-energy",
+  "type": "concept",
+  "title": "Kinetic \u0026 Potential Energy",
+  "hook": "Energy comes in two basic flavors: the energy of motion, and the energy stored up waiting to happen.",
+  "key_points": [
+    "Kinetic energy is the energy of motion; faster and heavier means more of it.",
+    "Potential energy is stored energy due to position or configuration, like height in gravity.",
+    "Lifting an object stores gravitational potential energy; letting it fall releases it as kinetic.",
+    "Other stores exist too — a stretched spring or a charged battery holds potential energy."
+  ],
+  "content_html": "\u003cp\u003ePhysicists sort energy into two basic categories. Kinetic energy is the energy something has because it's moving: a rolling ball or a rushing river. The faster and more massive the object, the more kinetic energy it carries. Potential energy is energy that's stored up and ready to be released, set by an object's position or arrangement.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe most familiar store is gravitational potential energy: lift an object higher and you've stored energy that gravity will hand back as kinetic energy if you let it fall. But potential energy takes many forms — a stretched spring, a drawn bow, and the chemical bonds in a battery all hold it. The interplay between these two flavors, with energy sloshing from stored to moving and back, is the engine behind much of mechanics. Khan Academy works through the definitions with simple examples.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/physics/work-and-energy/work-and-energy-tutorial/a/what-is-kinetic-energy",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "energy-work"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_11b086",
+      "slug": "conservation-of-energy",
+      "type": "concept",
+      "title": "Conservation of Energy",
+      "hook": "Energy is never created or destroyed — it only changes form. That single rule is one of the most powerful ideas in all of physics.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ae227e#0",
+      "format": "flip",
+      "prompt": "What is the difference between kinetic and potential energy?",
+      "back_html": "\u003cp\u003eKinetic energy is the energy of \u003cstrong\u003emotion\u003c/strong\u003e; potential energy is \u003cstrong\u003estored\u003c/strong\u003e\nenergy due to an object's position or configuration.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ae227e#1",
+      "format": "quiz",
+      "prompt": "You lift a book onto a high shelf. What kind of energy have you given it?",
+      "choices": [
+        {
+          "text": "Gravitational potential energy, from its raised position",
+          "correct": true
+        },
+        {
+          "text": "Kinetic energy, because it is now moving",
+          "correct": false
+        },
+        {
+          "text": "None — energy is only stored in batteries",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRaising the book against gravity stores gravitational potential energy that\nwould become kinetic if it fell.\u003c/p\u003e"
+    }
+  ]
+}

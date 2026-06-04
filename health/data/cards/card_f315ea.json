@@ -1,0 +1,83 @@
+{
+  "id": "card_f315ea",
+  "slug": "iv-vitamin-c-and-cancer",
+  "type": "news",
+  "title": "Vitamin C and Cancer: The Route Changes Everything",
+  "hook": "Linus Pauling was mocked for saying vitamin C fights cancer — because the trials used pills. Given intravenously it reaches concentrations that behave like a drug, not a vitamin.",
+  "key_points": [
+    "Pauling's claim was dismissed after trials using vitamin C pills showed no benefit.",
+    "Oral absorption is capped, so pills can't reach high blood concentrations.",
+    "Intravenous delivery bypasses that limit and reaches vastly higher levels.",
+    "At those concentrations vitamin C acts more like an experimental drug than a supplement.",
+    "Early studies suggest it may damage vulnerable cancer cells and reduce treatment side effects.",
+    "It is still experimental — not an established cancer therapy."
+  ],
+  "content_html": "\u003cp\u003eLinus Pauling — two Nobel prizes, and by the end of his life a byword for scientific overreach — insisted vitamin C could fight cancer. Trials of vitamin C pills found nothing, and the claim became a cautionary tale.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, the modern understanding is that the trials tested the wrong thing. The gut caps how much vitamin C it will absorb, so no oral dose gets blood concentrations very high. Delivered intravenously, it bypasses that ceiling entirely and reaches levels an order of magnitude beyond anything a pill can achieve — and at those concentrations vitamin C stops behaving like a nutrient and starts behaving like a cytotoxic agent, generating oxidative stress that some cancer cells are unusually poor at handling.\u003c/p\u003e\n\u003cp\u003eEarly studies suggest it may damage vulnerable tumour cells, reduce side effects of standard treatment, and possibly improve outcomes for some patients. \u0026quot;Suggest\u0026quot; and \u0026quot;some\u0026quot; are load-bearing: this is active research, not established care, and IV vitamin C is also heavily marketed by clinics well ahead of the evidence. The durable lesson is the pharmacological one — route and dose can change what a molecule does, and a failed trial sometimes tested a version of the idea that was never going to work.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260806050717.htm",
+    "published_at": "2026-08-07",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "medication-safety"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-07",
+  "related": [
+    {
+      "id": "card_cfa887",
+      "slug": "vitamin-c-and-brain-health",
+      "type": "news",
+      "title": "A Surprising Link Between Vitamin C and Brain Health",
+      "hook": "In a study of over 2,000 older adults, people with lower blood vitamin C had less gray matter and weaker brain connections tied to memory and attention.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "card_ec98d2",
+      "slug": "do-supplements-work",
+      "type": "news",
+      "title": "A $70 Billion Industry With Thin Evidence",
+      "hook": "Supplements are one of the fastest-growing corners of health spending. For most of what's on the shelf, there's little evidence it does what the label implies.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f315ea#0",
+      "format": "flip",
+      "prompt": "Why did vitamin C pills fail in cancer trials while IV vitamin C looks different?",
+      "back_html": "\u003cp\u003eOral absorption is limited, so pills can't push blood levels very high.\nIntravenous delivery bypasses that ceiling and reaches vastly higher\nconcentrations — where vitamin C behaves like an experimental drug.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f315ea#1",
+      "format": "quiz",
+      "prompt": "What's the general lesson from the vitamin C story?",
+      "choices": [
+        {
+          "text": "Route and dose can change what a substance does in the body",
+          "correct": true
+        },
+        {
+          "text": "Any supplement will work if you take enough of it",
+          "correct": false
+        },
+        {
+          "text": "Pauling was right and IV vitamin C is now standard cancer care",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe same molecule produced no benefit as a pill and shows drug-like activity by\nIV, because absorption capped the achievable concentration. That said, IV\nvitamin C remains experimental, not established therapy.\u003c/p\u003e"
+    }
+  ]
+}

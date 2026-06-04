@@ -1,0 +1,118 @@
+{
+  "id": "card_d3e1b8",
+  "slug": "china-open-model-gap",
+  "type": "news",
+  "title": "China's Free-to-Download Models Are Closing the Gap",
+  "hook": "A Chinese lab's openly downloadable model reportedly rivals the top US models at some security tasks — a sign the distance between open AI and the frontier is shrinking fast.",
+  "key_points": [
+    "Zhipu AI (Z.ai) released GLM-5.2 as an 'open-weight' model — anyone can download and run it.",
+    "Some researchers say it matches leading US models on certain bug-finding and cybersecurity tasks.",
+    "It still trails the best US models on more general tasks, according to the reporting.",
+    "'Open-weight' means the model's trained parameters are public — unlike closed models like GPT.",
+    "Capable open models spread power widely: great for builders, harder for anyone to control."
+  ],
+  "content_html": "\u003cp\u003eFor years, the most capable AI models were closed — built by a handful of US labs and reachable only through their websites and apps. That gap is narrowing. The Verge reports that China's Zhipu AI (Z.ai) released GLM-5.2 as an \u003cem\u003eopen-weight\u003c/em\u003e model, and that some researchers say it now matches leading US models on certain bug-finding and cybersecurity tasks — even as it still trails them on more general work.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003e\u0026quot;Open-weight\u0026quot; is the key term. It means the model's trained parameters — the numbers that encode what it learned — are released publicly, so anyone can download the model, run it on their own machines, and build on top of it. That's the opposite of a closed model like GPT, which you can only use through the company that owns it. The trend matters for the question of who controls AI. Closed models can be gated, priced, or even switched off by their makers or by governments; an open model, once released, is out in the world for good. That's a gift to researchers, startups, and tinkerers — and, at the same time, a headache for anyone hoping to keep the most powerful capabilities under lock and key. As open models from China and elsewhere catch up, control over frontier AI looks less like a switch one company holds and more like something that's slipping into many hands at once.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O’Brien"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "published_at": "2026-06-28",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "open-source"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-29",
+  "date": "2026-06-28",
+  "related": [
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5711da",
+      "slug": "anthropic-fable-government-ban",
+      "type": "news",
+      "title": "A Government Orders an AI Model Switched Off",
+      "hook": "The US government ordered Anthropic to cut off foreign access to two of its top models over national-security fears — so the company shut them off for everyone. A new kind of control over AI.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_6045bc",
+      "slug": "asml-chipmaking-machine",
+      "type": "news",
+      "title": "The $400 Million Machine Behind Every AI Chip",
+      "hook": "Every AI chip starts on a machine most people have never heard of: a $400-million, bus-sized contraption from a single Dutch company that the whole industry depends on.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d3e1b8#0",
+      "format": "quiz",
+      "prompt": "What does it mean for a model to be 'open-weight'?",
+      "choices": [
+        {
+          "text": "Its trained parameters are released publicly, so anyone can download and run it",
+          "correct": true
+        },
+        {
+          "text": "It only works on tasks the public has voted to allow",
+          "correct": false
+        },
+        {
+          "text": "It's free to chat with on a website but can't be downloaded",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOpen-weight means the model's learned parameters are public. Unlike a closed model\nsuch as GPT, anyone can download it, run it themselves, and build on it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d3e1b8#1",
+      "format": "flip",
+      "prompt": "Why does a capable open-weight model make AI harder to control?",
+      "back_html": "\u003cp\u003eOnce the weights are public, anyone can run the model anywhere — so no single company\nor government can simply switch it off or gate who uses it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d3e1b8#2",
+      "format": "quiz",
+      "prompt": "How did GLM-5.2 reportedly compare to leading US models?",
+      "choices": [
+        {
+          "text": "It matched them on some security tasks but still trailed on more general ones",
+          "correct": true
+        },
+        {
+          "text": "It beat every US model on every task",
+          "correct": false
+        },
+        {
+          "text": "It failed at every task researchers tried",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers said it rivaled top US models on certain bug-finding and cybersecurity\nwork, while still lagging behind them on broader, more general tasks.\u003c/p\u003e"
+    }
+  ]
+}

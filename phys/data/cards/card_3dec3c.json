@@ -1,0 +1,120 @@
+{
+  "id": "card_3dec3c",
+  "slug": "cavity-vacuum-tunes-2d-materials",
+  "type": "paper",
+  "title": "An Empty Mirror Box Can Nudge Atoms Apart",
+  "hook": "Put a 2D material inside an optical cavity, shine no light at all, and its layers drift further apart. The vacuum's own fluctuations become a design knob.",
+  "key_points": [
+    "Layered materials like graphene and hexagonal boron nitride are held together by van der Waals forces born of correlated quantum fluctuations.",
+    "An optical cavity reshapes the electromagnetic vacuum, so it can alter those fluctuations without any laser driving the system.",
+    "The authors extend the photon many-body dispersion functional to periodic solids inside quantum-electrodynamical density functional theory.",
+    "For bilayer hBN and graphene they predict shifted preferred stacking, larger equilibrium interlayer spacing, and softer layer-breathing modes.",
+    "Effects grow with light-matter coupling strength, framing the cavity as a tuning knob for structure rather than just for excited states."
+  ],
+  "content_html": "\u003cp\u003eTwo sheets of graphene stick together because their electrons fluctuate in sync — a van der Waals attraction that is, at bottom, a property of the quantum electromagnetic vacuum. So a natural question follows: if you change the vacuum, do you change the glue? Put the material inside an optical cavity, whose mirrors permit only certain field modes, and the answer appears to be yes — with no laser, no driving, nothing but empty space reshaped.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHassan, Tasci, Cunha and Flick (arXiv, August 2026) supply the missing computational tool. Cavity-modified dispersion interactions had been treated from first principles for molecules, but not for extended crystals. They introduce a periodic formulation of the photon many-body dispersion functional inside quantum-electrodynamical density functional theory, with efficient q-point sampling.\u003c/p\u003e\n\u003cp\u003eApplied to bilayer hexagonal boron nitride and bilayer graphene, the method predicts that stronger light-matter coupling modifies which stacking arrangement the layers prefer, pushes the equilibrium interlayer distance outward, and softens the breathing mode in which the layers oscillate toward and away from each other. The claim is a prediction, not a measurement — but it sharpens the case that cavity engineering belongs in the toolkit for structural, not just electronic, control of quantum materials.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Mohammad Hassan",
+      "Cankut Tasci",
+      "Leonardo A. Cunha",
+      "Johannes Flick"
+    ],
+    "url": "https://arxiv.org/abs/2608.28521",
+    "published_at": "2026-08-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_793c71",
+      "slug": "cavity-superconductivity-no-go",
+      "type": "paper",
+      "title": "The Vacuum Can't Boost Superconductivity (Directly)",
+      "hook": "Experiments hint that putting a superconductor in an optical cavity raises its transition temperature. A new theorem says plain vacuum fluctuations can only ever hurt — and shows the two loopholes.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "card_5fb13c",
+      "slug": "light-controlled-magnetism-2d-materials",
+      "type": "news",
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "hook": "In materials just atoms thick, light doesn't just illuminate anymore — it can directly flip magnetic behavior, a step toward memory and quantum devices run purely on light.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_5bcf73",
+      "slug": "graphene-wrinkles-charge-separation",
+      "type": "news",
+      "title": "Wrinkling Graphene Turns It Into an Electrical Device",
+      "hook": "Crumple a sheet of carbon one atom thick and its electrons rearrange. Sharp wrinkles in graphene produce surprisingly strong charge separation — no change of material required.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3dec3c#0",
+      "format": "quiz",
+      "prompt": "What makes a cavity able to change a material's ground state without any light being shone in?",
+      "choices": [
+        {
+          "text": "The mirrors reshape the electromagnetic vacuum, altering the fluctuations that produce van der Waals binding",
+          "correct": true
+        },
+        {
+          "text": "The mirrors reflect stray thermal photons back into the sample, heating it slightly",
+          "correct": false
+        },
+        {
+          "text": "The cavity applies a static electric field across the layers",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVan der Waals attraction comes from correlated quantum fluctuations of the\nelectromagnetic field. Change the field's vacuum modes and you change the binding.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3dec3c#1",
+      "format": "flip",
+      "prompt": "What three structural changes do the authors predict for bilayer hBN and graphene in a cavity?",
+      "back_html": "\u003cp\u003eModified preferred \u003cstrong\u003estacking\u003c/strong\u003e, \u003cstrong\u003eincreased\u003c/strong\u003e equilibrium interlayer distance, and\n\u003cstrong\u003esoftened\u003c/strong\u003e layer-breathing modes — all growing with light-matter coupling strength.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3dec3c#2",
+      "format": "quiz",
+      "prompt": "Why did this calculation need a new method rather than the existing molecular one?",
+      "choices": [
+        {
+          "text": "The molecular photon many-body dispersion functional had no periodic formulation for extended solids",
+          "correct": true
+        },
+        {
+          "text": "Density functional theory cannot describe carbon or boron nitride",
+          "correct": false
+        },
+        {
+          "text": "Cavity effects vanish in molecules, so there was nothing to build on",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCavity-modified dispersion had been treated ab initio for molecules; the gap was a\nperiodic version, which they supply with efficient q-point sampling.\u003c/p\u003e"
+    }
+  ]
+}

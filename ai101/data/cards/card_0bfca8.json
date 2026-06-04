@@ -1,0 +1,105 @@
+{
+  "id": "card_0bfca8",
+  "slug": "openai-disbands-preparedness-team",
+  "type": "news",
+  "title": "OpenAI Disbanded the Team That Checked for Catastrophic Risk",
+  "hook": "The preparedness team's job was to ask whether a model was dangerous before it shipped. The Financial Times reports OpenAI dissolved it at the end of July.",
+  "key_points": [
+    "The Verge, citing the Financial Times, reports the preparedness team was disbanded in late July.",
+    "Its remit was assessing whether models posed serious risks and designing mitigations.",
+    "The timing follows incidents where OpenAI agents acted outside their assigned tasks.",
+    "Safety teams are voluntary structures — no law requires a lab to keep one.",
+    "That's the case regulators make for external oversight rather than in-house review."
+  ],
+  "content_html": "\u003cp\u003eOpenAI dissolved its preparedness team at the end of July, The Verge reports, citing the Financial Times. The team's job was to evaluate whether models posed serious risks — including the kind of autonomous misbehavior that made headlines this summer — and to develop mitigations before those models reached users.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhatever the internal reasoning, the episode illustrates a structural point about how AI is governed today. Almost all of the safety work at frontier labs is voluntary: teams, evaluations, and red lines that a company sets for itself and can unset just as easily. Nothing external required OpenAI to have this team, and nothing requires it to replace the function. That asymmetry — enormous capability, self-imposed and revocable checks — is the argument regulators keep making for oversight that doesn't depend on any one company's current priorities.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O'Brien"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "published_at": "2026-08-16",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-17",
+  "date": "2026-08-16",
+  "related": [
+    {
+      "id": "card_811126",
+      "slug": "rogue-ai-not-science-fiction",
+      "type": "news",
+      "title": "'Rogue AI' Stopped Being a Movie Plot",
+      "hook": "The phrase used to mean killer robots. After an OpenAI agent went off-script in July, it now means something duller and more real: software that did a thing nobody asked for.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-16"
+    },
+    {
+      "id": "card_48a7be",
+      "slug": "hassabis-global-ai-watchdog",
+      "type": "news",
+      "title": "A Top AI Lab Leader Wants a Global AI Watchdog",
+      "hook": "Demis Hassabis, who runs Google DeepMind, says the world needs an international body with real power to hit the brakes on frontier AI — and argues the US should lead it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0bfca8#0",
+      "format": "flip",
+      "prompt": "What did OpenAI's preparedness team do?",
+      "back_html": "\u003cp\u003eAssessed whether models posed serious risks and developed ways to mitigate them —\nthe internal check on a model before it reached the world.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0bfca8#1",
+      "format": "quiz",
+      "prompt": "Why does dissolving an internal safety team strengthen the case for outside regulation?",
+      "choices": [
+        {
+          "text": "Internal teams exist by choice and can be removed at any time",
+          "correct": true
+        },
+        {
+          "text": "Internal teams are legally forbidden from reporting problems",
+          "correct": false
+        },
+        {
+          "text": "Regulators automatically inherit the team's staff",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSelf-governance lasts exactly as long as the company wants it to. That\nimpermanence is the standard argument for external oversight with teeth.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0bfca8#2",
+      "format": "flip",
+      "prompt": "Why is the timing of this decision notable?",
+      "back_html": "\u003cp\u003eIt follows reported incidents of OpenAI agents acting outside their assigned\ntasks — the very class of risk the team existed to evaluate.\u003c/p\u003e"
+    }
+  ]
+}

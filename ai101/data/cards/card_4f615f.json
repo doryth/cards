@@ -1,0 +1,93 @@
+{
+  "id": "card_4f615f",
+  "slug": "notebooklm-video-summaries",
+  "type": "news",
+  "title": "Google's NotebookLM Now Turns Your Notes Into TikTok-Style Clips",
+  "hook": "Studying from a pile of PDFs? Google's NotebookLM can now spit out a 60-second, vertical AI video summary of your sources — short-form video aimed at your reading list instead of entertainment.",
+  "key_points": [
+    "NotebookLM can now generate 60-second, vertical AI video clips summarizing the sources you upload.",
+    "The feature is rolling out to Google AI Ultra and Pro subscribers.",
+    "It builds on NotebookLM's earlier trick of turning your documents into a podcast-style audio summary.",
+    "It's a sign that 'AI summarizes your reading' is moving from text and audio into short-form video too."
+  ],
+  "content_html": "\u003cp\u003eGoogle is adding a new way to catch up on your own notes: NotebookLM can now generate 60-second, vertical AI video clips summarizing the sources you've uploaded, The Verge reports. The feature is rolling out to Google AI Ultra and Pro subscribers.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIf the format sounds familiar, that's the point — it's the same short, vertical style popularized by TikTok, redirected at your reading pile instead of entertainment. It builds on a trick NotebookLM introduced earlier: turning a stack of PDFs or web pages into a podcast-style audio conversation you can listen to. Video is the next logical step, and it fits how a lot of people now prefer to absorb information — in short, digestible chunks rather than a full document. Whether a minute-long clip can do justice to a dense source is a fair question, but as a first-pass overview or a way to decide what's worth reading in full, it's a genuinely useful study trick.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/tech/959778/google-notebooklm-ai-clips",
+    "published_at": "2026-06-30",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-as-tutor",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "multimodal"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-06",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_c25220",
+      "slug": "ai-as-a-tutor",
+      "type": "concept",
+      "title": "AI as a Tutor",
+      "hook": "A chatbot is a tutor with infinite patience: ask it to explain anything five different ways at any level, with no judgment. Just remember it can be confidently wrong.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_85a07e",
+      "slug": "ai-that-sees-and-hears",
+      "type": "concept",
+      "title": "AI That Sees \u0026 Hears",
+      "hook": "Early chatbots only read and wrote text. Today's AI is 'multimodal' — one system can look at a photo, listen to your voice, and reply in words or pictures, the way people switch senses.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4f615f#0",
+      "format": "quiz",
+      "prompt": "What does NotebookLM's new feature generate from your uploaded documents?",
+      "choices": [
+        {
+          "text": "A 60-second, vertical AI video summary",
+          "correct": true
+        },
+        {
+          "text": "A full slide deck",
+          "correct": false
+        },
+        {
+          "text": "A printed report",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe new feature condenses your uploaded sources into a short, vertical-format\nAI-generated video clip, similar in style to a TikTok.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4f615f#1",
+      "format": "flip",
+      "prompt": "Who can use this new AI video feature right now?",
+      "back_html": "\u003cp\u003eGoogle AI Ultra and Pro subscribers, as the feature rolls out.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4f615f#2",
+      "format": "flip",
+      "prompt": "What older NotebookLM feature does this echo, in audio form?",
+      "back_html": "\u003cp\u003eNotebookLM already turned uploaded sources into a podcast-style audio\nconversation — this extends that same idea to short video.\u003c/p\u003e"
+    }
+  ]
+}

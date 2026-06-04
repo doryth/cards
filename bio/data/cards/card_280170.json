@@ -1,0 +1,109 @@
+{
+  "id": "card_280170",
+  "slug": "proteins-the-workhorses",
+  "type": "concept",
+  "title": "Proteins: The Cell's Workhorses",
+  "hook": "Strings of amino acids fold into intricate shapes that become almost every working machine in the cell — from enzymes to muscle.",
+  "key_points": [
+    "Proteins are chains of amino acids, drawn from a standard set of about 20 building blocks.",
+    "The order of amino acids is dictated by genes and determines how the chain folds.",
+    "A protein's folded 3-D shape decides what it can do — shape is function.",
+    "Proteins do nearly all the cell's work: speeding reactions, moving cargo, signaling, and building structure."
+  ],
+  "content_html": "\u003cp\u003eIf carbohydrates and fats are fuel and nucleic acids are information, proteins are the doers. They speed up chemical reactions, haul cargo across the cell, hold tissues together, carry signals, and defend against invaders. Yet every one of these machines is made the same way: a chain of amino acids folded into a precise shape.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs the NIH National Human Genome Research Institute glossary explains, a protein is a chain assembled from about \u003cstrong\u003e20 different amino acids\u003c/strong\u003e, and the sequence of those amino acids is spelled out by a gene. That sequence is not random: it causes the chain to fold into a specific three-dimensional shape, and the shape is what gives the protein its function — a pocket that grips one molecule, a fiber that bears tension, a flexible hinge that pumps ions. Change the sequence and you change the fold; change the fold and you change, or break, the job. This is why a single misspelled amino acid can cause disease, and why proteins, more than any other molecule, carry out the day-to-day work of being alive.\u003c/p\u003e",
+  "source": {
+    "name": "NIH National Human Genome Research Institute",
+    "url": "https://www.genome.gov/genetics-glossary/Protein",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "molecules-of-life"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_56a3a0",
+      "slug": "the-molecules-of-life",
+      "type": "concept",
+      "title": "The Molecules of Life",
+      "hook": "Almost everything in a living cell is built from just four families of large molecules — carbohydrates, lipids, proteins, and nucleic acids.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_88ba5a",
+      "slug": "from-dna-to-protein",
+      "type": "concept",
+      "title": "From DNA to Protein: The Central Dogma",
+      "hook": "Your DNA is a recipe book locked in the nucleus — so the cell copies a single recipe to RNA, carries it out, and reads it to build a protein.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9d1582",
+      "slug": "enzymes",
+      "type": "concept",
+      "title": "Enzymes: Life's Catalysts",
+      "hook": "The chemical reactions that keep you alive would crawl too slowly to matter — enzymes speed them up millions of times without being used up themselves.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_280170#0",
+      "format": "flip",
+      "prompt": "What are proteins built from, and what sets one protein apart from another?",
+      "back_html": "\u003cp\u003eProteins are chains of \u003cstrong\u003eamino acids\u003c/strong\u003e drawn from a set of about 20. What\ndistinguishes one protein from another is the \u003cstrong\u003eorder\u003c/strong\u003e of those amino acids,\nwhich determines how the chain folds.\u003c/p\u003e"
+    },
+    {
+      "id": "card_280170#1",
+      "format": "quiz",
+      "prompt": "What determines a protein's specific function?",
+      "choices": [
+        {
+          "text": "Its folded three-dimensional shape",
+          "correct": true
+        },
+        {
+          "text": "Its color under a microscope",
+          "correct": false
+        },
+        {
+          "text": "How recently it was made",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA protein's job depends on its \u003cstrong\u003e3-D shape\u003c/strong\u003e. The amino acid sequence folds into\na precise structure, and that structure determines what the protein can bind to\nand do — shape is function.\u003c/p\u003e"
+    },
+    {
+      "id": "card_280170#2",
+      "format": "quiz",
+      "prompt": "Which of these is a job done by proteins in the cell?",
+      "choices": [
+        {
+          "text": "Speeding up chemical reactions as enzymes",
+          "correct": true
+        },
+        {
+          "text": "Storing the cell's genetic blueprint",
+          "correct": false
+        },
+        {
+          "text": "Serving as the cell's main long-term fuel reserve",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProteins are the cell's \u003cstrong\u003eworkhorses\u003c/strong\u003e: enzymes that speed reactions, motors and\ntransporters, structural fibers, and signals. (Genes store the blueprint; fats\nhandle long-term fuel.)\u003c/p\u003e"
+    }
+  ]
+}

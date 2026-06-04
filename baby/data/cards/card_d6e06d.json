@@ -1,0 +1,102 @@
+{
+  "id": "card_d6e06d",
+  "slug": "safe-sleep-environment",
+  "type": "concept",
+  "title": "A Safe Sleep Space for Baby",
+  "hook": "Pediatric guidance for safer infant sleep is simple: a firm, flat surface with nothing in it — no pillows, blankets, bumpers, or soft toys.",
+  "key_points": [
+    "Use a firm, flat sleep surface (crib, bassinet, or play yard) that meets current safety standards.",
+    "Keep the space bare: no soft bedding, pillows, crib bumpers, or stuffed animals near a sleeping baby.",
+    "Room-sharing without bed-sharing — baby in their own crib in the parents' room — is recommended for at least the first 6 months.",
+    "Avoid overheating; dress the baby in light layers and skip loose blankets, using a sleep sack if needed."
+  ],
+  "content_html": "\u003cp\u003eWhere a baby sleeps matters as much as how you lay them down. The pediatric advice for a safer sleep space is reassuringly minimalist: a firm, flat surface — a crib, bassinet, or play yard meeting current safety standards — with nothing else in it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat means no pillows, no loose blankets, no crib bumpers, and no stuffed animals near a sleeping baby, all of which raise the risk of suffocation. The AAP also recommends room-sharing without bed-sharing for at least the first six months: the baby sleeps in their own crib in the parents' room, not in the adult bed. To avoid overheating, dress the baby in light layers and use a wearable sleep sack rather than loose covers. This is general guidance; your pediatrician can help with specific questions about your baby's sleep.\u003c/p\u003e",
+  "source": {
+    "name": "AAP — HealthyChildren.org",
+    "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx",
+    "license": "© American Academy of Pediatrics"
+  },
+  "topic_ids": [
+    "sleep",
+    "newborn"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_c8238d",
+      "slug": "back-to-sleep",
+      "type": "concept",
+      "title": "Always Put a Baby to Sleep on Their Back",
+      "hook": "Placing healthy babies on their back for every sleep — naps and night — is the single most effective step to reduce the risk of sudden infant death syndrome (SIDS).",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a5df1f",
+      "slug": "secondhand-smoke-and-sids",
+      "type": "concept",
+      "title": "A Smoke-Free World Is Safer for Babies",
+      "hook": "Keeping a baby away from smoke is one of the few SIDS risk factors parents fully control — and it also means fewer chest infections, ear infections, and asthma flare-ups.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d6e06d#0",
+      "format": "quiz",
+      "prompt": "What belongs in a safe infant sleep space?",
+      "choices": [
+        {
+          "text": "Nothing but the baby on a firm, flat surface",
+          "correct": true
+        },
+        {
+          "text": "A soft pillow and a cozy blanket",
+          "correct": false
+        },
+        {
+          "text": "Crib bumpers and a few stuffed animals",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA firm, flat, bare surface lowers suffocation and SIDS risk. Soft bedding,\npillows, bumpers, and toys should be kept out of the sleep space.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d6e06d#1",
+      "format": "flip",
+      "prompt": "What sleep arrangement does the AAP recommend for at least the first 6 months?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eRoom-sharing without bed-sharing\u003c/strong\u003e — the baby sleeps in their own crib\nor bassinet in the parents' room, not in the adult bed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d6e06d#2",
+      "format": "quiz",
+      "prompt": "How should you keep a baby from overheating during sleep?",
+      "choices": [
+        {
+          "text": "Light layers and a sleep sack instead of loose blankets",
+          "correct": true
+        },
+        {
+          "text": "A thick duvet tucked in tightly",
+          "correct": false
+        },
+        {
+          "text": "A warm hat indoors at all times",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLoose blankets are a hazard and overheating raises risk. Light layers or a\nwearable sleep sack keep the baby warm without loose bedding.\u003c/p\u003e"
+    }
+  ]
+}

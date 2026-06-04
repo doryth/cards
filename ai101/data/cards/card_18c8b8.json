@@ -1,0 +1,100 @@
+{
+  "id": "card_18c8b8",
+  "slug": "instagram-ai-profile-labels",
+  "type": "news",
+  "title": "Instagram Renamed Its AI Label So People Would Actually Get It",
+  "hook": "'AI creator' sounded like a job title. 'AI-generated profile' says what it means — the person in the photos does not exist.",
+  "key_points": [
+    "Instagram is acting against fake AI-influencer accounts that pose as real people, per The Verge.",
+    "The 'AI creator' label is being renamed 'AI-generated profile' to remove the ambiguity.",
+    "'AI creator' read as a human who makes AI content; the new wording says the persona itself is synthetic.",
+    "Meta said people don't like discovering a profile is fake after the fact.",
+    "The label is account-level — it flags the persona, not each individual post.",
+    "Labels only catch accounts that get labeled; undisclosed fakes still rely on your own judgment."
+  ],
+  "content_html": "\u003cp\u003eInstagram is moving against fake AI-influencer accounts — profiles built around a person who doesn't exist, which have gotten steadily harder to spot. Alongside enforcement, it's changing what the disclosure actually says: the \u0026quot;AI creator\u0026quot; label becomes \u0026quot;AI-generated profile.\u0026quot;\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat rename does more work than it looks like. On social platforms \u0026quot;creator\u0026quot; is a job description, so \u0026quot;AI creator\u0026quot; parsed naturally as \u003cem\u003ea human being who makes AI stuff\u003c/em\u003e — which is a completely different thing from \u003cem\u003ethe human in these photos is not real\u003c/em\u003e. Meta's own explanation, per The Verge, is that people don't like finding out after the fact that a profile they'd been following was synthetic.\u003c/p\u003e\n\u003cp\u003eThe useful lesson generalizes past Instagram. Labels are only as good as the words on them, and only work on content that gets labeled. This one is account-level: it tags the persona, not each post, and it does nothing about a fake account that slipped through undisclosed. Platform disclosure is a floor, not a substitute for noticing when an account's photos are a little too flawless and its comments a little too generic.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Thomas Ricker"
+    ],
+    "url": "https://theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+    "published_at": "2026-08-31",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-and-truth",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-08-31",
+  "related": [
+    {
+      "id": "card_7a965e",
+      "slug": "ai-creators-harder-to-spot",
+      "type": "news",
+      "title": "AI 'Creators' Are Getting Harder to Spot",
+      "hook": "AI influencers used to be easy to clock — too-smooth skin, an uncanny stare. The tells are vanishing, and fully synthetic 'creators' now slip into feeds without announcing themselves.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-07"
+    },
+    {
+      "id": "card_11daca",
+      "slug": "spotify-ai-persona-labels",
+      "type": "news",
+      "title": "Spotify Will Badge AI Artists — and Stop Recommending Them",
+      "hook": "From mid-September, artists that 'do not represent a real person' get an AI Persona badge, and Spotify keeps them out of your recommendations. Labeling plus demotion, not a ban.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_18c8b8#0",
+      "format": "quiz",
+      "prompt": "Why was 'AI creator' a confusing label for a synthetic influencer account?",
+      "choices": [
+        {
+          "text": "It read like a human who makes AI content, rather than a persona that isn't a person",
+          "correct": true
+        },
+        {
+          "text": "It implied the account was owned by an AI company",
+          "correct": false
+        },
+        {
+          "text": "It suggested every post had been fact-checked",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u0026quot;Creator\u0026quot; is a job title on social platforms, so the old label sounded like a\nprofession. \u0026quot;AI-generated profile\u0026quot; states plainly that the persona is synthetic.\u003c/p\u003e"
+    },
+    {
+      "id": "card_18c8b8#1",
+      "format": "flip",
+      "prompt": "What does an account-level AI label tell you — and what doesn't it?",
+      "back_html": "\u003cp\u003eIt says the persona is synthetic. It doesn't vet individual posts, and it can't\nflag the fake accounts that were never labeled in the first place.\u003c/p\u003e"
+    }
+  ]
+}

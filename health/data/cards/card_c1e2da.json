@@ -1,0 +1,95 @@
+{
+  "id": "card_c1e2da",
+  "slug": "record-summer-foodborne-illness",
+  "type": "news",
+  "title": "A Record Summer for Foodborne Illness",
+  "hook": "Cyclosporiasis cases topped 10,000 and the CDC traced a fresh salmonella outbreak to imported jalapeños. Heat plus tainted produce made 2026 a record year.",
+  "key_points": [
+    "Cyclosporiasis cases have passed 10,000 — a record for a single season.",
+    "The CDC traced a new salmonella outbreak to jalapeños imported from Mexico.",
+    "Heat is part of the story: warmth speeds bacterial growth along the supply chain.",
+    "Fresh produce, not just meat, is behind much of this year's illness.",
+    "Washing produce helps but does not reliably remove cyclospora or internalized bacteria."
+  ],
+  "content_html": "\u003cp\u003eCyclosporiasis cases have topped 10,000 this season, and the CDC has just traced a new salmonella outbreak to jalapeños imported from Mexico. By the numbers, 2026 is a record summer for foodborne illness.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs NPR's Yuki Noguchi reports, two things are converging. Heat accelerates bacterial growth at every stage between field and plate, and a growing share of outbreaks now trace to fresh produce rather than the meat and eggs people instinctively worry about. Produce is the harder problem precisely because it is eaten raw — there is no cooking step to fall back on.\u003c/p\u003e\n\u003cp\u003eThe consumer-side advice is real but limited: rinse produce, keep cold things cold, and pay attention to recall notices for items already in your fridge. Washing does not reliably remove cyclospora, which clings tightly, or bacteria that have made it inside the plant. Most of the protection has to come upstream, from growing and handling practices — which is why the outbreak investigations themselves matter.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Yuki Noguchi"
+    ],
+    "url": "https://npr.org/2026/08/09/nx-s1-5923912/its-been-a-record-summer-for-foodborne-illness",
+    "published_at": "2026-08-09",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "family-wellness",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-09",
+  "related": [
+    {
+      "id": "card_e017d2",
+      "slug": "cyclosporiasis-outbreak-2026",
+      "type": "news",
+      "title": "A Record Cyclospora Outbreak With an Elusive Source",
+      "hook": "A Cyclospora outbreak has now topped 4,100 cases — a U.S. record — even after the FDA retracted its lone positive lab test, leaving Taylor Farms lettuce as the prime suspect on epidemiology alone.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "card_a0a6ec",
+      "slug": "food-safety-at-home",
+      "type": "concept",
+      "title": "Food Safety at Home",
+      "hook": "Most food poisoning starts in an ordinary kitchen. Four simple habits — clean, separate, cook, chill — prevent the great majority of it.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e1cb95",
+      "slug": "raw-milk-outbreak-idaho",
+      "type": "news",
+      "title": "Raw Milk Sickened More Than 100 People in Idaho",
+      "hook": "While cyclospora took the headlines, unpasteurized milk quietly sent an Idaho outbreak past 100 cases — a reminder of what pasteurization is actually for.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c1e2da#0",
+      "format": "flip",
+      "prompt": "Why has fresh produce driven so much of this summer's foodborne illness?",
+      "back_html": "\u003cp\u003eProduce is eaten raw, so there is no cooking step to kill pathogens — and heat\nalong the supply chain speeds bacterial growth. This year cyclospora on produce\npassed 10,000 cases and salmonella was traced to imported jalapeños.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c1e2da#1",
+      "format": "quiz",
+      "prompt": "Does washing produce reliably prevent these infections?",
+      "choices": [
+        {
+          "text": "No — it helps, but won't reliably remove cyclospora or bacteria inside the plant",
+          "correct": true
+        },
+        {
+          "text": "Yes, a rinse under cold water removes essentially all risk",
+          "correct": false
+        },
+        {
+          "text": "Only if you use soap on the produce",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWashing is worth doing, but cyclospora clings tightly and some bacteria end up\ninternalized in the plant, so rinsing is not a guarantee. (Soap on produce is not\nrecommended.) Contamination has to be prevented upstream.\u003c/p\u003e"
+    }
+  ]
+}

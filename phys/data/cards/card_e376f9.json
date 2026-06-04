@@ -1,0 +1,103 @@
+{
+  "id": "card_e376f9",
+  "slug": "geometric-proof-of-keplers-first-law",
+  "type": "paper",
+  "title": "Why Orbits Are Ellipses, Geometrically",
+  "hook": "Newton's inverse-square law implies planets trace conic sections. Most proofs are a calculus slog — this one finds a constant ratio hiding in the velocity and lets geometry finish the job.",
+  "key_points": [
+    "Kepler's first law says a planet's orbit is a conic section with the Sun at one focus.",
+    "The proof introduces a 'velocity projection ratio': the radial part of the velocity divided by its projection along a fixed direction parallel to the periapsis line.",
+    "That ratio is constant, and its constancy follows directly from Newton's laws.",
+    "A constant ratio of distances is exactly the classical focus–directrix definition of a conic.",
+    "So the conic shape of orbits falls out of the inverse-square law with no heavy machinery."
+  ],
+  "content_html": "\u003cp\u003eKepler found empirically that planets move on ellipses with the Sun at a focus. Newton showed why: an inverse-square attraction produces conic-section orbits. The standard derivation, though, is a differential-equation exercise — you change variables, integrate, and an ellipse pops out of the algebra without much sense of why.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHyouggyu Choi offers a route that keeps the geometry visible. The key is a quantity the paper calls the velocity projection ratio: divide the radial component of the planet's velocity by its component along a fixed direction parallel to the periapsis line. Newton's laws make that ratio constant. And a curve on which a certain ratio of distances stays fixed is, by the classical Greek definition, a conic section with a focus and a directrix. Two steps, no integration — and the payoff is conceptual: the conic nature of orbits stops looking like an accident of the calculus and starts looking like what the inverse-square law is geometrically \u003cem\u003eabout\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Hyouggyu Choi"
+    ],
+    "url": "https://arxiv.org/abs/2608.18537",
+    "published_at": "2026-08-19",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "gravity-orbits"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_de7edd",
+      "slug": "why-everything-falls-at-the-same-rate",
+      "type": "concept",
+      "title": "Why Everything Falls at the Same Rate",
+      "hook": "Drop a hammer and a feather together in a vacuum and they hit the ground at the same instant. Gravity doesn't care how heavy you are — and that fact runs surprisingly deep.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e376f9#0",
+      "format": "flip",
+      "prompt": "What is the 'velocity projection ratio' in this proof?",
+      "back_html": "\u003cp\u003eThe ratio of the \u003cstrong\u003eradial projection of a planet's velocity\u003c/strong\u003e to its projection onto a\nfixed direction parallel to the periapsis line. Newton's laws force this ratio to be\nconstant.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e376f9#1",
+      "format": "quiz",
+      "prompt": "Why does a constant velocity projection ratio give you Kepler's first law?",
+      "choices": [
+        {
+          "text": "A constant ratio of distances is the focus–directrix definition of a conic section",
+          "correct": true
+        },
+        {
+          "text": "It shows angular momentum is conserved, which forces a circle",
+          "correct": false
+        },
+        {
+          "text": "It proves the orbital period depends only on the semi-major axis",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eConics can be \u003cem\u003edefined\u003c/em\u003e geometrically as the curves with a fixed distance ratio to a\nfocus and a directrix. The constant ratio delivers exactly that property, so the orbit\nis a conic.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e376f9#2",
+      "format": "flip",
+      "prompt": "What does this proof reveal about the relationship between the inverse-square law and conic orbits?",
+      "back_html": "\u003cp\u003eThe conic shape is an \u003cstrong\u003einevitable consequence\u003c/strong\u003e of the inverse-square law — not a\ncoincidence you discover after integrating, but a direct geometric implication.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "card_97bae5",
+  "slug": "million-gate-decoder-on-one-cpu",
+  "type": "paper",
+  "title": "A Million Quantum Gates, Decoded on a Laptop-Class CPU",
+  "hook": "Error correction has to keep up with the quantum computer in real time or the machine stalls. A new decoding stack handles a million-gate workload on one ordinary CPU.",
+  "key_points": [
+    "A fault-tolerant machine measures error syndromes constantly; software must interpret them faster than they arrive or the computation backs up.",
+    "Earlier real-time decoders handled a quantum memory or a handful of logical operations, not a full application.",
+    "This end-to-end stack decodes every logical qubit, the logical operations, and the magic-state factories, plus on-the-fly detector error model generation.",
+    "Benchmarked on trapped-ion workloads up to 408 logical qubits and one million T gates.",
+    "At a CNOT error rate of 1e-4, decoding stretched the computation by under 0.3%; at 5e-4, under 12%.",
+    "Everything ran on a single conventional CPU, suggesting decoding need not be the scaling bottleneck at MegaQuOp scale."
+  ],
+  "content_html": "\u003cp\u003eEvery fault-tolerant quantum computer runs a second computer alongside it. As the quantum processor executes, it repeatedly measures error syndromes — hints about which errors have struck — and a classical decoder must turn that stream into corrections. Because later logical operations depend on those decoded results, the decoder has to keep pace in real time. If it falls behind, the backlog stretches the computation, and the hardware idles.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eYe, Maksymov and Delfosse report an end-to-end real-time decoding stack for a universal fault-tolerant trapped-ion architecture, aimed squarely at the \u0026quot;MegaQuOp\u0026quot; regime of machines running millions of gates. Where previous demonstrations decoded a quantum memory or a small number of logical operations, this pipeline covers the whole system: generating the detector error model on the fly, decoding all logical qubits, decoding the logical operations, and handling the magic-state factories that supply non-Clifford gates.\u003c/p\u003e\n\u003cp\u003eThey benchmark it on quantum applications spanning up to 408 logical qubits and up to one million T gates. Assuming a trapped-ion cycle time of 1–5 ms, the decoding delay stretches the computation by less than 0.3% at a CNOT error rate of 1e-4, and less than 12% at 5e-4, across every workload studied. The striking part is the hardware budget: the entire stack runs on a single conventional CPU. That reframes a common worry — that classical decoding infrastructure would balloon alongside the quantum machine — at least for the architecture and error rates considered here.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Min Ye",
+      "Andrii Maksymov",
+      "Nicolas Delfosse"
+    ],
+    "url": "https://arxiv.org/abs/2608.25027",
+    "published_at": "2026-08-25",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_b6cd84",
+      "slug": "ai-scientist-designs-error-correcting-codes",
+      "type": "paper",
+      "title": "An AI That Invents Quantum Error-Correcting Codes",
+      "hook": "Designing a good quantum code means balancing code structure, hardware layout, syndrome extraction and decoding at once. An LLM-driven search now beats the standard codes at equal qubit budgets.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "card_0a3bcb",
+      "slug": "more-gates-can-mean-fewer-errors",
+      "type": "paper",
+      "title": "When More Gates Means Fewer Errors",
+      "hook": "The textbook-optimal Toffoli gate uses six two-qubit gates. On a real chip where qubits only talk to neighbours, an eight-gate version wins — hardware layout can reverse which circuit is better.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-21"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80bcaa",
+      "slug": "scale-up-or-scale-out-quantum",
+      "type": "paper",
+      "title": "Quantum Computers Face the Scale-Up vs Scale-Out Choice",
+      "hook": "Datacentres learned to scale out by networking many machines. For quantum processors that choice costs dearly — a stress test finds distributed designs pay up to an exponential space-time penalty.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-20"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_97bae5#0",
+      "format": "quiz",
+      "prompt": "Why must a decoder run in *real time* rather than after the computation finishes?",
+      "choices": [
+        {
+          "text": "Later operations depend on decoded results, so a slow decoder makes the machine wait and stretches the run",
+          "correct": true
+        },
+        {
+          "text": "Syndrome measurements are erased from memory the instant they are taken",
+          "correct": false
+        },
+        {
+          "text": "Decoding after the fact would give the wrong answer mathematically",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFault-tolerant circuits branch on decoded outcomes. If decoding lags behind syndrome\ngeneration, the backlog grows and the whole computation is stretched.\u003c/p\u003e"
+    },
+    {
+      "id": "card_97bae5#1",
+      "format": "flip",
+      "prompt": "What does 'MegaQuOp' refer to?",
+      "back_html": "\u003cp\u003eA quantum computer executing on the order of a \u003cstrong\u003emillion quantum operations\u003c/strong\u003e — the\nscale where useful workloads start, and where decoding throughput becomes critical.\u003c/p\u003e"
+    },
+    {
+      "id": "card_97bae5#2",
+      "format": "quiz",
+      "prompt": "What happened to the decoding overhead as the physical CNOT error rate rose from 1e-4 to 5e-4?",
+      "choices": [
+        {
+          "text": "It grew from under 0.3% to under 12% of the runtime",
+          "correct": true
+        },
+        {
+          "text": "It stayed essentially flat, because decoding cost is error-independent",
+          "correct": false
+        },
+        {
+          "text": "It fell, because noisier syndromes are faster to interpret",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMore physical errors mean more syndrome defects to match, so the decoder works harder —\nthe overhead is sensitive to the underlying hardware error rate.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "card_22b3a7",
+  "slug": "leptoquark-search-muon-quark",
+  "type": "paper",
+  "title": "CMS Hunts a New Particle Using Muons Hiding Inside Protons",
+  "hook": "A proton is not just quarks and gluons — quantum fluctuations briefly conjure muons inside it. CMS used those fleeting muons to search for a particle that blurs quarks and leptons.",
+  "key_points": [
+    "Leptoquarks are hypothetical particles that couple quarks and leptons directly, which the Standard Model has no room for.",
+    "Quantum fluctuations inside a proton generate charged-lepton components, so a muon from one proton can collide with a quark from the other.",
+    "That makes a single leptoquark producible on resonance - a first for LHC searches, which usually make them in pairs.",
+    "The signature is one or two muons plus a jet; the muon-jet invariant mass would peak at the leptoquark's mass.",
+    "CMS found no excess in 138 fb^-1 of 13 TeV data, excluding masses from 1.5 to 3.6 TeV over a broad range of couplings."
+  ],
+  "content_html": "\u003cp\u003eThe Standard Model sorts matter into two tidy families — quarks, which feel the strong force and build protons, and leptons like the electron and muon, which do not. Nothing in the theory connects them directly. A leptoquark would: a single particle carrying both quark and lepton charge, coupling the two families together. It shows up in many grand unified theories, and no experiment has ever seen one.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe usual way to look is pair production: make two leptoquarks from a quark-gluon collision, which is straightforward but expensive in energy. The CMS collaboration tried something different in this analysis of 138 fb⁻¹ of 13 TeV proton-proton data. A proton is not a static bag of three quarks; it is a churning cloud of virtual particles, and quantum fluctuations transiently produce charged leptons inside it. That means a muon from one incoming proton can strike a quark from the other — and produce a \u003cem\u003esingle\u003c/em\u003e leptoquark on resonance, which is far cheaper energetically and reaches higher masses.\u003c/p\u003e\n\u003cp\u003eThe final state is one or two muons plus a jet, from either a light quark or a b quark, and the tell would be a peak in the muon-jet invariant mass. The data matched background predictions, so CMS set upper limits instead. Those limits improve on previous CMS searches, extending coverage to leptoquark masses between 1.5 and 3.6 TeV at couplings from 0.2 to 0.6 in the up-quark scenario, and above 1.8 TeV for b-quark couplings above 1. No discovery — but a genuinely new production channel to keep exploiting.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "CMS Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2608.28377",
+    "published_at": "2026-08-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ab5171",
+      "slug": "the-higgs-boson",
+      "type": "concept",
+      "title": "The Higgs Boson",
+      "hook": "An invisible field fills all of space, and the harder a particle drags through it, the more mass it has. Finding the ripple that proved it took 50 years and the world's biggest machine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3206bb",
+      "slug": "how-many-elementary-particles",
+      "type": "news",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "hook": "Count the Standard Model's particles and you might say 17 — but tweak the rules and the tally climbs past 900, with one rigorous answer that isn't even a whole number.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-15"
+    },
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_22b3a7#0",
+      "format": "flip",
+      "prompt": "What is a leptoquark, and why would finding one matter?",
+      "back_html": "\u003cp\u003eA hypothetical particle that couples directly to both a quark and a lepton. The Standard\nModel keeps quarks and leptons in separate families with no such link, so a leptoquark\nwould be unambiguous physics beyond it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_22b3a7#1",
+      "format": "quiz",
+      "prompt": "How can a muon-quark collision happen at a proton-proton collider?",
+      "choices": [
+        {
+          "text": "Quantum fluctuations inside a proton briefly generate charged-lepton components, so one proton can supply a muon",
+          "correct": true
+        },
+        {
+          "text": "The LHC injects muon beams alongside the protons",
+          "correct": false
+        },
+        {
+          "text": "Protons decay into muons just before collision",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA proton is a seething mix of virtual particles, including transient charged leptons. A\nmuon from one proton can meet a quark from the other — enabling resonant production of a\nsingle leptoquark rather than a pair.\u003c/p\u003e"
+    },
+    {
+      "id": "card_22b3a7#2",
+      "format": "flip",
+      "prompt": "What observable would reveal a leptoquark in this search?",
+      "back_html": "\u003cp\u003eThe invariant mass of the muon-jet system. A real leptoquark decaying to a muon and a\nquark would produce a peak in that distribution at its own mass. CMS saw none.\u003c/p\u003e"
+    }
+  ]
+}

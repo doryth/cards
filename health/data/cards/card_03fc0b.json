@@ -1,0 +1,89 @@
+{
+  "id": "card_03fc0b",
+  "slug": "reading-a-nutrition-label",
+  "type": "concept",
+  "title": "How to Read a Nutrition Label",
+  "hook": "The Nutrition Facts label is a cheat sheet hiding in plain sight — learn the few lines that matter and you can size up any packaged food in seconds.",
+  "key_points": [
+    "Start at the top: the serving size sets everything else — numbers are per serving, not per package.",
+    "Use the % Daily Value as a quick gauge: 5% or less is low, 20% or more is high.",
+    "Aim to limit saturated fat, sodium, and added sugars; look for more fiber, vitamins, and minerals.",
+    "Calories tell you the energy per serving — weigh it against how much you'll actually eat."
+  ],
+  "content_html": "\u003cp\u003eThat little black-and-white box on packaged food is more useful than it looks. The FDA's Nutrition Facts label is designed so you can compare two products or check one in a few seconds — if you know where to look first.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe FDA recommends starting at the very top with the serving size, because everything below is measured per serving — and a single package often contains more than one. Next, the % Daily Value (%DV) lets you judge whether a serving is high or low in a nutrient without doing math: 5% or less is low, 20% or more is high. Use that to keep saturated fat, sodium, and added sugars down, and to favor foods higher in fiber, vitamin D, calcium, iron, and potassium. Calories sit near the top as a measure of energy per serving. The label rewards a glance once you know its grammar; the trick is simply reading it in the right order.\u003c/p\u003e",
+  "source": {
+    "name": "U.S. Food \u0026 Drug Administration",
+    "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+    "license": "Public domain (U.S. Food \u0026 Drug Administration)"
+  },
+  "topic_ids": [
+    "nutrition"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ec190a",
+      "slug": "building-a-balanced-plate",
+      "type": "concept",
+      "title": "Building a Balanced Plate",
+      "hook": "Forget counting every calorie — the simplest healthy-eating tool is a picture of a plate: half produce, a quarter grains, a quarter protein.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c9a83f",
+      "slug": "nutritional-dark-matter",
+      "type": "news",
+      "title": "The 'Dark Matter' Hiding in Your Food",
+      "hook": "A nutrition label lists a few dozen things; your food holds thousands. Scientists call the rest 'nutritional dark matter' — and it may shape disease, aging, and why diets affect people so differently.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "card_5ece85",
+      "slug": "avocado-oil-adulteration",
+      "type": "news",
+      "title": "Most 'Avocado Oil' Products Aren't Really Avocado Oil",
+      "hook": "UC Davis testers bought avocado-oil chips, dressings, and mayo off the shelf — most failed purity testing, cut with cheaper seed oils that cost a fraction of the real thing.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-20"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_03fc0b#0",
+      "format": "flip",
+      "prompt": "Why is serving size the first thing to check on a label?",
+      "back_html": "\u003cp\u003eEvery other number — calories, fat, sugar — is \u003cstrong\u003eper serving\u003c/strong\u003e. A package may\nhold several servings, so the real amount can be a multiple of what's listed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_03fc0b#1",
+      "format": "quiz",
+      "prompt": "On the % Daily Value scale, what counts as a 'high' amount of a nutrient?",
+      "choices": [
+        {
+          "text": "20% or more",
+          "correct": true
+        },
+        {
+          "text": "Exactly 50%",
+          "correct": false
+        },
+        {
+          "text": "5% or less",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe FDA's rule of thumb: 5% DV or less is low, and 20% DV or more is high —\nhandy for quickly comparing products.\u003c/p\u003e"
+    }
+  ]
+}

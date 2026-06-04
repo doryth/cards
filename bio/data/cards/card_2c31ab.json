@@ -1,0 +1,112 @@
+{
+  "id": "card_2c31ab",
+  "slug": "ai-reads-genes-from-tissue-slides",
+  "type": "paper",
+  "title": "Reading a Tumor's Genes From an Ordinary Microscope Slide",
+  "hook": "RNA sequencing reveals which genes are active in a tumor but is expensive and rare; a new AI model predicts much of that activity from the routine stained slide every biopsy already produces.",
+  "key_points": [
+    "Standard H\u0026E-stained tissue slides are cheap and common, but show shape, not gene activity.",
+    "RNA sequencing reveals gene activity directly but is costly and not run on most patient samples.",
+    "A lightweight AI module links existing image and RNA-sequencing AI models, letting a gene-activity 'question' be asked of a plain slide image.",
+    "Predictions were most accurate for gene programs with a visible physical footprint, like cell division or immune activity.",
+    "Tested on a real lung-cancer clinical trial, image-based predictions matched known cancer subtypes and immune markers."
+  ],
+  "content_html": "\u003cp\u003eA biopsy almost always produces one thing: a thin slice of tissue stained and mounted on a slide, the workhorse image every pathologist reads under a microscope. What it doesn't show directly is which genes are switched on inside those cells — for that, you'd normally need RNA sequencing, a slower and far more expensive test most patients never get.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers built a lightweight AI module that bridges two existing AI systems — one trained on pathology images, one trained on RNA-sequencing data — so a plain slide image can be \u0026quot;asked\u0026quot; whether a particular gene-activity pattern is present, without sequencing anything. Trained on a multi-cancer set of over 1,700 samples, the approach was far better at retrieving the right molecular pattern than earlier attempts, though accuracy varied: gene programs that leave a visible mark on tissue structure, like cell division or immune-cell activity, were predicted reliably, while programs invisible to the eye remained harder. Critically, the team validated it on real patients from the POSEIDON lung-cancer clinical trial, where image-based predictions correctly tracked known cancer subtypes and mirrored an established immune marker — a sign this could extend molecular-level insight to the much larger pool of patients who are biopsied but never sequenced.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Dominik Winter",
+      "Dominik Vonficht",
+      "Loïc Le Bescond",
+      "Christian Gebbe",
+      "Marco Rosati",
+      "Richard J. Chen",
+      "Markus Schick",
+      "Ross Stewart",
+      "Nicolas Brieu"
+    ],
+    "url": "https://arxiv.org/abs/2606.29949",
+    "published_at": "2026-06-29",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "biotechnology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_e0bc83",
+      "slug": "dna-sequencing-and-the-genome",
+      "type": "concept",
+      "title": "DNA Sequencing and the Genome",
+      "hook": "Sequencing reads the exact order of the letters in DNA — and the Human Genome Project read all 3 billion of ours for the first time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ba0985",
+      "slug": "what-is-biotechnology",
+      "type": "concept",
+      "title": "What Is Biotechnology?",
+      "hook": "From cheese and beer to insulin and vaccines, biotechnology puts living things — or their molecular parts — to work making products we need.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2c31ab#0",
+      "format": "flip",
+      "prompt": "Why is predicting gene activity from a microscope slide useful, given RNA sequencing already exists?",
+      "back_html": "\u003cp\u003eSlide images (H\u0026amp;E stains) are \u003cstrong\u003echeap and already collected\u003c/strong\u003e for nearly every biopsy,\nwhile RNA sequencing is expensive and only run for a fraction of patients. Predicting\ngene activity from the slide extends molecular insight to cases that never get sequenced.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2c31ab#1",
+      "format": "quiz",
+      "prompt": "Which kind of gene activity was the AI best at predicting from tissue images?",
+      "choices": [
+        {
+          "text": "Gene programs with a visible physical footprint, like cell division or immune activity",
+          "correct": true
+        },
+        {
+          "text": "Every gene program equally well, regardless of appearance under the microscope",
+          "correct": false
+        },
+        {
+          "text": "Only genes that happen to sit on the same chromosome",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study found a 'graduated predictability spectrum': programs with a clear\nmorphological signature were predicted reliably; those without one were much harder.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2c31ab#2",
+      "format": "quiz",
+      "prompt": "How did the researchers check that this worked in a real clinical setting?",
+      "choices": [
+        {
+          "text": "By testing it on lung-cancer patients from an actual clinical trial and matching known subtypes and immune markers",
+          "correct": true
+        },
+        {
+          "text": "Only with computer simulations and no real patient samples",
+          "correct": false
+        },
+        {
+          "text": "By having pathologists guess the gene activity instead of using any data",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOn the POSEIDON lung-cancer trial, image-predicted scores recapitulated known cancer\nsubtype identity and mirrored an established immune marker (PD-L1) grouping.\u003c/p\u003e"
+    }
+  ]
+}

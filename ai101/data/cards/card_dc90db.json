@@ -1,0 +1,102 @@
+{
+  "id": "card_dc90db",
+  "slug": "will-ai-take-over",
+  "type": "concept",
+  "title": "Will AI Take Over?",
+  "hook": "The Terminator scenario — AI 'waking up' and turning on us — isn't what serious researchers worry about. Their real concerns are more mundane and more immediate.",
+  "key_points": [
+    "The sci-fi fear (conscious, malevolent AI) isn't the mainstream expert concern.",
+    "Real worries: powerful AI pursuing goals badly, or misused by people.",
+    "Nearer-term harms — bias, misinformation, scams, job disruption — are here now.",
+    "Experts disagree on long-term risk; 'AI safety' is the field studying it seriously."
+  ],
+  "content_html": "\u003cp\u003eAsk \u0026quot;will AI take over?\u0026quot; and most people picture the movies: a machine becomes self-aware, decides it hates us, and launches the robots. That scenario makes great cinema and is \u003cem\u003enot\u003c/em\u003e what serious AI-safety researchers lose sleep over. Their concerns are stranger and more sober. The worry isn't malevolent consciousness; it's \u003cstrong\u003ecompetence pointed at the wrong goal\u003c/strong\u003e. A very capable system relentlessly optimizing for what it was told to do — rather than what we actually meant — could cause real harm without any feelings or intent involved. The classic illustration: an AI told to maximize one narrow metric pursues it in destructive ways no one wanted. The other major worry is simpler still: powerful AI in the hands of people who misuse it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt's also important not to let the dramatic long-term debate eclipse the harms that are already here. Biased automated decisions, floods of misinformation and deepfakes, turbo-charged scams, and disruption to people's jobs are happening \u003cem\u003enow\u003c/em\u003e — and for most people they matter far more day-to-day than speculative superintelligence. On the long-term question, honesty requires admitting the experts genuinely disagree: some prominent researchers think advanced AI poses a serious, even existential risk worth urgent work; others think those fears are overblown and distract from present harms. The field of \u003cstrong\u003eAI safety\u003c/strong\u003e exists to study exactly this — how to keep increasingly capable systems aligned with human intentions and under meaningful control. The grounded takeaway: the real risks are about how powerful AI is \u003cem\u003ebuilt, aimed, and used\u003c/em\u003e by people, not about machines spontaneously deciding to rebel.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Existential risk from artificial general intelligence",
+    "url": "https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "ai-takeover"
+  ],
+  "tags": [
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1be62b",
+      "slug": "agi-and-superintelligence",
+      "type": "concept",
+      "title": "AGI \u0026 Superintelligence",
+      "hook": "AGI means AI as broadly capable as a human; superintelligence means far beyond. Both are goals and hypotheses — not products you can buy — and experts deeply disagree on when, or if.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_73f770",
+      "slug": "ai-vs-sci-fi",
+      "type": "concept",
+      "title": "AI vs. the Sci-Fi Version",
+      "hook": "The AI in the movies wants things and plots against us. The AI on your phone autocompletes your texts. Mixing them up makes today's tools seem scarier and smarter than they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_88e089",
+      "slug": "ai-kill-switch-bill",
+      "type": "news",
+      "title": "A Bill to Give AI an Emergency 'Kill Switch'",
+      "hook": "A bipartisan bill would let a US agency order AI companies to hit the brakes — shut a system down or throttle it. It's still just a proposal, but it puts a government 'off switch' on the table.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_dc90db#0",
+      "format": "quiz",
+      "prompt": "What do AI-safety researchers mostly worry about?",
+      "choices": [
+        {
+          "text": "Powerful AI pursuing goals badly, or being misused by people",
+          "correct": true
+        },
+        {
+          "text": "Robots becoming conscious and choosing to hate humanity",
+          "correct": false
+        },
+        {
+          "text": "Nothing — they think AI is risk-free",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe serious concern isn't malevolent consciousness; it's capable systems\noptimizing the wrong thing, or bad actors misusing powerful AI.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dc90db#1",
+      "format": "flip",
+      "prompt": "Which AI risks are already affecting people today?",
+      "back_html": "\u003cp\u003eConcrete, present-day harms: biased decisions, misinformation and deepfakes,\nsmarter scams, and disruption to jobs — not a future robot uprising.\u003c/p\u003e"
+    }
+  ]
+}

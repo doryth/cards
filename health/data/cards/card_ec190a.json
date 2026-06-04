@@ -1,0 +1,105 @@
+{
+  "id": "card_ec190a",
+  "slug": "building-a-balanced-plate",
+  "type": "concept",
+  "title": "Building a Balanced Plate",
+  "hook": "Forget counting every calorie — the simplest healthy-eating tool is a picture of a plate: half produce, a quarter grains, a quarter protein.",
+  "key_points": [
+    "Fill half your plate with fruits and vegetables — more color and variety is better.",
+    "Make about a quarter whole grains, like brown rice, oats, or whole-wheat bread, over refined ones.",
+    "Reserve a quarter for protein: beans, fish, poultry, eggs, nuts, or lean meat.",
+    "Make water your default drink and keep added sugar, sodium, and saturated fat low."
+  ],
+  "content_html": "\u003cp\u003eHealthy eating sounds complicated until you picture a single plate. MyPlate, the U.S. government's eating guide, turns the dietary guidelines into one image: half your plate fruits and vegetables, a quarter whole grains, and a quarter protein, with a side of dairy or a dairy alternative.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to the USDA's MyPlate guidance, the goal isn't a rigid diet but a flexible pattern you can apply to almost any meal. Vegetables and fruit take up the biggest share because they're rich in fiber, vitamins, and minerals for relatively few calories. Choosing whole grains over refined ones keeps more of that fiber, and varying your proteins — including plant sources like beans and nuts — covers your needs without leaning only on red meat. The guidance also nudges you to make water your go-to drink and to limit the three things most of us get too much of: added sugars, sodium, and saturated fat. It's a starting frame, not a calorie ledger — useful precisely because you can eyeball it.\u003c/p\u003e",
+  "source": {
+    "name": "USDA MyPlate",
+    "url": "https://www.myplate.gov/eat-healthy/what-is-myplate",
+    "license": "Public domain (U.S. Department of Agriculture)"
+  },
+  "topic_ids": [
+    "nutrition"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_03fc0b",
+      "slug": "reading-a-nutrition-label",
+      "type": "concept",
+      "title": "How to Read a Nutrition Label",
+      "hook": "The Nutrition Facts label is a cheat sheet hiding in plain sight — learn the few lines that matter and you can size up any packaged food in seconds.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bcf692",
+      "slug": "preventing-type-2-diabetes",
+      "type": "concept",
+      "title": "Preventing Type 2 Diabetes",
+      "hook": "Type 2 diabetes often arrives slowly, with a warning stage called prediabetes — and at that stage, modest lifestyle changes can stop or delay it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_826dd1",
+      "slug": "how-much-protein-you-need",
+      "type": "news",
+      "title": "You Probably Need More Protein Than the Minimum",
+      "hook": "The official protein guideline is a floor set to prevent deficiency — not the amount that keeps you strong. A new review argues most people, especially with age, do better with more.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_618737",
+      "slug": "gut-microbiome-basics",
+      "type": "news",
+      "title": "Gut Health: What the Evidence Actually Says",
+      "hook": "Wellness marketing says your gut is 'broken' and a supplement will fix it. Here's what the evidence really supports — and what's just hype.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ec190a#0",
+      "format": "flip",
+      "prompt": "Roughly how much of your plate should be fruits and vegetables?",
+      "back_html": "\u003cp\u003eAbout \u003cstrong\u003ehalf\u003c/strong\u003e. The other half splits between whole grains (a quarter) and\nprotein (a quarter).\u003c/p\u003e"
+    },
+    {
+      "id": "card_ec190a#1",
+      "format": "quiz",
+      "prompt": "Which grain choice fits the MyPlate guidance best?",
+      "choices": [
+        {
+          "text": "Whole grains like brown rice or oats",
+          "correct": true
+        },
+        {
+          "text": "White rice and white bread",
+          "correct": false
+        },
+        {
+          "text": "Sugary breakfast cereal",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMyPlate recommends making at least half your grains whole grains — they keep\nmore fiber and nutrients than refined grains.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ec190a#2",
+      "format": "flip",
+      "prompt": "What does MyPlate suggest as your default drink?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eWater.\u003c/strong\u003e It keeps you hydrated without the added sugar and calories of soda\nor juice.\u003c/p\u003e"
+    }
+  ]
+}

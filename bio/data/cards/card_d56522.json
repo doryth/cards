@@ -1,0 +1,102 @@
+{
+  "id": "card_d56522",
+  "slug": "prokaryote-vs-eukaryote",
+  "type": "concept",
+  "title": "Two Kinds of Cells",
+  "hook": "All cells fall into two camps: simple prokaryotes with no nucleus, and complex eukaryotes that pack their DNA into a sealed control room.",
+  "key_points": [
+    "Prokaryotes (bacteria, archaea) keep their DNA loose in the cell, with no nucleus.",
+    "Eukaryotes (animals, plants, fungi, protists) seal their DNA inside a nucleus.",
+    "Eukaryotic cells also contain organelles — compartments like mitochondria — that prokaryotes lack.",
+    "Prokaryotes are typically far smaller and far older than eukaryotic cells."
+  ],
+  "content_html": "\u003cp\u003eBiologists sort all cells into two fundamental types. Prokaryotes — the bacteria and archaea — are small, simple, and ancient: their DNA sits loose in the cell with no surrounding membrane. Eukaryotes — animals, plants, fungi, and protists — are larger and more elaborate, tucking their DNA into a nucleus and filling the cell with specialized compartments called organelles.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe nucleus is the headline difference, but it's not the only one. Eukaryotic cells contain organelles such as mitochondria (which release energy) and, in plants, chloroplasts (which capture sunlight) — each a membrane-wrapped compartment doing a specific job. Prokaryotes manage without these internal rooms, doing their chemistry in the open interior. They're also typically ten times smaller and showed up billions of years before the first eukaryote. Khan Academy contrasts the two layouts side by side.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/structure-of-a-cell/prokaryotic-and-eukaryotic-cells/a/prokaryotic-and-eukaryotic-cells",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "the-cell",
+    "microbiology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d14f9d",
+      "slug": "what-is-a-cell",
+      "type": "concept",
+      "title": "What Is a Cell?",
+      "hook": "Every living thing — from a bacterium to a blue whale — is built from cells, the smallest unit that can call itself alive.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d56522#0",
+      "format": "flip",
+      "prompt": "What is the key structural difference between prokaryotic and eukaryotic cells?",
+      "back_html": "\u003cp\u003eEukaryotes keep their DNA inside a membrane-bound \u003cstrong\u003enucleus\u003c/strong\u003e; prokaryotes\nhave \u003cstrong\u003eno nucleus\u003c/strong\u003e — their DNA floats freely in the cell.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d56522#1",
+      "format": "quiz",
+      "prompt": "Which group do bacteria belong to?",
+      "choices": [
+        {
+          "text": "Prokaryotes — no nucleus",
+          "correct": true
+        },
+        {
+          "text": "Eukaryotes — DNA sealed in a nucleus",
+          "correct": false
+        },
+        {
+          "text": "Neither; bacteria are not made of cells",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBacteria (and archaea) are prokaryotes: small, ancient cells that keep their\nDNA loose rather than in a nucleus.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d56522#2",
+      "format": "quiz",
+      "prompt": "Which feature is found in eukaryotic cells but not prokaryotic ones?",
+      "choices": [
+        {
+          "text": "Membrane-bound organelles like mitochondria",
+          "correct": true
+        },
+        {
+          "text": "A cell membrane",
+          "correct": false
+        },
+        {
+          "text": "Genetic material",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth cell types have a membrane and DNA, but only eukaryotes have internal\ncompartments such as the nucleus and mitochondria.\u003c/p\u003e"
+    }
+  ]
+}

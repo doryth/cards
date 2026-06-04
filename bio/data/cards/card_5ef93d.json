@@ -1,0 +1,110 @@
+{
+  "id": "card_5ef93d",
+  "slug": "fruit-fly-connectome",
+  "type": "news",
+  "title": "Wiring Up a Whole Brain",
+  "hook": "Scientists mapped every neural connection in an adult fruit fly — and the wiring suggests complex behavior emerges from many local circuits, not one central boss.",
+  "key_points": [
+    "A connectome is a complete map of every neuron and every connection in a nervous system.",
+    "Researchers built one for an adult fruit fly's entire central nervous system.",
+    "The wiring suggests behavior emerges from distributed local circuits, not a single controller.",
+    "Such a map gives neuroscientists a reference for how brains generate movement and behavior."
+  ],
+  "content_html": "\u003cp\u003eA connectome is a complete wiring diagram of a nervous system — every neuron and every connection between them. Researchers have now assembled one for an adult fruit fly's entire central nervous system, and the most striking takeaway is what it implies about how behavior is organized.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, the map shows that the fly's complex behaviors — walking, grooming, navigating — don't appear to flow from a single command center. Instead they emerge from many distributed local circuits working in parallel, challenging the intuition of one central controller pulling the strings. Mapping an entire animal's wiring at this resolution gives neuroscientists a reference they can trace, neuron by neuron, to ask how sensing turns into action — and offers fresh clues about how intelligence and coordinated movement arise from networks of simpler parts.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260610003047.htm",
+    "published_at": "2026-06-10",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-11",
+  "date": "2026-06-10",
+  "related": [
+    {
+      "id": "card_945f3f",
+      "slug": "neurons-and-signals",
+      "type": "concept",
+      "title": "Neurons and Signals",
+      "hook": "Your every thought, twitch, and feeling rides on tiny electrical pulses fired by neurons — and leaps the gaps between them as bursts of chemicals.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f21e0c",
+      "slug": "the-brain",
+      "type": "concept",
+      "title": "The Brain",
+      "hook": "Three pounds of folded tissue runs the whole show — thinking, balance, breathing, memory — divided into regions that each handle a different part of the job.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9e052d",
+      "slug": "how-animals-behave",
+      "type": "concept",
+      "title": "How Animals Behave",
+      "hook": "A spider spins a perfect web without a lesson, while a crow figures out a new trick by trial and error — two sides of how animals act in the world.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5ef93d#0",
+      "format": "flip",
+      "prompt": "What is a connectome?",
+      "back_html": "\u003cp\u003eA complete wiring diagram of a nervous system — \u003cstrong\u003eevery neuron and every\nconnection\u003c/strong\u003e between them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5ef93d#1",
+      "format": "quiz",
+      "prompt": "What surprised researchers about how the fly's behavior is organized?",
+      "choices": [
+        {
+          "text": "It emerges from many distributed local circuits, not one central controller",
+          "correct": true
+        },
+        {
+          "text": "It is run entirely by a single master neuron",
+          "correct": false
+        },
+        {
+          "text": "It comes from the body, with no role for the brain",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe map suggests complex behaviors like walking and grooming arise from many\nlocal circuits working in parallel, rather than from one command center.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5ef93d#2",
+      "format": "quiz",
+      "prompt": "Why is a whole-nervous-system connectome so valuable to neuroscientists?",
+      "choices": [
+        {
+          "text": "It's a reference map for studying how brains produce movement and behavior",
+          "correct": true
+        },
+        {
+          "text": "It lets them grow new fly brains from scratch",
+          "correct": false
+        },
+        {
+          "text": "It proves flies are as intelligent as humans",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA complete wiring diagram gives researchers a shared map to trace how signals\nflow from sensing to action across an entire nervous system.\u003c/p\u003e"
+    }
+  ]
+}

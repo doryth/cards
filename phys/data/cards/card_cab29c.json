@@ -1,0 +1,80 @@
+{
+  "id": "card_cab29c",
+  "slug": "okinawa-lectures-on-entropy",
+  "type": "resource",
+  "title": "Lecture Notes: Entropy, from Boltzmann to von Neumann Algebras",
+  "hook": "One free set of lecture notes that walks the whole arc of entropy — historical origins, large deviation theory, quantum relative entropy, and the modular theory needed for infinite systems.",
+  "key_points": [
+    "Klaas Landsman's Okinawa lectures introduce classical and quantum entropies as constructions in classical and quantum probability theory.",
+    "Classical entropies are developed through large deviation theory, covering the Sanov, Cramér, Gärtner-Ellis and Varadhan theorems.",
+    "These are applied to both Boltzmannian and Gibbsian statistical physics.",
+    "Quantum entropies are motivated through statistical hypothesis testing, which links Kullback-Leibler, Umegaki and Rényi entropies naturally.",
+    "For subsystems formalised as von Neumann algebras, defining relative entropy requires modular (Tomita-Takesaki) theory — the framework behind the Araki and Uhlmann relative entropies."
+  ],
+  "content_html": "\u003cp\u003eEntropy is taught three or four separate times in a physicist's education — thermodynamics, statistical mechanics, information theory, quantum information — and the versions rarely get stitched together. Klaas Landsman's Okinawa lectures are an attempt to present the whole family as one subject.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAfter a historical introduction, the notes construct the classical and quantum entropies as objects in classical and quantum probability theory. The classical side is developed through large deviation theory, with the Sanov, Cramér, Gärtner-Ellis and Varadhan theorems doing the heavy lifting, and applications to both Boltzmannian and Gibbsian statistical physics. The quantum side is motivated through statistical hypothesis testing, which is what makes the Kullback-Leibler relative entropy, Umegaki's quantum counterpart, and their Rényi deformations fall out as natural rather than arbitrary. The final stretch handles the genuinely hard case: defining the relative entropy of two states restricted to a subsystem, formalised as a von Neumann algebra. That requires modular, or Tomita-Takesaki, theory — the framework underpinning the Araki and Uhlmann relative entropies now central to quantum field theory and holography. Free on arXiv.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Klaas Landsman"
+    ],
+    "url": "https://arxiv.org/abs/2608.14523",
+    "published_at": "2026-08-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "heat-thermo",
+    "modern-physics"
+  ],
+  "tags": [
+    "tutorial"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_02ca0c",
+      "slug": "absolute-zero",
+      "type": "concept",
+      "title": "Absolute Zero: The Coldest Possible Temperature",
+      "hook": "There's no limit to how hot things can get, but cold has a floor. At absolute zero, −273°C, particle motion bottoms out — and you can get achingly close but never quite reach it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_db088d",
+      "slug": "spacetime-from-entanglement",
+      "type": "news",
+      "title": "Spacetime From Entanglement — and 'Magic'",
+      "hook": "If quantum entanglement weaves space-time together, what makes it bend into gravity? Theorists now point to a stranger ingredient they call 'magic.'",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-03"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ]
+}

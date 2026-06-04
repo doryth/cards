@@ -1,0 +1,106 @@
+{
+  "id": "card_f86885",
+  "slug": "how-far-cosmic-rays-travel",
+  "type": "paper",
+  "title": "The universe's most energetic particles come from nearby",
+  "hook": "Match the sky map of ultra-high-energy cosmic rays against catalogues of galaxies and the signal snaps into focus at one distance: everything within about 60 megaparsecs.",
+  "key_points": [
+    "Ultra-high-energy cosmic rays lose energy in transit, so only relatively nearby sources can still reach us.",
+    "The team compared Auger's arrival directions above 8 EeV with GLADE+ galaxies out to roughly 150 Mpc.",
+    "The galaxy and cosmic-ray dipoles align best when only galaxies within about 60 Mpc are counted.",
+    "Cross-correlation is dominated by that nearby population and fades quickly for more distant galaxies.",
+    "Correcting for the Milky Way's magnetic field, which bends incoming particles, more than doubles the correlation.",
+    "Conclusion: the anisotropy above 8 EeV is driven mainly by sources within roughly 50–60 Mpc."
+  ],
+  "content_html": "\u003cp\u003eWhere do the universe's most energetic particles come from? Ultra-high-energy cosmic rays arrive with energies millions of times beyond anything the LHC produces, and their origin remains one of the central open problems in astroparticle physics. Two clues suggest the sources are not far away: the arrival directions above a few EeV show a large-scale anisotropy, and the energy spectrum is suppressed at the very top — both consistent with only a limited nearby volume contributing.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eF. Dávila-Kurbán, F. Duplancic and D. Garcia Lambas set out to pin down that volume. They built volume-limited galaxy samples from the GLADE+ catalogue out to 10,000 km/s (about 150 Mpc) and compared them against the Pierre Auger Observatory's cosmic-ray flux map above 8 EeV, using both dipole comparisons and angular cross-correlations, and weighting the correlations by deflection maps derived from a model of the Galactic magnetic field. The angular separation between the galaxy dipole and the cosmic-ray dipole is minimised for galaxies within cz \u0026lt; 4000 km/s — under 60 Mpc — which is also where the galaxy dipole amplitude peaks. The cross-correlation signal is dominated by that nearby population and weakens rapidly with distance, and accounting for magnetic deflections more than doubles its amplitude. The authors conclude that the observed anisotropy above 8 EeV is primarily driven by sources within roughly 50–60 Mpc, still carrying a measurable imprint of the nearby extragalactic matter distribution.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "F. Dávila-Kurbán",
+      "F. Duplancic",
+      "D. Garcia Lambas"
+    ],
+    "url": "https://arxiv.org/abs/2607.21747",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_5ac508",
+      "slug": "amaterasu-particle",
+      "type": "news",
+      "title": "The Amaterasu Particle Might Not Be a Proton",
+      "hook": "One of the most energetic cosmic rays ever caught hit Earth with the energy of a thrown brick — packed into a single particle. New work says it may be a heavy nucleus, not a proton.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "card_795db7",
+      "slug": "uhecr-from-magnetized-mergers",
+      "type": "paper",
+      "title": "Do Merging Black Holes Fire Off the Universe's Fastest Particles?",
+      "hook": "Wrap a spinning black hole in a trillion-gauss magnetic field and particle collisions just outside its horizon reach energies we otherwise only see in the rarest cosmic rays.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_e2c56f",
+      "slug": "the-muon-puzzle",
+      "type": "paper",
+      "title": "The muon puzzle: air showers make more muons than physics predicts",
+      "hook": "Cosmic rays hitting the atmosphere produce far more muons than any collider-tuned model expects. Auger now says the fix is that proton collisions must dump several times more energy into hadrons.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-24"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f86885#0",
+      "format": "flip",
+      "prompt": "What is the 'horizon' for ultra-high-energy cosmic rays?",
+      "back_html": "\u003cp\u003eThe maximum distance a source can sit and still contribute, since these particles lose energy\nen route. This work places it at roughly 50–60 Mpc for energies above 8 EeV.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f86885#1",
+      "format": "quiz",
+      "prompt": "What effect did accounting for the Galactic magnetic field have on the analysis?",
+      "choices": [
+        {
+          "text": "It more than doubled the galaxy–cosmic-ray correlation amplitude",
+          "correct": true
+        },
+        {
+          "text": "It erased the correlation entirely, showing the signal was an artefact",
+          "correct": false
+        },
+        {
+          "text": "It shifted the preferred horizon out to 150 Mpc",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWeighting the cross-correlation by deflection maps from a Galactic magnetic field model\nenhanced the correlation amplitude by more than a factor of two.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f86885#2",
+      "format": "flip",
+      "prompt": "What two signatures pointed to sources in a limited nearby volume?",
+      "back_html": "\u003cp\u003eThe large-scale anisotropy in arrival directions above several EeV, and the suppression of\nthe energy spectrum at the very highest energies.\u003c/p\u003e"
+    }
+  ]
+}

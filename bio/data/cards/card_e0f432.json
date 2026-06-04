@@ -1,0 +1,99 @@
+{
+  "id": "card_e0f432",
+  "slug": "mass-extinctions",
+  "type": "concept",
+  "title": "Mass Extinctions",
+  "hook": "Five times in the past half-billion years, life on Earth was nearly wiped out. Each catastrophe reset the course of evolution — and the asteroid that killed the dinosaurs was only the most famous.",
+  "key_points": [
+    "A mass extinction is a relatively sudden loss of a large fraction of Earth's species.",
+    "There have been five 'big' mass extinctions in the last ~540 million years.",
+    "The end-Permian event (~252 mya) was the worst, killing most marine species.",
+    "An asteroid impact ended the dinosaurs ~66 million years ago, opening the way for mammals."
+  ],
+  "content_html": "\u003cp\u003eExtinction is normal — species wink out all the time — but every so often the rate spikes catastrophically and a huge fraction of all life vanishes in a geological blink. These are mass extinctions, and over the past 540 million years there have been five especially severe ones, the \u0026quot;Big Five.\u0026quot; They punctuate the history of life, repeatedly clearing the board and letting survivors radiate into the empty space left behind.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe causes vary, but the pattern is brutal. The worst, the end-Permian extinction about 252 million years ago, earned the name the \u0026quot;Great Dying\u0026quot; by killing off the overwhelming majority of marine species, likely driven by enormous volcanic eruptions that poisoned air and seas. The most famous is the end-Cretaceous event 66 million years ago, when an asteroid roughly ten kilometers across slammed into what is now Mexico, ending the long reign of the dinosaurs and, crucially, opening ecological room for mammals — and eventually us. As Britannica notes, each mass extinction was both an ending and a beginning, redirecting evolution's course. Many scientists warn that today's rapid, human-driven loss of biodiversity may be the early stages of a sixth such event — this time with a clear culprit.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/mass-extinction",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "origin-of-life"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_71676e",
+      "slug": "the-history-of-life",
+      "type": "concept",
+      "title": "The History of Life",
+      "hook": "Life is about 3.5 billion years old, but for most of that time it was just microbes. Animals, plants, and us are latecomers crowded into the most recent slice of deep time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cd7fc6",
+      "slug": "biodiversity-and-conservation",
+      "type": "concept",
+      "title": "Biodiversity \u0026 Conservation",
+      "hook": "Biodiversity is the full variety of life — genes, species, and ecosystems. It cleans our water, pollinates our food, and steadies the systems we depend on, and right now it's vanishing fast.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e0f432#0",
+      "format": "quiz",
+      "prompt": "Which mass extinction was the most severe in Earth's history?",
+      "choices": [
+        {
+          "text": "The end-Permian, ~252 million years ago",
+          "correct": true
+        },
+        {
+          "text": "The end-Cretaceous that killed the dinosaurs",
+          "correct": false
+        },
+        {
+          "text": "A future one that hasn't happened yet",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe \u003cstrong\u003eend-Permian\u003c/strong\u003e extinction — nicknamed the 'Great Dying' — wiped out the vast\nmajority of marine species, making it the worst of the big five.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e0f432#1",
+      "format": "quiz",
+      "prompt": "What is the leading explanation for the extinction that ended the dinosaurs ~66 million years ago?",
+      "choices": [
+        {
+          "text": "A massive asteroid impact",
+          "correct": true
+        },
+        {
+          "text": "The dinosaurs simply grew too large",
+          "correct": false
+        },
+        {
+          "text": "Humans hunted them to extinction",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA giant \u003cstrong\u003easteroid strike\u003c/strong\u003e (with massive volcanism likely contributing) ended\nthe age of dinosaurs and cleared the way for mammals to flourish.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e0f432#2",
+      "format": "flip",
+      "prompt": "How many 'big' mass extinctions have occurred in the last ~540 million years?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eFive.\u003c/strong\u003e Each removed a large fraction of Earth's species and dramatically\nreshaped the path of evolution afterward.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "card_d09bfb",
+  "slug": "was-gw231123-lensed",
+  "type": "paper",
+  "title": "Was GW231123 a monster black hole, or just a lensed ordinary one?",
+  "hook": "The signal looked like an impossibly heavy, fast-spinning pair of black holes. It fits even better as a modest merger warped by a gravitational lens — but the lens would be just as improbable.",
+  "key_points": [
+    "Taken at face value, GW231123 is a rare merger: both black holes unusually massive and rapidly spinning.",
+    "The signal actually fits better as a lighter, slower-spinning merger diffraction-lensed by a ~1000-solar-mass object.",
+    "Diffraction lensing makes the wave interfere with itself, distorting the signal so it mimics a different source.",
+    "Since such compact lenses are also rare, the authors argue you must quote posterior odds, not just the Bayes factor.",
+    "Intermediate-mass black holes from star clusters are too scarce to make lensing likely; self-interacting dark matter halos could work.",
+    "From a frequentist view, detecting a lensed event that looks like GW231123 is unlikely — though the case is not closed."
+  ],
+  "content_html": "\u003cp\u003eGW231123 is one of the strangest gravitational-wave signals on the books. Read straightforwardly, it is a binary black hole merger with both progenitors unusually massive and unusually rapidly spinning — a combination that should be very rare. Mark Ho-Yeuk Cheung, Digvijay Wadekar and colleagues point out that there is another reading: the signal is fit even better by a lower-mass, lower-spin merger whose waveform has been diffraction-lensed by an isolated object of redshifted mass around 1000 solar masses.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch is that lenses that compact are rare too, so the comparison is between two improbable stories. The authors argue this makes the Bayes factor the wrong number to quote, and work instead with posterior odds — adopting the GWTC-5 population distribution as the prior on source parameters, and quantifying the prior on the lens through the lensing optical depth. For a point-mass lens, observational limits on the abundance of black holes leave an upper bound on the odds that does not rule lensing out; but using a predicted mass function for intermediate-mass black holes formed in star clusters gives an optical depth low enough to strongly disfavour it. For a dark matter halo lens, standard collisionless cold dark matter cannot form halos compact enough — though self-interacting dark matter with a large low-velocity cross section could, via gravothermal collapse, leaving the odds inconclusive. From a frequentist standpoint, the authors show that detecting a lensed event with GW231123's properties is unlikely. These conclusions apply to isolated lenses; a lens sitting in an external gravitational potential could change the picture.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Mark Ho-Yeuk Cheung",
+      "Digvijay Wadekar",
+      "Matias Zaldarriaga",
+      "Tejaswi Venumadhav",
+      "Javier Roulet",
+      "Ajit Kumar Mehta"
+    ],
+    "url": "https://arxiv.org/abs/2607.21834",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "card_be32cb",
+      "slug": "a-decade-of-black-hole-spins",
+      "type": "paper",
+      "title": "Ten Years of Listening to Black Holes Spin",
+      "hook": "A decade after the first gravitational-wave detection, 100+ events let astronomers read black holes' spins — and spin turns out to reveal how the pairs were born.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d09bfb#0",
+      "format": "flip",
+      "prompt": "Why can gravitational lensing make a black hole merger look heavier than it is?",
+      "back_html": "\u003cp\u003eDiffraction lensing distorts the waveform, so a lighter, slower-spinning merger passing a\ncompact lens can mimic the signal of a much more massive, rapidly spinning pair.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d09bfb#1",
+      "format": "quiz",
+      "prompt": "Why do the authors insist on posterior odds rather than the Bayes factor alone?",
+      "choices": [
+        {
+          "text": "Because diffraction-lensed events are themselves rare, so prior belief in the lens hypothesis matters",
+          "correct": true
+        },
+        {
+          "text": "Because the Bayes factor cannot be computed for gravitational-wave data",
+          "correct": false
+        },
+        {
+          "text": "Because posterior odds avoid needing any model of the source population",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth hypotheses describe rare events. Comparing them fairly requires folding in priors — the\nGWTC-5 population for the source, and the lensing optical depth for the lens.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d09bfb#2",
+      "format": "flip",
+      "prompt": "What kind of dark matter could produce a lens compact enough to explain GW231123?",
+      "back_html": "\u003cp\u003eSelf-interacting dark matter with a large cross section at low velocities, which can undergo\ngravothermal collapse. Standard collisionless cold dark matter cannot.\u003c/p\u003e"
+    }
+  ]
+}

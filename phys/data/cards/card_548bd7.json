@@ -1,0 +1,93 @@
+{
+  "id": "card_548bd7",
+  "slug": "black-hole-evaporation-exact-4d-solution",
+  "type": "paper",
+  "title": "The First Exact Picture of a Black Hole Evaporating in Our Universe",
+  "hook": "Physicists have finally worked out, in exact mathematical form, how a real 3D black hole's geometry evolves as it evaporates — previously solved only in toy 2D universes.",
+  "key_points": [
+    "Hawking radiation predicts black holes slowly evaporate, but calculating how a black hole's actual spacetime geometry responds to that radiation is fiendishly hard in realistic 3+1 dimensions.",
+    "Researchers found the first exact, closed-form solution for an evaporating black hole's backreacted geometry in a full 3+1-dimensional universe.",
+    "Their method reproduces the expected Hawking radiation flowing outward and the matching negative-energy flux falling into the horizon.",
+    "The resulting geometry gives physicists a new, controlled setting to study the black-hole information-loss puzzle — previously explorable only in simplified two-dimensional models."
+  ],
+  "content_html": "\u003cp\u003eStephen Hawking predicted that black holes slowly radiate away their mass and eventually evaporate. But actually calculating how a black hole's geometry responds to that radiation — the \u0026quot;backreaction\u0026quot; — is a notoriously difficult problem in general relativity, and until now, exact solutions existed only in simplified two-dimensional toy universes that don't capture the real, three-dimensional world we live in.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePhysicists Adrián del Río and F. Javier Marañón-González cracked a version of the full 3+1-dimensional problem, deriving the first exact, closed-form solution for an evaporating Schwarzschild black hole's backreacted geometry. Their approach reformulates a standard renormalization technique to compute the quantum stress-energy directly, without the usual cumbersome mode-by-mode calculation. The resulting solution correctly reproduces the outward Hawking radiation and its matching inward flow of negative energy at the horizon, and reveals a horizon structure — a \u0026quot;timelike apparent horizon\u0026quot; — that gives physicists a rigorous new setting to study the causal structure of evaporation and its long-debated connection to the black-hole information-loss puzzle, extending analytical techniques previously available only in far simpler models.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Adrián del Río",
+      "F. Javier Marañón-González"
+    ],
+    "url": "https://arxiv.org/abs/2607.11737",
+    "published_at": "2026-07-13",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-16",
+  "date": "2026-07-13",
+  "related": [
+    {
+      "id": "card_30a04a",
+      "slug": "black-hole-laws-get-a-dynamical-upgrade",
+      "type": "news",
+      "title": "Hawking's Black Hole Laws Get a Real-World Upgrade",
+      "hook": "Hawking's famous black hole laws only strictly work for black holes frozen in perfect equilibrium. A new framework extends them to real black holes that merge, grow, and evaporate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_548bd7#0",
+      "format": "flip",
+      "prompt": "Why has it been so hard to calculate how a black hole's geometry changes as it evaporates?",
+      "back_html": "\u003cp\u003eThe backreaction of Hawking radiation on spacetime is mathematically brutal in\nrealistic 3+1 dimensions — until now, exact solutions existed only in simplified\n\u003cstrong\u003etwo-dimensional\u003c/strong\u003e toy models.\u003c/p\u003e"
+    },
+    {
+      "id": "card_548bd7#1",
+      "format": "quiz",
+      "prompt": "What did this paper achieve for the first time?",
+      "choices": [
+        {
+          "text": "An exact, closed-form solution for an evaporating black hole's geometry in a full 3+1-dimensional universe",
+          "correct": true
+        },
+        {
+          "text": "The first experimental detection of Hawking radiation",
+          "correct": false
+        },
+        {
+          "text": "Proof that black holes never actually evaporate",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eExact evaporating black-hole solutions had previously only been found in\ntwo-dimensional models; this is the first analytical result in our real,\nfour-dimensional spacetime.\u003c/p\u003e"
+    },
+    {
+      "id": "card_548bd7#2",
+      "format": "flip",
+      "prompt": "What long-standing physics puzzle does this new solution give physicists a better tool to study?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eblack-hole information-loss puzzle\u003c/strong\u003e — whether information that falls into\na black hole is truly lost when it evaporates.\u003c/p\u003e"
+    }
+  ]
+}

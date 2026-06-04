@@ -1,0 +1,110 @@
+{
+  "id": "card_07b52b",
+  "slug": "jwst-hidden-faint-stars-early-galaxies",
+  "type": "news",
+  "title": "Early Galaxies May Be Hiding Most of Their Mass in Faint Stars",
+  "hook": "JWST finds far more small, dim stars in massive early galaxies than expected — enough to make some of them three to four times heavier than we thought, and even harder to explain.",
+  "key_points": [
+    "Galaxy masses are inferred from light, so unseen faint stars mean underestimated mass.",
+    "JWST found early massive galaxies hold far more small, faint stars than models assumed.",
+    "That hidden population could make some of them three to four times more massive.",
+    "Heavier early galaxies sharpen the puzzle of how they matured so soon after the Big Bang.",
+    "It also hints planets around low-mass stars may have been common in the early universe."
+  ],
+  "content_html": "\u003cp\u003eWe never weigh a distant galaxy directly — we infer its mass from the light it sends us. That makes the mix of stars inside it a crucial assumption: small, dim stars contribute almost nothing to the brightness but plenty to the mass. Get that mix wrong and every mass estimate shifts.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eScienceDaily reports that JWST observations of massive early galaxies turned up far more of these small, faint stars than models expected. Folding them in could make some of those galaxies three to four times more massive than previously estimated — which cuts the wrong way for theory, because enormous, mature galaxies were already hard to assemble so soon after the Big Bang. There is a second, more speculative implication: if low-mass stars were abundant that early, the planets that tend to form around them may have been common in the young universe too.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260822015141.htm",
+    "published_at": "2026-08-22",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-22",
+  "related": [
+    {
+      "id": "card_a212b1",
+      "slug": "webb-new-universe-puzzle",
+      "type": "news",
+      "title": "Why Does Webb Keep Finding Things That Shouldn't Exist?",
+      "hook": "JWST keeps spotting early black holes and galaxies that are too big, too bright, or too early to fit standard models — and cosmologists are racing to figure out which of many new theories is right.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "card_326281",
+      "slug": "ancient-quasars-too-early",
+      "type": "news",
+      "title": "31 Quasars That Are Too Old to Make Sense",
+      "hook": "Astronomers found 31 quasars shining from when the universe was just 5% of its current age — powered by black holes that shouldn't have had time to grow so big yet.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_96372e",
+      "slug": "azahar-project-early-bright-galaxies",
+      "type": "paper",
+      "title": "The Azahar Project: Non-Thermal Physics Drives Star Formation Burstiness and the Evolution of the UV Luminosity Density at Cosmic Dawn",
+      "hook": "JWST keeps finding early galaxies too bright and fast-growing for standard simulations — a new suite finally reproduces them, and the fix is radiation pressure and cosmic rays, not supernovae.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_06b9c7",
+      "slug": "the-big-bang",
+      "type": "concept",
+      "title": "The Big Bang",
+      "hook": "About 13.8 billion years ago the universe began hot and dense and has been expanding ever since — but it wasn't an explosion into empty space. Space itself stretched.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_07b52b#0",
+      "format": "flip",
+      "prompt": "Why does the number of faint stars change a galaxy's estimated mass?",
+      "back_html": "\u003cp\u003eMass is inferred from the light we receive. Small, dim stars contribute little\nlight but real mass, so if a galaxy holds more of them than assumed, its true\nmass is larger than the estimate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_07b52b#1",
+      "format": "quiz",
+      "prompt": "How much heavier could some early galaxies be, per this JWST result?",
+      "choices": [
+        {
+          "text": "Three to four times more massive than previous estimates",
+          "correct": true
+        },
+        {
+          "text": "About 10% more massive",
+          "correct": false
+        },
+        {
+          "text": "A hundred times more massive",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe hidden population of small, faint stars could raise some galaxies' masses by\na factor of three to four.\u003c/p\u003e"
+    },
+    {
+      "id": "card_07b52b#2",
+      "format": "flip",
+      "prompt": "Does this finding make the early-galaxy puzzle better or worse?",
+      "back_html": "\u003cp\u003eWorse. Bigger early galaxies are harder to build in the short time available\nafter the Big Bang, so the tension with formation models grows.\u003c/p\u003e"
+    }
+  ]
+}

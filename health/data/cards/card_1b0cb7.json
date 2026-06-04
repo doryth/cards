@@ -1,0 +1,109 @@
+{
+  "id": "card_1b0cb7",
+  "slug": "depression-and-new-neurons",
+  "type": "news",
+  "title": "Depression May Stall the Making of New Neurons",
+  "hook": "Adults with depression showed disrupted production of new neurons in the hippocampus — the region that helps keep new experiences from blurring into old painful ones.",
+  "key_points": [
+    "The adult hippocampus keeps producing new neurons; the study found this disrupted in depression.",
+    "Those new neurons help separate new experiences from stored, similar memories.",
+    "Weakened separation may be part of why painful memories feel ever-present in depression.",
+    "The researchers also found broad molecular changes across depressed brains.",
+    "Those changes were not uniform, suggesting biologically distinct forms of depression.",
+    "Distinct forms could eventually mean treatments matched to a person's biology."
+  ],
+  "content_html": "\u003cp\u003eThe adult brain does make new neurons, mostly in the hippocampus, and one of their jobs is \u003cem\u003epattern separation\u003c/em\u003e — keeping a new experience filed distinctly from the similar memories already stored. This study found that process disrupted in adults with depression, which offers a mechanical account of something people with depression describe: new events don't land as new, they get absorbed into the same painful groove.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe second half of the finding may end up mattering more. Alongside the neurogenesis result, the researchers report broad molecular changes in depressed brains — and those changes were not the same in everyone. Depression is diagnosed by a checklist of symptoms, which almost certainly lumps together several different biological conditions that happen to look alike from the outside. That's a decent explanation for why antidepressants work well for some people and not at all for others.\u003c/p\u003e\n\u003cp\u003eIf the biological subtypes hold up in larger samples, the practical payoff is matching treatment to type rather than cycling through drugs. That's years away. In the meantime the finding is a useful corrective to the idea that depression is purely a matter of thoughts or circumstances — the tissue changes too.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260823094135.htm",
+    "published_at": "2026-08-25",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "mental-health",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_92cdfa",
+      "slug": "recognizing-depression-and-anxiety",
+      "type": "concept",
+      "title": "Recognizing Depression and Anxiety",
+      "hook": "Depression and anxiety are among the most common — and most treatable — health conditions. Knowing the signs is the first step to getting help that works.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ab46b0",
+      "slug": "getting-help-for-mental-health",
+      "type": "concept",
+      "title": "Getting Help for Mental Health",
+      "hook": "Mental health treatment works for most people — and the hardest part is usually just starting. Here's how to take the first step.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_c51618",
+      "slug": "constipation-drug-clears-depression-brain-fog",
+      "type": "news",
+      "title": "A Constipation Drug May Help Clear Depression's Brain Fog",
+      "hook": "An existing constipation drug may double as a treatment for the mental fog that lingers after depression — in a small trial, a week of it improved memory, attention, and thinking speed.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "card_202e96",
+      "slug": "psilocybin-brain-flexibility",
+      "type": "news",
+      "title": "One Psilocybin Dose, a Month of Brain Change",
+      "hook": "A single dose of psilocybin left measurable changes in brain activity lasting up to a month — and the people whose brains got more flexible reported more insight and better wellbeing.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-22"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1b0cb7#0",
+      "format": "flip",
+      "prompt": "What did the study find about new neurons in people with depression?",
+      "back_html": "\u003cp\u003eProduction of new neurons in the \u003cstrong\u003ehippocampus\u003c/strong\u003e was disrupted — the process that\nnormally helps keep new experiences distinct from similar stored memories.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1b0cb7#1",
+      "format": "quiz",
+      "prompt": "Why would weaker separation of new from old memories matter in depression?",
+      "choices": [
+        {
+          "text": "New experiences blur into painful stored ones instead of standing apart",
+          "correct": true
+        },
+        {
+          "text": "It causes people to forget recent events entirely",
+          "correct": false
+        },
+        {
+          "text": "It shrinks the total number of memories a person can hold",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe proposed link is \u003cem\u003epattern separation\u003c/em\u003e: if the brain can't keep a new experience\ndistinct, it gets absorbed into the old painful pattern rather than updating it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1b0cb7#2",
+      "format": "flip",
+      "prompt": "What's the clinical hope from the molecular findings?",
+      "back_html": "\u003cp\u003eThe changes weren't uniform across people — hinting at \u003cstrong\u003ebiologically distinct forms\u003c/strong\u003e\nof depression, and eventually treatments matched to which form someone has.\u003c/p\u003e"
+    }
+  ]
+}

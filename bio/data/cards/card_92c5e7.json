@@ -1,0 +1,90 @@
+{
+  "id": "card_92c5e7",
+  "slug": "tau-targeting-drug-slows-alzheimers-decline",
+  "type": "news",
+  "title": "An Experimental Drug Targeting Tau Slowed Alzheimer's Decline in a New Trial",
+  "hook": "A tau-targeting drug from Biogen slowed cognitive decline about as much as today's approved Alzheimer's drugs — and it reduced tau itself in the brain.",
+  "key_points": [
+    "Diranersen targets tau, a protein that forms toxic tangles in the brain and is linked to memory loss and other Alzheimer's symptoms.",
+    "In a Phase 2 mid-stage trial, the drug slowed cognitive decline at rates roughly comparable to currently approved Alzheimer's medications.",
+    "Different doses showed improvements across multiple patient performance tests compared to placebo.",
+    "The drug also directly reduced tau protein levels in the brain, not just symptoms.",
+    "Specialists say the results support moving to a Phase 3 pivotal trial, though final conclusions should wait for that larger trial."
+  ],
+  "content_html": "\u003cp\u003eMost approved Alzheimer's drugs target amyloid plaques. A new experimental drug goes after a different culprit — tau — and early results suggest it might work just as well.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eDiranersen targets tau, a protein that forms toxic tangles inside brain cells and is tied to memory loss and the broader progression of Alzheimer's symptoms. In a Phase 2 mid-stage trial, the drug slowed cognitive decline at rates roughly comparable to today's approved Alzheimer's medications, with different doses showing improvement across multiple patient performance tests versus placebo. Unlike a purely symptomatic treatment, diranersen also measurably reduced tau protein levels in the brain itself. Alzheimer's specialists reviewing the results say they're encouraging enough to justify moving to a Phase 3 pivotal trial, while cautioning that firm conclusions about how well the drug really works should wait for that larger, longer trial.\u003c/p\u003e",
+  "source": {
+    "name": "STAT",
+    "authors": [
+      "Andrew Joseph"
+    ],
+    "url": "https://statnews.com/2026/07/14/biogen-alzheimers-tau-diranersen-trial-results-ionis-aaic",
+    "published_at": "2026-07-14",
+    "license": "© STAT"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_f21e0c",
+      "slug": "the-brain",
+      "type": "concept",
+      "title": "The Brain",
+      "hook": "Three pounds of folded tissue runs the whole show — thinking, balance, breathing, memory — divided into regions that each handle a different part of the job.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c65348",
+      "slug": "memory-and-learning",
+      "type": "concept",
+      "title": "Memory and Learning",
+      "hook": "Every memory you hold is a pattern of connections between neurons — and learning is, quite literally, your brain rewiring itself to make those connections stronger.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_92c5e7#0",
+      "format": "flip",
+      "prompt": "What does the experimental drug diranersen target, and why does that matter?",
+      "back_html": "\u003cp\u003eIt targets \u003cstrong\u003etau\u003c/strong\u003e, a protein that forms toxic tangles inside brain cells\nand is linked to memory loss and Alzheimer's progression — a different\ntarget than the amyloid plaques most approved drugs go after.\u003c/p\u003e"
+    },
+    {
+      "id": "card_92c5e7#1",
+      "format": "quiz",
+      "prompt": "What did the Phase 2 trial results show?",
+      "choices": [
+        {
+          "text": "The drug slowed cognitive decline at rates comparable to approved Alzheimer's drugs, and reduced tau levels in the brain",
+          "correct": true
+        },
+        {
+          "text": "The drug had no measurable effect on cognitive decline or tau levels",
+          "correct": false
+        },
+        {
+          "text": "The drug reversed Alzheimer's symptoms completely in all patients",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResults were promising but incremental — comparable efficacy to existing\ndrugs plus a direct reduction in brain tau — not a cure.\u003c/p\u003e"
+    },
+    {
+      "id": "card_92c5e7#2",
+      "format": "flip",
+      "prompt": "Why do specialists say it's too early to draw firm conclusions about diranersen?",
+      "back_html": "\u003cp\u003eThe Phase 2 results are encouraging enough to justify a Phase 3 pivotal\ntrial, but final conclusions about real-world effectiveness should wait\nfor that larger, longer trial.\u003c/p\u003e"
+    }
+  ]
+}

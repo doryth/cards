@@ -1,0 +1,133 @@
+{
+  "id": "card_2707eb",
+  "slug": "imaging-with-undetected-photons",
+  "type": "paper",
+  "title": "Seeing in Infrared Without Detecting Any Infrared Light",
+  "hook": "Infrared cameras are expensive and noisy. A quantum trick lets you probe an object with infrared photons you never detect, reading the result off a cheap silicon camera in visible light.",
+  "key_points": [
+    "Entangled photon pairs are made with one infrared partner and one visible partner.",
+    "The infrared photon probes the object; only the visible photon's interference is measured.",
+    "Because the pair share a state, the visible interference carries the infrared information.",
+    "A silver thiogallate crystal with non-collinear phase matching gave a wide field at 6-10 micrometres.",
+    "Sensitivity beat the background-limited infrared detection limit by about 100 times.",
+    "At 8 micrometres: over 8000 resolvable elements, 297 micrometre resolution, 10 second exposures."
+  ],
+  "content_html": "\u003cp\u003eMid-infrared light is where molecules show their fingerprints, which makes it the band you want for chemical imaging. It is also the band where cameras are worst: infrared detectors are expensive, often need cooling, and swim in their own thermal background noise. Quantum imaging with undetected photons sidesteps the problem entirely — probe the object with infrared, but measure only visible light.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trick rests on entangled photon pairs in which one partner is infrared and one is visible. Send the infrared photon through the sample and it picks up information, but never detect it; because the two photons share a single quantum state, that information shows up in the interference of the visible partner, which a standard silicon camera can record. An Imperial College team reports on arXiv that non-collinear phase matching in a silver thiogallate crystal extends this to a wide field across 6-10 micrometres. Their numbers: roughly 100 times better than the background-limited infrared photodetection limit, and at 8 micrometres more than 8000 resolvable image elements at 297 micrometre resolution with 10 second exposures — all at room temperature.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Vladimir Kornienko",
+      "Nathan Gemmell",
+      "Caiyi Liu",
+      "Asteria Chen",
+      "Chris Phillips",
+      "Rupert Oulton"
+    ],
+    "url": "https://arxiv.org/abs/2608.20015",
+    "published_at": "2026-08-20",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "light-optics",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-24",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_80e637",
+      "slug": "electromagnetic-spectrum",
+      "type": "concept",
+      "title": "The Electromagnetic Spectrum",
+      "hook": "Radio, microwaves, the warmth of sunlight, the colors you see, and a hospital X-ray are all the same thing — electromagnetic waves, differing only in wavelength.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0b484e",
+      "slug": "fiber-interferometer-beats-diffraction-limit",
+      "type": "paper",
+      "title": "A 170km Fiber Link Just Beat the Diffraction Limit by 4x",
+      "hook": "Borrowing phase-stabilization tricks from quantum communications, physicists turned a 170km optical fiber into an interferometer sharp enough to beat the diffraction limit by 4x.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2707eb#0",
+      "format": "flip",
+      "prompt": "How can you image an object in infrared without ever detecting infrared light?",
+      "back_html": "\u003cp\u003eUse entangled photon pairs with one infrared and one visible partner. The infrared\nphoton probes the object; because the pair share a quantum state, the visible\nphoton's interference pattern carries what the infrared photon learned.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2707eb#1",
+      "format": "quiz",
+      "prompt": "Why is it an advantage to keep the infrared photon undetected?",
+      "choices": [
+        {
+          "text": "Infrared detectors are noisy and costly, while cheap silicon cameras work well in the visible",
+          "correct": true
+        },
+        {
+          "text": "Infrared photons destroy the sample they probe",
+          "correct": false
+        },
+        {
+          "text": "Detecting the infrared photon would violate the uncertainty principle",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe whole point is to move the measurement into the visible range, where silicon\ncamera technology is mature, and avoid background-limited infrared photodetection.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2707eb#2",
+      "format": "quiz",
+      "prompt": "By roughly how much did this scheme beat the background-limited infrared detection limit?",
+      "choices": [
+        {
+          "text": "About 100 times",
+          "correct": true
+        },
+        {
+          "text": "About 2 times",
+          "correct": false
+        },
+        {
+          "text": "About a million times",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors report imaging roughly 100 times better than the BLIP limit, thanks to\ncoherent detection plus the infrared photons never being detected.\u003c/p\u003e"
+    }
+  ]
+}

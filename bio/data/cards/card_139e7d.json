@@ -1,0 +1,101 @@
+{
+  "id": "card_139e7d",
+  "slug": "prions",
+  "type": "news",
+  "title": "Prions: Infection Without a Living Germ",
+  "hook": "Chronic wasting disease can spread silently from deer that look perfectly healthy — a reminder that some infections are caused not by a microbe, but by a misshapen protein.",
+  "key_points": [
+    "Prions are misfolded proteins that force normal copies to misfold too — no DNA or cells involved.",
+    "A new study found infectious prions in chronic-wasting-disease deer showing no symptoms.",
+    "That means the disease can spread silently, before any signs appear.",
+    "Researchers warn the prion can evolve and jump between species.",
+    "There is no confirmed risk to humans, but they urge close monitoring."
+  ],
+  "content_html": "\u003cp\u003eMost infections come from a living invader — a bacterium or a virus carrying its own genetic code. Prions break that rule. A prion is simply a normal body protein that has folded into the wrong shape, and its only \u0026quot;trick\u0026quot; is to bump into healthy copies of the same protein and force them to misfold as well. The damage spreads in a chain reaction, with no DNA, no cells, and nothing alive involved. Prion diseases like chronic wasting disease (CWD) in deer are untreatable and invariably fatal.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA new study, reported via ScienceDaily, adds a worrying wrinkle: infectious prions turned up in CWD-infected deer that showed no symptoms at all. That means the disease can spread silently, passing between animals long before anyone could spot a sick one. The researchers also caution that the prion can evolve and cross between species. They stress there is no confirmed risk to humans — but given how relentlessly prions behave, they argue the disease deserves close monitoring rather than complacency.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260615033841.htm",
+    "published_at": "2026-06-16",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "immune-system"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-18",
+  "date": "2026-06-16",
+  "related": [
+    {
+      "id": "card_f1976d",
+      "slug": "how-infections-spread",
+      "type": "concept",
+      "title": "How Infections Spread",
+      "hook": "Germs can't fly to a new host on their own — they hitch rides on coughs, hands, food, water, and insects. Break the ride, and you break the chain of infection.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8510f0",
+      "slug": "viruses-living-or-not",
+      "type": "concept",
+      "title": "Are Viruses Alive?",
+      "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_139e7d#0",
+      "format": "flip",
+      "prompt": "What is a prion, and how does it differ from a virus or bacterium?",
+      "back_html": "\u003cp\u003eA prion is a \u003cstrong\u003emisfolded protein\u003c/strong\u003e that forces normal proteins to misfold too. It has\nno DNA, RNA, or cells — it isn't a living germ at all, yet it spreads disease.\u003c/p\u003e"
+    },
+    {
+      "id": "card_139e7d#1",
+      "format": "quiz",
+      "prompt": "Why is the finding that infected deer can look healthy concerning?",
+      "choices": [
+        {
+          "text": "The disease can spread silently before any symptoms show",
+          "correct": true
+        },
+        {
+          "text": "It means the deer have recovered on their own",
+          "correct": false
+        },
+        {
+          "text": "It proves the disease can't infect other animals",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInfectious prions were present in deer with no symptoms, so chronic wasting disease\ncan pass to others before anyone can tell an animal is sick.\u003c/p\u003e"
+    },
+    {
+      "id": "card_139e7d#2",
+      "format": "quiz",
+      "prompt": "What did researchers say about the risk to people?",
+      "choices": [
+        {
+          "text": "No confirmed human risk, but the cross-species threat warrants close watching",
+          "correct": true
+        },
+        {
+          "text": "Humans are already widely infected",
+          "correct": false
+        },
+        {
+          "text": "Prions can never cross between species",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThere is no confirmed human risk so far, but because the prion can evolve and jump\nspecies, the researchers call for careful monitoring rather than complacency.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "card_29d1e9",
+  "slug": "when-a-deployment-becomes-permanent",
+  "type": "news",
+  "title": "When a Temporary Deployment Stops Being Temporary",
+  "hook": "Emergency powers rarely end with an announcement. They end — or don't — through quiet extensions that never get the scrutiny the first decision did.",
+  "key_points": [
+    "Domestic troop deployments are usually justified as temporary responses to a specific emergency.",
+    "Extending one requires far less political attention than starting one, because there is no new debate to lose.",
+    "NPR reports that the National Guard deployment in Washington, D.C. reached its one-year mark in August 2026.",
+    "NPR reports the deployment was quietly extended until Inauguration Day of 2029, with costs expected to run into the billions.",
+    "Repeated extension normalizes the exception: armed troops in a capital become an unremarked fixture of daily life."
+  ],
+  "content_html": "\u003cp\u003eEmergency measures are defined by their supposed temporariness, and that is exactly where they are hardest to police. Beginning a domestic troop deployment demands a public justification and invites an argument; continuing one usually requires nothing but a signature, because continuation is the default and no one has to win a fresh debate. NPR's Kat Lonsdorf reports that the National Guard deployment in Washington, D.C. hit its one-year mark in August 2026 — and that it was quietly extended until Inauguration Day of 2029, at a cost expected to run into the billions.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe civic mechanism worth naming is normalization. Armed, uniformed troops on city streets start as a visible exception that people notice and question; a year in, NPR reports, they have become an increasingly unremarked fixture of the capital's daily life. Nothing in law needs to change for that shift to happen — what changes is public expectation, and with it the political cost of ending the deployment or of extending it again. This pattern is not specific to one country or one government. It is why constitutional systems tend to build sunset clauses, funding votes, and reporting requirements around emergency powers: not because the initial decision is necessarily wrong, but because a decision that renews itself by default will otherwise never be re-examined. The useful question for any long-running emergency measure is simply who has to affirmatively vote for it to continue — and how often.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Kat Lonsdorf"
+    ],
+    "url": "https://npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
+    "published_at": "2026-08-11",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "federalism-levels",
+    "conflict-and-security"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_d99da7",
+      "slug": "who-commands-the-national-guard",
+      "type": "news",
+      "title": "Who Commands the National Guard?",
+      "hook": "The National Guard answers to two masters at once — a state governor and the president. A 2026 stand-off over troops in D.C. shows what happens when they pull in different directions.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_bb91eb",
+      "slug": "national-guard-and-crime",
+      "type": "news",
+      "title": "Did Troops Cut D.C. Crime?",
+      "hook": "A new study found the National Guard's deployment in Washington, D.C. had no measurable effect on violent crime — a case study in evaluating public-safety policy with evidence.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e455ef",
+      "slug": "democratic-backsliding",
+      "type": "concept",
+      "title": "Democratic Backsliding",
+      "hook": "Democracies rarely die in a single coup anymore. More often they erode — legally, gradually, step by step — until little is left but the shell of elections.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_015396",
+      "slug": "checks-and-balances",
+      "type": "concept",
+      "title": "Checks and Balances",
+      "hook": "Separating power isn't enough — each branch also gets tools to limit the others, so power keeps power in check.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_d99da7",
+      "slug": "who-commands-the-national-guard",
+      "type": "news",
+      "title": "Who Commands the National Guard?",
+      "hook": "The National Guard answers to two masters at once — a state governor and the president. A 2026 stand-off over troops in D.C. shows what happens when they pull in different directions.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_29d1e9#0",
+      "format": "flip",
+      "prompt": "Why is extending an emergency deployment politically easier than starting one?",
+      "back_html": "\u003cp\u003eStarting one requires a public justification and invites a fight.\nExtending one is a continuation of the status quo — often decided quietly,\nwith no new debate to win or lose.\u003c/p\u003e"
+    },
+    {
+      "id": "card_29d1e9#1",
+      "format": "quiz",
+      "prompt": "According to NPR, how long was the D.C. National Guard deployment extended?",
+      "choices": [
+        {
+          "text": "Until Inauguration Day of 2029",
+          "correct": true
+        },
+        {
+          "text": "For 30 more days",
+          "correct": false
+        },
+        {
+          "text": "Until the end of the 2026 midterms",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNPR reports the deployment — one year old in August 2026 — was quietly\nextended until Inauguration Day of 2029, at an expected cost in the\nbillions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_29d1e9#2",
+      "format": "quiz",
+      "prompt": "What does 'normalizing the exception' describe here?",
+      "choices": [
+        {
+          "text": "An extraordinary measure becoming an unremarked part of ordinary life",
+          "correct": true
+        },
+        {
+          "text": "A court formally approving the deployment",
+          "correct": false
+        },
+        {
+          "text": "A legislature voting to make the deployment permanent",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe change is in public expectation rather than law: what once demanded\njustification stops being noticed at all.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "card_cd7808",
+  "slug": "belle-ii-tau-to-muon-gamma",
+  "type": "paper",
+  "title": "Hunting a Decay the Standard Model Forbids",
+  "hook": "A tau lepton turning into a muon and a photon is essentially impossible in the Standard Model. Belle II looked hard and found nothing — which is exactly how you corner new physics.",
+  "key_points": [
+    "Lepton flavour is conserved in the Standard Model, so tau to muon plus photon is effectively forbidden.",
+    "Many extensions of the Standard Model predict the decay at rates a search could reach.",
+    "Belle II searched 428 inverse femtobarns of electron-positron collision data from SuperKEKB.",
+    "A multivariate classifier suppressed Standard Model backgrounds before a likelihood fit extracted any signal.",
+    "No significant excess appeared, giving a branching-fraction limit below 9.5e-8 at 90% confidence.",
+    "Null results like this shrink the parameter space that new-physics models are allowed to occupy."
+  ],
+  "content_html": "\u003cp\u003eLeptons come in three families — electron, muon, tau — and in the Standard Model a particle does not simply hop between them. That rule, lepton flavour conservation, makes the decay of a tau into a muon plus a photon effectively forbidden. Which is precisely why experimentalists keep looking for it: a single confirmed event would be new physics, not a statistical fluctuation in a busy background.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe Belle II collaboration reported its latest search in August 2026, using 428 inverse femtobarns of electron-positron collision data from the SuperKEKB collider. The analysis trains a multivariate classifier to push down Standard Model processes that can fake the signature, then extracts any remaining signal with an extended maximum-likelihood fit.\u003c/p\u003e\n\u003cp\u003eNo significant excess appeared. Using the CLs technique, the collaboration sets an upper limit on the branching fraction of 9.5 x 10^-8 at 90% confidence (12.2 x 10^-8 at 95%). That is the whole value of the exercise: many proposed extensions of the Standard Model — supersymmetry, leptoquarks, heavy neutral leptons — predict lepton-flavour violation at rates within reach of experiments like this one. Each tightening bound deletes a slice of their allowed parameter space, and the searches will continue as Belle II accumulates data.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Belle II Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2608.23009",
+    "published_at": "2026-08-24",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper",
+    "benchmark"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-24",
+  "related": [
+    {
+      "id": "card_bbad10",
+      "slug": "tau-lepton-magnetic-moment",
+      "type": "paper",
+      "title": "The Sharpest Look Yet at the Tau's Tiny Magnet",
+      "hook": "Every charged particle is a tiny magnet, and quantum jitters nudge its strength. Measuring that nudge tests the Standard Model — and CMS just made the best check yet for the tau lepton.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8608fa",
+      "slug": "muon-electric-dipole-moment-limit",
+      "type": "paper",
+      "title": "Is the Muon Lopsided? Still No Sign of It",
+      "hook": "A particle with a permanent electric dipole moment would violate time-reversal symmetry and point straight at new physics. Muon g-2 just squeezed the muon's limit tighter — and it stays at zero.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_e2c56f",
+      "slug": "the-muon-puzzle",
+      "type": "paper",
+      "title": "The muon puzzle: air showers make more muons than physics predicts",
+      "hook": "Cosmic rays hitting the atmosphere produce far more muons than any collider-tuned model expects. Auger now says the fix is that proton collisions must dump several times more energy into hadrons.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-24"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_cd7808#0",
+      "format": "quiz",
+      "prompt": "Why is the decay of a tau into a muon and a photon such a clean test for new physics?",
+      "choices": [
+        {
+          "text": "The Standard Model effectively forbids it, so any sighting would have to come from something new",
+          "correct": true
+        },
+        {
+          "text": "It happens constantly, so its rate is easy to measure precisely",
+          "correct": false
+        },
+        {
+          "text": "It is the only decay that produces a photon",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLepton flavour conservation makes the rate negligible in the Standard Model.\nWith essentially no expected signal, a detection could not be background.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cd7808#1",
+      "format": "flip",
+      "prompt": "What does an upper limit on a branching fraction tell you when no signal is found?",
+      "back_html": "\u003cp\u003eHow rare the decay must be — here below 9.5e-8 at 90% confidence — which\nrules out any new-physics model predicting it more often than that.\u003c/p\u003e"
+    }
+  ]
+}

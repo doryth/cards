@@ -1,0 +1,102 @@
+{
+  "id": "card_9fa649",
+  "slug": "kingdoms-of-life",
+  "type": "concept",
+  "title": "The Kingdoms of Life",
+  "hook": "One step below the domains, life sorts into kingdoms — animals, plants, fungi, and assorted microbes — each a different way of making a living on Earth.",
+  "key_points": [
+    "A kingdom is the rank just below domain in biological classification.",
+    "Commonly named kingdoms include animals, plants, fungi, protists, and bacteria.",
+    "Animals eat other organisms; plants make food from sunlight; fungi absorb nutrients.",
+    "Protists are a catch-all of mostly single-celled eukaryotes that fit nowhere else.",
+    "Exactly how many kingdoms exist is still debated as genetics refines the map."
+  ],
+  "content_html": "\u003cp\u003eJust beneath the three domains sits a more familiar layer: kingdoms. These are the big buckets most people learn first — animals, plants, fungi, protists, and microbes like bacteria. Each kingdom represents a fundamentally different strategy for surviving: animals eat other living things, plants build their own food from sunlight, and fungi quietly digest the world around them. The grouping is intuitive, even if the exact boundaries keep shifting as scientists learn more.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe kingdom is the rank directly below domain in the classic hierarchy of classification. For a long time biology taught \u0026quot;five kingdoms,\u0026quot; but the number is genuinely unsettled — genetic studies keep splitting and reshuffling groups, so you'll see schemes with six, seven, or more. The slipperiest kingdom is the protists: a catch-all of mostly single-celled eukaryotes, from pond-water amoebas to algae, lumped together largely because they aren't clearly animals, plants, or fungi. As Encyclopaedia Britannica notes, kingdoms remain a useful everyday map of life even as the precise lines are redrawn by DNA evidence.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/kingdom-biology",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "classification"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_e69708",
+      "slug": "the-three-domains",
+      "type": "concept",
+      "title": "The Three Domains of Life",
+      "hook": "At the very top, all life splits into just three branches — Bacteria, Archaea, and Eukarya — and your cells belong to the same one as mushrooms and oak trees.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5bfd13",
+      "slug": "naming-and-classifying-species",
+      "type": "concept",
+      "title": "How Species Are Named",
+      "hook": "Every species on Earth gets a two-word Latin name — like Homo sapiens — under a tidy ranked system invented 250 years ago that scientists still use today.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9fa649#0",
+      "format": "flip",
+      "prompt": "What is a 'kingdom' in biological classification?",
+      "back_html": "\u003cp\u003eA major grouping of organisms just \u003cstrong\u003ebelow the domain\u003c/strong\u003e. Familiar kingdoms include\nanimals, plants, fungi, protists, and bacteria.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9fa649#1",
+      "format": "quiz",
+      "prompt": "How do fungi mainly get their food, unlike plants?",
+      "choices": [
+        {
+          "text": "They absorb nutrients from their surroundings rather than making food from sunlight",
+          "correct": true
+        },
+        {
+          "text": "They photosynthesize using green leaves",
+          "correct": false
+        },
+        {
+          "text": "They hunt and swallow prey whole",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFungi don't photosynthesize like plants or ingest food like animals — they release\nenzymes to break down material around them and soak up the nutrients.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9fa649#2",
+      "format": "quiz",
+      "prompt": "What kind of organisms make up the kingdom of protists?",
+      "choices": [
+        {
+          "text": "A mixed group of mostly single-celled eukaryotes that don't fit the other kingdoms",
+          "correct": true
+        },
+        {
+          "text": "Only the largest land animals",
+          "correct": false
+        },
+        {
+          "text": "Viruses and other non-living particles",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProtists are a leftover category — mostly tiny eukaryotes like amoebas and algae\nthat aren't quite animals, plants, or fungi.\u003c/p\u003e"
+    }
+  ]
+}

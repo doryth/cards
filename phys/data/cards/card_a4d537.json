@@ -1,0 +1,124 @@
+{
+  "id": "card_a4d537",
+  "slug": "spin-graviton-spin-probe",
+  "type": "paper",
+  "title": "A Signature Only a Graviton Could Leave",
+  "hook": "Every quantum gravity hunt faces one trap: how do you know it wasn't some other force? The answer may be the graviton's spin-2 nature, which ties two particles' spins and momenta together uniquely.",
+  "key_points": [
+    "Detecting quantum gravity needs a signature no spin-0 or spin-1 force could mimic.",
+    "The distinguishing feature of gravity is the spin-2 nature of its propagator, the graviton.",
+    "The authors compute how a spin-2 exchange affects the interaction of two spin-1/2 particles.",
+    "The result intertwines both particles' spins and momenta simultaneously, as a dipole-dipole interaction.",
+    "It scales as 1/r^3 in real space and, at leading order, cannot arise from spin-0 or spin-1 exchange.",
+    "Observing it would need a four-partite entanglement setup, since spins and momenta must be tracked together."
+  ],
+  "content_html": "\u003cp\u003eThe experimental problem with quantum gravity is not just that the effects are tiny. It is\nfalsifiability: if you do see something, how do you show it came from a graviton and not from\nsome stray electromagnetic or short-range force in the apparatus? Fathi and Khosravi argue the\nanswer is to look for a feature that gravity alone possesses — the spin-2 nature of its\npropagator.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThey work out what a spin-2 exchange does to the interaction between two spin-1/2 particles. The\nresult is a dipole-dipole term that couples both particles' spins \u003cem\u003eand\u003c/em\u003e both momenta at the same\ntime, falling off as 1/r^3 in real space. That simultaneous entwining, they show, cannot be\nproduced at leading order by a spin-0 or spin-1 propagator, which is what gives the signature its\ndiagnostic power. To guard against artefacts of their method, they redo the calculation using an\nindependent route, the Foldy-Wouthuysen transformation, and get the same answer. The catch is the\nmeasurement: because spins and momenta must be tracked together on both particles, the authors\npropose a four-partite entanglement framework rather than the two-body setups usually discussed\nfor gravitationally induced entanglement.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Radmehr Fathi",
+      "Nima Khosravi"
+    ],
+    "url": "https://arxiv.org/abs/2608.28901",
+    "published_at": "2026-08-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_e8216a",
+      "slug": "detecting-quantum-gravitational-waves",
+      "type": "paper",
+      "title": "Could We Ever Tell a Gravitational Wave Is Quantum?",
+      "hook": "If gravity is quantum, gravitational waves should arrive in squeezed quantum states. This analysis finds nearly every route to observing that squeezing quietly destroys it.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-09"
+    },
+    {
+      "id": "card_aea720",
+      "slug": "graviton-decoherence-negligible",
+      "type": "paper",
+      "title": "Do Gravitons Ruin Quantum Interference? Not Even Close",
+      "hook": "If gravity is quantum, a molecule in two places at once should radiate gravitons and lose its interference. The calculated effect lands around one part in 10⁶¹.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_2fe59e",
+      "slug": "quantum-gravity-signals-may-be-illusion",
+      "type": "news",
+      "title": "Some Signs of Quantum Gravity May Be an Illusion",
+      "hook": "Tabletop experiments promise to catch gravity acting quantum. A new framework warns that some of those signatures have a perfectly ordinary explanation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-29"
+    },
+    {
+      "id": "card_224ba8",
+      "slug": "gravitational-aharonov-bohm-effect",
+      "type": "paper",
+      "title": "A Field You Can't Reach Still Shifts Your Phase",
+      "hook": "Spin a hollow cylinder and the gravitomagnetic field it makes exists only inside — where no particle goes. It still changes the interference pattern outside. Gravity's Aharonov-Bohm effect.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-16"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a4d537#0",
+      "format": "quiz",
+      "prompt": "Why do the authors focus on the spin-2 character of the graviton?",
+      "choices": [
+        {
+          "text": "It is what uniquely distinguishes gravity from spin-0 and spin-1 forces, so a spin-2 signature cannot be mimicked",
+          "correct": true
+        },
+        {
+          "text": "Spin-2 particles are the only ones that can be detected",
+          "correct": false
+        },
+        {
+          "text": "It makes the gravitational force stronger than electromagnetism",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe hard part of a quantum gravity experiment is ruling out mundane explanations. A\nsignature that only a spin-2 propagator can produce at leading order solves that.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a4d537#1",
+      "format": "flip",
+      "prompt": "What is the distinctive signature they calculate?",
+      "back_html": "\u003cp\u003eA dipole-dipole interaction that intertwines the spins and momenta of both spin-1/2\nparticles simultaneously, scaling as 1/r^3 in real space.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a4d537#2",
+      "format": "flip",
+      "prompt": "Why would observing it require a four-partite entanglement framework?",
+      "back_html": "\u003cp\u003eBecause the effect couples both particles' spin and momentum degrees of freedom at once, so\nfour things must be entangled and read out together, not two.\u003c/p\u003e"
+    }
+  ]
+}

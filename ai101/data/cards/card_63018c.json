@@ -1,0 +1,103 @@
+{
+  "id": "card_63018c",
+  "slug": "claude-science-launch",
+  "type": "news",
+  "title": "Anthropic Launches Claude Science, an AI Lab Assistant for Researchers",
+  "hook": "Anthropic's new Claude Science autonomously runs experiments for researchers — the same 'give it a goal, let it work' approach behind Claude Code, now aimed at biology and chemistry.",
+  "key_points": [
+    "Claude Science is Anthropic's new flagship product for scientific research, especially biology and drug development.",
+    "Like Claude Code, it can autonomously carry out substantial work from a high-level instruction — here, writing and running code on real compute clusters.",
+    "It's available to paid Claude subscribers and connects to tools used in genetics, chemistry, and protein biology.",
+    "At launch, Anthropic demoed it identifying drug candidates for a genetic disease and said it will fund its own research into neglected diseases."
+  ],
+  "content_html": "\u003cp\u003eAnthropic announced Claude Science on June 30, at an event for pharmaceutical executives, biotech founders, and researchers, MIT Technology Review reported. The pitch is a scientific counterpart to Claude Code: rather than writing software from a plain-language instruction, Claude Science autonomously writes and runs code on real compute clusters to carry out research tasks, with an emphasis on reproducibility so scientists can verify and retrace its results.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe tool connects to the kinds of software researchers already use in genetics, chemistry, and protein biology, and is available to any paid Claude subscriber rather than a narrow research partnership. Anthropic used the launch to demonstrate Claude Science identifying candidate drugs for phenylketonuria, a genetic disorder, and said it would fund its own research into treatments for neglected diseases — conditions that attract little commercial drug-development interest. The Verge's coverage of the same announcement noted Anthropic is positioning itself to develop drugs directly, not just sell tools to those who do. Internally, an Anthropic researcher called it as significant a product as Claude Code — a sign of how much weight the company is putting behind AI as a research collaborator, not just a chat assistant.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Grace Huckins"
+    ],
+    "url": "https://technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product",
+    "published_at": "2026-06-30",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-healthcare",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-06",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_eb781a",
+      "slug": "ai-in-healthcare",
+      "type": "concept",
+      "title": "AI in Healthcare",
+      "hook": "AI can spot a tumor on a scan faster than a tired radiologist and flag patterns no one would catch by eye. It's a powerful assistant to doctors — not a replacement for one.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_63018c#0",
+      "format": "quiz",
+      "prompt": "What is Claude Science most similar to, in how it works?",
+      "choices": [
+        {
+          "text": "Claude Code — give it a high-level goal and it autonomously does substantial work",
+          "correct": true
+        },
+        {
+          "text": "A search engine for scientific papers",
+          "correct": false
+        },
+        {
+          "text": "A chatbot that only answers biology trivia",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth are autonomous agents built to carry out meaningful, multi-step work\nfrom concise instructions — Claude Code in software, Claude Science in research.\u003c/p\u003e"
+    },
+    {
+      "id": "card_63018c#1",
+      "format": "flip",
+      "prompt": "What did Anthropic demo Claude Science doing at launch?",
+      "back_html": "\u003cp\u003eIdentifying drug candidates for phenylketonuria (PKU), a genetic disease —\nand announcing it will fund its own research into neglected diseases.\u003c/p\u003e"
+    },
+    {
+      "id": "card_63018c#2",
+      "format": "flip",
+      "prompt": "Who can use Claude Science, and what does it connect to?",
+      "back_html": "\u003cp\u003eIt's available to any paid Claude subscriber and interfaces with tools used\nin genetics, chemistry, and protein biology.\u003c/p\u003e"
+    }
+  ]
+}

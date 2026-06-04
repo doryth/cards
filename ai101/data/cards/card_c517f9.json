@@ -1,0 +1,88 @@
+{
+  "id": "card_c517f9",
+  "slug": "libby-ai-content-filter",
+  "type": "news",
+  "title": "Your Library App Is Adding an AI Content Filter — Sort Of",
+  "hook": "Libby, the library ebook app, is letting readers hide AI-generated books, narration, and art. The catch: the filter only works if publishers and authors honestly disclose using AI.",
+  "key_points": [
+    "Libby (from OverDrive) is rolling out settings to show or hide AI-generated content.",
+    "It covers AI authorship, AI-narrated audiobooks, machine translation, and AI-generated art.",
+    "OverDrive isn't excluding AI-made titles from the catalog — it's asking publishers to self-identify them.",
+    "The filter's accuracy depends entirely on that self-disclosure being honest.",
+    "New OverDrive CEO Marc DeBevoise: 'We need to tell people what's available [and] how it was created.'"
+  ],
+  "content_html": "\u003cp\u003eDigital libraries are quietly becoming a new front in the AI-content debate. The Verge reports that Libby, the ebook and audiobook app used by libraries everywhere, is rolling out settings that let readers choose whether they want to see AI-generated content at all — covering AI-written text, AI-narrated audiobooks, machine translation, and AI-generated cover art.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNew OverDrive CEO Marc DeBevoise frames the move plainly: \u0026quot;We need to tell people what's available [and] how it was created.\u0026quot; But the mechanism has a real gap. OverDrive isn't independently detecting AI content — it's asking publishers and self-published authors to disclose it themselves, and the filter only works as well as that disclosure is honest. A publisher that skips the label, intentionally or not, slips past the filter entirely. It's the same trade-off that shows up across AI content moderation: a labeling system built on trust is better than nothing, but it's not proof, and readers who care should treat an \u0026quot;AI-free\u0026quot; filter as a helpful signal rather than a guarantee.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Janko Roettgers"
+    ],
+    "url": "https://theverge.com/column/959433/libby-ai-filter",
+    "published_at": "2026-06-30",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-02",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7a965e",
+      "slug": "ai-creators-harder-to-spot",
+      "type": "news",
+      "title": "AI 'Creators' Are Getting Harder to Spot",
+      "hook": "AI influencers used to be easy to clock — too-smooth skin, an uncanny stare. The tells are vanishing, and fully synthetic 'creators' now slip into feeds without announcing themselves.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c517f9#0",
+      "format": "quiz",
+      "prompt": "How does Libby's new AI content filter actually work?",
+      "choices": [
+        {
+          "text": "Publishers and authors self-disclose AI use, and readers can then choose to hide it",
+          "correct": true
+        },
+        {
+          "text": "An AI model automatically scans every book and detects AI content with certainty",
+          "correct": false
+        },
+        {
+          "text": "It removes all AI-assisted books from the catalog entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOverDrive relies on publishers and self-published authors to label their own\nAI use — it doesn't run independent detection on every title.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c517f9#1",
+      "format": "flip",
+      "prompt": "Why is the filter's usefulness limited, even though it sounds helpful?",
+      "back_html": "\u003cp\u003eIt only catches what's honestly self-disclosed — an author who doesn't\nlabel their AI use won't be flagged, so the filter can't be fully trusted.\u003c/p\u003e"
+    }
+  ]
+}

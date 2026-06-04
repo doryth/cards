@@ -1,0 +1,98 @@
+{
+  "id": "card_d2b6b4",
+  "slug": "amazon-data-center-gas-plant",
+  "type": "news",
+  "title": "One Data Center, One of America's Dirtiest Power Plants",
+  "hook": "To feed a West Texas data center, Amazon is backing a new gas plant that could become one of the single largest greenhouse gas emitters in the United States.",
+  "key_points": [
+    "Amazon is investing in a new gas-burning power plant in Pecos County, West Texas.",
+    "The New York Times reports it could be among the largest single greenhouse gas producers in the US.",
+    "The plant exists to power a new Amazon data center — AI demand is the driver.",
+    "Grids can't add capacity fast enough, so operators increasingly build their own generation.",
+    "Company net-zero pledges and new gas plants are hard to hold in the same hand."
+  ],
+  "content_html": "\u003cp\u003eThe abstract cost of AI's energy appetite becomes very concrete in Pecos County, Texas. The New York Times reports that Amazon is investing heavily in a new gas-burning power plant there — one that could end up among the largest single producers of greenhouse gases in the country — built to power a new data center.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe reason companies are financing their own power plants rather than plugging into the grid is simple arithmetic: demand from AI data centers is arriving faster than utilities can add capacity, and waiting in an interconnection queue for years is not a plan. So the build-out is increasingly bring-your-own-electricity, and gas is what can be stood up quickly at scale. That collides awkwardly with the net-zero pledges the same companies have spent a decade publicizing. It's worth being proportionate — a single plant isn't the climate story on its own, and your individual chatbot queries are a rounding error inside it. The thing to watch is the pattern: when the infrastructure behind a convenience gets built this fast, the emissions get locked in for decades, and the people living next to it didn't pick the trade.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O’Brien"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+    "published_at": "2026-08-08",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-energy",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-08",
+  "related": [
+    {
+      "id": "card_969523",
+      "slug": "ai-energy-and-water",
+      "type": "concept",
+      "title": "AI's Energy \u0026 Water",
+      "hook": "Every chatbot reply runs in a warehouse of power-hungry computers somewhere. AI's convenience has a real physical footprint — in electricity, water for cooling, and carbon.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_199fae",
+      "slug": "data-center-backlash",
+      "type": "news",
+      "title": "Communities Are Pushing Back on AI Data Centers",
+      "hook": "The warehouses that power AI need land, power, and water — and neighbors are starting to say no. New York just signed the nation's first statewide data center ban into law.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_f2da86",
+      "slug": "google-electricity-use-2025",
+      "type": "news",
+      "title": "Google's AI Buildout Drove a 37% Jump in Electricity Use",
+      "hook": "Google's own numbers show its electricity use jumped 37% in 2025, driven largely by the data centers behind its AI push — a concrete figure in the debate over AI's energy footprint.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d2b6b4#0",
+      "format": "quiz",
+      "prompt": "Why is Amazon backing construction of a new gas plant in Texas?",
+      "choices": [
+        {
+          "text": "To supply power for a new data center, since the grid can't add capacity fast enough",
+          "correct": true
+        },
+        {
+          "text": "To sell electricity to nearby households",
+          "correct": false
+        },
+        {
+          "text": "Because renewable energy is illegal in Texas",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eData center demand is outpacing what grids can deliver, pushing operators to\nfund their own generation — here, a gas-burning plant in Pecos County.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d2b6b4#1",
+      "format": "flip",
+      "prompt": "What's the tension between AI build-outs and corporate climate pledges?",
+      "back_html": "\u003cp\u003eTech firms have made prominent net-zero commitments while funding new\nfossil-fuel generation to meet AI demand. The New York Times reports this plant\ncould be among the largest single US emitters.\u003c/p\u003e"
+    }
+  ]
+}

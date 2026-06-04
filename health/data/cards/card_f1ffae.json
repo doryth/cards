@@ -1,0 +1,99 @@
+{
+  "id": "card_f1ffae",
+  "slug": "finding-a-healthy-weight",
+  "type": "concept",
+  "title": "Finding a Healthy Weight",
+  "hook": "BMI is a quick screen, not a verdict. A healthy weight is the range where your risk of disease stays low — and your waistline tells part of the story too.",
+  "key_points": [
+    "A healthy weight is the range linked to lower risk of weight-related disease.",
+    "BMI is a rough screening tool from height and weight — useful, but limited.",
+    "BMI can mislead for muscular people and doesn't show where fat sits.",
+    "Waist size adds information: fat around the belly carries more health risk."
+  ],
+  "content_html": "\u003cp\u003e\u0026quot;Healthy weight\u0026quot; sounds like a single magic number, but it's really a range — the weight band where your risk of weight-related diseases stays low. The most common way to screen for it is BMI, calculated from your height and weight. It's handy, but it's a starting point, not the whole picture.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe U.S. CDC describes \u003cstrong\u003eBMI\u003c/strong\u003e as a screening tool: easy to calculate and useful at the population level, but blunt for individuals. It can't tell muscle from fat, so a very muscular person may land in a high category without excess fat, and it says nothing about \u003cstrong\u003ewhere\u003c/strong\u003e fat sits on the body. That last part matters — fat carried around the abdomen tends to carry more health risk than fat elsewhere, which is why a \u003cstrong\u003ewaist measurement\u003c/strong\u003e adds something BMI misses. Treat these as conversation-starters with a clinician, who can weigh them alongside your blood pressure, blood sugar, family history, and overall health rather than judging by a number alone.\u003c/p\u003e",
+  "source": {
+    "name": "CDC Healthy Weight",
+    "url": "https://www.cdc.gov/healthy-weight-growth/about/index.html",
+    "license": "Public domain (U.S. CDC)"
+  },
+  "topic_ids": [
+    "healthy-weight"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_47a36e",
+      "slug": "sustainable-weight-loss",
+      "type": "concept",
+      "title": "Weight Loss That Lasts",
+      "hook": "Crash diets win the first month and lose the year. Slow, steady loss built on habits you can actually keep is what stays off.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_ec190a",
+      "slug": "building-a-balanced-plate",
+      "type": "concept",
+      "title": "Building a Balanced Plate",
+      "hook": "Forget counting every calorie — the simplest healthy-eating tool is a picture of a plate: half produce, a quarter grains, a quarter protein.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bcf692",
+      "slug": "preventing-type-2-diabetes",
+      "type": "concept",
+      "title": "Preventing Type 2 Diabetes",
+      "hook": "Type 2 diabetes often arrives slowly, with a warning stage called prediabetes — and at that stage, modest lifestyle changes can stop or delay it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_69f847",
+      "slug": "ai-calorie-apps-underestimate",
+      "type": "news",
+      "title": "AI Calorie Apps Missed 250–345 Calories per Meal",
+      "hook": "Snap a photo, get a number — and NIH researchers found that number runs 250 to 345 calories light per meal, with about 30 grams of fat simply unaccounted for.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f1ffae#0",
+      "format": "flip",
+      "prompt": "What is BMI, and what's its main limitation?",
+      "back_html": "\u003cp\u003eBMI is a \u003cstrong\u003escreening tool\u003c/strong\u003e calculated from your height and weight. It's a useful\nrough guide, but it \u003cstrong\u003edoesn't distinguish muscle from fat\u003c/strong\u003e or show where fat is\nstored — so it can mislead for very muscular people.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f1ffae#1",
+      "format": "quiz",
+      "prompt": "Why does waist size add useful information beyond BMI?",
+      "choices": [
+        {
+          "text": "Fat carried around the belly carries more health risk",
+          "correct": true
+        },
+        {
+          "text": "Waist size replaces BMI entirely",
+          "correct": false
+        },
+        {
+          "text": "A larger waist always means lower disease risk",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe CDC notes that \u003cstrong\u003ewhere\u003c/strong\u003e fat sits matters — extra fat around the abdomen is\nlinked to higher health risk, which BMI alone can't reveal.\u003c/p\u003e"
+    }
+  ]
+}

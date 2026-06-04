@@ -1,0 +1,80 @@
+{
+  "id": "card_d108f2",
+  "slug": "helping-someone-who-is-choking",
+  "type": "concept",
+  "title": "Helping Someone Who Is Choking",
+  "hook": "If someone can still cough or speak, let them cough. If they can't breathe, speak, or cough, that's the moment to act — and to get help on the way.",
+  "key_points": [
+    "Mild choking (still coughing or speaking): encourage hard coughing, don't interfere.",
+    "Severe choking (can't breathe, cough, or speak): call emergency services and act.",
+    "Give firm back blows between the shoulder blades, then abdominal thrusts.",
+    "Alternate back blows and abdominal thrusts until the object clears or help arrives.",
+    "General info, not a substitute for hands-on first-aid training."
+  ],
+  "content_html": "\u003cp\u003eWhen someone is choking, the first thing to judge is how complete the blockage is. If they can still cough, speak, or breathe, the airway is only partly blocked and their own forceful coughing is the best tool. If they can't do any of those, the airway is blocked and you need to act while help is on the way.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe NHS describes a clear sequence for severe choking in an adult. Call emergency services (or have someone else call) right away. Lean the person forward and deliver up to five sharp back blows between the shoulder blades with the heel of your hand. If that doesn't clear it, give up to five abdominal thrusts — stand behind them, place a fist just above the navel, grasp it with your other hand, and pull sharply inward and upward. Alternate cycles of back blows and abdominal thrusts until the object dislodges or help arrives; if the person becomes unresponsive, begin CPR. This is general information — proper hands-on first-aid training matters, and for any serious airway emergency you should always call emergency services.\u003c/p\u003e",
+  "source": {
+    "name": "NHS (UK)",
+    "url": "https://www.nhs.uk/conditions/first-aid/choking/",
+    "license": "© Crown copyright (NHS, Open Government Licence v3.0)"
+  },
+  "topic_ids": [
+    "first-aid"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_2a9b89",
+      "slug": "when-a-symptom-needs-a-doctor",
+      "type": "concept",
+      "title": "When a Symptom Needs a Doctor",
+      "hook": "Most everyday symptoms pass on their own. The skill worth having is recognizing the red flags that mean don't wait — call for help now.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_30e293",
+      "slug": "hands-only-cpr",
+      "type": "concept",
+      "title": "Hands-Only CPR",
+      "hook": "If an adult collapses and isn't breathing, you don't need training certificates or rescue breaths — just two steps that can double or triple their chance of survival.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d108f2#0",
+      "format": "quiz",
+      "prompt": "Someone is choking but can still cough forcefully and speak. What should you do first?",
+      "choices": [
+        {
+          "text": "Encourage them to keep coughing and stay with them",
+          "correct": true
+        },
+        {
+          "text": "Immediately give five hard abdominal thrusts",
+          "correct": false
+        },
+        {
+          "text": "Have them lie flat on their back",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIf a person can still cough, breathe, or speak, the airway is only partly\nblocked. The NHS says coughing is the most effective way to clear it, so let\nthem cough rather than intervening.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d108f2#1",
+      "format": "flip",
+      "prompt": "What two techniques do you alternate for an adult with a fully blocked airway?",
+      "back_html": "\u003cp\u003eFirm \u003cstrong\u003eback blows\u003c/strong\u003e between the shoulder blades and \u003cstrong\u003eabdominal thrusts\u003c/strong\u003e\n(inward and upward pressure above the navel). Alternate them — typically up\nto five of each — until the object comes out or help arrives. Call emergency\nservices first.\u003c/p\u003e"
+    }
+  ]
+}

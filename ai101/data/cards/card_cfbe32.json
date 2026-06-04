@@ -1,0 +1,115 @@
+{
+  "id": "card_cfbe32",
+  "slug": "genesis-mission-ai-science",
+  "type": "news",
+  "title": "$5 Billion to Point AI at American Science",
+  "hook": "The White House unveiled its first 'Genesis Mission' grants — $5 billion for hundreds of AI-driven science projects, pitched in Manhattan Project terms. Critics see who's being handed the keys.",
+  "key_points": [
+    "The Trump administration announced the first 'Genesis Mission' grants, per The Verge.",
+    "Roughly $5 billion is directed toward hundreds of AI-driven science projects.",
+    "The White House described the effort as 'comparable in urgency and ambition to the Manhattan Project.'",
+    "Science adviser Michael Kratsios was on Capitol Hill making the case to lawmakers.",
+    "Critics question the tech-industry framing being applied to public science funding.",
+    "Government money, not just company money, now shapes which AI research happens."
+  ],
+  "content_html": "\u003cp\u003eMost AI money news is about companies. This one is about the government. The Verge reports that the Trump administration unveiled the first grants under its \u0026quot;Genesis Mission,\u0026quot; directing roughly $5 billion toward hundreds of AI-driven science projects, while science adviser Michael Kratsios made the case for the program to lawmakers on Capitol Hill.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe framing is doing a lot of work. The White House has described the effort as \u0026quot;comparable in urgency and ambition to the Manhattan Project\u0026quot; — a deliberate invocation of a wartime crash program, meant to signal both scale and national stakes. Whether the comparison holds is exactly what's being argued about; The Verge's piece is pointedly critical of the tech-industry sensibility now being applied to public science funding, and it isn't the only outlet raising that concern.\u003c/p\u003e\n\u003cp\u003eSet the rhetoric aside and there's a durable point underneath. Almost everything you read about AI's direction is decided by a handful of private labs spending their own money. Public funding works differently: it can support research with no product at the end of it, and it comes with a say in which questions get asked. Five billion dollars aimed at AI-for-science is a real change in who sets that agenda — which is precisely why the arguments about how it's spent are worth following.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Robert Hart"
+    ],
+    "url": "https://theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+    "published_at": "2026-07-24",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_63018c",
+      "slug": "claude-science-launch",
+      "type": "news",
+      "title": "Anthropic Launches Claude Science, an AI Lab Assistant for Researchers",
+      "hook": "Anthropic's new Claude Science autonomously runs experiments for researchers — the same 'give it a goal, let it work' approach behind Claude Code, now aimed at biology and chemistry.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_4b011a",
+      "slug": "alphafold-safer-gene-editing",
+      "type": "news",
+      "title": "AI Helps Redesign Gene Editors to Make Fewer Mistakes",
+      "hook": "Researchers used AlphaFold to work out which parts of a gene-editing protein cause it to cut the wrong DNA — then redesigned those parts. AI as a lab instrument, not a chatbot.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-24"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cfbe32#0",
+      "format": "quiz",
+      "prompt": "What is the 'Genesis Mission'?",
+      "choices": [
+        {
+          "text": "A US government program directing about $5 billion to AI-driven science projects",
+          "correct": true
+        },
+        {
+          "text": "A new AI model released by a private lab",
+          "correct": false
+        },
+        {
+          "text": "An international treaty limiting AI research",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt's a federal funding effort: the first grants direct roughly $5 billion toward\nhundreds of AI-driven science projects.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cfbe32#1",
+      "format": "flip",
+      "prompt": "How did the White House frame the ambition of the Genesis Mission?",
+      "back_html": "\u003cp\u003eAs \u0026quot;comparable in urgency and ambition to the Manhattan Project\u0026quot; — deliberately\ninvoking a wartime crash program to signal scale and national priority.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cfbe32#2",
+      "format": "flip",
+      "prompt": "Why does government AI funding matter alongside private company spending?",
+      "back_html": "\u003cp\u003ePublic money decides which research gets done at all — including work with no\nobvious product at the end. It shifts who sets the agenda, not just who pays.\u003c/p\u003e"
+    }
+  ]
+}

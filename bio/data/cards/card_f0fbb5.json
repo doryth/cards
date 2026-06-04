@@ -1,0 +1,99 @@
+{
+  "id": "card_f0fbb5",
+  "slug": "stem-cells",
+  "type": "concept",
+  "title": "Stem Cells: The Body's Blank Slates",
+  "hook": "Some cells haven't decided what to be yet — they can become muscle, nerve, or blood, and that flexibility makes them a frontier of medicine.",
+  "key_points": [
+    "Stem cells are unspecialized cells that can divide and become other cell types.",
+    "They self-renew, making more stem cells, and differentiate into specialized cells.",
+    "Embryonic stem cells can become almost any cell type; adult stem cells are more limited.",
+    "Researchers hope to use them to repair tissue and treat disease."
+  ],
+  "content_html": "\u003cp\u003eMost cells in your body have a fixed job — a skin cell stays a skin cell. Stem cells are the exception: they're unspecialized, meaning they haven't committed to a role yet. That blank-slate quality, plus their ability to keep dividing, makes them central to how the body builds and repairs itself, and a major focus of medical research.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eStem cells are defined by two abilities: they can \u003cstrong\u003eself-renew\u003c/strong\u003e, dividing to produce more stem cells, and they can \u003cstrong\u003edifferentiate\u003c/strong\u003e, maturing into specialized types such as blood, muscle, or nerve cells. As NIH's MedlinePlus explains, embryonic stem cells are the most versatile, able to become almost any cell type, while adult (or tissue) stem cells are more restricted, usually repairing the tissue they live in. Scientists are working to harness this potential to grow replacement tissue and treat conditions like spinal cord injury and diabetes — though embryonic stem cell research also raises ethical questions about where those cells come from.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/stemcells.html",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "the-cell"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_bae407",
+      "slug": "cell-division-mitosis",
+      "type": "concept",
+      "title": "Mitosis: One Cell Becomes Two",
+      "hook": "Right now, millions of your cells are copying their DNA and splitting in two — the everyday process that lets you grow, heal, and replace worn-out cells.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_574828",
+      "slug": "cell-organelles",
+      "type": "concept",
+      "title": "The Cell's Tiny Organs",
+      "hook": "Inside a single cell sits a whole working city — a control room, power plants, factories, and shipping lanes, each a structure called an organelle.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f0fbb5#0",
+      "format": "flip",
+      "prompt": "What makes a stem cell different from most other cells?",
+      "back_html": "\u003cp\u003eA stem cell is \u003cstrong\u003eunspecialized\u003c/strong\u003e — it hasn't committed to one job. It can both\nmake copies of itself and develop into specialized cells like muscle or nerve.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f0fbb5#1",
+      "format": "quiz",
+      "prompt": "What are the two defining abilities of a stem cell?",
+      "choices": [
+        {
+          "text": "Self-renewal and differentiation into other cell types",
+          "correct": true
+        },
+        {
+          "text": "Producing energy and storing fat",
+          "correct": false
+        },
+        {
+          "text": "Fighting infection and clotting blood",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eStem cells can \u003cstrong\u003eself-renew\u003c/strong\u003e (make more stem cells) and \u003cstrong\u003edifferentiate\u003c/strong\u003e\n(mature into specialized cell types) — the combination is what defines them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f0fbb5#2",
+      "format": "quiz",
+      "prompt": "How do embryonic stem cells generally compare to adult stem cells?",
+      "choices": [
+        {
+          "text": "Embryonic ones can become a wider range of cell types",
+          "correct": true
+        },
+        {
+          "text": "Adult ones can become any cell type, embryonic ones cannot",
+          "correct": false
+        },
+        {
+          "text": "They are identical in every way",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u003cstrong\u003eEmbryonic stem cells\u003c/strong\u003e can develop into nearly any cell type, while \u003cstrong\u003eadult\nstem cells\u003c/strong\u003e are usually limited to the tissues they came from.\u003c/p\u003e"
+    }
+  ]
+}

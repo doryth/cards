@@ -1,0 +1,121 @@
+{
+  "id": "card_361ed2",
+  "slug": "why-are-some-people-left-handed",
+  "type": "blog",
+  "title": "Why Are Some People Left-Handed?",
+  "hook": "About 10% of humans favor their left hand — and the answer starts, surprisingly, in the spinal cord, not the brain.",
+  "key_points": [
+    "About 10% of people are left-handed, and it isn't purely genetic — two left-handed parents have left-handed kids only 25-30% of the time, and identical twins agree just 20-30% of the time.",
+    "Genome studies have found around 40 gene variants linked to left-handedness, and most unexpectedly are tubulin genes, which build the microtubule scaffolding inside cells.",
+    "A study of 8-12-week-old fetuses found gene-expression differences between the left and right sides of the spinal cord — motor-circuit asymmetries that appear before the brain even wires up to the limbs.",
+    "Left-handers show more varied brain organization: 20-30% process language in the right hemisphere or both sides, versus the typical left-hemisphere dominance.",
+    "One evolutionary hypothesis ties right-hand dominance, which emerged roughly 2.8 million years ago in the genus Homo, to combat: heart placement makes left-handed strikes riskier for the attacker."
+  ],
+  "content_html": "\u003cp\u003eRoughly 1 in 10 people is left-handed, and despite being one of the most visible traits in biology, the question of why has been a stubborn mystery spanning genetics, embryology, and evolution.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHandedness isn't simply inherited: two left-handed parents have left-handed children only 25-30% of the time, and identical twins — who share all their DNA — agree on handedness just 20-30% of the time. Genome-wide studies have turned up roughly 40 gene variants that nudge the odds toward left-handedness, and surprisingly, most of them are tubulin genes, which build the microtubule scaffolding inside cells — not genes anyone expected to matter for something this complex. The trait's origin appears to lie lower than the brain: a study of 8-to-12-week-old fetuses found strong gene-expression differences between the left and right sides of the spinal cord, creating motor-circuit asymmetries that show up before the brain has even wired itself to the limbs. Left-handers also show more varied brain organization overall, with 20-30% processing language in the right hemisphere or both sides, versus the typical left-hemisphere dominance. One evolutionary theory for why right-handedness became the majority default, emerging roughly 2.8 million years ago in the genus \u003cem\u003eHomo\u003c/em\u003e, points to combat: because of where the heart sits, a left-handed strike exposes the attacker's own vulnerable side, so right-handers may have had a small survival edge that compounded over deep time.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Natalie Wolchover"
+    ],
+    "url": "https://quantamagazine.org/why-am-i-left-handed-20260713",
+    "published_at": "2026-07-13",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "nervous-system",
+    "evolution"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-13",
+  "related": [
+    {
+      "id": "card_5d8fdd",
+      "slug": "reflexes-and-the-spinal-cord",
+      "type": "concept",
+      "title": "Reflexes and the Spinal Cord",
+      "hook": "When you touch something hot, your hand jerks back before you even feel the pain — because the signal takes a shortcut through your spinal cord, skipping the brain.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f21e0c",
+      "slug": "the-brain",
+      "type": "concept",
+      "title": "The Brain",
+      "hook": "Three pounds of folded tissue runs the whole show — thinking, balance, breathing, memory — divided into regions that each handle a different part of the job.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80bbc5",
+      "slug": "mutations",
+      "type": "concept",
+      "title": "Mutations: When DNA Changes",
+      "hook": "Every time a cell copies its DNA, tiny typos can slip in — most do nothing at all, a few cause disease, and rare ones fuel evolution.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_361ed2#0",
+      "format": "flip",
+      "prompt": "Is left-handedness purely genetic?",
+      "back_html": "\u003cp\u003eNo — two left-handed parents produce left-handed children only 25-30% of the\ntime, and identical twins agree on handedness just 20-30% of the time, so\ngenetics alone doesn't determine it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_361ed2#1",
+      "format": "quiz",
+      "prompt": "What was surprising about the ~40 gene variants linked to left-handedness?",
+      "choices": [
+        {
+          "text": "Most are tubulin genes, which build microtubule scaffolding inside cells",
+          "correct": true
+        },
+        {
+          "text": "They are the same genes known to cause color blindness",
+          "correct": false
+        },
+        {
+          "text": "None of them are active before birth",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers didn't expect a gene family that builds cellular scaffolding to\nturn out to matter for something as complex as hand preference.\u003c/p\u003e"
+    },
+    {
+      "id": "card_361ed2#2",
+      "format": "flip",
+      "prompt": "Where does handedness appear to originate developmentally, and what's the evidence?",
+      "back_html": "\u003cp\u003eIn the \u003cstrong\u003espinal cord\u003c/strong\u003e, not the brain — a study found strong gene-expression\ndifferences between the left and right sides of the spinal cord in\n8-to-12-week-old fetuses, before brain-to-limb connections even form.\u003c/p\u003e"
+    },
+    {
+      "id": "card_361ed2#3",
+      "format": "quiz",
+      "prompt": "What's one evolutionary hypothesis for why right-handedness became the human majority?",
+      "choices": [
+        {
+          "text": "The \"modified fighting hypothesis\": heart placement makes left-handed strikes riskier for the attacker, giving right-handers a small survival edge",
+          "correct": true
+        },
+        {
+          "text": "Right-handed people historically had more children for unrelated cultural reasons",
+          "correct": false
+        },
+        {
+          "text": "Left-handedness only appeared after the invention of writing systems",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause the heart sits slightly left, a left-handed strike exposes the\nattacker's own vulnerable side — a small edge that may have compounded over\ndeep time since right-hand dominance emerged roughly 2.8 million years ago.\u003c/p\u003e"
+    }
+  ]
+}

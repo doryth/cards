@@ -1,0 +1,81 @@
+{
+  "id": "card_5940fa",
+  "slug": "why-glp1-doesnt-work-for-everyone",
+  "type": "news",
+  "title": "Why GLP-1 Drugs Don't Work for Everyone",
+  "hook": "Scientists found genetic variants — carried by roughly 1 in 10 people — that seem to cause a kind of 'GLP-1 resistance,' making drugs like Ozempic less effective at controlling blood sugar.",
+  "key_points": [
+    "Researchers identified genetic variants linked to a poorer response to GLP-1 drugs for Type 2 diabetes.",
+    "About 10% of people carry these variants — a possible explanation for 'GLP-1 resistance.'",
+    "In several clinical trials, carriers were less likely to reach healthy blood sugar targets on GLP-1 medications.",
+    "Hints at a future where genetics helps predict who benefits most from a given drug."
+  ],
+  "content_html": "\u003cp\u003eGLP-1 drugs like semaglutide have become a mainstay for Type 2 diabetes and weight loss, but they don't help everyone equally. Scientists now report genetic variants that may explain why: carried by about 10% of people, they appear to cause a form of \u0026quot;GLP-1 resistance\u0026quot; that blunts the drug's effect. Across several clinical trials, people with these variants were significantly less likely to reach healthy blood sugar targets while taking the medications.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily explains, the finding reframes a frustrating clinical reality — patients who do everything right yet see little benefit — as something rooted partly in their biology rather than effort or dosing alone. It's a reminder that \u0026quot;the drug didn't work\u0026quot; can sometimes mean \u0026quot;the drug doesn't fit this person.\u0026quot;\u003c/p\u003e\n\u003cp\u003eThe broader promise here is pharmacogenomics: using someone's genetics to predict which treatment will actually help before they spend months trying it. That future isn't here yet — these are research findings, not a test your doctor orders today — but identifying who responds, and who doesn't, is exactly the kind of knowledge that makes treatment less of a guessing game.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260605023417.htm",
+    "published_at": "2026-06-05",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "chronic-conditions"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-08",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_bcf692",
+      "slug": "preventing-type-2-diabetes",
+      "type": "concept",
+      "title": "Preventing Type 2 Diabetes",
+      "hook": "Type 2 diabetes often arrives slowly, with a warning stage called prediabetes — and at that stage, modest lifestyle changes can stop or delay it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b379a7",
+      "slug": "glp1-beyond-weight-loss",
+      "type": "news",
+      "title": "GLP-1 Drugs Linked to Lower Addiction Risk",
+      "hook": "A study of ~600,000 U.S. veterans links GLP-1 drugs like semaglutide to lower rates of addiction and overdose — an association, not proof that the drugs cause the effect.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-03"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5940fa#0",
+      "format": "flip",
+      "prompt": "Why might a GLP-1 drug fail to control blood sugar in some people?",
+      "back_html": "\u003cp\u003eSome people carry \u003cstrong\u003egenetic variants\u003c/strong\u003e that appear to cause \u0026quot;GLP-1 resistance\u0026quot; —\ntheir bodies respond less to the medication. Roughly 1 in 10 people carry them, and\nin trials these carriers were less likely to hit healthy blood sugar targets.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5940fa#1",
+      "format": "quiz",
+      "prompt": "About what share of people carry the variants tied to GLP-1 resistance?",
+      "choices": [
+        {
+          "text": "Roughly 10%",
+          "correct": true
+        },
+        {
+          "text": "Roughly half",
+          "correct": false
+        },
+        {
+          "text": "Fewer than 1 in 1,000",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers estimate about 10% of the population carries these variants — common\nenough to help explain why the drugs work far better for some people than others.\u003c/p\u003e"
+    }
+  ]
+}

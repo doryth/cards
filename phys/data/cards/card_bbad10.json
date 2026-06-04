@@ -1,0 +1,122 @@
+{
+  "id": "card_bbad10",
+  "slug": "tau-lepton-magnetic-moment",
+  "type": "paper",
+  "title": "The Sharpest Look Yet at the Tau's Tiny Magnet",
+  "hook": "Every charged particle is a tiny magnet, and quantum jitters nudge its strength. Measuring that nudge tests the Standard Model — and CMS just made the best check yet for the tau lepton.",
+  "key_points": [
+    "A particle's 'anomalous magnetic moment' (g−2) measures how quantum fluctuations shift its magnetism from the simplest prediction.",
+    "Any deviation from theory could betray unknown particles — the reason the muon's g−2 is watched so closely.",
+    "The tau's g−2 is barely constrained: the tau lives less than a trillionth of a second, too briefly to store in a ring.",
+    "CMS used 'ultraperipheral' lead-lead collisions, where two nuclei's photon clouds fuse (γγ→ττ) without the nuclei touching.",
+    "The result pins the tau's anomalous moment between −0.039 and 0.032 — the most precise LHC measurement yet, matching QED."
+  ],
+  "content_html": "\u003cp\u003eSpin a charged particle and it behaves like a tiny magnet. The exact strength of that magnet is predicted with extraordinary precision — and tiny quantum corrections from fleeting \u0026quot;virtual\u0026quot; particles shift it by a hair. Measuring that shift, called g−2, is one of physics' sharpest tests for undiscovered particles. CMS has now made the best such measurement for the tau, the heaviest cousin of the electron.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe muon's g−2 grabs headlines because its measured value has flirted with disagreeing with theory. The tau's version is far less explored: the tau lives less than a trillionth of a second, far too briefly to store in a ring the way muons are. So CMS turned to \u0026quot;ultraperipheral\u0026quot; lead-lead collisions, where two lead nuclei skim past each other and their intense electromagnetic fields — clouds of photons — collide to make tau pairs (γγ→ττ) without the nuclei themselves touching. Fitting the taus' momenta across four decay channels, CMS constrained the tau's anomalous magnetic moment to between −0.039 and 0.032 at 95% confidence — the most precise result for this process at the LHC so far, and in agreement with quantum electrodynamics. Attribution: CMS Collaboration, arXiv (2026).\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "CMS Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2607.20148",
+    "published_at": "2026-07-22",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-23",
+  "date": "2026-07-22",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3206bb",
+      "slug": "how-many-elementary-particles",
+      "type": "news",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "hook": "Count the Standard Model's particles and you might say 17 — but tweak the rules and the tally climbs past 900, with one rigorous answer that isn't even a whole number.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-15"
+    },
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bbad10#0",
+      "format": "flip",
+      "prompt": "What does a particle's 'anomalous magnetic moment' (g−2) measure?",
+      "back_html": "\u003cp\u003eHow much quantum fluctuations — clouds of fleeting virtual particles — shift the\nparticle's magnetism away from the simplest theoretical prediction.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bbad10#1",
+      "format": "quiz",
+      "prompt": "Why is the tau lepton's g−2 so much harder to measure than the muon's?",
+      "choices": [
+        {
+          "text": "The tau lives less than a trillionth of a second, too briefly to store in a ring",
+          "correct": true
+        },
+        {
+          "text": "The tau carries no electric charge, so it feels no magnetic force",
+          "correct": false
+        },
+        {
+          "text": "The tau is lighter than the electron, so its magnetism is tiny",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMuons can be stored in a ring and watched wobble; the tau decays far too fast\nfor that, so CMS had to infer its moment from tau-pair production instead.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bbad10#2",
+      "format": "flip",
+      "prompt": "How did CMS produce tau pairs without smashing the lead nuclei together?",
+      "back_html": "\u003cp\u003eIn \u0026quot;ultraperipheral\u0026quot; collisions the nuclei skim past each other and their\nphoton clouds fuse (γγ→ττ) — the nuclei themselves never touch.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bbad10#3",
+      "format": "quiz",
+      "prompt": "Why do physicists care about measuring g−2 as precisely as possible?",
+      "choices": [
+        {
+          "text": "A deviation from the predicted value could reveal undiscovered particles",
+          "correct": true
+        },
+        {
+          "text": "It sets the particle's electric charge",
+          "correct": false
+        },
+        {
+          "text": "It determines the particle's mass",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVirtual copies of unknown particles would nudge g−2; a measured value off from\ntheory is one of physics' sharpest hints that something new is hiding.\u003c/p\u003e"
+    }
+  ]
+}

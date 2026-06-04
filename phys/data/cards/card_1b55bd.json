@@ -1,0 +1,89 @@
+{
+  "id": "card_1b55bd",
+  "slug": "proton-shuttle-triplet-energy-transfer",
+  "type": "news",
+  "title": "A Proton Shuttle That Supercharges Energy Transfer",
+  "hook": "A single proton hops across and back in an instant — and that tiny quantum shuttle lets energy leap between a quantum dot and a molecule far faster than heat alone could manage.",
+  "key_points": [
+    "Triplet energy — a long-lived, hard-to-move form of excited-state energy — normally crosses slowly from a quantum dot to nearby molecules.",
+    "Researchers found that a proton hopping from a phenol to a pyridine and back coordinates the electron motion, opening a fast pathway.",
+    "The proton returns to where it started, so it acts like a catalyst — enabling the transfer without being consumed.",
+    "The jump happens by quantum tunneling rather than being driven by heat, which is why it's so much faster.",
+    "Switching the shuttle on or off tunes triplet formation — useful for solar cells, lasers, and catalysis."
+  ],
+  "content_html": "\u003cp\u003eSome excited-state energy is easy to pass around; the kind called triplet energy is not. Triplets are long-lived excited states that carry energy but move sluggishly from one place to another, which makes shuttling them from a light-absorbing quantum dot into nearby molecules a bottleneck for a lot of would-be devices.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team at the Dalian Institute of Chemical Physics, Chinese Academy of Sciences, led by Kaifeng Wu, found a surprisingly elegant workaround: enlist a proton as a shuttle. In their system, a proton briefly hops from a phenol group to a neighboring pyridine, and that shift coordinates the movement of electrons between a ZnSe quantum dot and the molecular acceptor — opening a fast route for the triplet energy to cross. The proton then returns to where it began, so it works like a catalyst, enabling the transfer without being used up. Crucially, the jump happens by quantum tunneling rather than being driven by heat, which is what makes it so much quicker than the usual pathway. Because the shuttle can be built in or removed, the researchers can tune how readily triplets form: suppress them to protect solar cells and lasers from energy losses, or ramp them up to power catalytic and environmental reactions. Published in \u003cem\u003eNature Materials\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260722032130.htm",
+    "published_at": "2026-07-22",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-23",
+  "date": "2026-07-22",
+  "related": [
+    {
+      "id": "card_81ea43",
+      "slug": "material-upconverts-sunlight-to-uv",
+      "type": "news",
+      "title": "A Material That Turns Sunlight Into UV Light",
+      "hook": "A new solid material soaks up ordinary visible sunlight and re-emits it as higher-energy ultraviolet — running uphill in energy, which light rarely does on its own.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "card_65937b",
+      "slug": "how-lasers-work",
+      "type": "concept",
+      "title": "How Lasers Work",
+      "hook": "A flashlight sprays a jumble of colors every which way. A laser does the opposite: one pure color, marching in perfect step, in a beam so tight it can reach the Moon.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1b55bd#0",
+      "format": "quiz",
+      "prompt": "What role does the proton play in speeding up the energy transfer?",
+      "choices": [
+        {
+          "text": "It briefly hops from a phenol to a pyridine and back, coordinating electron motion to open a fast pathway — then returns unchanged, like a catalyst",
+          "correct": true
+        },
+        {
+          "text": "It is permanently transferred to the molecule, carrying the energy with it",
+          "correct": false
+        },
+        {
+          "text": "It heats the surrounding material so energy diffuses faster",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe proton shuttles over and back, helping the electrons move; because it ends up where\nit started, it enables the transfer without being consumed — a catalytic role.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1b55bd#1",
+      "format": "flip",
+      "prompt": "Why is the transfer fast even without adding heat?",
+      "back_html": "\u003cp\u003eIt proceeds by \u003cstrong\u003equantum tunneling\u003c/strong\u003e rather than a heat-driven jump, so the energy can\ncross the barrier quickly instead of waiting for a thermal kick.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1b55bd#2",
+      "format": "flip",
+      "prompt": "Why would being able to switch this shuttle on or off be useful?",
+      "back_html": "\u003cp\u003eIt lets researchers \u003cstrong\u003etune how many triplets form\u003c/strong\u003e — suppress them to protect solar\ncells and lasers, or boost them to drive catalytic reactions.\u003c/p\u003e"
+    }
+  ]
+}

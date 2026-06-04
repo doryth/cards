@@ -1,0 +1,70 @@
+{
+  "id": "card_bf0bce",
+  "slug": "saturn-spin-mystery",
+  "type": "news",
+  "title": "Solving Saturn's Spin Mystery",
+  "hook": "Saturn's measured spin rate kept drifting, baffling astronomers for decades. The James Webb telescope reveals the planet wasn't speeding up — its winds were fooling us.",
+  "key_points": [
+    "Saturn's apparent rotation rate seemed to change over the decades, with no clear cause.",
+    "JWST observations trace the shifting signal to powerful high-altitude winds, not the planet itself.",
+    "Saturn's northern lights heat the upper atmosphere, driving those winds.",
+    "The winds generate electrical currents that power the aurora again — a self-sustaining cycle."
+  ],
+  "content_html": "\u003cp\u003eFor decades, Saturn handed astronomers a puzzle: depending on when they measured it, the giant planet seemed to be spinning at slightly different rates. A planet's day shouldn't wander like that. According to a ScienceDaily report, observations from NASA's James Webb Space Telescope have now resolved the mystery — and the answer is that Saturn was never really changing its spin at all.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe culprit is the planet's atmosphere. Powerful winds high above the clouds were skewing the signals scientists used to clock Saturn's rotation, making the deep, true spin look like it was drifting. Webb's sharp observations also revealed how those winds are driven: Saturn's northern lights heat the upper atmosphere, stirring up winds that generate electrical currents, which in turn help power the aurora all over again. It's a self-sustaining loop, and untangling it finally separates the planet's genuine rotation from the weather riding on top of it.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/05/260529043658.htm",
+    "published_at": "2026-05-29",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-05-29",
+  "related": [
+    {
+      "id": "card_7ed11f",
+      "slug": "giant-planet-spins",
+      "type": "news",
+      "title": "Why Some Giant Planets Spin Faster Than 'Failed Stars'",
+      "hook": "Astronomers clocked the spins of dozens of distant worlds and found a surprise: lightweight giant planets can twirl faster than the much heavier brown dwarfs — so mass isn't the whole story.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bf0bce#0",
+      "format": "flip",
+      "prompt": "Why did Saturn's measured rotation rate seem to keep changing?",
+      "back_html": "\u003cp\u003eNot because the planet sped up or slowed down, but because \u003cstrong\u003epowerful winds\nhigh in its atmosphere\u003c/strong\u003e shifted the signal scientists were measuring.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bf0bce#1",
+      "format": "quiz",
+      "prompt": "What did JWST reveal about Saturn's northern lights and its atmosphere?",
+      "choices": [
+        {
+          "text": "The aurorae heat the air, driving winds that help power the aurorae again",
+          "correct": true
+        },
+        {
+          "text": "The aurorae have no effect on Saturn's winds",
+          "correct": false
+        },
+        {
+          "text": "The winds cool the atmosphere and shut the aurorae off",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWebb showed Saturn's northern lights heat the upper atmosphere, generating\nwinds and currents that re-power the aurora in a self-sustaining cycle.\u003c/p\u003e"
+    }
+  ]
+}

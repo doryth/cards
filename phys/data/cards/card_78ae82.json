@@ -1,0 +1,103 @@
+{
+  "id": "card_78ae82",
+  "slug": "one-impact-explains-deimos",
+  "type": "news",
+  "title": "One Asteroid Strike May Explain Deimos",
+  "hook": "Mars' smaller moon has a huge southern dent and an oddly smooth, dusty face. Simulations say a single glancing hit by a 320-metre asteroid could have done both at once.",
+  "key_points": [
+    "Deimos has two puzzles: a large southern depression and an unusually smooth, dusty surface.",
+    "Simulations suggest one roughly 320-metre asteroid striking at an angle explains both.",
+    "The impact threw debris around the whole moon rather than shattering it, resurfacing it in dust.",
+    "ESA's Hera spacecraft made new observations consistent with that scenario.",
+    "Deimos appears surprisingly porous and fragile, which helps it absorb a hit without breaking apart."
+  ],
+  "content_html": "\u003cp\u003eDeimos, the smaller of Mars' two moons, has bothered planetary scientists on two counts: a large depression in its southern half, and a surface that is far smoother and dustier than a battered little moon has any business being. New simulations suggest both are the fingerprints of a single event.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn work reported in August 2026, researchers modelled an asteroid roughly 320 metres across hitting Deimos at an angle. The oblique strike excavates the southern basin, and because Deimos is small and its gravity weak, the ejecta does not simply fall back near the crater — it travels around the entire moon and settles as a smooth blanket of dust. One impact, two mysteries.\u003c/p\u003e\n\u003cp\u003eThe scenario also demands that Deimos hold together, and that is where new observations from ESA's Hera spacecraft come in: they support the impact picture and indicate Deimos is surprisingly porous and fragile. Counterintuitively, that fragility helps. A loosely packed, porous body soaks up and damps the shock of an impact instead of transmitting it cleanly through the interior, so it can survive a hit that would fracture a solid rock.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260824065516.htm",
+    "published_at": "2026-08-26"
+  },
+  "topic_ids": [
+    "gravity-orbits",
+    "momentum-collisions"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_5e3470",
+      "slug": "neptune-moons-from-shattered-worlds",
+      "type": "news",
+      "title": "Neptune's Little Moons Are Wreckage",
+      "hook": "JWST found clay minerals on Neptune's inner moons — the kind that only form with liquid water. The catch: those moons have no water ice of their own.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "card_a1dd7d",
+      "slug": "shattered-asteroid-bombarded-earth",
+      "type": "news",
+      "title": "A Shattered Asteroid May Have Bombarded Earth 800 Million Years Ago",
+      "hook": "One asteroid shattering near a gravitational 'gateway' carved out by Jupiter may explain a wave of impact craters across the inner solar system — and a climate shakeup on Earth.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "card_5aa8ad",
+      "slug": "psyche-mars-gravity-assist",
+      "type": "news",
+      "title": "Psyche Stole Speed From Mars on Its Way to a Metal Asteroid",
+      "hook": "NASA's Psyche flew past Mars not to study it but to borrow its motion — the gravity-assist trick that lets a spacecraft gain speed for free.",
+      "importance": 2,
+      "difficulty": "intro",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "card_024cfd",
+      "slug": "lucy-asteroid-donaldjohanson",
+      "type": "news",
+      "title": "A Wobbling, Peanut-Shaped Asteroid Reshaped by Sunlight",
+      "hook": "NASA's Lucy found that asteroid Donaldjohanson is a peanut-shaped relic of an ancient collision — slowly reshaped by sunlight, and still carrying traces of old water.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_78ae82#0",
+      "format": "quiz",
+      "prompt": "How did one impact produce both of Deimos's odd features?",
+      "choices": [
+        {
+          "text": "The angled strike carved the depression and flung debris that resurfaced the whole moon in dust",
+          "correct": true
+        },
+        {
+          "text": "The impact split Deimos in two and the halves reassembled smoothly",
+          "correct": false
+        },
+        {
+          "text": "The impact melted the surface, which then cooled into a smooth crust",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSimulations show an oblique hit excavates a large basin while spraying ejecta\nthat circles the small moon and settles as a smooth dusty blanket.\u003c/p\u003e"
+    },
+    {
+      "id": "card_78ae82#1",
+      "format": "flip",
+      "prompt": "Why does Deimos being porous and fragile help the single-impact story?",
+      "back_html": "\u003cp\u003eA porous body absorbs and damps the shock rather than transmitting it,\nso it can take a large strike without being torn apart.\u003c/p\u003e"
+    }
+  ]
+}

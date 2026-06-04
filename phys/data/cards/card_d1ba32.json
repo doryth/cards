@@ -1,0 +1,112 @@
+{
+  "id": "card_d1ba32",
+  "slug": "nuclear-fusion",
+  "type": "concept",
+  "title": "Nuclear Fusion",
+  "hook": "The same reaction that powers every star — squeezing light nuclei together — could one day give Earth nearly limitless clean energy, if we can hold a sun in a box.",
+  "key_points": [
+    "Fusing light nuclei like hydrogen into helium releases enormous energy.",
+    "It powers the stars, including the Sun.",
+    "It needs extreme temperature and pressure to force nuclei close enough to fuse.",
+    "Fusion energy on Earth is a long-sought goal; recent experiments briefly passed break-even."
+  ],
+  "content_html": "\u003cp\u003eFusion is fission's opposite, and in a way its big sibling. Instead of splitting a heavy nucleus, fusion forces light nuclei together — typically forms of hydrogen merging into helium. The catch is that all nuclei are positively charged and shove each other away, so you need staggering temperature and pressure to ram them close enough for the strong nuclear force to lock them together. When they fuse, they release even more energy per gram than fission does.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is exactly what stars do: deep in the Sun's core, hydrogen fuses into helium, and that energy is the sunlight that warms the planet. Recreating fusion on Earth would mean clean, abundant power with little long-lived waste, which is why it has been a holy grail of physics for decades. It's brutally hard — you essentially have to build and contain a tiny star — but recent experiments have briefly produced more energy from a reaction than they put in to ignite it. Wikipedia surveys how fusion works and where the technology stands.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nuclear_fusion",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "atomic-nuclear"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_fea6ef",
+      "slug": "nuclear-fission",
+      "type": "concept",
+      "title": "Nuclear Fission",
+      "hook": "Split one heavy nucleus and it releases neutrons that split more — a chain reaction that, tamed, lights cities, and unleashed, levels them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3bf1e2",
+      "slug": "what-powers-the-sun",
+      "type": "concept",
+      "title": "What Powers the Sun",
+      "hook": "The Sun isn't burning like a fire — it's fusing hydrogen into helium in its core, and a sliver of mass turning into pure energy is what lights up our sky.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_d1ba32#0",
+      "format": "flip",
+      "prompt": "Why does fusion need such extreme conditions?",
+      "back_html": "\u003cp\u003eNuclei are all positive and repel each other fiercely. Only enormous\n\u003cstrong\u003etemperature and pressure\u003c/strong\u003e can slam them close enough for the strong\nforce to take over and fuse them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d1ba32#1",
+      "format": "quiz",
+      "prompt": "What is the fundamental difference between fusion and fission?",
+      "choices": [
+        {
+          "text": "Fusion joins light nuclei together; fission splits heavy nuclei apart",
+          "correct": true
+        },
+        {
+          "text": "Fusion splits nuclei; fission joins them",
+          "correct": false
+        },
+        {
+          "text": "Fusion releases no energy, fission does",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFusion combines light nuclei such as hydrogen, while fission breaks apart\nheavy nuclei such as uranium. Both release energy from mass.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d1ba32#2",
+      "format": "quiz",
+      "prompt": "What natural objects are powered by fusion?",
+      "choices": [
+        {
+          "text": "Stars, including the Sun",
+          "correct": true
+        },
+        {
+          "text": "Lightning storms",
+          "correct": false
+        },
+        {
+          "text": "Ocean currents",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eStars fuse light nuclei in their cores, and that energy is what makes them\nshine, the Sun included.\u003c/p\u003e"
+    }
+  ]
+}

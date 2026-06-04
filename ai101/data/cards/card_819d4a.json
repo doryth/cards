@@ -1,0 +1,88 @@
+{
+  "id": "card_819d4a",
+  "slug": "apple-titan-ai-chip-legacy",
+  "type": "news",
+  "title": "Apple's Failed Self-Driving Car Left Behind Its Best AI Chips",
+  "hook": "Apple's self-driving car project never shipped a single vehicle. But building it forced Apple to solve on-device AI processing — and that work became the foundation of its most powerful chips today.",
+  "key_points": [
+    "The Verge reports Apple's canceled self-driving car program left a legacy: unusually powerful on-device AI chips.",
+    "Early in the car project, Apple realized it needed heavy-duty on-device AI processing for real-time driving decisions.",
+    "The car itself was never finished, but the chip expertise developed for it didn't go to waste.",
+    "A concrete example of how R\u0026D spent on one failed product can pay off somewhere else entirely."
+  ],
+  "content_html": "\u003cp\u003eNot every R\u0026amp;D dead end is actually a dead end. The Verge reports that Apple's self-driving car program — famously canceled without ever shipping a vehicle — left behind a legacy that's still paying off: some of the powerful on-device AI chip technology in Apple's products today.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEarly in developing the car, Apple's engineers realized they'd need serious on-device AI processing power: a self-driving vehicle can't afford to send sensor data to the cloud and wait for an answer before reacting to what's in front of it, so the computing had to happen instantly, on the car itself. That forced real advances in on-device AI chip design. The car project itself never reached the road, but that chip work didn't disappear with it — it carried over into the processors powering Apple's other devices. It's a useful reminder that a canceled, expensive-looking failure can still generate real, reusable technical progress; the payoff just shows up somewhere you weren't expecting to look.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O’Brien"
+    ],
+    "url": "https://theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "published_at": "2026-07-12",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "who-controls-ai",
+    "robots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-12",
+  "related": [
+    {
+      "id": "card_6045bc",
+      "slug": "asml-chipmaking-machine",
+      "type": "news",
+      "title": "The $400 Million Machine Behind Every AI Chip",
+      "hook": "Every AI chip starts on a machine most people have never heard of: a $400-million, bus-sized contraption from a single Dutch company that the whole industry depends on.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "card_66e39d",
+      "slug": "robots-and-self-driving",
+      "type": "concept",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_819d4a#0",
+      "format": "quiz",
+      "prompt": "What unexpected legacy did Apple's canceled self-driving car project leave behind?",
+      "choices": [
+        {
+          "text": "Powerful on-device AI chip technology that carried over to Apple's other products",
+          "correct": true
+        },
+        {
+          "text": "A finished, shipping self-driving car",
+          "correct": false
+        },
+        {
+          "text": "Nothing — the entire project's work was discarded",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAlthough the car itself never launched, the on-device AI processing power\nApple built for it became a foundation for its current chip lineup.\u003c/p\u003e"
+    },
+    {
+      "id": "card_819d4a#1",
+      "format": "flip",
+      "prompt": "Why did the self-driving car project need such powerful on-device AI processing?",
+      "back_html": "\u003cp\u003eReal-time driving decisions can't wait on a round trip to the cloud — the\ncar needed to process sensor data and react instantly, on the vehicle itself.\u003c/p\u003e"
+    }
+  ]
+}

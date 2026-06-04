@@ -1,0 +1,99 @@
+{
+  "id": "card_20ed50",
+  "slug": "cancer-when-cells-divide-wrong",
+  "type": "concept",
+  "title": "Cancer: When Cells Divide Wrong",
+  "hook": "Cancer is cell division gone unchecked — a cell ignores the body's stop signals, multiplies relentlessly, and crowds out healthy tissue.",
+  "key_points": [
+    "Healthy cells divide on cue and stop when told; cancer cells ignore those controls.",
+    "Cancer starts with mutations in genes that govern when a cell grows, rests, or dies.",
+    "Uncontrolled division builds a tumor, and some cells can break away and spread (metastasis).",
+    "Because it begins in our own cells, cancer is many diseases rather than a single one."
+  ],
+  "content_html": "\u003cp\u003eEvery day your body makes billions of new cells through controlled division, and just as importantly, it knows when to stop. Cancer is what happens when that control breaks down. A cell stops listening to the signals that tell it to pause, repair, or die, and instead keeps dividing — building a mass of cells that serves no purpose and steals resources from the tissue around it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs the NIH National Cancer Institute explains, cancer almost always traces back to \u003cstrong\u003emutations\u003c/strong\u003e in the genes that govern the cell cycle — the genes that say \u0026quot;grow,\u0026quot; \u0026quot;stop,\u0026quot; or \u0026quot;self-destruct.\u0026quot; When enough of these controls fail, a single rogue cell divides into a \u003cstrong\u003etumor\u003c/strong\u003e, and in many cancers some of those cells learn to break away, travel through the blood or lymph, and seed new growths elsewhere, a process called \u003cstrong\u003emetastasis\u003c/strong\u003e. Because cancer arises from our own cells rather than an outside invader, it is really a family of more than a hundred diseases, each defined by which cells went wrong and which genetic controls failed — which is why no single cure fits them all.\u003c/p\u003e",
+  "source": {
+    "name": "NIH National Cancer Institute",
+    "url": "https://www.cancer.gov/about-cancer/understanding/what-is-cancer",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "the-cell"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_bae407",
+      "slug": "cell-division-mitosis",
+      "type": "concept",
+      "title": "Mitosis: One Cell Becomes Two",
+      "hook": "Right now, millions of your cells are copying their DNA and splitting in two — the everyday process that lets you grow, heal, and replace worn-out cells.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_20ed50#0",
+      "format": "flip",
+      "prompt": "At its core, what is cancer?",
+      "back_html": "\u003cp\u003eCancer is \u003cstrong\u003euncontrolled cell division\u003c/strong\u003e. A cell stops obeying the body's signals\nto stop growing or to die, and instead multiplies relentlessly, crowding out\nhealthy tissue.\u003c/p\u003e"
+    },
+    {
+      "id": "card_20ed50#1",
+      "format": "quiz",
+      "prompt": "What underlying change first turns a normal cell cancerous?",
+      "choices": [
+        {
+          "text": "Mutations in genes that control growth, rest, and cell death",
+          "correct": true
+        },
+        {
+          "text": "An infection that replaces all the cell's DNA with viral DNA",
+          "correct": false
+        },
+        {
+          "text": "The cell running completely out of water",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCancer begins with \u003cstrong\u003emutations\u003c/strong\u003e in the genes that normally regulate when a cell\ndivides, pauses, or self-destructs. When those controls fail, the cell divides\nwithout restraint.\u003c/p\u003e"
+    },
+    {
+      "id": "card_20ed50#2",
+      "format": "quiz",
+      "prompt": "What is metastasis?",
+      "choices": [
+        {
+          "text": "When cancer cells break away and spread to other parts of the body",
+          "correct": true
+        },
+        {
+          "text": "When a tumor shrinks and disappears on its own",
+          "correct": false
+        },
+        {
+          "text": "The normal process of a cell repairing its DNA",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u003cstrong\u003eMetastasis\u003c/strong\u003e is the spread of cancer cells from where they started to distant\nsites in the body. It is what makes many cancers especially dangerous to treat.\u003c/p\u003e"
+    }
+  ]
+}

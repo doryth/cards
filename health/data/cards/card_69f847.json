@@ -1,0 +1,99 @@
+{
+  "id": "card_69f847",
+  "slug": "ai-calorie-apps-underestimate",
+  "type": "news",
+  "title": "AI Calorie Apps Missed 250–345 Calories per Meal",
+  "hook": "Snap a photo, get a number — and NIH researchers found that number runs 250 to 345 calories light per meal, with about 30 grams of fat simply unaccounted for.",
+  "key_points": [
+    "NIH researchers tested four apps — MyFitnessPal, LoseIt!, CalAI, and Appediet — against 102 photos of meals from a metabolic kitchen.",
+    "Ingredients in the reference meals were weighed to the nearest 0.1 gram, so the true values were known precisely.",
+    "The apps underestimated by 250 to 345 calories per meal on average, and by roughly 30 grams of fat.",
+    "Errors ran in one direction — under, not over — so the drift compounds across a day.",
+    "Carbohydrates were estimated more consistently; high-fat ketogenic dishes caused the most trouble.",
+    "Researchers' advice: photo-based tracking without adjusting portions or entering amounts should be taken 'with a grain of salt.'"
+  ],
+  "content_html": "\u003cp\u003ePoint your phone at dinner and an app tells you the calories. It's a genuinely appealing shortcut, and NIH researchers just measured how far off it is. Their reference wasn't another app — it was a controlled metabolic kitchen where every ingredient was weighed to the nearest 0.1 gram, giving 102 photographed meals with known nutritional truth. Against that standard, four popular apps — MyFitnessPal, LoseIt!, CalAI, and Appediet — came in 250 to 345 calories too low per meal on average, and missed roughly 30 grams of fat.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe direction of the error is the part that matters. A random error averages out across a week; a systematic undercount doesn't. If the app is quietly shaving a couple hundred calories off every meal, a day that reads as a deficit on screen may be nothing of the kind — which is precisely the scenario where someone concludes their metabolism is broken rather than that their measurement is. Not all nutrients fared equally: carbohydrates were estimated fairly consistently, while fat was the weak point, and high-fat ketogenic dishes gave the apps the most trouble. A follow-up test on more than 200 additional meals probed what drives the accuracy.\u003c/p\u003e\n\u003cp\u003eThe findings, from Aaron Hengist and Olivia Charles at the National Institute of Diabetes and Digestive and Kidney Diseases, were presented at NUTRITION 2026 and are preliminary — conference results, not yet through peer review. Their own recommendation is the practical takeaway: people using a photo-based tracking app \u0026quot;without adjusting the portions or entering the amounts of food should take the results with a grain of salt.\u0026quot; These tools are better at telling you \u003cem\u003ewhat\u003c/em\u003e you ate than \u003cem\u003ehow much\u003c/em\u003e — use them for patterns and habits, and enter real quantities when the number actually matters.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260726015237.htm",
+    "published_at": "2026-07-26",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "nutrition",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-27",
+  "date": "2026-07-26",
+  "related": [
+    {
+      "id": "card_03fc0b",
+      "slug": "reading-a-nutrition-label",
+      "type": "concept",
+      "title": "How to Read a Nutrition Label",
+      "hook": "The Nutrition Facts label is a cheat sheet hiding in plain sight — learn the few lines that matter and you can size up any packaged food in seconds.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1ffae",
+      "slug": "finding-a-healthy-weight",
+      "type": "concept",
+      "title": "Finding a Healthy Weight",
+      "hook": "BMI is a quick screen, not a verdict. A healthy weight is the range where your risk of disease stays low — and your waistline tells part of the story too.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_42b2a6",
+      "slug": "understanding-fats",
+      "type": "concept",
+      "title": "Good Fats, Bad Fats",
+      "hook": "Fat isn't the enemy — the type is what matters. Swapping saturated and trans fats for unsaturated ones beats just trying to eat less fat overall.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_69f847#0",
+      "format": "quiz",
+      "prompt": "Which nutrient did AI photo-tracking apps handle worst?",
+      "choices": [
+        {
+          "text": "Fat — underestimated by about 30 grams, with high-fat ketogenic meals the hardest",
+          "correct": true
+        },
+        {
+          "text": "Carbohydrates, which were wildly inconsistent",
+          "correct": false
+        },
+        {
+          "text": "Water content",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFat was underestimated by roughly 30 grams per meal, and ketogenic dishes — which are\nhigh in fat — gave the apps the most trouble. Carbohydrates were measured more\nconsistently.\u003c/p\u003e"
+    },
+    {
+      "id": "card_69f847#1",
+      "format": "flip",
+      "prompt": "Why does a consistent 250–345 calorie undercount matter more than a random error?",
+      "back_html": "\u003cp\u003eBecause errors that all run in one direction \u003cstrong\u003ecompound\u003c/strong\u003e. A random error averages out\nover a week; a systematic undercount means a day that looks like a deficit on screen may\nnot be one on the scale.\u003c/p\u003e"
+    },
+    {
+      "id": "card_69f847#2",
+      "format": "flip",
+      "prompt": "What's the practical fix if you use a photo-based food app?",
+      "back_html": "\u003cp\u003eDon't accept the photo estimate as-is. The researchers' advice: adjust the portions and\nenter the actual amounts of food — otherwise take the result \u0026quot;with a grain of salt.\u0026quot;\u003c/p\u003e"
+    }
+  ]
+}

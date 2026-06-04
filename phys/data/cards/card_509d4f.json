@@ -1,0 +1,112 @@
+{
+  "id": "card_509d4f",
+  "slug": "hilbert-space-explained",
+  "type": "news",
+  "title": "Why Quantum Physics Lives in Hilbert Space",
+  "hook": "Quantum states don't live in the space you walk around in, but in an abstract arena where every possible outcome is its own direction. That change of setting is the real leap.",
+  "key_points": [
+    "A quantum state is a vector; each independent measurement outcome is its own axis in the space.",
+    "Two paths through a double slit means two axes, and interference is the geometry between them.",
+    "Adding particles multiplies dimensions instead of adding them, so the space explodes in size fast.",
+    "Superposition is just a sum of directions; probabilities come from squaring how far the vector leans.",
+    "Quanta's piece frames Hilbert space as the change of scenery quantum mechanics demands, not extra math baggage."
+  ],
+  "content_html": "\u003cp\u003eThe hardest move in learning quantum mechanics is not an equation. It is a change of address. Ordinary physics happens in the three-dimensional space you can point at; quantum physics is bookkept in an abstract arena called Hilbert space, where the directions you can point are not left and right but \u003cem\u003epossible outcomes\u003c/em\u003e.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eCharlie Wood's August 2026 piece for Quanta Magazine walks through why physicists made that move. In Hilbert space a quantum state is a vector, and every independent thing a measurement could return gets its own axis. A particle that could go through either of two slits lives in a two-axis space; a state leaning partly along both axes is a superposition, and interference becomes a statement about the geometry between those directions. How far the vector leans along an axis, squared, gives the probability of that outcome.\u003c/p\u003e\n\u003cp\u003eThe catch that makes the setting powerful is also what makes it punishing. Combining systems multiplies dimensions rather than adding them, so a modest pile of particles already needs a space far too large to write down — the reason classical simulation of quantum matter gets hopeless so quickly, and part of the pitch for quantum computers. Read the full article at Quanta.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Charlie Wood"
+    ],
+    "url": "https://quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826",
+    "published_at": "2026-08-26"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fbcad2",
+      "slug": "classical-probability-double-slit",
+      "type": "paper",
+      "title": "Can Classical Probability Alone Explain the Double-Slit Pattern?",
+      "hook": "The double-slit interference pattern is physics' go-to symbol of quantum weirdness. A theoretical study shows classical probability alone can reproduce it, given the right ingredients.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_509d4f#0",
+      "format": "flip",
+      "prompt": "What does a single direction (axis) in Hilbert space correspond to?",
+      "back_html": "\u003cp\u003eOne distinct measurement outcome. A state that leans partly along several\naxes at once is a superposition of those outcomes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_509d4f#1",
+      "format": "quiz",
+      "prompt": "What happens to the size of the Hilbert space when you add more particles to a system?",
+      "choices": [
+        {
+          "text": "Dimensions multiply, so the space grows explosively",
+          "correct": true
+        },
+        {
+          "text": "Dimensions add, so the space grows one step at a time",
+          "correct": false
+        },
+        {
+          "text": "The dimension stays fixed at three, matching ordinary space",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCombining systems multiplies their dimensions rather than adding them.\nThat runaway growth is why simulating many quantum particles is so hard.\u003c/p\u003e"
+    },
+    {
+      "id": "card_509d4f#2",
+      "format": "flip",
+      "prompt": "Why isn't Hilbert space just ordinary space with extra steps?",
+      "back_html": "\u003cp\u003eIts axes are possibilities, not places. A direction labels a possible\nmeasurement result, so the geometry tracks amplitudes rather than positions.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "card_aaa41e",
+  "slug": "voting-systems-overview",
+  "type": "concept",
+  "title": "How Votes Become Seats",
+  "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+  "key_points": [
+    "An electoral system is the set of rules turning votes into seats or offices.",
+    "Plurality ('first-past-the-post'): the candidate with the most votes in a district wins.",
+    "Proportional representation: seats are allocated roughly in proportion to each party's vote share.",
+    "Each system trades off simplicity, local representation, and how closely seats mirror votes."
+  ],
+  "content_html": "\u003cp\u003eAn electoral system is the set of rules that converts the votes people cast into seats in a legislature or into who holds an office. It is easy to overlook, but the choice of system shapes outcomes profoundly — the very same set of ballots can hand victory to different parties depending on the counting rules.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo broad families illustrate the range. Under plurality systems — often called \u0026quot;first-past-the-post\u0026quot; — a country is divided into districts and whoever wins the most votes in each district takes the seat, even without an outright majority. This is simple and gives each area a clear local representative, but a party's share of seats can diverge sharply from its share of votes. Proportional representation instead allocates seats to match each party's overall vote share, so a party winning a quarter of the vote earns roughly a quarter of the seats; this mirrors public opinion more closely but can produce many parties and coalition governments. Other systems, such as ranked-choice and mixed-member designs, blend these goals. Encyclopaedia Britannica surveys how elections function and the trade-offs each system makes; none is objectively \u0026quot;best\u0026quot; — each balances simplicity, local ties, and proportionality differently.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/election-political-science/Functions-of-elections",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_51131a",
+      "slug": "what-is-democracy",
+      "type": "concept",
+      "title": "What Democracy Means",
+      "hook": "Rule by the people: a system where political power ultimately traces back to citizens, usually through regular, free elections.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_aaa41e#0",
+      "format": "flip",
+      "prompt": "What does an electoral system do?",
+      "back_html": "\u003cp\u003eIt defines the \u003cstrong\u003erules for turning votes into seats or offices\u003c/strong\u003e —\ndifferent rules can yield different winners from the same ballots.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aaa41e#1",
+      "format": "quiz",
+      "prompt": "How does 'first-past-the-post' (plurality) decide a district's winner?",
+      "choices": [
+        {
+          "text": "The candidate with the most votes wins, even without a majority",
+          "correct": true
+        },
+        {
+          "text": "Seats are split in proportion to each party's vote share",
+          "correct": false
+        },
+        {
+          "text": "The candidate with the fewest votes wins",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUnder plurality, whoever gets the most votes in the district wins —\na majority isn't required.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aaa41e#2",
+      "format": "quiz",
+      "prompt": "What does proportional representation aim to do?",
+      "choices": [
+        {
+          "text": "Allocate seats roughly in proportion to each party's share of the vote",
+          "correct": true
+        },
+        {
+          "text": "Give every seat to the single most popular party",
+          "correct": false
+        },
+        {
+          "text": "Eliminate the need to count votes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePR tries to match each party's seat count to its vote share, so smaller\nparties can win representation.\u003c/p\u003e"
+    }
+  ]
+}

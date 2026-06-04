@@ -1,0 +1,110 @@
+{
+  "id": "card_2c3037",
+  "slug": "what-are-archaea",
+  "type": "concept",
+  "title": "What Are Archaea?",
+  "hook": "Archaea are the third domain of life — single-celled microbes that look like bacteria but are genetically a world apart, and many thrive in extreme places.",
+  "key_points": [
+    "Archaea make up one of the three domains of life, alongside Bacteria and Eukarya.",
+    "They are single-celled microbes with no nucleus, like bacteria.",
+    "Genetically and chemically, they differ sharply from bacteria.",
+    "Many are extremophiles, living in boiling springs, salt lakes, and deep vents.",
+    "They are not just oddities — archaea live in soil, oceans, and even your gut."
+  ],
+  "content_html": "\u003cp\u003eArchaea are single-celled microbes that, for a long time, were mistaken for unusual bacteria. They look similar under a microscope — tiny, no nucleus — but their genes and cell chemistry are so different that biologists place them in their own domain. That makes three great branches of life: Bacteria, Archaea, and Eukarya (everything with nucleated cells, including us).\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eArchaea earned their separate domain in the late 1970s, when comparisons of their genetic material revealed how deeply they diverge from ordinary bacteria. Many are famous extremophiles, thriving where almost nothing else can: scalding hot springs, briny lakes, and high-pressure deep-sea vents. But they aren't only exotic — archaea are everywhere, including ordinary soil, the open ocean, and the human gut, where some help with digestion. Encyclopaedia Britannica's overview of archaea describes how these ancient microbes came to be recognized as the third domain of life.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/archaea",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_e69708",
+      "slug": "the-three-domains",
+      "type": "concept",
+      "title": "The Three Domains of Life",
+      "hook": "At the very top, all life splits into just three branches — Bacteria, Archaea, and Eukarya — and your cells belong to the same one as mushrooms and oak trees.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d56522",
+      "slug": "prokaryote-vs-eukaryote",
+      "type": "concept",
+      "title": "Two Kinds of Cells",
+      "hook": "All cells fall into two camps: simple prokaryotes with no nucleus, and complex eukaryotes that pack their DNA into a sealed control room.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2c3037#0",
+      "format": "flip",
+      "prompt": "Which three domains make up all of life, and where do archaea fit?",
+      "back_html": "\u003cp\u003eLife is split into \u003cstrong\u003eBacteria, Archaea, and Eukarya\u003c/strong\u003e. Archaea are the third\ndomain — single-celled microbes distinct from both bacteria and eukaryotes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2c3037#1",
+      "format": "quiz",
+      "prompt": "Why aren't archaea simply classified as a kind of bacteria?",
+      "choices": [
+        {
+          "text": "Their genetics and cell chemistry differ sharply from bacteria",
+          "correct": true
+        },
+        {
+          "text": "They are much larger than any bacterium",
+          "correct": false
+        },
+        {
+          "text": "They have a true nucleus like animal cells",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eArchaea look bacteria-like under a microscope, but their genes and cell\nchemistry set them apart enough to form their own domain.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2c3037#2",
+      "format": "quiz",
+      "prompt": "What is an 'extremophile' archaeon?",
+      "choices": [
+        {
+          "text": "One that thrives in extreme conditions like boiling or super-salty water",
+          "correct": true
+        },
+        {
+          "text": "An archaeon that can only live inside human cells",
+          "correct": false
+        },
+        {
+          "text": "A microbe that has gone extinct",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMany archaea are extremophiles — they flourish in environments like hot springs,\nsalt lakes, and deep-sea vents that would kill most other life.\u003c/p\u003e"
+    }
+  ]
+}

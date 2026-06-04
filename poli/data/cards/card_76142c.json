@@ -1,0 +1,139 @@
+{
+  "id": "card_76142c",
+  "slug": "how-far-an-injunction-reaches",
+  "type": "news",
+  "title": "How Far Does One Judge's Order Reach?",
+  "hook": "A court can block a policy for the people who sued — or for everyone, everywhere. The scope of an injunction can matter as much as who won.",
+  "key_points": [
+    "An injunction is a court order telling someone to stop doing something; its scope decides who is actually protected.",
+    "Courts can limit relief to the named plaintiffs, or extend it to all affected parties in every state.",
+    "NPR reports a federal judge expanded a block on a key part of President Trump's order restricting mail-in voting for the 2026 midterms.",
+    "The expanded order barred the U.S. Postal Service from carrying out the directives in every state, not just where suit was filed.",
+    "Because election rules must be uniform to be usable, scope disputes are especially sharp in voting cases."
+  ],
+  "content_html": "\u003cp\u003eWhen a court blocks a government policy, the headline usually reports who won. The more consequential detail is often how far the order reaches. An injunction — a judicial order to stop doing something — can be written narrowly, protecting only the plaintiffs who actually sued, or broadly, barring the government from applying the policy to anyone anywhere. NPR's Hansi Lo Wang reports that a federal judge expanded an existing block on a key part of President Trump's order restricting mail-in voting for the 2026 midterms, barring the U.S. Postal Service from carrying out the directives in every state.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eScope is contested because it does two different jobs. Narrow relief keeps a single judge from setting national policy on a thin record; broad relief prevents the odd situation where an allegedly unlawful policy keeps operating against everyone who did not happen to file a lawsuit. Election cases squeeze that tension hardest, because election machinery only works when the rules are uniform and settled well before ballots move: a mail system cannot follow one directive in some states and a different one in others, and voters cannot be expected to track which rule applies where they live. Note also what an order like this does not do. Expanding an injunction is a decision about reach while litigation continues — not a final ruling that the underlying policy is unlawful. Both questions, scope and merits, can travel up the appellate ladder separately, which is why the same dispute can produce several rounds of confusing, seemingly contradictory news.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Hansi Lo Wang"
+    ],
+    "url": "https://npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
+    "published_at": "2026-08-11",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_605440",
+      "slug": "purcell-principle-and-timing",
+      "type": "news",
+      "title": "The Calendar as a Legal Strategy",
+      "hook": "Courts avoid changing election rules close to voting day. That gives a litigant a strange incentive: argue the other side sued too early, and the clock does the rest.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-04"
+    },
+    {
+      "id": "card_4baecf",
+      "slug": "mail-ballot-grace-periods",
+      "type": "news",
+      "title": "Mail Ballot Grace Periods",
+      "hook": "A ballot mailed on Election Day can still arrive days later. Should it count? States disagree — and in 2026 the Supreme Court sided with the states that say yes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_015396",
+      "slug": "checks-and-balances",
+      "type": "concept",
+      "title": "Checks and Balances",
+      "hook": "Separating power isn't enough — each branch also gets tools to limit the others, so power keeps power in check.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_76142c#0",
+      "format": "flip",
+      "prompt": "What does the 'scope' of an injunction mean?",
+      "back_html": "\u003cp\u003eWho the order actually protects — only the parties who sued, or everyone\naffected by the policy. Same ruling, very different practical effect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_76142c#1",
+      "format": "quiz",
+      "prompt": "What did the judge's expanded order do, according to NPR?",
+      "choices": [
+        {
+          "text": "Barred the Postal Service from carrying out the mail-in voting directives in every state",
+          "correct": true
+        },
+        {
+          "text": "Struck down the executive order permanently nationwide",
+          "correct": false
+        },
+        {
+          "text": "Ordered states to adopt universal mail-in voting",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNPR reports the judge expanded an existing block so that the Postal\nService could not implement the directives anywhere — a change in reach,\nnot a final judgment on the merits.\u003c/p\u003e"
+    },
+    {
+      "id": "card_76142c#2",
+      "format": "quiz",
+      "prompt": "Why do scope fights matter especially in election cases?",
+      "choices": [
+        {
+          "text": "Election rules have to be uniform and settled to be usable, so patchwork relief is hard to administer",
+          "correct": true
+        },
+        {
+          "text": "Because election law forbids injunctions",
+          "correct": false
+        },
+        {
+          "text": "Because only federal courts may hear election cases",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVoters, officials, and mail systems all need one set of rules. Relief that\napplies in some states but not others creates exactly the confusion\nelection administration is trying to avoid.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "card_c3a98e",
+  "slug": "why-the-moon-causes-tides",
+  "type": "concept",
+  "title": "Why the Moon Causes Tides",
+  "hook": "The Moon doesn't lift the oceans so much as stretch them. Tides come from the difference in its pull across the width of the Earth.",
+  "key_points": [
+    "The Moon pulls Earth's near side harder than its far side.",
+    "This difference stretches the oceans into two bulges — near and far.",
+    "Earth rotating through both bulges gives roughly two high tides a day.",
+    "The Sun adds in: aligned gives big spring tides, right-angled gives small neap tides."
+  ],
+  "content_html": "\u003cp\u003eIt's tempting to picture the Moon simply lifting the sea toward it, but the real story is about a difference. Gravity weakens with distance, so the Moon pulls the side of Earth facing it a bit harder than it pulls the planet's center, and it pulls the far side weaker still. That gradient stretches the oceans into two bulges — one toward the Moon, one away from it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs the Earth rotates each day, any coastline passes through both bulges, which is why most places see roughly two high tides and two low tides daily. The Sun pulls too, with a smaller effect because it's so far away. When Sun and Moon line up, their pulls combine into large spring tides; when they sit at right angles, the pulls partly cancel into gentler neap tides. Wikipedia details this interplay and the local geography that shapes real tides.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tide",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "gravity-orbits"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_c3a98e#0",
+      "format": "flip",
+      "prompt": "Why are there two tidal bulges, not just one?",
+      "back_html": "\u003cp\u003eThe Moon pulls the \u003cstrong\u003enear\u003c/strong\u003e side harder and the \u003cstrong\u003efar\u003c/strong\u003e side less than\nEarth's center, stretching the oceans into bulges on both sides.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c3a98e#1",
+      "format": "quiz",
+      "prompt": "What actually causes ocean tides?",
+      "choices": [
+        {
+          "text": "The difference in the Moon's gravity across the width of the Earth",
+          "correct": true
+        },
+        {
+          "text": "The Moon's heat warming and expanding the seas",
+          "correct": false
+        },
+        {
+          "text": "The Earth's own spin throwing water outward",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTides arise because the Moon pulls the near side of Earth more than the far\nside. That difference stretches the oceans into two bulges.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c3a98e#2",
+      "format": "quiz",
+      "prompt": "When do the largest (spring) tides occur?",
+      "choices": [
+        {
+          "text": "When the Sun and Moon line up so their pulls add together",
+          "correct": true
+        },
+        {
+          "text": "When the Sun and Moon are at right angles to each other",
+          "correct": false
+        },
+        {
+          "text": "Only during the coldest months of the year",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSpring tides happen when Sun and Moon align and their tidal pulls combine.\nAt right angles they partly cancel, giving smaller neap tides.\u003c/p\u003e"
+    }
+  ]
+}

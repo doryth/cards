@@ -1,0 +1,88 @@
+{
+  "id": "card_a8247e",
+  "slug": "notebooklm-becomes-gemini-notebook",
+  "type": "news",
+  "title": "Your Study Tool Has a New Name: NotebookLM Is Now Gemini Notebook",
+  "hook": "If NotebookLM disappeared from your apps, don't worry — Google just renamed it Gemini Notebook, and gave it a new trick: a built-in cloud computer that can run code on your sources.",
+  "key_points": [
+    "Google renamed NotebookLM to Gemini Notebook on July 16, 2026 — over 30 million people already use it.",
+    "The old name's 'LM' (language model) never landed with everyday users; the new name matches Google's Gemini branding.",
+    "Nothing you built is lost — no broken links, and existing features keep working the same way.",
+    "New: every notebook gets a secure cloud computer that can write and run code for deeper data analysis.",
+    "It's rolling into the wider Gemini app and Google Search, while staying available as its own standalone app."
+  ],
+  "content_html": "\u003cp\u003eIf your NotebookLM app suddenly looks unfamiliar, that's expected: Google renamed it Gemini Notebook on July 16, 2026, The Verge reports, folding it more visibly into the Gemini family. The tool already has over 30 million users and 600,000-plus organizations relying on it, so Google is at pains to say nothing about how it works is going away — no broken links, no lost notebooks.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe rename itself is mostly cosmetic: \u0026quot;LM,\u0026quot; short for language model, never meant much to everyday users, while \u0026quot;Gemini Notebook\u0026quot; trades that jargon for Google's now-familiar AI branding and gradient logo. The more interesting change is a new feature shipping alongside it — every notebook now gets a secure cloud computer that can write and execute code, letting you run genuine data analysis on the sources you've uploaded rather than just summaries. It's available now for Google AI Ultra users and Workspace business customers, with a wider rollout to Pro users planned. The tool is also showing up more places: inside the main Gemini app with full syncing, and soon inside AI Mode in Google Search. If you already used NotebookLM as a study or research tool, the practical takeaway is simple — same tool, new name, and a genuinely useful new trick underneath.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+    "published_at": "2026-07-16",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-as-tutor",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "multimodal"
+  ],
+  "importance": 2,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_4f615f",
+      "slug": "notebooklm-video-summaries",
+      "type": "news",
+      "title": "Google's NotebookLM Now Turns Your Notes Into TikTok-Style Clips",
+      "hook": "Studying from a pile of PDFs? Google's NotebookLM can now spit out a 60-second, vertical AI video summary of your sources — short-form video aimed at your reading list instead of entertainment.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_c25220",
+      "slug": "ai-as-a-tutor",
+      "type": "concept",
+      "title": "AI as a Tutor",
+      "hook": "A chatbot is a tutor with infinite patience: ask it to explain anything five different ways at any level, with no judgment. Just remember it can be confidently wrong.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a8247e#0",
+      "format": "quiz",
+      "prompt": "What happens to your existing notebooks after the rename?",
+      "choices": [
+        {
+          "text": "Nothing is lost — links, notebooks, and existing features keep working as before",
+          "correct": true
+        },
+        {
+          "text": "You have to rebuild every notebook from scratch",
+          "correct": false
+        },
+        {
+          "text": "The app shuts down and moves entirely into Google Search",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt's a rename plus new features on top, not a rebuild — your existing\nwork and links carry over unchanged.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a8247e#1",
+      "format": "flip",
+      "prompt": "What's the notable new capability Gemini Notebook adds?",
+      "back_html": "\u003cp\u003eEvery notebook gets a secure cloud computer that can write and execute\ncode, enabling deeper data analysis grounded in your own sources.\u003c/p\u003e"
+    }
+  ]
+}

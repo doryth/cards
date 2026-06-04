@@ -1,0 +1,90 @@
+{
+  "id": "card_4e9253",
+  "slug": "ai-for-non-coders",
+  "type": "concept",
+  "title": "Making Things Without Code",
+  "hook": "Describe an app, a website, or a little tool in plain English, and AI will write the code and build a first version. 'Vibe coding' lets non-programmers make software — within limits.",
+  "key_points": [
+    "AI can turn a plain-language description into a working first draft of software.",
+    "Newer 'build an app' tools handle the code so you don't have to learn it.",
+    "Great for prototypes, personal tools, and learning — shaky for anything serious.",
+    "It can write insecure or broken code; don't ship sensitive projects unchecked."
+  ],
+  "content_html": "\u003cp\u003eOne of the more astonishing recent shifts is that you no longer strictly need to know how to program to make software. Describe what you want in plain English — \u0026quot;a simple website for my dog-walking business,\u0026quot; \u0026quot;a tool that splits a bill among friends,\u0026quot; \u0026quot;a quiz to help my students study\u0026quot; — and AI will write the underlying code and assemble a working first version. The nickname for this loose, conversational style is \u003cstrong\u003e\u0026quot;vibe coding\u0026quot;\u003c/strong\u003e: you steer by describing and reacting, and the AI handles the technical details. A wave of \u0026quot;build an app by chatting\u0026quot; tools has made this accessible to people who've never written a line of code.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis genuinely opens doors. Hobbyists build little personal tools, small-business owners spin up a basic site or automation, teachers make custom classroom aids, and curious people finally turn a long-held idea into something they can click on. It's also a wonderful, low-pressure way to \u003cem\u003elearn\u003c/em\u003e how software works, since you can ask the AI to explain what it just wrote. But it's important to know the ceiling. AI-generated code can be subtly broken, inefficient, or — more worryingly — \u003cstrong\u003einsecure\u003c/strong\u003e, all while looking perfectly convincing, and it can struggle as a project grows in complexity. That's fine for a prototype, a personal gadget, or a throwaway experiment. It's risky for anything handling other people's data, money, or privacy, where real software-engineering judgment (and a security review) still matters. Think of it as a remarkably capable apprentice that lets you build things you couldn't before — as long as you don't mistake a quick draft for a finished, trustworthy product.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-making"
+  ],
+  "tags": [
+    "agent",
+    "tutorial"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a0dcb3",
+      "slug": "ai-at-work",
+      "type": "concept",
+      "title": "AI at Work",
+      "hook": "The biggest everyday payoff from AI is at work: drafting the email, summarizing the meeting, untangling the spreadsheet formula. The trick is using it without leaking secrets or trust.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4e9253#0",
+      "format": "quiz",
+      "prompt": "What can AI 'build an app' tools do for a non-programmer?",
+      "choices": [
+        {
+          "text": "Turn a plain-English description into a working first version of software",
+          "correct": true
+        },
+        {
+          "text": "Guarantee professional, secure, production-ready software",
+          "correct": false
+        },
+        {
+          "text": "Nothing — you must learn to code first",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThese tools generate the code from your description, letting non-coders make\nprototypes and personal tools — though the results need checking and aren't bulletproof.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4e9253#1",
+      "format": "flip",
+      "prompt": "What's the main caution with AI-generated code?",
+      "back_html": "\u003cp\u003eIt can be broken or insecure while looking fine. Great for prototypes and\nlearning; risky to ship for anything sensitive without expert review.\u003c/p\u003e"
+    }
+  ]
+}

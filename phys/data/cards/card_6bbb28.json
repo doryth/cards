@@ -1,0 +1,115 @@
+{
+  "id": "card_6bbb28",
+  "slug": "lhcb-cp-violation-b-to-kpipi",
+  "type": "paper",
+  "title": "Six New Ways Matter and Antimatter Disagree",
+  "hook": "LHCb re-analysed a single B-meson decay and found six separate signatures of matter–antimatter asymmetry — including the first ever seen in a spin-3 resonance.",
+  "key_points": [
+    "CP violation means a particle and its antiparticle decay at different rates — one of the conditions for a matter-dominated universe.",
+    "LHCb studied B+ → K+ π+ π−, a three-body decay whose intermediate resonances interfere, exposing many asymmetries at once.",
+    "Six CP-violating effects reached significance for the first time, including quasi-two-body violation in B+ → ρ(770)0 K+.",
+    "First evidence appeared for CP violation involving a spin-3 resonance and in elastic ππ rescattering.",
+    "Asymmetries also showed up in the interference between S- and P-wave (and S- and D-wave) contributions — effects that must come from long-distance strong dynamics.",
+    "A companion analysis relaxed old unitarity assumptions about the K*0(1430) resonance, resolving long-standing puzzles and revealing ten new intermediate decays."
+  ],
+  "content_html": "\u003cp\u003eThe Standard Model allows matter and antimatter to behave slightly differently — a\nproperty called CP violation — and that tiny asymmetry is one of the ingredients any\nexplanation of a matter-filled universe needs. LHCb has now squeezed six distinct\nCP-violating signatures out of a single decay channel, B+ → K+ π+ π−, using proton\ncollision data recorded at the LHC in 2011–2012.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trick is that a three-body decay does not happen all at once. The B meson passes\nthrough intermediate resonances — ρ(770)0, f2(1270), the broad S-wave states — whose\nquantum amplitudes overlap and interfere. An amplitude analysis pulls those\ncontributions apart, and asymmetries can then appear both \u003cem\u003ewithin\u003c/em\u003e a component and in\nthe interference \u003cem\u003ebetween\u003c/em\u003e components. LHCb reports discovery of quasi-two-body CP\nviolation in B+ → ρ(770)0 K+, amplitude-level violation in B+ → f2(1270) K+, first\nevidence in the elastic ππ rescattering region and for any decay involving a spin-3\nresonance, plus observation in S–P wave interference and evidence in S–D interference.\nThose last two, the collaboration notes, must be driven by long-distance strong\ninteractions.\u003c/p\u003e\n\u003cp\u003eTwo companion papers accompany the result: one reporting the branching fractions and\nCP asymmetries themselves using three complementary modelling approaches, and one\nresolving old puzzles in the B → Kππ sector — relaxing unitarity-based assumptions\nabout the K*0(1430) resonance improved the fit enough to eliminate the ad-hoc\n\u0026quot;fX(1300)\u0026quot; component earlier analyses needed, and turned up ten new intermediate\ndecays along the way. See the LHCb preprints on arXiv for the full analysis.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv (LHCb collaboration)",
+    "authors": [
+      "LHCb collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2608.12614",
+    "published_at": "2026-08-12",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 5,
+  "difficulty": "deep",
+  "created_at": "2026-08-17",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_46f944",
+      "slug": "antimatter",
+      "type": "concept",
+      "title": "Antimatter",
+      "hook": "Every particle has a mirror twin with opposite charge, and when the two meet they vanish in a flash of pure energy — yet the universe is almost entirely matter, and nobody fully knows why.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_13b1bf",
+      "slug": "the-force-on-a-quark",
+      "type": "paper",
+      "title": "Measuring the force that traps a quark inside the proton",
+      "hook": "Nobody has ever seen a free quark. A sharpened reconstruction of the actual force tugging on one inside the proton comes out looking like a string pulled at constant tension.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-24"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_46f944",
+      "slug": "antimatter",
+      "type": "concept",
+      "title": "Antimatter",
+      "hook": "Every particle has a mirror twin with opposite charge, and when the two meet they vanish in a flash of pure energy — yet the universe is almost entirely matter, and nobody fully knows why.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_6bbb28#0",
+      "format": "flip",
+      "prompt": "What does CP violation mean, and why does it matter?",
+      "back_html": "\u003cp\u003eA particle and its mirror-image antiparticle behave \u003cem\u003edifferently\u003c/em\u003e — decaying\nat different rates. It is one of the conditions needed for the early universe\nto end up with more matter than antimatter instead of annihilating to nothing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6bbb28#1",
+      "format": "quiz",
+      "prompt": "Why is a three-body decay like B+ → K+ π+ π− so useful for hunting CP violation?",
+      "choices": [
+        {
+          "text": "Its intermediate resonances overlap and interfere, so many asymmetries show up in one dataset",
+          "correct": true
+        },
+        {
+          "text": "Three-body decays are far more common than two-body ones, giving more events",
+          "correct": false
+        },
+        {
+          "text": "Three final-state particles cancel the detector's background exactly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe decay proceeds through many intermediate resonances whose amplitudes\noverlap. An amplitude analysis untangles them, exposing asymmetries in each\ncomponent \u003cem\u003eand\u003c/em\u003e in the interference between partial waves.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6bbb28#2",
+      "format": "flip",
+      "prompt": "What made the interference-based asymmetries in this analysis especially interesting?",
+      "back_html": "\u003cp\u003eCP violation showed up in S–P and S–D wave interference. Those effects can\nonly be driven by long-distance strong-interaction dynamics, so they probe\nQCD as well as the weak sector.\u003c/p\u003e"
+    }
+  ]
+}

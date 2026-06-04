@@ -1,0 +1,107 @@
+{
+  "id": "card_817bf0",
+  "slug": "warfarin-pharmacogenomics",
+  "type": "concept",
+  "title": "Why One Drug Dose Doesn't Fit All",
+  "hook": "The blood thinner warfarin can need up to a 20-fold different dose from person to person — and about half of that swing is written into two of your genes.",
+  "key_points": [
+    "Warfarin has a narrow safe window: too little lets dangerous clots form, too much causes bleeding.",
+    "The dose people need to stay in that window varies up to 20-fold between individuals.",
+    "About half of that variation is genetic; the rest is age, diet, weight, and other drugs.",
+    "The two biggest genes are VKORC1 (warfarin's target) and CYP2C9 (which breaks the drug down).",
+    "Lower-activity versions of these genes mean a person needs a smaller dose to stay safe.",
+    "Matching dose to DNA — pharmacogenomics — is now written into warfarin's FDA label."
+  ],
+  "content_html": "\u003cp\u003eGive two people the same dose of the blood thinner warfarin and one might barely respond while the other bleeds dangerously. Warfarin is the classic case of pharmacogenomics — the idea that your genes help decide how a drug should be dosed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWarfarin works by blocking the recycling of vitamin K, which the body needs to make several blood-clotting proteins. The dose required to keep clotting in the safe zone varies up to twenty-fold from one person to the next. According to NCBI's Medical Genetics Summaries, roughly half of that variability comes from clinical factors like age, diet, and other medications — and much of the rest from genetics. Two genes dominate: \u003cstrong\u003eVKORC1\u003c/strong\u003e, the enzyme warfarin actually targets, and \u003cstrong\u003eCYP2C9\u003c/strong\u003e, which metabolizes the drug. Common low-activity variants in either gene mean a person resists or clears warfarin differently and usually needs a lower dose. Because getting it wrong is so dangerous, the FDA's warfarin label and clinical guidelines now spell out how genotype can guide the starting dose — one of the first places DNA-guided, personalized dosing entered everyday medicine.\u003c/p\u003e",
+  "source": {
+    "name": "NCBI Medical Genetics Summaries",
+    "authors": [
+      "Laura Dean",
+      "Megan Kane"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28520347",
+    "published_at": "2026-06-16",
+    "license": "NCBI Bookshelf (open access)"
+  },
+  "topic_ids": [
+    "dna-genetics",
+    "biotechnology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-22",
+  "date": "2026-06-16",
+  "related": [
+    {
+      "id": "card_82d3b1",
+      "slug": "genes-and-traits",
+      "type": "concept",
+      "title": "How Genes Become Traits",
+      "hook": "You inherit two copies of every gene — one from each parent — and the way those copies interact helps decide everything from eye color to blood type.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80bbc5",
+      "slug": "mutations",
+      "type": "concept",
+      "title": "Mutations: When DNA Changes",
+      "hook": "Every time a cell copies its DNA, tiny typos can slip in — most do nothing at all, a few cause disease, and rare ones fuel evolution.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_817bf0#0",
+      "format": "flip",
+      "prompt": "Why does the warfarin dose people need vary so much?",
+      "back_html": "\u003cp\u003eThe dose to stay in warfarin's narrow safe window varies up to 20-fold. Roughly half of\nthat is genetic — mainly variants in \u003cstrong\u003eVKORC1\u003c/strong\u003e and \u003cstrong\u003eCYP2C9\u003c/strong\u003e — and half is clinical\n(age, diet, weight, other drugs).\u003c/p\u003e"
+    },
+    {
+      "id": "card_817bf0#1",
+      "format": "quiz",
+      "prompt": "Which two genes most strongly influence how much warfarin a person needs?",
+      "choices": [
+        {
+          "text": "VKORC1 and CYP2C9",
+          "correct": true
+        },
+        {
+          "text": "BRCA1 and BRCA2",
+          "correct": false
+        },
+        {
+          "text": "The genes for hemoglobin",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVKORC1 is the enzyme warfarin targets (vitamin K recycling); CYP2C9 breaks the drug\ndown. Low-activity variants of either mean a lower dose is needed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_817bf0#2",
+      "format": "quiz",
+      "prompt": "What does 'pharmacogenomics' mean in the warfarin example?",
+      "choices": [
+        {
+          "text": "Using a person's genotype to help choose a drug dose",
+          "correct": true
+        },
+        {
+          "text": "Engineering a new drug molecule from scratch",
+          "correct": false
+        },
+        {
+          "text": "Measuring how much vitamin K is in someone's food",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePharmacogenomics matches drug dosing to genetic makeup. Warfarin's FDA label\nincorporates VKORC1 and CYP2C9 genotype to guide the starting dose.\u003c/p\u003e"
+    }
+  ]
+}

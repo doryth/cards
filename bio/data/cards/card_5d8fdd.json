@@ -1,0 +1,109 @@
+{
+  "id": "card_5d8fdd",
+  "slug": "reflexes-and-the-spinal-cord",
+  "type": "concept",
+  "title": "Reflexes and the Spinal Cord",
+  "hook": "When you touch something hot, your hand jerks back before you even feel the pain — because the signal takes a shortcut through your spinal cord, skipping the brain.",
+  "key_points": [
+    "A reflex is a fast, automatic response that protects the body from harm.",
+    "The signal travels a short loop called a reflex arc, routed through the spinal cord.",
+    "Because it bypasses the brain, the reaction happens before you consciously decide to move.",
+    "The brain still receives the signal — but the protective movement has already begun."
+  ],
+  "content_html": "\u003cp\u003eTouch a hot pan and your hand snaps away instantly — faster than you could ever decide to move it. That speed is no accident. The signal doesn't travel all the way up to your brain and back; instead it takes a shortcut through your spinal cord, triggering the muscles directly. This is a reflex, and it exists to protect you.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Encyclopaedia Britannica describes, a reflex follows a path called a reflex arc. A sensory neuron in the skin detects the danger and fires a signal into the spinal cord, where it connects — often through a single relay neuron — to a motor neuron that commands the muscle to contract. The whole loop happens in a fraction of a second, before the brain has consciously registered the heat. The brain does get the message moments later, which is when you actually feel the pain, but by then your hand is already safe. By handling these split-second protective responses locally, the spinal cord frees the brain to focus on slower, deliberate decisions while keeping the body out of harm's way.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/reflex",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_945f3f",
+      "slug": "neurons-and-signals",
+      "type": "concept",
+      "title": "Neurons and Signals",
+      "hook": "Your every thought, twitch, and feeling rides on tiny electrical pulses fired by neurons — and leaps the gaps between them as bursts of chemicals.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f21e0c",
+      "slug": "the-brain",
+      "type": "concept",
+      "title": "The Brain",
+      "hook": "Three pounds of folded tissue runs the whole show — thinking, balance, breathing, memory — divided into regions that each handle a different part of the job.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bb8f8a",
+      "slug": "the-senses",
+      "type": "concept",
+      "title": "The Senses",
+      "hook": "Light, sound, chemicals, and pressure can't enter your brain directly — your senses translate all of them into the one language your neurons understand: electrical signals.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5d8fdd#0",
+      "format": "flip",
+      "prompt": "Why can you pull your hand off a hot stove before you feel the pain?",
+      "back_html": "\u003cp\u003eThe signal takes a \u003cstrong\u003ereflex arc\u003c/strong\u003e through the spinal cord, triggering the\nmuscles to move before the message reaches the brain for conscious feeling.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5d8fdd#1",
+      "format": "quiz",
+      "prompt": "What is the short pathway a reflex signal follows called?",
+      "choices": [
+        {
+          "text": "A reflex arc",
+          "correct": true
+        },
+        {
+          "text": "A synapse loop",
+          "correct": false
+        },
+        {
+          "text": "A neural cortex",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA reflex arc runs from a sensory neuron into the spinal cord and straight\nback out to a muscle, producing a quick automatic response.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5d8fdd#2",
+      "format": "quiz",
+      "prompt": "Where is a protective reflex like the hand-withdrawal response coordinated?",
+      "choices": [
+        {
+          "text": "In the spinal cord, bypassing the brain",
+          "correct": true
+        },
+        {
+          "text": "In the brain's decision-making centers",
+          "correct": false
+        },
+        {
+          "text": "In the muscle itself, with no nerve involved",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRouting through the spinal cord saves time. The brain is informed a moment\nlater, but the spinal cord has already triggered the movement.\u003c/p\u003e"
+    }
+  ]
+}

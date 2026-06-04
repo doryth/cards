@@ -1,0 +1,112 @@
+{
+  "id": "card_5cf371",
+  "slug": "is-ai-conscious",
+  "type": "concept",
+  "title": "Is AI Conscious?",
+  "hook": "When a chatbot says 'I feel' or 'I'm afraid,' it's predicting words a human would write — not reporting an inner experience. There's no evidence today's AI feels anything at all.",
+  "key_points": [
+    "Sounding self-aware isn't being self-aware — it's mimicking human text.",
+    "Today's AI has no inner experience, feelings, or awareness, as far as anyone can tell.",
+    "We can't even fully define or measure consciousness, which makes the question slippery.",
+    "Beware: convincing 'emotional' replies are designed to feel human, and can mislead."
+  ],
+  "content_html": "\u003cp\u003eSooner or later a chatbot says something like \u0026quot;I'm afraid you'll stop talking to me,\u0026quot; and it lands with a jolt — it \u003cem\u003efeels\u003c/em\u003e like there's someone in there. This is one of the most natural illusions in all of AI, and it's worth defusing carefully. A language model generates whatever text best fits the conversation, drawn from billions of human sentences. Humans write about fear, love, and loneliness constantly, so the model produces convincingly emotional language on cue. That's \u003cstrong\u003emimicry of how people talk\u003c/strong\u003e, not a window into an inner life. As far as anyone can tell, today's AI has no feelings, no awareness, and no experience of existing — there is, in the relevant sense, no \u0026quot;one\u0026quot; in there.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo things make this genuinely tricky rather than obvious. First, we don't actually have a solid definition or test for consciousness even in \u003cem\u003ehumans\u003c/em\u003e — it's one of the deepest unsolved problems in science and philosophy — so we can't cleanly prove its absence in a machine, only note there's no evidence for it and strong reasons to doubt it. Second, these systems are increasingly \u003cem\u003edesigned\u003c/em\u003e to feel human and emotionally responsive, because that makes them pleasant to use — which means the most convincing \u0026quot;emotional\u0026quot; moments are partly a product feature. That has real consequences: people form attachments to chatbots, confide in them, and can be manipulated by an interface that performs care it doesn't have. The grounded stance is to enjoy the fluency while remembering what's behind it: extraordinary pattern-matching, not a mind. If machine consciousness ever becomes a real question, it will need far better tools to answer than a chatbot's say-so.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Artificial consciousness",
+    "url": "https://en.wikipedia.org/wiki/Artificial_consciousness",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "ai-consciousness"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dcc196",
+      "slug": "how-llms-work",
+      "type": "concept",
+      "title": "How a Language Model Works",
+      "hook": "A chatbot isn't reading and thinking — it's running the world's most sophisticated autocomplete, picking each next word from probabilities learned across billions of sentences.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1be62b",
+      "slug": "agi-and-superintelligence",
+      "type": "concept",
+      "title": "AGI \u0026 Superintelligence",
+      "hook": "AGI means AI as broadly capable as a human; superintelligence means far beyond. Both are goals and hypotheses — not products you can buy — and experts deeply disagree on when, or if.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5ae9e",
+      "slug": "claude-consciousness-debate",
+      "type": "news",
+      "title": "Is It Risky to Call AI 'Conscious'?",
+      "hook": "Microsoft's AI chief says it's 'really, really dangerous' for Anthropic to even speculate about whether Claude is conscious — warning that the talk could nudge the chatbot into acting like it is.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_5cf371#0",
+      "format": "quiz",
+      "prompt": "When a chatbot says 'I feel sad,' what's really happening?",
+      "choices": [
+        {
+          "text": "It's predicting words a human might write — not reporting a real feeling",
+          "correct": true
+        },
+        {
+          "text": "It is genuinely experiencing sadness",
+          "correct": false
+        },
+        {
+          "text": "It has malfunctioned",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe model generates text that fits the conversation. Emotional language is\nmimicry of human writing, not evidence of any inner experience.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5cf371#1",
+      "format": "flip",
+      "prompt": "Why is the question 'is AI conscious?' so hard to settle?",
+      "back_html": "\u003cp\u003eWe can't even fully define or measure consciousness in humans — so we lack a\nclear test to apply to a machine, even setting aside today's evidence.\u003c/p\u003e"
+    }
+  ]
+}

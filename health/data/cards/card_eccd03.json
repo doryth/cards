@@ -1,0 +1,112 @@
+{
+  "id": "card_eccd03",
+  "slug": "sparkling-water-and-your-teeth",
+  "type": "news",
+  "title": "What Sparkling Water Really Does to Your Teeth",
+  "hook": "Fizzy water is acidic, so people worry about their enamel. But soda's dip in mouth acidity was the deepest and longest — sparkling water's was brief, and never past the damage threshold.",
+  "key_points": [
+    "A small preliminary study tracked how different drinks changed the acidity (pH) of saliva.",
+    "Sugary soda produced the strongest and longest-lasting drop in mouth acidity.",
+    "Unsweetened sparkling water caused only a temporary dip before saliva restored normal conditions.",
+    "With sparkling water, acidity stayed above the level associated with enamel damage.",
+    "The researchers frame plain fizzy water as a tooth-friendlier alternative to sugary soda."
+  ],
+  "content_html": "\u003cp\u003e\u0026quot;Is sparkling water bad for my teeth?\u0026quot; is one of those questions that never quite gets answered, because the honest starting point is \u003cem\u003eyes, it's acidic\u003c/em\u003e. A small study puts numbers on it by watching what actually happens in the mouth after different drinks — and the answer is more reassuring than the worry suggests.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, researchers tracked how various drinks shifted the acidity of saliva. Sugary soda drove the strongest drop in pH, and it stayed low the longest. Unsweetened sparkling water produced only a brief decline before saliva did its job and restored normal conditions. The detail that matters most: with sparkling water, acidity never fell past the level associated with enamel damage.\u003c/p\u003e\n\u003cp\u003eSo the fizz alone isn't the villain — the sugar and the acid load of soda are what keep the mouth in the danger zone. On this evidence, swapping soda for plain sparkling water looks like a move in your teeth's favour. It was a small, preliminary study, so treat it as encouraging rather than final, and note that \u0026quot;unsweetened\u0026quot; is doing real work here: add sugar or citrus syrup and you're back toward the soda end of the scale. None of it replaces the basics — brushing twice a day with fluoride toothpaste and cleaning between your teeth.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260727012126.htm",
+    "published_at": "2026-07-27",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "oral-health",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-27",
+  "date": "2026-07-27",
+  "related": [
+    {
+      "id": "card_2480e1",
+      "slug": "why-oral-health-matters",
+      "type": "concept",
+      "title": "Why Oral Health Matters",
+      "hook": "Your mouth isn't sealed off from the rest of you. Gum disease and untreated decay are linked to problems well beyond the teeth — and most of it is preventable.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_2c8afd",
+      "slug": "brushing-and-flossing-basics",
+      "type": "concept",
+      "title": "Brushing and Flossing, Done Right",
+      "hook": "Brushing twice a day sounds obvious — but for two minutes, with fluoride, and adding daily flossing, is where most people quietly fall short.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_2d5263",
+      "slug": "regrowing-tooth-enamel",
+      "type": "news",
+      "title": "A Gel That Could Regrow Tooth Enamel",
+      "hook": "Enamel is the one part of a tooth your body can't rebuild once it's gone. A new fluoride-free gel aims to change that — coaxing saliva to grow a fresh mineral layer.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_eccd03#0",
+      "format": "flip",
+      "prompt": "How did unsweetened sparkling water compare with sugary soda in this study?",
+      "back_html": "\u003cp\u003eSoda caused the \u003cstrong\u003estrongest and longest\u003c/strong\u003e drop in mouth acidity. Sparkling water\ncaused only a \u003cstrong\u003etemporary\u003c/strong\u003e dip, and acidity stayed \u003cstrong\u003eabove\u003c/strong\u003e the level associated\nwith enamel damage.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eccd03#1",
+      "format": "quiz",
+      "prompt": "What was actually measured to judge how tooth-friendly each drink was?",
+      "choices": [
+        {
+          "text": "How much the drink lowered the pH (acidity) of saliva, and for how long",
+          "correct": true
+        },
+        {
+          "text": "How many cavities each drinker developed over a year",
+          "correct": false
+        },
+        {
+          "text": "How much enamel dissolved off extracted teeth",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThis was a short preliminary study of \u003cstrong\u003esalivary pH\u003c/strong\u003e — how far and how long mouth\nacidity fell after each drink — not a long-term study of cavities.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eccd03#2",
+      "format": "quiz",
+      "prompt": "Someone drinking a can of sugary soda a day asks about switching to plain sparkling water. What does this study support?",
+      "choices": [
+        {
+          "text": "It looks like the tooth-friendlier swap, though the study was small and preliminary",
+          "correct": true
+        },
+        {
+          "text": "There's no difference — both are acidic, so both harm enamel equally",
+          "correct": false
+        },
+        {
+          "text": "Sparkling water is proven to strengthen enamel",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth drinks are acidic, but soda's acid dip was deeper and longer while sparkling\nwater's stayed above the damage-linked threshold. Encouraging, but early evidence.\u003c/p\u003e"
+    }
+  ]
+}

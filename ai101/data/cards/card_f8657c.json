@@ -1,0 +1,90 @@
+{
+  "id": "card_f8657c",
+  "slug": "is-ai-safe-to-try",
+  "type": "concept",
+  "title": "Is AI Safe to Try?",
+  "hook": "Yes — using a mainstream chatbot won't break your computer or hurt you. The real risks are mundane: oversharing personal data and believing something that isn't true.",
+  "key_points": [
+    "A chatbot can't damage your device or 'escape' — it just generates text.",
+    "The genuine risks are privacy (what you share) and accuracy (what you believe).",
+    "Stick to well-known apps; ignore sketchy 'free AI' sites and pop-ups.",
+    "You're in control: you can stop, delete chats, and share nothing sensitive."
+  ],
+  "content_html": "\u003cp\u003eA lot of people hesitate to try AI because it feels vaguely dangerous, as if a chatbot might do something to their computer or take on a life of its own. It won't. A mainstream chatbot is just a website or app that generates text in response to what you type. It can't infect your device, can't access your files unless you deliberately upload them, and certainly can't \u0026quot;escape.\u0026quot; Using one is about as risky to your machine as reading a web page.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat doesn't mean there's nothing to be thoughtful about — just that the real risks are ordinary, not science-fiction. The first is \u003cstrong\u003eprivacy\u003c/strong\u003e: what you type may be stored and used to improve the model, so don't paste in passwords, ID numbers, or sensitive personal details. The second is \u003cstrong\u003eaccuracy\u003c/strong\u003e: the AI can state false things confidently, so don't act on important information without checking it. A third, smaller one is \u003cstrong\u003esketchy imitators\u003c/strong\u003e — there are shady \u0026quot;free AI\u0026quot; sites and app-store knockoffs designed to harvest data or push scams, so stick to the well-known names. Beyond that, you're firmly in control: you can close the tab, delete your conversation history, and choose to share nothing personal. Try it the way you'd try any new app — a little cautiously at first, then freely once you see how it behaves.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "first-steps"
+  ],
+  "tags": [
+    "foundational",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_8404de",
+      "slug": "your-first-hour-with-ai",
+      "type": "concept",
+      "title": "Your First Hour with AI",
+      "hook": "Forget the hype and the fear. Open a free chatbot, type a real question in plain English, and have a conversation. That's the whole on-ramp — you already know how.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f8657c#0",
+      "format": "quiz",
+      "prompt": "What are the real risks of trying a mainstream AI chatbot?",
+      "choices": [
+        {
+          "text": "Oversharing personal data and trusting inaccurate answers",
+          "correct": true
+        },
+        {
+          "text": "It could infect or damage your computer",
+          "correct": false
+        },
+        {
+          "text": "It might physically escape and act on its own",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA chatbot just produces text — it can't harm your device. The genuine\ncautions are privacy (what you type) and accuracy (what you believe).\u003c/p\u003e"
+    },
+    {
+      "id": "card_f8657c#1",
+      "format": "flip",
+      "prompt": "How can you keep your first AI experiences safe?",
+      "back_html": "\u003cp\u003eUse well-known apps (skip sketchy 'free AI' sites), share nothing sensitive,\nand verify anything important. You can stop or delete your chats anytime.\u003c/p\u003e"
+    }
+  ]
+}

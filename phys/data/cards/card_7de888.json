@@ -1,0 +1,101 @@
+{
+  "id": "card_7de888",
+  "slug": "what-is-pressure",
+  "type": "concept",
+  "title": "What Is Pressure?",
+  "hook": "Pressure is force spread over an area. Concentrate the same push on a tiny spot and it skyrockets — which is why a sharp knife cuts and a thumbtack pierces.",
+  "key_points": [
+    "Pressure equals force divided by the area it acts on.",
+    "Same force on a smaller area means more pressure — knives, needles, and tacks.",
+    "Spreading force over a large area lowers pressure — snowshoes and skis.",
+    "In a fluid, pressure pushes equally in all directions and grows with depth."
+  ],
+  "content_html": "\u003cp\u003ePressure is how much force is pressing on each bit of area — literally force divided by area. That's why what matters isn't just how hard you push, but how concentrated the push is. Press your palm against a table and nothing happens; press a thumbtack with the same force and the point sinks in, because all that force is funneled into a tiny tip.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe flip side is just as useful: spread a force over a big area and the pressure drops. Snowshoes and skis let you cross snow that would otherwise swallow your boots, simply by enlarging the contact area. In fluids, pressure works a little differently — it pushes outward equally in every direction, and it climbs the deeper you go, which is why your ears ache at the bottom of a pool. Wikipedia's article on pressure lays out the definition and these everyday consequences.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pressure",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "fluids-pressure"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_e40f9b",
+      "slug": "atmospheric-pressure",
+      "type": "concept",
+      "title": "Atmospheric Pressure",
+      "hook": "Air has weight, and the whole column of it above you presses down — about 101 kPa at sea level. That push is what makes straws and suction cups work.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_662418",
+      "slug": "buoyancy-and-floating",
+      "type": "concept",
+      "title": "Buoyancy: Why Things Float",
+      "hook": "Any fluid pushes up on what's in it with a force equal to the weight of fluid it shoves aside. Match your weight that way and you float — that's Archimedes.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7de888#0",
+      "format": "flip",
+      "prompt": "How is pressure related to force and area?",
+      "back_html": "\u003cp\u003ePressure is \u003cstrong\u003eforce divided by area\u003c/strong\u003e. The same force on a smaller\narea produces a much higher pressure.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7de888#1",
+      "format": "quiz",
+      "prompt": "Why do wide snowshoes keep you from sinking into snow?",
+      "choices": [
+        {
+          "text": "They spread your weight over a larger area, lowering the pressure",
+          "correct": true
+        },
+        {
+          "text": "They make you weigh less",
+          "correct": false
+        },
+        {
+          "text": "They warm the snow so it holds firm",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSpreading the same weight (force) over more area reduces the pressure on\nthe snow, so you don't punch through.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7de888#2",
+      "format": "quiz",
+      "prompt": "How does pressure behave inside a fluid?",
+      "choices": [
+        {
+          "text": "It pushes equally in all directions and increases with depth",
+          "correct": true
+        },
+        {
+          "text": "It only pushes downward, like gravity",
+          "correct": false
+        },
+        {
+          "text": "It is the same at every depth",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFluid pressure acts in all directions at once, and the weight of fluid\nabove means deeper points feel more pressure.\u003c/p\u003e"
+    }
+  ]
+}

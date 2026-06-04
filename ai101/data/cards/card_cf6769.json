@@ -1,0 +1,114 @@
+{
+  "id": "card_cf6769",
+  "slug": "world-models-promise-and-limits",
+  "type": "news",
+  "title": "Can AI Learn to Simulate the Real World?",
+  "hook": "The next AI frontier isn't just predicting the next word — it's building an internal 'world model' that predicts what happens next in reality. Experts say it's promising, and still very unproven.",
+  "key_points": [
+    "'World models' are AI systems trained to predict how a physical scene changes over time.",
+    "The goal: an AI that grasps cause and effect — like gravity or object permanence — not just text.",
+    "They're seen as key to real progress in robotics and self-driving, where the world doesn't pause.",
+    "Ars Technica reports experts are split on how much real understanding these systems have today.",
+    "It's easy to confuse a convincing simulation with genuine understanding — the two aren't the same."
+  ],
+  "content_html": "\u003cp\u003eMost AI you've used predicts the next \u003cem\u003eword\u003c/em\u003e. A newer research direction tries something bigger: predicting the next \u003cem\u003emoment\u003c/em\u003e — how a physical scene will look and behave a second from now. Ars Technica calls these \u0026quot;world models,\u0026quot; and its deep-dive lays out both why researchers are excited and why the excitement should come with caveats.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe appeal is straightforward. A chatbot only has to sound plausible; a robot or a self-driving car has to act correctly in a physical world that has real gravity, real momentum, and no pause button. Proponents argue that if an AI can build an internal simulation of how objects move, collide, and persist — the way a toddler intuitively grasps that a dropped ball falls, or that a hidden object still exists — it could finally get robotics and autonomous systems past their current brittleness. But the article is careful to separate the promise from what's proven: experts quoted are split on how much of this is genuine physical understanding versus an increasingly convincing pattern-matched simulation that \u003cem\u003elooks\u003c/em\u003e right in familiar situations and falls apart in new ones. That distinction matters for anyone evaluating AI hype — a system that predicts a falling ball correctly a thousand times hasn't necessarily learned gravity; it may have just learned what falling balls tend to look like in its training data. World models are a genuinely active, well-funded research bet — just not yet a settled answer.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Samuel Axon"
+    ],
+    "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models",
+    "published_at": "2026-07-13",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-limits"
+  ],
+  "tags": [
+    "foundational",
+    "reasoning"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-13",
+  "related": [
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_91d606",
+      "slug": "ai-gun-detection-failure",
+      "type": "news",
+      "title": "When 'Good Enough' AI Isn't: A Gun-Detection Lawsuit",
+      "hook": "An AI system meant to spot weapons on school cameras missed a gun before a shooting — and a survivor is suing. It poses a hard question for any safety AI: how accurate does it have to be?",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-07"
+    },
+    {
+      "id": "card_66e39d",
+      "slug": "robots-and-self-driving",
+      "type": "concept",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_cf6769#0",
+      "format": "quiz",
+      "prompt": "What is a 'world model' trying to do, in plain terms?",
+      "choices": [
+        {
+          "text": "Predict how a physical scene will change next, the way a person anticipates cause and effect",
+          "correct": true
+        },
+        {
+          "text": "Translate text between languages",
+          "correct": false
+        },
+        {
+          "text": "Store a copy of the entire internet",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA world model aims to internalize physical cause and effect — like objects\nfalling or staying put — so an AI can anticipate what happens next, not just\ndescribe words.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cf6769#1",
+      "format": "flip",
+      "prompt": "Why do experts care about world models for robots and self-driving cars?",
+      "back_html": "\u003cp\u003eThose systems act in real time in a physical world that doesn't wait — they\nneed to anticipate what happens next, not just react after the fact.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cf6769#2",
+      "format": "flip",
+      "prompt": "What's the key caution experts raise about today's world models?",
+      "back_html": "\u003cp\u003eA convincing simulation isn't the same as genuine understanding — it's still\nunsettled how much of the physical world these systems actually 'grasp.'\u003c/p\u003e"
+    }
+  ]
+}

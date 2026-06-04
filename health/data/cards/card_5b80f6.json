@@ -1,0 +1,103 @@
+{
+  "id": "card_5b80f6",
+  "slug": "fda-approves-pancreatic-cancer-drug",
+  "type": "news",
+  "title": "FDA Approves a Landmark Pancreatic Cancer Drug",
+  "hook": "U.S. regulators have cleared a first-of-its-kind drug for pancreatic cancer that blocks the protein fueling the vast majority of these tumors — a rare win in the deadliest common cancer.",
+  "key_points": [
+    "The FDA approved a new pancreatic cancer drug shown to improve survival.",
+    "It works by blocking a protein that drives tumor growth in the vast majority of cases.",
+    "Pancreatic cancer has long had few effective treatments and very poor survival odds.",
+    "Approval means the approach moves from trial results to something doctors can actually prescribe."
+  ],
+  "content_html": "\u003cp\u003eU.S. health officials have approved a new drug for pancreatic cancer that has been shown to improve survival — a notable step for a disease with very few effective treatments. The drug takes a different approach from conventional chemotherapy: it blocks a protein that fuels tumor growth in the vast majority of pancreatic cancers.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs the Associated Press reported via NPR, the approval covers a treatment aimed squarely at the biology driving the disease rather than at cancer cells in general. Pancreatic cancer is among the deadliest cancers, usually caught late and stubbornly resistant to existing therapies, so any treatment that measurably extends survival is significant news.\u003c/p\u003e\n\u003cp\u003eWorth keeping in perspective: approval means the drug is available and its benefit was judged real, not that pancreatic cancer is solved. Gains in advanced disease are typically measured in months, and how much any individual patient benefits varies. Still, moving from \u0026quot;promising trial\u0026quot; to \u0026quot;approved treatment\u0026quot; is the step that actually changes what oncologists can offer.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "The Associated Press"
+    ],
+    "url": "https://npr.org/2026/08/27/g-s1-140410/fda-approves-landmark-pancreatic-cancer-drug",
+    "published_at": "2026-08-27",
+    "license": "© NPR / AP (educational use)"
+  },
+  "topic_ids": [
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_3248ca",
+      "slug": "cracking-pancreatic-cancer",
+      "type": "news",
+      "title": "A Drug for 'Undruggable' Pancreatic Cancer",
+      "hook": "A new drug, daraxonrasib, hits a KRAS mutation long thought 'undruggable' and nearly doubled survival in a trial of advanced pancreatic cancer — a hard-to-treat disease.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_54df72",
+      "slug": "pancreatic-cancer-self-destruct",
+      "type": "news",
+      "title": "Making Pancreatic Cancer Cells Self-Destruct",
+      "hook": "Instead of blocking cancer signals, an experimental compound cranks them into overdrive until pancreatic cancer cells destroy themselves — and blocked over 90% of tumor cell migration in lab tests.",
+      "importance": 2,
+      "difficulty": "intro",
+      "date": "2026-06-29"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5b80f6#0",
+      "format": "flip",
+      "prompt": "How does the newly approved pancreatic cancer drug work?",
+      "back_html": "\u003cp\u003eIt blocks a protein that fuels tumor growth in the \u003cstrong\u003evast majority\u003c/strong\u003e of pancreatic\ncancers — attacking the driver of the disease rather than just slowing cells down.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5b80f6#1",
+      "format": "quiz",
+      "prompt": "Why does an FDA approval matter more than a promising trial result?",
+      "choices": [
+        {
+          "text": "Approval means doctors can actually prescribe the drug to patients",
+          "correct": true
+        },
+        {
+          "text": "Approval proves the drug cures the disease",
+          "correct": false
+        },
+        {
+          "text": "Approval means the drug has no side effects",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRegulatory approval is the step that turns a trial finding into an available treatment.\nIt signals the evidence was judged strong enough — not that the disease is cured.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5b80f6#2",
+      "format": "quiz",
+      "prompt": "What makes this approval notable for pancreatic cancer specifically?",
+      "choices": [
+        {
+          "text": "It is one of the deadliest cancers with few effective treatments",
+          "correct": true
+        },
+        {
+          "text": "Pancreatic cancer is the most common cancer worldwide",
+          "correct": false
+        },
+        {
+          "text": "Pancreatic cancer previously had no diagnostic test",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePancreatic cancer has long been among the hardest cancers to treat, so a drug that\nmeasurably improves survival is a meaningful step rather than routine news.\u003c/p\u003e"
+    }
+  ]
+}

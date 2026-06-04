@@ -1,0 +1,113 @@
+{
+  "id": "card_d37946",
+  "slug": "ai-superconductor-discovery",
+  "type": "news",
+  "title": "AI Just Helped Find Two New Superconductors",
+  "hook": "Machine learning helped physicists find two new superconductors and sketch a faster route toward physics' biggest prize in the field: a superconductor that works at room temperature.",
+  "key_points": [
+    "Researchers paired ML pre-screening with targeted quantum calculations to search far more candidate materials than manual theory allows.",
+    "The method flagged two new superconductors, YRu₂B₂ and LuRu₂B₂, whose superconductivity comes from electrons forming flat bands in a kagome lattice.",
+    "Of the 7,000+ superconductors known today, only about 20 were predicted by theory before being found — ML aims to flip that ratio.",
+    "The Aalto-led SuperC consortium's stated goal is a room-temperature superconductor by 2033."
+  ],
+  "content_html": "\u003cp\u003eSuperconductors carry electric current with zero resistance, but almost every one we know was found by trial and error, not prediction — a compound gets made for some other reason, and only later does someone discover it superconducts. A team led by Päivi Törmä at Aalto University, working with Emilia Morosan's group at Rice University, wants to flip that process around.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir approach uses machine learning to rapidly pre-screen enormous numbers of elemental combinations, then hands the most promising candidates to detailed quantum calculations — work that used to take theorists years per compound. The method turned up two new superconductors, YRu₂B₂ and LuRu₂B₂, which owe their superconductivity to electrons forming \u0026quot;flat bands\u0026quot; in a kagome lattice, a geometric pattern named for a Japanese basket-weaving design. Of the more than 7,000 superconductors known today, only about 20 were predicted by theory before being found in the lab — the rest were serendipity. The team's SuperC consortium hopes ML screening at the scale of billions of candidate materials can flip that ratio, with a stated goal of identifying a room-temperature superconductor by 2033. Published in \u003cem\u003ePhysical Review Research\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260701205006.htm",
+    "published_at": "2026-07-07",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_d37946#0",
+      "format": "flip",
+      "prompt": "How did researchers speed up the search for new superconductors?",
+      "back_html": "\u003cp\u003eThey used \u003cstrong\u003emachine learning to pre-screen\u003c/strong\u003e huge numbers of candidate materials, then ran\ndetailed quantum calculations only on the most promising few — skipping years of brute-force\ntheory work per compound.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d37946#1",
+      "format": "quiz",
+      "prompt": "What do the two new superconductors, YRu₂B₂ and LuRu₂B₂, have in common?",
+      "choices": [
+        {
+          "text": "Both get their superconductivity from electrons forming flat energy bands in a kagome lattice",
+          "correct": true
+        },
+        {
+          "text": "Both already work at room temperature",
+          "correct": false
+        },
+        {
+          "text": "Both were found with no theory involved, by pure trial and error",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTheir shared trait is a kagome lattice — a geometric atomic arrangement — that produces flat\nelectron bands conducive to superconductivity. Neither works at room temperature yet.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d37946#2",
+      "format": "quiz",
+      "prompt": "Historically, how have most known superconductors been discovered?",
+      "choices": [
+        {
+          "text": "By serendipity — made in the lab first, only later found to superconduct",
+          "correct": true
+        },
+        {
+          "text": "Almost all were predicted by theory before anyone made them",
+          "correct": false
+        },
+        {
+          "text": "By scanning through every possible material with a supercomputer",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOf over 7,000 known superconductors, only about 20 were theoretically predicted first — the\nrest were found by accident. ML screening aims to reverse that ratio.\u003c/p\u003e"
+    }
+  ]
+}

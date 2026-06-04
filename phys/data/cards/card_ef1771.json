@@ -1,0 +1,118 @@
+{
+  "id": "card_ef1771",
+  "slug": "nonlocal-magic-exactly-measured",
+  "type": "paper",
+  "title": "How Much Quantum Magic Lives in the Correlations?",
+  "hook": "Magic is the resource that makes a quantum computer hard to simulate. A new result pins down exactly how much of it hides in the correlations between two parties rather than in each one's local basis.",
+  "key_points": [
+    "Magic, or nonstabilizerness, is what lifts easy-to-simulate Clifford circuits to universal quantum computation.",
+    "For a state shared by two parties, some magic can be rotated away by a local change of basis; what remains is nonlocal magic.",
+    "Isolating it means minimizing over all local bases — an optimization that had resisted exact solution.",
+    "For the stabilizer fidelity the answer is clean: nonlocal magic is the distance from the state's entanglement spectrum to the nearest Bell-pair spectrum.",
+    "The same quantity decides universal embezzlement of entanglement under local operations and classical communication: it works exactly when nonlocal magic diverges.",
+    "Entanglement alone does not predict it — critical chains and random-singlet states share logarithmic entanglement scaling yet have unbounded versus vanishing nonlocal magic."
+  ],
+  "content_html": "\u003cp\u003eQuantum computers are not hard to simulate merely because they are entangled. Circuits built only from Clifford gates can be highly entangled and still tracked efficiently on a laptop. The extra ingredient is called magic, or nonstabilizerness — the thing that lifts Clifford circuits to universal quantum computation, and a now-standard diagnostic for many-body states.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSplit a state between two parties and a natural question appears: how much of that magic is genuinely stored in the correlations between them, and how much is an artifact of the local bases each party happens to use? Answering it requires minimizing over all local bases, an optimization that had never been solved exactly.\u003c/p\u003e\n\u003cp\u003ePiotr Sierant (arXiv, August 2026) solves it for the stabilizer fidelity. The nonlocal magic of any pure multiqubit state turns out to be the distance of its entanglement spectrum from the closest spectrum of Bell pairs. The same quantity governs a task that looks unrelated: a family of states universally embezzles entanglement under local operations and classical communication precisely when its nonlocal magic diverges.\u003c/p\u003e\n\u003cp\u003eThe deciding property is not how much entanglement a state has but how its entanglement spectrum spreads weight across factor-of-two windows of rank. Critical spin chains and random-singlet states have identical logarithmic entanglement scaling, yet carry unbounded and vanishing nonlocal magic respectively. Because the criterion is spectral, it is directly accessible to tensor-network simulations and, through entanglement spectroscopy, to experiment.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Piotr Sierant"
+    ],
+    "url": "https://arxiv.org/abs/2608.28563",
+    "published_at": "2026-08-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_0d948d",
+      "slug": "tensor-networks-outrun-a-quantum-simulation",
+      "type": "paper",
+      "title": "A Classical Method Redid a Quantum Chip's Showcase Run — Faster",
+      "hook": "A quantum processor simulated 7,260 measurement trajectories of a Fermi-Hubbard model. Classical tensor networks reproduced all of them more quickly, more accurately, and for longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-13"
+    },
+    {
+      "id": "card_9ababf",
+      "slug": "quantum-speedups-need-structure-or-depth",
+      "type": "paper",
+      "title": "Why Quantum Speedups Need Structure",
+      "hook": "A long-standing conjecture says quantum computers can't beat classical ones on unstructured problems. It's now settled for parallel algorithms — and depth is the deciding resource.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ef1771#0",
+      "format": "quiz",
+      "prompt": "Why is 'magic' (nonstabilizerness) a meaningful resource at all?",
+      "choices": [
+        {
+          "text": "Clifford circuits alone are efficiently simulable; magic is what lifts them to universal quantum computation",
+          "correct": true
+        },
+        {
+          "text": "It measures how much entanglement a state carries between two parties",
+          "correct": false
+        },
+        {
+          "text": "It counts the number of qubits a state needs to be written down",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eStabilizer (Clifford) dynamics can be tracked classically. Nonstabilizerness is the\ningredient that makes a circuit both universal and hard to simulate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ef1771#1",
+      "format": "flip",
+      "prompt": "In terms of the stabilizer fidelity, what is a pure state's nonlocal magic equal to?",
+      "back_html": "\u003cp\u003eThe distance of its \u003cstrong\u003eentanglement spectrum\u003c/strong\u003e from the closest spectrum of \u003cstrong\u003eBell pairs\u003c/strong\u003e —\nturning a minimization over all local bases into a spectral comparison.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ef1771#2",
+      "format": "quiz",
+      "prompt": "Two states have identical logarithmic entanglement scaling. What does that tell you about their nonlocal magic?",
+      "choices": [
+        {
+          "text": "Nothing — critical chains have unbounded nonlocal magic while random-singlet states have vanishing nonlocal magic",
+          "correct": true
+        },
+        {
+          "text": "Their nonlocal magic must also scale logarithmically",
+          "correct": false
+        },
+        {
+          "text": "Both must have zero nonlocal magic, since entanglement bounds it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhat matters is how the entanglement spectrum spreads its weight across factor-of-two\nwindows of rank, not the total amount of entanglement.\u003c/p\u003e"
+    }
+  ]
+}

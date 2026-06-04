@@ -1,0 +1,88 @@
+{
+  "id": "card_cb4d31",
+  "slug": "ai-guardrails-dangerous-topics",
+  "type": "news",
+  "title": "Why a Powerful New AI Refuses Some Questions",
+  "hook": "Anthropic's new Claude Fable 5 is its most capable model yet — and it's deliberately built to refuse cybersecurity, biology, and chemistry queries, even some a high schooler could answer.",
+  "key_points": [
+    "Anthropic released Claude Fable 5, calling it its most powerful widely-available model.",
+    "By design, it declines whole categories: cybersecurity, biology, and chemistry.",
+    "These are 'guardrails' — limits the maker builds in to prevent dangerous misuse.",
+    "The catch: broad guardrails can over-block, refusing harmless questions too."
+  ],
+  "content_html": "\u003cp\u003eWhen a chatbot says \u0026quot;I can't help with that,\u0026quot; it's usually not a glitch — it's a choice the company made. A sharp example landed this week: Anthropic released Claude Fable 5, which it bills as the most powerful model it has ever made widely available, and at the same time announced that the model is built to refuse whole topics it deems too dangerous — cybersecurity, biology, and chemistry. As Ars Technica reports, the restriction is broad enough that the model will decline even basic biology questions a high schooler could handle, handing some of them off to an older, less restricted model.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is worth understanding because \u0026quot;the AI won't answer\u0026quot; trips a lot of people up. There are two different reasons a model might decline. One is \u003cem\u003ecapability\u003c/em\u003e — it genuinely can't, because it lacks live information or real understanding. The other, on display here, is a deliberate \u003cstrong\u003eguardrail\u003c/strong\u003e: the maker decided that helping with certain things (say, anything that edges toward bioweapons or hacking) is too risky, so the model is trained to refuse. Guardrails are a real safety tool, and for frontier models capable of genuine harm, most people would agree some limits make sense. But they're blunt instruments. Drawing the line around entire fields like \u0026quot;biology\u0026quot; inevitably catches harmless, even educational questions in the net — a visible reminder that what an AI will and won't do is set by its maker, and that those choices involve real trade-offs between safety and usefulness.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Kyle Orland"
+    ],
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about",
+    "published_at": "2026-06-09",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-now",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-11",
+  "date": "2026-06-09",
+  "related": [
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cb4d31#0",
+      "format": "quiz",
+      "prompt": "What is an AI 'guardrail'?",
+      "choices": [
+        {
+          "text": "A limit the maker builds in to stop the model from helping with dangerous things",
+          "correct": true
+        },
+        {
+          "text": "A bug that makes the model crash",
+          "correct": false
+        },
+        {
+          "text": "A feature that makes the model answer faster",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGuardrails are deliberate restrictions. With Fable 5, Anthropic blocks whole\nareas — cybersecurity, biology, chemistry — to reduce the risk of misuse.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cb4d31#1",
+      "format": "flip",
+      "prompt": "What's the downside of broad safety guardrails like Fable 5's?",
+      "back_html": "\u003cp\u003eThey can over-block — refusing harmless questions (even basic biology) along\nwith the dangerous ones, because the model errs on the side of caution.\u003c/p\u003e"
+    }
+  ]
+}

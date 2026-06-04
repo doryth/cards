@@ -1,0 +1,108 @@
+{
+  "id": "card_4f1467",
+  "slug": "china-humanoid-robot-carnival",
+  "type": "news",
+  "title": "Nine in Ten of the World's Humanoid Robots Are Made in China",
+  "hook": "At a Shanghai robot carnival, humanoids did martial arts on stage and fumbled the laundry. Behind the spectacle: China built nearly 90% of the two-legged robots shipped last year.",
+  "key_points": [
+    "Of the 13,000+ two-armed, two-legged robots delivered worldwide last year, nearly 90% were made in China, per MIT Technology Review.",
+    "'Embodied AI' — putting AI into machines that move through the world — is a stated part of China's latest five-year plan.",
+    "Crowd-pleasing stunts (acrobatics, robot combat) are far easier than chores like folding laundry.",
+    "Real blockers remain: weight and balance safety, high cost, and short battery life.",
+    "Some roboticists doubt the human shape is even the right design for most tasks."
+  ],
+  "content_html": "\u003cp\u003eA reporter for MIT Technology Review spent a day at a robot \u0026quot;carnival\u0026quot; on the outskirts of Shanghai, where families queued up to watch robot dogs do stunts and humanoids perform martial arts and acrobatics on stage. One machine made coffee. Another tried to fold laundry — and that contrast is the whole story of humanoid robots right now.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe scale behind the spectacle is real. Of the more than 13,000 two-armed, two-legged robots delivered globally last year, nearly 90% were built in China, where \u0026quot;embodied AI\u0026quot; — intelligence wired into machines that physically act — is written into the country's latest five-year plan. This is industrial policy, not just a trade show.\u003c/p\u003e\n\u003cp\u003eWhat the carnival also shows is the gap between a demo and a product. Rehearsed acrobatics play beautifully on stage; grabbing a crumpled shirt out of a basket does not, because soft unpredictable objects in cluttered rooms remain genuinely hard. And even if the software improves, the reporting lists obstacles that no model update fixes: these machines are expensive, their batteries run down fast, and a heavy thing balancing on two legs near a child is a safety problem. A number of roboticists in the piece go further and question the premise — that the human shape, evolved for human bodies, is the right form for a machine whose job is to move boxes or vacuum a floor. Worth remembering the next time a humanoid video sweeps your feed.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "You Xiaoying"
+    ],
+    "url": "https://technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival",
+    "published_at": "2026-08-25",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "robots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "vision"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_800ed6",
+      "slug": "viral-robot-demos",
+      "type": "news",
+      "title": "That Viral Robot Video Probably Isn't What It Looks Like",
+      "hook": "Humanoid robots dancing and doing backflips rack up millions of views — but slick demos can badly distort what these machines can actually do on their own, in the real world.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d9c812",
+      "slug": "hyundai-robot-strike",
+      "type": "news",
+      "title": "Workers Just Went on Strike Against Humanoid Robots",
+      "hook": "Hyundai's 40,000-member union walked out over the automaker's plan to bring in 25,000+ humanoid robots — likely the first labor strike ever aimed squarely at humanoid automation.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4f1467#0",
+      "format": "quiz",
+      "prompt": "What does 'embodied AI' mean?",
+      "choices": [
+        {
+          "text": "AI placed inside physical machines that act in the real world",
+          "correct": true
+        },
+        {
+          "text": "AI that has become conscious of its own existence",
+          "correct": false
+        },
+        {
+          "text": "AI that runs on your phone rather than in the cloud",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEmbodied AI is about the body: software intelligence controlling a machine that\nmoves, grasps, and navigates — which is far harder than answering in a chat window.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4f1467#1",
+      "format": "flip",
+      "prompt": "Why is a robot doing backflips less impressive than a robot folding laundry?",
+      "back_html": "\u003cp\u003eAcrobatics is a rehearsed, controlled motion. Laundry means handling soft,\nunpredictable objects in a messy environment — the part robots still fumble.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4f1467#2",
+      "format": "quiz",
+      "prompt": "Which of these is still a major practical obstacle for humanoid robots?",
+      "choices": [
+        {
+          "text": "Short battery life, high cost, and balance-related safety risks",
+          "correct": true
+        },
+        {
+          "text": "A shortage of programming languages to control them",
+          "correct": false
+        },
+        {
+          "text": "Laws banning them from private homes worldwide",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe reporting points at mundane engineering limits — cost, runtime, and the\ndanger of a heavy two-legged machine losing balance near people.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "card_3988f3",
+  "slug": "nutrition-in-pregnancy",
+  "type": "concept",
+  "title": "Eating Well When You're Pregnant",
+  "hook": "Most foods are fine in pregnancy — but a short list carries infection or toxin risks worth knowing, alongside a daily folic acid supplement and a varied, balanced diet.",
+  "key_points": [
+    "Build meals around plenty of fruit and veg, starchy carbs, protein, and dairy — there's no need to 'eat for two'.",
+    "Avoid high-mercury fish (shark, swordfish, marlin) and limit oily fish and tuna; these carry mercury or pollutants.",
+    "Skip unpasteurised and mould-ripened soft cheeses, raw or undercooked meat, liver, and raw/partially cooked eggs (listeria, salmonella, vitamin A).",
+    "Avoid alcohol entirely and keep caffeine under about 200mg a day; keep taking a folic acid supplement."
+  ],
+  "content_html": "\u003cp\u003eYou don't need to \u0026quot;eat for two\u0026quot; in pregnancy — you need to eat well. A varied, balanced diet built around fruit and vegetables, starchy carbohydrates, protein, and dairy covers most of what you and your baby need, alongside a daily folic acid supplement that the NHS recommends throughout the first trimester.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe bigger thing to learn is the short list of foods to be careful with, because pregnancy raises the stakes on certain infections and toxins. The NHS advises avoiding high-mercury fish (shark, swordfish, marlin) and limiting oily fish and tuna; skipping unpasteurised and mould-ripened soft cheeses, raw or undercooked meat, liver, and raw or partially cooked eggs that aren't British Lion stamped; avoiding alcohol entirely; and keeping caffeine under about 200mg a day. These guard against risks like listeria, salmonella, and excess vitamin A. This is general guidance — your own midwife or doctor can tailor it to your situation and any specific concerns.\u003c/p\u003e",
+  "source": {
+    "name": "NHS",
+    "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+    "license": "© Crown copyright (Open Government Licence)"
+  },
+  "topic_ids": [
+    "pregnancy",
+    "feeding"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2e5fb5",
+      "slug": "folic-acid-before-and-during",
+      "type": "concept",
+      "title": "Folic Acid Before and During Pregnancy",
+      "hook": "Taking folic acid before conception and in early pregnancy is one of the best-evidenced ways to lower the risk of serious birth defects of the brain and spine.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a30e0a",
+      "slug": "prenatal-care-visits",
+      "type": "concept",
+      "title": "Why Prenatal Visits Matter",
+      "hook": "Regular checkups during pregnancy catch problems early — for many a typical schedule is monthly, then every two weeks, then weekly as the due date nears.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6aaa68",
+      "slug": "common-discomforts",
+      "type": "concept",
+      "title": "The Common Aches of Pregnancy",
+      "hook": "Nausea, heartburn, fatigue, and a sore back are the everyday companions of pregnancy — usually normal and manageable. The skill is knowing the simple fixes, and which symptoms are not on this list.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3988f3#0",
+      "format": "quiz",
+      "prompt": "Which fish should you avoid completely during pregnancy because of mercury?",
+      "choices": [
+        {
+          "text": "Shark, swordfish, and marlin",
+          "correct": true
+        },
+        {
+          "text": "Salmon and sardines",
+          "correct": false
+        },
+        {
+          "text": "Cod and haddock",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eShark, swordfish, and marlin carry the most mercury. Oily fish like\nsalmon are healthy but the NHS suggests limiting them to about two\nportions a week.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3988f3#1",
+      "format": "flip",
+      "prompt": "What's the daily caffeine guideline in pregnancy, and what about alcohol?",
+      "back_html": "\u003cp\u003eKeep caffeine under about \u003cstrong\u003e200mg a day\u003c/strong\u003e (roughly two mugs of instant\ncoffee), and avoid \u003cstrong\u003ealcohol entirely\u003c/strong\u003e — there's no known safe amount.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3988f3#2",
+      "format": "quiz",
+      "prompt": "Why avoid unpasteurised and mould-ripened soft cheeses in pregnancy?",
+      "choices": [
+        {
+          "text": "They can carry listeria bacteria",
+          "correct": true
+        },
+        {
+          "text": "They have too much calcium",
+          "correct": false
+        },
+        {
+          "text": "They cause heartburn",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUnpasteurised and soft mould-ripened cheeses (like brie) carry a small\nrisk of listeria, which can be dangerous in pregnancy.\u003c/p\u003e"
+    }
+  ]
+}

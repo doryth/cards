@@ -1,0 +1,798 @@
+{
+  "version": "2026-09-03.df272bef",
+  "topics": [
+    {
+      "id": "first-steps",
+      "title": "Your First Steps",
+      "slug": "first-steps",
+      "parent": "start",
+      "order": 5,
+      "card_order": "learning-path",
+      "blurb": "What to try first, what to ignore, and how to dip a toe in without worry.",
+      "related_topic_ids": [
+        "what-is-ai",
+        "chatbots",
+        "talking-to-ai"
+      ]
+    },
+    {
+      "id": "start",
+      "title": "Getting Started",
+      "slug": "start",
+      "order": 5,
+      "blurb": "Never used AI on purpose? Start here — it's easier and safer than you think."
+    },
+    {
+      "id": "basics",
+      "title": "AI Basics",
+      "slug": "basics",
+      "order": 10,
+      "blurb": "What artificial intelligence actually is — minus the sci-fi."
+    },
+    {
+      "id": "what-is-ai",
+      "title": "What AI Actually Is",
+      "slug": "what-is-ai",
+      "parent": "basics",
+      "order": 10,
+      "card_order": "learning-path",
+      "blurb": "Software that learns patterns from examples instead of following hand-written rules.",
+      "related_topic_ids": [
+        "how-ai-learns",
+        "generative-ai",
+        "ai-history"
+      ]
+    },
+    {
+      "id": "how-ai-learns",
+      "title": "How AI Learns",
+      "slug": "how-ai-learns",
+      "parent": "basics",
+      "order": 11,
+      "card_order": "learning-path",
+      "blurb": "Show a model millions of examples, let it guess, and correct it — over and over.",
+      "related_topic_ids": [
+        "what-is-ai",
+        "generative-ai",
+        "bias-fairness"
+      ]
+    },
+    {
+      "id": "generative-ai",
+      "title": "Generative AI",
+      "slug": "generative-ai",
+      "parent": "basics",
+      "order": 12,
+      "card_order": "learning-path",
+      "blurb": "The kind that writes, draws, and talks — predicting what plausibly comes next.",
+      "related_topic_ids": [
+        "what-is-ai",
+        "chatbots",
+        "ai-images"
+      ]
+    },
+    {
+      "id": "ai-history",
+      "title": "A Short History of AI",
+      "slug": "ai-history",
+      "parent": "basics",
+      "order": 13,
+      "card_order": "learning-path",
+      "blurb": "From 1950s optimism to today's chatbots, in a few big leaps.",
+      "related_topic_ids": [
+        "what-is-ai",
+        "how-ai-learns"
+      ]
+    },
+    {
+      "id": "ai-jargon",
+      "title": "AI Jargon, Decoded",
+      "slug": "ai-jargon",
+      "parent": "basics",
+      "order": 14,
+      "card_order": "learning-path",
+      "blurb": "Model, algorithm, LLM, GPT, training — the words everyone uses, in plain English.",
+      "related_topic_ids": [
+        "what-is-ai",
+        "generative-ai"
+      ]
+    },
+    {
+      "id": "multimodal",
+      "title": "AI That Sees \u0026 Hears",
+      "slug": "multimodal",
+      "parent": "basics",
+      "order": 15,
+      "card_order": "learning-path",
+      "blurb": "Modern AI isn't just text — one model can read images, listen, and reply in kind.",
+      "related_topic_ids": [
+        "generative-ai",
+        "ai-images",
+        "voice-ai"
+      ]
+    },
+    {
+      "id": "chatbots",
+      "title": "Chatbots \u0026 Assistants",
+      "slug": "chatbots",
+      "parent": "using-ai",
+      "order": 20,
+      "card_order": "learning-path",
+      "blurb": "ChatGPT, Claude, Gemini and friends — what they are and what they're good for.",
+      "related_topic_ids": [
+        "generative-ai",
+        "talking-to-ai",
+        "hallucinations"
+      ]
+    },
+    {
+      "id": "using-ai",
+      "title": "Using AI",
+      "slug": "using-ai",
+      "order": 20,
+      "blurb": "The tools you can actually pick up today — and how to get good answers."
+    },
+    {
+      "id": "talking-to-ai",
+      "title": "Talking to AI",
+      "slug": "talking-to-ai",
+      "parent": "using-ai",
+      "order": 21,
+      "card_order": "learning-path",
+      "blurb": "How to ask so you get a useful answer — context, examples, and follow-ups.",
+      "related_topic_ids": [
+        "chatbots",
+        "hallucinations"
+      ]
+    },
+    {
+      "id": "ai-everyday",
+      "title": "AI in Everyday Tools",
+      "slug": "ai-everyday",
+      "parent": "using-ai",
+      "order": 22,
+      "card_order": "learning-path",
+      "blurb": "It's already in your phone, your maps, your photos, and your inbox.",
+      "related_topic_ids": [
+        "what-is-ai",
+        "privacy-data"
+      ]
+    },
+    {
+      "id": "ai-images",
+      "title": "AI Images, Art \u0026 Video",
+      "slug": "ai-images",
+      "parent": "using-ai",
+      "order": 23,
+      "card_order": "learning-path",
+      "blurb": "Typing a sentence and getting a picture — how it works and what to watch for.",
+      "related_topic_ids": [
+        "generative-ai",
+        "deepfakes"
+      ]
+    },
+    {
+      "id": "ai-for-writing",
+      "title": "AI for Writing",
+      "slug": "ai-for-writing",
+      "parent": "using-ai",
+      "order": 24,
+      "card_order": "learning-path",
+      "blurb": "Emails, drafts, edits, and tone — where AI helps most with words.",
+      "related_topic_ids": [
+        "talking-to-ai",
+        "responsible-use"
+      ]
+    },
+    {
+      "id": "ai-as-tutor",
+      "title": "AI as a Tutor",
+      "slug": "ai-as-tutor",
+      "parent": "using-ai",
+      "order": 25,
+      "card_order": "learning-path",
+      "blurb": "A patient explainer that adapts to you — and how to learn with it, not just from it.",
+      "related_topic_ids": [
+        "talking-to-ai",
+        "ai-and-kids",
+        "hallucinations"
+      ]
+    },
+    {
+      "id": "ai-money",
+      "title": "AI \u0026 Your Money",
+      "slug": "ai-money",
+      "parent": "daily-life",
+      "order": 25,
+      "card_order": "learning-path",
+      "blurb": "Budgeting help and plain-English explanations — without handing it the keys to your finances.",
+      "related_topic_ids": [
+        "ai-scams",
+        "hallucinations",
+        "your-data-and-privacy"
+      ]
+    },
+    {
+      "id": "daily-life",
+      "title": "AI in Daily Life",
+      "slug": "daily-life",
+      "order": 25,
+      "blurb": "Money, health, shopping, hobbies — putting AI to work on the stuff of ordinary life."
+    },
+    {
+      "id": "ai-health-questions",
+      "title": "Asking AI About Health",
+      "slug": "ai-health-questions",
+      "parent": "daily-life",
+      "order": 26,
+      "card_order": "learning-path",
+      "blurb": "A smarter symptom-search and a way to prep for the doctor — never a diagnosis.",
+      "related_topic_ids": [
+        "ai-healthcare",
+        "hallucinations",
+        "ai-limits"
+      ]
+    },
+    {
+      "id": "ai-search",
+      "title": "AI in Search",
+      "slug": "ai-search",
+      "parent": "using-ai",
+      "order": 26,
+      "card_order": "learning-path",
+      "blurb": "When your search engine answers in sentences instead of links.",
+      "related_topic_ids": [
+        "chatbots",
+        "hallucinations"
+      ]
+    },
+    {
+      "id": "ai-shopping",
+      "title": "AI \u0026 Shopping",
+      "slug": "ai-shopping",
+      "parent": "daily-life",
+      "order": 27,
+      "card_order": "learning-path",
+      "blurb": "Recommendations, comparisons, and the rising tide of fake AI reviews.",
+      "related_topic_ids": [
+        "ai-everyday",
+        "spotting-ai"
+      ]
+    },
+    {
+      "id": "choosing-tools",
+      "title": "Free vs Paid Tools",
+      "slug": "choosing-tools",
+      "parent": "using-ai",
+      "order": 27,
+      "card_order": "learning-path",
+      "blurb": "What you get for nothing, what you pay for, and how to pick.",
+      "related_topic_ids": [
+        "chatbots",
+        "privacy-data"
+      ]
+    },
+    {
+      "id": "ai-agents",
+      "title": "AI Agents",
+      "slug": "ai-agents",
+      "parent": "using-ai",
+      "order": 28,
+      "card_order": "learning-path",
+      "blurb": "The next step beyond chat: AI that takes actions and gets things done for you.",
+      "related_topic_ids": [
+        "chatbots",
+        "ai-at-work",
+        "over-reliance"
+      ]
+    },
+    {
+      "id": "ai-hobbies",
+      "title": "AI for Hobbies \u0026 Creativity",
+      "slug": "ai-hobbies",
+      "parent": "daily-life",
+      "order": 28,
+      "card_order": "learning-path",
+      "blurb": "A tireless, judgment-free partner for writing, music, art, cooking, and learning for fun.",
+      "related_topic_ids": [
+        "ai-images",
+        "ai-as-tutor"
+      ]
+    },
+    {
+      "id": "ai-making",
+      "title": "Making Things Without Code",
+      "slug": "ai-making",
+      "parent": "daily-life",
+      "order": 29,
+      "card_order": "learning-path",
+      "blurb": "Describe an app, a website, or a tool in words — and watch AI build a first version.",
+      "related_topic_ids": [
+        "ai-agents",
+        "ai-at-work"
+      ]
+    },
+    {
+      "id": "voice-ai",
+      "title": "Voice Assistants",
+      "slug": "voice-ai",
+      "parent": "using-ai",
+      "order": 29,
+      "card_order": "learning-path",
+      "blurb": "From 'set a timer' to real conversations — talking to AI out loud.",
+      "related_topic_ids": [
+        "chatbots",
+        "ai-everyday",
+        "privacy-data"
+      ]
+    },
+    {
+      "id": "ai-at-work",
+      "title": "AI at Work",
+      "slug": "ai-at-work",
+      "parent": "using-ai",
+      "order": 30,
+      "card_order": "learning-path",
+      "blurb": "Meetings, email, slides, spreadsheets — where AI saves real time on the job.",
+      "related_topic_ids": [
+        "ai-for-writing",
+        "responsible-use",
+        "privacy-data"
+      ]
+    },
+    {
+      "id": "hallucinations",
+      "title": "When AI Makes Things Up",
+      "slug": "hallucinations",
+      "parent": "limits-risks",
+      "order": 30,
+      "card_order": "learning-path",
+      "blurb": "Why a confident chatbot can be confidently wrong — and how to check it.",
+      "related_topic_ids": [
+        "chatbots",
+        "talking-to-ai",
+        "bias-fairness"
+      ]
+    },
+    {
+      "id": "limits-risks",
+      "title": "Limits \u0026 Risks",
+      "slug": "limits-risks",
+      "order": 30,
+      "blurb": "Where AI gets things wrong, and how to stay one step ahead of it."
+    },
+    {
+      "id": "ai-translation",
+      "title": "Breaking Language Barriers",
+      "slug": "ai-translation",
+      "parent": "using-ai",
+      "order": 31,
+      "card_order": "learning-path",
+      "blurb": "Near-instant translation of text, speech, and signs — and where it still trips up.",
+      "related_topic_ids": [
+        "voice-ai",
+        "ai-limits"
+      ]
+    },
+    {
+      "id": "bias-fairness",
+      "title": "Bias \u0026 Fairness",
+      "slug": "bias-fairness",
+      "parent": "limits-risks",
+      "order": 31,
+      "card_order": "learning-path",
+      "blurb": "Models learn from us — including our blind spots and unfairness.",
+      "related_topic_ids": [
+        "how-ai-learns",
+        "hallucinations",
+        "responsible-use"
+      ]
+    },
+    {
+      "id": "deepfakes",
+      "title": "Deepfakes \u0026 Misinformation",
+      "slug": "deepfakes",
+      "parent": "limits-risks",
+      "order": 32,
+      "card_order": "learning-path",
+      "blurb": "Fake photos, voices, and videos that look real — and how to spot them.",
+      "related_topic_ids": [
+        "ai-images",
+        "ai-scams"
+      ]
+    },
+    {
+      "id": "ai-scams",
+      "title": "AI Scams \u0026 Staying Safe",
+      "slug": "ai-scams",
+      "parent": "limits-risks",
+      "order": 33,
+      "card_order": "learning-path",
+      "blurb": "Voice-clone calls, phishing, and the simple habits that beat them.",
+      "related_topic_ids": [
+        "deepfakes",
+        "privacy-data"
+      ]
+    },
+    {
+      "id": "ai-limits",
+      "title": "What AI Can't Do",
+      "slug": "ai-limits",
+      "parent": "limits-risks",
+      "order": 34,
+      "card_order": "learning-path",
+      "blurb": "The hard edges: no real understanding, no live facts, no common sense.",
+      "related_topic_ids": [
+        "what-is-ai",
+        "hallucinations"
+      ]
+    },
+    {
+      "id": "over-reliance",
+      "title": "Over-Relying on AI",
+      "slug": "over-reliance",
+      "parent": "limits-risks",
+      "order": 35,
+      "card_order": "learning-path",
+      "blurb": "The quiet risk of trusting a confident machine more than your own judgment.",
+      "related_topic_ids": [
+        "hallucinations",
+        "responsible-use"
+      ]
+    },
+    {
+      "id": "ai-energy",
+      "title": "AI's Energy \u0026 Water",
+      "slug": "ai-energy",
+      "parent": "limits-risks",
+      "order": 36,
+      "card_order": "learning-path",
+      "blurb": "The data centers behind the chatbot — and what they cost the planet.",
+      "related_topic_ids": [
+        "how-ai-learns",
+        "ai-regulation"
+      ]
+    },
+    {
+      "id": "spotting-ai",
+      "title": "Spotting AI-Made Content",
+      "slug": "spotting-ai",
+      "parent": "limits-risks",
+      "order": 37,
+      "card_order": "learning-path",
+      "blurb": "Telltale signs of AI text and images — and why detectors aren't reliable.",
+      "related_topic_ids": [
+        "deepfakes",
+        "ai-images"
+      ]
+    },
+    {
+      "id": "ai-mental-health",
+      "title": "AI \u0026 Mental Health",
+      "slug": "ai-mental-health",
+      "parent": "limits-risks",
+      "order": 38,
+      "card_order": "learning-path",
+      "blurb": "Chatbots as a 2 a.m. ear — the comfort, the limits, and the real dangers.",
+      "related_topic_ids": [
+        "ai-companions",
+        "over-reliance",
+        "ai-healthcare"
+      ]
+    },
+    {
+      "id": "ai-elections",
+      "title": "AI, Elections \u0026 Democracy",
+      "slug": "ai-elections",
+      "parent": "limits-risks",
+      "order": 39,
+      "card_order": "learning-path",
+      "blurb": "Fake candidates, flooded feeds, and protecting your vote from manipulation.",
+      "related_topic_ids": [
+        "deepfakes",
+        "spotting-ai",
+        "ai-and-news"
+      ]
+    },
+    {
+      "id": "ai-and-jobs",
+      "title": "AI \u0026 Jobs",
+      "slug": "ai-and-jobs",
+      "parent": "ai-society",
+      "order": 40,
+      "card_order": "learning-path",
+      "blurb": "Which work changes, which stays human, and how to ride the shift.",
+      "related_topic_ids": [
+        "what-is-ai",
+        "responsible-use"
+      ]
+    },
+    {
+      "id": "ai-society",
+      "title": "AI \u0026 Society",
+      "slug": "ai-society",
+      "order": 40,
+      "blurb": "What AI means for jobs, privacy, and the choices we make with it."
+    },
+    {
+      "id": "privacy-data",
+      "title": "Your Data \u0026 Privacy",
+      "slug": "privacy-data",
+      "parent": "ai-society",
+      "order": 41,
+      "card_order": "learning-path",
+      "blurb": "What you share when you use AI, and how to share less.",
+      "related_topic_ids": [
+        "ai-everyday",
+        "ai-scams",
+        "responsible-use"
+      ]
+    },
+    {
+      "id": "responsible-use",
+      "title": "Using AI Responsibly",
+      "slug": "responsible-use",
+      "parent": "ai-society",
+      "order": 42,
+      "card_order": "learning-path",
+      "blurb": "Honesty, double-checking, and knowing when not to use it.",
+      "related_topic_ids": [
+        "hallucinations",
+        "bias-fairness",
+        "privacy-data"
+      ]
+    },
+    {
+      "id": "ai-and-kids",
+      "title": "AI, Kids \u0026 School",
+      "slug": "ai-and-kids",
+      "parent": "ai-society",
+      "order": 43,
+      "card_order": "learning-path",
+      "blurb": "Homework, cheating, screen time, and helping kids use AI well.",
+      "related_topic_ids": [
+        "ai-as-tutor",
+        "responsible-use"
+      ]
+    },
+    {
+      "id": "ai-healthcare",
+      "title": "AI in Healthcare",
+      "slug": "ai-healthcare",
+      "parent": "ai-society",
+      "order": 44,
+      "card_order": "learning-path",
+      "blurb": "Reading scans, spotting disease, and why a doctor still signs off.",
+      "related_topic_ids": [
+        "ai-limits",
+        "ai-regulation"
+      ]
+    },
+    {
+      "id": "ai-regulation",
+      "title": "Rules \u0026 Regulation",
+      "slug": "ai-regulation",
+      "parent": "ai-society",
+      "order": 45,
+      "card_order": "learning-path",
+      "blurb": "How governments are starting to set limits on what AI can do.",
+      "related_topic_ids": [
+        "ai-ownership",
+        "will-ai-take-over"
+      ]
+    },
+    {
+      "id": "ai-ownership",
+      "title": "Who Owns AI's Output?",
+      "slug": "ai-ownership",
+      "parent": "ai-society",
+      "order": 46,
+      "card_order": "learning-path",
+      "blurb": "Copyright, credit, and the unsettled question of who owns what AI makes.",
+      "related_topic_ids": [
+        "ai-images",
+        "ai-regulation"
+      ]
+    },
+    {
+      "id": "ai-companions",
+      "title": "AI Companions \u0026 Friends",
+      "slug": "ai-companions",
+      "parent": "ai-society",
+      "order": 47,
+      "card_order": "learning-path",
+      "blurb": "Millions now chat with AI friends and partners — the appeal, and the catch.",
+      "related_topic_ids": [
+        "ai-mental-health",
+        "ai-consciousness",
+        "privacy-data"
+      ]
+    },
+    {
+      "id": "ai-accessibility",
+      "title": "AI \u0026 Accessibility",
+      "slug": "ai-accessibility",
+      "parent": "ai-society",
+      "order": 48,
+      "card_order": "learning-path",
+      "blurb": "AI as assistive tech — describing the world, reading aloud, and giving back a voice.",
+      "related_topic_ids": [
+        "voice-ai",
+        "ai-translation"
+      ]
+    },
+    {
+      "id": "ai-and-news",
+      "title": "AI \u0026 the News",
+      "slug": "ai-and-news",
+      "parent": "ai-society",
+      "order": 49,
+      "card_order": "learning-path",
+      "blurb": "AI-written articles, fake outlets, and how to keep trusting what you read.",
+      "related_topic_ids": [
+        "spotting-ai",
+        "ai-elections",
+        "deepfakes"
+      ]
+    },
+    {
+      "id": "agi",
+      "title": "AGI \u0026 Superintelligence",
+      "slug": "agi",
+      "parent": "big-questions",
+      "order": 50,
+      "card_order": "learning-path",
+      "blurb": "What 'human-level' and 'beyond-human' AI would mean — and why experts disagree it's near.",
+      "related_topic_ids": [
+        "what-is-ai",
+        "will-ai-take-over"
+      ]
+    },
+    {
+      "id": "big-questions",
+      "title": "Big Questions",
+      "slug": "big-questions",
+      "order": 50,
+      "blurb": "The debates everyone argues about — creativity, consciousness, and where this is all headed."
+    },
+    {
+      "id": "facial-recognition",
+      "title": "Facial Recognition",
+      "slug": "facial-recognition",
+      "parent": "ai-society",
+      "order": 50,
+      "card_order": "learning-path",
+      "blurb": "The tech that unlocks your phone and scans a crowd — convenience meets surveillance.",
+      "related_topic_ids": [
+        "privacy-data",
+        "ai-bias"
+      ]
+    },
+    {
+      "id": "ai-hiring",
+      "title": "Being Judged by AI",
+      "slug": "ai-hiring",
+      "parent": "ai-society",
+      "order": 51,
+      "card_order": "learning-path",
+      "blurb": "Algorithms now help decide who gets the job, the loan, the apartment — and your recourse.",
+      "related_topic_ids": [
+        "bias-fairness",
+        "ai-regulation"
+      ]
+    },
+    {
+      "id": "ai-takeover",
+      "title": "Will AI Take Over?",
+      "slug": "ai-takeover",
+      "parent": "big-questions",
+      "order": 51,
+      "card_order": "learning-path",
+      "blurb": "Separating the real expert worries from the Hollywood version.",
+      "related_topic_ids": [
+        "agi",
+        "ai-regulation"
+      ]
+    },
+    {
+      "id": "ai-creativity",
+      "title": "Can AI Be Creative?",
+      "slug": "ai-creativity",
+      "parent": "big-questions",
+      "order": 52,
+      "card_order": "learning-path",
+      "blurb": "Is remixing everything it's seen the same as making something new?",
+      "related_topic_ids": [
+        "generative-ai",
+        "ai-ownership"
+      ]
+    },
+    {
+      "id": "robots",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "slug": "robots",
+      "parent": "ai-society",
+      "order": 52,
+      "card_order": "learning-path",
+      "blurb": "When AI leaves the screen and moves through the physical world.",
+      "related_topic_ids": [
+        "ai-and-jobs",
+        "ai-agents"
+      ]
+    },
+    {
+      "id": "ai-consciousness",
+      "title": "Is AI Conscious?",
+      "slug": "ai-consciousness",
+      "parent": "big-questions",
+      "order": 53,
+      "card_order": "learning-path",
+      "blurb": "Why a chatbot that says 'I feel' almost certainly doesn't — and how we'd even tell.",
+      "related_topic_ids": [
+        "what-is-ai",
+        "agi"
+      ]
+    },
+    {
+      "id": "who-controls-ai",
+      "title": "Who Controls AI?",
+      "slug": "who-controls-ai",
+      "parent": "ai-society",
+      "order": 53,
+      "card_order": "learning-path",
+      "blurb": "A handful of companies build the most powerful models — why that concentration matters.",
+      "related_topic_ids": [
+        "ai-regulation",
+        "ai-energy"
+      ]
+    },
+    {
+      "id": "ai-and-truth",
+      "title": "What Happens to Truth?",
+      "slug": "ai-and-truth",
+      "parent": "big-questions",
+      "order": 54,
+      "card_order": "learning-path",
+      "blurb": "When anything can be faked and anyone can flood the zone, how do we know what's real?",
+      "related_topic_ids": [
+        "deepfakes",
+        "spotting-ai",
+        "ai-and-news"
+      ]
+    },
+    {
+      "id": "ai-hype",
+      "title": "Hype or Real?",
+      "slug": "ai-hype",
+      "parent": "big-questions",
+      "order": 55,
+      "card_order": "learning-path",
+      "blurb": "Cutting through the breathless marketing and the doom — how to judge AI claims for yourself.",
+      "related_topic_ids": [
+        "what-ai-cant-do",
+        "agi",
+        "who-controls-ai"
+      ]
+    },
+    {
+      "id": "ai-news",
+      "title": "AI in the News",
+      "slug": "ai-news",
+      "parent": "ai-now",
+      "order": 200,
+      "card_order": "recency",
+      "blurb": "Notable AI stories as they break, explained for everyone.",
+      "related_topic_ids": [
+        "what-is-ai",
+        "ai-everyday"
+      ]
+    },
+    {
+      "id": "ai-now",
+      "title": "AI in the News",
+      "slug": "ai-now",
+      "order": 200,
+      "blurb": "What's happening in AI right now, in plain language — newest first."
+    }
+  ]
+}

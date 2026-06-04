@@ -1,0 +1,119 @@
+{
+  "id": "card_1dd856",
+  "slug": "sf-nudify-apps-app-stores",
+  "type": "news",
+  "title": "San Francisco Tells Apple and Google: Stop Selling 'Nudify' Apps",
+  "hook": "Apps that use AI to digitally strip clothes from a photo have been sitting in the App Store and Google Play, taking a cut of the profits. San Francisco just gave both companies 28 days to pull them.",
+  "key_points": [
+    "San Francisco's city attorney ordered Apple and Google to remove 'nudify' apps or face civil penalties within 28 days.",
+    "Nudify apps use AI to generate fake nonconsensual nude images from an ordinary photo.",
+    "The city attorney said the companies are 'profiting off apps that exploit women and girls.'",
+    "California law lets victims sue third parties who 'knowingly facilitate' nonconsensual deepfake porn.",
+    "Apple says it already removed 3 flagged apps; Google says it suspended all 5 apps named in the order."
+  ],
+  "content_html": "\u003cp\u003eDozens of \u0026quot;nudify\u0026quot; apps — software that uses AI to generate a fake nude image from an ordinary photo, without the subject's consent — have been quietly available in the App Store and Google Play, with both companies taking a cut of every purchase. San Francisco's city attorney has now ordered Apple and Google to pull them, giving both companies 28 days to comply or face civil penalties, Ars Technica reports.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe city attorney put it bluntly: Apple and Google are \u0026quot;profiting off apps that exploit women and girls by generating nonconsensual intimate deepfakes.\u0026quot; The order follows two reports from the Tech Transparency Project that identified dozens of these apps selling nonconsensual image generation for a fee, processed through Apple's and Google's own payment systems. It leans on a California law that lets victims sue any third party that \u0026quot;knowingly facilitates\u0026quot; nonconsensual deepfake pornography — a legal theory that reaches past the app developer to the store that distributes and profits from it. Both companies say they're responding: Apple says it has already removed three of the flagged apps and is closing the related developer accounts, while Google says it suspended all five apps named in the order. It's a preview of where deepfake accountability is headed — not just chasing individual bad actors, but the platforms that give their products a storefront.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says",
+    "published_at": "2026-07-17",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "deepfakes",
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_ea06ac",
+      "slug": "xai-sues-grok-csam-user",
+      "type": "news",
+      "title": "xAI Sues Its Own User Over Grok-Made Child Abuse Images",
+      "hook": "Elon Musk's xAI usually gets sued over Grok's failures. This time it's the plaintiff — suing a man it says jailbroke Grok's safeguards to generate child sexual abuse material.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1dd856#0",
+      "format": "quiz",
+      "prompt": "What is a 'nudify' app?",
+      "choices": [
+        {
+          "text": "An app that uses AI to generate a fake nude image from an ordinary photo, without consent",
+          "correct": true
+        },
+        {
+          "text": "A photo-editing app that only removes red-eye",
+          "correct": false
+        },
+        {
+          "text": "An app that verifies a user's real age",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNudify apps feed a normal photo through an AI model that generates a\nfabricated nude version — a form of nonconsensual intimate deepfake.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1dd856#1",
+      "format": "flip",
+      "prompt": "Why did San Francisco target Apple and Google specifically, not just the app makers?",
+      "back_html": "\u003cp\u003eBoth companies host these apps in their stores and take a cut of the\nrevenue — the city attorney argued that makes them profiting facilitators.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1dd856#2",
+      "format": "quiz",
+      "prompt": "What legal tool does California give victims of nonconsensual deepfake images?",
+      "choices": [
+        {
+          "text": "The right to sue third parties who 'knowingly facilitate' making such images",
+          "correct": true
+        },
+        {
+          "text": "A tax credit for reporting the app",
+          "correct": false
+        },
+        {
+          "text": "None — it's not covered by any state law",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA California law lets victims pursue civil claims against companies that\nknowingly facilitate or profit from nonconsensual deepfake pornography.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "card_d3bea2",
+  "slug": "higgsino-excluded-by-solar-capture",
+  "type": "paper",
+  "title": "The Sun Says No to the Higgsino Explanation",
+  "hook": "If a Higgsino caused LZ's odd recoil, the Sun would have been quietly hoovering up dark matter for billions of years — and IceCube would see the neutrinos. It doesn't.",
+  "key_points": [
+    "A Higgsino is 'quasi-Dirac' when its two Majorana components are split by only a few MeV or less.",
+    "The Sun's gravity accelerates dark matter to about 1400 km/s in its core — fast enough to scatter inelastically off heavy nuclei.",
+    "Inelastic scattering makes the Sun an efficient trap: particles lose energy and fall onto solar-bound orbits.",
+    "Trapped Higgsinos annihilate to W and Z boson pairs, producing high-energy neutrinos that escape the Sun.",
+    "IceCube sees no such neutrino excess, which for the cosmologically preferred 1.08 TeV mass forces the splitting above 566 keV.",
+    "That excludes reading LZ's 248 keV event as endothermic inelastic Higgsino scattering on xenon."
+  ],
+  "content_html": "\u003cp\u003eA neat feature of dark matter models is that they usually predict more than one thing. The proposal that LZ's unexplained 248 keV recoil came from an inelastic Higgsino has a second, unavoidable consequence: the same interaction would let the Sun capture dark matter very efficiently. A new analysis follows that thread and finds it does not survive.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eInelastic scattering costs energy — the incoming particle has to convert into a slightly heavier partner state — so it only happens above a speed threshold set by the mass splitting. Dark matter falling into the Sun is accelerated to roughly 1400 km/s in the core, far faster than typical galactic speeds, which switches the reaction on and lets the Sun trap particles onto bound orbits. Those trapped Higgsinos then annihilate into W and Z boson pairs, and the resulting high-energy neutrinos stream out unimpeded. The authors compute the expected flux for the cosmologically preferred mass of 1.08 TeV, leaving the mass splitting free, and confront it with IceCube's non-observation of high-energy neutrinos from the Sun. The result is a robust bound of more than 566 keV on the splitting — comfortably above the roughly 350 keV that the LZ interpretation needed. It's a good example of how a signal-shaped hypothesis gets tested somewhere the original experiment never looked.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Maxim Pospelov",
+      "Harikrishnan Ramani"
+    ],
+    "url": "https://arxiv.org/abs/2609.02775",
+    "published_at": "2026-09-02",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_449869",
+      "slug": "higgsino-dark-matter-lz-event",
+      "type": "paper",
+      "title": "Could One Odd Recoil Be a Higgsino?",
+      "hook": "LUX-ZEPLIN saw a single 248 keV nuclear recoil it couldn't explain away. Two theorists point out that a TeV-mass Higgsino would produce exactly that kind of event — with no free parameters to tune.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-09-01"
+    },
+    {
+      "id": "card_6f5fce",
+      "slug": "lz-high-energy-recoil-event",
+      "type": "paper",
+      "title": "LZ's One Unexplained Recoil",
+      "hook": "The world's most sensitive dark matter detector widened its search window and found exactly one hard nuclear recoil where almost no background should be. Not a discovery — but not nothing either.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-09-02"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d3bea2#0",
+      "format": "flip",
+      "prompt": "Why is the Sun a good dark matter detector even though we can't look inside it?",
+      "back_html": "\u003cp\u003eIts gravity speeds dark matter up and its mass captures it. Trapped particles annihilate,\nand the resulting high-energy neutrinos pass straight out for detectors like IceCube to see.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d3bea2#1",
+      "format": "quiz",
+      "prompt": "What does the Sun's gravity do that makes inelastic scattering possible in its core?",
+      "choices": [
+        {
+          "text": "Accelerates dark matter to about 1400 km/s, enough to pay the energy cost of the heavier state",
+          "correct": true
+        },
+        {
+          "text": "Heats the dark matter until it decays",
+          "correct": false
+        },
+        {
+          "text": "Compresses xenon nuclei so they scatter more strongly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInelastic scattering has an energy threshold set by the mass splitting. Solar infall boosts\ndark matter to roughly 1400 km/s, well above the local galactic speeds, so the reaction opens up.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d3bea2#2",
+      "format": "flip",
+      "prompt": "What limit does the IceCube non-observation place on the Higgsino mass splitting?",
+      "back_html": "\u003cp\u003eGreater than 566 keV, for the cosmologically preferred mass of about 1.08 TeV — too large for\nthe LZ event's inelastic interpretation to work.\u003c/p\u003e"
+    }
+  ]
+}

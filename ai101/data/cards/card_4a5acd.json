@@ -1,0 +1,115 @@
+{
+  "id": "card_4a5acd",
+  "slug": "google-negative-cash-flow",
+  "type": "news",
+  "title": "Google Just Burned More Cash Than It Took In",
+  "hook": "Alphabet posted its first-ever negative cash flow quarter, and the reason is AI spending. When one of the most profitable companies on earth goes cash-negative, the bill is real.",
+  "key_points": [
+    "Google reported its first negative cash flow quarter ever, per Ars Technica.",
+    "Revenue is still large — the cause is AI spending, not a collapse in the business.",
+    "Negative cash flow means more money went out the door than came in that quarter.",
+    "The spending is mostly build-out: chips, data centers, and the power to run them.",
+    "Rivals are spending at a similar scale, so this isn't a Google-specific problem.",
+    "The open question is how long investors fund a build-out before demanding returns."
+  ],
+  "content_html": "\u003cp\u003eAlphabet, Google's parent, is one of the most reliably profitable companies in history. Ars Technica reports it just posted its first negative cash flow quarter ever — meaning more money went out than came in — and the cause is the sheer scale of its AI spending.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt's worth being precise about what this is and isn't. It isn't a sign the business is failing: Google continues to report big quarterly revenue. It's a sign of how enormous the AI build-out has become. The money is going into physical things — specialized chips, new data centers, and the electricity to run them — and those bills arrive now, while the revenue AI is supposed to produce arrives later, if the bet works.\u003c/p\u003e\n\u003cp\u003eGoogle isn't alone here; its main rivals are spending at a comparable scale, which is why this reads as an industry story rather than a Google story. For a general reader, the useful takeaway is a sense of proportion. The chatbot that answers in two seconds sits on top of one of the largest capital-spending sprees in corporate history. That's the strongest argument that the technology is being taken seriously — and the reason the eventual question, \u0026quot;did this ever pay for itself?\u0026quot;, is going to be asked loudly.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ryan Whitwam"
+    ],
+    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending",
+    "published_at": "2026-07-23",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-hype",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_9868db",
+      "slug": "openai-losing-billions",
+      "type": "news",
+      "title": "The Leading AI Company Is Losing Billions a Year",
+      "hook": "Leaked, audited financials reportedly show OpenAI bleeding billions of dollars a year. Its revenue is growing fast — but the cost of building AI is growing faster.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f2da86",
+      "slug": "google-electricity-use-2025",
+      "type": "news",
+      "title": "Google's AI Buildout Drove a 37% Jump in Electricity Use",
+      "hook": "Google's own numbers show its electricity use jumped 37% in 2025, driven largely by the data centers behind its AI push — a concrete figure in the debate over AI's energy footprint.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4a5acd#0",
+      "format": "flip",
+      "prompt": "What does it mean that Google had a 'negative cash flow quarter'?",
+      "back_html": "\u003cp\u003eMore money left the company than came in during those three months. Revenue was\nstill big — the AI build-out simply cost more than the cash it generated.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4a5acd#1",
+      "format": "quiz",
+      "prompt": "What drove Google's first-ever negative cash flow quarter?",
+      "choices": [
+        {
+          "text": "Massive spending on AI infrastructure",
+          "correct": true
+        },
+        {
+          "text": "A sudden collapse in advertising revenue",
+          "correct": false
+        },
+        {
+          "text": "Paying a record fine to regulators",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eArs Technica attributes it to skyrocketing AI spending. Google kept reporting big\nquarterly revenue — the outflow was the build-out, not a business collapse.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4a5acd#2",
+      "format": "flip",
+      "prompt": "Why is a company's AI spending worth paying attention to as an ordinary user?",
+      "back_html": "\u003cp\u003eIt's the clearest signal of how expensive AI really is to run. That cost eventually\nsurfaces as prices, ads, or discontinued free tiers.\u003c/p\u003e"
+    }
+  ]
+}

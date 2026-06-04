@@ -1,0 +1,104 @@
+{
+  "id": "card_39c2b3",
+  "slug": "cosmic-birefringence-hint",
+  "type": "paper",
+  "title": "Is Something Rotating the Universe's Oldest Light?",
+  "hook": "Combining two CMB telescopes gives a 4.8σ hint that light from the Big Bang has had its polarisation twisted on the way here — which the standard model of cosmology forbids.",
+  "key_points": [
+    "If dark matter or dark energy is an ultra-light pseudoscalar field coupled to electromagnetism, it would slowly rotate the polarisation plane of light crossing the universe.",
+    "That parity-violating rotation is called cosmic birefringence, and ΛCDM predicts exactly zero of it.",
+    "Planck and ACT each independently hinted at a non-zero angle; this work analyses their polarised maps jointly using cross-spectra between the two telescopes.",
+    "Taking the instruments' calibration priors at face value gives a rotation angle of 0.277° ± 0.057° — 4.8σ from zero.",
+    "A robustness test that suppresses Galactic dust contamination still excludes zero at 3.5σ.",
+    "The author cautions that unresolved instrumental systematics must be understood before drawing cosmological conclusions."
+  ],
+  "content_html": "\u003cp\u003eStandard cosmology says the polarisation of the cosmic microwave background should arrive at our telescopes pointing the way it left, 13.8 billion years ago. A joint analysis of the Planck and ACT satellites' polarised maps finds it may have been rotated by about a quarter of a degree — a small number with large implications.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe motivation is a specific guess about the dark sector: that dark matter or dark energy is an ultra-light pseudoscalar field, coupled to electromagnetism through what's called a Chern-Simons term. Such a field would act on light like a slow, universe-wide optical rotator, twisting the polarisation plane of anything crossing it. The effect violates parity and is absent from ΛCDM, so measuring it is a clean test. Planck's fourth data release and ACT's sixth each hinted at a non-zero angle on their own. Johannes Eskilt combines them, exploiting the cross-power spectra between the two independent instruments, and reports β = 0.277° ± 0.057°, which is 4.8σ from zero if the telescopes' stated calibration priors hold. That \u0026quot;if\u0026quot; carries the weight. Eskilt's own robustness check, designed to blunt contamination from polarised Galactic dust, drops the significance to 3.5σ — and he notes that recovering exactly zero would now require both the dust modelling \u003cem\u003eand\u003c/em\u003e the instrumental priors to be wrong simultaneously. He nonetheless stops short of a claim: as with most 4-5σ hints in cosmology, the next word belongs to systematics.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Johannes R. Eskilt"
+    ],
+    "url": "https://arxiv.org/abs/2608.06480",
+    "published_at": "2026-08-06",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology",
+    "light-optics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-10",
+  "date": "2026-08-06",
+  "related": [
+    {
+      "id": "card_461ffa",
+      "slug": "cosmic-microwave-background",
+      "type": "concept",
+      "title": "The Cosmic Microwave Background",
+      "hook": "The oldest light we can see is a faint glow filling all of space — released when the infant universe first cooled enough to become transparent, about 380,000 years after the Big Bang.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0aa867",
+      "slug": "cmb-physics-decade-review",
+      "type": "paper",
+      "title": "Update on the Physics of the Cosmic Microwave Background (2015-2025)",
+      "hook": "Cosmology's most important fossil record just got its decade-in-review: a comprehensive update on everything the cosmic microwave background has taught us since 2015.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_39c2b3#0",
+      "format": "flip",
+      "prompt": "What is cosmic birefringence?",
+      "back_html": "\u003cp\u003eA slow rotation of the \u003cstrong\u003epolarisation plane\u003c/strong\u003e of light travelling across the\nuniverse — a parity-violating effect that standard ΛCDM cosmology predicts to be\nexactly zero.\u003c/p\u003e"
+    },
+    {
+      "id": "card_39c2b3#1",
+      "format": "quiz",
+      "prompt": "What would a confirmed non-zero birefringence angle imply?",
+      "choices": [
+        {
+          "text": "Dark matter or dark energy could be an ultra-light pseudoscalar field coupled to electromagnetism",
+          "correct": true
+        },
+        {
+          "text": "The cosmic microwave background is not really from the early universe",
+          "correct": false
+        },
+        {
+          "text": "The universe's expansion is decelerating",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA pseudoscalar field coupling to light through a Chern-Simons term would rotate\nCMB polarisation as it crosses the cosmos — the signature this analysis is\nchasing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_39c2b3#2",
+      "format": "flip",
+      "prompt": "Why does the author hold back from claiming a discovery at 4.8σ?",
+      "back_html": "\u003cp\u003eThe result leans on the telescopes' reported instrumental calibration priors, and\nunresolved \u003cstrong\u003esystematics\u003c/strong\u003e plus Galactic dust modelling must be nailed down first.\nA dust-robust test still excludes zero, but only at 3.5σ.\u003c/p\u003e"
+    }
+  ]
+}

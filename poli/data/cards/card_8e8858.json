@@ -1,0 +1,129 @@
+{
+  "id": "card_8e8858",
+  "slug": "a-voting-rule-needs-a-system-behind-it",
+  "type": "news",
+  "title": "A Voting Rule Needs a System Behind It",
+  "hook": "Writing a new election rule is the easy part. Building the machinery that can execute it before the next election is where rules quietly turn into disenfranchisement.",
+  "key_points": [
+    "Election administration is logistics: a rule only works if some agency can actually carry it out, at scale, on the calendar the law sets.",
+    "A March 2026 executive order directed the U.S. Postal Service to write rules requiring states to supply lists of mail-eligible voters and to use those lists to decide which ballots get delivered.",
+    "Per ProPublica, senior USPS officials warned internally that the rules could delay or block ballots for large numbers of eligible voters.",
+    "A whistleblower called the build secretive, rushed, chaotic and fundamentally flawed: development started in mid-June against a September 1 deadline, where comparable tracking systems typically take at least nine months.",
+    "Design choices compound the risk — the whistleblower said a single barcode failing to scan could cause an entire bulk batch of ballots to be rejected.",
+    "The general lesson: capacity, testing time, and failure modes are part of an election rule, not an afterthought to it."
+  ],
+  "content_html": "\u003cp\u003eChanging an election rule is a legal act; making it work is an engineering and logistics act. The gap between the two is where well-formed rules can quietly cost eligible people their votes.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Jen Fifield reports that a March 2026 executive order directed the U.S. Postal Service to write regulations requiring states to hand over lists of mail-eligible voters, and requiring USPS to use those lists in deciding which ballots get sent. According to sources familiar with internal meetings, senior postal officials worried the rules \u0026quot;could delay or block ballots from reaching large swaths of eligible voters.\u0026quot; An anonymous whistleblower, whose account NPR also reported through \u003ca href=\"https://npr.org/2026/09/02/nx-s1-5952211/usps-whistleblower-lawyer-reaction-mail-ballots\"\u003ean interview with their lawyer\u003c/a\u003e and \u003ca href=\"https://npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps\"\u003ein Hansi Lo Wang's reporting\u003c/a\u003e, described the effort as \u0026quot;secretive, rushed, chaotic, and fundamentally flawed\u0026quot;: work began in mid-June against a September 1 deadline, while industry experts told ProPublica that comparable tracking systems normally take at least nine months to build. The failure modes matter as much as the schedule — the whistleblower said that if one barcode in a bulk mailing fails to scan, the whole batch is rejected, a concern election officials raised for jurisdictions that mail ballots by the million. The transferable point is not about any one order: whenever a rule changes how ballots move, the questions to ask are who executes it, on what timeline, and what happens when a step fails. (This card describes U.S. election administration specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Jen Fifield"
+    ],
+    "url": "https://propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
+    "published_at": "2026-09-02",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "technology-and-politics"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_70ee29",
+      "slug": "who-sets-federal-election-rules",
+      "type": "news",
+      "title": "Who Actually Sets the Rules for a Federal Election",
+      "hook": "The Constitution hands the times, places and manner of congressional elections to state legislatures, with Congress able to override. The president is not on that list.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-08-25"
+    },
+    {
+      "id": "card_605440",
+      "slug": "purcell-principle-and-timing",
+      "type": "news",
+      "title": "The Calendar as a Legal Strategy",
+      "hook": "Courts avoid changing election rules close to voting day. That gives a litigant a strange incentive: argue the other side sued too early, and the clock does the rest.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-04"
+    },
+    {
+      "id": "card_4baecf",
+      "slug": "mail-ballot-grace-periods",
+      "type": "news",
+      "title": "Mail Ballot Grace Periods",
+      "hook": "A ballot mailed on Election Day can still arrive days later. Should it count? States disagree — and in 2026 the Supreme Court sided with the states that say yes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_872551",
+      "slug": "why-vote-counts-shift",
+      "type": "blog",
+      "title": "Why Vote Counts Shift After Election Night",
+      "hook": "Watch a close race and the leader can flip in the days after polls close. The usual cause is boring — who votes by mail, and when those ballots get counted — not fraud.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8e8858#0",
+      "format": "flip",
+      "prompt": "Why can a new election rule cause disenfranchisement even if nobody intends it to?",
+      "back_html": "\u003cp\u003eBecause the rule still has to be executed by real machinery. If the\nsystem behind it is built in a hurry and fails, eligible voters lose\nballots regardless of the rule's stated purpose.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8e8858#1",
+      "format": "quiz",
+      "prompt": "What did the whistleblower say about how a barcode failure would affect a bulk mailing of ballots?",
+      "choices": [
+        {
+          "text": "One barcode failing to scan could cause the entire batch to be rejected",
+          "correct": true
+        },
+        {
+          "text": "Only the single ballot with the bad barcode would be rejected",
+          "correct": false
+        },
+        {
+          "text": "Barcodes are checked after delivery, so nothing would be rejected",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA batch-level failure mode turns one small defect into thousands of\nundelivered ballots — the kind of design detail that decides whether\na rule is administrable.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8e8858#2",
+      "format": "quiz",
+      "prompt": "What timing problem did the whistleblower describe with the USPS verification system?",
+      "choices": [
+        {
+          "text": "Development began in mid-June against a September 1 deadline, where similar systems usually take at least nine months",
+          "correct": true
+        },
+        {
+          "text": "The system was finished years early and then left unused",
+          "correct": false
+        },
+        {
+          "text": "Congress required the system to launch only after the midterms",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRoughly ten weeks for something comparable builds normally taking nine\nmonths is the core capacity complaint in ProPublica's reporting.\u003c/p\u003e"
+    }
+  ]
+}

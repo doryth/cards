@@ -1,0 +1,122 @@
+{
+  "id": "card_02ca0c",
+  "slug": "absolute-zero",
+  "type": "concept",
+  "title": "Absolute Zero: The Coldest Possible Temperature",
+  "hook": "There's no limit to how hot things can get, but cold has a floor. At absolute zero, −273°C, particle motion bottoms out — and you can get achingly close but never quite reach it.",
+  "key_points": [
+    "Temperature tracks particle motion; absolute zero is where that motion is minimal.",
+    "It sits at 0 kelvin, about −273.15°C — the bottom of the temperature scale.",
+    "You can approach it ever more closely but never fully reach it (third law of thermodynamics).",
+    "Near absolute zero, matter does strange things like superconducting and forming new states."
+  ],
+  "content_html": "\u003cp\u003eTemperature is really a measure of how much the particles in a substance are jiggling — the faster they move, the hotter it is. That immediately suggests a floor: there must be a point where that motion is as low as it can go. That point is absolute zero, which sits at 0 on the kelvin scale, about −273.15°C. It's why scientists prefer kelvin: it starts at the true bottom, so a temperature in kelvin is directly proportional to particle energy.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eCuriously, while there's no upper limit on temperature — you can always pump in more energy — absolute zero can never actually be reached. The third law of thermodynamics says you can only approach it in ever-smaller steps, never arriving; the closest labs have come is within a few billionths of a degree. (Even there, quantum physics insists particles keep a tiny irreducible jitter.) The deep cold is worth chasing because matter turns strange near it: some metals lose all electrical resistance and become superconductors, helium flows without friction as a superfluid, and atoms can merge into a single quantum blob called a Bose–Einstein condensate. Wikipedia covers the scale, the third law, and these exotic states.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Absolute_zero",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "heat-thermo"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_eff6e4",
+      "slug": "heat-vs-temperature",
+      "type": "concept",
+      "title": "Heat vs. Temperature",
+      "hook": "A sparkler can hit thousands of degrees yet barely burn you — because temperature and heat are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3ad16a",
+      "slug": "states-of-matter",
+      "type": "concept",
+      "title": "States of Matter",
+      "hook": "Solid, liquid, gas, plasma — the difference is how tightly particles are bound. Add heat and matter changes state, but during the change the temperature holds still.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_eff6e4",
+      "slug": "heat-vs-temperature",
+      "type": "concept",
+      "title": "Heat vs. Temperature",
+      "hook": "A sparkler can hit thousands of degrees yet barely burn you — because temperature and heat are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_02ca0c#0",
+      "format": "flip",
+      "prompt": "What does absolute zero represent?",
+      "back_html": "\u003cp\u003eThe lowest possible temperature — \u003cstrong\u003e0 kelvin (about −273°C)\u003c/strong\u003e — where the\nmotion of particles drops to its absolute minimum.\u003c/p\u003e"
+    },
+    {
+      "id": "card_02ca0c#1",
+      "format": "quiz",
+      "prompt": "Why is there a coldest possible temperature but no hottest?",
+      "choices": [
+        {
+          "text": "Temperature reflects particle motion, which can't go below a minimum but can always increase",
+          "correct": true
+        },
+        {
+          "text": "Thermometers simply can't read below −273°C",
+          "correct": false
+        },
+        {
+          "text": "Cold is a substance that eventually runs out",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYou can always add more energy and motion, but you can't remove more than all\nof it. Absolute zero is where motion bottoms out.\u003c/p\u003e"
+    },
+    {
+      "id": "card_02ca0c#2",
+      "format": "quiz",
+      "prompt": "Can scientists actually cool something all the way to absolute zero?",
+      "choices": [
+        {
+          "text": "No — they can get extraordinarily close but never quite reach it",
+          "correct": true
+        },
+        {
+          "text": "Yes, it's done routinely in freezers",
+          "correct": false
+        },
+        {
+          "text": "Yes, but only in outer space",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe third law of thermodynamics implies absolute zero is unreachable in a\nfinite number of steps; labs have come to within billionths of a degree.\u003c/p\u003e"
+    }
+  ]
+}

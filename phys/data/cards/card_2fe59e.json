@@ -1,0 +1,109 @@
+{
+  "id": "card_2fe59e",
+  "slug": "quantum-gravity-signals-may-be-illusion",
+  "type": "news",
+  "title": "Some Signs of Quantum Gravity May Be an Illusion",
+  "hook": "Tabletop experiments promise to catch gravity acting quantum. A new framework warns that some of those signatures have a perfectly ordinary explanation.",
+  "key_points": [
+    "Quantum mechanics and general relativity both work superbly, but nobody knows how to combine them.",
+    "One proposed test: put a mass in superposition and look for gravitational effects that only a quantum gravitational field could produce.",
+    "A new theoretical framework shows some of those scenarios can be described equally well by quantum particles moving through ordinary classical spacetime.",
+    "If a classical-gravity model reproduces the same signal, the experiment does not prove gravity is quantum.",
+    "The work sharpens what a genuine test of quantum gravity would have to demonstrate."
+  ],
+  "content_html": "\u003cp\u003eQuantum mechanics governs the very small; general relativity governs gravity and the very large. Both are spectacularly well tested, and they are mathematically incompatible. Finding evidence that gravity itself behaves quantum mechanically would be the single most useful clue toward reconciling them — which is why a wave of proposals aims to catch it in a tabletop experiment, typically by placing a mass in superposition and hunting for gravitational effects no classical field should produce.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA new theoretical framework, reported in August 2026, complicates that program. Researchers show that some scenarios involving an apparent \u0026quot;superposition of gravity\u0026quot; admit a second, entirely mundane description: quantum particles moving through an ordinary classical spacetime. If both pictures predict the same measurement outcomes, then observing that outcome tells you nothing about whether gravity is quantized.\u003c/p\u003e\n\u003cp\u003eThis is not a claim that gravity is classical, and it does not close off the experimental route. What it does is raise the bar. A convincing tabletop demonstration will have to produce a signature that \u003cem\u003eno\u003c/em\u003e classical-spacetime model can mimic, and the framework gives theorists a way to check that condition before an experiment is built. Given how difficult and expensive these measurements are, knowing in advance which signatures are genuinely diagnostic is worth a great deal.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260828005226.htm",
+    "published_at": "2026-08-29",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-29",
+  "related": [
+    {
+      "id": "card_e8216a",
+      "slug": "detecting-quantum-gravitational-waves",
+      "type": "paper",
+      "title": "Could We Ever Tell a Gravitational Wave Is Quantum?",
+      "hook": "If gravity is quantum, gravitational waves should arrive in squeezed quantum states. This analysis finds nearly every route to observing that squeezing quietly destroys it.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-09"
+    },
+    {
+      "id": "card_aea720",
+      "slug": "graviton-decoherence-negligible",
+      "type": "paper",
+      "title": "Do Gravitons Ruin Quantum Interference? Not Even Close",
+      "hook": "If gravity is quantum, a molecule in two places at once should radiate gravitons and lose its interference. The calculated effect lands around one part in 10⁶¹.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2fe59e#0",
+      "format": "flip",
+      "prompt": "What is the basic idea behind a tabletop test of quantum gravity?",
+      "back_html": "\u003cp\u003ePut a mass into a quantum superposition of two locations and look for a gravitational\neffect — such as entanglement between two masses — that only a quantum gravitational\nfield should be able to produce.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2fe59e#1",
+      "format": "quiz",
+      "prompt": "Why does the new framework undercut some of these proposed tests?",
+      "choices": [
+        {
+          "text": "It shows the same observations can be reproduced by quantum particles moving through classical spacetime",
+          "correct": true
+        },
+        {
+          "text": "It shows the experiments are too small to generate any measurable gravity at all",
+          "correct": false
+        },
+        {
+          "text": "It proves general relativity is wrong at short distances",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIf a model with ordinary classical spacetime reproduces the signal, then seeing that\nsignal does not distinguish quantum gravity from classical gravity — the experiment loses\nits evidential force.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2fe59e#2",
+      "format": "flip",
+      "prompt": "Why do physicists want to unify quantum mechanics and gravity at all?",
+      "back_html": "\u003cp\u003eEach explains its own domain almost perfectly, but they use incompatible descriptions of\nreality. Situations where both matter at once — black hole interiors, the earliest\nuniverse — cannot be described without a theory that covers both.\u003c/p\u003e"
+    }
+  ]
+}

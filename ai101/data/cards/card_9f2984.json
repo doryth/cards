@@ -1,0 +1,94 @@
+{
+  "id": "card_9f2984",
+  "slug": "nvidia-data-center-cooling",
+  "type": "news",
+  "title": "Can AI Data Centers Cut Their Water Use?",
+  "hook": "Data centers are notorious water hogs. Nvidia says its newest design runs hotter on purpose — using liquid cooling to cut power and 'pretty much all' water use. A real fix, or a talking point?",
+  "key_points": [
+    "AI data centers have drawn criticism for huge water and electricity use; Nvidia is touting a design response.",
+    "Its 'Rubin'-generation reference design is fully liquid-cooled instead of evaporating water to shed heat.",
+    "Nvidia claims this 'eliminated massive amounts of power usage and pretty much all water usage.'",
+    "Running hotter with circulating liquid avoids the water that evaporative cooling burns through.",
+    "The Verge notes it still doesn't address all the concerns around AI data centers."
+  ],
+  "content_html": "\u003cp\u003eOne of the loudest complaints about the AI boom is physical: the data centers behind it can guzzle electricity and water. The Verge reports that Nvidia is pitching a partial answer with its \u0026quot;Rubin\u0026quot;-generation reference design — a blueprint for a fully liquid-cooled data center that, the company claims, \u0026quot;eliminated massive amounts of power usage and pretty much all water usage.\u0026quot;\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trick is in how heat gets carried away. Many data centers cool their equipment by evaporating water, which is part of why they can strain local supplies. A liquid-cooling design built to run hotter can move heat with circulating fluid instead, sidestepping much of that evaporation. If the claims hold up at scale, that's a meaningful dent in one of AI's most visible environmental costs. But it's worth keeping the source in mind — this is a vendor describing its own design — and, as The Verge notes, it doesn't address all the worries around AI data centers, from electricity demand to land use and grid strain. It's a useful reminder that the industry is now competing partly on how light its footprint looks, not just on how fast its chips run.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Stevie Bonifield"
+    ],
+    "url": "https://theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "published_at": "2026-06-22",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-energy",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-25",
+  "date": "2026-06-22",
+  "related": [
+    {
+      "id": "card_05fe6b",
+      "slug": "ai-water-use-reality",
+      "type": "news",
+      "title": "How Much Water Does AI Really Use?",
+      "hook": "Nationally, AI data centers are 'a drop in the bucket' of total water use. Locally, a single one can drain a town's supply. Both things are true — which is what makes the debate tricky.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "card_199fae",
+      "slug": "data-center-backlash",
+      "type": "news",
+      "title": "Communities Are Pushing Back on AI Data Centers",
+      "hook": "The warehouses that power AI need land, power, and water — and neighbors are starting to say no. New York just signed the nation's first statewide data center ban into law.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9f2984#0",
+      "format": "quiz",
+      "prompt": "How does Nvidia's Rubin design claim to cut water use?",
+      "choices": [
+        {
+          "text": "By running hotter with liquid cooling instead of evaporating water to shed heat",
+          "correct": true
+        },
+        {
+          "text": "By turning the data center off every night",
+          "correct": false
+        },
+        {
+          "text": "By using no electricity at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMany data centers cool equipment by evaporating water; a design built to run hotter\ncan move heat with circulating liquid instead, sidestepping much of that evaporation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9f2984#1",
+      "format": "flip",
+      "prompt": "Why do many data centers use so much water?",
+      "back_html": "\u003cp\u003eThey often cool equipment by evaporating water, which can strain local supplies —\nthe problem liquid cooling aims to reduce.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9f2984#2",
+      "format": "flip",
+      "prompt": "Why take a company's own environmental claims with caution?",
+      "back_html": "\u003cp\u003eHere the source is the vendor describing its own design, and The Verge notes it\ndoesn't address every concern — power demand, land, and grid strain still remain.\u003c/p\u003e"
+    }
+  ]
+}

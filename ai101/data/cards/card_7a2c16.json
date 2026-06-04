@@ -1,0 +1,123 @@
+{
+  "id": "card_7a2c16",
+  "slug": "what-is-a-chatbot",
+  "type": "concept",
+  "title": "Chatbots \u0026 Assistants",
+  "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+  "key_points": [
+    "A chatbot is a generative AI you steer with plain-language conversation.",
+    "Great for drafting, summarizing, explaining, brainstorming, and rewording.",
+    "Weak as a source of facts — it can sound certain while being wrong.",
+    "Treat it as a fast, tireless assistant whose work you still check."
+  ],
+  "content_html": "\u003cp\u003eChatGPT, Claude, and Gemini are the friendly face of generative AI: you type in plain English, and they reply in plain English. That conversational feel is genuinely new and genuinely useful — you can ask follow-up questions, request a different tone, or say \u0026quot;make it shorter\u0026quot; and it just works. Under the hood, though, it's the same next-word prediction as any generative model, dressed up as a chat. Knowing that tells you exactly where it shines and where it stumbles.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhere it shines: anything that's really a \u003cem\u003elanguage\u003c/em\u003e task. Drafting an awkward email, summarizing a long document, explaining a confusing topic three different ways, brainstorming names, turning bullet points into prose, or rewording something for a different audience. Where it stumbles: being a source of truth. Because it generates what sounds plausible, it can invent facts, citations, or quotes with total confidence. The healthiest habit is to treat a chatbot as a brilliant, tireless assistant who occasionally makes things up — lean on it for first drafts and thinking-out-loud, but verify any fact, number, or name before you rely on it.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Chatbot",
+    "url": "https://en.wikipedia.org/wiki/Chatbot",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "chatbots"
+  ],
+  "tags": [
+    "generative",
+    "agent"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a0b7eb",
+      "slug": "talking-to-ai",
+      "type": "concept",
+      "title": "Talking to AI",
+      "hook": "The difference between a useless answer and a great one is usually the question. Give the AI context, an example, and a clear job — and treat it as a conversation, not a vending machine.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_42f5a2",
+      "slug": "which-chatbot-to-use",
+      "type": "concept",
+      "title": "Which Chatbot Should I Use?",
+      "hook": "ChatGPT, Claude, Gemini, Copilot, Meta AI — they're more alike than different. The honest answer to 'which is best' is: the one you'll actually open, plus a second to cross-check.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dcc196",
+      "slug": "how-llms-work",
+      "type": "concept",
+      "title": "How a Language Model Works",
+      "hook": "A chatbot isn't reading and thinking — it's running the world's most sophisticated autocomplete, picking each next word from probabilities learned across billions of sentences.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_7a2c16#0",
+      "format": "quiz",
+      "prompt": "What is a chatbot best suited for?",
+      "choices": [
+        {
+          "text": "Drafting, summarizing, explaining, and rewording text",
+          "correct": true
+        },
+        {
+          "text": "Being a fully reliable source of facts",
+          "correct": false
+        },
+        {
+          "text": "Replacing your own judgment entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eChatbots shine at language tasks — drafting and explaining — but can state\nwrong facts confidently, so verify anything that matters.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7a2c16#1",
+      "format": "flip",
+      "prompt": "What's a good mental model for using a chatbot?",
+      "back_html": "\u003cp\u003eA fast, tireless assistant whose work you still review — not an oracle and\nnot a search engine.\u003c/p\u003e"
+    }
+  ]
+}

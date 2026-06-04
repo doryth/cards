@@ -1,0 +1,109 @@
+{
+  "id": "card_643f82",
+  "slug": "eu-forces-google-open-android-ai",
+  "type": "news",
+  "title": "EU Orders Google to Let Rival AI Assistants Onto Android",
+  "hook": "Want to say 'hey Siri' or 'hey Alexa' on an Android phone the way you say 'hey Google'? The EU just ordered Google to make that possible — and to share search data with rivals too.",
+  "key_points": [
+    "The EU ordered Google to open 11 Android features to rival AI assistants under the Digital Markets Act.",
+    "Rival assistants get a voice-activation trigger similar to 'hey Google,' e.g. to book a taxi or search.",
+    "Google must also share anonymized search query, click, and ranking data with rival search engines.",
+    "Android changes land in the OS's next iteration from July 2027; search-data sharing starts January 2027.",
+    "Privacy safeguards were built with the EU's data-protection guidelines; Google warns of security risks."
+  ],
+  "content_html": "\u003cp\u003eIf you've ever wished you could say \u0026quot;hey Siri\u0026quot; or \u0026quot;hey Alexa\u0026quot; on an Android phone as naturally as \u0026quot;hey Google,\u0026quot; the EU just ordered that to become possible. Ars Technica reports the European Commission handed down two decisions requiring Google to open up Android and Search under the bloc's Digital Markets Act — rules aimed at reining in how dominant tech platforms treat their rivals.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eOn the Android side, Google must open 11 features to rival AI assistants, giving them the kind of system-level access — like a dedicated voice trigger — that Google has reserved for its own Gemini assistant. Picture asking a competing assistant to book a taxi or look something up, the same way you'd ask Google Assistant today; those changes are set to land in Android's next major iteration from July 2027. On the Search side, Google has to share anonymized query, click, and ranking data with rival search engines on fair, non-discriminatory terms, starting January 2027 — with a multi-layered anonymization process the Commission says it built alongside internal and external privacy experts. Google has pushed back, arguing the changes could put user privacy and security at risk. Whichever side you find more convincing, the bigger picture is clear: regulators are treating \u0026quot;who gets to compete for your AI assistant\u0026quot; as a platform-power question, not just a product one — and Android, with billions of phones, is one of the biggest levers there is.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ryan Whitwam"
+    ],
+    "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android",
+    "published_at": "2026-07-16",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-regulation",
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_643f82#0",
+      "format": "quiz",
+      "prompt": "What is the EU forcing Google to open up on Android?",
+      "choices": [
+        {
+          "text": "System-level access so rival AI assistants can be triggered like Google's own assistant",
+          "correct": true
+        },
+        {
+          "text": "The source code of the Android operating system",
+          "correct": false
+        },
+        {
+          "text": "Full access to every user's photos",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGoogle must let rival AI assistants use 11 Android features, including a\nvoice trigger similar to 'hey Google,' to compete for the same tasks.\u003c/p\u003e"
+    },
+    {
+      "id": "card_643f82#1",
+      "format": "flip",
+      "prompt": "What does Google have to share with rival search engines, and how is it protected?",
+      "back_html": "\u003cp\u003eAnonymized search query, click, and ranking data, shared on fair terms —\nwith a multi-layer anonymization process built with EU privacy guidelines.\u003c/p\u003e"
+    },
+    {
+      "id": "card_643f82#2",
+      "format": "quiz",
+      "prompt": "What law is behind this order to Google?",
+      "choices": [
+        {
+          "text": "The EU's Digital Markets Act, aimed at curbing Big Tech's platform power",
+          "correct": true
+        },
+        {
+          "text": "A new EU AI safety law banning chatbots",
+          "correct": false
+        },
+        {
+          "text": "A copyright law about AI training data",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Digital Markets Act targets how dominant \u0026quot;gatekeeper\u0026quot; platforms treat\nrivals — here, applied to Android and Google Search.\u003c/p\u003e"
+    }
+  ]
+}

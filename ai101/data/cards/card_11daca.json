@@ -1,0 +1,99 @@
+{
+  "id": "card_11daca",
+  "slug": "spotify-ai-persona-labels",
+  "type": "news",
+  "title": "Spotify Will Badge AI Artists — and Stop Recommending Them",
+  "hook": "From mid-September, artists that 'do not represent a real person' get an AI Persona badge, and Spotify keeps them out of your recommendations. Labeling plus demotion, not a ban.",
+  "key_points": [
+    "Spotify will show an 'AI Persona' badge on profiles of artists that aren't real people.",
+    "Music from those profiles will be removed from your recommendations.",
+    "Artists can disclose AI-persona status themselves; rollout starts mid-September.",
+    "The music stays on the platform — this is demotion, not removal.",
+    "Recommendation systems are where labeling actually bites, since that's what most listening follows."
+  ],
+  "content_html": "\u003cp\u003eSpotify says it will start labeling AI artists and keeping their music out of listeners' recommendations. Per The Verge, profiles that \u0026quot;do not represent a real person\u0026quot; will carry an \u0026quot;AI Persona\u0026quot; badge across the app, artists can disclose that status themselves, and the change begins rolling out in mid-September.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNote what this is and isn't. The music isn't banned — you can still search for it and play it. What changes is discovery. On a streaming service, algorithmic playlists and radio drive an enormous share of listening, so removal from recommendations is the part with teeth; the badge mostly serves people who click through to a profile.\u003c/p\u003e\n\u003cp\u003eThe open question is enforcement. The policy leans on artists disclosing, which works for acts that are openly AI projects and does much less about someone quietly passing generated tracks off as their own band. That's the same gap watermarking and provenance efforts are trying to close from the other end — labels help most when the labeling doesn't depend on the honesty of whoever benefits from staying unlabeled.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+    "published_at": "2026-08-11",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_990b33",
+      "slug": "suno-watermark-ai-music",
+      "type": "news",
+      "title": "The Biggest AI Music Maker Wants to Label Its Own Songs",
+      "hook": "Suno is adding watermarking and download rules to stem the flood of AI tracks clogging streaming services — a rare case of a generator volunteering to mark its output.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-06"
+    },
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_87ffda",
+      "slug": "google-ai-ad-labels",
+      "type": "news",
+      "title": "Google Will Now Tell You If an Ad Was Made With AI",
+      "hook": "Wondering whether that Google or YouTube ad is AI-generated? There's now a real answer, sitting in a settings menu most people have never opened.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_11daca#0",
+      "format": "quiz",
+      "prompt": "What two things does Spotify's AI Persona policy do?",
+      "choices": [
+        {
+          "text": "Badges profiles that don't represent a real person, and drops their music from recommendations",
+          "correct": true
+        },
+        {
+          "text": "Deletes all AI-generated music from the service",
+          "correct": false
+        },
+        {
+          "text": "Pays AI artists a lower royalty rate",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe tracks remain available; what changes is the label on the profile and\nwhether the algorithm pushes the music at listeners.\u003c/p\u003e"
+    },
+    {
+      "id": "card_11daca#1",
+      "format": "flip",
+      "prompt": "Why is demoting AI artists in recommendations more consequential than badging them?",
+      "back_html": "\u003cp\u003eMost streaming listening follows algorithmic playlists and radio, so losing\nrecommendation placement cuts off the main way new music gets heard — a badge\nonly informs people who visit the profile.\u003c/p\u003e"
+    }
+  ]
+}

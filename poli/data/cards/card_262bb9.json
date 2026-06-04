@@ -1,0 +1,135 @@
+{
+  "id": "card_262bb9",
+  "slug": "predicting-the-court-from-oral-argument",
+  "type": "blog",
+  "title": "Can You Predict a Ruling from Oral Argument?",
+  "hook": "Courtroom folk wisdom says the side that gets grilled hardest is the side that loses. Someone finally checked the numbers — and the rule works, but barely better than a coin flip.",
+  "key_points": [
+    "The folk rule: justices aim more questions and words at the side they doubt, so question counts should forecast votes.",
+    "Feldman tested it on 495 individual justice votes across 56 cases; the word-imbalance rule called about 64% of them correctly.",
+    "Accuracy varied hugely by justice — above 75% for some, close to random for others, so no single rule reads the whole bench.",
+    "For picking case winners the signal was weaker still, and did not beat simply always betting on the petitioner (~68%).",
+    "Counterintuitively, argument was most revealing in 5-4 splits (~82%) and least in unanimous rulings — the close cases leak the most.",
+    "Heavy questioning can signal a case's importance rather than a justice's skepticism, which is where the rule misfires."
+  ],
+  "content_html": "\u003cp\u003eAnyone who has watched a Supreme Court argument has heard the folk rule: count the questions, and whichever lawyer takes the harder beating is the one about to lose. The intuition is reasonable — justices press on the arguments they doubt. Writing at SCOTUSblog, Adam Feldman put the rule to an empirical test.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eFeldman scored 495 individual justice votes across 56 cases using a word-imbalance measure — which side of the argument absorbed more of a justice's words — and found it predicted roughly 64% of votes. Better than chance, but well short of a crystal ball, and the average hides a lot: the rule tracked some justices above 75% of the time while performing close to random for others. Predicting the \u003cem\u003ecase winner\u003c/em\u003e proved harder than predicting individual votes, and notably the models did not beat the simplest possible baseline — always bet on the petitioner, who wins about 68% of the time. That gap is the real lesson for anyone reading predictions: a model only earns attention when it outperforms the obvious guess.\u003c/p\u003e\n\u003cp\u003eThe most surprising result runs against intuition. Argument was most informative in 5-4 decisions, where vote accuracy reached about 82%, and least informative in unanimous ones. Feldman notes cases where the questioning pointed the wrong way entirely, a reminder that a hot bench can signal that a case is hard or consequential rather than that a particular advocate is losing.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Adam Feldman"
+    ],
+    "url": "https://scotusblog.com/2026/07/how-predictable-is-the-supreme-court-from-oral-argument",
+    "published_at": "2026-07-27",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-27",
+  "related": [
+    {
+      "id": "card_4c28f1",
+      "slug": "nine-justices-nine-styles",
+      "type": "blog",
+      "title": "Nine Justices, Nine Styles",
+      "hook": "One scholar coded 5,095 questions from a full Supreme Court term and found each justice interrogates lawyers in a signature way — a fingerprint of how they think about the law.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_7da30b",
+      "slug": "how-the-supreme-court-decides",
+      "type": "blog",
+      "title": "How the Supreme Court Decides a Case",
+      "hook": "A top court hears only a sliver of the cases that beg for its attention — and the path from petition to ruling runs through written briefs, a public argument, and a vote taken in secret.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_b9f0b1",
+      "slug": "cameras-in-the-courtroom",
+      "type": "blog",
+      "title": "Why No Cameras in the Supreme Court?",
+      "hook": "You can read every Supreme Court ruling, but you can't watch the arguments on video. The long fight over courtroom cameras is really a fight over judicial transparency.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-19"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7da30b",
+      "slug": "how-the-supreme-court-decides",
+      "type": "blog",
+      "title": "How the Supreme Court Decides a Case",
+      "hook": "A top court hears only a sliver of the cases that beg for its attention — and the path from petition to ruling runs through written briefs, a public argument, and a vote taken in secret.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_262bb9#0",
+      "format": "flip",
+      "prompt": "What is the courtroom folk rule about oral argument and how a justice will vote?",
+      "back_html": "\u003cp\u003eThat justices direct more questions and words at the side they are\nskeptical of — so whichever advocate gets grilled harder is the one\nlikely to lose.\u003c/p\u003e"
+    },
+    {
+      "id": "card_262bb9#1",
+      "format": "quiz",
+      "prompt": "In Feldman's analysis, when did oral argument reveal the most about how justices would vote?",
+      "choices": [
+        {
+          "text": "In closely divided 5-4 cases",
+          "correct": true
+        },
+        {
+          "text": "In unanimous cases, where the bench agrees",
+          "correct": false
+        },
+        {
+          "text": "Equally across all cases, regardless of how divided",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVote accuracy reached roughly 82% in 5-4 splits but was far lower in\nunanimous rulings — the genuinely contested cases leak the most signal.\u003c/p\u003e"
+    },
+    {
+      "id": "card_262bb9#2",
+      "format": "quiz",
+      "prompt": "Why is a prediction model that gets ~66% of case winners right not necessarily impressive here?",
+      "choices": [
+        {
+          "text": "Because always betting on the petitioner already wins about 68% of the time",
+          "correct": true
+        },
+        {
+          "text": "Because the Supreme Court decides too few cases to measure",
+          "correct": false
+        },
+        {
+          "text": "Because oral argument transcripts are not public",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA model has to beat the simple baseline to be adding information. The\npetitioner usually wins, so that alone sets a high bar to clear.\u003c/p\u003e"
+    },
+    {
+      "id": "card_262bb9#3",
+      "format": "flip",
+      "prompt": "Besides skepticism, what else can heavy questioning of an advocate reflect?",
+      "back_html": "\u003cp\u003eThe sheer importance or difficulty of the case. Justices sometimes\nprobe hardest on the side they intend to favor, which is where the\nquestion-counting rule breaks down.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "card_3b5986",
+  "slug": "a-right-without-a-remedy",
+  "type": "news",
+  "title": "A Right With No Way to Sue Is Half a Right",
+  "hook": "A prisoner's religious rights were violated and the harm was already done. The hard legal question was not whether it was wrong — it was whether he could recover anything at all.",
+  "key_points": [
+    "A legal right needs a remedy: some relief a court can actually order once the violation has happened.",
+    "Injunctions stop ongoing conduct, but they do nothing for a harm that is finished — only damages reach backwards.",
+    "Damon Landor, a Rastafarian, had his dreadlocks shaved by Louisiana prison staff despite a religious-liberty claim; by the time he sued, no order could undo it.",
+    "The dispute reached the Supreme Court as a question about whether a religious-liberty statute allows suits for money against officials personally.",
+    "Writing at SCOTUSblog, Richard Garnett unpacks how remedies, statutory text and government immunity stack up in the case.",
+    "The general point: whether you can sue, and whom, often decides more than whether the right exists."
+  ],
+  "content_html": "\u003cp\u003eLawyers have a saying: a right without a remedy is not much of a right. Courts can order someone to stop doing something, but an injunction only reaches conduct that is ongoing. When the harm is already complete, the only relief left is money — and whether money is available depends on the precise statute and on the immunities that shield governments and their employees.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eDamon Landor's case put that abstraction in concrete form. Landor, a Rastafarian who had not cut his hair for years as a religious observance, had his dreadlocks shaved by Louisiana prison staff. Nothing a court could order afterward would restore them, so his suit turned on whether the federal statute protecting prisoners' religious exercise permits a damages claim against officials in their individual capacity.\u003c/p\u003e\n\u003cp\u003eWriting at SCOTUSblog, Notre Dame law professor Richard Garnett walks through the layers this stacks up: what the statute's text authorizes, how Congress's spending power shapes the remedies that come with it, and where sovereign immunity cuts off suits against a state itself. The takeaway generalizes well beyond prisons — in American public law, the fight over \u003cem\u003ewhom you may sue\u003c/em\u003e is often the whole fight.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Richard Garnett"
+    ],
+    "url": "https://scotusblog.com/2026/08/the-many-layers-of-landor",
+    "published_at": "2026-08-26",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties",
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_d9e3ec",
+      "slug": "clearly-established-law-and-qualified-immunity",
+      "type": "news",
+      "title": "\"Clearly Established\" Law and Qualified Immunity",
+      "hook": "A right you hold on paper can be unenforceable in court: officials escape damages unless a prior ruling already said, in nearly identical facts, that what they did was illegal.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_edd9a6",
+      "slug": "wrongful-conviction-compensation",
+      "type": "news",
+      "title": "Exonerated Isn't the Same as Compensated",
+      "hook": "Getting a conviction thrown out does not get you paid. In most states you must then prove your innocence all over again — to a higher standard, against a state that may still call you guilty.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-06"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_3b5986#0",
+      "format": "flip",
+      "prompt": "Why can an injunction be useless to someone whose rights were already violated?",
+      "back_html": "\u003cp\u003eAn injunction stops ongoing or future conduct. For a harm that is\nfinished, only damages offer any relief at all.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3b5986#1",
+      "format": "quiz",
+      "prompt": "What made Landor's case turn on remedies rather than on whether a right was violated?",
+      "choices": [
+        {
+          "text": "The harm was complete, so the question became whether he could sue officials for money",
+          "correct": true
+        },
+        {
+          "text": "The prison denied that any religious practice was involved",
+          "correct": false
+        },
+        {
+          "text": "He had not yet been released, so no court could hear him",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHis dreadlocks had already been cut. No order could restore them, which\npushed the case onto whether damages were available.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3b5986#2",
+      "format": "flip",
+      "prompt": "What does 'a right without a remedy' mean in practice?",
+      "back_html": "\u003cp\u003eA right courts recognize but cannot enforce with any relief you can\nactually obtain — so violating it carries no consequence.\u003c/p\u003e"
+    }
+  ]
+}

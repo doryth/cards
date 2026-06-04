@@ -1,0 +1,95 @@
+{
+  "id": "card_ae003a",
+  "slug": "claude-1password-integration",
+  "type": "news",
+  "title": "Claude Can Now Log Into Sites for You — Without Seeing Your Password",
+  "hook": "1Password's new integration lets Claude use your saved logins to book travel or manage accounts on its own — but the password itself is designed to never reach the AI at all.",
+  "key_points": [
+    "1Password for Claude lets the AI use your saved logins and one-time codes to complete tasks like bookings.",
+    "1Password injects the credential directly into the page; Claude never sees the password or code itself.",
+    "Access is scoped to the current task and ends when the task is done; a biometric approval is required first.",
+    "The browser extension visibly locks down while an AI agent is acting, so you can see it's in control.",
+    "Requires 1Password's desktop app/extension plus a paid Claude plan (Pro, Max, Team, or Enterprise)."
+  ],
+  "content_html": "\u003cp\u003eAI agents that can actually act on your behalf — booking a flight, managing an account — need to log in somewhere first, which usually means handing over a password. 1Password's new integration with Claude is built to avoid exactly that. The Verge reports \u0026quot;1Password for Claude\u0026quot; lets Anthropic's chatbot use your stored credentials to complete multi-step tasks, without the underlying password or one-time code ever reaching Claude itself.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe mechanism is the interesting part: after you give a biometric approval, 1Password injects the actual credential straight into the webpage — Claude triggers the login but never sees the vault item, the password, or the one-time code, and none of it touches Claude's memory or Anthropic's systems. Access is scoped to whatever task is underway and shuts off once it's finished, rather than staying open-ended. While an agent is acting, the 1Password browser extension visibly locks itself down, so you get a clear signal about when the AI — rather than you — is in the driver's seat. The feature requires the 1Password desktop app and extension plus a paid Claude plan. It's a useful template for a broader question every AI-agent feature will have to answer: not just \u0026quot;can the AI do this for me,\u0026quot; but \u0026quot;what exactly does the AI get to see while it does it.\u0026quot;\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+    "published_at": "2026-07-16",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-agents",
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ae003a#0",
+      "format": "quiz",
+      "prompt": "How does 1Password keep your password safe from Claude itself?",
+      "choices": [
+        {
+          "text": "It injects the credential straight into the webpage, so Claude never sees the password or code",
+          "correct": true
+        },
+        {
+          "text": "It emails you the password every time Claude uses it",
+          "correct": false
+        },
+        {
+          "text": "It doesn't — Claude reads the password directly from your vault",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe password or one-time code goes straight from 1Password into the page.\nClaude only knows to trigger the login, never the secret itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ae003a#1",
+      "format": "flip",
+      "prompt": "What has to happen before Claude can use a saved credential?",
+      "back_html": "\u003cp\u003eYou give a biometric approval, and access is scoped just to the current\ntask — it ends automatically once that task is complete.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ae003a#2",
+      "format": "flip",
+      "prompt": "How can you tell when an AI agent is actively using your 1Password vault?",
+      "back_html": "\u003cp\u003eThe 1Password browser extension visibly locks itself down while an agent\nis working, so you can see when it's in control versus you.\u003c/p\u003e"
+    }
+  ]
+}

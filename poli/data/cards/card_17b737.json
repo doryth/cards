@@ -1,0 +1,117 @@
+{
+  "id": "card_17b737",
+  "slug": "marine-protection-and-30x30",
+  "type": "concept",
+  "title": "30x30 and the 'Paper Park' Problem",
+  "hook": "The world pledged to protect 30% of the ocean by 2030. But a line on a map isn't protection — and much of what's been promised exists only on paper.",
+  "key_points": [
+    "'30x30' is the global goal to protect 30% of land and sea by 2030, agreed under a UN biodiversity framework.",
+    "So far only about 10% of the ocean has formal protection, and progress is often measured by area alone.",
+    "A 'paper park' is protected in law but not in practice — little enforcement, funding, or real limits on harm.",
+    "Measuring conservation by square kilometers can reward easy designations over meaningful protection."
+  ],
+  "content_html": "\u003cp\u003eIn 2022, governments meeting under a United Nations biodiversity framework set a headline target known as \u003cem\u003e30x30\u003c/em\u003e: protect 30% of the planet's land and ocean by the year 2030. It is a simple, memorable goal — and that simplicity is part of the problem. Roughly 10% of the ocean currently has some formal protection, and the most common way to track progress is to add up the area inside protected boundaries.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWriting in The Conversation, marine scientists Kirsten Grorud-Colvert and Ana Spalding argue that area is a misleading yardstick. Many designated zones are \u0026quot;paper parks\u0026quot; — protected in law but with little funding, enforcement, or real restriction on fishing and other harm. A vast, weakly-guarded reserve can pad the numbers while a small, strictly enforced one does more good. The authors press for judging protection by what actually changes in the water — the rules, the enforcement, the recovery of marine life — not just the square kilometers drawn on a map. It is a general lesson about policy targets: a metric that is easy to count can quietly reward the appearance of action over the substance.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Kirsten Grorud-Colvert",
+      "Ana K. Spalding"
+    ],
+    "url": "https://theconversation.com/the-world-agreed-to-protect-30-of-the-ocean-by-2030-but-marine-protection-cant-be-judged-by-area-alone-285214",
+    "published_at": "2026-06-16",
+    "license": "© The Conversation (CC BY-ND)"
+  },
+  "topic_ids": [
+    "environment-and-politics",
+    "international-relations"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-18",
+  "date": "2026-06-16",
+  "related": [
+    {
+      "id": "card_bb70fb",
+      "slug": "environmental-governance",
+      "type": "concept",
+      "title": "Environmental Governance",
+      "hook": "How do you regulate something that ignores borders and belongs to no one? Environmental governance is the toolkit societies use to manage nature collectively.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3fb211",
+      "slug": "tragedy-of-the-commons",
+      "type": "concept",
+      "title": "The Tragedy of the Commons",
+      "hook": "When everyone shares a resource but no one owns it, each person's rational choice can add up to collective ruin. That trap explains a huge slice of environmental politics.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ce31e0",
+      "slug": "treaties-and-international-law",
+      "type": "concept",
+      "title": "Treaties \u0026 International Law",
+      "hook": "If no world government can pass laws, how do nations bind themselves at all? Largely by agreeing to — treaties are the contracts that knit the international order together.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_17b737#0",
+      "format": "flip",
+      "prompt": "What is the '30x30' goal?",
+      "back_html": "\u003cp\u003eA global pledge to protect 30% of the planet's land and ocean by 2030,\nadopted under a UN biodiversity framework.\u003c/p\u003e"
+    },
+    {
+      "id": "card_17b737#1",
+      "format": "quiz",
+      "prompt": "What is a 'paper park'?",
+      "choices": [
+        {
+          "text": "An area protected in law but lacking real enforcement or limits on harm",
+          "correct": true
+        },
+        {
+          "text": "A park that exists only in historical records",
+          "correct": false
+        },
+        {
+          "text": "A protected zone open only to scientists",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePaper parks count toward targets on paper while doing little on the\nwater — the gap the authors warn about.\u003c/p\u003e"
+    },
+    {
+      "id": "card_17b737#2",
+      "format": "quiz",
+      "prompt": "Why do the authors say marine protection 'can't be judged by area alone'?",
+      "choices": [
+        {
+          "text": "Counting square kilometers can reward easy designations over real protection",
+          "correct": true
+        },
+        {
+          "text": "Ocean area is impossible to measure accurately",
+          "correct": false
+        },
+        {
+          "text": "Only land area counts under the 30x30 goal",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eArea is a tempting but shallow metric: a huge weakly-protected zone can\nlook better than a small, strictly enforced one. Quality matters too.\u003c/p\u003e"
+    }
+  ]
+}

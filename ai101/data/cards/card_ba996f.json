@@ -1,0 +1,119 @@
+{
+  "id": "card_ba996f",
+  "slug": "robotics-import-ban",
+  "type": "news",
+  "title": "The US Just Banned Imported Robots",
+  "hook": "A sweeping FCC ban on foreign-made humanoid, four-legged, and wheeled robots — aimed at China. The catch: 90% of recent US robotics research reportedly used the very robots now banned.",
+  "key_points": [
+    "The FCC issued a broad ban on importing advanced robots — humanoid, quadruped, and wheeled.",
+    "Stated reasons: national security data-collection risk and protecting domestic manufacturers.",
+    "China's Unitree dominates on price — roughly $4,600 for a four-legged robot vs $278,000 for a comparable Boston Dynamics model.",
+    "The Association for Advancing Automation says 90% of recent US university robotics papers relied on Unitree hardware.",
+    "US firms like Ghost Robotics and 1X welcome the ban; researchers face a hardware gap.",
+    "MIT Technology Review frames it as AI protectionism spreading into emerging sectors."
+  ],
+  "content_html": "\u003cp\u003eRobots that stumble around YouTube demos have suddenly become a trade-war front. MIT Technology Review reports the FCC issued a sweeping ban on importing advanced robots — humanoids, quadrupeds, wheeled machines — citing national security and the need to protect domestic supply chains.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe competitive pressure behind it is real and mostly about price. China's Unitree sells a four-legged robot for around $4,600; a comparable Boston Dynamics machine runs about $278,000, and Unitree is reportedly heading for a public listing at a nearly $6 billion valuation that dwarfs its US rivals. American robotics firms like Ghost Robotics and 1X are pleased. University labs are not: the Association for Advancing Automation says roughly 90% of recent US robotics research papers relied on Unitree hardware, so the ban cuts off the cheap platforms that domestic research has been standing on. It's a familiar shape of policy problem — protection that also protects you from the thing you were using — and MIT Technology Review reads it as AI protectionism spreading from chips and models into whatever emerging sector comes next.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "James O'Donnell"
+    ],
+    "url": "https://technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics",
+    "published_at": "2026-08-03",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "robots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-03",
+  "related": [
+    {
+      "id": "card_66e39d",
+      "slug": "robots-and-self-driving",
+      "type": "concept",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af4e40",
+      "slug": "general-purpose-robot-workers",
+      "type": "news",
+      "title": "The Push for Robots That Can Do Any Job, Not Just One",
+      "hook": "Factory robots have always been narrow specialists — great at one welded joint, useless at anything else. AI is what's driving the push toward robots general enough to work almost anywhere.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ba996f#0",
+      "format": "quiz",
+      "prompt": "What's the awkward side effect of banning imported robots that researchers point to?",
+      "choices": [
+        {
+          "text": "About 90% of recent US university robotics papers relied on the now-banned Unitree hardware",
+          "correct": true
+        },
+        {
+          "text": "US universities are no longer allowed to publish robotics research",
+          "correct": false
+        },
+        {
+          "text": "Domestic robots stopped working when the ban took effect",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer the Association for Advancing Automation, Unitree hardware underpinned the\noverwhelming majority of recent US academic robotics work — so the ban may slow\nthe domestic research it aims to protect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ba996f#1",
+      "format": "flip",
+      "prompt": "Why has Chinese robotics been so hard for US firms to compete with?",
+      "back_html": "\u003cp\u003ePrice. A Unitree four-legged robot runs about $4,600, against roughly $278,000\nfor a comparable Boston Dynamics model — a nearly sixty-fold gap.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ba996f#2",
+      "format": "quiz",
+      "prompt": "What reasons did the administration give for the ban?",
+      "choices": [
+        {
+          "text": "National security risks from data-collecting foreign robots, plus protecting domestic supply chains",
+          "correct": true
+        },
+        {
+          "text": "Evidence that imported robots are physically unsafe to be near",
+          "correct": false
+        },
+        {
+          "text": "A shortage of electricity for charging them",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe stated rationales were data-collection threats to national security and\nshielding US manufacturers from cheaper Chinese competition.\u003c/p\u003e"
+    }
+  ]
+}

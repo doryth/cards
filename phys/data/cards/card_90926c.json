@@ -1,0 +1,125 @@
+{
+  "id": "card_90926c",
+  "slug": "parity-labels-keep-materials-ai-honest",
+  "type": "paper",
+  "title": "One Design Bit Decides If Your Materials AI Talks Nonsense",
+  "hook": "Symmetry forces some material properties to be exactly zero. Whether a machine-learning model can respect that is fixed before training — by whether its features track parity.",
+  "key_points": [
+    "Some symmetry constraints aren't approximations: symmetry forces certain property tensors to be exactly zero, so a nonzero prediction is impossible, not merely inaccurate.",
+    "Whether a model can violate such a constraint is decided by one rarely reported design choice: do its features carry parity labels?",
+    "The authors derive a 'parity gap' criterion from group theory that predicts which properties and crystals are exposed.",
+    "On 2,000 centrosymmetric crystals whose piezoelectric tensor must vanish, parity-labelled models sat at the floating-point floor; rotation-only models predicted forbidden responses on 90–96% of them.",
+    "Training on explicit zeros does not fix it, and a prediction head inherits its frozen backbone's symmetry group."
+  ],
+  "content_html": "\u003cp\u003eMachine-learned models are quietly displacing first-principles calculations in materials discovery, and the standard argument for trusting them is symmetry: build the physics' invariances into the network and its predictions inherit them. The debate over how much symmetry to hard-wire versus learn has mostly been fought over rotations, where getting symmetry slightly wrong just means being slightly inaccurate.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eCan Polat and colleagues point out that not all symmetry constraints are like that. Some are exact: for a crystal with inversion symmetry, the piezoelectric tensor must vanish identically. A model predicting anything nonzero there isn't imprecise, it is saying something impossible. The authors show that whether a model \u003cem\u003ecan\u003c/em\u003e do this is settled before a single training step, by one rarely reported design bit — whether its features carry parity labels, tracking behaviour under reflection, or only rotations. They derive a group-theoretic criterion, the parity gap, that says in advance which properties and crystals are exposed. Testing matched architecture pairs differing only in that bit on two thousand centrosymmetric crystals, the parity-labelled arms sat at the floating-point floor while the rotation-only arms predicted forbidden piezoelectric responses on 90–96% of crystals — six orders of magnitude apart, and at no accuracy cost. Two practical corollaries: training on explicit zeros doesn't rescue you, and a prediction head bolted onto a frozen universal potential inherits whatever symmetry group the backbone had. Checking is cheap — one random reflection at initialization verifies the label in seconds.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Can Polat",
+      "Mustafa Kurban",
+      "Erchin Serpedin",
+      "Hasan Kurban"
+    ],
+    "url": "https://arxiv.org/abs/2608.18714",
+    "published_at": "2026-08-19",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_d37946",
+      "slug": "ai-superconductor-discovery",
+      "type": "news",
+      "title": "AI Just Helped Find Two New Superconductors",
+      "hook": "Machine learning helped physicists find two new superconductors and sketch a faster route toward physics' biggest prize in the field: a superconductor that works at room temperature.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_b123c0",
+      "slug": "semiconductors-and-transistors",
+      "type": "concept",
+      "title": "Semiconductors and the Transistor",
+      "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b6cd84",
+      "slug": "ai-scientist-designs-error-correcting-codes",
+      "type": "paper",
+      "title": "An AI That Invents Quantum Error-Correcting Codes",
+      "hook": "Designing a good quantum code means balancing code structure, hardware layout, syndrome extraction and decoding at once. An LLM-driven search now beats the standard codes at equal qubit budgets.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-28"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_90926c#0",
+      "format": "quiz",
+      "prompt": "Why is predicting a nonzero piezoelectric tensor for a centrosymmetric crystal worse than an ordinary error?",
+      "choices": [
+        {
+          "text": "Symmetry forces the value to be exactly zero, so any nonzero prediction is physically impossible",
+          "correct": true
+        },
+        {
+          "text": "The true value is very small, so the relative error is huge",
+          "correct": false
+        },
+        {
+          "text": "Piezoelectric tensors are the hardest property to measure experimentally",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThis is an exact constraint, not an approximate one. A centrosymmetric crystal cannot be\npiezoelectric at all, so a nonzero prediction isn't inaccurate — it's forbidden.\u003c/p\u003e"
+    },
+    {
+      "id": "card_90926c#1",
+      "format": "flip",
+      "prompt": "What single model design choice determines whether such impossible predictions can happen?",
+      "back_html": "\u003cp\u003eWhether the model's features carry \u003cstrong\u003eparity labels\u003c/strong\u003e (track behaviour under reflection),\nrather than encoding rotations only. The authors call the resulting criterion the\n\u003cstrong\u003eparity gap\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_90926c#2",
+      "format": "flip",
+      "prompt": "Does training on examples with explicit zeros fix a rotation-only model?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eNo.\u003c/strong\u003e The paper reports that training on explicit zeros does not recover exactness —\nthe constraint has to be built into the features, not learned from data.\u003c/p\u003e"
+    },
+    {
+      "id": "card_90926c#3",
+      "format": "quiz",
+      "prompt": "What was the accuracy cost of adding parity labels in the matched-architecture comparison?",
+      "choices": [
+        {
+          "text": "None — the parity-labelled models were exact at no accuracy cost",
+          "correct": true
+        },
+        {
+          "text": "A modest but consistent loss in overall accuracy",
+          "correct": false
+        },
+        {
+          "text": "A large loss, making them impractical",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe two arms differed only in the parity bit, and the parity-labelled ones sat at the\nfloating-point floor on the forbidden property while matching accuracy elsewhere.\u003c/p\u003e"
+    }
+  ]
+}

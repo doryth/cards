@@ -1,0 +1,129 @@
+{
+  "id": "card_230f1d",
+  "slug": "magnetar-birth-caught-chirping",
+  "type": "news",
+  "title": "Astronomers Caught a Magnetar Being Born",
+  "hook": "A supernova's light curve started 'chirping' — bumps in brightness arriving closer and closer together — the birth cry of one of the universe's most extreme objects: a magnetar.",
+  "key_points": [
+    "Supernova SN 2024afav, about a billion light-years away, showed four brightness bumps after peak light with progressively shorter intervals, like a rising chirp.",
+    "UC Berkeley and Las Cumbres Observatory researchers traced the pattern to fallback material forming a tilted accretion disk around a newly formed neutron star.",
+    "General relativity explained the wobble: the neutron star's rapid spin drags spacetime around it (Lense-Thirring precession), periodically blocking and reflecting light like a lighthouse.",
+    "The magnetar spins once every 4.2 milliseconds with a magnetic field roughly 300 trillion times stronger than Earth's."
+  ],
+  "content_html": "\u003cp\u003eWhen a massive star explodes, the leftover core can collapse into a neutron star — and in rare cases, one with an almost unimaginably powerful magnetic field, called a magnetar. Catching one being born, in the act, has been nearly impossible. A team led by UC Berkeley's Dan Kasen and Joseph Farah of UC Santa Barbara and Las Cumbres Observatory may have finally done it, in the supernova SN 2024afav, about a billion light-years away.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAbout 50 days after the supernova's peak brightness, its light curve stopped fading smoothly and instead showed four distinct bumps, each arriving sooner than the last — a chirp rising in pitch. The team, including Alex Filippenko and Andy Howell, traced the pattern to material falling back onto the newly formed neutron star, forming an accretion disk tilted relative to the star's spin axis. General relativity supplied the missing piece: the neutron star spins so fast that it drags the fabric of spacetime around with it, a real effect called Lense-Thirring precession, making the tilted disk wobble and periodically block or reflect light like a cosmic lighthouse. The resulting object spins once every 4.2 milliseconds with a magnetic field about 300 trillion times stronger than Earth's — direct evidence, monitored over 200 days, that a magnetar formed in the explosion. Published in \u003cem\u003eNature\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260626030450.htm",
+    "published_at": "2026-07-06",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_230f1d#0",
+      "format": "flip",
+      "prompt": "What was the 'chirping' signal astronomers spotted in this supernova?",
+      "back_html": "\u003cp\u003eFour distinct \u003cstrong\u003ebumps in brightness\u003c/strong\u003e after peak light, arriving at progressively shorter\nintervals — like a chirp rising in pitch.\u003c/p\u003e"
+    },
+    {
+      "id": "card_230f1d#1",
+      "format": "quiz",
+      "prompt": "What caused the chirping pattern, according to the researchers?",
+      "choices": [
+        {
+          "text": "A tilted, wobbling accretion disk of fallback material around a newly formed, rapidly spinning neutron star",
+          "correct": true
+        },
+        {
+          "text": "A second, smaller star colliding with the supernova remnant",
+          "correct": false
+        },
+        {
+          "text": "Random fluctuations in the star's outer atmosphere before it fully exploded",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMaterial falling back onto the newborn neutron star formed a disk tilted relative to its\nspin axis, and that disk's wobble produced the periodic brightness pattern.\u003c/p\u003e"
+    },
+    {
+      "id": "card_230f1d#2",
+      "format": "flip",
+      "prompt": "What role did general relativity play in explaining the wobble?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eLense-Thirring precession\u003c/strong\u003e: the rapidly spinning neutron star drags spacetime around\nwith it, causing the tilted disk to wobble and periodically block or reflect light.\u003c/p\u003e"
+    },
+    {
+      "id": "card_230f1d#3",
+      "format": "quiz",
+      "prompt": "How extreme is the magnetar's magnetic field compared to Earth's?",
+      "choices": [
+        {
+          "text": "About 300 trillion times stronger",
+          "correct": true
+        },
+        {
+          "text": "About 300 times stronger",
+          "correct": false
+        },
+        {
+          "text": "Roughly the same strength",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMagnetars are the most magnetic objects known in the universe — this one's field is\nroughly 300 trillion times Earth's, spinning once every 4.2 milliseconds.\u003c/p\u003e"
+    }
+  ]
+}

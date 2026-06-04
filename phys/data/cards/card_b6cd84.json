@@ -1,0 +1,111 @@
+{
+  "id": "card_b6cd84",
+  "slug": "ai-scientist-designs-error-correcting-codes",
+  "type": "paper",
+  "title": "An AI That Invents Quantum Error-Correcting Codes",
+  "hook": "Designing a good quantum code means balancing code structure, hardware layout, syndrome extraction and decoding at once. An LLM-driven search now beats the standard codes at equal qubit budgets.",
+  "key_points": [
+    "Quantum error correction is the prerequisite for useful quantum computers, but a code's real performance depends on code structure, hardware, syndrome extraction, and decoder together.",
+    "OmniQEC treats code design as an iterative search, with an LLM orchestrator coordinating code generation, screening, syndrome-extraction synthesis, and circuit-level evaluation.",
+    "It runs a fast loop using cheap code-level proxies and a slow loop doing physically grounded circuit-level evaluation, feeding results back into the search.",
+    "The authors tested it across four qLDPC code families, three LLM backends, and 14 qubit budgets per backend.",
+    "Discovered codes beat the standard bivariate-bicycle [[72,12,6]] and [[144,12,12]] codes at complete-implementation budgets of 98 and 240 physical qubits.",
+    "Logical-error suppression improved steadily as the physical-qubit budget grew, and the codes are described as hardware-friendly."
+  ],
+  "content_html": "\u003cp\u003eEvery qubit leaks. Quantum error correction is how you build a reliable machine out of unreliable parts, by spreading one logical qubit across many physical ones. The catch is that finding a good code is not a clean mathematical problem: how well a code actually performs depends on its structure, the hardware's connectivity, how you measure error syndromes, and how the decoder interprets them — and those pull in different directions.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eGe Yan and colleagues automate that trade-off with OmniQEC, which they describe as an AI scientist for code discovery. A large language model acts as orchestrator, coordinating four stages: generating candidate codes, screening them at the code level, synthesising the syndrome-extraction circuits, and evaluating the result with a real decoder. The design's useful idea is the two-speed loop. A fast loop explores widely using inexpensive code-level proxies, which are cheap but only loosely predictive; a slow loop takes survivors and evaluates them at the circuit level, where noise and connectivity actually bite — then feeds that evidence back to steer the search. Tested across four families of quantum low-density parity-check codes, three different LLM backends, and fourteen qubit budgets each, the discovered codes suppressed logical errors progressively better as budgets grew, and at complete-implementation budgets of 98 and 240 physical qubits they outperformed the well-established bivariate-bicycle [[72,12,6]] and [[144,12,12]] codes. The authors emphasise the codes are hardware-friendly and may be worth attention independently of how they were found.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Ge Yan",
+      "Shanchuan Li",
+      "Pengyue Ma",
+      "Qixin Zhang",
+      "Pingchuan Ma",
+      "Jianping Wang",
+      "Min-Hsiu Hsieh",
+      "Yuxuan Du"
+    ],
+    "url": "https://arxiv.org/abs/2607.25865",
+    "published_at": "2026-07-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-10",
+  "date": "2026-07-28",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d37946",
+      "slug": "ai-superconductor-discovery",
+      "type": "news",
+      "title": "AI Just Helped Find Two New Superconductors",
+      "hook": "Machine learning helped physicists find two new superconductors and sketch a faster route toward physics' biggest prize in the field: a superconductor that works at room temperature.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_80786e",
+      "slug": "neutral-atom-quantum-roadmap",
+      "type": "paper",
+      "title": "The Neutral-Atom Roadmap to a Useful Quantum Computer",
+      "hook": "Fifty-plus researchers from the atom-array world lay out what it would actually take to get practical quantum advantage — and how you'd prove you had it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b6cd84#0",
+      "format": "flip",
+      "prompt": "Why can't you judge a quantum error-correcting code from its structure alone?",
+      "back_html": "\u003cp\u003eLogical performance depends on the \u003cstrong\u003einterplay\u003c/strong\u003e of code structure, the hardware\nit runs on, how syndromes are extracted, and the decoder — and these impose\ncompeting requirements.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b6cd84#1",
+      "format": "quiz",
+      "prompt": "What is the point of OmniQEC's fast loop and slow loop?",
+      "choices": [
+        {
+          "text": "The fast loop screens many candidates with cheap proxies; the slow loop evaluates survivors at the physical circuit level",
+          "correct": true
+        },
+        {
+          "text": "The fast loop runs on quantum hardware while the slow loop runs classically",
+          "correct": false
+        },
+        {
+          "text": "The fast loop generates codes and the slow loop writes the paper",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCheap code-level proxies explore broadly, while physically grounded circuit-level\nevaluation checks the promising ones — and that evidence feeds back into the\nsearch.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b6cd84#2",
+      "format": "flip",
+      "prompt": "How did the discovered codes compare to the standard bivariate-bicycle codes?",
+      "back_html": "\u003cp\u003eThey outperformed the [[72,12,6]] and [[144,12,12]] BB codes at\ncomplete-implementation budgets of \u003cstrong\u003e98 and 240 physical qubits\u003c/strong\u003e respectively.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "card_3d4d4f",
+  "slug": "entanglement-in-a-fist-sized-crystal",
+  "type": "news",
+  "title": "Quantum Entanglement, Found in a Crystal You Can Hold",
+  "hook": "Entanglement is usually a fragile, microscopic effect. Physicists just found clear signs of it acting across groups of particles inside a crystal big enough to fit in your palm.",
+  "key_points": [
+    "TU Wien researchers studied a centimeter-sized crystal of cerium, palladium, and silicon — a 'strange metal.'",
+    "Neutron-scattering data showed a collective response that can't be explained by particles acting independently.",
+    "Quantum Fisher information analysis indicated groups of at least nine particles were quantum-entangled together.",
+    "The entanglement may explain strange metals' unusual behavior, including unusually low electrical noise."
+  ],
+  "content_html": "\u003cp\u003eQuantum entanglement — where particles behave as one connected system no matter how far apart they are — is usually studied in small, carefully isolated setups: a few trapped ions, a handful of photons. Researchers at TU Wien just found strong evidence for it acting across many particles inside something far larger: a solid crystal you could hold in your hand.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe team, led by Silke Bühler-Paschen with PhD student Federico Mazza and theoretical input from Peter Zoller, studied a centimeter-sized crystal made of cerium, palladium, and silicon — a \u0026quot;strange metal\u0026quot; known for behaving unlike ordinary conductors. Analyzing neutron-scattering data with a technique called quantum Fisher information, they found a collective response that simply can't be explained by particles acting independently — the data pointed to groups of at least nine particles responding as one quantum-entangled whole. The result may help explain why strange metals show such unusual electrical properties, including surprisingly low electrical noise: particles that coordinate their behavior collectively, rather than jostling independently, naturally produce a quieter signal. Published in \u003cem\u003eNature Physics\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260701015242.htm",
+    "published_at": "2026-07-07",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_629c25",
+      "slug": "simple-recipe-for-entangled-states",
+      "type": "news",
+      "title": "A Simpler Recipe for Entangled Atoms",
+      "hook": "Highly entangled quantum states usually demand elaborate hardware. A team found you can coax atoms into them by gently nudging their energy levels instead.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "card_a4b53c",
+      "slug": "schrodinger-cat-from-quantum-parts",
+      "type": "news",
+      "title": "A Schrödinger's Cat Built From Quantum Parts",
+      "hook": "Cat states usually superpose two near-classical blobs of motion. Oxford built one from purely quantum ingredients — and could sculpt the superposition into almost any shape.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-15"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_3d4d4f#0",
+      "format": "flip",
+      "prompt": "What's unusual about where this entanglement was found?",
+      "back_html": "\u003cp\u003eIt showed up in a \u003cstrong\u003ecentimeter-sized crystal\u003c/strong\u003e you could hold in your hand — entanglement\nis normally studied in tiny, carefully isolated microscopic systems.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3d4d4f#1",
+      "format": "quiz",
+      "prompt": "How did researchers detect entanglement inside a solid crystal?",
+      "choices": [
+        {
+          "text": "By analyzing neutron-scattering data with quantum Fisher information, finding a response independent particles couldn't produce",
+          "correct": true
+        },
+        {
+          "text": "By directly photographing individual entangled atoms",
+          "correct": false
+        },
+        {
+          "text": "By measuring the crystal's temperature very precisely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eQuantum Fisher information is a statistical tool that can reveal multipartite entanglement\nfrom how a system collectively responds to a perturbation, without imaging individual atoms.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3d4d4f#2",
+      "format": "flip",
+      "prompt": "What does this entanglement help explain about 'strange metals'?",
+      "back_html": "\u003cp\u003eIt may explain their \u003cstrong\u003eunusually low electrical noise\u003c/strong\u003e — particles coordinating their\nbehavior collectively rather than acting independently.\u003c/p\u003e"
+    }
+  ]
+}

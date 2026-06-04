@@ -1,0 +1,115 @@
+{
+  "id": "card_8f7ece",
+  "slug": "dual-mode-spacecraft-propulsion",
+  "type": "news",
+  "title": "One Fuel, Two Kinds of Rocket Engine",
+  "hook": "Spacecraft face a brutal trade-off: chemical engines give big shoves but guzzle fuel; electric ones sip fuel but barely push. MIT showed one propellant can do both.",
+  "key_points": [
+    "Chemical thrusters give high thrust but low fuel efficiency — great for quick bursts.",
+    "Electric thrusters give tiny thrust but very high efficiency — great for long cruises.",
+    "MIT researchers ran both modes from a single propellant in one compact system.",
+    "That could let tiny CubeSats both maneuver fast and travel far — even to Mars.",
+    "A NASA-supported CubeSat mission will test the dual-mode engine in orbit."
+  ],
+  "content_html": "\u003cp\u003ePicking a rocket engine means picking your poison. Chemical thrusters — the roaring kind — deliver a powerful shove, perfect for getting off the ground or making a fast course change, but they burn through propellant fast. Electric thrusters, which fling out ions at enormous speed, are sippers: extraordinarily fuel-efficient, but their push is so gentle it can take months to build up real speed. Small satellites usually have to choose one.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMIT researchers showed a way to stop choosing. They demonstrated that a single propellant can feed both a chemical and an electric thruster in one compact system — quick bursts of speed when you need them, then patient, efficient cruising for the long haul. For CubeSats, which are too small to carry two separate fuel systems, that flexibility could be transformative, potentially opening deep-space destinations like Mars to satellites the size of a shoebox. A NASA-supported CubeSat mission is slated to test the technology in orbit. Both modes still rest on the same bedrock as any rocket: throw mass out the back, get pushed forward (see \u003cem\u003eHow Rockets Work\u003c/em\u003e). The trick is in how fast, and how efficiently, you throw it.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260610003051.htm",
+    "published_at": "2026-06-10",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "momentum-collisions",
+    "gravity-orbits"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-11",
+  "date": "2026-06-10",
+  "related": [
+    {
+      "id": "card_b6a1bf",
+      "slug": "how-rockets-work",
+      "type": "concept",
+      "title": "How Rockets Work",
+      "hook": "A rocket doesn't push against the air or the ground — it pushes against its own exhaust. Throw mass backward fast enough and you get thrown forward, even in empty space.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3776ab",
+      "slug": "conservation-of-momentum",
+      "type": "concept",
+      "title": "Conservation of Momentum",
+      "hook": "Fire a gun and it kicks back; push off a friend on skates and you both glide apart. Total momentum never changes unless an outside force interferes.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_b6a1bf",
+      "slug": "how-rockets-work",
+      "type": "concept",
+      "title": "How Rockets Work",
+      "hook": "A rocket doesn't push against the air or the ground — it pushes against its own exhaust. Throw mass backward fast enough and you get thrown forward, even in empty space.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_8f7ece#0",
+      "format": "flip",
+      "prompt": "What is the core trade-off between chemical and electric spacecraft thrusters?",
+      "back_html": "\u003cp\u003eChemical thrusters give \u003cstrong\u003ehigh thrust but low fuel efficiency\u003c/strong\u003e; electric thrusters give\n\u003cstrong\u003every high efficiency but tiny thrust\u003c/strong\u003e. One pushes hard and briefly, the other gently and for a long time.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8f7ece#1",
+      "format": "quiz",
+      "prompt": "Why is an electric (ion) thruster useful for long interplanetary cruises despite its tiny thrust?",
+      "choices": [
+        {
+          "text": "It uses propellant extremely efficiently, so it can keep accelerating for a very long time",
+          "correct": true
+        },
+        {
+          "text": "It needs no propellant at all once switched on",
+          "correct": false
+        },
+        {
+          "text": "It produces more thrust than a chemical engine in vacuum",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eElectric thrusters expel mass at very high speed, so they get far more push per kilogram of\npropellant. The thrust is feeble, but applied steadily over months it adds up.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8f7ece#2",
+      "format": "quiz",
+      "prompt": "What did the MIT result demonstrate about the two propulsion modes?",
+      "choices": [
+        {
+          "text": "A single propellant can feed both a chemical and an electric thruster in one system",
+          "correct": true
+        },
+        {
+          "text": "Chemical and electric engines can never share hardware",
+          "correct": false
+        },
+        {
+          "text": "Electric thrusters are now obsolete",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe advance is combining quick chemical bursts and efficient electric cruising from one fuel\nin a compact package — useful for small satellites that need both abilities.\u003c/p\u003e"
+    }
+  ]
+}

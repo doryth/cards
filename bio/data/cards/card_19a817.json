@@ -1,0 +1,109 @@
+{
+  "id": "card_19a817",
+  "slug": "metabolism",
+  "type": "concept",
+  "title": "Metabolism",
+  "hook": "Every breath, heartbeat, and thought runs on metabolism — the vast web of chemical reactions that builds your body up and breaks your fuel down.",
+  "key_points": [
+    "Metabolism is the sum of all chemical reactions that keep an organism alive.",
+    "Catabolism breaks molecules down, releasing energy.",
+    "Anabolism builds complex molecules, using energy.",
+    "Enzymes guide these reactions, and ATP shuttles energy between them."
+  ],
+  "content_html": "\u003cp\u003eMetabolism is the chemistry of being alive — the entire, interlocking set of reactions a cell or body runs to grow, repair itself, move, and stay organized against the pull toward disorder. It's easy to think of metabolism only as \u0026quot;how fast you burn calories,\u0026quot; but biologically it's far bigger: it's every chemical transformation happening in you at once, organized into pathways that hand products from one reaction to the next.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThose reactions split into two complementary halves. Catabolism breaks large molecules — sugars, fats, proteins — into smaller pieces, releasing energy in the process; digesting a meal and cellular respiration are catabolic. Anabolism runs the other way, spending energy to assemble complex molecules like proteins, DNA, and new tissue. The two are linked by ATP, which captures energy freed during catabolism and delivers it to power anabolism, while enzymes catalyze nearly every step so the whole network runs at the right speed. As Encyclopaedia Britannica describes, this balance of building up and breaking down is what lets living things sustain themselves moment to moment.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/metabolism",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "energy-in-life"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_32c407",
+      "slug": "atp-energy-currency",
+      "type": "concept",
+      "title": "ATP: The Cell's Energy Currency",
+      "hook": "Cells don't store usable energy as sugar or fat alone — they spend it through ATP, a tiny rechargeable molecule that powers almost everything they do.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9d1582",
+      "slug": "enzymes",
+      "type": "concept",
+      "title": "Enzymes: Life's Catalysts",
+      "hook": "The chemical reactions that keep you alive would crawl too slowly to matter — enzymes speed them up millions of times without being used up themselves.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e553ec",
+      "slug": "cellular-respiration",
+      "type": "concept",
+      "title": "Cellular Respiration",
+      "hook": "Every cell in your body slowly 'burns' sugar with oxygen to release energy — the same chemistry as photosynthesis, run in reverse.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_19a817#0",
+      "format": "flip",
+      "prompt": "What does metabolism mean?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eentire web of chemical reactions\u003c/strong\u003e that keep an organism alive — both the\nreactions that break molecules down and those that build them up.\u003c/p\u003e"
+    },
+    {
+      "id": "card_19a817#1",
+      "format": "quiz",
+      "prompt": "What is the difference between catabolism and anabolism?",
+      "choices": [
+        {
+          "text": "Catabolism breaks molecules down and releases energy; anabolism builds them up and uses energy",
+          "correct": true
+        },
+        {
+          "text": "Catabolism builds molecules; anabolism destroys them",
+          "correct": false
+        },
+        {
+          "text": "They are two words for the exact same process",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCatabolic reactions tear larger molecules apart, freeing energy (like digesting\nfood); anabolic reactions spend that energy to construct complex molecules (like\nbuilding proteins).\u003c/p\u003e"
+    },
+    {
+      "id": "card_19a817#2",
+      "format": "quiz",
+      "prompt": "What ties metabolism's two halves together?",
+      "choices": [
+        {
+          "text": "Energy released by catabolism is captured in ATP and spent on anabolism",
+          "correct": true
+        },
+        {
+          "text": "The two halves never interact",
+          "correct": false
+        },
+        {
+          "text": "Anabolism powers itself with no energy source",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCatabolism harvests energy from fuel into ATP, and anabolism spends that ATP to\nbuild the molecules a cell needs — enzymes steer every step of the loop.\u003c/p\u003e"
+    }
+  ]
+}

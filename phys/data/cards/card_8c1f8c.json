@@ -1,0 +1,93 @@
+{
+  "id": "card_8c1f8c",
+  "slug": "gold-metacrystal-sorts-quantum-light",
+  "type": "news",
+  "title": "A Carved Gold Film That Sorts Quantum Light Without a Freezer",
+  "hook": "Most quantum optics hardware needs to be chilled near absolute zero. This ultrathin gold \"metacrystal\" sorts quantum states of light at room temperature.",
+  "key_points": [
+    "The device is a gold film patterned with hundreds of microscopic structures — a metasurface engineered to steer light by its shape rather than its chemistry.",
+    "It routes different quantum states of light down separate paths, acting as a sorter rather than just a filter.",
+    "Crucially it preserves the quantum information the light carries while doing so.",
+    "It works at room temperature, removing the bulky cryogenic refrigeration much quantum photonics depends on.",
+    "The researchers describe it as the first quantum material to sort and transport distinct quantum light states without deep cooling."
+  ],
+  "content_html": "\u003cp\u003eA recurring embarrassment of quantum technology is the refrigerator. The physics may happen in a chip the size of a fingernail, but keeping it near absolute zero takes a machine the size of a wardrobe. Researchers have now built an ultrathin gold \u0026quot;metacrystal\u0026quot; that sorts quantum states of light at room temperature.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe device is a gold film carved with hundreds of microscopic structures — a metasurface, whose optical behaviour comes from its geometry rather than from what it is made of. Pattern it correctly and it acts on light in ways no natural material does. Here it works as a sorter: different kinds of quantum light enter and leave along separate paths, and the quantum information they carry survives the trip. That last part is the hard requirement, since most ways of separating light also measure it, and measurement is precisely what destroys a quantum state. The researchers present it as the first quantum material to sort and transport distinct quantum states of light without deep cooling — the sort of component that would let quantum optical circuits shed a large fraction of their supporting hardware.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260806050706.htm",
+    "published_at": "2026-08-08"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "light-optics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-08",
+  "related": [
+    {
+      "id": "card_2a0bb3",
+      "slug": "programmable-photonic-chip-slow-light",
+      "type": "news",
+      "title": "A Photonic Chip That Slows Light on Command",
+      "hook": "Light usually races through a chip at a fixed clip. This programmable circuit dials that speed down on demand — the buffer and delay line that computing with light has been missing.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-21"
+    },
+    {
+      "id": "card_a17911",
+      "slug": "why-gold-never-tarnishes",
+      "type": "news",
+      "title": "Gold's Secret Self-Defense Against Tarnishing",
+      "hook": "Gold jewelry stays bright for centuries, and it turns out gold's surface atoms are actively rearranging themselves to keep oxygen from ever getting a grip.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8c1f8c#0",
+      "format": "flip",
+      "prompt": "What makes a metasurface able to steer light in ways bulk materials can't?",
+      "back_html": "\u003cp\u003eIts behaviour comes from \u003cstrong\u003eengineered structure\u003c/strong\u003e — here hundreds of microscopic\nfeatures carved into a thin gold film — rather than from the material's natural\noptical properties.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8c1f8c#1",
+      "format": "quiz",
+      "prompt": "What is the main practical advantage claimed for this gold metacrystal?",
+      "choices": [
+        {
+          "text": "It sorts and transports quantum states of light at room temperature, with no cryogenic cooling",
+          "correct": true
+        },
+        {
+          "text": "It generates entangled photons faster than any laser source",
+          "correct": false
+        },
+        {
+          "text": "It stores quantum information indefinitely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMuch quantum photonics hardware requires bulky ultra-cold refrigeration. This\ndevice routes different quantum light states down separate paths at room\ntemperature while preserving their information.\u003c/p\u003e"
+    }
+  ]
+}

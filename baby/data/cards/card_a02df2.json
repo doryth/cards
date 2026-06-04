@@ -1,0 +1,72 @@
+{
+  "id": "card_a02df2",
+  "slug": "school-readiness",
+  "type": "concept",
+  "title": "What School Readiness Really Means",
+  "hook": "Being ready for school is less about reading early and more about social and emotional skills — following directions, taking turns, and managing feelings.",
+  "key_points": [
+    "Self-regulation, listening, and getting along with others predict school success more than early academics.",
+    "Skills like separating from a parent, sharing, and handling frustration matter as much as letters and numbers.",
+    "Everyday routines, conversation, and play build these foundations naturally.",
+    "Readiness develops at different rates; reading and writing come later for many capable children."
+  ],
+  "content_html": "\u003cp\u003eAsk what \u0026quot;ready for school\u0026quot; means and many people picture a child who can already read. Child-development research points elsewhere: the strongest predictors of a smooth start to school are social and emotional — being able to follow directions, take turns, separate from a parent, and manage frustration without falling apart.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThose skills don't need flashcards. They grow through everyday routines, back-and-forth conversation, and plenty of play. Academic skills like reading and writing tend to come later, and arrive at different times even for very capable children. Guidance like the CDC's positive-parenting tips for preschoolers frames readiness around these foundations rather than early academics. This is general educational information, not a developmental assessment.\u003c/p\u003e",
+  "source": {
+    "name": "CDC — Positive Parenting (Preschoolers)",
+    "url": "https://www.cdc.gov/child-development/positive-parenting-tips/preschoolers.html",
+    "license": "Public domain (U.S. Government)"
+  },
+  "topic_ids": [
+    "preschooler",
+    "learning-play"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_893ac4",
+      "slug": "play-is-learning",
+      "type": "concept",
+      "title": "Play Is How Young Children Learn",
+      "hook": "For young children, play isn't a break from learning — it is the learning, building language, problem-solving, and social skills all at once.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a02df2#0",
+      "format": "quiz",
+      "prompt": "Which skills best predict early school success?",
+      "choices": [
+        {
+          "text": "Social-emotional skills like self-regulation and taking turns",
+          "correct": true
+        },
+        {
+          "text": "Reading fluently before kindergarten",
+          "correct": false
+        },
+        {
+          "text": "Doing arithmetic in their head",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFollowing directions, getting along with others, and managing feelings\nmatter more for the start of school than early academic ability.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a02df2#1",
+      "format": "flip",
+      "prompt": "How are school-readiness skills mostly built at home?",
+      "back_html": "\u003cp\u003eThrough \u003cstrong\u003eeveryday routines, conversation, and play\u003c/strong\u003e — these naturally\ngrow listening, self-regulation, and getting along with others.\u003c/p\u003e"
+    }
+  ]
+}

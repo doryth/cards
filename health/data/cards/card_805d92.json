@@ -1,0 +1,110 @@
+{
+  "id": "card_805d92",
+  "slug": "omega-3-aspirin-gum-disease",
+  "type": "news",
+  "title": "Omega-3 and Aspirin Matched Antibiotics for Gum Disease",
+  "hook": "In a year-long study of severe gum disease, omega-3 plus low-dose aspirin hit the treatment goal about as often as antibiotics did — roughly 58% either way.",
+  "key_points": [
+    "A year-long study compared omega-3 with low-dose aspirin against antibiotics in severe gum disease.",
+    "Both approaches got about 58% of patients to the treatment goal.",
+    "Gum disease is driven by inflammation, which is why an anti-inflammatory approach can compete.",
+    "Avoiding antibiotics where possible slows the growth of antibiotic resistance.",
+    "Low-dose aspirin carries real bleeding risk — this is not a self-prescribing result.",
+    "Neither approach replaces the mechanical cleaning that treats gum disease."
+  ],
+  "content_html": "\u003cp\u003eSevere gum disease is often treated with antibiotics alongside a deep cleaning. A year-long study tried something less obvious: omega-3 supplements plus low-dose aspirin. Both routes got roughly 58% of patients to the treatment goal — a tie, and an unexpected one.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe logic holds together better than it first appears. Periodontitis isn't purely a bacterial infection; the tissue damage comes largely from the body's own inflammatory response to the bacteria. Antibiotics go after the trigger. Omega-3 and aspirin go after the response. That an anti-inflammatory pair matched an antibacterial one suggests the inflammation side of the equation is doing a lot of the work.\u003c/p\u003e\n\u003cp\u003eThe appeal beyond the dental chair is antibiotic stewardship: every avoidable course is one less push toward resistance. But this is firmly a talk-to-your-dentist result, not a pharmacy run. Daily low-dose aspirin carries genuine bleeding risk that depends on your medical history, and nothing here replaces the mechanical cleaning that remains the core treatment for gum disease.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260829035216.htm",
+    "published_at": "2026-08-30",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "oral-health",
+    "medication-safety",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-30",
+  "related": [
+    {
+      "id": "card_2480e1",
+      "slug": "why-oral-health-matters",
+      "type": "concept",
+      "title": "Why Oral Health Matters",
+      "hook": "Your mouth isn't sealed off from the rest of you. Gum disease and untreated decay are linked to problems well beyond the teeth — and most of it is preventable.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_070d22",
+      "slug": "fasting-and-gum-health",
+      "type": "news",
+      "title": "Can Diet Help Fight Gum Disease?",
+      "hook": "A small clinical study found that a low-calorie, fasting-style diet noticeably reduced the inflammation behind gum disease — a hint that what you eat may matter for your gums, not just your brush.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "card_276601",
+      "slug": "gum-disease-aortic-valve-risk",
+      "type": "news",
+      "title": "A Hidden Heart Valve Risk Linked to Gum Disease",
+      "hook": "Gum disease is already linked to heart disease in general — new research points to a specific mechanism: bacteria that may help trigger a serious, calcium-driven heart valve condition.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_3a556a",
+      "slug": "antibiotics-use-them-right",
+      "type": "concept",
+      "title": "Antibiotics: Use Them Right",
+      "hook": "Antibiotics are miracle drugs against bacteria — and useless against viruses like colds and flu. Using them when they won't help fuels a genuinely dangerous problem.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_805d92#0",
+      "format": "quiz",
+      "prompt": "Why is it plausible that omega-3 and aspirin could rival antibiotics for gum disease?",
+      "choices": [
+        {
+          "text": "Gum disease is fundamentally inflammatory, and both are anti-inflammatory",
+          "correct": true
+        },
+        {
+          "text": "Omega-3 kills oral bacteria more effectively than antibiotics",
+          "correct": false
+        },
+        {
+          "text": "Aspirin dissolves plaque mechanically",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSevere gum disease is an inflammatory condition. Antibiotics attack the bacterial\ntrigger; an anti-inflammatory pair attacks the response — and in this study both got\nabout 58% of patients to goal.\u003c/p\u003e"
+    },
+    {
+      "id": "card_805d92#1",
+      "format": "flip",
+      "prompt": "Beyond the individual patient, why would dentists welcome an antibiotic-free option?",
+      "back_html": "\u003cp\u003eEvery course of antibiotics feeds \u003cstrong\u003eantibiotic resistance\u003c/strong\u003e. An approach that works\nabout as well without them reduces that pressure.\u003c/p\u003e"
+    },
+    {
+      "id": "card_805d92#2",
+      "format": "flip",
+      "prompt": "Why shouldn't you start low-dose aspirin for your gums on your own?",
+      "back_html": "\u003cp\u003eDaily aspirin carries a real bleeding risk that has to be weighed against your own\nhealth history — this was a supervised study, not a self-treatment protocol.\u003c/p\u003e"
+    }
+  ]
+}

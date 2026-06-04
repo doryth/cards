@@ -1,0 +1,131 @@
+{
+  "id": "card_8869c9",
+  "slug": "supernovae-and-neutron-stars",
+  "type": "concept",
+  "title": "Supernovae \u0026 Neutron Stars",
+  "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+  "key_points": [
+    "A massive star's core collapses when it runs out of fuel, triggering a supernova.",
+    "The explosion can briefly outshine a whole galaxy and scatter heavy elements.",
+    "What remains is often a neutron star — a teaspoon of it weighs billions of tons.",
+    "The most massive stars leave a black hole instead."
+  ],
+  "content_html": "\u003cp\u003eA massive star spends its life fending off gravity with the energy of fusion. When the fuel finally runs out, gravity wins all at once: the core collapses in a fraction of a second, and the rebound blows the star's outer layers into space in a supernova. For a few weeks the explosion can shine as brightly as billions of stars combined.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSupernovae are also cosmic factories, flinging the heavy elements made inside the star out into the galaxy. The collapsed core left behind is often a neutron star — matter crushed so hard that a single teaspoon would weigh billions of tons. If the original star was massive enough, gravity doesn't stop there and the core becomes a black hole instead. Wikipedia covers the kinds of supernovae and the exotic remnants they leave.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Supernova",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5ac508",
+      "slug": "amaterasu-particle",
+      "type": "news",
+      "title": "The Amaterasu Particle Might Not Be a Proton",
+      "hook": "One of the most energetic cosmic rays ever caught hit Earth with the energy of a thrown brick — packed into a single particle. New work says it may be a heavy nucleus, not a proton.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "card_3e5004",
+      "slug": "starburst-neutrino-factory",
+      "type": "news",
+      "title": "A Galaxy That Makes Neutrinos Without a Black Hole",
+      "hook": "Astronomers expected a feeding black hole behind a flood of cosmic neutrinos. Instead they found furious star formation — hinting dusty starburst galaxies seed the high-energy neutrino sky.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "card_da7a11",
+      "slug": "supernova-reveals-stars-hidden-layers",
+      "type": "news",
+      "title": "A Supernova That Peeled Back a Star's Layers",
+      "hook": "A rare supernova exposed material from one of the deepest layers of a dying star — a direct look inside the element factory hidden in massive stars.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-27"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8869c9#0",
+      "format": "flip",
+      "prompt": "What triggers a supernova in a massive star?",
+      "back_html": "\u003cp\u003eIts \u003cstrong\u003ecore collapses\u003c/strong\u003e once it runs out of fuel, and the outer layers blast\naway in a colossal explosion.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8869c9#1",
+      "format": "quiz",
+      "prompt": "What is left behind after many supernovae?",
+      "choices": [
+        {
+          "text": "An ultra-dense neutron star (or a black hole for the biggest stars)",
+          "correct": true
+        },
+        {
+          "text": "A cloud of cold hydrogen and nothing else",
+          "correct": false
+        },
+        {
+          "text": "An ordinary planet like Earth",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe collapsed core can become a neutron star, or for the most massive stars,\na black hole.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8869c9#2",
+      "format": "quiz",
+      "prompt": "How dense is a neutron star?",
+      "choices": [
+        {
+          "text": "So dense that a teaspoon would weigh billions of tons",
+          "correct": true
+        },
+        {
+          "text": "About the same density as ordinary rock",
+          "correct": false
+        },
+        {
+          "text": "Less dense than air",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNeutron stars pack a star's worth of mass into a city-sized ball, making them\nalmost unimaginably dense.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "card_5956c3",
+  "slug": "anthropic-agent-hardware-standard",
+  "type": "news",
+  "title": "A Plug-and-Play Standard for AI That Touches the Real World",
+  "hook": "Anthropic proposed a standard driver interface so AI agents can control physical devices — the same trick USB pulled for gadgets, aimed at robots, appliances, and sensors.",
+  "key_points": [
+    "Ars Technica reported on August 27, 2026 that Anthropic published a hardware standard for AI agents.",
+    "It's a standardized driver interface: a common language devices use to describe themselves to an AI.",
+    "The goal is for devices to talk to AI models and to each other without custom one-off integrations.",
+    "Today most agents live on screens; a shared driver layer is what would let them act on physical things.",
+    "Standards decide who gets to build on a platform — worth watching who adopts this one."
+  ],
+  "content_html": "\u003cp\u003eOn August 27, 2026, Ars Technica reported that Anthropic published a hardware standard meant to let AI agents control physical devices. The idea is a standardized driver interface — a common way for a device to tell an AI what it is and what it can do, and for devices to talk to each other through that same shared vocabulary.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe comparison that makes it click is USB. Before it, every printer and camera needed its own connector and its own bundled software. A standard replaced all that with one plug and a common language. This proposal aims at the same idea one layer up: instead of each thermostat, robot arm, or camera needing a bespoke integration with each AI product, they'd all speak one interface.\u003c/p\u003e\n\u003cp\u003eThat matters because today's AI agents mostly live on screens — browsing, filling forms, writing files. Reaching into the physical world is the harder step, and the boring plumbing is a real part of why. It's worth keeping expectations calibrated: a standard is only as useful as its adoption, and one company publishing an interface doesn't make it an industry standard. Watch who signs on. Standards also quietly set power — whoever defines the interface has a hand in what everyone else can build.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Kyle Orland"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world",
+    "published_at": "2026-08-27",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-agents",
+    "robots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-31",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af4e40",
+      "slug": "general-purpose-robot-workers",
+      "type": "news",
+      "title": "The Push for Robots That Can Do Any Job, Not Just One",
+      "hook": "Factory robots have always been narrow specialists — great at one welded joint, useless at anything else. AI is what's driving the push toward robots general enough to work almost anywhere.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_ae003a",
+      "slug": "claude-1password-integration",
+      "type": "news",
+      "title": "Claude Can Now Log Into Sites for You — Without Seeing Your Password",
+      "hook": "1Password's new integration lets Claude use your saved logins to book travel or manage accounts on its own — but the password itself is designed to never reach the AI at all.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5956c3#0",
+      "format": "flip",
+      "prompt": "What problem does a standard 'driver interface' for AI agents solve?",
+      "back_html": "\u003cp\u003eWithout one, every device needs its own custom integration. A shared interface\nlets any device describe what it can do in a way any AI agent understands.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5956c3#1",
+      "format": "quiz",
+      "prompt": "What would this standard change about what AI agents can do?",
+      "choices": [
+        {
+          "text": "Let them act on physical devices, not just software on a screen",
+          "correct": true
+        },
+        {
+          "text": "Make the underlying AI models more accurate",
+          "correct": false
+        },
+        {
+          "text": "Remove the need for the devices to have any software",
+          "correct": false
+        },
+        {
+          "text": "Let AI models run without an internet connection",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe standard is about connection, not intelligence — a common way for devices\nto expose their controls so an agent can drive them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5956c3#2",
+      "format": "flip",
+      "prompt": "Why does it matter who sets a standard like this?",
+      "back_html": "\u003cp\u003eStandards shape platforms. Whoever defines how devices talk to AI influences\nwhich companies can build on top and on what terms.\u003c/p\u003e"
+    }
+  ]
+}

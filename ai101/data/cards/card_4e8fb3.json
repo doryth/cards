@@ -1,0 +1,88 @@
+{
+  "id": "card_4e8fb3",
+  "slug": "google-discover-ai-feed",
+  "type": "news",
+  "title": "Describe the Feed You Want",
+  "hook": "Google Discover will let you tune your feed by typing what you want to see — swapping years of silent click-tracking for an instruction you write yourself.",
+  "key_points": [
+    "Google is adding a way to customize the Discover feed by describing your interests in words.",
+    "It rolls out in the Google app in the 'coming days,' via the three-dot menu on the feed.",
+    "The system will 'remember' your stated preferences for future visits.",
+    "This is the recommendation-feed version of prompting: you state intent instead of being inferred.",
+    "Worth noting: what you type becomes profile data about you, held by Google."
+  ],
+  "content_html": "\u003cp\u003eGoogle is rolling out an option in the Google app that lets you shape your Discover feed by simply describing what you'd like to see. It lives in the three-dot menu, and The Verge reports the feature will \u0026quot;remember\u0026quot; your preferences for future visits.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eFor years, recommendation feeds worked by inference: they watched what you tapped and guessed. This flips it — you say what you want in plain language, the way you'd ask a chatbot, and the feed adjusts. That's usually an improvement, because a stated interest is far less ambiguous than an accidental click. The flip side is that whatever you type becomes durable, explicit profile data held by Google, so it's worth describing the feed you want rather than narrating your private life. Details at The Verge.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "published_at": "2026-08-20",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-everyday",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-24",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_af34d5",
+      "slug": "ai-in-everyday-tools",
+      "type": "concept",
+      "title": "AI in Everyday Tools",
+      "hook": "You've used AI for years without calling it that — every time your phone unlocks with your face, your maps reroute around traffic, or your inbox filters spam.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4e8fb3#0",
+      "format": "flip",
+      "prompt": "How does Google's new Discover option change how the feed learns about you?",
+      "back_html": "\u003cp\u003eInstead of only inferring interests from what you tap, it lets you describe\nwhat you want to see in words and remembers that for later visits.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4e8fb3#1",
+      "format": "quiz",
+      "prompt": "What's the privacy trade-off in telling a feed what you want in your own words?",
+      "choices": [
+        {
+          "text": "Your stated interests become explicit profile data the company stores",
+          "correct": true
+        },
+        {
+          "text": "It disables all other personalization signals",
+          "correct": false
+        },
+        {
+          "text": "It makes your feed visible to other users",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTyped preferences are clearer than click inference — for you \u003cem\u003eand\u003c/em\u003e for Google,\nwhich keeps them to shape future visits.\u003c/p\u003e"
+    }
+  ]
+}

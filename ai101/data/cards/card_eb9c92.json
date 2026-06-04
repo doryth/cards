@@ -1,0 +1,103 @@
+{
+  "id": "card_eb9c92",
+  "slug": "over-relying-on-ai",
+  "type": "concept",
+  "title": "Over-Relying on AI",
+  "hook": "The subtle risk isn't that AI fails — it's that it usually works, so you stop checking. Trusting a confident machine over your own judgment is its own kind of mistake.",
+  "key_points": [
+    "'Automation bias': people tend to trust a confident machine over their own sense.",
+    "Skills you stop using can fade — from spelling to navigation to writing.",
+    "AI is a co-pilot, not the pilot; you keep the final say on what matters.",
+    "Build in friction: pause on high-stakes calls and verify before acting."
+  ],
+  "content_html": "\u003cp\u003eMost warnings about AI focus on its mistakes. But there's a quieter risk that shows up precisely \u003cem\u003ebecause\u003c/em\u003e it's so often right: we stop paying attention. Psychologists call it \u003cstrong\u003eautomation bias\u003c/strong\u003e — the well-documented human tendency to trust a confident automated system over our own judgment, even when something feels off. The more fluent and helpful AI becomes, the stronger the pull to just accept what it says, and the easier it is to switch off the part of your brain that should be double-checking.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis plays out in two ways. First, in the moment: people approve AI-drafted messages they didn't really read, act on summaries they didn't verify, and override a correct instinct because the machine sounded sure. Second, over time: skills you delegate can quietly atrophy — spelling once we leaned on autocorrect, sense of direction once we followed GPS everywhere, and now, for some, the ability to draft or reason something through from scratch. Neither means avoiding AI; it means using it deliberately. Keep AI in the \u003cstrong\u003eco-pilot\u003c/strong\u003e seat: let it advise and accelerate, but keep your hands on the controls for anything that matters. Build in a little friction — a pause, a \u0026quot;does this actually make sense?\u0026quot;, a verification step — exactly when the stakes are high and the temptation to coast is strongest.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Automation bias",
+    "url": "https://en.wikipedia.org/wiki/Automation_bias",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "over-reliance"
+  ],
+  "tags": [
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_74281d",
+      "slug": "fact-checking-ai",
+      "type": "concept",
+      "title": "How to Fact-Check AI",
+      "hook": "You can't tell a true AI answer from a made-up one by reading it — both sound equally sure. So build a habit: for anything that matters, verify it somewhere that isn't the AI.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af049a",
+      "slug": "using-ai-responsibly",
+      "type": "concept",
+      "title": "Using AI Responsibly",
+      "hook": "The point of AI literacy isn't to use AI for everything — it's to use it well: check its work, be honest that you used it, and know the moments to put it down.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_eb9c92#0",
+      "format": "quiz",
+      "prompt": "What is 'automation bias'?",
+      "choices": [
+        {
+          "text": "The tendency to trust an automated system over your own judgment",
+          "correct": true
+        },
+        {
+          "text": "A setting that makes AI run automatically",
+          "correct": false
+        },
+        {
+          "text": "When AI prefers some users over others",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAutomation bias is our habit of deferring to a confident machine even when\nwe have good reason to doubt it — a key risk as AI gets more persuasive.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eb9c92#1",
+      "format": "flip",
+      "prompt": "What's a good mental role for AI in your decisions?",
+      "back_html": "\u003cp\u003eCo-pilot, not pilot. It can advise and speed you up, but you keep the\ncontrols and the final say — especially when stakes are high.\u003c/p\u003e"
+    }
+  ]
+}

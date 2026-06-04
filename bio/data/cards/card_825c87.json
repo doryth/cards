@@ -1,0 +1,99 @@
+{
+  "id": "card_825c87",
+  "slug": "allergies-and-autoimmunity",
+  "type": "concept",
+  "title": "Allergies and Autoimmunity",
+  "hook": "A defense system this powerful can misfire — attacking harmless pollen as if it were a plague, or turning its weapons on the very body it's meant to protect.",
+  "key_points": [
+    "The immune system normally distinguishes harmful invaders from harmless things and from the body's own cells.",
+    "An allergy is an overreaction to a harmless substance, like pollen, food, or pet dander.",
+    "Autoimmunity is when the immune system mistakenly attacks the body's own healthy tissue.",
+    "Examples of autoimmune disease include type 1 diabetes, rheumatoid arthritis, and lupus."
+  ],
+  "content_html": "\u003cp\u003eThe immune system's great skill is telling friend from foe — distinguishing dangerous invaders from harmless substances and from your own cells. When that judgment slips, the same defenses that protect you can cause harm. Two ways it misfires are allergies and autoimmunity.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn an allergy, the immune system overreacts to something that poses no real threat — pollen, a particular food, pet dander — treating it as an invader and triggering symptoms from sneezing and itching to, in severe cases, dangerous whole-body reactions. Autoimmunity is the more troubling failure: the system loses the ability to recognize self, and attacks the body's own healthy tissue. Depending on what it targets, the result can be type 1 diabetes (attacking insulin-making cells), rheumatoid arthritis (attacking joints), or lupus (attacking many tissues at once). NIH MedlinePlus's overview of autoimmune diseases explains how this loss of self-tolerance drives a wide range of chronic conditions.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/autoimmunediseases.html",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "immune-system"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b56025",
+      "slug": "how-immunity-works",
+      "type": "concept",
+      "title": "How Immunity Works",
+      "hook": "Your body fights invaders on two fronts: a fast, general first response that hits anything foreign, and a slower, custom-built defense that learns and remembers each specific enemy.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2e3e5a",
+      "slug": "antibodies-and-immune-memory",
+      "type": "concept",
+      "title": "Antibodies and Immune Memory",
+      "hook": "The first time a germ infects you, your body fights from scratch. The second time, it remembers — and crushes the invader before you ever feel sick.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_825c87#0",
+      "format": "quiz",
+      "prompt": "What is an allergy, in immune terms?",
+      "choices": [
+        {
+          "text": "An overreaction of the immune system to a normally harmless substance",
+          "correct": true
+        },
+        {
+          "text": "A complete failure of the immune system to respond to anything",
+          "correct": false
+        },
+        {
+          "text": "An infection caused by pollen entering the bloodstream",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn an allergy, the immune system treats something harmless — pollen, a food, pet dander —\nas a threat and mounts a response, causing symptoms like sneezing, itching, or swelling.\u003c/p\u003e"
+    },
+    {
+      "id": "card_825c87#1",
+      "format": "flip",
+      "prompt": "What goes wrong in an autoimmune disease?",
+      "back_html": "\u003cp\u003eThe immune system mistakes the body's \u003cstrong\u003eown healthy tissue\u003c/strong\u003e for an invader and\nattacks it. Examples include type 1 diabetes, rheumatoid arthritis, and lupus.\u003c/p\u003e"
+    },
+    {
+      "id": "card_825c87#2",
+      "format": "quiz",
+      "prompt": "What is the key difference between an allergy and an autoimmune disease?",
+      "choices": [
+        {
+          "text": "An allergy targets a harmless outside substance; autoimmunity targets the body's own cells",
+          "correct": true
+        },
+        {
+          "text": "Allergies only affect children; autoimmunity only affects adults",
+          "correct": false
+        },
+        {
+          "text": "Allergies are infections, while autoimmune diseases are not",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth are the immune system reacting where it shouldn't. An allergy overreacts to an\nexternal harmless thing; autoimmunity attacks the body's own healthy tissue.\u003c/p\u003e"
+    }
+  ]
+}

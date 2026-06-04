@@ -1,0 +1,106 @@
+{
+  "id": "card_9dc80c",
+  "slug": "prior-authorization-ai-medicare",
+  "type": "news",
+  "title": "Medicare Is Testing AI to Decide If Your Care Gets Approved",
+  "hook": "A federal pilot is using AI to help decide whether Medicare pays for certain treatments — and the company running it earns more the more claims it turns down.",
+  "key_points": [
+    "CMS's WISeR pilot uses AI plus human review to screen prior-authorization requests in traditional Medicare.",
+    "It's running in six states: New Jersey, Ohio, Oklahoma, Texas, Arizona, and Washington.",
+    "Vendors are paid a share of 'averted expenditures' — money saved by denying or reducing claims.",
+    "In Texas, only 62% of requests were approved by the AI stage, rising to 84% after human review.",
+    "Patient advocates and lawmakers warn the incentive structure could reward denying legitimate care."
+  ],
+  "content_html": "\u003cp\u003ePrior authorization — getting insurer sign-off before a treatment is covered — is already one of the most-hated parts of American healthcare. Now the federal government is testing whether AI can help run it. Ars Technica (via Undark Magazine) reports that CMS's WISeR pilot uses AI, backed by human review, to screen select prior-authorization requests in traditional Medicare across six states: New Jersey, Ohio, Oklahoma, Texas, Arizona, and Washington.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe detail that's drawing the most scrutiny is how the vendors running the AI get paid: they earn a share of \u0026quot;averted expenditures\u0026quot; — in plain terms, the money saved when a claim is denied or scaled back. That's a direct financial incentive to find reasons to say no, and it's exactly the kind of misaligned incentive that worries patient advocates and lawmakers watching the pilot. The numbers so far give some evidence for concern: in Texas, only 62% of requests were approved at the AI stage, but that number jumped to 84% once a human reviewer took a second look — suggesting the AI's first pass was rejecting a meaningful share of requests a person would have approved. Supporters argue AI could speed up a notoriously slow process and cut genuine waste; critics counter that when the AI is paid to deny, \u0026quot;efficiency\u0026quot; and \u0026quot;care denied\u0026quot; can end up looking identical on the balance sheet. Either way, it's a concrete, high-stakes example of a decision affecting your care now running partly through a model — with a financial thumb already on the scale.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Joshua Cohen, Undark Magazine"
+    ],
+    "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+    "published_at": "2026-07-18",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-hiring",
+    "ai-healthcare",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-18",
+  "related": [
+    {
+      "id": "card_fc554a",
+      "slug": "being-judged-by-ai",
+      "type": "concept",
+      "title": "Being Judged by AI",
+      "hook": "An algorithm may now screen your résumé, score your loan, or rank your rental application before any human sees it. Knowing that — and your rights — is the first step to a fair shot.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eb781a",
+      "slug": "ai-in-healthcare",
+      "type": "concept",
+      "title": "AI in Healthcare",
+      "hook": "AI can spot a tumor on a scan faster than a tired radiologist and flag patterns no one would catch by eye. It's a powerful assistant to doctors — not a replacement for one.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_fc554a",
+      "slug": "being-judged-by-ai",
+      "type": "concept",
+      "title": "Being Judged by AI",
+      "hook": "An algorithm may now screen your résumé, score your loan, or rank your rental application before any human sees it. Knowing that — and your rights — is the first step to a fair shot.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_9dc80c#0",
+      "format": "quiz",
+      "prompt": "What's the core conflict-of-interest concern with the WISeR Medicare AI pilot?",
+      "choices": [
+        {
+          "text": "Vendors are paid a cut of the money saved by denying or reducing claims",
+          "correct": true
+        },
+        {
+          "text": "The AI has no human oversight at all",
+          "correct": false
+        },
+        {
+          "text": "It only applies to private insurance, not Medicare",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe vendors running the AI earn more the more claims they turn down or\nreduce — a financial incentive that critics say could push toward over-denial.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9dc80c#1",
+      "format": "flip",
+      "prompt": "What happened to approval rates in Texas once a human reviewed AI-flagged requests?",
+      "back_html": "\u003cp\u003eThe AI stage approved only 62% of requests; that rose to 84% once a human\nreviewer looked — a big gap that raises questions about the AI's first pass.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9dc80c#2",
+      "format": "flip",
+      "prompt": "Which government program is piloting this AI-assisted prior authorization?",
+      "back_html": "\u003cp\u003eCMS's WISeR pilot, testing AI plus human review on select traditional\nMedicare requests across six US states.\u003c/p\u003e"
+    }
+  ]
+}

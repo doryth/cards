@@ -1,0 +1,93 @@
+{
+  "id": "card_a564fe",
+  "slug": "fractal-uncertainty-principle",
+  "type": "blog",
+  "title": "A Fractal Uncertainty Principle, Finally Proved in Every Dimension",
+  "hook": "Heisenberg says you can't be sharp in position and momentum at once. A cousin of that rule says a wave can't look fractal in both — and a graduate student just proved it in all dimensions.",
+  "key_points": [
+    "The fractal uncertainty principle says that if you add up waves whose frequencies form a fractal-like set, the resulting curve cannot itself look fractal.",
+    "It is a tradeoff between position and frequency, like Heisenberg's, but about porous fractal structure instead of sharpness.",
+    "Semyon Dyatlov and Jean Bourgain proved the one-dimensional case in 2016.",
+    "Alex Cohen, then an MIT doctoral student, extended the proof to all higher dimensions, published in the Annals of Mathematics in 2025.",
+    "His key device is 'line porosity' — demanding that any line drawn through the fractal hits many holes, which rules out awkward cases like the Sierpinski carpet.",
+    "The physical payoff: quantum particles cannot stay trapped on fractal-dust trajectories the way classical objects can."
+  ],
+  "content_html": "\u003cp\u003eHeisenberg's uncertainty principle is the famous member of a family: sharpen a wave in position and it smears in frequency, and vice versa. The fractal uncertainty principle is a stranger relative. It concerns waves built from frequencies that form a fractal — a set riddled with holes at every scale — and it asserts that the resulting curve cannot also look fractal. Porous in frequency means smooth in position, or the other way round, but never both.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSemyon Dyatlov and Jean Bourgain proved the statement for one-dimensional fractals in 2016, and it has been called a foundational result because of what it implies: in a chaotic system, a classical object can remain trapped forever on a fractal dust of trajectories, but a quantum wave cannot. Higher dimensions resisted for years. As Quanta Magazine reports, Alex Cohen — a doctoral student at MIT at the time, and 25 when the work landed him a professorship at NYU — closed the gap in a paper published in the Annals of Mathematics in 2025. His central move was to tighten the notion of a hole-riddled set into what he calls line porosity: any straight line drawn through the fractal must run into many gaps. That excludes shapes like the standard Sierpinski carpet, which hides unbroken lines inside it and would otherwise break the argument. Beyond chaos, the result gives a handle on how waves behave in hyperbolic spaces and may feed into the 1994 Sarnak-Rudnick conjecture on how uniformly waves spread in chaotic systems.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Shalma Wegsman"
+    ],
+    "url": "https://quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812",
+    "published_at": "2026-08-12",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a564fe#0",
+      "format": "flip",
+      "prompt": "What does the fractal uncertainty principle forbid?",
+      "back_html": "\u003cp\u003eA function cannot be fractal-like in \u003cstrong\u003eboth\u003c/strong\u003e position and frequency: build a wave\nfrom a fractal set of frequencies and the resulting curve can't look fractal too.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a564fe#1",
+      "format": "quiz",
+      "prompt": "What did Alex Cohen add beyond the 2016 one-dimensional result?",
+      "choices": [
+        {
+          "text": "A proof valid in all higher dimensions, using a stricter 'line porosity' condition",
+          "correct": true
+        },
+        {
+          "text": "A counterexample showing the principle fails in three dimensions",
+          "correct": false
+        },
+        {
+          "text": "An experimental measurement of fractal wave trapping",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDyatlov and Bourgain settled one dimension in 2016; Cohen's Annals of Mathematics\npaper extended it to every dimension, requiring that any line through the fractal\nmeet many holes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a564fe#2",
+      "format": "flip",
+      "prompt": "Why does this say something about quantum versus classical chaos?",
+      "back_html": "\u003cp\u003eClassical objects can stay stuck on fractal-dust paths in a chaotic system; the\nprinciple shows quantum waves \u003cstrong\u003ecannot\u003c/strong\u003e, so the two kinds of chaos differ at the\nroot.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "card_21c32c",
+  "slug": "ai-text-messages-and-campaigns",
+  "type": "news",
+  "title": "When a 'Candidate' Texting You Is Actually a Bot",
+  "hook": "Campaigns have always texted voters. Now some of those texts are AI-generated conversations trained to sound like the candidate — personalized, responsive, and not always clearly labeled.",
+  "key_points": [
+    "Political campaigns have long used mass texting to reach voters; what's new is AI generating personalized, back-and-forth conversations rather than a single canned message.",
+    "These bots are trained to sound like a specific candidate, adapting replies to what a voter writes back.",
+    "Existing rules on political texting (like consent and opt-out requirements) were written for human-sent or scripted messages, not adaptive AI conversations.",
+    "Ethical concerns center on disclosure: whether voters are told they're talking to a bot, and how their replies and data get used.",
+    "The same underlying tension as other AI-in-politics debates: a genuinely useful outreach tool can also be a more convincing vector for manipulation if it isn't transparent."
+  ],
+  "content_html": "\u003cp\u003eGetting a text from a campaign is nothing new. What's changed is what's on the other end of it: some campaigns now deploy AI trained to sound like the candidate, holding a personalized, responsive conversation with a voter rather than sending one fixed message to everyone.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's Maham Javaid reports that these bots adapt their replies to what a voter actually writes back, making the outreach feel more like a real conversation than a mass blast — which is exactly what raises the ethical question. Rules built around consent and opt-outs for political texting were written with a human sender or a scripted message in mind, not an AI system generating a live, tailored back-and-forth. The concern isn't that campaigns are talking to voters; it's whether voters know who — or what — they're actually talking to, a version of the disclosure problem that runs through every new AI-in-politics tool. (This card describes AI-driven political text campaigns in general; specific disclosure rules vary by jurisdiction.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Maham Javaid"
+    ],
+    "url": "https://npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
+    "published_at": "2026-07-12",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "technology-and-politics",
+    "media-civil-society"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-12",
+  "related": [
+    {
+      "id": "card_c16f42",
+      "slug": "disinformation-and-propaganda",
+      "type": "concept",
+      "title": "Disinformation \u0026 Propaganda",
+      "hook": "Democracy depends on citizens being informed — so deliberately polluting what they know is a direct attack on it. That's the threat of propaganda and disinformation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0d397a",
+      "slug": "public-opinion-and-polling",
+      "type": "concept",
+      "title": "Public Opinion \u0026 Polling",
+      "hook": "What 'the people' think shapes what governments do — but measuring it is trickier than it looks, and a bad poll can mislead as easily as a good one informs.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_c16f42",
+      "slug": "disinformation-and-propaganda",
+      "type": "concept",
+      "title": "Disinformation \u0026 Propaganda",
+      "hook": "Democracy depends on citizens being informed — so deliberately polluting what they know is a direct attack on it. That's the threat of propaganda and disinformation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_21c32c#0",
+      "format": "flip",
+      "prompt": "What's new about AI-generated political text messages, compared to older campaign texting?",
+      "back_html": "\u003cp\u003eOlder campaign texts were scripted or human-sent; AI-generated texts\nhold a personalized, adaptive conversation trained to sound like the\ncandidate, responding to whatever the voter writes back.\u003c/p\u003e"
+    },
+    {
+      "id": "card_21c32c#1",
+      "format": "quiz",
+      "prompt": "Why do existing political-texting rules not neatly cover AI conversation bots?",
+      "choices": [
+        {
+          "text": "Those rules were written assuming a human-sent or fixed scripted message, not an adaptive AI conversation",
+          "correct": true
+        },
+        {
+          "text": "Political texting has never been regulated in any way",
+          "correct": false
+        },
+        {
+          "text": "AI-generated texts are automatically illegal under current law",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe regulatory gap is about fit, not a total absence of rules — consent\nand opt-out requirements exist, but weren't designed with adaptive AI\nconversations in mind.\u003c/p\u003e"
+    },
+    {
+      "id": "card_21c32c#2",
+      "format": "quiz",
+      "prompt": "What's the central ethical concern raised about AI campaign texting?",
+      "choices": [
+        {
+          "text": "Whether voters are clearly told they're conversing with a bot, not a person",
+          "correct": true
+        },
+        {
+          "text": "Whether campaigns are allowed to text voters at all",
+          "correct": false
+        },
+        {
+          "text": "Whether AI bots can legally be registered to vote",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDisclosure and transparency — not the mere existence of the\ntechnology — are what critics are raising concerns about.\u003c/p\u003e"
+    }
+  ]
+}

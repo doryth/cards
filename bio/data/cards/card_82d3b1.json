@@ -1,0 +1,101 @@
+{
+  "id": "card_82d3b1",
+  "slug": "genes-and-traits",
+  "type": "concept",
+  "title": "How Genes Become Traits",
+  "hook": "You inherit two copies of every gene — one from each parent — and the way those copies interact helps decide everything from eye color to blood type.",
+  "key_points": [
+    "Most organisms carry two copies of each gene, one from each parent.",
+    "Different versions of a gene are called alleles.",
+    "A dominant allele shows its effect even when paired with a recessive one.",
+    "A recessive trait only appears when both copies are the recessive allele."
+  ],
+  "content_html": "\u003cp\u003eGenes are the units of inheritance, and for most organisms they come in pairs — you get one copy of each gene from your mother and one from your father. The different versions a gene can take are called alleles. When the two alleles you inherit disagree, something has to give, and Gregor Mendel worked out the basic rules in the 1860s by breeding pea plants.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMendel's key insight was dominance. A dominant allele shows its effect even if its partner is different, while a recessive allele only reveals itself when both copies match. That's why two brown-eyed parents can have a blue-eyed child: each parent carried a hidden recessive allele and happened to pass it along. Reality is often messier — many traits involve several genes, and some alleles blend rather than dominate — but Mendel's dominant-and-recessive framework is still the foundation for understanding heredity. Britannica lays out the classic experiments and ratios.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/heredity-genetics/Mendelian-genetics",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_89dd5d",
+      "slug": "natural-selection",
+      "type": "concept",
+      "title": "Natural Selection",
+      "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_82d3b1#0",
+      "format": "flip",
+      "prompt": "What is an allele?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003eversion\u003c/strong\u003e of a gene. For a given gene you inherit two alleles — one from\neach parent — and they may be the same or different.\u003c/p\u003e"
+    },
+    {
+      "id": "card_82d3b1#1",
+      "format": "quiz",
+      "prompt": "A recessive trait appears in an organism only when...",
+      "choices": [
+        {
+          "text": "both copies of the gene are the recessive allele",
+          "correct": true
+        },
+        {
+          "text": "at least one copy is the recessive allele",
+          "correct": false
+        },
+        {
+          "text": "the dominant allele is also present",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA single dominant allele masks a recessive one, so the recessive trait shows\nup only when both alleles are recessive.\u003c/p\u003e"
+    },
+    {
+      "id": "card_82d3b1#2",
+      "format": "quiz",
+      "prompt": "Does carrying a recessive allele mean its trait must be visible?",
+      "choices": [
+        {
+          "text": "No — it can be hidden by a dominant allele on the other copy",
+          "correct": true
+        },
+        {
+          "text": "Yes — every allele you carry is always expressed",
+          "correct": false
+        },
+        {
+          "text": "Yes — recessive alleles are always stronger",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYou can carry a recessive allele without showing its trait; a dominant partner\nallele masks it, and you simply pass the hidden copy on.\u003c/p\u003e"
+    }
+  ]
+}

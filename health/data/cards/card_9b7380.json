@@ -1,0 +1,81 @@
+{
+  "id": "card_9b7380",
+  "slug": "glp1-and-breast-cancer-risk",
+  "type": "news",
+  "title": "GLP-1 Drugs Linked to Lower Breast Cancer Risk",
+  "hook": "A large study found women on GLP-1 drugs were about 30% less likely to develop breast cancer — a promising association, not yet proof, with trials now being planned to test it.",
+  "key_points": [
+    "Women taking GLP-1 drugs (the class behind Ozempic, Wegovy, Mounjaro, Zepbound) were ~30% less likely to develop breast cancer.",
+    "It's an observational link — promising, but not proof the drugs prevent cancer.",
+    "Clinical trials are now being planned to test the idea directly.",
+    "Adds to a growing list of possible health effects of GLP-1 drugs beyond weight and blood sugar."
+  ],
+  "content_html": "\u003cp\u003eGLP-1 drugs keep turning up in surprising places. A large study now reports that women taking these medications — the class behind Ozempic, Wegovy, Mounjaro, and Zepbound — were about 30% less likely to develop breast cancer. Researchers describe the finding as promising, but stop well short of calling it proof.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe reason for caution is the study design. As ScienceDaily notes, this is an observational analysis: it watches what happens to people already prescribed the drugs, so it can reveal a link but can't rule out that those women differed in other ways — weight, overall health, or screening habits — that might explain the lower rate.\u003c/p\u003e\n\u003cp\u003eThat's why the researchers say clinical trials are now being planned to test the question head-on. It's a recurring pattern with GLP-1 medications: intriguing associations show up in large datasets, and only carefully designed trials can tell whether the drug is doing the work. For now, this is a lead worth following, not a reason to take a diabetes or weight-loss drug for cancer prevention.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260605023400.htm",
+    "published_at": "2026-06-06",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "womens-health"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-08",
+  "date": "2026-06-06",
+  "related": [
+    {
+      "id": "card_b379a7",
+      "slug": "glp1-beyond-weight-loss",
+      "type": "news",
+      "title": "GLP-1 Drugs Linked to Lower Addiction Risk",
+      "hook": "A study of ~600,000 U.S. veterans links GLP-1 drugs like semaglutide to lower rates of addiction and overdose — an association, not proof that the drugs cause the effect.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_427b95",
+      "slug": "cancer-screenings-worth-knowing",
+      "type": "concept",
+      "title": "Cancer Screenings Worth Knowing",
+      "hook": "Screening looks for cancer before symptoms start — and for a few common cancers, that early catch dramatically improves the odds.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9b7380#0",
+      "format": "flip",
+      "prompt": "What's the key caveat behind 'GLP-1 drugs cut breast cancer risk by 30%'?",
+      "back_html": "\u003cp\u003eIt's an \u003cstrong\u003eobservational association\u003c/strong\u003e, not proof the drugs prevent breast cancer.\nResearchers call it promising and are planning clinical trials to test whether the\nlink is real and causal.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9b7380#1",
+      "format": "quiz",
+      "prompt": "What did this large study find about women taking GLP-1 drugs?",
+      "choices": [
+        {
+          "text": "About 30% lower breast cancer risk — an association, not proof",
+          "correct": true
+        },
+        {
+          "text": "Proof that GLP-1 drugs prevent breast cancer",
+          "correct": false
+        },
+        {
+          "text": "A higher risk of developing breast cancer",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study linked GLP-1 use to roughly 30% lower breast cancer risk. Because it's\nobservational, it shows a correlation; trials are planned to test cause and effect.\u003c/p\u003e"
+    }
+  ]
+}

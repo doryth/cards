@@ -1,0 +1,119 @@
+{
+  "id": "card_18636c",
+  "slug": "cosmic-dipole-anomaly",
+  "type": "news",
+  "title": "Is the Universe Actually Lopsided?",
+  "hook": "Cosmology's standard model assumes the universe looks the same in every direction on the largest scales. A contested analysis argues the distribution of distant galaxies quietly fails that test.",
+  "key_points": [
+    "The cosmic microwave background shows one side of the sky about one part in a thousand hotter than the other — a well-established 'CMB dipole.'",
+    "Standard cosmology predicts that the distribution of distant galaxies and quasars should show a matching dipole, for the same underlying reason.",
+    "A team led by Subir Sarkar (Oxford) argues that when tested (the Ellis-Baldwin test) on distant radio galaxies and quasars, the two dipoles don't line up.",
+    "If confirmed, this would undercut the assumption that the universe is isotropic on large scales — a foundation of the standard ΛCDM model — though the claim remains debated."
+  ],
+  "content_html": "\u003cp\u003eModern cosmology rests on the assumption that, averaged over large enough scales, the universe looks roughly the same in every direction — no special axis, no lopsidedness. One famous piece of evidence for a \u0026quot;grain\u0026quot; in that smoothness is the cosmic microwave background's dipole: one side of the sky's afterglow radiation reads about one part in a thousand hotter than the other, usually explained as our own galaxy's motion relative to the early universe.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIf that explanation is right, the distribution of very distant galaxies and quasars should show a matching dipole pointing the same way, since it stems from the same underlying motion. A team led by Subir Sarkar (emeritus, University of Oxford), with Nathan Secrest, Sebastian von Hausegger, Mohamed Rameez, and Roya Mohayaee, applied the classic Ellis-Baldwin test to catalogs of distant radio galaxies and quasars — drawing on both ground-based radio telescopes and satellite mid-infrared surveys — and reports that the two dipoles don't line up as expected. The group argues this failure is arguably a more fundamental problem than the well-known Hubble tension, since it strikes at the assumption of cosmic isotropy itself rather than just a disputed expansion rate. If the mismatch holds up, it would force a rethink of the standard ΛCDM model's underlying geometry; for now, the result is real published research — in \u003cem\u003eReviews of Modern Physics\u003c/em\u003e — but remains a contested minority position within cosmology, not an accepted revision of the standard model.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260622014308.htm",
+    "published_at": "2026-07-07",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_0ac579",
+      "slug": "hubble-tension",
+      "type": "paper",
+      "title": "The Hubble Tension: Cosmology's Stubborn Crisis",
+      "hook": "Two trustworthy ways of measuring how fast the universe expands keep disagreeing — and a decade of cross-checks has only hardened the gap into a genuine crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_461ffa",
+      "slug": "cosmic-microwave-background",
+      "type": "concept",
+      "title": "The Cosmic Microwave Background",
+      "hook": "The oldest light we can see is a faint glow filling all of space — released when the infant universe first cooled enough to become transparent, about 380,000 years after the Big Bang.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a212b1",
+      "slug": "webb-new-universe-puzzle",
+      "type": "news",
+      "title": "Why Does Webb Keep Finding Things That Shouldn't Exist?",
+      "hook": "JWST keeps spotting early black holes and galaxies that are too big, too bright, or too early to fit standard models — and cosmologists are racing to figure out which of many new theories is right.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_461ffa",
+      "slug": "cosmic-microwave-background",
+      "type": "concept",
+      "title": "The Cosmic Microwave Background",
+      "hook": "The oldest light we can see is a faint glow filling all of space — released when the infant universe first cooled enough to become transparent, about 380,000 years after the Big Bang.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_18636c#0",
+      "format": "flip",
+      "prompt": "What is the 'CMB dipole,' and how big is it?",
+      "back_html": "\u003cp\u003eA pattern in the cosmic microwave background where one side of the sky is roughly\n\u003cstrong\u003eone part in a thousand hotter\u003c/strong\u003e than the opposite side.\u003c/p\u003e"
+    },
+    {
+      "id": "card_18636c#1",
+      "format": "quiz",
+      "prompt": "What test did Sarkar's team use to check whether distant galaxies show a matching dipole?",
+      "choices": [
+        {
+          "text": "The Ellis-Baldwin test, applied to distant radio galaxies and quasars",
+          "correct": true
+        },
+        {
+          "text": "Direct imaging of the cosmic microwave background alone",
+          "correct": false
+        },
+        {
+          "text": "Measuring the redshift of a single nearby galaxy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Ellis-Baldwin test compares how matter (galaxies, quasars) is distributed across the\nsky against the CMB's own dipole pattern, using independent radio and infrared surveys.\u003c/p\u003e"
+    },
+    {
+      "id": "card_18636c#2",
+      "format": "flip",
+      "prompt": "What would it mean for cosmology if the two dipoles genuinely don't match — and how solid is that claim?",
+      "back_html": "\u003cp\u003eIt would challenge the assumption that the universe is \u003cstrong\u003eisotropic\u003c/strong\u003e (the same in every\ndirection) on the largest scales — a pillar of the standard ΛCDM model. The claim is\nreal research but remains \u003cstrong\u003edebated\u003c/strong\u003e, not settled consensus.\u003c/p\u003e"
+    }
+  ]
+}

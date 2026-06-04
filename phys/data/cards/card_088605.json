@@ -1,0 +1,126 @@
+{
+  "id": "card_088605",
+  "slug": "bekenstein-hod-bound-tested",
+  "type": "paper",
+  "title": "A Black Hole Obeys an Information Speed Limit",
+  "hook": "There is a theoretical floor on how fast a black hole can settle down after being disturbed. Using the loudest merger yet recorded, GW250114, a team confirms it at the 3.3-sigma level.",
+  "key_points": [
+    "The Bekenstein-Hod bound sets a minimum relaxation time for a perturbed system at a given temperature.",
+    "Testing it on a black hole needs both its thermodynamic temperature and its measured decay time.",
+    "The team used GW250114, the loudest binary black-hole signal observed to date.",
+    "Remnant temperature came from pre-merger data truncated at least 10 M before the peak; the decay time from post-merger data.",
+    "Splitting the data that way avoids reusing the same strain samples for both halves of the test.",
+    "Result: the bound is verified at 3.3-3.6 sigma, up from the 91% confidence level reached with GW150914."
+  ],
+  "content_html": "\u003cp\u003eBlack holes are where gravity, thermodynamics and information theory meet. One expression of that\noverlap is the Bekenstein-Hod bound: a perturbed system at a given temperature has a floor on how\nquickly it can relax back to equilibrium. For a black hole, that means the ringdown — the fading\nwobble after a merger — cannot damp arbitrarily fast.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTurning that into an observational test requires two independent numbers: the remnant's\nthermodynamic temperature, and how long its longest-lived ringdown mode takes to decay. Wang,\nTang and Fan get them from separate stretches of GW250114, the loudest binary black-hole signal\nrecorded so far. Temperature is inferred from pre-merger data truncated at least 10 M before the\npeak; the decay time from post-merger data, with ringdown frequencies and damping times allowed\nto float freely instead of being locked to the Kerr spectrum. Keeping the two measurements on\ndisjoint samples is what makes the comparison meaningful. For their primary analysis, the bound\nholds at 3.3-3.6 sigma across the ringdown start times considered — a large step up from the 91%\nconfidence level GW150914 allowed — and the authors report it survives varied pre-merger cutoffs\nand the explicit inclusion of the first overtone.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Hai-Tian Wang",
+      "Shao-Peng Tang",
+      "Yi-Zhong Fan"
+    ],
+    "url": "https://arxiv.org/abs/2608.31039",
+    "published_at": "2026-08-31",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-08-31",
+  "related": [
+    {
+      "id": "card_b01732",
+      "slug": "ringdown-test-of-black-hole-no-hair",
+      "type": "paper",
+      "title": "Precision Ringdown Measurements of Binary Black Hole Remnants",
+      "hook": "After two black holes merge, the remnant 'rings' like a struck bell — general relativity says that tone depends only on its mass and spin. A sharper measurement says: still true.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_30a04a",
+      "slug": "black-hole-laws-get-a-dynamical-upgrade",
+      "type": "news",
+      "title": "Hawking's Black Hole Laws Get a Real-World Upgrade",
+      "hook": "Hawking's famous black hole laws only strictly work for black holes frozen in perfect equilibrium. A new framework extends them to real black holes that merge, grow, and evaporate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_ee5ecb",
+      "slug": "black-hole-area-law-population-test",
+      "type": "paper",
+      "title": "Testing Hawking's Area Law on 241 Mergers",
+      "hook": "Black-hole horizons can never shrink — a theorem checked so far on a handful of loud events. Sorting a whole catalogue into first- and second-generation black holes turns it into a population test.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_088605#0",
+      "format": "flip",
+      "prompt": "What does the Bekenstein-Hod bound assert?",
+      "back_html": "\u003cp\u003eThat a perturbed system at a given temperature cannot relax back to equilibrium faster than\na certain minimum time — an information-theoretic speed limit on settling down.\u003c/p\u003e"
+    },
+    {
+      "id": "card_088605#1",
+      "format": "quiz",
+      "prompt": "Why did the team infer the temperature and the decay time from different segments of the signal?",
+      "choices": [
+        {
+          "text": "To avoid reusing the same strain samples for both sides of the test",
+          "correct": true
+        },
+        {
+          "text": "Because the detectors only record temperature before the merger",
+          "correct": false
+        },
+        {
+          "text": "Because the ringdown carries no information about the remnant",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTemperature came from pre-merger data cut at least 10 M before the peak, the decay time from\npost-merger data, so the two inputs to the bound are statistically independent.\u003c/p\u003e"
+    },
+    {
+      "id": "card_088605#2",
+      "format": "flip",
+      "prompt": "How much better is this test than the earlier one with GW150914?",
+      "back_html": "\u003cp\u003eGW150914 supported the bound only at the 91% confidence level; GW250114 verifies it at\n3.3-3.6 sigma across the ringdown start times examined.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "card_7dcbda",
+  "slug": "due-process",
+  "type": "concept",
+  "title": "Due Process",
+  "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+  "key_points": [
+    "Due process requires the state to follow fair, established procedures before depriving anyone of life, liberty, or property.",
+    "Core guarantees: notice of the charge, a fair hearing, and an impartial decision-maker.",
+    "It is a practical expression of the rule of law — limits applied to power in individual cases.",
+    "It protects everyone, including the unpopular and the guilty, from arbitrary punishment."
+  ],
+  "content_html": "\u003cp\u003eDue process is the principle that the state cannot deprive a person of life, liberty, or property arbitrarily — it must first follow fair, established procedures. It answers a basic worry about power: even a government acting under law could ruin someone simply by skipping the steps, jailing a person with no hearing or seizing property with no chance to respond. Due process closes that gap by insisting that \u003cem\u003ehow\u003c/em\u003e the state acts against an individual matters as much as \u003cem\u003ewhat\u003c/em\u003e rule it invokes.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn practice this means a cluster of procedural guarantees: being told the charge or claim against you (notice), a genuine opportunity to be heard and to contest the evidence (a fair hearing), and a decision made by an impartial authority rather than an interested party. Encyclopaedia Britannica notes the idea traces back centuries to the principle that no one should be punished except \u0026quot;by the law of the land.\u0026quot; Due process is, in effect, the rule of law brought down to the level of the individual case — the point where abstract limits on power become concrete protections for a particular person. Crucially, it protects everyone, including the unpopular and even the guilty, because a procedure that can be denied to them can be denied to anyone.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/due-process",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_766f74",
+      "slug": "rule-of-law",
+      "type": "concept",
+      "title": "The Rule of Law",
+      "hook": "The principle that everyone — including those in power — is bound by the same publicly known laws, applied equally.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_23f435",
+      "slug": "dna-evidence-and-statutes-of-limitations",
+      "type": "news",
+      "title": "When DNA Evidence Outlasts the Statute of Limitations",
+      "hook": "A crime can go unprosecuted forever once its statute of limitations runs out — even if DNA later identifies a suspect. Massachusetts is one of the last states moving to close that gap.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_766f74",
+      "slug": "rule-of-law",
+      "type": "concept",
+      "title": "The Rule of Law",
+      "hook": "The principle that everyone — including those in power — is bound by the same publicly known laws, applied equally.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_7dcbda#0",
+      "format": "flip",
+      "prompt": "What does due process require of the state?",
+      "back_html": "\u003cp\u003eThat it follow \u003cstrong\u003efair, established procedures\u003c/strong\u003e — notice, a fair hearing,\nan impartial decision-maker — before depriving anyone of life, liberty,\nor property.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7dcbda#1",
+      "format": "quiz",
+      "prompt": "Which of these is a core due-process guarantee?",
+      "choices": [
+        {
+          "text": "Notice of the charge and a fair hearing before an impartial decision-maker",
+          "correct": true
+        },
+        {
+          "text": "A guarantee that the accused always goes free",
+          "correct": false
+        },
+        {
+          "text": "The right to choose which laws apply to you",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDue process is about fair procedure — being told the case against you and\ngetting an impartial hearing — not about guaranteeing any particular outcome.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7dcbda#2",
+      "format": "quiz",
+      "prompt": "How does due process relate to the rule of law?",
+      "choices": [
+        {
+          "text": "It is the rule of law applied to individual cases, limiting arbitrary state action",
+          "correct": true
+        },
+        {
+          "text": "It replaces the rule of law with official discretion",
+          "correct": false
+        },
+        {
+          "text": "It applies only to government officials, not ordinary people",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDue process operationalizes the rule of law case by case, ensuring power\nis exercised through fair rules rather than arbitrary will.\u003c/p\u003e"
+    }
+  ]
+}

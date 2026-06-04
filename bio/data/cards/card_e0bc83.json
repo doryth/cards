@@ -1,0 +1,109 @@
+{
+  "id": "card_e0bc83",
+  "slug": "dna-sequencing-and-the-genome",
+  "type": "concept",
+  "title": "DNA Sequencing and the Genome",
+  "hook": "Sequencing reads the exact order of the letters in DNA — and the Human Genome Project read all 3 billion of ours for the first time.",
+  "key_points": [
+    "DNA sequencing determines the precise order of bases (A, T, C, G) in a stretch of DNA.",
+    "Your genome is the complete set of DNA instructions for building and running you.",
+    "The Human Genome Project (1990–2003) mapped the entire human genome.",
+    "Faster, cheaper sequencing now powers medicine, ancestry, and biology research."
+  ],
+  "content_html": "\u003cp\u003eDNA carries information as a sequence of just four chemical letters — A, T, C, and G. Sequencing is the technology that reads that order, letter by letter, turning an invisible molecule into text we can analyze. Once you can read the sequence, you can start to understand what the genes say and how they vary between people.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA \u003cstrong\u003egenome\u003c/strong\u003e is the entire collection of an organism's DNA — for us, roughly 3 billion base pairs. The landmark effort to read it was the Human Genome Project, an international collaboration that ran from 1990 to 2003 and produced the first near-complete human reference sequence. As the NIH's National Human Genome Research Institute explains, sequencing has since become dramatically faster and cheaper: what once cost billions of dollars and took years can now be done in days. That shift fuels everything from diagnosing rare diseases to tracing ancestry and tracking how viruses evolve.\u003c/p\u003e",
+  "source": {
+    "name": "NIH National Human Genome Research Institute",
+    "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/dna-sequencing-fact-sheet",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "biotechnology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ba0985",
+      "slug": "what-is-biotechnology",
+      "type": "concept",
+      "title": "What Is Biotechnology?",
+      "hook": "From cheese and beer to insulin and vaccines, biotechnology puts living things — or their molecular parts — to work making products we need.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2657f3",
+      "slug": "gene-therapy",
+      "type": "concept",
+      "title": "Gene Therapy",
+      "hook": "Instead of treating symptoms, gene therapy goes after the root cause — fixing, replacing, or silencing a faulty gene inside a patient's own cells.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e0bc83#0",
+      "format": "flip",
+      "prompt": "What does DNA sequencing actually measure?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eexact order of the bases\u003c/strong\u003e — A, T, C, and G — along a strand of DNA. That\nsequence is the message; reading it lets us decode the instructions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e0bc83#1",
+      "format": "quiz",
+      "prompt": "What is a genome?",
+      "choices": [
+        {
+          "text": "The complete set of an organism's DNA instructions",
+          "correct": true
+        },
+        {
+          "text": "A single gene that controls eye color",
+          "correct": false
+        },
+        {
+          "text": "The protein that DNA is made of",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA genome is the \u003cstrong\u003ewhole\u003c/strong\u003e set of genetic instructions — for humans, about\n3 billion base pairs spread across our chromosomes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e0bc83#2",
+      "format": "quiz",
+      "prompt": "What did the Human Genome Project accomplish?",
+      "choices": [
+        {
+          "text": "It read the full sequence of the human genome for the first time",
+          "correct": true
+        },
+        {
+          "text": "It cloned the first human being",
+          "correct": false
+        },
+        {
+          "text": "It cured all genetic diseases",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRunning from 1990 to 2003, the project produced the first essentially complete\nmap of the human genome — a reference scientists still build on today.\u003c/p\u003e"
+    }
+  ]
+}

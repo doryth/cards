@@ -1,0 +1,114 @@
+{
+  "id": "card_9a90de",
+  "slug": "entropy-and-frenesy",
+  "type": "paper",
+  "title": "Entropy Is Only Half the Arrow of Time",
+  "hook": "Entropy production tells you which way time points. A second quantity — frenesy, the sheer busyness of a driven system — is what decides which structures survive.",
+  "key_points": [
+    "Nonequilibrium statistical mechanics asks how a time-symmetric atomic world produces dissipated heat and a one-way arrow of time.",
+    "Entropy production is the time-antisymmetric part of the story: it gives macroscopic processes their direction.",
+    "'Frenesy' is the complementary time-symmetric part — the dynamical activity, or bustle, of a driven system.",
+    "Together they explain why driving a system far from equilibrium can select stable, functionally rich structures rather than just making a mess.",
+    "This semi-popular essay also asks for which nonequilibrium systems a unified first-principles description is even possible."
+  ],
+  "content_html": "\u003cp\u003eEquilibrium thermodynamics is comfortable: a system settles down, entropy is maximal, nothing much happens. Nearly everything interesting — a living cell, a weather system, a laser — is instead driven, held away from equilibrium by a steady flow of energy. Explaining those systems from atoms up is the job of nonequilibrium statistical mechanics, and it has three hard questions at its core.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis semi-popular essay lays them out. First: where does entropy production come from at all? The microscopic laws are time-reversal symmetric, yet heat dissipates and processes run one way. Second: why does driving a system hard, far from equilibrium, so often \u003cem\u003ecreate\u003c/em\u003e stable and functionally rich structure instead of destroying it? Third, and more methodological: for which of these wildly diverse systems can a unified first-principles description even be written down?\u003c/p\u003e\n\u003cp\u003eThe essay's organizing move is to insist that entropy production is only half the picture. It is the time-antisymmetric part of the dynamics — the arrow. The complementary time-symmetric part, recently christened frenesy, measures the sheer dynamical activity of the system: how much is going on. Structure selection far from equilibrium, the argument goes, needs both. Entropy tells you which way time flows; frenesy tells you how busy the flowing is, and busyness is what builds things.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Christian Maes"
+    ],
+    "url": "https://arxiv.org/abs/2608.17586",
+    "published_at": "2026-08-18",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "heat-thermo",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-18",
+  "related": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cab29c",
+      "slug": "okinawa-lectures-on-entropy",
+      "type": "resource",
+      "title": "Lecture Notes: Entropy, from Boltzmann to von Neumann Algebras",
+      "hook": "One free set of lecture notes that walks the whole arc of entropy — historical origins, large deviation theory, quantum relative entropy, and the modular theory needed for infinite systems.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "card_7150b9",
+      "slug": "heat-engines-and-efficiency",
+      "type": "concept",
+      "title": "Heat Engines and Why None Are Perfect",
+      "hook": "Every car engine and power plant turns heat into motion — but physics forbids turning all of it. Some heat must always be thrown away, which is why perpetual motion is impossible.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3ad16a",
+      "slug": "states-of-matter",
+      "type": "concept",
+      "title": "States of Matter",
+      "hook": "Solid, liquid, gas, plasma — the difference is how tightly particles are bound. Add heat and matter changes state, but during the change the temperature holds still.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9a90de#0",
+      "format": "flip",
+      "prompt": "What is 'frenesy'?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003edynamical activity\u003c/strong\u003e — the bustle — of a steadily driven system. It's the\ntime-symmetric partner to entropy production, which is the time-antisymmetric part.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9a90de#1",
+      "format": "quiz",
+      "prompt": "What role does entropy production play in nonequilibrium statistical mechanics?",
+      "choices": [
+        {
+          "text": "It gives macroscopic processes their direction, defining the arrow of time",
+          "correct": true
+        },
+        {
+          "text": "It determines which structures a driven system will select",
+          "correct": false
+        },
+        {
+          "text": "It measures how much energy a system stores rather than dissipates",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEntropy production is the directional piece — the arrow. Selecting stable structures far\nfrom equilibrium needs frenesy alongside it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9a90de#2",
+      "format": "flip",
+      "prompt": "What puzzle about driven systems does this framework address?",
+      "back_html": "\u003cp\u003eWhy \u003cstrong\u003elow-entropy driving far from equilibrium\u003c/strong\u003e produces and selects stable, functionally\nrich structures — rather than simply degrading everything into noise.\u003c/p\u003e"
+    }
+  ]
+}

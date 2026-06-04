@@ -1,0 +1,119 @@
+{
+  "id": "card_21d374",
+  "slug": "levitated-magnet-hunts-heavy-dark-matter",
+  "type": "paper",
+  "title": "A Floating Magnet Feels for Ultraheavy Dark Matter",
+  "hook": "Most dark matter detectors listen for light particles. POLONAISE levitates a milligram magnet and waits for one shove — reaching masses seven orders of magnitude beyond optical traps.",
+  "key_points": [
+    "POLONAISE levitates a milligram-scale ferromagnet inside a superconducting trap.",
+    "Its force sensitivity is 0.07 femtonewtons per root hertz, resolving impulses as small as 1 TeV/c.",
+    "Heavy dark matter would announce itself as a single momentum kick, not a steady signal.",
+    "The search covers dark matter masses from 10^6 to 10^15 GeV/c-squared with mediators lighter than 30 meV.",
+    "Neutron couplings as small as 3.2 x 10^-9 are excluded at 95% confidence.",
+    "The mass reach extends seven orders of magnitude beyond optically levitated sensors."
+  ],
+  "content_html": "\u003cp\u003eDark matter searches are shaped by the mass you assume. Light, wave-like candidates smear across a detector and are found by looking for a faint persistent tone. Ultraheavy candidates — think composite objects far heavier than any known particle — are rarer but individually violent: one would pass through your apparatus and give it a single shove. Detecting that requires a mechanical sensor good enough to notice one tiny kick.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe POLONAISE experiment, reported by Dennis Uitenbroek and colleagues, is that sensor: a milligram-scale ferromagnet levitated in a superconducting trap, with a force sensitivity of 0.07 femtonewtons per root hertz, able to resolve impulses as small as 1 TeV/c. Magnetic levitation of a comparatively heavy mass is the key design choice — it pushes the accessible dark matter mass range seven orders of magnitude past what optically levitated particles can reach.\u003c/p\u003e\n\u003cp\u003eTheir analysis is deliberately conservative: every candidate impulse in the data is counted as a possible dark matter event, and optimum-interval upper limits are drawn from that. For dark matter masses from 10^6 to 10^15 GeV/c-squared interacting through a new mediator lighter than 30 meV, they exclude neutron couplings down to 3.2 x 10^-9 at 95% confidence, which they report as the leading constraints on the dark matter-neutron cross section for composite dark matter. The broader lesson is that tabletop mechanics has become a genuine frontier instrument for particle physics.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Dennis G. Uitenbroek",
+      "Dorian W. P. Amaral",
+      "Juehang Qin",
+      "Tjerk H. Oosterkamp",
+      "Christopher D. Tunnell"
+    ],
+    "url": "https://arxiv.org/abs/2608.20464",
+    "published_at": "2026-08-20",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper",
+    "benchmark"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_2512e3",
+      "slug": "first-directional-dark-matter-limits",
+      "type": "paper",
+      "title": "A Dark Matter Detector That Asks Which Way the Hit Came From",
+      "hook": "Neutrons and dark matter can leave identical-looking recoils. MIMAC's answer: reconstruct the direction of each recoil and check whether it points where dark matter should come from.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-26"
+    },
+    {
+      "id": "card_121806",
+      "slug": "nanosphere-feels-a-single-atom",
+      "type": "paper",
+      "title": "A Nanosphere That Feels One Atom Hit It",
+      "hook": "Cool a levitated nanosphere into its quantum ground state and it becomes an exquisite force sensor — sensitive enough to register the kick from a single xenon atom.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-18"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0f51ff",
+      "slug": "quantum-sensor-hunts-dark-matter",
+      "type": "news",
+      "title": "A Quantum Sensor Built to Catch Dark Matter and Ancient Gravitational Waves",
+      "hook": "Two clouds of ultracold atoms, compared against each other, cancel out noise so well that a signal buried in one measurement reappears — aimed at dark matter and ancient gravitational waves.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_21d374#0",
+      "format": "quiz",
+      "prompt": "Why does hunting ultraheavy dark matter call for a milligram magnet rather than a light optically trapped bead?",
+      "choices": [
+        {
+          "text": "A heavier, magnetically levitated mass can register single momentum impulses across a far wider mass range — seven orders of magnitude beyond optical levitation",
+          "correct": true
+        },
+        {
+          "text": "Magnets are immune to background vibrations, unlike optical traps",
+          "correct": false
+        },
+        {
+          "text": "Heavy dark matter only interacts with magnetic materials",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe paper's headline claim is mass reach: magnetic levitation of a milligram ferromagnet\nextends the accessible dark matter mass range seven orders of magnitude upward.\u003c/p\u003e"
+    },
+    {
+      "id": "card_21d374#1",
+      "format": "flip",
+      "prompt": "What kind of signal does an ultraheavy dark matter particle leave in this detector?",
+      "back_html": "\u003cp\u003eA single \u003cstrong\u003emomentum impulse\u003c/strong\u003e — one sharp kick — rather than a continuous wave-like signal.\nThe apparatus resolves impulses as small as 1 TeV/c.\u003c/p\u003e"
+    },
+    {
+      "id": "card_21d374#2",
+      "format": "flip",
+      "prompt": "Why treat every candidate impulse as a possible dark matter event?",
+      "back_html": "\u003cp\u003eIt is the conservative choice: without subtracting a background model you can still set\nvalid \u003cstrong\u003eupper limits\u003c/strong\u003e on the coupling, here as low as 3.2 x 10^-9.\u003c/p\u003e"
+    }
+  ]
+}

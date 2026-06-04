@@ -1,0 +1,139 @@
+{
+  "id": "card_7bc313",
+  "slug": "selling-faster-access-to-official-speech",
+  "type": "news",
+  "title": "When Speed of Access to Official Speech Is for Sale",
+  "hook": "A leader's posts move markets and policy. What happens to equal access when a company charges customers to receive them milliseconds sooner?",
+  "key_points": [
+    "Statements by a head of government are market-moving and policy-relevant information.",
+    "Selling faster delivery of that information creates a paying tier that learns official news before the public.",
+    "NPR reports a federal lawsuit alleges that a service from the president's media company, offering faster access to Truth Social posts, violates the Constitution.",
+    "NPR reports Trump Media executives said they had signed up more than 10 customers.",
+    "The general question — is an official's channel a public forum owed equal access? — is unresolved and being litigated."
+  ],
+  "content_html": "\u003cp\u003eWhen a head of government posts, the post is not just speech — it is market-moving, policy-relevant information, and being early to it has cash value. That is what makes a paid speed tier legally interesting. NPR's Bobby Allyn reports that a federal lawsuit alleges a service from the president's media company, which sells faster access to Truth Social posts, violates the Constitution; NPR reports Trump Media executives said they had signed up more than 10 customers.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe claim is an allegation and the case is unresolved, but the question underneath it is a genuine and increasingly common one: when an official's account functions as a channel of official communication, what obligations attach to it? Courts in several countries have already had to decide whether such accounts are public forums — for instance in disputes over officials blocking critics. Charging for earlier delivery presses the same nerve from a different direction. It does not restrict who may eventually read the statement; it stratifies \u003cem\u003ewhen\u003c/em\u003e they read it, creating a paying class that learns official news before the citizenry does. There are also two secondary problems worth separating from the constitutional one: an information-market problem, since traders with privileged timing profit from public statements, and a conflict-of-interest problem, since the revenue flows to a business tied to the official whose speech is the product. Whatever the courts decide, the case marks how thoroughly government communication has migrated onto commercial platforms whose incentives are not civic.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Bobby Allyn"
+    ],
+    "url": "https://npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
+    "published_at": "2026-08-12",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "technology-and-politics",
+    "media-civil-society"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b3bd44",
+      "slug": "free-press-and-democracy",
+      "type": "concept",
+      "title": "The Free Press \u0026 Democracy",
+      "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5b9a4",
+      "slug": "freedom-of-expression",
+      "type": "concept",
+      "title": "Freedom of Expression",
+      "hook": "The freedom to speak, publish, and dissent is often called the first freedom — because without it, citizens can't check power or argue their way to better decisions.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bd6dda",
+      "slug": "prediction-markets-and-politics",
+      "type": "concept",
+      "title": "Prediction Markets in Politics",
+      "hook": "Let people bet real money on who wins, and the prices start to look like odds — a crowd-sourced forecast. But betting on politics invites its own kind of trouble.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-16"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_7bc313#0",
+      "format": "flip",
+      "prompt": "Why is faster access to a leader's posts commercially valuable?",
+      "back_html": "\u003cp\u003eOfficial statements move markets and signal policy. Receiving them even\nslightly earlier than everyone else is a tradable advantage.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7bc313#1",
+      "format": "quiz",
+      "prompt": "What does the lawsuit described by NPR allege?",
+      "choices": [
+        {
+          "text": "That the service selling faster access to Truth Social posts violates the Constitution",
+          "correct": true
+        },
+        {
+          "text": "That the posts themselves are defamatory",
+          "correct": false
+        },
+        {
+          "text": "That the Postal Service mishandled official mail",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNPR reports the federal suit targets the paid-speed service offered by the\npresident's media company as unconstitutional — an allegation, not a ruling.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7bc313#2",
+      "format": "quiz",
+      "prompt": "What underlying constitutional question does this raise?",
+      "choices": [
+        {
+          "text": "Whether an official's communication channel is a public forum owed equal access",
+          "correct": true
+        },
+        {
+          "text": "Whether social media companies may moderate content",
+          "correct": false
+        },
+        {
+          "text": "Whether the president may speak publicly at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIf a channel functions as official communication, tiering access by payment\ncollides with the principle that government speech reaches citizens equally.\u003c/p\u003e"
+    }
+  ]
+}

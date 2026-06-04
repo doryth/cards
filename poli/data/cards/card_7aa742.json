@@ -1,0 +1,121 @@
+{
+  "id": "card_7aa742",
+  "slug": "refugees-and-asylum",
+  "type": "concept",
+  "title": "Refugees \u0026 Asylum",
+  "hook": "When your own government becomes the threat, your last protection is the right to flee and seek safety elsewhere — the principle at the heart of refugee law.",
+  "key_points": [
+    "A refugee is someone who flees their country due to a well-founded fear of persecution.",
+    "Asylum is the protection a state grants to such a person on its territory.",
+    "'Non-refoulement' bars returning refugees to a place where they face serious harm.",
+    "It sits at the tense intersection of human rights and states' control over their borders."
+  ],
+  "content_html": "\u003cp\u003eRefugee protection addresses the hardest case in the whole human-rights system: what happens when the very government meant to protect you becomes the source of danger. A refugee, in the legal sense, is a person who has fled their own country because of a well-founded fear of persecution — on grounds such as race, religion, nationality, political opinion, or membership in a particular social group — and so cannot safely rely on their home state's protection. Asylum is the protection a \u003cem\u003edifferent\u003c/em\u003e state grants such a person who reaches its territory.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe cornerstone of this system, set out in the 1951 Refugee Convention that UNHCR describes as the foundation of international refugee law, is the principle of \u003cem\u003enon-refoulement\u003c/em\u003e: a state must not return a refugee to a territory where they would face serious threats to life or freedom. This is the minimum guarantee — even a country that does not offer permanent settlement is barred from sending someone back into danger. Refugee protection illustrates with unusual clarity the central tension running through human rights: it asserts that people hold protections by virtue of being human, regardless of citizenship, yet enforcing those protections requires \u003cem\u003esome\u003c/em\u003e state to act, and states jealously guard their sovereign right to control who crosses their borders. The result is a persistent political friction between humanitarian obligation and border control, which is why refugee and asylum policy is among the most contested issues in contemporary politics. It is worth distinguishing refugees, who are fleeing persecution and are owed specific legal protection, from migrants more broadly, who move for many reasons and fall under a different and more discretionary set of rules.\u003c/p\u003e",
+  "source": {
+    "name": "UNHCR — The 1951 Refugee Convention",
+    "url": "https://www.unhcr.org/about-unhcr/who-we-are/1951-refugee-convention",
+    "license": "© UNHCR (public information)"
+  },
+  "topic_ids": [
+    "human-rights"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ac077c",
+      "slug": "what-are-human-rights",
+      "type": "concept",
+      "title": "What Human Rights Are",
+      "hook": "Human rights are the radical claim that every person — regardless of country, status, or who's in charge — holds certain basic rights simply by being human.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ae572c",
+      "slug": "enforcing-human-rights",
+      "type": "concept",
+      "title": "Enforcing Human Rights",
+      "hook": "Declaring a right is easy; enforcing it against a sovereign state is hard. The global human-rights system relies more on pressure and exposure than on a world police.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_772ca7",
+      "slug": "immigration-and-naturalization",
+      "type": "concept",
+      "title": "Immigration \u0026 Naturalization",
+      "hook": "Every state has to answer two charged questions: who gets to come in, and who gets to become one of us? That's the politics of immigration and citizenship.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f3f5cc",
+      "slug": "temporary-protected-status",
+      "type": "news",
+      "title": "Temporary Protected Status",
+      "hook": "Some immigrants are allowed to stay not because they won asylum, but because their home country is too dangerous to return to — for now. That 'for now' is the whole idea.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7aa742#0",
+      "format": "flip",
+      "prompt": "Who qualifies as a refugee?",
+      "back_html": "\u003cp\u003eSomeone who flees their country due to a \u003cstrong\u003ewell-founded fear of\npersecution\u003c/strong\u003e (e.g. for their race, religion, nationality, politics, or\ngroup).\u003c/p\u003e"
+    },
+    {
+      "id": "card_7aa742#1",
+      "format": "quiz",
+      "prompt": "What does the principle of 'non-refoulement' require?",
+      "choices": [
+        {
+          "text": "Not returning refugees to a place where they face serious harm",
+          "correct": true
+        },
+        {
+          "text": "Returning all migrants immediately",
+          "correct": false
+        },
+        {
+          "text": "Granting citizenship to everyone who arrives",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNon-refoulement is the core protection: a state may not send a refugee\nback to danger, even if it does not grant permanent status.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7aa742#2",
+      "format": "quiz",
+      "prompt": "What tension does refugee protection sit within?",
+      "choices": [
+        {
+          "text": "Between human-rights obligations and states' control over their borders",
+          "correct": true
+        },
+        {
+          "text": "Between two identical legal duties",
+          "correct": false
+        },
+        {
+          "text": "Between voting and taxation",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProtecting those fleeing persecution can pull against a sovereign state's\nclaim to decide who enters — a recurring political friction.\u003c/p\u003e"
+    }
+  ]
+}

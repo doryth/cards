@@ -1,0 +1,91 @@
+{
+  "id": "card_d7624e",
+  "slug": "what-triggers-alzheimers",
+  "type": "news",
+  "title": "Maybe Plaques Aren't the Whole Story",
+  "hook": "New research suggests Alzheimer's may start not with plaques themselves, but with amyloid beta interfering with tau — the protein that keeps neurons running.",
+  "key_points": [
+    "For decades, sticky amyloid plaques were treated as the root cause of Alzheimer's.",
+    "New work suggests amyloid beta does its damage by interfering with tau, a protein neurons rely on.",
+    "That disruption could set off the cascade leading to the disease's hallmark brain changes.",
+    "It reframes amyloid as a trigger acting through tau — not just debris that accumulates."
+  ],
+  "content_html": "\u003cp\u003eThe dominant story of Alzheimer's has long centered on amyloid plaques — sticky clumps that build up between brain cells. But as ScienceDaily reports, new research suggests the plaques may not be the root cause so much as a downstream sign, and that the real trigger lies in how amyloid beta meddles with another protein, tau.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTau normally helps keep neurons stable and functioning. The new work suggests that amyloid beta interferes with tau, and that this disruption — rather than the plaques themselves — may set off the cascade that eventually produces Alzheimer's most recognizable brain changes. In other words, amyloid looks less like inert debris and more like a trigger that does its damage through tau.\u003c/p\u003e\n\u003cp\u003eThis is a shift in framing, not a settled verdict or a treatment. But it matters because where you locate the \u003cem\u003ecause\u003c/em\u003e shapes where you aim a drug. Years of therapies targeting plaques have had limited success; understanding amyloid as something that acts \u003cem\u003ethrough\u003c/em\u003e tau could point researchers toward different, earlier points to intervene. For now it's a promising idea about mechanism — worth watching, not yet a clinic-ready answer.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260617032209.htm",
+    "published_at": "2026-06-18",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "healthy-aging"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-22",
+  "date": "2026-06-18",
+  "related": [
+    {
+      "id": "card_2ead17",
+      "slug": "keeping-your-brain-healthy",
+      "type": "concept",
+      "title": "Keeping Your Brain Healthy",
+      "hook": "No pill prevents dementia, but the habits that protect your heart turn out to protect your brain too.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_a1c077",
+      "slug": "diabetes-and-brain-health",
+      "type": "news",
+      "title": "The Link Between Diabetes and Dementia",
+      "hook": "Diabetes and dementia keep turning up together — and it may be no coincidence. Trouble with insulin and blood sugar can starve, inflame, and damage the brain's blood vessels.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "card_40bc5a",
+      "slug": "how-alzheimers-spreads",
+      "type": "news",
+      "title": "How Alzheimer's Might Spread From Cell to Cell",
+      "hook": "A common brain protein may double as a delivery vehicle for Alzheimer's, ferrying toxic tau out of damaged neurons and into healthy ones — a possible new target for slowing the disease.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-30"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d7624e#0",
+      "format": "flip",
+      "prompt": "How does this research reframe the role of amyloid beta in Alzheimer's?",
+      "back_html": "\u003cp\u003eRather than plaques being the root cause, amyloid beta appears to do harm by\n\u003cstrong\u003einterfering with tau\u003c/strong\u003e — a protein that helps keep neurons functioning.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d7624e#1",
+      "format": "quiz",
+      "prompt": "Which protein does amyloid beta appear to disrupt, according to this work?",
+      "choices": [
+        {
+          "text": "Tau, which helps keep neurons functioning",
+          "correct": true
+        },
+        {
+          "text": "Insulin, which regulates blood sugar",
+          "correct": false
+        },
+        {
+          "text": "Collagen, which supports connective tissue",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study suggests amyloid beta interferes with tau, and that disruption may set off\nthe damage leading to Alzheimer's most recognizable brain changes.\u003c/p\u003e"
+    }
+  ]
+}

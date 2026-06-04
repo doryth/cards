@@ -1,0 +1,113 @@
+{
+  "id": "card_ce155a",
+  "slug": "how-ai-learns",
+  "type": "concept",
+  "title": "How AI Learns",
+  "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+  "key_points": [
+    "Models learn by guessing, getting corrected, and adjusting — repeated at huge scale.",
+    "They need enormous amounts of example data to find reliable patterns.",
+    "What they learn is only as good as the examples they're shown.",
+    "After training, using the model ('inference') is fast — the slow, costly part is learning."
+  ],
+  "content_html": "\u003cp\u003eImagine teaching a child to recognize dogs by showing them thousands of photos. At first they guess wildly; each time you say \u0026quot;yes\u0026quot; or \u0026quot;no,\u0026quot; and slowly they get it. AI learns the same way, just at a scale no human could match. The system makes a guess, gets told how far off it was, and makes a tiny adjustment to do better next time — then repeats that loop millions or billions of times until the guesses get good.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is why data matters so much. A model only knows the world through the examples it was trained on, so the quality and variety of that data quietly shape everything it does — including its blind spots. Two other things are worth knowing. First, training is the expensive, slow part (huge amounts of computing power and energy); once a model is trained, \u003cem\u003eusing\u003c/em\u003e it is comparatively quick and cheap. Second, a trained model is essentially frozen — it doesn't keep learning from your conversations unless its makers deliberately retrain it, which is why a chatbot may not know about very recent events.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Machine learning",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "how-ai-learns"
+  ],
+  "tags": [
+    "foundational",
+    "training"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_58c33d",
+      "slug": "ai-bias",
+      "type": "concept",
+      "title": "Bias \u0026 Fairness",
+      "hook": "AI learns from data made by people, so it inherits our patterns — including the unfair ones. A model trained on a biased past will confidently recommend a biased future.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a8178f",
+      "slug": "kids-outlearn-ai-language",
+      "type": "news",
+      "title": "Kids Outlearn AI — and Nobody Knows Why",
+      "hook": "A toddler masters a language from a few years of overheard chatter. A chatbot needs a large fraction of the written internet. Nobody can fully explain the gap.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-24"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_ce155a#0",
+      "format": "flip",
+      "prompt": "In one sentence, how does an AI model learn?",
+      "back_html": "\u003cp\u003eIt guesses, gets told how wrong it was, and makes a tiny adjustment —\nrepeated over and over across huge amounts of example data.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ce155a#1",
+      "format": "quiz",
+      "prompt": "Why might a chatbot not know about very recent events?",
+      "choices": [
+        {
+          "text": "A trained model is frozen and doesn't keep learning unless it's retrained",
+          "correct": true
+        },
+        {
+          "text": "It forgets recent information every night",
+          "correct": false
+        },
+        {
+          "text": "It only checks the news on weekends",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTraining is a one-time, expensive step. Afterwards the model is essentially\nfrozen — it won't know newer events unless its makers retrain it.\u003c/p\u003e"
+    }
+  ]
+}

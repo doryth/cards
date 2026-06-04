@@ -1,0 +1,121 @@
+{
+  "id": "card_f1976d",
+  "slug": "how-infections-spread",
+  "type": "concept",
+  "title": "How Infections Spread",
+  "hook": "Germs can't fly to a new host on their own — they hitch rides on coughs, hands, food, water, and insects. Break the ride, and you break the chain of infection.",
+  "key_points": [
+    "Infections are caused by pathogens — bacteria, viruses, fungi, and parasites.",
+    "Pathogens spread by routes like the air, direct contact, contaminated food or water, and insect bites.",
+    "An infection needs a chain: a source, a way out, a route of transmission, and a new host to enter.",
+    "Hygiene works by breaking that chain — washing hands and covering coughs remove or block the pathogen."
+  ],
+  "content_html": "\u003cp\u003eInfections happen when a pathogen — a disease-causing bacterium, virus, fungus, or parasite — gets into the body and multiplies. But a germ can't simply teleport from one person to the next. It has to travel, and understanding how it travels is the key to stopping it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSpreading an infection takes a chain of events: a source where the pathogen lives, a way out, a route of transmission, and a new host to enter. Those routes are familiar — airborne droplets from coughs and sneezes, direct contact with skin or surfaces, contaminated food and water, or bites from insects like mosquitoes. This is exactly why hygiene matters: washing hands, covering coughs, and cooking food properly each break a link in the chain, removing or blocking the pathogen before it reaches a new host. As Encyclopaedia Britannica's account of infectious disease describes, controlling transmission routes is one of the most powerful tools in public health.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/infectious-disease",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "immune-system"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b56025",
+      "slug": "how-immunity-works",
+      "type": "concept",
+      "title": "How Immunity Works",
+      "hook": "Your body fights invaders on two fronts: a fast, general first response that hits anything foreign, and a slower, custom-built defense that learns and remembers each specific enemy.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a9a451",
+      "slug": "vaccines",
+      "type": "concept",
+      "title": "Vaccines",
+      "hook": "A vaccine is a training session for your immune system — it learns to beat a dangerous pathogen using a harmless preview, so the real fight is already half-won.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8510f0",
+      "slug": "viruses-living-or-not",
+      "type": "concept",
+      "title": "Are Viruses Alive?",
+      "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0b4740",
+      "slug": "h5n1-bird-flu-in-cows",
+      "type": "news",
+      "title": "Why Bird Flu Hid in Cows' Udders",
+      "hook": "Bird flu hit dairy cows in a strange way — striking udders, not lungs. The reason: the receptors H5N1 latches onto are concentrated in mammary tissue, a clue to how it jumps and spreads.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f1976d#0",
+      "format": "quiz",
+      "prompt": "Which of these is a common route by which infections spread?",
+      "choices": [
+        {
+          "text": "Through the air in droplets from a cough or sneeze",
+          "correct": true
+        },
+        {
+          "text": "Through inherited genes from a parent",
+          "correct": false
+        },
+        {
+          "text": "Through exposure to sunlight",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMany pathogens travel in airborne droplets, but they also spread by touch,\ncontaminated food or water, and insect bites. They aren't inherited.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f1976d#1",
+      "format": "flip",
+      "prompt": "Why does washing your hands help prevent infection?",
+      "back_html": "\u003cp\u003eIt \u003cstrong\u003ebreaks the chain of transmission\u003c/strong\u003e — physically removing pathogens from\nyour hands before they can reach your mouth, eyes, or another person.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f1976d#2",
+      "format": "quiz",
+      "prompt": "What general name is given to the organisms that cause infectious disease?",
+      "choices": [
+        {
+          "text": "Pathogens",
+          "correct": true
+        },
+        {
+          "text": "Antibodies",
+          "correct": false
+        },
+        {
+          "text": "Hormones",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePathogens — including bacteria, viruses, fungi, and parasites — are the\ndisease-causing agents. Antibodies and hormones are made by your own body.\u003c/p\u003e"
+    }
+  ]
+}

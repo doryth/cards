@@ -1,0 +1,81 @@
+{
+  "id": "card_0ef6c9",
+  "slug": "spotting-black-hole-pairs-by-starlight-flashes",
+  "type": "news",
+  "title": "Catching Black Hole Pairs by Their Flicker",
+  "hook": "Tightly bound supermassive black hole pairs are nearly invisible. A new idea: watch for stars that flash as the black holes' gravity bends and magnifies their light.",
+  "key_points": [
+    "Close supermassive black hole pairs are hard to spot — they're compact and dark.",
+    "Researchers propose looking for background stars that flash repeatedly.",
+    "Each flash comes from the black holes' gravity magnifying the star's light, an effect of gravitational lensing.",
+    "The timing and brightness of the bursts form a unique fingerprint of the pair.",
+    "It could flag black holes slowly spiraling toward an eventual collision."
+  ],
+  "content_html": "\u003cp\u003eWhen two galaxies merge, their central supermassive black holes can sink toward each other and\nform a tightly bound pair. Catching them in that close embrace is notoriously hard — the pair is\ncompact, and black holes emit no light of their own.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eScientists have proposed a clever workaround, summarized by ScienceDaily: instead of looking for\nthe black holes directly, watch the stars behind them. As a background star's light passes the\npair, the black holes' gravity bends and magnifies it — a gravitational-lensing effect — making\nthe star appear to flash. The pattern of those repeated bursts, their timing and brightness,\nacts as a unique fingerprint of a bound black hole pair, potentially revealing systems that are\nslowly spiraling toward a future collision that would ripple out as gravitational waves.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260605023418.htm",
+    "published_at": "2026-06-05",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-08",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0ef6c9#0",
+      "format": "quiz",
+      "prompt": "What physical effect produces the repeated flashes used to find black hole pairs?",
+      "choices": [
+        {
+          "text": "Gravitational lensing — the black holes' gravity magnifies a star's light",
+          "correct": true
+        },
+        {
+          "text": "Nuclear fusion flaring up inside the black holes",
+          "correct": false
+        },
+        {
+          "text": "The black holes physically blocking and unblocking the star",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe black holes' gravity bends and magnifies light from a background star, brightening it in\nrepeated bursts — a gravitational-lensing signature, not fusion or simple eclipsing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0ef6c9#1",
+      "format": "flip",
+      "prompt": "Why are the timing and brightness of the flashes useful?",
+      "back_html": "\u003cp\u003eTogether they form a unique fingerprint of a tightly bound supermassive black hole pair,\nflagging two black holes slowly spiraling toward a future collision.\u003c/p\u003e"
+    }
+  ]
+}

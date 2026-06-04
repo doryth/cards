@@ -1,0 +1,97 @@
+{
+  "id": "card_91d606",
+  "slug": "ai-gun-detection-failure",
+  "type": "news",
+  "title": "When 'Good Enough' AI Isn't: A Gun-Detection Lawsuit",
+  "hook": "An AI system meant to spot weapons on school cameras missed a gun before a shooting — and a survivor is suing. It poses a hard question for any safety AI: how accurate does it have to be?",
+  "key_points": [
+    "A school-shooting survivor sued an AI gun-detection firm after its system failed to flag a weapon.",
+    "AI detectors don't see — they estimate, and every detector has a miss rate and a false-alarm rate.",
+    "In life-safety settings, even a small error rate can have catastrophic consequences.",
+    "Marketing often implies near-certainty; real systems trade off missed threats vs. false alerts."
+  ],
+  "content_html": "\u003cp\u003eOn June 7, 2026, Ars Technica reported that a survivor of a school shooting is suing an AI gun-detection company after its camera system failed to spot the weapon used in the attack. The case puts a blunt question on the table: how accurate does an AI system have to be before we rely on it to keep people safe?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt's a useful window into a general truth about AI detectors. These systems don't truly \u0026quot;see\u0026quot; a gun the way a person does; they estimate the odds that a camera image contains one, based on patterns learned from past examples. That means every such system has two kinds of errors baked in — threats it \u003cem\u003emisses\u003c/em\u003e and harmless objects it \u003cem\u003efalse-alarms\u003c/em\u003e on — and you can usually only reduce one by accepting more of the other. In low-stakes uses, an occasional mistake is a nuisance. In a school hallway, a single miss can be tragic, and a flood of false alarms can train staff to ignore the alerts. The lawsuit, as reported, is less about one product than about a question AI buyers everywhere now face: vendors market near-certainty, but \u0026quot;good enough\u0026quot; accuracy is a very different thing when lives depend on the gap.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Cyrus Farivar"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon",
+    "published_at": "2026-06-07",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-limits",
+    "ai-news"
+  ],
+  "tags": [
+    "safety",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-08",
+  "date": "2026-06-07",
+  "related": [
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_95563d",
+      "slug": "facial-recognition-and-surveillance",
+      "type": "concept",
+      "title": "Facial Recognition",
+      "hook": "The same AI that unlocks your phone can pick your face out of a crowd. It's convenient at your fingertips and unsettling at a city's scale — and it makes mistakes, unevenly.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fc554a",
+      "slug": "being-judged-by-ai",
+      "type": "concept",
+      "title": "Being Judged by AI",
+      "hook": "An algorithm may now screen your résumé, score your loan, or rank your rental application before any human sees it. Knowing that — and your rights — is the first step to a fair shot.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_91d606#0",
+      "format": "quiz",
+      "prompt": "Why is a small error rate a big problem for AI gun detection specifically?",
+      "choices": [
+        {
+          "text": "In a life-safety setting, a single missed weapon can be catastrophic",
+          "correct": true
+        },
+        {
+          "text": "Because the AI gets bored and stops looking",
+          "correct": false
+        },
+        {
+          "text": "Small error rates are never a problem for any AI",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA detector that's right 99% of the time still misses cases — and when the\njob is spotting a weapon before a shooting, those misses can be deadly.\u003c/p\u003e"
+    },
+    {
+      "id": "card_91d606#1",
+      "format": "flip",
+      "prompt": "What does an AI 'detector' actually produce, and why does that matter?",
+      "back_html": "\u003cp\u003eIt produces an estimate, not certain sight. Every detector has a miss rate\nand a false-alarm rate, so 'detection' is always a probabilistic trade-off.\u003c/p\u003e"
+    }
+  ]
+}

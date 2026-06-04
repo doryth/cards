@@ -1,0 +1,118 @@
+{
+  "id": "card_8415d3",
+  "slug": "deepmind-hurricane-forecast",
+  "type": "news",
+  "title": "An AI Weather Model Bought Forecasters an Extra Day",
+  "hook": "DeepMind's hurricane forecasts surprised weather scientists by earning roughly a day of extra warning — and the open-source model works from lower-resolution data than traditional forecasting needs.",
+  "key_points": [
+    "Ars Technica reports DeepMind's hurricane model gave forecasters about an extra day of lead time.",
+    "Weather scientists were surprised by how well it performed.",
+    "The WeatherNext model is open source and works with lower-resolution input data.",
+    "Traditional forecasting simulates physics; these models learn patterns from decades of records.",
+    "Extra lead time is measured in evacuations, not benchmark scores."
+  ],
+  "content_html": "\u003cp\u003eDeepMind's hurricane forecasting has impressed the meteorologists who evaluate it: Ars Technica reports the model bought forecasters roughly an extra day of warning, and that its open-source WeatherNext model can produce accurate predictions from lower-resolution weather data than conventional methods require.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is one of the clearest examples of AI doing something unambiguously good, and of \u003cem\u003ehow\u003c/em\u003e modern AI differs from what came before. Classical forecasting is simulation: encode the physics of air, water, and heat, feed in current measurements, and run it forward on a supercomputer. A learned weather model skips the physics and studies the record instead — decades of observed atmospheres and what actually happened next — then predicts the most likely continuation. That sounds like it should be worse, and for a long time it was; the surprise of the last few years is that at storm-scale it's often better and dramatically cheaper to run. The lower-resolution input matters for a practical reason: much of the world doesn't have dense sensor networks or a national supercomputer, and open-source code plus modest data is a forecast those places can actually run. And the payoff here isn't an abstract score. An extra day of hurricane warning is measured in buses moved, hospitals emptied, and people who got out in time.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Victoria Turk"
+    ],
+    "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+    "published_at": "2026-08-08",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-everyday",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "training"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-08",
+  "related": [
+    {
+      "id": "card_6e9316",
+      "slug": "firesat-wildfire-satellites",
+      "type": "news",
+      "title": "Satellites Now Use AI to Catch Wildfires the Size of a Tennis Court",
+      "hook": "Three new satellites just launched with one job: spot a wildfire early enough to matter — using AI that checks every image against a thousand before it, to tell smoke from a false alarm.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_0cc7d0",
+      "slug": "weather-data-sabotage-risk",
+      "type": "news",
+      "title": "Someone Faked the Weather to Win a $20,000 Bet",
+      "hook": "AI weather forecasts are only as honest as the sensors feeding them. At a Paris airport, someone tampered with a station to fake the temperature — and won a $20,000 bet on it.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8415d3#0",
+      "format": "flip",
+      "prompt": "How does an AI weather model differ from a traditional forecast?",
+      "back_html": "\u003cp\u003eTraditional forecasting simulates the physics of the atmosphere on supercomputers.\nAn AI model instead learns patterns from decades of past weather records and\npredicts what usually follows.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8415d3#1",
+      "format": "quiz",
+      "prompt": "Why does one extra day of hurricane warning matter so much?",
+      "choices": [
+        {
+          "text": "It's the difference between an orderly evacuation and a rushed one",
+          "correct": true
+        },
+        {
+          "text": "It makes the storm itself weaker",
+          "correct": false
+        },
+        {
+          "text": "It lets forecasters skip checking satellite data",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLead time is what emergency planning runs on — moving people, staging supplies,\nclosing roads. A day is an enormous margin in that work.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8415d3#2",
+      "format": "quiz",
+      "prompt": "Why is it significant that the model works with lower-resolution data and is open source?",
+      "choices": [
+        {
+          "text": "More places can run useful forecasts without top-tier data or supercomputers",
+          "correct": true
+        },
+        {
+          "text": "It means the forecasts don't need to be accurate",
+          "correct": false
+        },
+        {
+          "text": "It proves AI has replaced meteorologists",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCheaper inputs plus public code lowers the barrier for regions that lack dense\nsensor networks and huge compute budgets.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "card_0532e5",
+  "slug": "coffee-and-liver-disease",
+  "type": "news",
+  "title": "Coffee Tracks With a Markedly Healthier Liver",
+  "hook": "Across 355,000 people followed 13 years, five-plus cups a day came with a 47% lower risk of liver cancer. Decaf worked too — so it isn't the caffeine doing the work.",
+  "key_points": [
+    "Cedars-Sinai researchers followed 354,957 UK Biobank participants with no history of cirrhosis or liver cancer for a median of 13 years.",
+    "At five or more cups daily: 32% lower risk of cirrhosis, 47% lower risk of liver cancer, 42% lower risk of dying from liver disease.",
+    "The strongest associations appeared around three to four cups a day, with benefit visible at just one or two.",
+    "Both caffeinated and decaf coffee were linked to better outcomes, pointing away from caffeine as the active ingredient.",
+    "MRI scans of coffee drinkers showed less liver fat, excess iron, fibrosis, and inflammation.",
+    "It's observational — the authors say it cannot establish that coffee directly prevents liver disease."
+  ],
+  "content_html": "\u003cp\u003eCoffee keeps turning up in the epidemiology of long-term health, and the liver may be where the association is strongest. Cedars-Sinai researchers followed 354,957 UK Biobank participants who had no history of cirrhosis or liver cancer at the start, tracking them for a median of 13 years.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe gradient was steep. Compared with non-drinkers, people drinking five or more cups a day had a 32% lower risk of cirrhosis, a 47% lower risk of liver cancer, and a 42% lower risk of dying from liver disease. Benefit showed up at modest intakes too, with the strongest associations clustering around three to four cups daily. And the imaging backed up the outcome data: coffee drinkers' MRI scans showed lower levels of liver fat, excess liver iron, fibrosis, and inflammation, alongside blood-protein patterns tilted toward healthy liver function and away from inflammation and scarring.\u003c/p\u003e\n\u003cp\u003eThe most informative detail is a negative one. Both caffeinated and decaffeinated coffee were linked to better liver outcomes — so whatever is doing the work, it probably isn't the caffeine. That fits a broader picture in which coffee's polyphenols and other plant compounds, not the stimulant, carry most of its apparent health effects. The authors are careful about how far this goes, noting the study \u0026quot;was observational. It identified associations but cannot establish that coffee directly prevents cirrhosis, liver cancer, or liver-related death.\u0026quot; Reasonable reading: if you already drink coffee, this is reassurance rather than a reason to start doubling up.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260719035955.htm",
+    "published_at": "2026-07-25",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "nutrition",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-25",
+  "related": [
+    {
+      "id": "card_fd60c1",
+      "slug": "coffee-nr4a1-stress-switch",
+      "type": "news",
+      "title": "Coffee May Fight Aging Through a Hidden Cellular Switch",
+      "hook": "Scientists may have found why coffee tracks with healthier aging: its compounds activate NR4A1, a cellular switch that guards against stress and damage — and caffeine isn't the one doing it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "card_8fc841",
+      "slug": "caffeine-heart-safety",
+      "type": "news",
+      "title": "Coffee May Help Your Heart — Energy Drinks, Not So Much",
+      "hook": "A new American Heart Association review says up to ~400 mg of caffeine a day is fine for most hearts, and coffee may even lower some risks. The catch is what you get it from.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-21"
+    },
+    {
+      "id": "card_8bc5c3",
+      "slug": "alcohol-and-your-health",
+      "type": "concept",
+      "title": "Alcohol and Your Health",
+      "hook": "There's no amount of alcohol proven to be good for you — but there's a meaningful difference between a glass with dinner and patterns that quietly raise your risk of cancer, liver disease, and more.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0532e5#0",
+      "format": "quiz",
+      "prompt": "What does it tell us that decaf coffee showed the same liver benefit as regular?",
+      "choices": [
+        {
+          "text": "Caffeine probably isn't the active ingredient — coffee's other compounds are implicated",
+          "correct": true
+        },
+        {
+          "text": "The study must have been done wrong",
+          "correct": false
+        },
+        {
+          "text": "It proves caffeine causes liver damage",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth caffeinated and decaffeinated coffee were linked to better liver outcomes, which\npoints at coffee's broader chemistry rather than caffeine as the protective element.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0532e5#1",
+      "format": "flip",
+      "prompt": "How much coffee was associated with the strongest liver benefit?",
+      "back_html": "\u003cp\u003eAbout \u003cstrong\u003ethree to four cups a day\u003c/strong\u003e — though benefit was visible at just one or two, and\nthe largest reductions in the study (32% for cirrhosis, 47% for liver cancer, 42% for\nliver-related death) came at five or more.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0532e5#2",
+      "format": "flip",
+      "prompt": "Why shouldn't you read this as 'coffee prevents liver disease'?",
+      "back_html": "\u003cp\u003eThe study was \u003cstrong\u003eobservational\u003c/strong\u003e. The authors state plainly it identified associations but\ncannot establish that coffee directly prevents cirrhosis, liver cancer, or liver-related\ndeath — coffee drinkers may differ in other ways.\u003c/p\u003e"
+    }
+  ]
+}

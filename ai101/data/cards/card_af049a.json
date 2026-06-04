@@ -1,0 +1,110 @@
+{
+  "id": "card_af049a",
+  "slug": "using-ai-responsibly",
+  "type": "concept",
+  "title": "Using AI Responsibly",
+  "hook": "The point of AI literacy isn't to use AI for everything — it's to use it well: check its work, be honest that you used it, and know the moments to put it down.",
+  "key_points": [
+    "Verify before you trust — you're responsible for what you pass on as true.",
+    "Be transparent when AI did real work, especially at school or at work.",
+    "Keep humans in charge of high-stakes calls: health, legal, money, safety.",
+    "Use it to assist your thinking, not to replace it."
+  ],
+  "content_html": "\u003cp\u003eOnce you understand what AI can and can't do, \u0026quot;responsible use\u0026quot; stops being a vague slogan and becomes a short, practical checklist. It isn't about using AI for everything or avoiding it out of fear — it's about using it \u003cem\u003ewell\u003c/em\u003e, so it genuinely helps without quietly creating problems. Three habits cover most situations.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003e\u003cstrong\u003eVerify before you trust.\u003c/strong\u003e Because AI can be confidently wrong, you're the one accountable for anything you pass on as true — check facts, sources, and numbers before relying on them. \u003cstrong\u003eBe honest about using it.\u003c/strong\u003e If AI did real work on something — an essay, a report, an image — transparency matters, and many schools and workplaces now have clear rules; pretending you didn't use it can cross a line. \u003cstrong\u003eKeep humans on the big decisions.\u003c/strong\u003e AI can inform a choice about your health, finances, legal situation, or someone's safety, but it shouldn't \u003cem\u003emake\u003c/em\u003e that choice. Underneath all three is one idea: AI is a powerful assistant to your judgment, not a replacement for it. Used that way, it makes you faster and better; handed the wheel, it makes mistakes you'll own.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "responsible-use"
+  ],
+  "tags": [
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_58c33d",
+      "slug": "ai-bias",
+      "type": "concept",
+      "title": "Bias \u0026 Fairness",
+      "hook": "AI learns from data made by people, so it inherits our patterns — including the unfair ones. A model trained on a biased past will confidently recommend a biased future.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_74281d",
+      "slug": "fact-checking-ai",
+      "type": "concept",
+      "title": "How to Fact-Check AI",
+      "hook": "You can't tell a true AI answer from a made-up one by reading it — both sound equally sure. So build a habit: for anything that matters, verify it somewhere that isn't the AI.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eb9c92",
+      "slug": "over-relying-on-ai",
+      "type": "concept",
+      "title": "Over-Relying on AI",
+      "hook": "The subtle risk isn't that AI fails — it's that it usually works, so you stop checking. Trusting a confident machine over your own judgment is its own kind of mistake.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_af049a#0",
+      "format": "quiz",
+      "prompt": "Who is responsible for an AI-written answer you share as fact?",
+      "choices": [
+        {
+          "text": "You are — you should verify it before passing it on",
+          "correct": true
+        },
+        {
+          "text": "The AI company, always",
+          "correct": false
+        },
+        {
+          "text": "No one, since a machine wrote it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI is a tool you chose to use. Checking its output and standing behind what\nyou share stays your responsibility.\u003c/p\u003e"
+    },
+    {
+      "id": "card_af049a#1",
+      "format": "flip",
+      "prompt": "When should a human stay firmly in charge of the decision?",
+      "back_html": "\u003cp\u003eFor high-stakes calls — health, legal, financial, or safety — where AI can\ninform you but shouldn't make the final decision.\u003c/p\u003e"
+    }
+  ]
+}

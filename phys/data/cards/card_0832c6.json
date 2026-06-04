@@ -1,0 +1,92 @@
+{
+  "id": "card_0832c6",
+  "slug": "hacks-law-rivers-and-deltas",
+  "type": "blog",
+  "title": "Every River on Earth Obeys the Same Exponent",
+  "hook": "Measure a stream's length and the land area that drains into it, and one number links them — no matter the rock, climate, or continent. New work finds deltas obey it too.",
+  "key_points": [
+    "Hack's law, found by USGS scientist John Hack in 1957, says stream length scales as drainage area to the power 0.6.",
+    "It holds regardless of the geology or structure of the terrain — a rare piece of universality in messy Earth science.",
+    "One explanation: river networks settle into branching shapes that minimise energy lost to friction, argued by Andrea Rinaldo and colleagues in the early 1990s.",
+    "Landscape evolution models give the mechanism — channels that erode faster capture more water, so the network reorganises toward that efficient shape.",
+    "Tian Dong and collaborators now report the same 0.6 exponent in river deltas, where channels spread out instead of merging."
+  ],
+  "content_html": "\u003cp\u003eGeology is supposed to be particular: this rock, this rainfall, this history. So it is startling that if you measure the length of a stream and the area of land draining into it, one relationship holds nearly everywhere. Stream length goes as drainage area raised to the 0.6 power — a rule the USGS scientist John Hack spotted in 1957, and which turns out not to care about the local geology at all.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhy should water and rock agree on an exponent? As Quanta Magazine reports, two answers dovetail. In the early 1990s Andrea Rinaldo and colleagues argued that a branching, treelike network is the shape that wastes the least energy to friction while draining a given area — so networks that reach that shape stay there. Landscape evolution models from the same decade supply the mechanism: a channel that erodes a little faster captures a little more water, which lets it erode faster still, and over thousands of years the network reshuffles itself toward the efficient configuration. The new twist comes from Tian Dong and collaborators, who looked at river deltas, where channels fan apart rather than converge, and found the same 0.6 scaling between channel length and the area a channel nourishes with sediment. The same principle appears to govern the network whether it is gathering water in or spreading sediment out.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Natalie Wolchover"
+    ],
+    "url": "https://quantamagazine.org/why-are-rivers-so-mathematical-20260810",
+    "published_at": "2026-08-10",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "fluids-pressure"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-10",
+  "related": [
+    {
+      "id": "card_0ef845",
+      "slug": "simple-fluids-can-fracture",
+      "type": "news",
+      "title": "A 'Simple' Fluid That Cracks Like Glass",
+      "hook": "Only springy, elastic fluids were thought able to fracture instead of just flowing. Then a Drexel University lab stretched an ordinary hydrocarbon liquid and heard it snap.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "card_7de888",
+      "slug": "what-is-pressure",
+      "type": "concept",
+      "title": "What Is Pressure?",
+      "hook": "Pressure is force spread over an area. Concentrate the same push on a tiny spot and it skyrockets — which is why a sharp knife cuts and a thumbtack pierces.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0832c6#0",
+      "format": "flip",
+      "prompt": "What does Hack's law relate, and with what exponent?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003elength\u003c/strong\u003e of a stream and the \u003cstrong\u003edrainage area\u003c/strong\u003e feeding it:\nlength scales as area to the power \u003cstrong\u003e0.6\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0832c6#1",
+      "format": "quiz",
+      "prompt": "Why do river networks branch into trees rather than run in direct channels?",
+      "choices": [
+        {
+          "text": "Branching networks waste less energy to friction, and erosion drives them toward that shape",
+          "correct": true
+        },
+        {
+          "text": "Branching is imposed by the underlying rock type in each region",
+          "correct": false
+        },
+        {
+          "text": "Direct channels are unstable to the Earth's rotation",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRinaldo and colleagues argued networks minimise energy dissipation; landscape\nmodels show faster-eroding channels capture more water, reorganising the network\ntoward that efficient configuration.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0832c6#2",
+      "format": "flip",
+      "prompt": "What is surprising about finding Hack's law in river deltas?",
+      "back_html": "\u003cp\u003eDelta channels \u003cstrong\u003esplit apart\u003c/strong\u003e carrying sediment out to sea, the opposite job to\ntributaries merging inland — yet the same 0.6 exponent shows up.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "card_c7fc6e",
+  "slug": "measuring-human-rights-across-countries",
+  "type": "news",
+  "title": "How You Put a Number on Human Rights",
+  "hook": "Rights either exist or they don't — so how does anyone score a country? Researchers do it by reading the reports, coding the incidents, and correcting for a nasty bias.",
+  "key_points": [
+    "Rights-tracking projects code standardized reports year by year, scoring a set of civil and political rights such as speech, assembly, fair trial and freedom from torture.",
+    "The scores are comparative and relative, designed to track a country against its own past as much as against other states.",
+    "A known trap is the 'information effect': as monitoring improves, more abuses are documented, which can make a country look worse while nothing has changed.",
+    "Statistical models correct for that by separating changes in reporting from changes in actual practice.",
+    "Writing in The Conversation, K. Chad Clay reports new data showing the U.S. declined substantially in 2025 on 8 of the 9 rights measured.",
+    "Cross-national scores are best read as direction and magnitude of change, not as a precise ranking."
+  ],
+  "content_html": "\u003cp\u003eHuman rights sound like the least quantifiable thing in politics, yet a whole research field scores them. The method is to take standardized annual sources — State Department country reports, Amnesty International's, and similar — and have trained coders convert them into consistent ratings across a fixed list of civil and political rights: freedom of speech, assembly and association, religious freedom, freedom of movement, fair trial, and freedom from torture, extrajudicial killing, disappearance and political imprisonment.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe hard part is a bias that runs the wrong way. As human rights monitoring gets better, more abuses are documented, so a country can appear to decline simply because someone finally started looking. Modern projects correct for this statistically, separating shifts in reporting standards from shifts in what governments actually do.\u003c/p\u003e\n\u003cp\u003eWriting in The Conversation, K. Chad Clay of the University of Georgia — who works on one of these tracking projects — reports that new data show the United States falling substantially in 2025 on eight of the nine rights measured. Numbers like these are best read the way their builders intend: not as a leaderboard, but as a measure of which direction a country is moving and how fast.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "K. Chad Clay"
+    ],
+    "url": "https://theconversation.com/the-united-states-human-rights-practices-are-taking-a-nosedive-286538",
+    "published_at": "2026-08-25",
+    "license": "CC BY-ND (The Conversation)"
+  },
+  "topic_ids": [
+    "human-rights",
+    "comparative-systems"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_ae572c",
+      "slug": "enforcing-human-rights",
+      "type": "concept",
+      "title": "Enforcing Human Rights",
+      "hook": "Declaring a right is easy; enforcing it against a sovereign state is hard. The global human-rights system relies more on pressure and exposure than on a world police.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c9b4e7",
+      "slug": "universal-declaration-of-human-rights",
+      "type": "concept",
+      "title": "The Universal Declaration of Human Rights",
+      "hook": "After a world war and the Holocaust, nations did something unprecedented: they wrote down, together, a common list of rights belonging to everyone on Earth.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e455ef",
+      "slug": "democratic-backsliding",
+      "type": "concept",
+      "title": "Democratic Backsliding",
+      "hook": "Democracies rarely die in a single coup anymore. More often they erode — legally, gradually, step by step — until little is left but the shell of elections.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_11cc0c",
+      "slug": "how-official-statistics-earn-trust",
+      "type": "news",
+      "title": "How Official Statistics Earn Trust",
+      "hook": "A government statistic carries weight only because of the process behind it. When a report skips the usual methodology and review, the number stops being evidence and becomes an argument.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_c9b4e7",
+      "slug": "universal-declaration-of-human-rights",
+      "type": "concept",
+      "title": "The Universal Declaration of Human Rights",
+      "hook": "After a world war and the Holocaust, nations did something unprecedented: they wrote down, together, a common list of rights belonging to everyone on Earth.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_c7fc6e#0",
+      "format": "flip",
+      "prompt": "What is the 'information effect' in human rights measurement?",
+      "back_html": "\u003cp\u003eBetter monitoring documents more abuses, so a country's score can fall\nbecause reporting improved — not because practices got worse.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c7fc6e#1",
+      "format": "quiz",
+      "prompt": "How should cross-national human rights scores be read?",
+      "choices": [
+        {
+          "text": "As the direction and size of change over time, not a precise ranking",
+          "correct": true
+        },
+        {
+          "text": "As an exact count of rights violations in each country",
+          "correct": false
+        },
+        {
+          "text": "As a legal finding that a treaty was breached",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe scores are coded from reports and modeled for reporting bias. Their\nstrength is tracking movement, not fine-grained ordering.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c7fc6e#2",
+      "format": "flip",
+      "prompt": "What did the 2025 data show for the United States?",
+      "back_html": "\u003cp\u003eLarge declines on 8 of the 9 civil and political rights the project\nmeasures, according to K. Chad Clay in The Conversation.\u003c/p\u003e"
+    }
+  ]
+}

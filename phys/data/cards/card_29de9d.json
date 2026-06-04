@@ -1,0 +1,112 @@
+{
+  "id": "card_29de9d",
+  "slug": "alien-signals-scrambled-by-stars",
+  "type": "news",
+  "title": "Are Alien Signals Scrambled by Their Own Stars?",
+  "hook": "SETI hunts for razor-thin radio signals. A new study warns a sender's own turbulent star could smear that signal across frequencies — hiding it from us.",
+  "key_points": [
+    "Traditional SETI searches are tuned for extremely narrow-band radio signals.",
+    "Turbulent plasma and stellar storms near a star can broaden a narrow signal across many frequencies.",
+    "Broadening flattens the sharp spectral peak detectors look for, dropping it below thresholds.",
+    "M-dwarfs — about 75% of the Milky Way's stars — have active space weather that worsens the effect.",
+    "The SETI Institute team calibrated the distortion using our own spacecraft transmissions.",
+    "Their advice: keep future searches sensitive to broader signals, not just ultra-narrow ones."
+  ],
+  "content_html": "\u003cp\u003eFor decades, SETI has listened for a telltale sign of alien technology: a radio signal squeezed into an extremely narrow band of frequencies, far sharper than anything nature makes. A new study from the SETI Institute raises an unsettling possibility — we may be missing such signals not because they aren't there, but because the sender's own star smears them out first.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs reported by ScienceDaily, narrow-band radio waves leaving a planet must cross the turbulent plasma and violent space weather surrounding their home star. Those conditions can broaden a razor-thin signal across a wider range of frequencies, flattening the sharp peak that detection algorithms hunt for and pushing it below the noise threshold. The effect is worst around M-dwarfs — small, cool stars that make up roughly 75% of the Milky Way and tend to be magnetically stormy. Lead researcher Dr. Vishal Gajjar's team calibrated the distortion using transmissions from our own solar-system spacecraft, and warns: \u0026quot;If a signal gets broadened by its own star's environment, it can slip below our detection thresholds.\u0026quot; Their recommendation is to widen the net — keep future searches sensitive to broader signals, not only the ultra-narrow ones SETI has traditionally chased.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260615033851.htm",
+    "published_at": "2026-06-16",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-18",
+  "date": "2026-06-16",
+  "related": [
+    {
+      "id": "card_bc9454",
+      "slug": "long-period-radio-transients",
+      "type": "news",
+      "title": "Cracking the Long-Period Radio Transient Mystery",
+      "hook": "Some cosmic signals pulse every hour or so — far too slow for the usual suspects. Astronomers traced one to a white dwarf feeding off its companion star.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_983cfd",
+      "slug": "why-we-might-miss-alien-life",
+      "type": "news",
+      "title": "We Might Already Be Overlooking Signs of Alien Life",
+      "hook": "It's not just that we haven't found alien life — researchers warn we might be looking right at evidence of it and not recognizing it, because we mostly search for signs that look like Earth's own.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_29de9d#0",
+      "format": "flip",
+      "prompt": "Why might Earth be missing alien radio signals, according to the study?",
+      "back_html": "\u003cp\u003eThe sender's own star can scramble them: turbulent plasma and stellar storms broaden a narrow\nsignal across frequencies, weakening the sharp peak that SETI searches are tuned to detect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_29de9d#1",
+      "format": "quiz",
+      "prompt": "Why are M-dwarf stars especially important for this concern?",
+      "choices": [
+        {
+          "text": "They make up ~75% of the galaxy's stars and have active space weather that broadens signals",
+          "correct": true
+        },
+        {
+          "text": "They are the brightest stars and drown out signals with glare",
+          "correct": false
+        },
+        {
+          "text": "They are known to never host any planets",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eM-dwarfs dominate the Milky Way's stellar population, and their active environments are\nespecially likely to smear narrowband signals before they even escape the system.\u003c/p\u003e"
+    },
+    {
+      "id": "card_29de9d#2",
+      "format": "quiz",
+      "prompt": "What change do the researchers recommend for SETI searches?",
+      "choices": [
+        {
+          "text": "Stay sensitive to broader signals, not only ultra-narrow ones",
+          "correct": true
+        },
+        {
+          "text": "Stop searching M-dwarf systems entirely",
+          "correct": false
+        },
+        {
+          "text": "Only listen during a star's storms",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause a star can broaden a transmission, focusing only on ultra-narrow signatures risks\nmissing real signals — so searches should also accept broader ones.\u003c/p\u003e"
+    }
+  ]
+}

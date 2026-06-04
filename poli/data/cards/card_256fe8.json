@@ -1,0 +1,121 @@
+{
+  "id": "card_256fe8",
+  "slug": "who-can-vote-suffrage",
+  "type": "concept",
+  "title": "Who Can Vote: Suffrage",
+  "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+  "key_points": [
+    "Suffrage is the right to vote in public elections.",
+    "It expanded over time — beyond property, then to women, then across race and age barriers.",
+    "Universal adult suffrage, the modern democratic standard, means nearly all adult citizens may vote.",
+    "Who is included or excluded shapes whose interests elected governments actually answer to."
+  ],
+  "content_html": "\u003cp\u003eSuffrage is simply the right to vote in public elections — but few rights have been fought over so hard or won so gradually. The idea that government should rest on the consent of \u0026quot;the people\u0026quot; is ancient, yet for most of history the people who could actually cast a ballot were a small, privileged group. Early electorates were often limited to property-owning men, on the theory that only those with a material stake should decide public affairs.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe modern history of suffrage is the story of that circle widening. Property requirements fell, opening the vote to working men. Long campaigns extended it to women, often decades later. Restrictions tied to race were challenged and dismantled, and voting ages were lowered. The result, now treated as the democratic standard, is universal adult suffrage: the principle that essentially all adult citizens may vote regardless of wealth, sex, or race. Encyclopaedia Britannica traces how contested and uneven this expansion was across countries. The reason it matters so much is structural rather than symbolic: elected governments tend to respond to the interests of those who can hold them accountable at the ballot box, so the boundaries of the franchise quietly shape whose concerns a democracy actually serves.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/suffrage",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_51131a",
+      "slug": "what-is-democracy",
+      "type": "concept",
+      "title": "What Democracy Means",
+      "hook": "Rule by the people: a system where political power ultimately traces back to citizens, usually through regular, free elections.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_74ddb5",
+      "slug": "civil-liberties-vs-civil-rights",
+      "type": "concept",
+      "title": "Civil Liberties vs Civil Rights",
+      "hook": "Two terms people mix up: liberties are freedoms from government interference; rights are protections to be treated equally.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_474ad3",
+      "slug": "proof-of-citizenship-to-vote",
+      "type": "news",
+      "title": "Proof of Citizenship to Vote",
+      "hook": "Should you have to show a passport or birth certificate to register to vote? A fight in Congress over that single requirement reveals a deep tension in election design.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_256fe8#0",
+      "format": "flip",
+      "prompt": "What is suffrage?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eright to vote\u003c/strong\u003e in public elections.\u003c/p\u003e"
+    },
+    {
+      "id": "card_256fe8#1",
+      "format": "quiz",
+      "prompt": "What does 'universal adult suffrage' mean?",
+      "choices": [
+        {
+          "text": "Nearly all adult citizens have the right to vote",
+          "correct": true
+        },
+        {
+          "text": "Only property owners may vote",
+          "correct": false
+        },
+        {
+          "text": "Voting is restricted to elected officials",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUniversal adult suffrage — the modern democratic standard — extends the\nvote to essentially all adult citizens, regardless of property, sex, or race.\u003c/p\u003e"
+    },
+    {
+      "id": "card_256fe8#2",
+      "format": "quiz",
+      "prompt": "Why does the scope of suffrage matter for how a government behaves?",
+      "choices": [
+        {
+          "text": "Governments tend to answer to the interests of those who can vote",
+          "correct": true
+        },
+        {
+          "text": "It determines how many laws are passed each year",
+          "correct": false
+        },
+        {
+          "text": "It sets the length of the working week",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWho is included or excluded shapes whose interests elected officials must\ncourt, so widening the franchise changes whose voice counts.\u003c/p\u003e"
+    }
+  ]
+}

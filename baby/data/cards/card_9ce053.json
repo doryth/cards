@@ -1,0 +1,92 @@
+{
+  "id": "card_9ce053",
+  "slug": "childhood-vaccines",
+  "type": "concept",
+  "title": "How Childhood Vaccines Work",
+  "hook": "Vaccines train a child's immune system to recognize a disease in advance, so it can fight off the real thing — and they're scheduled to protect kids when they're most vulnerable.",
+  "key_points": [
+    "A vaccine shows the immune system a harmless piece or weakened form of a germ, building defenses without the illness.",
+    "The childhood schedule is timed so protection arrives before a child is most at risk from each disease.",
+    "High vaccination rates also protect those who can't be vaccinated, through community (herd) immunity.",
+    "Mild, short-lived reactions like a sore arm or low fever are common; serious reactions are rare."
+  ],
+  "content_html": "\u003cp\u003eA vaccine is essentially a training exercise for the immune system. It presents a harmless piece of a germ — or a weakened version of it — so the body learns to recognize and fight that disease, without the child ever having to suffer the illness to gain the protection.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe childhood immunization schedule isn't arbitrary: it's timed so that protection is in place before a child is most vulnerable to each disease. There's a community benefit too. When enough people are vaccinated, a disease has trouble spreading at all, which shields those who can't be vaccinated — newborns, or people with certain medical conditions — through what's called herd immunity. Mild reactions like a sore arm or a low fever are common and short-lived; serious reactions are rare. The exact schedule and any questions about your child are best handled by your pediatrician. This is general educational information.\u003c/p\u003e",
+  "source": {
+    "name": "CDC — Vaccines for Your Children",
+    "url": "https://www.cdc.gov/vaccines-children/index.html",
+    "license": "Public domain (U.S. Government)"
+  },
+  "topic_ids": [
+    "health-safety",
+    "infant"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_6a8236",
+      "slug": "fever-basics",
+      "type": "concept",
+      "title": "Fever Basics for Parents",
+      "hook": "A fever is a sign the body is fighting infection, not a disease itself — how your child looks and acts often matters more than the exact number on the thermometer.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9ce053#0",
+      "format": "quiz",
+      "prompt": "How does a vaccine protect a child?",
+      "choices": [
+        {
+          "text": "It trains the immune system to recognize a germ before real exposure",
+          "correct": true
+        },
+        {
+          "text": "It kills germs already causing an active illness",
+          "correct": false
+        },
+        {
+          "text": "It replaces the need for the immune system entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA vaccine presents a harmless or weakened piece of a germ so the immune\nsystem builds defenses in advance — without the child getting the disease.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9ce053#1",
+      "format": "flip",
+      "prompt": "What is community (herd) immunity?",
+      "back_html": "\u003cp\u003eWhen \u003cstrong\u003eenough people are vaccinated\u003c/strong\u003e, a disease struggles to spread —\nprotecting those who \u003cstrong\u003ecan't be vaccinated\u003c/strong\u003e, like newborns or some patients.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9ce053#2",
+      "format": "quiz",
+      "prompt": "What kind of reaction to a vaccine is most common?",
+      "choices": [
+        {
+          "text": "Mild and short-lived, like a sore arm or low fever",
+          "correct": true
+        },
+        {
+          "text": "Severe and long-lasting in most children",
+          "correct": false
+        },
+        {
+          "text": "No reaction is ever possible",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMild, brief reactions are common and expected as the immune system\nresponds. Serious reactions are rare.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "card_9b58e6",
+  "slug": "growth-charts-and-percentiles",
+  "type": "concept",
+  "title": "Growth Charts: Why the Curve Beats the Number",
+  "hook": "A percentile compares your child to other kids the same age and sex — it's not a grade. The 10th is no better or worse than the 90th; what matters is the trend along your child's own curve.",
+  "key_points": [
+    "A percentile is a comparison, not a score: 30th percentile means taller/heavier than 30% of peers — not a problem by itself.",
+    "The trend over time along your child's own curve matters far more than any single measurement.",
+    "Roughly the 3rd to 97th percentile is considered a normal range.",
+    "For birth to 24 months, providers use WHO charts (tracking weight, length, and head circumference), then switch to CDC charts after age 2."
+  ],
+  "content_html": "\u003cp\u003eIt's easy to read a growth chart like a report card, but a percentile is just a comparison. If your child is at the 30th percentile for weight, they weigh more than 30% of kids the same age and sex and less than the other 70% — that's it. As the AAP explains, the 10th percentile is no better or worse than the 90th; for growth, we hope for consistency rather than a high number. Roughly the 3rd to 97th percentile is considered a normal range.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat your pediatrician actually watches is the rate and trend of growth — how your child moves along their own curve across several visits. One isolated dot doesn't say much; the pattern over time does. For babies from birth to 24 months, providers use the WHO growth charts and track weight, length, and head circumference (head size is a window into brain growth in infancy), then switch to the CDC charts after age 2. This is general educational information from the AAP — if a measurement or trend ever looks off, that's a normal and worthwhile conversation to have with your pediatrician.\u003c/p\u003e",
+  "source": {
+    "name": "HealthyChildren.org (AAP) — Understanding Growth Charts: Percentiles \u0026 Z-Scores",
+    "url": "https://www.healthychildren.org/English/health-issues/conditions/Glands-Growth-Disorders/Pages/growth-charts-by-the-numbers.aspx",
+    "license": "© American Academy of Pediatrics"
+  },
+  "topic_ids": [
+    "milestones",
+    "feeding"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_6d6766",
+      "slug": "well-child-visits",
+      "type": "concept",
+      "title": "Well-Child Visits: Your Regular Check-Ups",
+      "hook": "Well-child visits aren't just for when something's wrong — they track growth and development, deliver vaccines on schedule, and catch problems early, even when your child seems perfectly fine.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_419aeb",
+      "slug": "developmental-milestones-overview",
+      "type": "concept",
+      "title": "Developmental Milestones: The Big Picture",
+      "hook": "Development happens across several areas at once — social, language, thinking, and movement — and milestones describe what most kids do by an age, not deadlines every child must hit.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9b58e6#0",
+      "format": "quiz",
+      "prompt": "What matters most when reading your child's growth chart?",
+      "choices": [
+        {
+          "text": "The trend along the child's own curve over time",
+          "correct": true
+        },
+        {
+          "text": "Reaching the highest percentile possible",
+          "correct": false
+        },
+        {
+          "text": "A single measurement at one visit",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePercentiles compare a child to peers, not a grade to maximize. Consistency\nand the trend over multiple visits matter more than any one number.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9b58e6#1",
+      "format": "flip",
+      "prompt": "Which growth charts are used from birth to 24 months, and what do they track?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eWHO charts\u003c/strong\u003e are used for birth to 24 months, tracking \u003cstrong\u003eweight,\nlength, and head circumference\u003c/strong\u003e. After age 2, providers switch to the\n\u003cstrong\u003eCDC charts\u003c/strong\u003e.\u003c/p\u003e"
+    }
+  ]
+}

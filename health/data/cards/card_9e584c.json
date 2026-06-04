@@ -1,0 +1,99 @@
+{
+  "id": "card_9e584c",
+  "slug": "glp1-and-hair-loss",
+  "type": "news",
+  "title": "GLP-1 Drugs Carry a Small but Real Hair-Loss Signal",
+  "hook": "Anecdotes about thinning hair on Ozempic and Mounjaro now have data behind them: a BMJ study found a higher rate of hair loss than with two other diabetes drug classes. The good news is which kind.",
+  "key_points": [
+    "Researchers compared roughly 12,000 GLP-1 users (semaglutide, tirzepatide) with users of SGLT-2 and DPP-4 inhibitors in health records from 2019–2024.",
+    "Hair loss ran 37% higher than with SGLT-2 inhibitors (6.91 vs 5.04 per 1,000 person-years) and 68% higher than with DPP-4 inhibitors (6.53 vs 3.89).",
+    "Absolute risk stayed low either way — roughly 5–7 cases per 1,000 person-years.",
+    "The excess was in non-scarring alopecia, where the follicle survives, so regrowth is possible.",
+    "Records lacked detail on the severity, extent, or duration of the hair loss.",
+    "It's observational: rapid weight loss itself can trigger shedding, so the drug may not be the whole story."
+  ],
+  "content_html": "\u003cp\u003eIf you've seen people on Ozempic or Mounjaro mention thinning hair, that anecdote now has a study behind it. Researchers at the University of Pennsylvania Health System combed electronic health records from January 2019 through September 2024 and compared people with type 2 diabetes taking GLP-1 drugs — semaglutide (Ozempic, Wegovy) and tirzepatide (Mounjaro, Zepbound) — against people taking two other diabetes drug classes.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe GLP-1 group had more hair loss both ways it was measured. Against about 15,000 SGLT-2 inhibitor users, the roughly 12,000 GLP-1 users had a 37% higher rate — 6.91 versus 5.04 cases per 1,000 person-years. Against DPP-4 inhibitor users, the gap was 68% (6.53 versus 3.89). Narrowing to non-scarring alopecia specifically, the excess was 53% and 72%. Published in The BMJ, the authors framed it modestly: \u0026quot;Our findings extend previous anecdotal safety signals and provide more systematic evidence to inform clinical awareness of this potential adverse effect.\u0026quot;\u003c/p\u003e\n\u003cp\u003eTwo things keep this in proportion. First, the absolute numbers are small — five to seven cases per 1,000 person-years — and the excess was in non-scarring alopecia, meaning the follicles survive and hair can come back. The researchers noted their records \u0026quot;did not provide enough detail to determine the severity, extent, or duration of the alopecia.\u0026quot; Second, this is observational. GLP-1 users in the study were younger and heavier than the comparison groups, and rapid weight loss from any cause is itself a known trigger for shedding, so the drug may be a marker as much as a cause. If you're on one of these drugs and noticing hair loss, it's worth raising with your prescriber rather than quietly stopping the medication.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260723084047.htm",
+    "published_at": "2026-07-23",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "medication-safety",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_fbce88",
+      "slug": "ozempic-wegovy-dosing-mistakes",
+      "type": "news",
+      "title": "The Ozempic and Wegovy Mistake Sending Thousands to Poison Control",
+      "hook": "Poison control calls about semaglutide (Ozempic and Wegovy) have soared — not from misuse, but from simple dosing mistakes that basic education could largely prevent.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_b379a7",
+      "slug": "glp1-beyond-weight-loss",
+      "type": "news",
+      "title": "GLP-1 Drugs Linked to Lower Addiction Risk",
+      "hook": "A study of ~600,000 U.S. veterans links GLP-1 drugs like semaglutide to lower rates of addiction and overdose — an association, not proof that the drugs cause the effect.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_28d144",
+      "slug": "semaglutide-and-bone-fractures",
+      "type": "news",
+      "title": "Ozempic Linked to Fewer Bone Fractures",
+      "hook": "Losing weight often costs you bone. Yet a study of nearly 60,000 people with type 2 diabetes found semaglutide users had about 15% fewer fractures — even though they lost more weight.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9e584c#0",
+      "format": "quiz",
+      "prompt": "What kind of hair loss did the GLP-1 study find more of — and why does the type matter?",
+      "choices": [
+        {
+          "text": "Non-scarring alopecia, where the follicle survives, so hair can regrow",
+          "correct": true
+        },
+        {
+          "text": "Scarring alopecia, which destroys the follicle permanently",
+          "correct": false
+        },
+        {
+          "text": "Complete, irreversible baldness in most users",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe excess risk was in non-scarring alopecia. Because the follicle stays intact, this\nform is potentially reversible — a meaningfully different prospect from scarring hair loss.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9e584c#1",
+      "format": "flip",
+      "prompt": "How big is the hair-loss risk on GLP-1 drugs in absolute terms?",
+      "back_html": "\u003cp\u003eSmall. Roughly \u003cstrong\u003e6.9 cases per 1,000 person-years\u003c/strong\u003e on a GLP-1 versus \u003cstrong\u003e5.0\u003c/strong\u003e on an\nSGLT-2 inhibitor — a 37% relative increase on top of an already low baseline.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9e584c#2",
+      "format": "flip",
+      "prompt": "Why can't this study prove the drug itself causes the hair loss?",
+      "back_html": "\u003cp\u003eIt's \u003cstrong\u003eobservational\u003c/strong\u003e — it compares people who happened to be prescribed different\ndrugs. GLP-1 users were younger and heavier, and rapid weight loss on its own can\ntrigger shedding, so the drug and its effect are hard to separate.\u003c/p\u003e"
+    }
+  ]
+}

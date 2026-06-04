@@ -1,0 +1,109 @@
+{
+  "id": "card_2657f3",
+  "slug": "gene-therapy",
+  "type": "concept",
+  "title": "Gene Therapy",
+  "hook": "Instead of treating symptoms, gene therapy goes after the root cause — fixing, replacing, or silencing a faulty gene inside a patient's own cells.",
+  "key_points": [
+    "Gene therapy treats disease by altering the genes inside a person's cells.",
+    "It can add a healthy copy of a gene, repair a defect, or switch a bad gene off.",
+    "A harmless virus is often used as a 'vector' to deliver the new genetic material.",
+    "It offers hope for inherited diseases once considered untreatable."
+  ],
+  "content_html": "\u003cp\u003eMost medicines manage the effects of a disease. Gene therapy aims deeper: it tries to correct the genetic instructions that cause the problem in the first place. The strategy can take several forms — adding a healthy copy of a missing gene, repairing a faulty one, or switching off a gene that's doing harm.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe tricky part is delivery — getting new genetic material into the right cells. As MedlinePlus Genetics explains, the most common approach borrows a tool from nature: a virus, stripped of its disease-causing genes, is loaded with the therapeutic gene and used as a \u003cstrong\u003evector\u003c/strong\u003e to ferry it into the patient's cells. Gene therapy has moved from theory to approved treatments for conditions like certain inherited forms of blindness, immune disorders, and blood diseases. It remains complex and costly, but for diseases rooted in a single broken gene, it offers something earlier medicine could not: a shot at fixing the cause.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus Genetics",
+    "url": "https://medlineplus.gov/genetics/understanding/therapy/genetherapy/",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "biotechnology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_9fc450",
+      "slug": "crispr-gene-editing",
+      "type": "concept",
+      "title": "CRISPR: Molecular Scissors for DNA",
+      "hook": "Borrowed from a bacterial immune system, CRISPR lets scientists find a precise spot in the genome and cut it — turning gene editing into something almost routine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e0bc83",
+      "slug": "dna-sequencing-and-the-genome",
+      "type": "concept",
+      "title": "DNA Sequencing and the Genome",
+      "hook": "Sequencing reads the exact order of the letters in DNA — and the Human Genome Project read all 3 billion of ours for the first time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2657f3#0",
+      "format": "flip",
+      "prompt": "What is the basic idea behind gene therapy?",
+      "back_html": "\u003cp\u003eTreating disease by \u003cstrong\u003echanging the genes inside a patient's cells\u003c/strong\u003e — adding a\nworking copy, repairing a defect, or turning off a harmful gene.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2657f3#1",
+      "format": "quiz",
+      "prompt": "How is corrective genetic material often delivered into cells?",
+      "choices": [
+        {
+          "text": "Inside a modified, harmless virus acting as a delivery vehicle",
+          "correct": true
+        },
+        {
+          "text": "By having the patient eat extra DNA",
+          "correct": false
+        },
+        {
+          "text": "Through magnets that pull genes into place",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eViruses are natural experts at inserting genetic material into cells. Scientists\ndisable the harmful parts and use the virus as a \u003cstrong\u003evector\u003c/strong\u003e to carry the new gene.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2657f3#2",
+      "format": "quiz",
+      "prompt": "Why is gene therapy especially promising for inherited diseases?",
+      "choices": [
+        {
+          "text": "It can address the faulty gene that causes the disease, not just the symptoms",
+          "correct": true
+        },
+        {
+          "text": "It works only on infections caused by bacteria",
+          "correct": false
+        },
+        {
+          "text": "It permanently edits the genes of everyone in a family at once",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMany inherited diseases trace to a single broken gene. Supplying or fixing that\ngene tackles the cause directly, rather than only easing the symptoms.\u003c/p\u003e"
+    }
+  ]
+}

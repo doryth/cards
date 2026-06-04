@@ -1,0 +1,106 @@
+{
+  "id": "card_7e7fdf",
+  "slug": "does-a-sphere-fall-like-a-point-particle",
+  "type": "paper",
+  "title": "When does a sphere fall like a point particle?",
+  "hook": "Newton says a perfect sphere falls exactly like a point mass. Einstein agrees — right up to the 16-pole term, where curved spacetime finally notices the sphere has a size.",
+  "key_points": [
+    "In Newtonian gravity, a spherical body in empty space falls exactly like a point mass, at every multipole order.",
+    "Using Dixon's covariant multipole formalism, the authors show the same holds in relativity through quadrupole order.",
+    "At that order the torque vanishes and the body's worldline is a plain geodesic — its size genuinely does not matter.",
+    "The spherical octupole is forbidden outright by symmetry, so the first possible deviation is the hexadecapole.",
+    "There, curvature-squared terms driven by the Weyl tensor generate real forces that survive even in vacuum.",
+    "In Schwarzschild spacetime they compute the correction to infall time, and find chaos if the moments oscillate."
+  ],
+  "content_html": "\u003cp\u003eOne of the quiet miracles of Newtonian gravity is that a perfectly spherical body falls exactly like a point mass. Because the gravitational potential in empty space is harmonic, every correction from the body's finite size cancels — not approximately, but at all orders. Tiago S. Amancio, Ricardo A. Mosna and Ronaldo S. S. Vieira asked how much of that survives in general relativity, and the answer turns out to be \u0026quot;most of it, but not all.\u0026quot;\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWorking in Dixon's covariant multipole formalism — with spherical symmetry defined as O(3) invariance in the Tulczyjew–Dixon momentum rest space — the authors show the relativistic analogue holds through quadrupole order in any Ricci-flat spacetime. At that order the torque vector vanishes, the force reduces to Ricci contractions, and the representative worldline is a geodesic. The spherical octupole is forbidden by symmetry outright. But this is not an all-order effacement principle: at hexadecapole (16-pole) order the torque still vanishes, yet curvature-squared terms driven by the Weyl tensor generate forces that survive in vacuum. For Schwarzschild spacetime the authors compute the resulting force for radial infall and the leading invariant correction to the infall proper time, and show that periodically modulating the hexadecapole moments acts as an internal drive — producing, via Melnikov's method, chaotic layers near the geodesic separatrix. The analysis is restricted to the small-body regime of Dixon's expansion.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Tiago S. Amancio",
+      "Ricardo A. Mosna",
+      "Ronaldo S. S. Vieira"
+    ],
+    "url": "https://arxiv.org/abs/2607.22370",
+    "published_at": "2026-07-24",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "gravity-orbits",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_de7edd",
+      "slug": "why-everything-falls-at-the-same-rate",
+      "type": "concept",
+      "title": "Why Everything Falls at the Same Rate",
+      "hook": "Drop a hammer and a feather together in a vacuum and they hit the ground at the same instant. Gravity doesn't care how heavy you are — and that fact runs surprisingly deep.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f51009",
+      "slug": "octupole-non-universal-free-fall",
+      "type": "paper",
+      "title": "In General Relativity, Not Everything Falls the Same Way",
+      "hook": "Galileo's rule — all objects fall alike — holds for points, not for shapes. In general relativity a body's lumpiness accelerates it, and two identical starts can diverge.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7e7fdf#0",
+      "format": "flip",
+      "prompt": "Why does a sphere fall like a point mass in Newtonian gravity?",
+      "back_html": "\u003cp\u003eBecause the external potential is harmonic in source-free regions, every spherical multipole\nforce beyond the monopole cancels — at all orders.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7e7fdf#1",
+      "format": "quiz",
+      "prompt": "In vacuum general relativity, at which order does a spherical body first stop falling like a point particle?",
+      "choices": [
+        {
+          "text": "Hexadecapole (16-pole) order, where Weyl-driven curvature-squared forces appear",
+          "correct": true
+        },
+        {
+          "text": "Quadrupole order, where the torque first becomes non-zero",
+          "correct": false
+        },
+        {
+          "text": "Octupole order, the first term beyond the quadrupole",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUniversality holds through quadrupole order, and the spherical octupole is forbidden by\nsymmetry — so the first surviving deviation shows up at hexadecapole order.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7e7fdf#2",
+      "format": "flip",
+      "prompt": "What happens if the body's hexadecapole moments are modulated periodically?",
+      "back_html": "\u003cp\u003eThey act as an internal drive. Melnikov's method then gives homoclinic splitting and local\nchaotic layers near the geodesic separatrix.\u003c/p\u003e"
+    }
+  ]
+}

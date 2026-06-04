@@ -1,0 +1,110 @@
+{
+  "id": "card_864954",
+  "slug": "stars-that-survive-repeated-black-hole-passes",
+  "type": "news",
+  "title": "Some Stars Get Shredded Again and Again — and Keep Coming Back",
+  "hook": "A star that survives a dive past a supermassive black hole comes back for another pass, flaring each time. In some systems the flares dim every return, and fast stellar spin may be why.",
+  "key_points": [
+    "A close pass can strip part of a star instead of destroying it — a partial tidal disruption.",
+    "The survivor stays in orbit, so the flare repeats every time it returns to the black hole.",
+    "In some systems each successive flare is fainter than the last, which needs explaining.",
+    "Researchers propose the captured stars were already spinning extremely fast.",
+    "Rapid rotation could explain both the fading flares and how the stars reached such tight orbits."
+  ],
+  "content_html": "\u003cp\u003eA star that wanders close to a supermassive black hole does not always get destroyed. If the pass is a near miss rather than a direct plunge, the black hole's tidal pull peels off only part of the star's outer layers — a partial tidal disruption. The survivor stays in orbit, so the flare is not a one-time event: it comes back every time the star does.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAstronomers have now found several such systems, and ScienceDaily reports a puzzle inside them: in some, each successive flare is dimmer than the one before. The researchers' proposal is that these stars were already rotating extremely fast before the black hole captured them. Rapid spin puffs a star out and loosens its grip on its own outer layers, which could explain the progressive dimming, and it may also be a clue to how the stars reached such extraordinarily tight orbits in the first place. Repeating flares are valuable precisely because they can be followed: each return is another measurement of the same star being slowly taken apart.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260822015119.htm",
+    "published_at": "2026-08-23",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "gravity-orbits"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-23",
+  "related": [
+    {
+      "id": "card_5184bc",
+      "slug": "whippet-tidal-disruption-survivor",
+      "type": "news",
+      "title": "A Black Hole Shredded a Giant Star — and Something Survived",
+      "hook": "The flare nicknamed 'the Whippet' released about 400 billion times the Sun's energy. Months later, fast-moving helium hinted that part of the star was not fully destroyed.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-15"
+    },
+    {
+      "id": "card_81a9b2",
+      "slug": "wandering-black-hole-shreds-a-star",
+      "type": "news",
+      "title": "A Star's Violent Death Exposed a Black Hole in the Wrong Place",
+      "hook": "A supermassive black hole was caught 30,000 light-years off-centre in its galaxy — it only gave itself away by tearing apart a passing star.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-06"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_864954#0",
+      "format": "flip",
+      "prompt": "Why can a tidal disruption flare repeat on a schedule?",
+      "back_html": "\u003cp\u003eIf the pass only strips part of the star, the survivor stays in orbit and flares\nagain each time it swings back past the black hole.\u003c/p\u003e"
+    },
+    {
+      "id": "card_864954#1",
+      "format": "quiz",
+      "prompt": "What explanation do researchers offer for flares that get fainter with each return?",
+      "choices": [
+        {
+          "text": "The captured stars were already spinning extremely fast before capture",
+          "correct": true
+        },
+        {
+          "text": "The black hole loses mass between passes",
+          "correct": false
+        },
+        {
+          "text": "The flares are actually unrelated background supernovae",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRapid pre-capture rotation is the proposed key: it can account for the fading\npattern and for how the stars ended up in such tight orbits.\u003c/p\u003e"
+    },
+    {
+      "id": "card_864954#2",
+      "format": "flip",
+      "prompt": "What does a repeating flare tell you that a one-off flare cannot?",
+      "back_html": "\u003cp\u003eThat the star was not destroyed. The repetition proves a survivor is still in\norbit, and the changes between flares track how it is being worn down.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "card_fb31ee",
+  "slug": "heavy-black-hole-seeds-need-less-light",
+  "type": "paper",
+  "title": "Giant Black Hole Seeds May Be Far Easier to Make Than We Thought",
+  "hook": "To grow the monster quasars seen in the early universe, you need heavy black hole seeds — and those were thought to require rare, intense radiation. New simulations say a modest glow will do.",
+  "key_points": [
+    "High-redshift quasars are so massive so early that they likely grew from heavy seeds — supermassive Population III stars formed in atomic-cooling halos.",
+    "Forming such a star needs a strong gas inflow, which normally requires Lyman-Werner radiation to suppress the molecular hydrogen that would otherwise cool and fragment the gas.",
+    "The team ran 65 high-resolution cosmological zoom-in simulations of 15 pristine halos across a wide range of radiation backgrounds and assembly histories.",
+    "They introduce a way to estimate the final Population III stellar mass from radial gas infall profiles at the onset of runaway collapse.",
+    "Validated against sink-particle simulations, the method reproduces protostellar masses to within about a factor of 2.",
+    "Gas inflow rates jump sharply between halos exposed to J21 ≲ 1 and J21 ≳ 10 — a far more common radiation level than previously assumed thresholds."
+  ],
+  "content_html": "\u003cp\u003eThe universe has a black hole timing problem: quasars powered by billion-solar-mass black holes are already shining less than a billion years after the Big Bang. Growing those from ordinary stellar remnants is a squeeze, so most models start from a heavy seed — a supermassive Population III star that forms in an atomic-cooling halo fed by a huge inflow of gas, then collapses directly. The catch has been that keeping the inflow smooth usually requires an intense Lyman-Werner radiation background to destroy molecular hydrogen, which would otherwise cool the gas and shatter it into many small stars. Such intense backgrounds are rare, which made heavy seeds rare too.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eRyan Hazlett, Eli Visbal, Greg Bryan and Mihir Kulkarni present a suite of 65 high-resolution cosmological zoom-in simulations covering 15 pristine halos across a wide span of Lyman-Werner backgrounds and halo assembly histories. They also introduce a method for estimating the final Population III stellar mass directly from the radial gas infall profile at the onset of runaway collapse, and validate it against published simulations that explicitly follow protostellar accretion with sink particles — reproducing protostellar masses to within roughly a factor of 2. The headline result is a clear transition in gas inflow rates between halos bathed in J21 ≲ 1 and those with J21 ≳ 10, with the latter frequently entering the regime that builds a supermassive star. Since a J21 of order 10 is far more widespread than the much larger thresholds older work demanded, heavy seeds may be considerably more abundant than the standard picture allows.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Ryan Hazlett",
+      "Eli Visbal",
+      "Greg L. Bryan",
+      "Mihir Kulkarni"
+    ],
+    "url": "https://arxiv.org/abs/2608.13656",
+    "published_at": "2026-08-13",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-13",
+  "related": [
+    {
+      "id": "card_326281",
+      "slug": "ancient-quasars-too-early",
+      "type": "news",
+      "title": "31 Quasars That Are Too Old to Make Sense",
+      "hook": "Astronomers found 31 quasars shining from when the universe was just 5% of its current age — powered by black holes that shouldn't have had time to grow so big yet.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_dcf81e",
+      "slug": "jwst-black-hole-star",
+      "type": "news",
+      "title": "A 'Black Hole Star' in the Early Universe",
+      "hook": "JWST found something from the universe's first few hundred million years that looks like a giant star but shines a hundred billion times too brightly to be one.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-13"
+    },
+    {
+      "id": "card_7b1e60",
+      "slug": "primordial-black-holes-little-red-dots",
+      "type": "paper",
+      "title": "Did Clusters of Primordial Black Holes Seed JWST's Puzzling 'Little Red Dots'?",
+      "hook": "JWST found overweight black holes far too early in the universe for standard theories to explain. One proposal: they were seeded by swarms of black holes born moments after the Big Bang.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fb31ee#0",
+      "format": "flip",
+      "prompt": "Why do early, very massive quasars point to 'heavy seeds'?",
+      "back_html": "\u003cp\u003eThere is not enough time in the early universe to grow them from ordinary stellar-mass\nblack holes, so they likely started from \u003cstrong\u003esupermassive Population III stars\u003c/strong\u003e collapsing\nin atomic-cooling halos with large gas inflow rates.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fb31ee#1",
+      "format": "quiz",
+      "prompt": "What role does Lyman-Werner radiation play in forming a heavy black hole seed?",
+      "choices": [
+        {
+          "text": "It destroys molecular hydrogen, preventing the gas from cooling and fragmenting into many small stars",
+          "correct": true
+        },
+        {
+          "text": "It heats the halo so much that no star can form at all",
+          "correct": false
+        },
+        {
+          "text": "It directly compresses gas into a black hole",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMolecular hydrogen is an efficient coolant; without it the gas stays warm, keeps flowing\ninward as a single stream, and can build one supermassive star instead of many small ones.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fb31ee#2",
+      "format": "flip",
+      "prompt": "What is the key numerical finding about the required radiation level?",
+      "back_html": "\u003cp\u003eGas inflow rates transition sharply between halos seeing \u003cstrong\u003eJ21 ≲ 1\u003c/strong\u003e and \u003cstrong\u003eJ21 ≳ 10\u003c/strong\u003e —\nthe latter frequently reaching the runaway regime. That is a much more attainable\nbackground than earlier, higher thresholds.\u003c/p\u003e"
+    }
+  ]
+}

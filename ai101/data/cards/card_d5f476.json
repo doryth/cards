@@ -1,0 +1,95 @@
+{
+  "id": "card_d5f476",
+  "slug": "alexa-verify-amazon-messages",
+  "type": "news",
+  "title": "Ask the Assistant Whether the Email Really Came From Amazon",
+  "hook": "Amazon impersonation is one of the most common scams going. Now you can forward the suspicious message to Amazon's own AI and ask.",
+  "key_points": [
+    "Amazon added a feature letting you ask its AI assistant whether an email, text, or call actually came from the company, per The Verge.",
+    "You ask Alexa for Shopping about the message, and it compares against Amazon's records of what it actually sent you.",
+    "This inverts the usual advice: instead of judging the message, check it against the sender's own ledger.",
+    "It only covers Amazon — it says nothing about a fake message claiming to be your bank.",
+    "The evergreen habit still wins: never use a link or number from the suspicious message itself."
+  ],
+  "content_html": "\u003cp\u003eAmazon impersonation is one of the highest-volume scams in existence — a fake order confirmation, a fake refund, a fake \u0026quot;suspicious activity on your account\u0026quot; call. Amazon's new answer, per The Verge, is to let you ask its own AI. Send Alexa for Shopping the email, text, or phone call in question and it will compare it against what Amazon actually sent you.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat's genuinely clever here is the direction of the check. The standard advice — look for typos, hover over links, check the sender address — asks you to out-analyze a scammer who has gotten very good, very fast, at looking legitimate. This instead asks the only party who knows for certain: the company itself. It's a lookup, not a judgment call.\u003c/p\u003e\n\u003cp\u003eTwo caveats keep it honest. It covers Amazon and nothing else, so the same trick won't help with a fake message from your bank or a delivery service. And the oldest rule still applies underneath it: never use a phone number, link, or reply address that came inside the suspicious message. Open the app yourself, or type the address in fresh. The assistant is a convenience on top of that habit, not a replacement for it.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "published_at": "2026-09-02",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-scams",
+    "ai-everyday",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_fa7ea4",
+      "slug": "protecting-older-relatives",
+      "type": "concept",
+      "title": "Protecting Older Relatives from AI Scams",
+      "hook": "AI voice-cloning has supercharged the 'grandparent scam' — a panicked call in a loved one's voice. The best protection is a five-minute conversation before it ever happens.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4830ed",
+      "slug": "ai-scams",
+      "type": "concept",
+      "title": "AI Scams \u0026 Staying Safe",
+      "hook": "AI didn't invent scams — it just made them cheaper, faster, and far more convincing. The good news: the habits that beat them haven't changed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d5f476#0",
+      "format": "flip",
+      "prompt": "What makes checking with the company's own assistant stronger than eyeballing an email?",
+      "back_html": "\u003cp\u003eIt compares the message against Amazon's record of what it actually sent you. That's\na fact about the sender, not a guess based on how polished the fake looks.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d5f476#1",
+      "format": "quiz",
+      "prompt": "You get a suspicious 'Amazon' text with a support number. What's the safe move?",
+      "choices": [
+        {
+          "text": "Ignore the number in the text and verify through the Amazon app or assistant yourself",
+          "correct": true
+        },
+        {
+          "text": "Call the number and ask them to confirm their identity",
+          "correct": false
+        },
+        {
+          "text": "Reply STOP and see whether the messages continue",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAny contact detail inside a suspected scam message may be part of the scam. Always\nreach the company through a channel you opened yourself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d5f476#2",
+      "format": "flip",
+      "prompt": "What's the limit of a feature like this?",
+      "back_html": "\u003cp\u003eIt only verifies Amazon. A convincing fake from your bank, a delivery service, or\na government agency is outside what it can check.\u003c/p\u003e"
+    }
+  ]
+}

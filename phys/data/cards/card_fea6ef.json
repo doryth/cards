@@ -1,0 +1,112 @@
+{
+  "id": "card_fea6ef",
+  "slug": "nuclear-fission",
+  "type": "concept",
+  "title": "Nuclear Fission",
+  "hook": "Split one heavy nucleus and it releases neutrons that split more — a chain reaction that, tamed, lights cities, and unleashed, levels them.",
+  "key_points": [
+    "Splitting a heavy nucleus like uranium into lighter pieces releases energy.",
+    "Each split also throws off neutrons that can split more nuclei — a chain reaction.",
+    "Controlled, the chain reaction powers reactors; uncontrolled, it's an atomic bomb.",
+    "The energy comes from a tiny bit of mass converting to energy, via E=mc^2."
+  ],
+  "content_html": "\u003cp\u003eHeavy nuclei like uranium are packed with protons and neutrons that barely hold together, and they can be coaxed into splitting. When a neutron strikes such a nucleus, it can break into lighter fragments, releasing a burst of energy and, crucially, a few more neutrons. Those neutrons fly off and split other nuclei, which release still more neutrons — a self-feeding chain reaction.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe energy comes from mass itself: the fragments weigh a hair less than the original nucleus, and that missing mass becomes energy through Einstein's E=mc^2. The whole game is controlling the cascade. In a nuclear reactor, operators throttle the reaction so it produces steady heat to make electricity. Let the same reaction run wild and it becomes the explosive heart of an atomic bomb. Wikipedia details the physics of the chain reaction and the materials that sustain it.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nuclear_fission",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "atomic-nuclear"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d1ba32",
+      "slug": "nuclear-fusion",
+      "type": "concept",
+      "title": "Nuclear Fusion",
+      "hook": "The same reaction that powers every star — squeezing light nuclei together — could one day give Earth nearly limitless clean energy, if we can hold a sun in a box.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_fea6ef#0",
+      "format": "flip",
+      "prompt": "What makes fission self-sustaining?",
+      "back_html": "\u003cp\u003eEach split nucleus releases extra \u003cstrong\u003eneutrons\u003c/strong\u003e, which can strike and split\nmore nuclei. That cascade is a \u003cstrong\u003echain reaction\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fea6ef#1",
+      "format": "quiz",
+      "prompt": "Where does the energy released in fission actually come from?",
+      "choices": [
+        {
+          "text": "A small amount of mass converting into energy (E=mc^2)",
+          "correct": true
+        },
+        {
+          "text": "Friction as the nucleus tears apart",
+          "correct": false
+        },
+        {
+          "text": "Heat stored inside the original nucleus",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe fragments weigh slightly less than the original nucleus; that missing\nmass is released as energy, following E=mc^2.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fea6ef#2",
+      "format": "quiz",
+      "prompt": "What is the difference between a reactor and a fission bomb?",
+      "choices": [
+        {
+          "text": "A reactor keeps the chain reaction controlled; a bomb lets it run away",
+          "correct": true
+        },
+        {
+          "text": "They use completely different forces",
+          "correct": false
+        },
+        {
+          "text": "A bomb uses fusion while a reactor uses fission",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth rely on a fission chain reaction; the difference is whether the rate\nis held steady or allowed to escalate explosively.\u003c/p\u003e"
+    }
+  ]
+}

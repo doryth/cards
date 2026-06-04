@@ -1,0 +1,101 @@
+{
+  "id": "card_8f74bc",
+  "slug": "torque",
+  "type": "concept",
+  "title": "Torque: The Twist That Makes Things Turn",
+  "hook": "Why is a long wrench easier than a short one? Torque is rotational force — it grows with how far from the pivot you push, not just how hard.",
+  "key_points": [
+    "Torque is the turning effect of a force — the rotational counterpart of a straight-line push.",
+    "It equals the force times the lever-arm distance from the pivot.",
+    "Push farther from the hinge and the same force produces more turning.",
+    "A door handle sits far from the hinges for exactly this reason."
+  ],
+  "content_html": "\u003cp\u003eTorque is what force becomes when you want something to spin instead of slide. Push on a door, tighten a bolt, or pedal a bike, and what matters isn't just how hard you push but how far from the pivot your push lands. That distance is the lever arm, and torque is the force multiplied by it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is why tools and everyday objects are shaped the way they are. A long wrench, a door handle set far from the hinges, a bike crank — each gives you a generous lever arm so a modest force creates a strong twist. Push closer to the pivot and you have to push much harder for the same effect. Wikipedia lays out the precise definition and how torque relates to rotation, the angular cousin of Newton's straight-line laws.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Torque",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "rotational-motion"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d32c83",
+      "slug": "newtons-three-laws",
+      "type": "concept",
+      "title": "Newton's Three Laws of Motion",
+      "hook": "Three short rules — inertia, F=ma, and action-reaction — quietly govern almost everything that moves around you.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b13e3a",
+      "slug": "center-of-mass",
+      "type": "concept",
+      "title": "Center of Mass: An Object's Balance Point",
+      "hook": "Throw a wrench and it tumbles wildly — but one point traces a clean arc. That point, the center of mass, is where an object's weight effectively acts.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8f74bc#0",
+      "format": "flip",
+      "prompt": "What two things does torque depend on?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eforce\u003c/strong\u003e applied and the \u003cstrong\u003elever-arm distance\u003c/strong\u003e from the pivot to\nwhere the force acts. More distance means more turning for the same force.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8f74bc#1",
+      "format": "quiz",
+      "prompt": "Why is it easier to loosen a stiff bolt with a longer wrench?",
+      "choices": [
+        {
+          "text": "The longer arm increases torque for the same force you apply",
+          "correct": true
+        },
+        {
+          "text": "A longer wrench is heavier, so gravity helps",
+          "correct": false
+        },
+        {
+          "text": "Longer metal is stronger and bends the bolt directly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTorque is force times lever-arm distance. A longer wrench moves your hand\nfarther from the bolt, multiplying the turning effect of the same push.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8f74bc#2",
+      "format": "quiz",
+      "prompt": "Where are door handles usually placed, and why?",
+      "choices": [
+        {
+          "text": "Far from the hinges, to maximize the lever arm and turning effect",
+          "correct": true
+        },
+        {
+          "text": "Near the hinges, so less of the door has to move",
+          "correct": false
+        },
+        {
+          "text": "In the center, to balance the force evenly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePlacing the handle far from the hinges gives a long lever arm, so a gentle\npush produces enough torque to swing the door.\u003c/p\u003e"
+    }
+  ]
+}

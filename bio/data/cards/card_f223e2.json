@@ -1,0 +1,105 @@
+{
+  "id": "card_f223e2",
+  "slug": "environment-switching-survival",
+  "type": "paper",
+  "title": "A Species That Always Loses Can Still Win — By Switching Fast Enough",
+  "hook": "A predator doomed to extinction in either of two environments can persist forever if the environment keeps flipping between them fast enough — a twist with a warning for drug-cycling strategies.",
+  "key_points": [
+    "In a minimal predator-prey model, a predator that goes extinct in each of two static environments can survive indefinitely if the environment alternates between them quickly.",
+    "There's a critical switching rate above which persistence kicks in — below it, the predator still dies out.",
+    "Random (unpredictable) switching has to happen faster than regular, periodic switching to have the same rescuing effect.",
+    "The same math applies to any two-species system, including drug-pathogen dynamics.",
+    "It predicts that two drugs which each clear an infection alone can fail when alternated — a non-resistance explanation for why some drug-cycling strategies backfire."
+  ],
+  "content_html": "\u003cp\u003eImagine a predator that always loses — hunted to extinction in Environment A, and again in Environment B. Common sense says it has no future. A new theoretical paper shows common sense is wrong, if the environment keeps flipping between A and B fast enough.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eUsing a minimal predator-prey model, the researchers show there's a critical switching rate: below it, the predator still dies out during its long stretches in the bad environment; above it, the predator persists indefinitely, rescued purely by the tempo of change rather than by anything special about either environment. Random switching needs to run even faster than regular, clockwork switching to have the same effect. The result generalizes to any two-species system — and when the authors apply it to a standard model of viral dynamics, it makes a striking prediction: two drugs that would each clear a pathogen on their own can fail when doctors alternate between them, simply because of switching speed, without any drug resistance evolving at all. It's a reminder that in evolution, the rhythm of change can matter as much as the change itself.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv (q-bio.PE)",
+    "authors": [
+      "Riz Fernando Noronha",
+      "Kunihiko Kaneko"
+    ],
+    "url": "https://arxiv.org/abs/2607.04204",
+    "published_at": "2026-07-05",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "evolution"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-13",
+  "date": "2026-07-05",
+  "related": [
+    {
+      "id": "card_89dd5d",
+      "slug": "natural-selection",
+      "type": "concept",
+      "title": "Natural Selection",
+      "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b02aab",
+      "slug": "antibiotics-and-resistance",
+      "type": "concept",
+      "title": "Antibiotics and Resistance",
+      "hook": "Antibiotics are among medicine's greatest tools — but every time we use one, the surviving bacteria get a chance to learn how to beat it.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f223e2#0",
+      "format": "flip",
+      "prompt": "How can a species that always loses in two different environments still survive?",
+      "back_html": "\u003cp\u003eBy experiencing \u003cstrong\u003eboth\u003c/strong\u003e environments in fast alternation. If the environment\nswitches quickly enough, the species can persist indefinitely — even though it\ngoes extinct in either environment alone.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f223e2#1",
+      "format": "quiz",
+      "prompt": "What determines whether fast switching actually rescues the losing species?",
+      "choices": [
+        {
+          "text": "Whether the switching rate exceeds a critical threshold",
+          "correct": true
+        },
+        {
+          "text": "Whether the species evolves a new trait first",
+          "correct": false
+        },
+        {
+          "text": "Whether the two environments are identical",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBelow a critical switching rate, the species still goes extinct during its long\nspells in the unfavorable environment. Above that rate, alternation rescues it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f223e2#2",
+      "format": "quiz",
+      "prompt": "What surprising medical consequence does this model suggest?",
+      "choices": [
+        {
+          "text": "Alternating between two drugs that each work alone can sometimes let an infection persist, with no resistance evolving at all",
+          "correct": true
+        },
+        {
+          "text": "Combining any two effective drugs always clears an infection faster",
+          "correct": false
+        },
+        {
+          "text": "Drug-cycling strategies are mathematically impossible to model",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eApplying the same switching logic to viral dynamics, the model shows drug-cycling\ncan fail purely from the tempo of alternation — a non-resistance-based explanation\nfor why some cycling strategies underperform.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "card_1bc8aa",
+  "slug": "what-is-dna",
+  "type": "concept",
+  "title": "What Is DNA?",
+  "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+  "key_points": [
+    "DNA stores genetic information as a sequence of four bases: A, T, G, and C.",
+    "Its shape is a double helix — two strands twisted like a spiral ladder.",
+    "The bases pair specifically: A with T, and G with C, so each strand can copy the other.",
+    "A gene is a stretch of DNA that codes for a particular protein or trait."
+  ],
+  "content_html": "\u003cp\u003eDNA — deoxyribonucleic acid — is the molecule that stores the instructions for life. The information is written in a four-letter alphabet of chemical bases: adenine, thymine, guanine, and cytosine, abbreviated A, T, G, and C. The exact order of these letters along the molecule is the code, much as the order of letters in this sentence carries its meaning.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe molecule's famous shape, the double helix described by Watson and Crick in 1953, is two strands twisted around each other like a spiral ladder. The rungs are pairs of bases, and the pairing is strict: A always bonds with T, and G always with C. That rule is the secret to copying — split the ladder down the middle and each half specifies exactly how to rebuild its partner, so the code can be passed on faithfully when a cell divides. A gene is simply a meaningful stretch of this sequence, usually the recipe for one protein. The NIH genome glossary defines the molecule and its parts.\u003c/p\u003e",
+  "source": {
+    "name": "National Human Genome Research Institute (NIH)",
+    "url": "https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d14f9d",
+      "slug": "what-is-a-cell",
+      "type": "concept",
+      "title": "What Is a Cell?",
+      "hook": "Every living thing — from a bacterium to a blue whale — is built from cells, the smallest unit that can call itself alive.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82d3b1",
+      "slug": "genes-and-traits",
+      "type": "concept",
+      "title": "How Genes Become Traits",
+      "hook": "You inherit two copies of every gene — one from each parent — and the way those copies interact helps decide everything from eye color to blood type.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fda1b0",
+      "slug": "genome-not-a-blueprint",
+      "type": "blog",
+      "title": "The Genome Isn't a Blueprint",
+      "hook": "We love to call DNA the 'code of life,' but a Quanta essay argues the genome is a tangled, 3D physical object — and that messiness may trip up the AI now trying to read it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1bc8aa#0",
+      "format": "flip",
+      "prompt": "What are the four bases that make up DNA's code?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eA\u003c/strong\u003edenine, \u003cstrong\u003eT\u003c/strong\u003ehymine, \u003cstrong\u003eG\u003c/strong\u003euanine, and \u003cstrong\u003eC\u003c/strong\u003eytosine — usually written\nA, T, G, C. Their order along the strand spells out the genetic instructions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1bc8aa#1",
+      "format": "quiz",
+      "prompt": "In DNA's double helix, which bases pair together?",
+      "choices": [
+        {
+          "text": "A pairs with T, and G pairs with C",
+          "correct": true
+        },
+        {
+          "text": "A pairs with G, and T pairs with C",
+          "correct": false
+        },
+        {
+          "text": "Each base pairs randomly with any other",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe pairing is specific — A–T and G–C — which is what lets one strand serve as\na template to rebuild the other.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1bc8aa#2",
+      "format": "quiz",
+      "prompt": "What is a gene?",
+      "choices": [
+        {
+          "text": "A stretch of DNA that codes for a protein or trait",
+          "correct": true
+        },
+        {
+          "text": "A separate molecule unrelated to DNA",
+          "correct": false
+        },
+        {
+          "text": "The protective coat around a cell",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA gene is a meaningful segment of the DNA sequence — a unit of instruction,\ntypically for building one protein.\u003c/p\u003e"
+    }
+  ]
+}

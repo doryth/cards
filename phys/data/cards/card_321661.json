@@ -1,0 +1,95 @@
+{
+  "id": "card_321661",
+  "slug": "gravitational-waves-via-laser-spectroscopy",
+  "type": "paper",
+  "title": "Hunting Gravitational Waves Without a LIGO-Style Detector",
+  "hook": "LIGO can't see gravitational waves above a few kHz. Physicists just used precision laser spectroscopy instead, setting the first-ever limits across a huge, previously unexplored frequency range.",
+  "key_points": [
+    "Gravitational waves passing through a laser cavity subtly modulate the frequency of the light it emits — a different detection channel than the mirror-displacement method LIGO uses.",
+    "Using precision optical spectroscopy, researchers searched for gravitational waves between 100 kHz and 100 MHz, a range essentially unexplored by existing detectors.",
+    "They set the first constraints across much of this frequency window.",
+    "The team expects future refinements of the technique to improve sensitivity by eight orders of magnitude and extend coverage up to at least 1 GHz."
+  ],
+  "content_html": "\u003cp\u003eGravitational-wave astronomy has a blind spot: LIGO-style detectors, which sense gravitational waves by measuring tiny displacements of mirrors, lose sensitivity above a few kilohertz. Above that, from the kHz range up through MHz and beyond, we've had essentially no way to look.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePhysicists Dmitry Budker, Valerie Domcke, Joachim Kopp, and Oleg Tretiak use a different physical effect entirely: a gravitational wave passing through a laser cavity subtly modulates the frequency of the light it emits. By applying precision optical spectroscopy to search for that modulation, the team set the first constraints on gravitational waves across much of the 100 kHz to 100 MHz range — a huge swath of the spectrum previously unexplored by any detector. The current limits aren't yet competitive with the most optimistic theoretical predictions, but the team expects future refinements to push sensitivity up by eight orders of magnitude and extend coverage to at least 1 GHz, opening a genuinely new observational window that could catch exotic high-frequency sources invisible to LIGO.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Dmitry Budker",
+      "Valerie Domcke",
+      "Joachim Kopp",
+      "Oleg Tretiak"
+    ],
+    "url": "https://arxiv.org/abs/2607.12617",
+    "published_at": "2026-07-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "gravity-orbits",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_321661#0",
+      "format": "flip",
+      "prompt": "How does this technique detect gravitational waves, and how is that different from LIGO?",
+      "back_html": "\u003cp\u003eA passing gravitational wave subtly \u003cstrong\u003emodulates the frequency\u003c/strong\u003e of light emitted\nby a laser cavity — detected via precision spectroscopy, rather than LIGO's\napproach of measuring tiny mirror displacements with laser interferometry.\u003c/p\u003e"
+    },
+    {
+      "id": "card_321661#1",
+      "format": "quiz",
+      "prompt": "What frequency range did this search target, and why does that matter?",
+      "choices": [
+        {
+          "text": "100 kHz to 100 MHz — a range essentially unexplored by existing gravitational-wave detectors",
+          "correct": true
+        },
+        {
+          "text": "The same few-hundred-Hz range LIGO already covers well",
+          "correct": false
+        },
+        {
+          "text": "Frequencies below 1 Hz, overlapping with future space-based detectors",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLIGO-style detectors are sensitive up to only a few kHz; this technique opens up\na much higher, previously unconstrained frequency window.\u003c/p\u003e"
+    },
+    {
+      "id": "card_321661#2",
+      "format": "flip",
+      "prompt": "What improvement do the researchers expect from future refinements of this method?",
+      "back_html": "\u003cp\u003eUp to \u003cstrong\u003eeight orders of magnitude\u003c/strong\u003e better sensitivity, with frequency coverage\nextended to at least 1 GHz.\u003c/p\u003e"
+    }
+  ]
+}

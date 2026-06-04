@@ -1,0 +1,100 @@
+{
+  "id": "card_74a623",
+  "slug": "saturn-magnetosphere-afternoon-twist",
+  "type": "news",
+  "title": "Saturn's Magnetic Shield Has an Afternoon Tilt",
+  "hook": "On Earth, the gap where the solar wind leaks into our magnetic shield sits near noon. Cassini data show Saturn's spin drags its opening around to the afternoon side.",
+  "key_points": [
+    "A planet's magnetosphere is the magnetic bubble that deflects the solar wind, with openings where the wind can get in.",
+    "Cassini data place Saturn's key opening far toward the afternoon side, not near local noon as on Earth.",
+    "The culprit is Saturn's fast rotation, which drags the magnetic field and its plasma around with the planet.",
+    "Charged material fed in by moons like Enceladus adds to that internal push against the Sun's influence.",
+    "Takeaway: giant planets run a rotation-dominated magnetic regime, while Earth's is set mainly by the solar wind."
+  ],
+  "content_html": "\u003cp\u003eEvery magnetized planet carries a magnetosphere — a bubble of magnetic field that fends off the solar wind — and each bubble has weak spots where that wind can leak in. On Earth, the main opening sits roughly where you'd expect: near local noon, facing the Sun. New work on Cassini data, reported via ScienceDaily, finds Saturn breaks that expectation, with its opening dragged far around toward the afternoon side.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe proposed reason is that Saturn simply spins too fast for the Sun to set the terms. As the planet turns, it hauls its magnetic field and the plasma trapped in it around with it, and charged material injected by moons like Enceladus feeds that internal circulation further. The result is a magnetosphere whose geometry is decided mostly from the inside out. That makes Saturn a clean example of a rotation-dominated magnetic regime — a useful contrast to Earth, where the solar wind is the dominant sculptor — and a reminder that giant planets are not just scaled-up versions of our own.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260807035153.htm",
+    "published_at": "2026-08-10",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "electricity-magnetism"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-10",
+  "related": [
+    {
+      "id": "card_bf0bce",
+      "slug": "saturn-spin-mystery",
+      "type": "news",
+      "title": "Solving Saturn's Spin Mystery",
+      "hook": "Saturn's measured spin rate kept drifting, baffling astronomers for decades. The James Webb telescope reveals the planet wasn't speeding up — its winds were fooling us.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "card_7ed11f",
+      "slug": "giant-planet-spins",
+      "type": "news",
+      "title": "Why Some Giant Planets Spin Faster Than 'Failed Stars'",
+      "hook": "Astronomers clocked the spins of dozens of distant worlds and found a surprise: lightweight giant planets can twirl faster than the much heavier brown dwarfs — so mass isn't the whole story.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_fb760c",
+      "slug": "jupiter-magnetic-cavity-moons",
+      "type": "news",
+      "title": "The Magnetic Bubble That Saved Jupiter's Moons",
+      "hook": "Jupiter has four giant moons. Saturn has essentially one. New simulations pin the difference on a magnetic bubble that kept young Jupiter's moons from spiraling to their deaths.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-27"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_74a623#0",
+      "format": "flip",
+      "prompt": "Where does Saturn's key magnetospheric opening sit, and where does Earth's?",
+      "back_html": "\u003cp\u003eSaturn's is dragged far around to the \u003cstrong\u003eafternoon\u003c/strong\u003e side; Earth's stays near\nlocal \u003cstrong\u003enoon\u003c/strong\u003e, roughly facing the incoming solar wind.\u003c/p\u003e"
+    },
+    {
+      "id": "card_74a623#1",
+      "format": "quiz",
+      "prompt": "What pushes Saturn's magnetospheric opening away from the noon position?",
+      "choices": [
+        {
+          "text": "The planet's rapid rotation, which drags the field and its plasma around",
+          "correct": true
+        },
+        {
+          "text": "An unusually strong solar wind at Saturn's distance from the Sun",
+          "correct": false
+        },
+        {
+          "text": "The gravitational pull of Titan on the magnetic field",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFast spin carries Saturn's field and plasma with the planet, so internal rotation\nrather than the Sun sets where the opening ends up.\u003c/p\u003e"
+    },
+    {
+      "id": "card_74a623#2",
+      "format": "flip",
+      "prompt": "How do Saturn's moons figure into its magnetic environment?",
+      "back_html": "\u003cp\u003eMoons such as \u003cstrong\u003eEnceladus\u003c/strong\u003e supply charged material to the magnetosphere, adding\nto the internal pressure that competes with the Sun's influence.\u003c/p\u003e"
+    }
+  ]
+}

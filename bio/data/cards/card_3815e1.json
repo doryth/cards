@@ -1,0 +1,112 @@
+{
+  "id": "card_3815e1",
+  "slug": "what-are-protists",
+  "type": "concept",
+  "title": "What Are Protists?",
+  "hook": "Amoebas, pond algae, and the wriggling paramecium all land in one messy group — protists, biology's catch-all for eukaryotes that aren't plants, animals, or fungi.",
+  "key_points": [
+    "Protists are eukaryotes (their cells have a nucleus), mostly single-celled.",
+    "The group is a catch-all: it holds anything that isn't a plant, animal, or fungus.",
+    "Examples include amoebas, paramecia, algae, and the parasite that causes malaria.",
+    "Some make food by photosynthesis, others hunt or absorb nutrients like animals.",
+    "It is not a true natural group — its members are only loosely related."
+  ],
+  "content_html": "\u003cp\u003eProtists are the leftovers drawer of biology: eukaryotic organisms — their cells have a nucleus — that don't fit the plant, animal, or fungus kingdoms. Most are single cells, like the shape-shifting amoeba or the hair-fringed paramecium, though pond scum and seaweeds count too. Some feed by photosynthesis, others hunt, and a few cause diseases such as malaria.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Encyclopaedia Britannica explains, \u0026quot;protist\u0026quot; is a convenience label rather than a tidy natural group. Its members are only distantly related to one another, united mainly by what they are not. That fuzziness is exactly why modern classification, guided by genetics, keeps reshuffling these organisms into many separate lineages. Still, the term remains a useful starting point for the vast, mostly microscopic world of eukaryotes beyond the familiar kingdoms.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/protist",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "microbiology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_9fa649",
+      "slug": "kingdoms-of-life",
+      "type": "concept",
+      "title": "The Kingdoms of Life",
+      "hook": "One step below the domains, life sorts into kingdoms — animals, plants, fungi, and assorted microbes — each a different way of making a living on Earth.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f3ef92",
+      "slug": "what-are-fungi",
+      "type": "concept",
+      "title": "What Are Fungi?",
+      "hook": "Mushrooms, molds, and yeast belong to their own kingdom — not plants, not animals — and they make their living by digesting the world around them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3815e1#0",
+      "format": "flip",
+      "prompt": "What kind of cell does a protist have?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003eeukaryotic\u003c/strong\u003e cell — meaning it has a true nucleus. Most protists are\nsingle-celled, though some, like seaweeds, form large bodies.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3815e1#1",
+      "format": "quiz",
+      "prompt": "Why are protists called a 'catch-all' group?",
+      "choices": [
+        {
+          "text": "They include eukaryotes that aren't plants, animals, or fungi",
+          "correct": true
+        },
+        {
+          "text": "They are the only organisms without a nucleus",
+          "correct": false
+        },
+        {
+          "text": "They are all closely related descendants of one ancestor",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProtists are defined by exclusion — anything eukaryotic that doesn't fit the\nother kingdoms gets parked here, so the group is diverse and not truly natural.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3815e1#2",
+      "format": "quiz",
+      "prompt": "Which of these is a protist?",
+      "choices": [
+        {
+          "text": "An amoeba",
+          "correct": true
+        },
+        {
+          "text": "A mushroom",
+          "correct": false
+        },
+        {
+          "text": "A bacterium",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAmoebas and paramecia are classic protists. Mushrooms are fungi, and bacteria\nare prokaryotes with no nucleus, so neither belongs.\u003c/p\u003e"
+    }
+  ]
+}

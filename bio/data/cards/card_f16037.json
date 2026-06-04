@@ -1,0 +1,101 @@
+{
+  "id": "card_f16037",
+  "slug": "human-reproduction",
+  "type": "concept",
+  "title": "Human Reproduction",
+  "hook": "New human life begins when two specialized cells — one egg, one sperm — combine, merging half a set of genetic instructions from each parent into a brand-new whole.",
+  "key_points": [
+    "Reproduction makes new individuals; in humans it is sexual, combining two parents' genes.",
+    "Sex cells (gametes) — sperm and egg — each carry half the normal set of chromosomes.",
+    "Fertilization is the fusion of a sperm and an egg, forming a single cell called a zygote.",
+    "The zygote carries a complete, unique genome and can grow into a new individual."
+  ],
+  "content_html": "\u003cp\u003eReproduction is how a species makes new members of itself. Humans reproduce sexually, meaning a new individual gets genetic material from two parents. The whole process hinges on a special kind of cell built for exactly one purpose: passing on genes.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThose special cells are the gametes — sperm from the male and the egg from the female. Unlike ordinary body cells, each gamete carries only half the normal set of chromosomes, produced by a special kind of cell division (meiosis). That halving is the clever part: when a sperm and egg meet in fertilization and fuse, the two halves combine into one complete genome — a single cell called a zygote with a full, unique set of instructions. That one cell can then divide and grow into an entire person. Khan Academy's walkthrough of meiosis explains how the gametes get their half-sets in the first place, setting the stage for fertilization.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/cellular-molecular-biology/meiosis/a/phases-of-meiosis",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "reproduction"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_0de52e",
+      "slug": "from-embryo-to-baby",
+      "type": "concept",
+      "title": "From Embryo to Baby",
+      "hook": "A single fertilized cell becomes trillions of specialized ones in nine months — dividing, folding, and organizing itself into a heartbeat, a brain, and a body ready to be born.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_648120",
+      "slug": "hormones-and-the-endocrine-system",
+      "type": "concept",
+      "title": "Hormones and the Endocrine System",
+      "hook": "Your body runs a chemical messaging service: glands release hormones into the blood, and far-off organs read them like instructions — slow signals that shape growth, mood, and metabolism.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f16037#0",
+      "format": "flip",
+      "prompt": "What is fertilization?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003efusion of a sperm and an egg\u003c/strong\u003e into a single cell called a \u003cstrong\u003ezygote\u003c/strong\u003e —\nthe first cell of a new individual.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f16037#1",
+      "format": "quiz",
+      "prompt": "Why do sex cells carry only half the usual number of chromosomes?",
+      "choices": [
+        {
+          "text": "So that combining egg and sperm restores the full, normal set",
+          "correct": true
+        },
+        {
+          "text": "Because they are damaged versions of normal cells",
+          "correct": false
+        },
+        {
+          "text": "Because they don't need genetic information",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEach gamete carries half a genome. When egg and sperm join, the halves\ncombine into one complete set — half from each parent.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f16037#2",
+      "format": "quiz",
+      "prompt": "What are the two human sex cells (gametes)?",
+      "choices": [
+        {
+          "text": "Sperm and egg",
+          "correct": true
+        },
+        {
+          "text": "Red and white blood cells",
+          "correct": false
+        },
+        {
+          "text": "Neurons and skin cells",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe gametes are the sperm (from the male) and the egg (from the female), the\nonly cells that fuse to start a new individual.\u003c/p\u003e"
+    }
+  ]
+}

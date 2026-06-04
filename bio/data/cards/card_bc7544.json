@@ -1,0 +1,102 @@
+{
+  "id": "card_bc7544",
+  "slug": "soil-microbes-rescue-salty-farmland",
+  "type": "news",
+  "title": "The Soil Bacteria That Help Crops Shrug Off Salt",
+  "hook": "Salty farmland usually ruins crops — but researchers found soil bacteria that help plants cope, not by blocking salt, but by making their roots physically tougher.",
+  "key_points": [
+    "Beneficial soil bacteria were found to give plants a survival edge in salty soil.",
+    "The mechanism isn't keeping salt out — it's stimulating the plant to produce more lignin.",
+    "Lignin is a natural compound that strengthens roots and boosts overall resilience.",
+    "Greenhouse and field tests both showed healthier plants and higher yields in salty conditions.",
+    "The findings point toward bio-based soil treatments for farmland once considered too salty to farm."
+  ],
+  "content_html": "\u003cp\u003eSalty farmland is normally a dead end for crops — salt disrupts water uptake and stunts growth. Researchers looking at beneficial soil bacteria found a surprising workaround already happening in nature.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eRather than helping plants exclude salt, the microbes work indirectly: they stimulate plants to produce more lignin, a tough structural compound that reinforces roots and strengthens the plant overall. In both greenhouse trials and real field tests, plants treated with these bacteria grew healthier and produced higher yields in salty soil than untreated plants. Because the effect boosts general resilience rather than fighting salt directly, it doesn't require engineering the crop itself — just introducing the right microbial partner. The researchers see this as a path toward bio-based soil treatments that could bring land once written off as too salty back into productive farming.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260626124703.htm",
+    "published_at": "2026-06-28",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "plants",
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-28",
+  "related": [
+    {
+      "id": "card_140092",
+      "slug": "why-plants-run-the-planet",
+      "type": "concept",
+      "title": "Why Plants Run the Planet",
+      "hook": "Nearly every breath you take and every meal you eat traces back to plants — they make the oxygen, anchor the food chain, and lock away carbon for the whole biosphere.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bc7544#0",
+      "format": "flip",
+      "prompt": "How do these soil bacteria help plants survive in salty soil?",
+      "back_html": "\u003cp\u003eNot by keeping salt out of the plant. They \u003cstrong\u003estimulate the plant to produce more\nlignin\u003c/strong\u003e, a compound that physically strengthens roots and makes the whole plant\nmore resilient.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bc7544#1",
+      "format": "quiz",
+      "prompt": "Where was this bacteria-boosted salt tolerance tested?",
+      "choices": [
+        {
+          "text": "Both greenhouse trials and real field tests, with higher yields in salty conditions",
+          "correct": true
+        },
+        {
+          "text": "Only in a sealed lab dish, never with live plants",
+          "correct": false
+        },
+        {
+          "text": "Only in soil with no salt present at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe researchers confirmed the effect held up beyond the lab, with healthier plants\nand better yields in both greenhouse and field conditions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bc7544#2",
+      "format": "quiz",
+      "prompt": "What is lignin, in the context of this finding?",
+      "choices": [
+        {
+          "text": "A natural compound that strengthens plant roots",
+          "correct": true
+        },
+        {
+          "text": "A form of salt that builds up in damaged soil",
+          "correct": false
+        },
+        {
+          "text": "A hormone that triggers a plant to flower",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLignin is a tough structural compound in plant cell walls; more of it in the roots\nhelped plants hold up better under salt stress.\u003c/p\u003e"
+    }
+  ]
+}

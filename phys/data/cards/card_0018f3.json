@@ -1,0 +1,111 @@
+{
+  "id": "card_0018f3",
+  "slug": "hidden-electronic-state-in-30-femtoseconds",
+  "type": "news",
+  "title": "Catching a Material Switch States in 30 Femtoseconds",
+  "hook": "A laser pulse can flip a material into a hidden phase it never reaches on its own. Researchers finally watched the first step of that flip — and it takes 30 femtoseconds.",
+  "key_points": [
+    "A femtosecond is a millionth of a billionth of a second.",
+    "Light pulses can drive materials into hidden states that do not occur in equilibrium.",
+    "Researchers resolved the first step of that transition at 30 femtoseconds.",
+    "The electrons move first: bonds reorganise into a repeating pattern.",
+    "Only afterwards do the atoms themselves shift slightly to follow.",
+    "Knowing the order of steps is what makes light-based switching controllable."
+  ],
+  "content_html": "\u003cp\u003eElectrons are much lighter than atomic nuclei, so when you hit a material with a short laser pulse, they respond first. That gap in timing is what makes hidden states possible: phases the material never settles into on its own, but which it can be kicked into for a moment.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eScienceDaily reports that researchers resolved the opening move of one such transition at 30 femtoseconds — a millionth of a billionth of a second. The material first entered a fleeting electronic state in which its bonds reorganised into a repeating pattern; only afterwards did the atoms themselves shift slightly, locking the new arrangement in. Seeing that ordering matters practically as much as scientifically: if the electronic rearrangement leads and is this fast, light becomes a plausible switch for a material's electronic properties, without waiting for the sluggish atoms to catch up.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260820202856.htm",
+    "published_at": "2026-08-21",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "light-optics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_1e1cd4",
+      "slug": "light-programmable-superconductor",
+      "type": "paper",
+      "title": "Phase coherence control of a programmable high-Tc superconductor created by light",
+      "hook": "For 50+ years physicists chased superconductivity switched on by light — now a laser can write it, dial its temperature up or down, and erase it again, like a dimmer switch.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_5fb13c",
+      "slug": "light-controlled-magnetism-2d-materials",
+      "type": "news",
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "hook": "In materials just atoms thick, light doesn't just illuminate anymore — it can directly flip magnetic behavior, a step toward memory and quantum devices run purely on light.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_264ad3",
+      "slug": "electron-phases-grow-like-ice",
+      "type": "news",
+      "title": "Electrons That Freeze Like Ice Crystals",
+      "hook": "Two electronic phases in the same quantum material appear by completely different routes — one fades in smoothly, the other spreads in growing pockets like ice on a pond.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_65937b",
+      "slug": "how-lasers-work",
+      "type": "concept",
+      "title": "How Lasers Work",
+      "hook": "A flashlight sprays a jumble of colors every which way. A laser does the opposite: one pure color, marching in perfect step, in a beam so tight it can reach the Moon.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0018f3#0",
+      "format": "flip",
+      "prompt": "What is a hidden state of a material?",
+      "back_html": "\u003cp\u003eAn electronic phase the material never settles into on its own, but that a light\npulse can drive it into — reachable only by kicking it out of equilibrium.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0018f3#1",
+      "format": "quiz",
+      "prompt": "In this experiment, which moved first after the light pulse?",
+      "choices": [
+        {
+          "text": "The electrons — bonds reorganised into a repeating pattern before the atoms shifted",
+          "correct": true
+        },
+        {
+          "text": "The atoms shifted first, and the electrons followed",
+          "correct": false
+        },
+        {
+          "text": "Both moved together, indistinguishably",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe observed sequence was a fleeting electronic reorganisation of the bonds at\nabout 30 femtoseconds, followed only later by small atomic displacements.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0018f3#2",
+      "format": "flip",
+      "prompt": "Why does the order of the steps matter for technology?",
+      "back_html": "\u003cp\u003eIf the electronic step comes first and fast, light can be used to switch a\nmaterial's electronic properties without waiting on slower atomic motion — the\nbasis for faster optically controlled devices.\u003c/p\u003e"
+    }
+  ]
+}

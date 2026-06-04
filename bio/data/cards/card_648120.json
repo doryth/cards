@@ -1,0 +1,99 @@
+{
+  "id": "card_648120",
+  "slug": "hormones-and-the-endocrine-system",
+  "type": "concept",
+  "title": "Hormones and the Endocrine System",
+  "hook": "Your body runs a chemical messaging service: glands release hormones into the blood, and far-off organs read them like instructions — slow signals that shape growth, mood, and metabolism.",
+  "key_points": [
+    "The endocrine system is a network of glands that release hormones into the bloodstream.",
+    "Hormones are chemical messengers that travel in the blood to affect distant target organs.",
+    "They regulate slow, body-wide processes — growth, metabolism, mood, and reproduction.",
+    "Unlike the fast electrical signals of nerves, hormonal signals are slower but longer-lasting."
+  ],
+  "content_html": "\u003cp\u003eThe endocrine system is your body's chemical messaging network. Glands scattered around the body — like the thyroid, pancreas, and adrenal glands — release hormones into the blood, and those hormones act as instructions for organs far from where they were made. It's how the body coordinates itself over the long haul.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA hormone is simply a chemical messenger. A gland secretes it into the bloodstream, and it circulates until it reaches cells equipped to respond. There it can tell the body to grow, burn or store energy, prepare for stress, or kick off reproduction. The contrast with the nervous system is telling: nerves send fast electrical pulses for split-second reactions, while hormones move more slowly and their effects last much longer — think of the months of puberty versus the instant jerk of a reflex. NIH's MedlinePlus describes how this hormonal control keeps processes like metabolism, mood, and reproduction in balance across the whole body.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/hormones.html",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "reproduction"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_f16037",
+      "slug": "human-reproduction",
+      "type": "concept",
+      "title": "Human Reproduction",
+      "hook": "New human life begins when two specialized cells — one egg, one sperm — combine, merging half a set of genetic instructions from each parent into a brand-new whole.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82a753",
+      "slug": "homeostasis",
+      "type": "concept",
+      "title": "Homeostasis: Staying Balanced",
+      "hook": "Your body works hard to keep its inside world steady — temperature, water, blood sugar — no matter what's happening outside. That balancing act is homeostasis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_648120#0",
+      "format": "flip",
+      "prompt": "What is a hormone?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003echemical messenger\u003c/strong\u003e released by a gland into the bloodstream, which\ncarries it to distant organs and tissues to change how they work.\u003c/p\u003e"
+    },
+    {
+      "id": "card_648120#1",
+      "format": "quiz",
+      "prompt": "How do hormonal signals differ from nerve signals?",
+      "choices": [
+        {
+          "text": "Hormones are slower but longer-lasting; nerve signals are fast and brief",
+          "correct": true
+        },
+        {
+          "text": "Hormones are faster than nerve signals in every case",
+          "correct": false
+        },
+        {
+          "text": "Hormones travel along nerves, not in the blood",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNerves fire quick electrical pulses for split-second control. Hormones drift\nthrough the blood — slower to act, but their effects linger far longer.\u003c/p\u003e"
+    },
+    {
+      "id": "card_648120#2",
+      "format": "quiz",
+      "prompt": "How do hormones reach the organs they affect?",
+      "choices": [
+        {
+          "text": "They travel through the bloodstream",
+          "correct": true
+        },
+        {
+          "text": "They are passed directly cell-to-cell by touch",
+          "correct": false
+        },
+        {
+          "text": "They evaporate and are breathed back in",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEndocrine glands release hormones into the blood, which carries them\nthroughout the body to their target organs.\u003c/p\u003e"
+    }
+  ]
+}

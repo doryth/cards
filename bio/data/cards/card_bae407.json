@@ -1,0 +1,109 @@
+{
+  "id": "card_bae407",
+  "slug": "cell-division-mitosis",
+  "type": "concept",
+  "title": "Mitosis: One Cell Becomes Two",
+  "hook": "Right now, millions of your cells are copying their DNA and splitting in two — the everyday process that lets you grow, heal, and replace worn-out cells.",
+  "key_points": [
+    "Mitosis is how a cell divides into two genetically identical daughter cells.",
+    "First the cell copies all of its DNA, so each new cell gets a full set.",
+    "Chromosomes line up in the middle, then get pulled to opposite ends.",
+    "Mitosis powers growth, tissue repair, and replacement of old cells."
+  ],
+  "content_html": "\u003cp\u003eMitosis is how one cell turns into two identical copies of itself. It's the engine behind growing from a baby to an adult, healing a scraped knee, and constantly replacing cells that wear out. The key promise of mitosis is fidelity: both new cells get a complete, identical copy of the original's DNA.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe process starts before division even begins: the cell carefully \u003cstrong\u003ecopies all of its DNA\u003c/strong\u003e. Then mitosis proceeds through tidy phases. The duplicated chromosomes condense and line up across the middle of the cell, attached to a framework of fibers. Those fibers then pull one copy of each chromosome to opposite ends, and the cell pinches into two. As Khan Academy describes in its breakdown of the phases of mitosis, this choreography ensures each daughter cell receives exactly one full set of chromosomes — no more, no less — which is why the two cells are genetically identical.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/cellular-molecular-biology/mitosis/a/phases-of-mitosis",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "the-cell"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d14f9d",
+      "slug": "what-is-a-cell",
+      "type": "concept",
+      "title": "What Is a Cell?",
+      "hook": "Every living thing — from a bacterium to a blue whale — is built from cells, the smallest unit that can call itself alive.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_574828",
+      "slug": "cell-organelles",
+      "type": "concept",
+      "title": "The Cell's Tiny Organs",
+      "hook": "Inside a single cell sits a whole working city — a control room, power plants, factories, and shipping lanes, each a structure called an organelle.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a0b243",
+      "slug": "chromosomes-and-meiosis",
+      "type": "concept",
+      "title": "Chromosomes and Meiosis",
+      "hook": "Your DNA is packed into 46 bundles called chromosomes — and a special kind of cell division halves that number so sperm and egg can combine without doubling up.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bae407#0",
+      "format": "flip",
+      "prompt": "What is the end result of mitosis?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eTwo daughter cells that are genetically identical\u003c/strong\u003e to each other and to the\noriginal cell — each with a complete copy of the DNA.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bae407#1",
+      "format": "quiz",
+      "prompt": "What must happen to the DNA before a cell divides by mitosis?",
+      "choices": [
+        {
+          "text": "It must be fully copied",
+          "correct": true
+        },
+        {
+          "text": "Half of it must be discarded",
+          "correct": false
+        },
+        {
+          "text": "It must be split randomly between the two cells",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBefore dividing, the cell \u003cstrong\u003ereplicates all of its DNA\u003c/strong\u003e so that each daughter\ncell ends up with a complete, identical set.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bae407#2",
+      "format": "quiz",
+      "prompt": "Which of these jobs does mitosis do in your body?",
+      "choices": [
+        {
+          "text": "Healing a wound by replacing damaged cells",
+          "correct": true
+        },
+        {
+          "text": "Making sperm and egg cells",
+          "correct": false
+        },
+        {
+          "text": "Digesting food in the stomach",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMitosis handles \u003cstrong\u003egrowth and repair\u003c/strong\u003e — like rebuilding skin after a cut. Making\nsperm and eggs is the job of a different process, meiosis.\u003c/p\u003e"
+    }
+  ]
+}

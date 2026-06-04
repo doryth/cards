@@ -1,0 +1,113 @@
+{
+  "id": "card_9a717b",
+  "slug": "rocky-planets-100-million-years-after-the-big-bang",
+  "type": "news",
+  "title": "Rocky Planets, 100 Million Years After the Big Bang",
+  "hook": "Making an Earth needs heavy elements, and the early universe had almost none. New simulations suggest the first giant supernovae seeded enough rock and water to build planets startlingly early.",
+  "key_points": [
+    "Rocky planets need elements heavier than hydrogen and helium — silicon, iron, oxygen.",
+    "Those elements are forged in stars and scattered when the stars explode.",
+    "Simulations of enormous early supernovae found they spread planet-building material quickly.",
+    "The models found enough solid material and water around a young star to assemble Earth-like worlds.",
+    "That pushes the earliest possible rocky planets back to roughly 100 million years after the Big Bang."
+  ],
+  "content_html": "\u003cp\u003eTo build a planet like Earth you need stuff that the Big Bang did not make. The early universe\nwas essentially hydrogen and helium; silicon, iron, oxygen and the rest had to be cooked inside\nstars first, then blown out when those stars died. The usual assumption is that this takes a\nwhile — several generations of stars before there is enough rock to go around.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNew simulations, reported via ScienceDaily, suggest the wait may have been much shorter. The very\nfirst stars were enormous, lived fast and exploded as extremely energetic supernovae, dispersing\nheavy elements widely and quickly. In the models, a young star forming in that enriched gas ended\nup surrounded by enough solid material — and water — to assemble Earth-like worlds. The authors\nput the earliest possible rocky planets at roughly 100 million years after the Big Bang, far\nearlier than previously believed. If they are right, the window for planets, and possibly for\nhabitable ones, opens almost as soon as stars themselves do.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260828082345.htm",
+    "published_at": "2026-08-31"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-08-31",
+  "related": [
+    {
+      "id": "card_06b9c7",
+      "slug": "the-big-bang",
+      "type": "concept",
+      "title": "The Big Bang",
+      "hook": "About 13.8 billion years ago the universe began hot and dense and has been expanding ever since — but it wasn't an explosion into empty space. Space itself stretched.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_225232",
+      "slug": "a-grown-up-galaxy-in-the-young-universe",
+      "type": "paper",
+      "title": "A Calm, Dusty Disc 700 Million Years After the Big Bang",
+      "hook": "REBELS-25 should be a chaotic infant. Instead, ALMA and JWST find an orderly rotating disc, already dusty and chemically enriched, in a universe barely 5% of its current age.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "card_0697df",
+      "slug": "lab-made-cosmic-dust",
+      "type": "news",
+      "title": "A tiny universe in a bottle reveals clues to the origins of life",
+      "hook": "Researchers grew real cosmic dust from scratch in a glass tube, recreating space's harsh conditions to study how life's raw ingredients might form and hitch a ride on comets.",
+      "importance": 2,
+      "difficulty": "core",
+      "date": "2026-07-19"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9a717b#0",
+      "format": "quiz",
+      "prompt": "Why couldn't rocky planets form immediately after the Big Bang?",
+      "choices": [
+        {
+          "text": "The universe was almost entirely hydrogen and helium — no heavy elements to make rock from",
+          "correct": true
+        },
+        {
+          "text": "Gravity did not yet exist",
+          "correct": false
+        },
+        {
+          "text": "The universe was too cold for solids to condense",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRock and water need heavier elements such as silicon, iron and oxygen. Those are made inside\nstars and only spread through space once those stars explode.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9a717b#1",
+      "format": "flip",
+      "prompt": "What role do the earliest supernovae play in this scenario?",
+      "back_html": "\u003cp\u003eEnormous first-generation stars exploded early and scattered planet-building elements across\nspace, giving later-forming stars the raw material for rocky worlds.\u003c/p\u003e"
+    }
+  ]
+}

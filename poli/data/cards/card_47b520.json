@@ -1,0 +1,131 @@
+{
+  "id": "card_47b520",
+  "slug": "party-systems",
+  "type": "concept",
+  "title": "Political Parties \u0026 Party Systems",
+  "hook": "Parties are how scattered voters become an organized choice. Whether a country has two big ones or a dozen shapes how its whole politics feels.",
+  "key_points": [
+    "A political party organizes people around shared goals to win office and govern.",
+    "Parties simplify choice, recruit candidates, and structure debate and accountability.",
+    "Two-party systems tend toward stable majorities; multiparty systems toward coalitions and broader representation.",
+    "The electoral system strongly influences how many viable parties emerge."
+  ],
+  "content_html": "\u003cp\u003eA political party is an organization that brings people together around shared goals and a broad program, with the aim of winning office and governing. Parties are easy to take for granted, but they do essential work in a democracy: they simplify an overwhelming range of choices into a few recognizable options, recruit and vet candidates, knit individual issues into coherent platforms, and give voters a clear target to reward or punish at the next election. Without them, accountability would be diffuse and politics far harder to follow.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe \u003cem\u003enumber\u003c/em\u003e of significant parties — the party system — gives a country's politics much of its character. In a two-party system, two large parties dominate and one usually wins an outright majority, which tends to produce stable, single-party governments and clear accountability, at the cost of squeezing out smaller voices. In a multiparty system, several parties win meaningful shares, so governing typically requires building a coalition; this represents a wider range of views but can make governments more complex to assemble and less durable. Encyclopaedia Britannica notes a strong link between party systems and electoral rules: winner-take-all systems like first-past-the-post tend to compress competition toward two parties, while proportional representation makes a broader field of parties viable. The party system is thus not random but partly engineered by the rules a country chooses for translating votes into seats.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/political-party",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "parties-and-ideologies"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_7edcb0",
+      "slug": "left-right-spectrum",
+      "type": "concept",
+      "title": "The Left–Right Spectrum",
+      "hook": "\"Left\" and \"right\" are political shorthand the whole world uses — but they began as nothing more than which side of a room people sat on.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_68738d",
+      "slug": "major-political-ideologies",
+      "type": "concept",
+      "title": "Major Political Ideologies",
+      "hook": "An ideology is a worldview about how society should be run — and a handful of them frame most political arguments you'll ever hear.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fd8b20",
+      "slug": "member-to-member-money-in-congress",
+      "type": "blog",
+      "title": "How Lawmakers Fund Each Other",
+      "hook": "Some of the most important campaign money in Congress doesn't come from voters or donors — it flows between lawmakers themselves, and it quietly buys power.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "card_782334",
+      "slug": "ideological-sorting",
+      "type": "news",
+      "title": "Why America Sorts Itself",
+      "hook": "Red places get redder and blue places get bluer. Is it because people move to match their politics — or is politics just one reason among many?",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_47b520#0",
+      "format": "flip",
+      "prompt": "What does a political party do?",
+      "back_html": "\u003cp\u003eIt \u003cstrong\u003eorganizes people around shared goals\u003c/strong\u003e to win office and govern —\nrecruiting candidates, simplifying choice, and structuring debate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_47b520#1",
+      "format": "quiz",
+      "prompt": "How do two-party and multiparty systems typically differ?",
+      "choices": [
+        {
+          "text": "Two-party systems tend toward stable single-party majorities; multiparty systems toward coalitions",
+          "correct": true
+        },
+        {
+          "text": "Multiparty systems ban elections",
+          "correct": false
+        },
+        {
+          "text": "Two-party systems have no opposition at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith two dominant parties one usually governs alone; with many parties,\ngoverning often requires forming a coalition.\u003c/p\u003e"
+    },
+    {
+      "id": "card_47b520#2",
+      "format": "quiz",
+      "prompt": "What strongly influences how many viable parties a country has?",
+      "choices": [
+        {
+          "text": "Its electoral system",
+          "correct": true
+        },
+        {
+          "text": "The number of newspapers it has",
+          "correct": false
+        },
+        {
+          "text": "The age of its constitution",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRules like first-past-the-post tend to squeeze out smaller parties, while\nproportional representation makes more parties viable.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "card_8f525a",
+  "slug": "moon-landings-threaten-origin-of-life-clues",
+  "type": "news",
+  "title": "Future Moon Landings Could Erase Clues to How Life Began on Earth",
+  "hook": "The moon may be quietly preserving debris from early Earth — and a new wave of lunar missions risks contaminating it before scientists get a look.",
+  "key_points": [
+    "Ancient debris blasted off early Earth by asteroid impacts is thought to have landed on the moon and stayed largely undisturbed.",
+    "Earth's own geological record from that period has been erased by plate tectonics, erosion, and weathering — the moon's airless, inactive surface may have preserved what Earth destroyed.",
+    "A new study warns spacecraft exhaust and surface disturbance from planned landings could quickly contaminate the moon's most scientifically valuable regions.",
+    "Researchers argue future lunar missions should build in ways to reduce and monitor this contamination before it becomes widespread."
+  ],
+  "content_html": "\u003cp\u003eEarth's own record of how life began has mostly been erased — worn away by billions of years of plate tectonics, erosion, and weather. The moon may have quietly kept a copy.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA new study warns that increasing lunar traffic could undo that preservation before scientists get the chance to study it. Ancient debris blasted off early Earth by asteroid impacts is thought to have landed on the moon and stayed largely undisturbed, thanks to its airless, geologically inactive surface — a rare window into the chemistry and conditions present when life first arose. But spacecraft exhaust and surface disturbance from planned lunar landings could contaminate exactly the regions considered most scientifically valuable, and do so quickly. The researchers argue that mission planners should build in ways to reduce and track this contamination now, before the number of landings ramps up and the record is compromised.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260710003537.htm",
+    "published_at": "2026-07-12",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "origin-of-life"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-12",
+  "related": [
+    {
+      "id": "card_be717b",
+      "slug": "how-life-began",
+      "type": "concept",
+      "title": "How Life Began",
+      "hook": "Before the first living thing, there was only chemistry. Abiogenesis is the idea — and active research — into how plain molecules on early Earth crossed the line into life.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_089e6b",
+      "slug": "asteroids-sparked-life-on-earth",
+      "type": "news",
+      "title": "How Asteroids May Have Sparked Life on Earth",
+      "hook": "Ancient asteroid strikes didn't just reshape Earth's surface — new models suggest they cracked open vast underground hydrothermal systems that could have been ideal cradles for life.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8f525a#0",
+      "format": "flip",
+      "prompt": "Why might the moon hold better clues about early Earth than Earth itself does?",
+      "back_html": "\u003cp\u003eEarth's own record from that era has been erased by plate tectonics, erosion,\nand weathering, while the moon's airless, geologically inactive surface may\nhave preserved ancient debris blasted off Earth largely undisturbed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8f525a#1",
+      "format": "quiz",
+      "prompt": "What risk do future moon landings pose to this record?",
+      "choices": [
+        {
+          "text": "Spacecraft exhaust and surface disturbance could contaminate the moon's most scientifically valuable regions",
+          "correct": true
+        },
+        {
+          "text": "Landings could physically destroy the moon's crust",
+          "correct": false
+        },
+        {
+          "text": "Landings would only affect regions with no scientific value",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe concern isn't structural damage to the moon — it's that contamination\nfrom landings could compromise the specific regions thought to hold ancient,\nundisturbed material from early Earth.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8f525a#2",
+      "format": "flip",
+      "prompt": "What do the researchers recommend?",
+      "back_html": "\u003cp\u003eThat future lunar missions build in ways to reduce and monitor contamination\nnow, before increasing landing traffic compromises the record.\u003c/p\u003e"
+    }
+  ]
+}

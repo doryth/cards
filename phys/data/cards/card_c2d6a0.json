@@ -1,0 +1,103 @@
+{
+  "id": "card_c2d6a0",
+  "slug": "little-red-dots-tip-of-the-iceberg",
+  "type": "news",
+  "title": "Webb's Little Red Dots May Just Be Galaxies We Can't Resolve",
+  "hook": "Take a nearby spiral galaxy, pretend it's much farther away, and its arms vanish — leaving a lone red dot. That simple test suggests Webb's strangest objects may be ordinary galaxies in disguise.",
+  "key_points": [
+    "Webb's 'little red dots' are compact, very red points of light in the early universe, with no visible host galaxy around them — which is what made them look like a new class of object.",
+    "Astronomers found a spiral galaxy at redshift 2, nicknamed the 'Saguaro' for its cactus-like arms, whose compact red core closely resembles a little red dot.",
+    "When they digitally simulated observing the Saguaro from much greater distance, the spiral arms dropped below detectability and only the bright red core survived.",
+    "Implication: the missing host galaxies may not be missing at all — just too faint and too small on the sky for current telescopes to see.",
+    "Lead author Pierluigi Rinaldi's framing: a little red dot is 'the tip of the iceberg,' not a dot."
+  ],
+  "content_html": "\u003cp\u003eOne of Webb's biggest puzzles is a population of \u0026quot;little red dots\u0026quot;: compact, strikingly red points of light in the early universe, apparently sitting alone with no host galaxy visible around them. That isolation is a large part of what made them look like something new — a distinct class of exotic objects rather than the centers of galaxies we already understand.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA study led by Pierluigi Rinaldi (then at the University of Arizona's Steward Observatory, now at STScI), published in \u003cem\u003eThe Astrophysical Journal\u003c/em\u003e on 29 July 2026, tests the simpler explanation. The team examined WISEA J123635.56+621424.2 — nicknamed the \u0026quot;Saguaro\u0026quot; for arms that resemble a Sonoran Desert cactus — a spiral galaxy at redshift 2, seen roughly 3.3 billion years after the Big Bang. It has a compact red center that looks a lot like a little red dot, but here the surrounding galaxy is plainly visible. So the researchers digitally degraded the image to mimic observing the same galaxy from much greater distance. The spiral structure faded below what a telescope could pick out; the bright red core remained. In other words, an ordinary galaxy viewed far enough away \u003cem\u003eis\u003c/em\u003e a little red dot. That doesn't settle what powers these objects, but it undercuts the assumption that their apparent isolation is physical rather than an artifact of how faint and small distant structure becomes. As Rinaldi put it, little red dots are \u0026quot;far more complex than just being a dot. They're just the tip of the iceberg.\u0026quot;\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "authors": [
+      "Pierluigi Rinaldi"
+    ],
+    "url": "https://sciencedaily.com/releases/2026/08/260815064808.htm",
+    "published_at": "2026-08-17",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_7b1e60",
+      "slug": "primordial-black-holes-little-red-dots",
+      "type": "paper",
+      "title": "Did Clusters of Primordial Black Holes Seed JWST's Puzzling 'Little Red Dots'?",
+      "hook": "JWST found overweight black holes far too early in the universe for standard theories to explain. One proposal: they were seeded by swarms of black holes born moments after the Big Bang.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "card_a212b1",
+      "slug": "webb-new-universe-puzzle",
+      "type": "news",
+      "title": "Why Does Webb Keep Finding Things That Shouldn't Exist?",
+      "hook": "JWST keeps spotting early black holes and galaxies that are too big, too bright, or too early to fit standard models — and cosmologists are racing to figure out which of many new theories is right.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "card_326281",
+      "slug": "ancient-quasars-too-early",
+      "type": "news",
+      "title": "31 Quasars That Are Too Old to Make Sense",
+      "hook": "Astronomers found 31 quasars shining from when the universe was just 5% of its current age — powered by black holes that shouldn't have had time to grow so big yet.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c2d6a0#0",
+      "format": "flip",
+      "prompt": "What made Webb's 'little red dots' look like a genuinely new kind of object?",
+      "back_html": "\u003cp\u003eThey appear as compact, very red points of light in the early universe with \u003cstrong\u003eno\ndetectable host galaxy\u003c/strong\u003e around them — unlike normal galaxies, which show extended\nstructure.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c2d6a0#1",
+      "format": "quiz",
+      "prompt": "What happened when researchers simulated viewing the nearby 'Saguaro' spiral galaxy from much farther away?",
+      "choices": [
+        {
+          "text": "Its spiral arms faded below detectability, leaving only the compact red core visible",
+          "correct": true
+        },
+        {
+          "text": "Its arms stayed visible but shifted from red to blue",
+          "correct": false
+        },
+        {
+          "text": "The whole galaxy disappeared entirely from the simulated image",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe faint extended structure drops out of reach first; the bright compact center is\nthe last thing to survive — making a full galaxy masquerade as a lone red dot.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c2d6a0#2",
+      "format": "flip",
+      "prompt": "What does this result suggest about the 'missing' host galaxies around little red dots?",
+      "back_html": "\u003cp\u003eThey may not be missing — just too faint and too small on the sky for current\ntelescopes to resolve. The dot could be the bright core of an ordinary galaxy,\nthe 'tip of the iceberg.'\u003c/p\u003e"
+    }
+  ]
+}

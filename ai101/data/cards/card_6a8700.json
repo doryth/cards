@@ -1,0 +1,106 @@
+{
+  "id": "card_6a8700",
+  "slug": "google-zero-traffic-collapse",
+  "type": "news",
+  "title": "'Google Zero' and the End of the Web's Old Deal",
+  "hook": "For decades the bargain was simple: Google indexed your website and sent you visitors. AI answers are quietly ending that trade — and the web you search is built on it.",
+  "key_points": [
+    "The old deal: Google indexed webpages, and in exchange sent 'oceans of traffic' back to them.",
+    "The Verge's David Pierce argues that deal now 'seems to be dead.'",
+    "'Google Zero' is the scenario where a site gets nearly no traffic from search at all.",
+    "When search answers in sentences, there's no reason left to click through to the source.",
+    "The sites that produced the answers still bear the cost of producing them.",
+    "It was never an equal deal — it made Google more money than the sites — but it worked for years."
+  ],
+  "content_html": "\u003cp\u003eThere used to be an unwritten contract between Google and the web. Google got to crawl, index, and profit from everyone's webpages; in exchange, it sent what The Verge's David Pierce calls \u0026quot;oceans of traffic\u0026quot; back to those pages. Nobody signed it, and it was never balanced — it made Google far more money than it made the sites — but it held for about two decades.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAI is breaking it. When a search engine replies with a written answer instead of a list of links, the click that paid for the whole arrangement never happens. Publishers have a name for where this ends: \u0026quot;Google Zero,\u0026quot; the point at which search sends you essentially no visitors at all. Pierce's argument on the Vergecast is that this is no longer a hypothetical worry to file away — it's the thing you can't ignore anymore.\u003c/p\u003e\n\u003cp\u003eWhy should you care as a reader rather than a website owner? Because AI answers are assembled from pages that somebody had to research, write, and pay for. If the traffic that funded that work dries up, the raw material behind the tidy answer gets thinner over time. It's a slow-moving problem, not a dramatic one, and no one has a clean fix yet — but it's worth knowing that a convenient answer box sits on top of an economy that's currently coming apart.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "David Pierce"
+    ],
+    "url": "https://theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+    "published_at": "2026-07-24",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-search",
+    "ai-and-news",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "rag"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_a92eaf",
+      "slug": "ai-search-overviews",
+      "type": "concept",
+      "title": "AI in Search",
+      "hook": "Search engines now answer in sentences, not just links. Convenient — but the AI summary can be wrong or miss context, and the links underneath are still where the truth lives.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_05a983",
+      "slug": "ai-search-court-ruling",
+      "type": "news",
+      "title": "A Court Just Pushed Back on AI Search",
+      "hook": "A German court ruled against Google's AI Overviews — the AI summaries atop search results — in a decision that could reshape AI search and back publishers who don't want their work summarized away.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "card_82f0f6",
+      "slug": "ai-and-the-news",
+      "type": "concept",
+      "title": "AI \u0026 the News",
+      "hook": "AI now writes news, fakes whole 'outlets,' and powers the feed deciding what you see. Staying informed increasingly means knowing how the sausage is made — and who made it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6a8700#0",
+      "format": "flip",
+      "prompt": "What does 'Google Zero' refer to?",
+      "back_html": "\u003cp\u003eThe scenario where Google sends a website essentially no traffic — the end of the\nlong-standing trade where search indexed your pages and sent visitors back.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6a8700#1",
+      "format": "quiz",
+      "prompt": "Why do AI-written search answers threaten the websites they draw on?",
+      "choices": [
+        {
+          "text": "If the answer appears in search, there's no reason to click through to the source",
+          "correct": true
+        },
+        {
+          "text": "AI answers make websites load more slowly",
+          "correct": false
+        },
+        {
+          "text": "Search engines can no longer read webpages at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe old exchange depended on the click. When search answers in sentences, readers\nstop visiting — while the sites still pay to produce what the answer is built from.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6a8700#2",
+      "format": "flip",
+      "prompt": "Was the original Google–web bargain a fair one?",
+      "back_html": "\u003cp\u003eNot really. As The Verge puts it, it certainly made Google more money than it made\nthe websites — but it worked for a long time because traffic still flowed both ways.\u003c/p\u003e"
+    }
+  ]
+}

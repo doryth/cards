@@ -1,0 +1,119 @@
+{
+  "id": "card_cbd667",
+  "slug": "what-counts-as-voter-id",
+  "type": "news",
+  "title": "What Counts as Voter ID",
+  "hook": "A voter ID law is really two decisions: require an ID, then decide which IDs count. The second one quietly determines who gets turned away.",
+  "key_points": [
+    "Voter ID rules have two parts: whether ID is required, and which documents are accepted.",
+    "Indiana and New Hampshire moved to stop accepting student IDs at the polls, prompting lawsuits.",
+    "The accepted-ID list falls unevenly: college students often hold a student ID but not a state ID from that state.",
+    "Young adults are already the U.S. age group least likely to vote, so added friction lands where turnout is thinnest.",
+    "Courts are asked whether such rules burden the right to vote without a matching justification."
+  ],
+  "content_html": "\u003cp\u003eVoter ID laws are usually discussed as a single yes-or-no question: should you have to show identification to vote? In practice the fight is over a second, less visible decision — the list of documents that count. Indiana and New Hampshire have moved to strike student IDs from that list, and the changes have drawn lawsuits.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's Hansi Lo Wang reports on the new bans, part of a broader push in Republican-led states. The mechanics matter more than the headline: a college student typically lives and registers where they study, holds a university-issued ID, and may have no state ID from that state at all. Removing student IDs from the accepted list therefore does not ask those voters for a different document — for many it removes the one they have. Wang notes that young adults are already the U.S. voting-age group least likely to cast a ballot, so the added step lands on the thinnest turnout.\u003c/p\u003e\n\u003cp\u003eThat is the general lesson, well beyond these two states. Any eligibility rule has a distribution: it is easy for people who already hold the required paperwork and hard for those who do not, and lawmakers choose the accepted-document list knowing roughly who falls on each side. Courts hearing the suits will weigh whether the burden on the right to vote is justified by the interest the state claims — the same balancing test that runs through most U.S. election-access litigation.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Hansi Lo Wang"
+    ],
+    "url": "https://npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+    "published_at": "2026-08-17",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "rights-civil-liberties"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_474ad3",
+      "slug": "proof-of-citizenship-to-vote",
+      "type": "news",
+      "title": "Proof of Citizenship to Vote",
+      "hook": "Should you have to show a passport or birth certificate to register to vote? A fight in Congress over that single requirement reveals a deep tension in election design.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_cbd667#0",
+      "format": "flip",
+      "prompt": "Why is the list of accepted IDs as consequential as the ID requirement itself?",
+      "back_html": "\u003cp\u003eRequiring ID is one decision; \u003cstrong\u003ewhich documents count\u003c/strong\u003e is a second one. The\naccepted list decides which voters can actually comply and which are turned away.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cbd667#1",
+      "format": "quiz",
+      "prompt": "Why do student ID bans fall unevenly on college students in particular?",
+      "choices": [
+        {
+          "text": "Many hold a student ID but not a state-issued ID from that state",
+          "correct": true
+        },
+        {
+          "text": "Students are barred from registering to vote where they study",
+          "correct": false
+        },
+        {
+          "text": "Student IDs are not issued with the holder's name on them",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eStudents often live and register where they study while their state ID, if any,\ncomes from elsewhere — so dropping student IDs removes the document they do have.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cbd667#2",
+      "format": "quiz",
+      "prompt": "Per the reporting, which U.S. voting-age group is least likely to vote?",
+      "choices": [
+        {
+          "text": "The youngest adults",
+          "correct": true
+        },
+        {
+          "text": "Middle-aged voters",
+          "correct": false
+        },
+        {
+          "text": "Retirees",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYoung adults already turn out at the lowest rate, which is why critics argue new\nID hurdles aimed at them compound an existing turnout gap.\u003c/p\u003e"
+    }
+  ]
+}

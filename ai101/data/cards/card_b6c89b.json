@@ -1,0 +1,97 @@
+{
+  "id": "card_b6c89b",
+  "slug": "chatgpt-free-unlimited-chats",
+  "type": "news",
+  "title": "ChatGPT's Free Tier Drops Its Chat Limits",
+  "hook": "Free and Go users get unlimited text chats — no more hitting a wall mid-conversation. If cost was your reason for not trying AI, that reason just got thinner.",
+  "key_points": [
+    "OpenAI is removing text-chat rate limits for ChatGPT's free and Go tiers, per The Verge.",
+    "Previously, heavy use on those tiers could hit a cap and cut you off.",
+    "'Unlimited' applies to text chats — image, voice, and advanced-model limits are separate matters.",
+    "Free tiers usually run smaller or older models than paid ones; unlimited isn't the same as best.",
+    "Free access is a growth strategy: usage today, subscriptions and data advantage tomorrow."
+  ],
+  "content_html": "\u003cp\u003eIf you've ever been mid-conversation with ChatGPT and hit a \u0026quot;you've reached your limit\u0026quot; wall, that's going away for free and Go users. The Verge reports OpenAI is lifting rate limits on text chats for both tiers.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo things worth keeping straight. First, \u0026quot;unlimited\u0026quot; here means text chats specifically — images, voice, and access to the most advanced models are governed by their own limits, and free tiers generally route you to smaller or older models than paying customers get. More conversations is not the same as better answers. Second, this is a business move, not a gift: free usage builds habits, habits build subscriptions, and scale is its own advantage in this race. None of which makes it a bad deal for you. If cost was the thing keeping you from trying AI properly, the barrier just got lower — and the sensible way to spend that is on the boring, useful stuff: drafting the awkward email, explaining a document you don't understand, talking through a decision out loud.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jay Peters"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "published_at": "2026-08-06",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "choosing-tools",
+    "ai-news"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-06",
+  "related": [
+    {
+      "id": "card_b49602",
+      "slug": "free-vs-paid-ai",
+      "type": "concept",
+      "title": "Free vs Paid Tools",
+      "hook": "The free tier is enough for most people most of the time. Paid plans mostly buy you the smarter model, higher limits, and stronger privacy — useful only if you'll actually use them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_42f5a2",
+      "slug": "which-chatbot-to-use",
+      "type": "concept",
+      "title": "Which Chatbot Should I Use?",
+      "hook": "ChatGPT, Claude, Gemini, Copilot, Meta AI — they're more alike than different. The honest answer to 'which is best' is: the one you'll actually open, plus a second to cross-check.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8404de",
+      "slug": "your-first-hour-with-ai",
+      "type": "concept",
+      "title": "Your First Hour with AI",
+      "hook": "Forget the hype and the fear. Open a free chatbot, type a real question in plain English, and have a conversation. That's the whole on-ramp — you already know how.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b6c89b#0",
+      "format": "quiz",
+      "prompt": "What exactly did OpenAI make unlimited for free and Go users?",
+      "choices": [
+        {
+          "text": "Text chats — other features like images and voice have their own limits",
+          "correct": true
+        },
+        {
+          "text": "Every feature in ChatGPT, including the most advanced models",
+          "correct": false
+        },
+        {
+          "text": "Storage for uploaded files",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe change covers text chats on the free and Go tiers. Other capabilities and\nmodel tiers are governed separately.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b6c89b#1",
+      "format": "flip",
+      "prompt": "Why doesn't 'unlimited' on a free tier mean you're getting the best AI?",
+      "back_html": "\u003cp\u003eFree tiers typically route you to smaller or older models. You get more\nconversations, not necessarily better answers — the strongest models usually\nstay behind the paywall.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "card_dcc196",
+  "slug": "how-llms-work",
+  "type": "concept",
+  "title": "How a Language Model Works",
+  "hook": "A chatbot isn't reading and thinking — it's running the world's most sophisticated autocomplete, picking each next word from probabilities learned across billions of sentences.",
+  "key_points": [
+    "An LLM turns your text into numbers, then predicts the most likely next chunk.",
+    "It builds replies one piece at a time, feeding each new word back in.",
+    "It has no database of facts — 'knowledge' is patterns baked into its dials.",
+    "Same machinery explains its fluency and its confident mistakes."
+  ],
+  "content_html": "\u003cp\u003eIt helps to demystify what's happening when a chatbot replies, because the mechanism explains almost everything else about its behavior. A large language model takes your words, converts them into numbers, and then does one thing extremely well: predict the most likely next chunk of text. It adds that chunk, feeds the whole thing back in, predicts again, and repeats — building a fluent answer one piece at a time. It's autocomplete taken to an astonishing scale.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe surprising part is how much \u003cem\u003elooks\u003c/em\u003e like understanding emerges from \u0026quot;just\u0026quot; predicting the next word, once you've learned from billions of sentences written by humans. But it's worth holding onto what's really going on. The model has no separate store of facts to consult; its \u0026quot;knowledge\u0026quot; is statistical patterns frozen into its parameters during training. That's why it can't truly look something up, why it can blend two real facts into a false one, and why it answers a made-up question as confidently as a real one. Understanding the autocomplete underneath is the single best inoculation against over-trusting it — the fluency is real, the comprehension is not.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Large language model",
+    "url": "https://en.wikipedia.org/wiki/Large_language_model",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "generative-ai",
+    "ai-jargon"
+  ],
+  "tags": [
+    "foundational",
+    "generative",
+    "nlp"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6b1506",
+      "slug": "ai-jargon-decoded",
+      "type": "concept",
+      "title": "AI Jargon, Decoded",
+      "hook": "Model, algorithm, LLM, GPT, training, parameters — the words get thrown around like everyone agrees what they mean. Here's the plain-English version.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_dcc196#0",
+      "format": "quiz",
+      "prompt": "When a chatbot answers, what is it fundamentally doing?",
+      "choices": [
+        {
+          "text": "Predicting the next chunk of text, one piece at a time",
+          "correct": true
+        },
+        {
+          "text": "Looking the answer up in a built-in encyclopedia",
+          "correct": false
+        },
+        {
+          "text": "Reasoning through the problem like a human expert",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn LLM is, at heart, very advanced autocomplete: it repeatedly predicts the\nmost likely next token given everything so far — no lookup, no understanding.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dcc196#1",
+      "format": "flip",
+      "prompt": "Where does an LLM's 'knowledge' actually live?",
+      "back_html": "\u003cp\u003eNot in a database — in the patterns baked into its billions of tuned\nparameters during training. That's why it can't cite a source it 'looked up.'\u003c/p\u003e"
+    }
+  ]
+}

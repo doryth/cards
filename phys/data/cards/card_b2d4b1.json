@@ -1,0 +1,95 @@
+{
+  "id": "card_b2d4b1",
+  "slug": "ai-learns-standard-model-from-lhc-data",
+  "type": "paper",
+  "title": "Learning Standard Model structure from LHC data with Riemannian flow matching",
+  "hook": "Told nothing about particle physics except one energy rule, an AI trained on a billion real LHC collisions spontaneously rediscovered known particle masses and a constant of the weak force.",
+  "key_points": [
+    "ShellFlow is a generative AI model trained on about a billion real proton-proton collisions from ATLAS Open Data.",
+    "Its only built-in physics rule: a particle's energy, momentum, and mass must satisfy the 'on-shell' condition.",
+    "From that alone, it learned to reproduce known particle-pair mass peaks (J/ψ, Υ, Z boson) at their textbook positions.",
+    "It also recovered the leptonic Weinberg angle, plus the W boson and top-quark masses, unprompted.",
+    "It even reproduced correlations between particles that were never a direct training target.",
+    "Much of the Standard Model's structure turns out to be directly learnable from raw collision data alone."
+  ],
+  "content_html": "\u003cp\u003eFeed an AI model a billion real particle-collision events and tell it nothing about particle physics except one basic rule — and what comes out looks a lot like the Standard Model. A new generative model trained purely on LHC data spontaneously recovers known particle masses and a fundamental constant of the electroweak force, with no theory built in beyond that one constraint.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMidori Kato, Inar Timiryasov, Oleg Ruchayskiy, and colleagues built ShellFlow, a transformer-based generative AI model that generates each particle's momentum given only which particles were recorded in an event — respecting the \u0026quot;on-shell\u0026quot; condition that a particle's energy, momentum, and mass must be mutually consistent, plus the invariant-mass formula. That's the only physics it's told. Trained on roughly a billion real proton-proton collisions from the ATLAS Open Data 13 TeV release, the model learned to reproduce the correct internal kinematics of each particle, the known dilepton resonance peaks (J/ψ, Υ, Z boson) at their textbook positions, the leptonic Weinberg angle, the W boson and top-quark masses, and correlations between particles that were never part of what it was explicitly trained to match.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Midori Kato",
+      "Inar Timiryasov",
+      "Oleg Ruchayskiy"
+    ],
+    "url": "https://arxiv.org/abs/2607.16144",
+    "published_at": "2026-07-17",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3206bb",
+      "slug": "how-many-elementary-particles",
+      "type": "news",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "hook": "Count the Standard Model's particles and you might say 17 — but tweak the rules and the tally climbs past 900, with one rigorous answer that isn't even a whole number.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-15"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b2d4b1#0",
+      "format": "flip",
+      "prompt": "What is ShellFlow's only built-in physics assumption?",
+      "back_html": "\u003cp\u003eThat a particle's energy, momentum, and mass must satisfy the \u0026quot;on-shell\u0026quot; condition, plus the\ninvariant-mass formula — nothing else about particle physics.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b2d4b1#1",
+      "format": "quiz",
+      "prompt": "What did ShellFlow learn to reproduce despite never being directly trained on it?",
+      "choices": [
+        {
+          "text": "Correlations between different particles, plus known masses like the W boson and top quark",
+          "correct": true
+        },
+        {
+          "text": "The exact identity of dark matter",
+          "correct": false
+        },
+        {
+          "text": "Brand-new particles beyond the Standard Model",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt recovered known particle masses, the Weinberg angle, and cross-particle correlations —\nnone of which were direct training targets.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b2d4b1#2",
+      "format": "flip",
+      "prompt": "What data was ShellFlow trained on?",
+      "back_html": "\u003cp\u003eAbout a billion real proton-proton collision events from the ATLAS Open Data 13 TeV release.\u003c/p\u003e"
+    }
+  ]
+}

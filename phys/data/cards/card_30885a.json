@@ -1,0 +1,89 @@
+{
+  "id": "card_30885a",
+  "slug": "change-6-solar-wind-lunar-asymmetry",
+  "type": "news",
+  "title": "Why the Solar Wind Hits the Moon's Two Sides Differently",
+  "hook": "The Moon's near and far hemispheres soak up the solar wind unequally — because Earth's own magnetic shield shadows the near side. Chang'e-6's far-side dirt caught the difference.",
+  "key_points": [
+    "Chang'e-6 returned the first samples from the Moon's far side; comparing them to near-side soil revealed uneven solar-wind bombardment.",
+    "Earth's magnetosphere slows solar-wind particles reaching the near side (roughly 400 down to 200 km/s), so they implant less deeply.",
+    "The far side, exposed to faster undisturbed particles, shows deeper implantation — recorded by noble gases trapped in the regolith.",
+    "A neon isotope ratio (neon-20 to neon-22, about 11.34) runs lower on the far side, marking more intense isotopic fractionation.",
+    "These trapped gases could act as a fossil record of how Earth's magnetic shield behaved over billions of years."
+  ],
+  "content_html": "\u003cp\u003eThe solar wind — the constant stream of charged particles blowing off the Sun — has been sandblasting the Moon for billions of years. You might expect it to hit an airless, unmagnetized world evenly all over. It doesn't, and China's Chang'e-6 mission, the first to return samples from the Moon's far side, revealed why.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers at the Institute of Geology and Geophysics, Chinese Academy of Sciences — with postdoctoral researcher Xuhang Zhang working under Professor He Huaiyu — compared the far-side samples to near-side soil and found the two hemispheres record different solar-wind exposure. The reason is Earth itself: as the Moon orbits, its near side spends time inside Earth's magnetosphere, which acts like a speed governor, slowing incoming solar-wind particles from around 400 to roughly 200 kilometers per second. Those slower particles embed less deeply. The far side, always facing away from Earth, takes the full brunt of faster, undisturbed particles that penetrate deeper into the regolith. Noble gases locked in the soil preserved the evidence: far-side samples showed a lower neon-20 to neon-22 ratio (about 11.34), a sign of more intense isotopic fractionation, and released xenon at higher temperatures, consistent with deeper implantation. Because those heavy gases essentially fossilize the history of this bombardment, they may one day help reconstruct how Earth's magnetic shield evolved over billions of years. Published in \u003cem\u003eNature Geoscience\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260718010145.htm",
+    "published_at": "2026-07-21",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-23",
+  "date": "2026-07-21",
+  "related": [
+    {
+      "id": "card_3bf1e2",
+      "slug": "what-powers-the-sun",
+      "type": "concept",
+      "title": "What Powers the Sun",
+      "hook": "The Sun isn't burning like a fire — it's fusing hydrogen into helium in its core, and a sliver of mass turning into pure energy is what lights up our sky.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5086ca",
+      "slug": "solar-cycle-switch-off-prediction",
+      "type": "news",
+      "title": "The Sun's 'Switch-Off' Signal That Forecasts the Next Cycle",
+      "hook": "Partway through the Sun's 11-year cycle, a 'switch-off' moment shuts down its most violent storms — and the sunspots left over forecast the next cycle's strength years in advance.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-21"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_30885a#0",
+      "format": "quiz",
+      "prompt": "Why does the solar wind implant less deeply into the Moon's near-side soil?",
+      "choices": [
+        {
+          "text": "Earth's magnetosphere slows the particles reaching the near side, so they arrive with less energy",
+          "correct": true
+        },
+        {
+          "text": "The near side is colder, so particles bounce off instead of embedding",
+          "correct": false
+        },
+        {
+          "text": "The near side has thicker soil that blocks the particles",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAs the Moon passes through Earth's magnetosphere, near-side solar wind is slowed\n(roughly 400 to 200 km/s); the far side stays exposed to faster, undisturbed particles\nthat penetrate deeper.\u003c/p\u003e"
+    },
+    {
+      "id": "card_30885a#1",
+      "format": "flip",
+      "prompt": "What preserved the record of this uneven bombardment in the lunar soil?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eNoble gases\u003c/strong\u003e (helium, neon, argon, and others) trapped in the regolith — their\namounts and isotope ratios differ between the near and far sides.\u003c/p\u003e"
+    },
+    {
+      "id": "card_30885a#2",
+      "format": "flip",
+      "prompt": "Beyond the Moon, what might these trapped noble gases reveal?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003efossil record of Earth's magnetosphere\u003c/strong\u003e — how the planet's magnetic shield\ninteracted with the solar wind over billions of years.\u003c/p\u003e"
+    }
+  ]
+}

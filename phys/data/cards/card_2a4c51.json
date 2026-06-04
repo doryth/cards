@@ -1,0 +1,112 @@
+{
+  "id": "card_2a4c51",
+  "slug": "circuits-and-ohms-law",
+  "type": "concept",
+  "title": "Circuits and Ohm's Law",
+  "hook": "Three quantities run every circuit — voltage, current, and resistance — and one tidy rule ties them together: voltage equals current times resistance.",
+  "key_points": [
+    "Voltage is the push, current is the flow of charge, resistance is the opposition.",
+    "Ohm's law: V = I × R links all three in one relationship.",
+    "More voltage drives more current; more resistance throttles the current.",
+    "Water analogy: voltage is pressure, current is flow rate, resistance is a narrow pipe."
+  ],
+  "content_html": "\u003cp\u003eAlmost everything you need to reason about a simple circuit comes down to three quantities. Voltage is the push that drives charge around; current is how much charge actually flows; and resistance is how strongly the circuit fights that flow. Ohm's law states the relationship between them in one line: voltage equals current times resistance, V = I × R.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe rule is intuitive once you picture water in a pipe. Voltage is the water pressure, current is the flow rate, and resistance is a narrowing of the pipe. Crank up the pressure and more water flows; pinch the pipe and the flow drops. So raising voltage increases current, while raising resistance throttles it back. That single equation lets you predict how a circuit behaves and is the starting point for designing nearly any electronic device. Wikipedia covers the law and its limits.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ohm%27s_law",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "electricity-magnetism"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2b87f5",
+      "slug": "electric-charge-and-current",
+      "type": "concept",
+      "title": "Electric Charge \u0026 Current",
+      "hook": "Everything electrical comes down to charge — and an electric current is simply charge on the move.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_275a24",
+      "slug": "electric-and-magnetic-fields",
+      "type": "concept",
+      "title": "Electric and Magnetic Fields",
+      "hook": "How does a magnet pull a paperclip it isn't touching? Through a field — an invisible region of influence that tells other charges and magnets how to feel a force.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_2b87f5",
+      "slug": "electric-charge-and-current",
+      "type": "concept",
+      "title": "Electric Charge \u0026 Current",
+      "hook": "Everything electrical comes down to charge — and an electric current is simply charge on the move.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_2a4c51#0",
+      "format": "flip",
+      "prompt": "What does Ohm's law say?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eVoltage = current × resistance\u003c/strong\u003e (V = I × R). It ties together the push,\nthe flow, and the opposition in a circuit.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2a4c51#1",
+      "format": "quiz",
+      "prompt": "If you increase the resistance in a circuit while voltage stays the same, the current...",
+      "choices": [
+        {
+          "text": "Decreases",
+          "correct": true
+        },
+        {
+          "text": "Increases",
+          "correct": false
+        },
+        {
+          "text": "Stays exactly the same",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFrom V = I × R, holding voltage fixed and raising resistance forces the\ncurrent down — more opposition means less flow.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2a4c51#2",
+      "format": "quiz",
+      "prompt": "In the water-pipe analogy, what plays the role of voltage?",
+      "choices": [
+        {
+          "text": "Water pressure",
+          "correct": true
+        },
+        {
+          "text": "The flow rate of the water",
+          "correct": false
+        },
+        {
+          "text": "The width of the pipe",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVoltage is the pressure that pushes charge; current is the flow rate and\nresistance is how narrow the pipe is.\u003c/p\u003e"
+    }
+  ]
+}

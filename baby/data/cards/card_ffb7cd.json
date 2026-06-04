@@ -1,0 +1,102 @@
+{
+  "id": "card_ffb7cd",
+  "slug": "breastfeeding-and-formula",
+  "type": "concept",
+  "title": "Breastfeeding and Formula Both Feed a Baby Well",
+  "hook": "Health bodies recommend breastfeeding where possible, but properly prepared infant formula is a safe, nourishing alternative — a fed baby is the goal.",
+  "key_points": [
+    "WHO and others recommend exclusive breastfeeding for about the first 6 months where feasible, then continued alongside solids.",
+    "Breast milk offers antibodies and adapts over time; it can also lower some infection risks for the baby.",
+    "Commercial infant formula is nutritionally complete and safe when prepared and stored as directed.",
+    "Feeding choices depend on health, circumstances, and support — and many families combine both."
+  ],
+  "content_html": "\u003cp\u003eThe public-health message on infant feeding has two parts that sit comfortably together. First, where it's feasible, breastfeeding is recommended — the WHO advises exclusive breast milk for about the first six months, then breastfeeding alongside solids. Breast milk supplies antibodies, adapts to the baby over time, and can reduce some infection risks.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSecond, properly prepared commercial infant formula is a safe, nutritionally complete way to feed a baby, and following the preparation and storage instructions is what matters most for safety. Real feeding decisions hinge on health, circumstances, and the support a family has — and plenty of families combine breast and bottle. The honest summary is that a fed, thriving baby is the goal, and there's no need for guilt about how you get there. This is general information; a lactation consultant, midwife, or pediatrician can help with your specific situation.\u003c/p\u003e",
+  "source": {
+    "name": "WHO",
+    "url": "https://www.who.int/health-topics/breastfeeding",
+    "license": "© WHO (CC BY-NC-SA 3.0 IGO)"
+  },
+  "topic_ids": [
+    "feeding",
+    "newborn"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b6dd90",
+      "slug": "starting-solid-foods",
+      "type": "concept",
+      "title": "Starting Solid Foods",
+      "hook": "Most babies are ready for their first solid foods at around six months — alongside continued breast milk or formula, not instead of it.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9cb415",
+      "slug": "pumping-and-milk-storage",
+      "type": "concept",
+      "title": "Pumping and Storing Breast Milk",
+      "hook": "Expressing milk lets someone else share feeds and keeps supply going when you're back at work. The trick is a simple storage rule — and gentle handling so the milk stays good for baby.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ffb7cd#0",
+      "format": "quiz",
+      "prompt": "What does the WHO recommend for roughly the first 6 months, where feasible?",
+      "choices": [
+        {
+          "text": "Exclusive breastfeeding",
+          "correct": true
+        },
+        {
+          "text": "Breast milk plus daily solid food from birth",
+          "correct": false
+        },
+        {
+          "text": "Cow's milk as the main drink",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWHO recommends exclusive breastfeeding for about the first 6 months where\npossible, then continuing alongside appropriate solids.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ffb7cd#1",
+      "format": "quiz",
+      "prompt": "Is properly prepared infant formula a safe way to feed a baby?",
+      "choices": [
+        {
+          "text": "Yes — it's nutritionally complete when prepared and stored as directed",
+          "correct": true
+        },
+        {
+          "text": "No — only breast milk can nourish a baby",
+          "correct": false
+        },
+        {
+          "text": "Only if mixed with cow's milk",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCommercial infant formula is designed to be nutritionally complete. Safe\npreparation and storage matter; a fed baby is the goal.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ffb7cd#2",
+      "format": "flip",
+      "prompt": "Name two things breast milk offers beyond basic nutrition.",
+      "back_html": "\u003cp\u003eIt provides \u003cstrong\u003eantibodies\u003c/strong\u003e, \u003cstrong\u003eadapts over time\u003c/strong\u003e to the baby, and can\n\u003cstrong\u003elower some infection risks\u003c/strong\u003e — benefits formula doesn't fully replicate.\u003c/p\u003e"
+    }
+  ]
+}

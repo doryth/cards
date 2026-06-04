@@ -1,0 +1,101 @@
+{
+  "id": "card_f3ef92",
+  "slug": "what-are-fungi",
+  "type": "concept",
+  "title": "What Are Fungi?",
+  "hook": "Mushrooms, molds, and yeast belong to their own kingdom — not plants, not animals — and they make their living by digesting the world around them.",
+  "key_points": [
+    "Fungi form their own kingdom of life, separate from plants and animals.",
+    "They cannot make their own food; instead they absorb nutrients from their surroundings.",
+    "Most fungi are decomposers, breaking down dead matter and recycling nutrients.",
+    "Yeasts are single-celled, while molds and mushrooms grow as threadlike networks."
+  ],
+  "content_html": "\u003cp\u003eFungi are easy to mistake for plants — they sprout from soil and don't move — but they belong to a kingdom all their own. They include the mushrooms in a forest, the mold on old bread, and the yeast that leavens dough and ferments beer. What unites them is how they eat: rather than making food from sunlight or swallowing prey, they release enzymes to digest material around them and absorb the nutrients.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat feeding style makes fungi some of nature's most important recyclers. As decomposers, they break down dead wood, fallen leaves, and other organic matter, returning nutrients to the soil so new life can use them. Most fungi grow as a sprawling web of microscopic threads called hyphae; the mushroom you see is just the reproductive tip of a much larger hidden network. Yeasts are the exception, living as single cells. Encyclopaedia Britannica describes how this kingdom's members range from microscopic to vast, including some of the largest organisms on Earth.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/fungus",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "microbiology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a13f41",
+      "slug": "ecosystems-and-interdependence",
+      "type": "concept",
+      "title": "Ecosystems \u0026 Interdependence",
+      "hook": "An ecosystem is a community of living things plus their environment, all so tangled together that pulling one thread can shake the whole web.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f3ef92#0",
+      "format": "flip",
+      "prompt": "Are fungi plants, animals, or something else?",
+      "back_html": "\u003cp\u003eNeither — fungi make up their \u003cstrong\u003eown kingdom\u003c/strong\u003e of life. They can't\nphotosynthesize like plants, but unlike animals they absorb nutrients rather\nthan swallowing food.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f3ef92#1",
+      "format": "quiz",
+      "prompt": "How do fungi get their nutrients?",
+      "choices": [
+        {
+          "text": "They absorb nutrients by digesting matter outside their bodies",
+          "correct": true
+        },
+        {
+          "text": "They make their own food from sunlight",
+          "correct": false
+        },
+        {
+          "text": "They hunt and swallow smaller organisms",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFungi release enzymes into their surroundings, break food down externally, and\nthen absorb the dissolved nutrients — a lifestyle that makes many of them\npowerful decomposers.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f3ef92#2",
+      "format": "quiz",
+      "prompt": "Which of these is a single-celled fungus?",
+      "choices": [
+        {
+          "text": "Yeast",
+          "correct": true
+        },
+        {
+          "text": "A mushroom",
+          "correct": false
+        },
+        {
+          "text": "A patch of mold",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYeasts are single-celled fungi, while mushrooms and molds grow as networks of\nmicroscopic threads called hyphae.\u003c/p\u003e"
+    }
+  ]
+}

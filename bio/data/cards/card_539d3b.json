@@ -1,0 +1,109 @@
+{
+  "id": "card_539d3b",
+  "slug": "sexual-selection",
+  "type": "concept",
+  "title": "Sexual Selection",
+  "hook": "Why does a peacock drag around a tail that makes it easy prey? Because for some traits, winning a mate matters more to evolution than simply surviving.",
+  "key_points": [
+    "Sexual selection favors traits that help an individual win mates, not just survive.",
+    "It can produce extravagant features — like the peacock's tail — that survival alone would punish.",
+    "Mate choice (often by females) and competition between rivals are its two main forms.",
+    "Darwin proposed it to explain showy traits that ordinary natural selection couldn't."
+  ],
+  "content_html": "\u003cp\u003eNatural selection rewards survival, so how do you explain a peacock hauling around a tail that slows it down and advertises its location to predators? Charles Darwin's answer was sexual selection: evolution doesn't only favor traits that help you live longer, but also traits that help you reproduce. If a feature makes you more likely to win a mate, it can spread through a population even at a cost to your own survival.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSexual selection works through two channels. In mate choice, one sex — often females — prefers partners with particular traits, so those traits flourish across generations; peahens favoring the showiest tails is the classic example. In competition, members of one sex battle for access to the other, which favors weapons and size like a stag's antlers. Understanding Evolution from UC Berkeley notes that these pressures can drive runaway elaboration, producing the bright colors, songs, dances, and ornaments that fill the animal world. The result is a tug-of-war: survival pulls toward modesty while mating success pulls toward extravagance, and where the line settles shapes how a species looks and behaves.\u003c/p\u003e",
+  "source": {
+    "name": "UC Berkeley Understanding Evolution",
+    "url": "https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/sexual-selection/",
+    "license": "© UC Museum of Paleontology, Understanding Evolution"
+  },
+  "topic_ids": [
+    "evolution"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_89dd5d",
+      "slug": "natural-selection",
+      "type": "concept",
+      "title": "Natural Selection",
+      "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_50ecfa",
+      "slug": "how-new-species-form",
+      "type": "concept",
+      "title": "How New Species Form",
+      "hook": "Split one population in two, let them drift apart long enough, and eventually they can no longer interbreed — that's speciation, the engine that fills the tree of life with branches.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d50d41",
+      "slug": "animal-adaptations",
+      "type": "concept",
+      "title": "Animal Adaptations",
+      "hook": "A camel's hump, a chameleon's color, a polar bear's fat — these aren't accidents. Each is a trait shaped over generations to fit a particular way of life.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_539d3b#0",
+      "format": "flip",
+      "prompt": "What does sexual selection favor?",
+      "back_html": "\u003cp\u003eTraits that help an individual \u003cstrong\u003ewin mates\u003c/strong\u003e — through attracting partners or beating\nrivals — even when those traits make day-to-day survival harder.\u003c/p\u003e"
+    },
+    {
+      "id": "card_539d3b#1",
+      "format": "quiz",
+      "prompt": "Why is the peacock's enormous tail a puzzle for ordinary natural selection?",
+      "choices": [
+        {
+          "text": "It's costly and dangerous, yet evolved anyway because it attracts mates",
+          "correct": true
+        },
+        {
+          "text": "It helps the peacock fly faster from predators",
+          "correct": false
+        },
+        {
+          "text": "It provides camouflage in the forest",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA huge tail is heavy and conspicuous, hurting survival. It persists because peahens prefer\nit, so the mating advantage outweighs the survival cost — that's sexual selection.\u003c/p\u003e"
+    },
+    {
+      "id": "card_539d3b#2",
+      "format": "quiz",
+      "prompt": "What are the two main forms of sexual selection?",
+      "choices": [
+        {
+          "text": "Mate choice and competition between rivals",
+          "correct": true
+        },
+        {
+          "text": "Mutation and migration",
+          "correct": false
+        },
+        {
+          "text": "Predation and starvation",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOne form is mate choice (one sex prefers certain traits in the other); the other is direct\ncompetition among members of one sex, such as males battling for access to females.\u003c/p\u003e"
+    }
+  ]
+}

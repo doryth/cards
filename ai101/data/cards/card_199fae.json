@@ -1,0 +1,109 @@
+{
+  "id": "card_199fae",
+  "slug": "data-center-backlash",
+  "type": "news",
+  "title": "Communities Are Pushing Back on AI Data Centers",
+  "hook": "The warehouses that power AI need land, power, and water — and neighbors are starting to say no. New York just signed the nation's first statewide data center ban into law.",
+  "key_points": [
+    "Governor Kathy Hochul signed New York's one-year moratorium on new large data centers into law.",
+    "Ars Technica and The Verge report it's the first statewide data center ban of its kind in the US.",
+    "A separate bill that could restrict even more data center development still awaits her signature.",
+    "Investor Kevin O'Leary agreed to cut his planned 40,000-acre Utah data center nearly in half.",
+    "Another developer shrank a project 50% amid protests, saying he'd 'pissed off a lot of people.'",
+    "By mid-2026, roughly $130 billion in data center projects had been blocked by protests for the year."
+  ],
+  "content_html": "\u003cp\u003eThe data centers behind every chatbot reply have to sit somewhere, and in mid-2026 the question of \u003cem\u003ewhere\u003c/em\u003e turned into a string of local fights. New York's legislature passed a one-year moratorium on new large data centers back in June — and on July 14, Ars Technica and The Verge reported that Governor Kathy Hochul signed it into law, making it the first statewide data center ban of its kind in the US. A separate bill that could restrict development even further was still awaiting her signature. The moratorium blocks new environmental permits for large data centers, buying time to study their effects on the environment and energy prices.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt wasn't an isolated move. Investor Kevin O'Leary agreed to remove nearly 20,000 acres from a planned 40,000-acre Utah data center after pressure from residents; another developer cut a project in half amid protests, admitting he'd \u0026quot;pissed off a lot of people\u0026quot;; and a proposed $2 billion center became a political flashpoint in Shelbyville, Indiana. The scale is adding up: Ars Technica reported that by mid-2026 roughly $130 billion in data center projects had been blocked by protests over the year — enough, one organizer said, to give people \u0026quot;a taste of political power.\u0026quot; The common thread is the physical cost of AI: these facilities draw enormous amounts of electricity and water, and neighbors worry about grid strain and rising power bills. It's a concrete illustration of a point that's easy to forget — \u0026quot;the cloud\u0026quot; is real estate, and the AI boom is now colliding with the communities that host it.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Lauren Feiner"
+    ],
+    "url": "https://theverge.com/policy/944041/new-york-data-center-moratorium",
+    "published_at": "2026-06-05",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-energy",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-08",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_969523",
+      "slug": "ai-energy-and-water",
+      "type": "concept",
+      "title": "AI's Energy \u0026 Water",
+      "hook": "Every chatbot reply runs in a warehouse of power-hungry computers somewhere. AI's convenience has a real physical footprint — in electricity, water for cooling, and carbon.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_debb47",
+      "slug": "data-centers-flex-the-grid",
+      "type": "news",
+      "title": "A Fix for AI's Power Crunch: Flexible Data Centers",
+      "hook": "AI's data centers are straining electric grids. One promising fix: build them to flex — easing off power when the grid is stressed, in exchange for getting connected far sooner.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_199fae#0",
+      "format": "quiz",
+      "prompt": "Why are some communities and lawmakers resisting new AI data centers?",
+      "choices": [
+        {
+          "text": "Strain on local power grids and water supplies, and higher electricity prices",
+          "correct": true
+        },
+        {
+          "text": "Data centers are too quiet and nobody notices them",
+          "correct": false
+        },
+        {
+          "text": "They take up no land at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe pushback centers on data centers' heavy demands on electricity and water,\nand the worry that they raise energy costs for nearby residents.\u003c/p\u003e"
+    },
+    {
+      "id": "card_199fae#1",
+      "format": "flip",
+      "prompt": "What did New York do that's a national first?",
+      "back_html": "\u003cp\u003eGovernor Kathy Hochul signed a one-year moratorium on new large data\ncenters into law — the first statewide ban of its kind in the US.\u003c/p\u003e"
+    }
+  ]
+}

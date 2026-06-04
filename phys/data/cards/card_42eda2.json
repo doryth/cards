@@ -1,0 +1,114 @@
+{
+  "id": "card_42eda2",
+  "slug": "xenonnt-sees-pp-solar-neutrinos",
+  "type": "paper",
+  "title": "A Dark Matter Detector Catches the Sun's Faintest Neutrinos",
+  "hook": "XENONnT was built to find dark matter. Instead it made the first keV-scale measurement of solar neutrinos scattering off electrons — the lowest-energy neutrino detection to date.",
+  "key_points": [
+    "XENONnT reports the first solar neutrino measurement via elastic neutrino-electron scattering in a dark matter experiment.",
+    "It covers electron recoils from 1 to 140 keV, reaching neutrinos with energies down to 17 keV.",
+    "That is the lowest energy threshold achieved for any neutrino detection so far.",
+    "Exposure was 2.46 tonne-years across the first two science runs; the background-only hypothesis is rejected at 5.0 sigma.",
+    "The measured pp neutrino flux is (10.2 +/- 2.0) x 10^10 per cm^2 per second.",
+    "That is higher than but statistically consistent with Borexino's earlier value, differing by 1.9 sigma."
+  ],
+  "content_html": "\u003cp\u003eXENONnT is a three-tonne tank of liquid xenon buried under a mountain, designed to catch a dark\nmatter particle nudging a xenon nucleus. Its exquisite sensitivity to tiny, rare energy deposits\nturns out to be useful for something else entirely: watching neutrinos from the Sun bounce off\nelectrons.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe collaboration reports the first measurement of low-energy solar neutrinos through elastic\nneutrino-electron scattering in a dark matter experiment, using 2.46 tonne-years of exposure from\nits first two science runs. Looking at electron recoils between 1 and 140 keV, the detector is\nsensitive to neutrinos with energies down to 17 keV — the lowest energy threshold reached for any\nneutrino detection to date. The background-only hypothesis is rejected at 5.0 sigma, and the\ninferred flux of pp neutrinos, produced in the very first step of the Sun's fusion chain, is\n(10.2 +/- 2.0) x 10^10 per square centimetre per second: higher than Borexino's earlier figure\nbut consistent with it at 1.9 sigma. Together with recent detections of coherent elastic\nneutrino-nucleus scattering from solar boron-8 neutrinos, the authors argue liquid xenon is\nbecoming a serious neutrino technology, not just a dark matter one.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "XENON Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2608.29450",
+    "published_at": "2026-08-29",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-08-29",
+  "related": [
+    {
+      "id": "card_37dae0",
+      "slug": "tracking-the-elusive-neutrino",
+      "type": "news",
+      "title": "Catching the Ghost Particle",
+      "hook": "Trillions of neutrinos stream through your body every second, yet they almost never touch anything. To catch even a few, physicists build some of the most audacious detectors ever conceived.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_28ad49",
+      "slug": "juno-neutrino-first-results",
+      "type": "news",
+      "title": "JUNO's First Look at Shape-Shifting Neutrinos",
+      "hook": "A giant detector buried under China caught neutrinos changing identity mid-flight — and in just 59 days made one of the sharpest measurements yet of the ghost particle's habits.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "card_3bf1e2",
+      "slug": "what-powers-the-sun",
+      "type": "concept",
+      "title": "What Powers the Sun",
+      "hook": "The Sun isn't burning like a fire — it's fusing hydrogen into helium in its core, and a sliver of mass turning into pure energy is what lights up our sky.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2512e3",
+      "slug": "first-directional-dark-matter-limits",
+      "type": "paper",
+      "title": "A Dark Matter Detector That Asks Which Way the Hit Came From",
+      "hook": "Neutrons and dark matter can leave identical-looking recoils. MIMAC's answer: reconstruct the direction of each recoil and check whether it points where dark matter should come from.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_42eda2#0",
+      "format": "flip",
+      "prompt": "What are pp neutrinos, and why are they hard to detect?",
+      "back_html": "\u003cp\u003eThey come from the first step of the Sun's proton-proton fusion chain. They carry very low\nenergies, so the recoils they produce sit near or below most detectors' thresholds.\u003c/p\u003e"
+    },
+    {
+      "id": "card_42eda2#1",
+      "format": "quiz",
+      "prompt": "Why is it notable that a dark matter detector made this measurement?",
+      "choices": [
+        {
+          "text": "The same liquid-xenon technology built for rare dark matter recoils turns out to work as a low-threshold neutrino observatory",
+          "correct": true
+        },
+        {
+          "text": "It proves dark matter is made of neutrinos",
+          "correct": false
+        },
+        {
+          "text": "It shows the Sun emits far more neutrinos than models predict",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe collaboration frames the result as a milestone toward a next-generation multipurpose\nliquid-xenon observatory serving both dark matter and neutrino physics.\u003c/p\u003e"
+    },
+    {
+      "id": "card_42eda2#2",
+      "format": "flip",
+      "prompt": "How does XENONnT's pp flux compare with Borexino's earlier measurement?",
+      "back_html": "\u003cp\u003eLarger, but statistically consistent — the two differ by 1.9 sigma.\u003c/p\u003e"
+    }
+  ]
+}

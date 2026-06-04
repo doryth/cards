@@ -1,0 +1,99 @@
+{
+  "id": "card_01e273",
+  "slug": "metal-nitride-nanocrystals",
+  "type": "news",
+  "title": "A New Recipe for Nanocrystals Chemists Called Impossible",
+  "hook": "Metal nitrides make great LEDs, implants and superconductors — but nobody could shrink them to nanocrystals. A new synthesis route finally does it.",
+  "key_points": [
+    "Metal nitrides are tough, stable materials already used in LEDs, medical implants and superconductors.",
+    "That same toughness made them extremely hard to synthesize as nanocrystals, which typically need gentler chemistry.",
+    "Researchers cracked the long-standing synthesis problem, producing nitride nanocrystals at scale.",
+    "Nanocrystals can be dispersed in a liquid, so they can be printed or coated onto surfaces.",
+    "That turns rigid, high-temperature materials into building blocks for flexible and printable electronics."
+  ],
+  "content_html": "\u003cp\u003eMetal nitrides are the workhorses you rarely hear about. Gallium nitride is what made bright blue and white LEDs possible; titanium nitride coats medical implants and cutting tools; niobium nitride superconducts. What they all share is toughness — very strong bonds between metal and nitrogen atoms, which is exactly why they hold up under heat, wear and corrosion.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat toughness has been the obstacle to shrinking them. Making nanocrystals — particles a few nanometers across — requires growing a crystal atom by atom under conditions gentle enough to stop it whenever you want. Nitrides normally demand furnace temperatures that leave no such control, so the nanocrystal versions of these materials have largely been out of reach.\u003c/p\u003e\n\u003cp\u003eResearchers reported in August 2026 that they have solved the synthesis problem, producing metal nitride nanocrystals from materials that previously resisted it. The practical significance is about \u003cem\u003eform\u003c/em\u003e, not new physics: nanocrystals disperse in liquid, which means they behave like an ink. A material that used to require a high-temperature deposition chamber can then be printed, coated or spun onto a surface — including a flexible one. It is the same route that turned quantum dots from a lab curiosity into television displays, now opened for a family of materials that had been stuck in bulk form.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260827010510.htm",
+    "published_at": "2026-08-30",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-31",
+  "date": "2026-08-30",
+  "related": [
+    {
+      "id": "card_b123c0",
+      "slug": "semiconductors-and-transistors",
+      "type": "concept",
+      "title": "Semiconductors and the Transistor",
+      "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ac2d8c",
+      "slug": "gallium-covalent-bonds-return",
+      "type": "news",
+      "title": "A 150-Year-Old Gallium Mystery, Solved",
+      "hook": "Gallium melts in your hand — and for 30 years scientists assumed its atomic bonds vanish for good once it does. New research found those bonds actually come back at higher temperatures.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_5fb13c",
+      "slug": "light-controlled-magnetism-2d-materials",
+      "type": "news",
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "hook": "In materials just atoms thick, light doesn't just illuminate anymore — it can directly flip magnetic behavior, a step toward memory and quantum devices run purely on light.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_01e273#0",
+      "format": "flip",
+      "prompt": "Why were metal nitride nanocrystals so hard to make?",
+      "back_html": "\u003cp\u003eThe properties that make nitrides useful — extreme hardness and chemical stability, from\nvery strong metal-nitrogen bonds — also mean they normally require harsh, high-temperature\nconditions incompatible with the controlled growth nanocrystals need.\u003c/p\u003e"
+    },
+    {
+      "id": "card_01e273#1",
+      "format": "quiz",
+      "prompt": "What does making a material available as nanocrystals enable?",
+      "choices": [
+        {
+          "text": "It can be dispersed in liquid and printed or coated onto surfaces, including flexible ones",
+          "correct": true
+        },
+        {
+          "text": "It becomes a superconductor at room temperature automatically",
+          "correct": false
+        },
+        {
+          "text": "It stops obeying the laws of chemistry at small scales",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNanocrystals behave like an ink. That solution processability is what lets a normally\nrigid, furnace-grown material be deposited on flexible substrates and patterned cheaply.\u003c/p\u003e"
+    },
+    {
+      "id": "card_01e273#2",
+      "format": "flip",
+      "prompt": "Where are metal nitrides already used?",
+      "back_html": "\u003cp\u003eIn LEDs, medical implants, and superconductors — applications that exploit their\ndurability, chemical stability and electronic properties.\u003c/p\u003e"
+    }
+  ]
+}

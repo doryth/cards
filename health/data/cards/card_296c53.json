@@ -1,0 +1,109 @@
+{
+  "id": "card_296c53",
+  "slug": "tooth-count-and-cancer-survival",
+  "type": "news",
+  "title": "Counting Teeth Predicted Survival After Cancer Surgery",
+  "hook": "Among 339 pancreatic cancer patients, those with at least 21 natural teeth lived nearly two years longer after surgery. Teeth are standing in for something bigger.",
+  "key_points": [
+    "In a study of 339 pancreatic cancer patients, those with 21+ natural teeth survived nearly two years longer post-surgery.",
+    "The researchers don't argue teeth cause survival — they read tooth count as a marker.",
+    "Tooth loss can reflect decades of chronic inflammation, poor nutrition, and frailty.",
+    "It may also be a rough index of lifetime access to care and general resilience.",
+    "Tooth count is cheap and objective, which is exactly what makes it appealing as a prognostic signal.",
+    "Observational data — no evidence yet that dental work changes cancer outcomes."
+  ],
+  "content_html": "\u003cp\u003eHere's a prognostic marker no one asks for: how many teeth you have. Among 339 patients who had surgery for pancreatic cancer, those with at least 21 natural teeth survived nearly two years longer than those with fewer.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe researchers are explicit that they don't think teeth are doing the work. Tooth loss is a slow accumulator — it records decades of chronic inflammation, gum disease, nutritional shortfalls, smoking, frailty, and unequal access to dental care. All of those also shape whether someone can withstand a major abdominal operation and the treatment that follows. Tooth count just happens to be a cheap, objective, retrospectively available summary of them.\u003c/p\u003e\n\u003cp\u003eThis is observational, so the practical reading is careful: it does not show that dental work improves cancer outcomes. What it does support is the broader theme this deck keeps returning to — oral health is not a separate compartment from the rest of the body's condition. Good gum health is worth having on its own terms, and a clinician who notices extensive tooth loss is looking at a patient who may need more support, not just a dentist.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260821012218.htm",
+    "published_at": "2026-08-21",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "oral-health",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_2480e1",
+      "slug": "why-oral-health-matters",
+      "type": "concept",
+      "title": "Why Oral Health Matters",
+      "hook": "Your mouth isn't sealed off from the rest of you. Gum disease and untreated decay are linked to problems well beyond the teeth — and most of it is preventable.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_276601",
+      "slug": "gum-disease-aortic-valve-risk",
+      "type": "news",
+      "title": "A Hidden Heart Valve Risk Linked to Gum Disease",
+      "hook": "Gum disease is already linked to heart disease in general — new research points to a specific mechanism: bacteria that may help trigger a serious, calcium-driven heart valve condition.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_2c8afd",
+      "slug": "brushing-and-flossing-basics",
+      "type": "concept",
+      "title": "Brushing and Flossing, Done Right",
+      "hook": "Brushing twice a day sounds obvious — but for two minutes, with fluoride, and adding daily flossing, is where most people quietly fall short.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_3248ca",
+      "slug": "cracking-pancreatic-cancer",
+      "type": "news",
+      "title": "A Drug for 'Undruggable' Pancreatic Cancer",
+      "hook": "A new drug, daraxonrasib, hits a KRAS mutation long thought 'undruggable' and nearly doubled survival in a trial of advanced pancreatic cancer — a hard-to-treat disease.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_296c53#0",
+      "format": "quiz",
+      "prompt": "Why do the researchers think tooth count tracked survival?",
+      "choices": [
+        {
+          "text": "Teeth act as a marker of decades of inflammation, nutrition, and frailty",
+          "correct": true
+        },
+        {
+          "text": "Teeth directly help the body fight pancreatic tumors",
+          "correct": false
+        },
+        {
+          "text": "Patients with more teeth received different chemotherapy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe argument is proxy, not cause. Losing teeth reflects long-running inflammation,\nnutritional status, frailty, and access to care — the same factors that shape how\nwell someone withstands major surgery.\u003c/p\u003e"
+    },
+    {
+      "id": "card_296c53#1",
+      "format": "flip",
+      "prompt": "What was the cutoff and the size of the difference?",
+      "back_html": "\u003cp\u003ePatients with \u003cstrong\u003eat least 21 natural teeth\u003c/strong\u003e survived \u003cstrong\u003enearly two years longer\u003c/strong\u003e\nafter surgery than those with fewer, in a study of 339 people.\u003c/p\u003e"
+    },
+    {
+      "id": "card_296c53#2",
+      "format": "flip",
+      "prompt": "What can't you conclude from this study?",
+      "back_html": "\u003cp\u003eThat dental treatment improves cancer survival. It's \u003cstrong\u003eobservational\u003c/strong\u003e — tooth count\npredicted the outcome; nobody showed that changing it changes the outcome.\u003c/p\u003e"
+    }
+  ]
+}

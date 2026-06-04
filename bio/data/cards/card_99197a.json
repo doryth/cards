@@ -1,0 +1,110 @@
+{
+  "id": "card_99197a",
+  "slug": "nucleic-acids-dna-and-rna",
+  "type": "concept",
+  "title": "Nucleic Acids: DNA and RNA",
+  "hook": "DNA and RNA are the cell's information molecules — long chains of nucleotides that store the instructions for building and running every living thing.",
+  "key_points": [
+    "Nucleic acids are polymers built from repeating units called nucleotides.",
+    "Each nucleotide has three parts: a sugar, a phosphate group, and a nitrogen-containing base.",
+    "DNA stores genetic information; RNA helps read it out to make proteins.",
+    "The order of the bases along the chain is the code that carries information.",
+    "DNA uses the bases A, T, G, and C; RNA swaps thymine (T) for uracil (U)."
+  ],
+  "content_html": "\u003cp\u003eNucleic acids are the molecules that carry life's instructions. There are two kinds — DNA and RNA — and both are long chains built from smaller units called nucleotides. Each nucleotide is a sugar joined to a phosphate group and one of a handful of nitrogen-containing bases. The sequence of those bases, read along the chain, is the actual information.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA nucleotide has three parts: a five-carbon sugar, a phosphate group, and a nitrogenous base. The sugars and phosphates link up to form a backbone, while the bases stick out and pair up to spell the genetic message. DNA's bases are adenine, thymine, guanine, and cytosine (A, T, G, C); RNA uses the same set but swaps thymine for uracil (U). DNA's job is long-term storage of the genome, while RNA carries copies of those instructions out to where proteins are built. Khan Academy's overview of nucleic acids walks through how nucleotides assemble into these information-carrying polymers.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/macromolecules/nucleic-acids/a/nucleic-acids",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "molecules-of-life"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_56a3a0",
+      "slug": "the-molecules-of-life",
+      "type": "concept",
+      "title": "The Molecules of Life",
+      "hook": "Almost everything in a living cell is built from just four families of large molecules — carbohydrates, lipids, proteins, and nucleic acids.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_88ba5a",
+      "slug": "from-dna-to-protein",
+      "type": "concept",
+      "title": "From DNA to Protein: The Central Dogma",
+      "hook": "Your DNA is a recipe book locked in the nucleus — so the cell copies a single recipe to RNA, carries it out, and reads it to build a protein.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_99197a#0",
+      "format": "flip",
+      "prompt": "What are the building blocks of nucleic acids called?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eNucleotides\u003c/strong\u003e. Each one has a sugar, a phosphate group, and a nitrogen-containing\nbase. Strung together, they form the long chains of DNA and RNA.\u003c/p\u003e"
+    },
+    {
+      "id": "card_99197a#1",
+      "format": "quiz",
+      "prompt": "What does the order of bases along a nucleic acid actually represent?",
+      "choices": [
+        {
+          "text": "The information — the genetic code itself",
+          "correct": true
+        },
+        {
+          "text": "Only the molecule's electrical charge",
+          "correct": false
+        },
+        {
+          "text": "Nothing; the sequence is random",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eJust as letters spell words, the sequence of bases spells out instructions —\nit's the information that DNA stores and RNA helps express.\u003c/p\u003e"
+    },
+    {
+      "id": "card_99197a#2",
+      "format": "quiz",
+      "prompt": "Which base appears in RNA but not in DNA?",
+      "choices": [
+        {
+          "text": "Uracil (U), which replaces thymine",
+          "correct": true
+        },
+        {
+          "text": "Guanine (G)",
+          "correct": false
+        },
+        {
+          "text": "Adenine (A)",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDNA and RNA share A, G, and C. Where DNA uses thymine (T), RNA uses uracil (U)\ninstead.\u003c/p\u003e"
+    }
+  ]
+}

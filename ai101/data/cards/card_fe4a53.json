@@ -1,0 +1,95 @@
+{
+  "id": "card_fe4a53",
+  "slug": "chatgpt-eu-dsa-designation",
+  "type": "news",
+  "title": "Europe Just Reclassified ChatGPT as Critical Infrastructure",
+  "hook": "ChatGPT got big enough that the EU now regulates it like a search engine — with duties around minors, mental health, and illegal content.",
+  "key_points": [
+    "The EU designated ChatGPT a Very Large Online Search Engine under the Digital Services Act, per The Verge and the Financial Times.",
+    "The trigger is scale: the DSA's toughest tier applies to services above roughly 45 million monthly EU users.",
+    "OpenAI must now assess and mitigate risks to minors, to user mental health, and from illegal content.",
+    "It also owes transparency reporting and independent audits — obligations Reddit was designated for at the same time.",
+    "This regulates the chatbot as a distribution channel, not the model's training data or capabilities."
+  ],
+  "content_html": "\u003cp\u003eChatGPT is now officially one of Europe's biggest online platforms — legally speaking. The European Union has designated it a Very Large Online Search Engine under the Digital Services Act, the bloc's sweeping rulebook for major online services. Reddit was designated at the same time. The Financial Times and The Verge both reported the move, which lands OpenAI in the DSA's strictest tier of obligations.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe designation is about size, not about how clever the model is. The DSA reserves its heaviest duties for services used by roughly 45 million or more people in the EU each month, and ChatGPT's growth pushed it over the line. From here, OpenAI has to formally assess and mitigate systemic risks — specifically named are the service's impact on minors, on users' mental health, and the spread of illegal content — and submit to transparency reporting and independent audits.\u003c/p\u003e\n\u003cp\u003eWorth noticing what this does and doesn't touch. It regulates ChatGPT as a place where hundreds of millions of people go for answers, with the same logic Europe applies to Google or TikTok. It says nothing about what the model was trained on or how capable it's allowed to be; those fights are happening in other courtrooms and other laws.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "published_at": "2026-08-31",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-regulation",
+    "chatbots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-08-31",
+  "related": [
+    {
+      "id": "card_67b074",
+      "slug": "chatgpt-teen-mode",
+      "type": "news",
+      "title": "ChatGPT Is Getting a Separate Mode for Teenagers",
+      "hook": "OpenAI is bundling its youth safeguards into a distinct 'ChatGPT for Teens' experience — arriving as scrutiny mounts over what chatbots say to young users.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-18"
+    },
+    {
+      "id": "card_643f82",
+      "slug": "eu-forces-google-open-android-ai",
+      "type": "news",
+      "title": "EU Orders Google to Let Rival AI Assistants Onto Android",
+      "hook": "Want to say 'hey Siri' or 'hey Alexa' on an Android phone the way you say 'hey Google'? The EU just ordered Google to make that possible — and to share search data with rivals too.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fe4a53#0",
+      "format": "quiz",
+      "prompt": "Why did ChatGPT fall under the EU's strictest online-safety rules?",
+      "choices": [
+        {
+          "text": "It crossed the user-count threshold that triggers the DSA's top tier",
+          "correct": true
+        },
+        {
+          "text": "Its model scored too high on a capability benchmark",
+          "correct": false
+        },
+        {
+          "text": "It was found to have trained on copyrighted EU works",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Digital Services Act's toughest obligations attach to services above roughly\n45 million monthly EU users — a size test, not a capability or training-data test.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fe4a53#1",
+      "format": "flip",
+      "prompt": "What kinds of duties does the designation create for OpenAI?",
+      "back_html": "\u003cp\u003eAssessing and mitigating risks to minors, to user mental health, and from illegal\ncontent — plus transparency reporting and independent outside audits.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fe4a53#2",
+      "format": "flip",
+      "prompt": "What does this rule *not* cover?",
+      "back_html": "\u003cp\u003eHow the model was built. The DSA governs ChatGPT as a service people use, leaving\ntraining data and model capabilities to other laws.\u003c/p\u003e"
+    }
+  ]
+}

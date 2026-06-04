@@ -1,0 +1,97 @@
+{
+  "id": "card_800ed6",
+  "slug": "viral-robot-demos",
+  "type": "news",
+  "title": "That Viral Robot Video Probably Isn't What It Looks Like",
+  "hook": "Humanoid robots dancing and doing backflips rack up millions of views — but slick demos can badly distort what these machines can actually do on their own, in the real world.",
+  "key_points": [
+    "An Ars Technica skeptic's guide warns viral robot clips can mislead about real capabilities.",
+    "Demos are often staged, sped up, cherry-picked, or remotely controlled by a human.",
+    "A polished move on a stage is not the same as reliable, independent action in a messy world.",
+    "Ask: was this autonomous? repeatable? in an uncontrolled setting? — before being impressed."
+  ],
+  "content_html": "\u003cp\u003eHumanoid robots have become reliable viral content: a clip of one dancing, folding laundry, or sticking a backflip can pull in millions of views overnight. On June 4, 2026, Ars Technica published a \u0026quot;skeptic's guide\u0026quot; arguing that those demonstrations can seriously distort the public's sense of how capable today's robots really are.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe gap comes from how demos are made. A clip you see is the \u003cem\u003ebest\u003c/em\u003e take, often after many failures; it may be sped up, shot in a tightly controlled environment, or quietly steered by a human operator off-camera (teleoperation). None of that is necessarily dishonest — it's how showcases work — but it means a flawless thirty-second video is weak evidence that a robot can do the same thing reliably, on its own, in a cluttered home or street. As the piece suggests, a few questions cut through the hype: Was the robot acting autonomously or being remote-controlled? Could it repeat the feat on demand? And did it happen somewhere unpredictable, or on a stage built for the shot? The physical world is far less forgiving than a viral feed makes it look.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet",
+    "published_at": "2026-06-04",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "robots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-08",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_66e39d",
+      "slug": "robots-and-self-driving",
+      "type": "concept",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_800ed6#0",
+      "format": "quiz",
+      "prompt": "Why can a viral humanoid-robot video overstate what the robot can really do?",
+      "choices": [
+        {
+          "text": "It may be staged, edited, cherry-picked, or secretly remote-controlled",
+          "correct": true
+        },
+        {
+          "text": "Cameras always make robots look worse than they are",
+          "correct": false
+        },
+        {
+          "text": "Robots only work on video and never in person",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDemos are curated for effect — sped up, retried until perfect, or teleoperated —\nso a smooth clip doesn't prove the robot acts reliably on its own.\u003c/p\u003e"
+    },
+    {
+      "id": "card_800ed6#1",
+      "format": "flip",
+      "prompt": "What three questions help you judge an impressive robot demo?",
+      "back_html": "\u003cp\u003eWas it autonomous (no human steering)? Is it repeatable? Did it happen in an\nuncontrolled, real-world setting — not just a rehearsed stage?\u003c/p\u003e"
+    }
+  ]
+}

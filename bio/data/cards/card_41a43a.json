@@ -1,0 +1,99 @@
+{
+  "id": "card_41a43a",
+  "slug": "human-evolution",
+  "type": "concept",
+  "title": "Human Evolution",
+  "hook": "We didn't descend from chimpanzees — we share an ancestor with them. From that branching point, our lineage walked upright, grew big brains, and spread across the planet.",
+  "key_points": [
+    "Humans and chimpanzees share a common ancestor that lived roughly 6–8 million years ago.",
+    "Walking upright (bipedalism) came early, well before our brains enlarged.",
+    "Stone tools, controlled fire, and growing brain size mark the genus Homo.",
+    "Homo sapiens arose in Africa around 300,000 years ago, then spread worldwide."
+  ],
+  "content_html": "\u003cp\u003eA persistent myth says humans evolved from chimpanzees. We didn't — chimps are our cousins, not our grandparents. Both lineages trace back to a common ancestor that lived around six to eight million years ago, and each has been evolving on its own path ever since. Our branch is studied through fossils of species like \u003cem\u003eAustralopithecus\u003c/em\u003e, \u003cem\u003eHomo erectus\u003c/em\u003e, and the Neanderthals, which document how upright walking, tool use, and large brains accumulated over time rather than all at once.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe order of those changes is one of the field's big surprises. Bipedalism — walking on two legs — came early; ancestors like \u0026quot;Lucy\u0026quot; (\u003cem\u003eAustralopithecus afarensis\u003c/em\u003e) strode upright more than three million years ago while still carrying ape-sized brains. Stone tools, controlled use of fire, and dramatic brain expansion arrived later, marking the genus \u003cem\u003eHomo\u003c/em\u003e. Our own species, \u003cem\u003eHomo sapiens\u003c/em\u003e, emerged in Africa roughly 300,000 years ago and eventually spread across every continent, at times overlapping and even interbreeding with relatives like Neanderthals. The Smithsonian's Human Origins program traces this branching family tree and is careful to stress that human evolution is a bush, not a ladder — many human species once existed, and we are the lone survivors.\u003c/p\u003e",
+  "source": {
+    "name": "Smithsonian National Museum of Natural History — Human Origins",
+    "url": "https://humanorigins.si.edu/education/introduction-human-evolution",
+    "license": "Public domain (Smithsonian Institution)"
+  },
+  "topic_ids": [
+    "evolution"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_043084",
+      "slug": "common-descent",
+      "type": "concept",
+      "title": "The Tree of Life",
+      "hook": "Humans, mushrooms, and oak trees share an ancestor if you go back far enough — all life on Earth branches from a single common root.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f9a54a",
+      "slug": "evidence-for-evolution",
+      "type": "concept",
+      "title": "The Evidence for Evolution",
+      "hook": "Fossils, DNA, shared body plans, and change we can watch happen — evolution isn't a hunch, it's a conclusion forced by many independent lines of evidence.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_41a43a#0",
+      "format": "quiz",
+      "prompt": "What is the relationship between humans and chimpanzees?",
+      "choices": [
+        {
+          "text": "We share a common ancestor that lived millions of years ago",
+          "correct": true
+        },
+        {
+          "text": "Humans evolved directly from modern chimpanzees",
+          "correct": false
+        },
+        {
+          "text": "There is no evolutionary connection between them",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHumans did \u003cstrong\u003enot\u003c/strong\u003e descend from living chimps. The two lineages split from a\nshared ancestor roughly 6–8 million years ago and have evolved separately since.\u003c/p\u003e"
+    },
+    {
+      "id": "card_41a43a#1",
+      "format": "quiz",
+      "prompt": "In human evolution, which came first?",
+      "choices": [
+        {
+          "text": "Walking upright, before brains enlarged",
+          "correct": true
+        },
+        {
+          "text": "Big brains, before upright walking",
+          "correct": false
+        },
+        {
+          "text": "Both appeared at exactly the same moment",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEarly human ancestors like \u003cem\u003eAustralopithecus\u003c/em\u003e walked upright while still having\nape-sized brains. Large brains evolved much later in the genus \u003cem\u003eHomo\u003c/em\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_41a43a#2",
+      "format": "flip",
+      "prompt": "Where and roughly when did Homo sapiens first appear?",
+      "back_html": "\u003cp\u003eIn \u003cstrong\u003eAfrica, about 300,000 years ago\u003c/strong\u003e. Our species later spread out of Africa\nto populate the rest of the world.\u003c/p\u003e"
+    }
+  ]
+}

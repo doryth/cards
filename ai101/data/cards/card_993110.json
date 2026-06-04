@@ -1,0 +1,106 @@
+{
+  "id": "card_993110",
+  "slug": "ai-for-science-needs-reasoning",
+  "type": "blog",
+  "title": "AI for Science Needs Reasoning, Not Just Data",
+  "hook": "AlphaFold-style wins need a data mountain most fields will never have. The argument: the next leap comes from AI that imitates a researcher's reasoning, not one that memorizes measurements.",
+  "key_points": [
+    "AlphaFold worked because the Protein Data Bank existed — 53 years of collaboration and roughly $21 billion of lab work, per the authors.",
+    "Few fields have that kind of dataset, so data-hungry models only pay off in a handful of areas like weather and genomics.",
+    "The authors' bet: LLM-based agents that model how researchers actually reason generalize to any field.",
+    "Their example: Google's AI Co-Scientist matched a decade-long antibiotic-resistance finding in hours.",
+    "Side benefits they cite — automatic documentation, preserved institutional knowledge, cheaper experiments, so riskier questions get asked."
+  ],
+  "content_html": "\u003cp\u003eTwo big AI-for-science stories get conflated, argue Eric Schmidt and Suhas Mahesh in MIT Technology Review. One is AlphaFold: point a deep-learning model at an enormous, painstakingly built dataset and get a breakthrough. The other is an AI that behaves like a scientist — reading, hypothesizing, designing experiments, and revising. Their claim is that only the second one scales to science as a whole.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch with the AlphaFold recipe is the data. Protein structure prediction had the Protein Data Bank behind it, which the authors describe as 53 years of international collaboration and roughly $21 billion in experimental work. Very few fields have anything like that, so they expect this style of win in only a handful of areas — weather forecasting and genomics among them. Research agents, by contrast, need no field-specific data mountain: they imitate the process, so in principle they transfer anywhere. As evidence, the authors point to Google's AI Co-Scientist arriving in hours at antibiotic-resistance conclusions that had taken Imperial College London researchers a decade of lab work to reach. They also argue the side effects matter — agents document their own steps, so results are reproducible and institutional knowledge survives staff turnover, and cheap experiments let scientists gamble on riskier questions. It's an opinion piece with a stake in the outcome (Schmidt funds science-AI work), and one matched result isn't a track record — but the underlying point about data scarcity is a useful lens for reading any \u0026quot;AI solved science\u0026quot; headline.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Eric Schmidt",
+      "Suhas Mahesh"
+    ],
+    "url": "https://technologyreview.com/2026/08/10/1141384/ai-agents-for-science",
+    "published_at": "2026-08-10",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-agents",
+    "ai-news"
+  ],
+  "tags": [
+    "agent",
+    "reasoning",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-10",
+  "related": [
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_63018c",
+      "slug": "claude-science-launch",
+      "type": "news",
+      "title": "Anthropic Launches Claude Science, an AI Lab Assistant for Researchers",
+      "hook": "Anthropic's new Claude Science autonomously runs experiments for researchers — the same 'give it a goal, let it work' approach behind Claude Code, now aimed at biology and chemistry.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_cf6769",
+      "slug": "world-models-promise-and-limits",
+      "type": "news",
+      "title": "Can AI Learn to Simulate the Real World?",
+      "hook": "The next AI frontier isn't just predicting the next word — it's building an internal 'world model' that predicts what happens next in reality. Experts say it's promising, and still very unproven.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_993110#0",
+      "format": "quiz",
+      "prompt": "Why do the authors say the AlphaFold recipe won't work for most sciences?",
+      "choices": [
+        {
+          "text": "Most fields have no giant, decades-in-the-making dataset to train on",
+          "correct": true
+        },
+        {
+          "text": "Most fields don't have powerful enough computers",
+          "correct": false
+        },
+        {
+          "text": "AlphaFold's method is a trade secret",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAlphaFold leaned on the Protein Data Bank — the authors put it at 53 years of\ncollaboration and about $21 billion of experimental work. Few fields have an equivalent.\u003c/p\u003e"
+    },
+    {
+      "id": "card_993110#1",
+      "format": "flip",
+      "prompt": "What kind of AI do the authors think will generalize across sciences, and why?",
+      "back_html": "\u003cp\u003eLLM-based \u003cstrong\u003eagents\u003c/strong\u003e that model the human process of research — reasoning,\nproposing, and testing — rather than models that need a huge dataset of\nmeasurements specific to one field.\u003c/p\u003e"
+    },
+    {
+      "id": "card_993110#2",
+      "format": "flip",
+      "prompt": "What example do the authors give of an agent doing real research work?",
+      "back_html": "\u003cp\u003eGoogle's AI Co-Scientist reached, in hours, conclusions on a decade-long\nantibiotic-resistance problem that matched peer-reviewed lab findings.\u003c/p\u003e"
+    }
+  ]
+}

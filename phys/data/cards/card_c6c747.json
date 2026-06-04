@@ -1,0 +1,99 @@
+{
+  "id": "card_c6c747",
+  "slug": "negative-time-is-measurable",
+  "type": "news",
+  "title": "\"Negative Time\" Turns Out to Be Something You Can Measure",
+  "hook": "Photons can leave a cloud of atoms so early that the time they spent inside comes out negative — and the atoms agree that's what happened.",
+  "key_points": [
+    "A light pulse crossing a cloud of atoms can emerge with its peak shifted earlier, implying a negative dwell time inside the medium.",
+    "The obvious objection: this could be an artefact of pulse reshaping, where the medium clips the pulse's tail and the peak only appears to arrive early.",
+    "To test it, researchers interrogated the atoms themselves with extremely weak measurements that barely disturb them.",
+    "The atoms reported the same negative dwell time — so the effect is not just a feature of how the light pulse looks.",
+    "Nothing outruns light and no signal is sent faster than c; the result stays inside standard quantum mechanics."
+  ],
+  "content_html": "\u003cp\u003eSend a light pulse through a cloud of atoms and, under the right conditions, the pulse comes out with its peak \u003cem\u003eearlier\u003c/em\u003e than if the atoms hadn't been there — as though the photons spent a negative amount of time inside. The number has been known for decades. What has been contested is whether it means anything.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe deflating explanation is pulse reshaping. A pulse is spread out in time, and if a medium preferentially eats its trailing edge, the peak of whatever survives shifts earlier. On that reading, \u0026quot;negative dwell time\u0026quot; is an accounting illusion about the shape of a wave packet, not a statement about where the light was. So researchers went and asked the atoms. Using measurements weak enough to barely perturb them, they read out how long the atoms had actually been excited — and got the same negative value. That makes the quantity a property of the light-matter interaction rather than a quirk of the pulse envelope. Crucially, nothing here beats the speed of light or sends a signal into the past: the result is fully consistent with standard quantum mechanics. It just means one of quantum theory's most counterintuitive bookkeeping entries shows up on the instruments.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260803080904.htm",
+    "published_at": "2026-08-04"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "light-optics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-04",
+  "related": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_537599",
+      "slug": "optical-time-travel-experiment",
+      "type": "paper",
+      "title": "An optical experiment to test whether the universe forbids time travel",
+      "hook": "Einstein's equations allow loops back into the past; Hawking bet quantum mechanics always blocks them. Two physicists propose settling the argument with a laser.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c6c747#0",
+      "format": "flip",
+      "prompt": "What is the standard skeptical explanation for a photon's apparent negative dwell time?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003ePulse reshaping\u003c/strong\u003e — the medium absorbs the pulse's trailing edge, so the\nsurviving peak looks like it arrived early even though nothing travelled faster\nthan light.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c6c747#1",
+      "format": "quiz",
+      "prompt": "How did researchers test whether the negative dwell time was more than an artefact of the light pulse?",
+      "choices": [
+        {
+          "text": "They made very weak measurements on the atoms and found the atoms reported the same negative dwell time",
+          "correct": true
+        },
+        {
+          "text": "They sent a signal faster than light between two detectors",
+          "correct": false
+        },
+        {
+          "text": "They repeated the experiment with the atoms at absolute zero",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProbing the atoms with measurements gentle enough not to disturb them showed the\nmedium itself registered the same negative dwell time — so the effect isn't\nmerely how the outgoing pulse happens to look.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c6c747#2",
+      "format": "flip",
+      "prompt": "Does a negative dwell time mean information travelled faster than light?",
+      "back_html": "\u003cp\u003eNo. The result sits comfortably inside standard physics — no signal outruns\nlight. What's new is that this strange quantity is physically measurable.\u003c/p\u003e"
+    }
+  ]
+}

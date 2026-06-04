@@ -1,0 +1,91 @@
+{
+  "id": "card_aef977",
+  "slug": "what-is-ai",
+  "type": "concept",
+  "title": "What AI Actually Is",
+  "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+  "key_points": [
+    "AI is software that learns from examples instead of following rules a person wrote by hand.",
+    "Most 'AI' today is machine learning: spot patterns in data, then predict or generate from them.",
+    "It has no understanding or intent — it's very good pattern-matching, not a mind.",
+    "'AI' is a broad label: the same word covers spam filters, photo tagging, and chatbots."
+  ],
+  "content_html": "\u003cp\u003e\u0026quot;Artificial intelligence\u0026quot; sounds like a robot that thinks, but the AI in your life is something more down-to-earth: software that learns from examples. Instead of a programmer writing out every rule (\u0026quot;if the email says FREE MONEY, mark it spam\u0026quot;), you show the system millions of examples and let it figure out the patterns itself. That same idea — learn from data, then make a guess about something new — powers spam filters, the face-tagging in your photos, and the chatbots everyone's talking about.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe technical name for most of this is \u003cstrong\u003emachine learning\u003c/strong\u003e: the machine learns the patterns rather than being told them. It's strikingly good at finding patterns we'd struggle to write down, which is why it can translate languages or recommend a song you'll like. But it's worth being clear about what it \u003cem\u003eisn't\u003c/em\u003e. The system has no understanding, no beliefs, and no goals of its own — it's matching patterns at enormous scale. Keeping that in mind explains both why AI is so useful and why it sometimes fails in surprising, very un-human ways.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "what-is-ai"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_73f770",
+      "slug": "ai-vs-sci-fi",
+      "type": "concept",
+      "title": "AI vs. the Sci-Fi Version",
+      "hook": "The AI in the movies wants things and plots against us. The AI on your phone autocompletes your texts. Mixing them up makes today's tools seem scarier and smarter than they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_aef977#0",
+      "format": "quiz",
+      "prompt": "What best describes most of the AI in use today?",
+      "choices": [
+        {
+          "text": "Software that learns patterns from examples",
+          "correct": true
+        },
+        {
+          "text": "A self-aware machine that thinks like a person",
+          "correct": false
+        },
+        {
+          "text": "A fixed set of rules a programmer wrote out by hand",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMost modern AI is machine learning: it finds patterns in lots of example\ndata rather than following hand-written rules — and it isn't self-aware.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aef977#1",
+      "format": "flip",
+      "prompt": "Does today's AI actually understand what it's doing?",
+      "back_html": "\u003cp\u003eNo. It matches patterns at enormous scale — there's no understanding,\nbelief, or intent behind it. That's why it can fail in very un-human ways.\u003c/p\u003e"
+    }
+  ]
+}

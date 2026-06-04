@@ -1,0 +1,109 @@
+{
+  "id": "card_f66335",
+  "slug": "the-kidneys-and-waste",
+  "type": "concept",
+  "title": "The Kidneys and Waste",
+  "hook": "Your two fist-sized kidneys filter your entire blood supply dozens of times a day, skimming out waste and fine-tuning exactly how much water and salt your body keeps.",
+  "key_points": [
+    "The kidneys filter waste products and excess substances out of the blood.",
+    "What they remove leaves the body as urine; clean blood is returned to circulation.",
+    "They balance the body's water and salt levels, keeping the internal environment stable.",
+    "Each kidney holds about a million tiny filtering units called nephrons."
+  ],
+  "content_html": "\u003cp\u003eTucked against your back, just below the ribs, sit two kidneys, each about the size of a fist. Their job sounds humble — they make urine — but what that really means is they continuously clean your blood, deciding moment to moment what stays in your body and what gets flushed out.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs NIH's NIDDK explains, blood flows into each kidney and passes through roughly a million microscopic filters called nephrons. These strain out waste products like urea, along with excess water and salt, sending them onward to the bladder as urine while returning the cleaned blood to circulation. Just as important, the kidneys are master regulators of balance: if you drink a lot, they make more dilute urine; if you are dehydrated, they conserve water and concentrate it. By controlling water and salt levels — and keeping blood from becoming too acidic — the kidneys are central to homeostasis, the body's steady internal state.\u003c/p\u003e",
+  "source": {
+    "name": "NIH NIDDK",
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+    "license": "Public domain (U.S. National Institute of Diabetes and Digestive and Kidney Diseases)"
+  },
+  "topic_ids": [
+    "human-body"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_630b44",
+      "slug": "circulatory-system",
+      "type": "concept",
+      "title": "The Circulatory System",
+      "hook": "Your heart pumps blood through roughly 60,000 miles of vessels, delivering oxygen and fuel to every cell and hauling waste away — about once a minute.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82a753",
+      "slug": "homeostasis",
+      "type": "concept",
+      "title": "Homeostasis: Staying Balanced",
+      "hook": "Your body works hard to keep its inside world steady — temperature, water, blood sugar — no matter what's happening outside. That balancing act is homeostasis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b9b75e",
+      "slug": "what-blood-does",
+      "type": "concept",
+      "title": "What Blood Does",
+      "hook": "Blood looks like a single red liquid, but it's really a fleet of specialized parts — each cell type and the fluid itself carrying out a different life-sustaining job.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f66335#0",
+      "format": "flip",
+      "prompt": "What is the kidneys' main job?",
+      "back_html": "\u003cp\u003eTo \u003cstrong\u003efilter the blood\u003c/strong\u003e — removing waste products and extra water, which\nleave the body as urine, while clean blood is returned to circulation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f66335#1",
+      "format": "quiz",
+      "prompt": "Besides removing waste, what else do the kidneys regulate?",
+      "choices": [
+        {
+          "text": "The body's balance of water and salt",
+          "correct": true
+        },
+        {
+          "text": "The amount of oxygen in the lungs",
+          "correct": false
+        },
+        {
+          "text": "The speed of digestion in the stomach",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eKidneys fine-tune how much water and salt the body keeps versus excretes,\na key part of maintaining a stable internal environment.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f66335#2",
+      "format": "quiz",
+      "prompt": "What are the tiny filtering units inside each kidney called?",
+      "choices": [
+        {
+          "text": "Nephrons",
+          "correct": true
+        },
+        {
+          "text": "Neurons",
+          "correct": false
+        },
+        {
+          "text": "Alveoli",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEach kidney contains about a million nephrons, the microscopic structures\nthat actually do the filtering of the blood.\u003c/p\u003e"
+    }
+  ]
+}

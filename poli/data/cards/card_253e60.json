@@ -1,0 +1,140 @@
+{
+  "id": "card_253e60",
+  "slug": "buying-data-the-law-restricts",
+  "type": "news",
+  "title": "A Strict Privacy Law Is Only as Strong as Its Enforcer",
+  "hook": "A state can write the toughest data privacy law in the country and still see the data sold. Rights on paper need someone whose job is to notice when they're ignored.",
+  "key_points": [
+    "Data brokers collect and resell personal information — location, contacts, records — gathered from apps, public files, and other companies.",
+    "Privacy statutes typically restrict what may be collected or sold, but leave enforcement to a regulator or attorney general with limited capacity.",
+    "That makes advocacy groups and journalists de facto enforcers: they find the violation and demand an investigation.",
+    "NPR reports privacy advocates allege brokers are breaking Maryland's law by selling data to police and federal immigration agencies.",
+    "Buying data commercially can also let agencies obtain information they would otherwise need a warrant to compel."
+  ],
+  "content_html": "\u003cp\u003eData brokers are the quiet middlemen of the information economy: firms that assemble personal details — where a phone has been, who a person is connected to, what public records say about them — and sell the result to whoever wants it. That includes marketers, and it can also include police and federal agencies. Privacy laws are the main check, but a statute is a piece of text; the check is whoever enforces it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's Jude Joffe-Block reports that Maryland has one of the strictest data privacy laws in the United States, and that privacy advocates nonetheless allege data brokers are violating it by selling personal data to police and to federal immigration agencies. Note the shape of that claim: the advocates aren't arguing the law is too weak, they're arguing it isn't being enforced — and they're asking the state to investigate. In practice that makes advocacy groups and reporters part of the enforcement chain, because a regulator with a small staff mostly acts on what someone else brings it.\u003c/p\u003e\n\u003cp\u003eThere's a second idea worth carrying away. Constitutional limits on government surveillance generally govern what an agency can \u003cem\u003ecompel\u003c/em\u003e — the moment where a judge signs a warrant. When the same information is available for purchase on an open market, an agency can sometimes obtain it without ever reaching that moment. That's why data-broker rules end up doing surveillance-law work indirectly, and why who enforces them matters as much as what they say. (This card describes the U.S. context; data brokers operate globally.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Jude Joffe-Block"
+    ],
+    "url": "https://npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+    "published_at": "2026-08-20",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "technology-and-politics",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "news",
+    "foundational",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_cbef24",
+      "slug": "surveillance-and-privacy",
+      "type": "concept",
+      "title": "Surveillance \u0026 Privacy",
+      "hook": "Technology lets states and companies watch people at a scale once unimaginable — putting the old right to be left alone on a collision course with security and profit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_140ab1",
+      "slug": "geofence-warrants-and-the-fourth-amendment",
+      "type": "news",
+      "title": "Geofence Warrants \u0026 the Fourth Amendment",
+      "hook": "Police can ask a tech company which phones were near a crime scene at a given hour — sweeping up everyone's location, not just a suspect's. In 2026 the Court said that's a 'search.'",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_89ecd5",
+      "slug": "regulatory-capture",
+      "type": "news",
+      "title": "Regulatory Capture",
+      "hook": "Who protects a city's drinking water when the industry that put it at risk is also the one the regulator was built to serve? That's the problem political scientists call regulatory capture.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_fd45b2",
+      "slug": "census-data-privacy",
+      "type": "concept",
+      "title": "Why Census Data Has 'Noise' Added",
+      "hook": "To stop anyone reverse-engineering your identity from public statistics, the U.S. census deliberately blurs its own numbers — a privacy-for-accuracy trade with real political stakes.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-12"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_cbef24",
+      "slug": "surveillance-and-privacy",
+      "type": "concept",
+      "title": "Surveillance \u0026 Privacy",
+      "hook": "Technology lets states and companies watch people at a scale once unimaginable — putting the old right to be left alone on a collision course with security and profit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_253e60#0",
+      "format": "flip",
+      "prompt": "What is a data broker?",
+      "back_html": "\u003cp\u003eA company that collects personal information — location, contacts,\npublic records — from apps, files, and other firms, then resells it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_253e60#1",
+      "format": "quiz",
+      "prompt": "Why can buying data commercially weaken a warrant requirement?",
+      "choices": [
+        {
+          "text": "An agency can purchase information it would otherwise have to get a court order to compel",
+          "correct": true
+        },
+        {
+          "text": "Buying data automatically makes a warrant legally invalid",
+          "correct": false
+        },
+        {
+          "text": "Warrant rules apply only to state police, never to federal agencies",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWarrant rules govern compelling data from someone who holds it. If the\nsame data is for sale, the agency can route around the step that a\njudge was meant to supervise.\u003c/p\u003e"
+    },
+    {
+      "id": "card_253e60#2",
+      "format": "quiz",
+      "prompt": "What does the Maryland dispute illustrate about strong privacy statutes?",
+      "choices": [
+        {
+          "text": "A tough law still depends on an enforcer with the capacity and will to act on violations",
+          "correct": true
+        },
+        {
+          "text": "Strict state laws are always preempted by federal privacy rules",
+          "correct": false
+        },
+        {
+          "text": "Data brokers stop operating in states that pass privacy laws",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNPR reports Maryland has one of the country's strictest privacy laws,\nand advocates nonetheless allege brokers are selling data in breach of\nit — which is a gap in enforcement, not in the text.\u003c/p\u003e"
+    }
+  ]
+}

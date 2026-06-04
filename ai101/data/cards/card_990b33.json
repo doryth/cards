@@ -1,0 +1,118 @@
+{
+  "id": "card_990b33",
+  "slug": "suno-watermark-ai-music",
+  "type": "news",
+  "title": "The Biggest AI Music Maker Wants to Label Its Own Songs",
+  "hook": "Suno is adding watermarking and download rules to stem the flood of AI tracks clogging streaming services — a rare case of a generator volunteering to mark its output.",
+  "key_points": [
+    "Suno announced watermarking technology plus a new download policy, per The Verge.",
+    "The stated goal: limit spammy AI tracks and make AI-generated music more transparent.",
+    "CEO Mikey Shulman laid out the principles in a blog post as the company seeks legitimacy.",
+    "A watermark is a hidden signal in the file identifying it as machine-generated.",
+    "Watermarks only work if they survive re-encoding — and only for tools that choose to add them."
+  ],
+  "content_html": "\u003cp\u003eStreaming services are drowning in machine-made tracks, and one of the companies most responsible is proposing to help. Suno announced watermarking technology and a revised download policy aimed at limiting spammy AI songs and making AI-generated music easier to identify, with CEO Mikey Shulman setting out the reasoning in a long blog post.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA watermark here means a hidden signal baked into the audio file that marks it as machine-generated — not something you'd hear, but something a platform's software can check. The Verge reads the move as part of Suno's campaign for legitimacy with an industry that has mostly regarded it as a threat, and the incentives genuinely line up: a catalog buried under low-effort spam is worth less to everyone, Suno included. The limits are worth stating too. Watermarks are voluntary, so they cover only the generators that opt in; they can degrade or be stripped through re-encoding; and they identify the tool, not the intent. Useful infrastructure, then, rather than a solution — the honest platforms get better labeling, and anyone determined to pass AI work off as human still can.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O’Brien"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "published_at": "2026-08-06",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-06",
+  "related": [
+    {
+      "id": "card_68958b",
+      "slug": "meta-content-seal-watermark",
+      "type": "news",
+      "title": "Meta Built Its Own AI Watermark Instead of Using the Shared One",
+      "hook": "Meta's new 'Content Seal' stamps an invisible mark on its AI images so they can be traced. The catch: Google already had a tool for that — and one shared standard works better than many.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18c21b",
+      "slug": "suno-scraped-streaming-platforms",
+      "type": "news",
+      "title": "A Hack Exposed What an AI Music Generator Trained On",
+      "hook": "Suno never said what music trained its AI. A hacking incident did the talking instead, reportedly exposing millions of songs and lyrics scraped from YouTube, Genius, and Deezer.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-15"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_990b33#0",
+      "format": "flip",
+      "prompt": "What is a watermark on AI-generated media?",
+      "back_html": "\u003cp\u003eA hidden signal embedded in the file that marks it as machine-generated, so\nplatforms and tools can identify it later without relying on how it sounds or\nlooks.\u003c/p\u003e"
+    },
+    {
+      "id": "card_990b33#1",
+      "format": "quiz",
+      "prompt": "What's the main limitation of watermarking as an anti-slop strategy?",
+      "choices": [
+        {
+          "text": "It only covers tools that voluntarily add marks, and marks can be stripped or degraded",
+          "correct": true
+        },
+        {
+          "text": "It makes the audio quality noticeably worse",
+          "correct": false
+        },
+        {
+          "text": "It only works on video, not audio",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA watermark is opt-in by the generator and vulnerable to re-encoding, so it\nhelps with honest platforms and does little against someone determined to hide.\u003c/p\u003e"
+    },
+    {
+      "id": "card_990b33#2",
+      "format": "quiz",
+      "prompt": "Why would Suno want to label its own output?",
+      "choices": [
+        {
+          "text": "It's seeking legitimacy with the music industry while curbing spam that devalues its product",
+          "correct": true
+        },
+        {
+          "text": "Regulators had already banned unlabeled AI music worldwide",
+          "correct": false
+        },
+        {
+          "text": "Watermarks let it charge more per song",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Verge frames the announcement as part of Suno's push for legitimacy —\ntransparency and spam control serve its own long-term interests.\u003c/p\u003e"
+    }
+  ]
+}

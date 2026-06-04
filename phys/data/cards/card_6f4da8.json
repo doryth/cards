@@ -1,0 +1,113 @@
+{
+  "id": "card_6f4da8",
+  "slug": "status-of-the-strong-cp-problem",
+  "type": "paper",
+  "title": "Where the Strong CP Problem Stands",
+  "hook": "The strong force is allowed to violate CP symmetry and simply doesn't. A pedagogical review takes stock of the leading fix — the axion — and of the alternatives now getting a second look.",
+  "key_points": [
+    "Quantum chromodynamics permits a CP-violating term whose size is a free parameter, the theta angle.",
+    "Experiments see no sign of it, so theta must be extraordinarily close to zero — an unexplained fine-tuning.",
+    "The best-known solution is the Peccei-Quinn mechanism, which makes theta dynamically relax to zero.",
+    "Peccei-Quinn predicts a new pseudoscalar boson, the QCD axion — also a dark matter candidate.",
+    "The review notes renewed attention to alternative solutions and to the framing of the problem itself."
+  ],
+  "content_html": "\u003cp\u003eThe Standard Model has a loose screw. Quantum chromodynamics permits a term that violates CP\nsymmetry — the combined operation of swapping particles for antiparticles and mirror-reflecting\nspace — with its strength set by a free parameter, the theta angle. If theta were of order one,\nthe neutron would carry a measurable electric dipole moment. Experiments have looked hard and see\nnothing, forcing theta to be absurdly small.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWen-Yuan Ai's review gives a pedagogical account of why that is a problem and where the field has\ngot to. The standard answer is the Peccei-Quinn mechanism, which turns theta from a fixed number\ninto a dynamical field that settles at zero on its own; the quantum of that field is the QCD\naxion, which conveniently doubles as a dark matter candidate and is now the target of a fleet of\nexperiments. What makes the review timely is its coverage of the rest of the landscape: the\nauthor notes that alternative solutions, and new perspectives on the foundations of the problem,\nhave drawn renewed attention in recent years. The paper summarises both the theoretical and the\nphenomenological status.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Wen-Yuan Ai"
+    ],
+    "url": "https://arxiv.org/abs/2609.00620",
+    "published_at": "2026-09-01",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-09-01",
+  "related": [
+    {
+      "id": "card_883b8d",
+      "slug": "lattice-qcd-confirms-strong-cp-problem",
+      "type": "paper",
+      "title": "Lattice QCD Confirms the Strong CP Problem Is Real",
+      "hook": "The strong force is allowed to violate CP symmetry, but the neutron refuses to show it. A lattice calculation pins how unnaturally small that knob must be: one part in 100 billion.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-08-23"
+    },
+    {
+      "id": "card_28f014",
+      "slug": "res-nova-archaeological-lead-axions",
+      "type": "paper",
+      "title": "Hunting Solar Axions With Ancient Lead",
+      "hook": "A detector built from archaeological lead was designed to catch supernova neutrinos. It turns out the same crystals are a competitive net for axions streaming out of the Sun.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_13b1bf",
+      "slug": "the-force-on-a-quark",
+      "type": "paper",
+      "title": "Measuring the force that traps a quark inside the proton",
+      "hook": "Nobody has ever seen a free quark. A sharpened reconstruction of the actual force tugging on one inside the proton comes out looking like a string pulled at constant tension.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-24"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6f4da8#0",
+      "format": "flip",
+      "prompt": "What exactly is the strong CP problem?",
+      "back_html": "\u003cp\u003eQCD allows a CP-violating term set by a free parameter, theta. Nature appears to pick a\nvalue essentially indistinguishable from zero, and nothing in the Standard Model explains why.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6f4da8#1",
+      "format": "quiz",
+      "prompt": "What does the Peccei-Quinn mechanism predict?",
+      "choices": [
+        {
+          "text": "A new pseudoscalar boson, the QCD axion",
+          "correct": true
+        },
+        {
+          "text": "A fourth generation of quarks",
+          "correct": false
+        },
+        {
+          "text": "That the proton must decay within 10^30 years",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePeccei-Quinn promotes theta to a dynamical field that relaxes to zero; the quantum of that\nfield is the QCD axion, which is also a leading dark matter candidate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6f4da8#2",
+      "format": "flip",
+      "prompt": "Why is the review's mention of 'alternative solutions' notable?",
+      "back_html": "\u003cp\u003ePeccei-Quinn has dominated for decades, but the author reports renewed attention to other\nresolutions and to fresh perspectives on the problem's foundations.\u003c/p\u003e"
+    }
+  ]
+}

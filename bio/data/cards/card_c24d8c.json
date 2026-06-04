@@ -1,0 +1,116 @@
+{
+  "id": "card_c24d8c",
+  "slug": "her2-erbb2-targeted-therapy",
+  "type": "concept",
+  "title": "The Gene Test That Decides Which Breast Cancer Drug You Get",
+  "hook": "One in five breast cancers is driven by an overactive gene called ERBB2 (HER2) — and a genetic test of the tumor, not the patient, now decides whether a targeted antibody drug will work.",
+  "key_points": [
+    "The ERBB2 gene (also called HER2) is overexpressed in 15–20% of breast cancers, making tumors grow faster and historically carry a worse prognosis.",
+    "Trastuzumab (Herceptin) was the first monoclonal antibody built to target the HER2 receptor directly, and it improved outcomes when added to treatment.",
+    "Pertuzumab (Perjeta), a related antibody, is often combined with trastuzumab to further boost progression-free and overall survival.",
+    "Both drugs only work in HER2-positive tumors — every newly diagnosed breast cancer patient must have a validated HER2 test before treatment.",
+    "It's a landmark example of precision oncology: the drug prescribed depends on a molecular test of the tumor itself, not just the cancer's location or stage."
+  ],
+  "content_html": "\u003cp\u003eNot all breast cancer is the same at the molecular level, and treatment increasingly reflects that. In 15–20% of cases, tumor cells overexpress a receptor made by the ERBB2 gene, better known as HER2 — and that single genetic fact changes what drug gets prescribed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTrastuzumab (Herceptin) was the first monoclonal antibody engineered to target the HER2 receptor directly, and adding it to treatment measurably improved outcomes for HER2-positive breast and gastric cancers, historically among the faster-growing, worse-prognosis subtypes. A related antibody, pertuzumab (Perjeta), is now frequently combined with trastuzumab and chemotherapy — in advanced, neoadjuvant, and adjuvant settings alike — to push progression-free and overall survival even higher. Neither drug works without the right target: FDA labeling restricts both to patients whose tumors test positive for HER2 protein overexpression or ERBB2 gene amplification on a validated assay, which is why oncology guidelines require a HER2 test on every newly diagnosed breast cancer, and again on the tumor itself if the cancer later spreads. It's one of the clearest examples in medicine of a treatment decision driven entirely by a molecular test of the tumor rather than guesswork.\u003c/p\u003e",
+  "source": {
+    "name": "NCBI Medical Genetics Summaries",
+    "authors": [
+      "Laura Dean",
+      "Megan Kane"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28520362",
+    "published_at": "2026-07-06",
+    "license": "NCBI Bookshelf (open access)"
+  },
+  "topic_ids": [
+    "dna-genetics",
+    "biotechnology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_817bf0",
+      "slug": "warfarin-pharmacogenomics",
+      "type": "concept",
+      "title": "Why One Drug Dose Doesn't Fit All",
+      "hook": "The blood thinner warfarin can need up to a 20-fold different dose from person to person — and about half of that swing is written into two of your genes.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "card_82d3b1",
+      "slug": "genes-and-traits",
+      "type": "concept",
+      "title": "How Genes Become Traits",
+      "hook": "You inherit two copies of every gene — one from each parent — and the way those copies interact helps decide everything from eye color to blood type.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_20ed50",
+      "slug": "cancer-when-cells-divide-wrong",
+      "type": "concept",
+      "title": "Cancer: When Cells Divide Wrong",
+      "hook": "Cancer is cell division gone unchecked — a cell ignores the body's stop signals, multiplies relentlessly, and crowds out healthy tissue.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c24d8c#0",
+      "format": "flip",
+      "prompt": "What does it mean for a breast cancer to be 'HER2-positive'?",
+      "back_html": "\u003cp\u003eIts cells overexpress the receptor made by the \u003cstrong\u003eERBB2 (HER2)\u003c/strong\u003e gene, which\ndrives faster tumor growth. It affects 15–20% of breast cancers and determines\nwhether HER2-targeted antibody drugs will work.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c24d8c#1",
+      "format": "quiz",
+      "prompt": "How do trastuzumab and pertuzumab work against HER2-positive cancer?",
+      "choices": [
+        {
+          "text": "They're monoclonal antibodies that directly target the HER2 receptor on tumor cells",
+          "correct": true
+        },
+        {
+          "text": "They edit the ERBB2 gene to delete it from tumor cells",
+          "correct": false
+        },
+        {
+          "text": "They work by lowering the patient's overall immune response",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth are monoclonal antibodies engineered to bind the HER2 (ERBB2) receptor;\npertuzumab is often combined with trastuzumab for an even stronger effect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c24d8c#2",
+      "format": "quiz",
+      "prompt": "Why must every newly diagnosed breast cancer patient get a HER2 test before choosing treatment?",
+      "choices": [
+        {
+          "text": "HER2-targeted drugs only benefit patients whose tumors are confirmed HER2-positive",
+          "correct": true
+        },
+        {
+          "text": "The test is required by law but has no effect on treatment choice",
+          "correct": false
+        },
+        {
+          "text": "It measures how far the cancer has spread, not the drug's target",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTrastuzumab and pertuzumab are FDA-approved only for patients whose tumors test\npositive for HER2 protein overexpression or ERBB2 gene amplification, so the\ntest directly determines eligibility for these therapies.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "card_935fd0",
+  "slug": "sugar-rationing-70-years-later",
+  "type": "news",
+  "title": "Sugar Before Age 2, Health at Age 70",
+  "hook": "Britain's postwar sugar rationing ended abruptly in 1953, creating a natural experiment. Babies who got less sugar early had lower cancer rates decades later.",
+  "key_points": [
+    "Postwar UK sugar rationing ended abruptly, splitting babies into low- and high-sugar exposure groups.",
+    "That abrupt end makes it a natural experiment rather than a diet survey.",
+    "More rationing during the first 1,000 days was linked to lower rates of several cancers.",
+    "Those people also showed signs of slower biological aging.",
+    "They were still eating less sugar and had healthier diets around age 50.",
+    "Early taste exposure may set lifelong preferences, which muddies cause and effect."
+  ],
+  "content_html": "\u003cp\u003eYou can't randomize babies to different diets and follow them for seventy years. Britain did it by accident: wartime sugar rationing continued into the 1950s and then ended abruptly, so infants born on either side of that date got sharply different sugar exposure in their first 1,000 days for reasons that had nothing to do with their parents' choices. That's about as close to a randomized trial as nutrition history gets.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe results: people who spent more of that early window under rationing had lower rates of several cancers decades later, and showed markers of slower biological aging. The effect sizes come from a large enough population to be more than noise, and the abrupt policy change protects against the usual confound where health-conscious families simply feed their children differently.\u003c/p\u003e\n\u003cp\u003eOne finding complicates the clean story, and the researchers report it: the low-exposure group was still eating less sugar and maintaining healthier diets around age 50. So the benefit may not be something locked in during infancy at all — it may be fifty years of a taste preference set early and never reset. Either reading points the same direction for parents, which is the useful part: what a very young child gets used to eating is not a temporary phase.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260824065522.htm",
+    "published_at": "2026-08-26",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "nutrition",
+    "healthy-aging"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_0d01b9",
+      "slug": "cutting-down-on-added-sugar",
+      "type": "concept",
+      "title": "Cutting Down on Added Sugar",
+      "hook": "It's not the sugar in an apple that's the problem — it's the added sugar hiding in drinks, sauces, and 'healthy' snacks, adding empty calories you never asked for.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_a5a7f8",
+      "slug": "childhood-drinks-and-blood-pressure",
+      "type": "news",
+      "title": "Childhood Sugary Drinks and Blood Pressure Decades Later",
+      "hook": "A 25-year study followed kids into adulthood and found a daily soda, sports drink, or juice habit tracked with higher blood pressure years later — and one simple swap moved the needle.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_ff8ca4",
+      "slug": "sugar-free-diets-can-backfire",
+      "type": "news",
+      "title": "Why Cutting Out All Sugar Can Backfire",
+      "hook": "Cutting added sugar is good advice — but a mouse study suggests going to the extreme and eliminating it entirely may do more harm than good, pointing to balance over zero.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-14"
+    },
+    {
+      "id": "card_41795e",
+      "slug": "mediterranean-low-methionine-longevity-diet",
+      "type": "news",
+      "title": "A Longevity Diet That Helped Mice Eat More and Lose Fat",
+      "hook": "A modified Mediterranean-style diet, low in protein but with just enough of one amino acid, methionine, helped mice live healthier, leaner lives — and human data hints at a similar link.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_935fd0#0",
+      "format": "flip",
+      "prompt": "Why is postwar sugar rationing such a useful research setup?",
+      "back_html": "\u003cp\u003eIt ended \u003cstrong\u003eabruptly\u003c/strong\u003e, so babies born just before and just after got very different sugar\nexposure for reasons unrelated to their families' habits — a natural experiment.\u003c/p\u003e"
+    },
+    {
+      "id": "card_935fd0#1",
+      "format": "quiz",
+      "prompt": "What complicates reading this as 'early sugar directly causes later disease'?",
+      "choices": [
+        {
+          "text": "The low-exposure group was still eating less sugar at age 50",
+          "correct": true
+        },
+        {
+          "text": "The study only followed people for five years",
+          "correct": false
+        },
+        {
+          "text": "Sugar rationing applied only to adults",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIf early exposure shaped \u003cstrong\u003elifelong taste and diet\u003c/strong\u003e, the later benefits may come from\nfifty years of eating less sugar, not from the first two years alone.\u003c/p\u003e"
+    },
+    {
+      "id": "card_935fd0#2",
+      "format": "flip",
+      "prompt": "What outcomes were linked to more rationing in the first 1,000 days?",
+      "back_html": "\u003cp\u003eLower rates of several \u003cstrong\u003ecancers\u003c/strong\u003e and signs of \u003cstrong\u003eslower biological aging\u003c/strong\u003e — measured\ndecades later, in the same people.\u003c/p\u003e"
+    }
+  ]
+}

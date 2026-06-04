@@ -1,0 +1,115 @@
+{
+  "id": "card_0c4530",
+  "slug": "planet-nine",
+  "type": "news",
+  "title": "The Hunt for Planet Nine Gets Stranger",
+  "hook": "A hidden giant planet far past Neptune would explain the odd orbits of distant icy worlds. New observations show those orbits behaving more normally than expected — deepening the mystery.",
+  "key_points": [
+    "Some distant Kuiper Belt objects seemed to share strangely aligned, clustered orbits.",
+    "The leading explanation: an unseen giant planet whose gravity herds them.",
+    "New data show more stable, less clustered motion than the theory predicts.",
+    "That weakens the case — or pushes any Planet Nine much farther out than thought.",
+    "It shows how astronomers infer unseen worlds purely from the orbits of visible ones."
+  ],
+  "content_html": "\u003cp\u003eOut past Neptune lies the Kuiper Belt, a vast ring of icy leftovers from the Solar System's birth. About a decade ago, astronomers noticed that some of the most distant of these bodies seemed to follow oddly aligned, clustered orbits — as if something massive were quietly shepherding them. The most tantalizing explanation was a hidden ninth planet, far too dim and distant to have been spotted directly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe beauty of the Planet Nine idea is that it's pure Newtonian detective work: you never see the suspect, you only read its fingerprints in how other objects move, the same logic that revealed Neptune itself in the 1840s. But the case has always hung on a small, hard-to-observe sample. New discoveries of distant objects show motion that is more stable and less neatly clustered than the theory predicts — which either weakens the argument for Planet Nine or implies it sits much farther out than originally proposed. Either way, the hunt continues, and the mystery has only deepened. It's a vivid example of how gravity lets astronomers chase worlds they cannot yet see.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260608040009.htm",
+    "published_at": "2026-06-08",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "gravity-orbits",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-11",
+  "date": "2026-06-08",
+  "related": [
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_0c4530#0",
+      "format": "flip",
+      "prompt": "What observation first motivated the Planet Nine hypothesis?",
+      "back_html": "\u003cp\u003eSome distant Kuiper Belt objects appeared to have \u003cstrong\u003estrangely aligned, clustered orbits\u003c/strong\u003e — a\npattern that an unseen giant planet's gravity could explain by herding them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0c4530#1",
+      "format": "quiz",
+      "prompt": "How do astronomers infer the possible existence of Planet Nine, which no one has seen?",
+      "choices": [
+        {
+          "text": "From the gravitational influence it would have on the orbits of visible distant objects",
+          "correct": true
+        },
+        {
+          "text": "By directly photographing it with ordinary telescopes",
+          "correct": false
+        },
+        {
+          "text": "From radio signals it emits",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe whole case rests on gravity: an unseen planet would tug on distant icy bodies, shaping\ntheir orbits. Astronomers read the visible orbits to argue for the invisible planet.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0c4530#2",
+      "format": "quiz",
+      "prompt": "How do the new observations affect the Planet Nine theory?",
+      "choices": [
+        {
+          "text": "They show more stable orbits than expected, challenging the theory or pushing the planet farther out",
+          "correct": true
+        },
+        {
+          "text": "They directly confirm Planet Nine's location",
+          "correct": false
+        },
+        {
+          "text": "They prove the Kuiper Belt does not exist",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe distant objects moved more stably and less clustered than predicted, weakening the case —\nor implying any Planet Nine is much farther away than first thought.\u003c/p\u003e"
+    }
+  ]
+}

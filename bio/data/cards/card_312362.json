@@ -1,0 +1,102 @@
+{
+  "id": "card_312362",
+  "slug": "lung-transplant-stage4-cancer-ethics",
+  "type": "news",
+  "title": "Stage 4 Lung Cancer Patients Weren't Supposed to Be Transplant Candidates. A New Study Challenges That.",
+  "hook": "Doctors have long ruled out transplants for cancer that's spread. A small study of stage 4 lung cancer patients given lung transplants matched non-cancer survival rates — reopening a hard question.",
+  "key_points": [
+    "Researchers at Northwestern Medicine gave double lung transplants to 17 patients with stage 4 lung cancer that hadn't spread beyond the lungs, comparing them to 81 similar patients on standard treatment and to non-cancer transplant recipients.",
+    "After one year, all 17 transplant recipients survived, compared to 88% of non-cancer transplant patients — while 74 of the 81 standard-treatment patients saw their disease progress.",
+    "By January 2026, the transplant group had 4 cancer recurrences and 2 non-cancer deaths; the study's authors say outcomes showed no difference between cancer and non-cancer transplant recipients.",
+    "The findings, published in JAMA on July 9, 2026, raise a hard ethical question: every donor organ given to a cancer patient is one not given to someone else on the waiting list.",
+    "An accompanying editorial calls for larger randomized trials to confirm the results before wider adoption."
+  ],
+  "content_html": "\u003cp\u003eFor decades, a cancer that had already spread meant a patient was ruled out as an organ transplant candidate — the assumption being poor outcomes and, just as importantly, the unfairness of using a scarce donor organ on a case unlikely to succeed. A new study out of Northwestern Medicine complicates that assumption.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers gave double lung transplants to 17 patients with stage 4 lung cancer that hadn't spread beyond the lungs, then compared their outcomes to 81 similar patients on standard chemotherapy, immunotherapy, or radiation, and to transplant recipients without cancer. One year out, every transplant recipient in the cancer group was alive — matching the 88% survival rate of non-cancer transplant patients — while 74 of the 81 standard-treatment patients saw their disease progress. By January 2026, the transplant group had seen 4 cancer recurrences and 2 non-cancer deaths; study author Ankit Bharat says the results show \u0026quot;no difference\u0026quot; in outcomes between cancer and non-cancer transplant recipients. Published in JAMA on July 9, 2026, the findings come with an unresolved ethical question attached: every organ given to a cancer patient, however good the odds, is an organ someone else on the waiting list won't get — which is why the accompanying editorial calls for larger, randomized trials before this becomes standard practice.\u003c/p\u003e",
+  "source": {
+    "name": "STAT",
+    "url": "https://statnews.com/2026/07/08/lung-transplant-advanced-cancer-study-results-ethics-jama",
+    "published_at": "2026-07-08",
+    "license": "© STAT"
+  },
+  "topic_ids": [
+    "human-body",
+    "immune-system"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-08",
+  "related": [
+    {
+      "id": "card_13b9d2",
+      "slug": "the-respiratory-system",
+      "type": "concept",
+      "title": "The Respiratory System",
+      "hook": "With every breath, your lungs trade carbon dioxide for fresh oxygen — the gas swap that keeps every cell in your body running.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_825c87",
+      "slug": "allergies-and-autoimmunity",
+      "type": "concept",
+      "title": "Allergies and Autoimmunity",
+      "hook": "A defense system this powerful can misfire — attacking harmless pollen as if it were a plague, or turning its weapons on the very body it's meant to protect.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_312362#0",
+      "format": "flip",
+      "prompt": "Why were stage 4 lung cancer patients traditionally excluded from lung transplants?",
+      "back_html": "\u003cp\u003eTransplant eligibility has generally required that cancer not be actively\nspreading, since donor organs are scarce and outcomes for advanced-cancer\npatients were assumed to be poor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_312362#1",
+      "format": "quiz",
+      "prompt": "What did the Northwestern Medicine study find about survival in transplanted stage 4 lung cancer patients?",
+      "choices": [
+        {
+          "text": "All 17 transplant recipients survived one year, comparable to non-cancer transplant recipients (88%), while most standard-treatment patients progressed",
+          "correct": true
+        },
+        {
+          "text": "None of the transplant recipients survived past six months",
+          "correct": false
+        },
+        {
+          "text": "Transplant recipients did significantly worse than standard-treatment patients",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOne-year survival for the 17 transplant recipients matched non-cancer\ntransplant patients, while 74 of 81 similar patients on standard treatment\n(chemotherapy, immunotherapy, or radiation) saw their disease progress.\u003c/p\u003e"
+    },
+    {
+      "id": "card_312362#2",
+      "format": "quiz",
+      "prompt": "What ethical tension does this study raise?",
+      "choices": [
+        {
+          "text": "Scarce donor organs given to cancer patients are organs not available to other patients on the waiting list",
+          "correct": true
+        },
+        {
+          "text": "Whether lung transplants should be banned entirely",
+          "correct": false
+        },
+        {
+          "text": "Whether cancer patients should be charged more for organs",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCommentators noted that every organ allocated to a cancer patient is\nunavailable to another recipient, making the strong results still an incomplete\nbasis for a policy change without larger trials.\u003c/p\u003e"
+    }
+  ]
+}

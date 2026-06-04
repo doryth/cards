@@ -1,0 +1,111 @@
+{
+  "id": "card_a0b7eb",
+  "slug": "talking-to-ai",
+  "type": "concept",
+  "title": "Talking to AI",
+  "hook": "The difference between a useless answer and a great one is usually the question. Give the AI context, an example, and a clear job — and treat it as a conversation, not a vending machine.",
+  "key_points": [
+    "Give context: who it's for, the goal, the tone, any constraints.",
+    "Show an example of what 'good' looks like when you can.",
+    "Ask for a specific format — a list, a table, three options, 100 words.",
+    "Iterate: refine with follow-ups instead of expecting a perfect first try."
+  ],
+  "content_html": "\u003cp\u003ePeople often try AI once, get a bland answer, and conclude it's overhyped. Usually the problem is the question. A chatbot can't read your mind — it only has the words you give it. The single biggest upgrade is \u003cstrong\u003econtext\u003c/strong\u003e: instead of \u0026quot;write a post about coffee,\u0026quot; try \u0026quot;write a friendly 100-word Instagram caption for a small café's new oat-milk latte, aimed at students, in a warm but not cheesy tone.\u0026quot;\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA few habits do most of the work. \u003cstrong\u003eGive context\u003c/strong\u003e — who it's for, what you're trying to achieve, the tone, and any limits (length, reading level, things to avoid). \u003cstrong\u003eShow an example\u003c/strong\u003e of what good looks like when you have one; models are excellent at matching a pattern. \u003cstrong\u003eAsk for a format\u003c/strong\u003e — \u0026quot;give me three options,\u0026quot; \u0026quot;as a table,\u0026quot; \u0026quot;in plain language a beginner would get.\u0026quot; And treat it as a back-and-forth: if the first reply misses, don't start over — say what to change. \u0026quot;Too formal, make it warmer\u0026quot; or \u0026quot;shorter, and add a call to action\u0026quot; steers it quickly. None of this requires special \u0026quot;prompt engineering\u0026quot; tricks; it's just clear communication, the same skill you'd use briefing a new assistant.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "talking-to-ai"
+  ],
+  "tags": [
+    "generative",
+    "tutorial"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_494e8d",
+      "slug": "prompting-mistakes",
+      "type": "concept",
+      "title": "Common Prompting Mistakes",
+      "hook": "Most 'AI is useless' moments trace back to a handful of fixable habits: asking too vaguely, dumping everything at once, and accepting the first draft as final.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_84ed63",
+      "slug": "ai-for-writing",
+      "type": "concept",
+      "title": "AI for Writing",
+      "hook": "Writing is where AI earns its keep for most people: not replacing your voice, but beating the blank page, tightening drafts, and translating 'ugh' into a sendable email.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a0b7eb#0",
+      "format": "quiz",
+      "prompt": "What most reliably improves an AI's answer?",
+      "choices": [
+        {
+          "text": "Giving it context, an example, and a clearly defined task",
+          "correct": true
+        },
+        {
+          "text": "Using as few words as possible",
+          "correct": false
+        },
+        {
+          "text": "Typing in all capital letters",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe model can't read your mind. Spelling out the audience, goal, format,\nand an example of 'good' is what turns vague replies into useful ones.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a0b7eb#1",
+      "format": "flip",
+      "prompt": "If the first answer isn't quite right, what should you do?",
+      "back_html": "\u003cp\u003eTreat it as a conversation — give feedback and follow-ups (\u0026quot;shorter,\u0026quot;\n\u0026quot;more formal,\u0026quot; \u0026quot;add an example\u0026quot;) rather than expecting a perfect first try.\u003c/p\u003e"
+    }
+  ]
+}

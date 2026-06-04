@@ -1,0 +1,110 @@
+{
+  "id": "card_f33106",
+  "slug": "melatonin-long-term-heart-failure",
+  "type": "news",
+  "title": "Long-Term Melatonin Use and Heart Failure Risk",
+  "hook": "Chronic-insomnia patients on long-term melatonin had roughly 90% higher heart failure risk over five years — an association, not proof, but a reason to stop assuming it is harmless.",
+  "key_points": [
+    "A large preliminary study followed people with chronic insomnia who used melatonin long term.",
+    "Long-term users had about a 90% higher risk of developing heart failure over five years.",
+    "This is an association study — it does not show melatonin causes heart problems.",
+    "People with chronic insomnia already carry extra cardiovascular risk, which is hard to fully separate out.",
+    "Melatonin is sold as a supplement, so it gets far less long-term safety scrutiny than a prescription drug.",
+    "Short-term use for jet lag or shifted schedules is a different question from nightly use for years."
+  ],
+  "content_html": "\u003cp\u003eMelatonin has a reputation as the harmless sleep aid: it's a hormone your body already makes, you can buy it at any pharmacy, and nobody calls it a drug. A large preliminary study complicates that picture. Among people with chronic insomnia, those who used melatonin long term had roughly a 90% higher risk of developing heart failure over five years.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe caveats matter. This is observational research, so it can show that long-term melatonin use and heart failure travel together without showing that one causes the other. People who reach for melatonin night after night tend to be people with entrenched insomnia — and chronic insomnia is itself linked to cardiovascular disease. Untangling the supplement from the condition it's treating is exactly the kind of problem this study design can't fully solve.\u003c/p\u003e\n\u003cp\u003eWhat the finding does puncture is the assumption that melatonin needs no thought at all. Because it's regulated as a supplement, it has never faced the long-term safety testing a prescription sleep drug would. If you've been taking it nightly for years, that's worth raising with a clinician — and worth treating persistent insomnia as a condition to address rather than something to paper over indefinitely.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260829035228.htm",
+    "published_at": "2026-08-29",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "sleep",
+    "medication-safety",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-31",
+  "date": "2026-08-29",
+  "related": [
+    {
+      "id": "card_3543c8",
+      "slug": "when-sleep-problems-need-help",
+      "type": "concept",
+      "title": "When Sleep Problems Need Help",
+      "hook": "Better sleep habits fix a lot — but not everything. Loud snoring with gasping, or weeks of being unable to sleep, are signals to see a doctor, not push through.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_34073f",
+      "slug": "building-better-sleep-habits",
+      "type": "concept",
+      "title": "Building Better Sleep Habits",
+      "hook": "Good sleep is mostly built in the hours before bed. A handful of simple habits — collectively called sleep hygiene — do more than any gadget.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ec98d2",
+      "slug": "do-supplements-work",
+      "type": "news",
+      "title": "A $70 Billion Industry With Thin Evidence",
+      "hook": "Supplements are one of the fastest-growing corners of health spending. For most of what's on the shelf, there's little evidence it does what the label implies.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-07"
+    },
+    {
+      "id": "card_12a631",
+      "slug": "taking-medicines-safely",
+      "type": "concept",
+      "title": "Taking Medicines Safely",
+      "hook": "Medicines help only when used right. Most medication mishaps are preventable with a few habits — reading the label, knowing your list, and asking questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f33106#0",
+      "format": "quiz",
+      "prompt": "What did the melatonin study actually find?",
+      "choices": [
+        {
+          "text": "An association: long-term users had ~90% higher heart failure risk over five years",
+          "correct": true
+        },
+        {
+          "text": "Proof that melatonin damages the heart muscle",
+          "correct": false
+        },
+        {
+          "text": "That melatonin protects against heart failure",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt was a large preliminary observational study. A 90% higher risk is a strong signal,\nbut association is not causation — chronic insomnia itself raises cardiovascular risk.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f33106#1",
+      "format": "flip",
+      "prompt": "Why does melatonin get less safety scrutiny than a sleeping pill you'd be prescribed?",
+      "back_html": "\u003cp\u003eIt's sold as a \u003cstrong\u003esupplement\u003c/strong\u003e, not a drug, so it never went through the long-term\nsafety testing prescription sleep medications face. \u0026quot;Natural\u0026quot; and \u0026quot;over the counter\u0026quot;\nare not evidence of long-term safety.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f33106#2",
+      "format": "flip",
+      "prompt": "What's the practical takeaway if you take melatonin every night?",
+      "back_html": "\u003cp\u003eWorth a conversation with a clinician. Occasional short-term use for jet lag is a\ndifferent situation from years of nightly use — and chronic insomnia itself deserves\ntreatment beyond a supplement.\u003c/p\u003e"
+    }
+  ]
+}

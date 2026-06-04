@@ -1,0 +1,105 @@
+{
+  "id": "card_74f9a6",
+  "slug": "open-secure-ai-alliance",
+  "type": "news",
+  "title": "The Chip and Cloud Giants Team Up on AI Security",
+  "hook": "AI capable enough to help mount cyberattacks needs defenses to match. Nvidia, Microsoft, SpaceX and IBM just joined forces to build them in the open — without the three biggest model labs.",
+  "key_points": [
+    "Nvidia, Microsoft, SpaceX, IBM and others launched the Open Secure AI Alliance to build and share open-source AI security tools.",
+    "Their stated argument: defending against attacks from frontier models takes openly shared tooling, not each company's private kit.",
+    "OpenAI, Google and Anthropic — the labs behind the most capable models — are not among the members.",
+    "The Verge frames the effort as a direct response to mounting concern about frontier-model safety.",
+    "The pattern to notice: AI defense is becoming shared infrastructure, built by chip and cloud firms as much as by model labs."
+  ],
+  "content_html": "\u003cp\u003eNvidia said on Monday that it is joining Microsoft, SpaceX, IBM and other technology companies in a new group called the Open Secure AI Alliance, formed to build and share open-source tools for AI security. According to The Verge, the alliance's core claim is that defending against attacks from \u003cstrong\u003efrontier models\u003c/strong\u003e — the most capable AI systems available right now — requires openly shared tooling rather than each company guarding its own.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo things make this worth a general reader's attention. The first is the premise: the group is organizing around the idea that today's best models are capable enough to be turned into offensive tools, and that the defenses have to be built cooperatively and in the open, where anyone can inspect, use, and improve them. That's a notable stance in an industry where security tooling is usually a product you sell.\u003c/p\u003e\n\u003cp\u003eThe second is who isn't there. As The Verge's headline points out, OpenAI, Google, and Anthropic — the labs behind the most capable models in wide use — are not among the members. The reporting doesn't settle why, so it's worth resisting a tidy story about it. But the shape of the thing is itself informative: the companies supplying the chips and the cloud are the ones convening a shared defense, while the labs building the models sit outside this particular effort. For anyone tracking who actually holds the levers in AI, that split is a useful data point — influence over this technology isn't concentrated in the model labs alone.\u003c/p\u003e\n\u003cp\u003eOne caveat worth carrying: an alliance announcement is a statement of intent. What matters is which tools actually ship, who adopts them, and whether the membership list looks the same in a year.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Robert Hart"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+    "published_at": "2026-07-27",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "open-source"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-27",
+  "date": "2026-07-27",
+  "related": [
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1ce624",
+      "slug": "gpt-red-ai-hacks-ai",
+      "type": "news",
+      "title": "OpenAI Built an AI Whose Job Is to Hack Its Other AI",
+      "hook": "Meet GPT-Red: an AI system OpenAI built specifically to attack its own models — so the flaws get found by a friendly hacker before a real one finds them first.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "card_192b5c",
+      "slug": "defenders-embrace-prompt-injection",
+      "type": "news",
+      "title": "Now Defenders Are Using Prompt Injection, Too",
+      "hook": "Prompt injection usually means tricking an AI agent into doing something bad. Security teams found a twist: feed a hacking agent so much fake noise it gives up and shuts itself down.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_74f9a6#0",
+      "format": "quiz",
+      "prompt": "What reason did the new alliance give for making its AI security tools open-source?",
+      "choices": [
+        {
+          "text": "Defending against attacks from frontier models needs openly shared tooling, not private kits",
+          "correct": true
+        },
+        {
+          "text": "Open-source tools are cheaper to build than commercial ones",
+          "correct": false
+        },
+        {
+          "text": "Publishing the code exempts them from safety regulations",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe alliance's stated position, per The Verge, is that open tools are required to\ndefend effectively against attacks from frontier models — a shared-defense argument,\nnot a cost or compliance one.\u003c/p\u003e"
+    },
+    {
+      "id": "card_74f9a6#1",
+      "format": "flip",
+      "prompt": "What does \"frontier model\" mean?",
+      "back_html": "\u003cp\u003eThe most capable AI systems available at a given moment — the leading edge. They're\nthe ones whose new abilities, including offensive ones, raise the most safety concern.\u003c/p\u003e"
+    },
+    {
+      "id": "card_74f9a6#2",
+      "format": "flip",
+      "prompt": "Which big AI labs are absent from the alliance, and why is that worth noticing?",
+      "back_html": "\u003cp\u003eOpenAI, Google and Anthropic. The companies building the strongest models aren't in\nthis particular defense effort — the chip and cloud giants are organizing it instead.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "card_29ef5a",
+  "slug": "chronic-stress-and-brain-resilience",
+  "type": "paper",
+  "title": "The Hidden Cost of a Stress-Proof Brain",
+  "hook": "A brain-circuit model pinpoints the single change that could explain chronic stress's toll on the prefrontal cortex — and shows that training a circuit to resist stress comes with a quiet trade-off.",
+  "key_points": [
+    "Chronic stress is known to shift prefrontal neurons toward inhibitory dominance, but the cause was unclear.",
+    "Researchers tested eight candidate circuit changes in a model brain network trained on a memory task.",
+    "Only one change reproduced all three hallmarks of stressed brains: inhibitory synapses growing stronger.",
+    "Networks trained to stay 'resilient' under stress kept performing well, at the cost of getting locked into one narrow strategy.",
+    "That resilience made the networks worse at generalizing to a task variant they hadn't trained on."
+  ],
+  "content_html": "\u003cp\u003eChronic stress is known to leave a mark on the brain's prefrontal cortex, tilting the balance between excitatory and inhibitory neurons toward inhibition — but which specific wiring change causes that shift has been unclear. A new modeling study narrows it down.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe researchers built a computer model of a brain circuit doing a working-memory task, then tested eight candidate ways that \u0026quot;stress\u0026quot; could alter its wiring or activity. Comparing each against three real signatures of chronically stressed brains — inhibitory dominance, weaker excitatory activity, and impaired task performance — only one candidate reproduced all three: synapses running from inhibitory to excitatory neurons growing stronger. The team then trained some networks to stay \u0026quot;resilient\u0026quot; under that stress. Resilient networks held onto their performance, but the fix wasn't free: they got locked into the same narrow operating pattern whether stressed or not, and struggled more than naive networks when the memory task ran longer than anything they'd trained on. It's a computational echo of something seen in stressed animals — rigid, habit-like behavior that trades flexibility for stability.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Mauricio A Diaz",
+      "Manuela A. Beyer",
+      "Janina Hesse"
+    ],
+    "url": "https://arxiv.org/abs/2606.27529",
+    "published_at": "2026-06-25",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-25",
+  "related": [
+    {
+      "id": "card_c65348",
+      "slug": "memory-and-learning",
+      "type": "concept",
+      "title": "Memory and Learning",
+      "hook": "Every memory you hold is a pattern of connections between neurons — and learning is, quite literally, your brain rewiring itself to make those connections stronger.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_945f3f",
+      "slug": "neurons-and-signals",
+      "type": "concept",
+      "title": "Neurons and Signals",
+      "hook": "Your every thought, twitch, and feeling rides on tiny electrical pulses fired by neurons — and leaps the gaps between them as bursts of chemicals.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_29ef5a#0",
+      "format": "flip",
+      "prompt": "What single circuit change reproduced all three signs of a stressed brain in the model?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eStrengthening the synapses running from inhibitory to excitatory neurons.\u003c/strong\u003e That one\nchange alone reproduced inhibitory dominance, weaker excitatory activity, and worse\ntask performance — the three real-world signatures researchers were matching.\u003c/p\u003e"
+    },
+    {
+      "id": "card_29ef5a#1",
+      "format": "quiz",
+      "prompt": "What trade-off showed up in networks trained to resist stress?",
+      "choices": [
+        {
+          "text": "They kept performing well under stress but became worse at handling unfamiliar task variations",
+          "correct": true
+        },
+        {
+          "text": "They performed worse under every condition, stressed or not",
+          "correct": false
+        },
+        {
+          "text": "They became permanently immune to any future stress with no downside",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResilience training preserved task performance under stress, but it locked the network\ninto a narrower, more specialized operating mode — a genuine cost, not a free win.\u003c/p\u003e"
+    },
+    {
+      "id": "card_29ef5a#2",
+      "format": "quiz",
+      "prompt": "Why did the researchers compare eight different candidate circuit changes?",
+      "choices": [
+        {
+          "text": "To find which one could reproduce all three known signatures of stress-affected brains",
+          "correct": true
+        },
+        {
+          "text": "To measure which change made the model run fastest on a computer",
+          "correct": false
+        },
+        {
+          "text": "To rank the changes by how much data storage they required",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe eight candidates were systematically compared against three experimentally observed\nsignatures of chronic stress; only stronger inhibitory-to-excitatory synapses matched all three.\u003c/p\u003e"
+    }
+  ]
+}

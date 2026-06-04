@@ -1,0 +1,109 @@
+{
+  "id": "card_68958b",
+  "slug": "meta-content-seal-watermark",
+  "type": "news",
+  "title": "Meta Built Its Own AI Watermark Instead of Using the Shared One",
+  "hook": "Meta's new 'Content Seal' stamps an invisible mark on its AI images so they can be traced. The catch: Google already had a tool for that — and one shared standard works better than many.",
+  "key_points": [
+    "Meta introduced Content Seal, invisible watermarking for images made by its new AI model.",
+    "A watermark is a hidden signal baked into a file that flags it as AI-generated.",
+    "Google's SynthID already does this and is used across the industry.",
+    "The Verge argues Meta should have adopted the shared tool rather than build its own.",
+    "Detection only works if platforms recognize each other's marks — fragmentation weakens it."
+  ],
+  "content_html": "\u003cp\u003eOne proposed fix for a world flooded with AI images is the \u003cstrong\u003ewatermark\u003c/strong\u003e: an invisible signal baked into a picture that flags it as AI-generated, so it can be traced later. Meta just rolled out its version, called Content Seal, which stamps images made by the company's new AI model. The Verge's complaint isn't that watermarking is a bad idea — it's that Meta built its own instead of using Google's SynthID, a watermarking tool that already exists and is used across much of the industry.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhy does that matter? A watermark is only useful if the place showing you the image can actually read it. If Meta's images carry a Meta mark, Google's carry a SynthID mark, and a third company uses something else, then any given platform has to recognize \u003cem\u003eall\u003c/em\u003e of them to reliably flag AI content — and every gap is a picture that slips through unlabeled. That's the case for a single shared standard: it turns \u0026quot;did this specific company make this?\u0026quot; into \u0026quot;was this made by AI at all?\u0026quot;, which is the question that actually helps people. Meta's move came after its own Oversight Board pushed it, back in March, to use its tools to curb deceptive AI content. The broader lesson for a general reader is that spotting AI isn't just a technical problem — it's a coordination problem. Even good detection tools fall apart if the big platforms can't agree to speak the same language, and watermarks, however clever, don't help if nothing on the other end is listening for them.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+    "published_at": "2026-07-22",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-23",
+  "date": "2026-07-22",
+  "related": [
+    {
+      "id": "card_87ffda",
+      "slug": "google-ai-ad-labels",
+      "type": "news",
+      "title": "Google Will Now Tell You If an Ad Was Made With AI",
+      "hook": "Wondering whether that Google or YouTube ad is AI-generated? There's now a real answer, sitting in a settings menu most people have never opened.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_151809",
+      "slug": "fanfiction-ai-detection-fight",
+      "type": "news",
+      "title": "Fanfiction Writers Are Hunting for AI — With Unreliable Tools",
+      "hook": "A new movement in the fanfiction community wants to root out AI-written stories. The problem: the detection methods being used are shaky enough that innocent human writers could get falsely accused.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-04"
+    },
+    {
+      "id": "card_7a965e",
+      "slug": "ai-creators-harder-to-spot",
+      "type": "news",
+      "title": "AI 'Creators' Are Getting Harder to Spot",
+      "hook": "AI influencers used to be easy to clock — too-smooth skin, an uncanny stare. The tells are vanishing, and fully synthetic 'creators' now slip into feeds without announcing themselves.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-07"
+    },
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_68958b#0",
+      "format": "flip",
+      "prompt": "What is an AI 'watermark' like Meta's Content Seal or Google's SynthID?",
+      "back_html": "\u003cp\u003eAn invisible signal baked into an image (or other file) that flags it as\nAI-generated, so platforms and tools can later trace where it came from.\u003c/p\u003e"
+    },
+    {
+      "id": "card_68958b#1",
+      "format": "quiz",
+      "prompt": "Why does The Verge argue one shared watermark standard beats each company making its own?",
+      "choices": [
+        {
+          "text": "Detection only works if platforms can recognize each other's marks",
+          "correct": true
+        },
+        {
+          "text": "Custom watermarks are illegal in most countries",
+          "correct": false
+        },
+        {
+          "text": "Google's tool is the only one that is invisible",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA watermark is useless if the platform showing the image can't read it.\nCompeting, incompatible marks leave gaps; a common standard closes them.\u003c/p\u003e"
+    }
+  ]
+}

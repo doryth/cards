@@ -1,0 +1,117 @@
+{
+  "id": "card_9a8e81",
+  "slug": "nuclear-regulation-speed-vs-safety",
+  "type": "news",
+  "title": "Regulating Nuclear Power: Speed vs. Safety",
+  "hook": "Speeding up approval for new nuclear reactors could mean cheaper, faster clean power — or it could mean cutting the safety review that catches problems first. Regulators have to choose.",
+  "key_points": [
+    "Nuclear reactors are licensed by safety regulators before they can be built and operated.",
+    "A 2026 program let small companies fast-track testing of new reactor designs.",
+    "Faster approval can speed up deployment of new technology and lower its cost.",
+    "Critics warn that compressing review time can mean less scrutiny before problems are caught.",
+    "The episode is a case study in a recurring regulatory trade-off: speed and innovation versus caution and safety."
+  ],
+  "content_html": "\u003cp\u003eBefore a nuclear reactor can generate a single watt, it has to clear a safety regulator — a process designed to catch design flaws long before they become accidents. That review is also, famously, slow, which is part of why building new nuclear power has become rare and expensive in many countries.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn 2026, NPR's Geoff Brumfiel reports, a U.S. program let small companies rush the testing of several new reactor designs, aiming to get advanced nuclear technology built faster. The trade-off is not subtle: some observers worry that compressing the testing and review timeline means safety problems have less chance of surfacing before a design is approved. This is a recurring pattern in regulatory policy, not a nuclear-specific one — regulators everywhere face pressure to move faster so beneficial technology reaches the market sooner, while their core job is to slow things down just enough to catch what a rushed process would miss. Whether a given speed-up crosses the line from \u0026quot;cutting red tape\u0026quot; to \u0026quot;cutting corners\u0026quot; is exactly the kind of judgment call that makes regulatory design a genuinely hard, and genuinely political, problem.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Geoff Brumfiel"
+    ],
+    "url": "https://npr.org/2026/06/29/nx-s1-5847944/new-nuclear-reactors-america-250-safety-concerns",
+    "published_at": "2026-06-29",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "public-policy-economy"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_c978c5",
+      "slug": "markets-regulation-mixed-economy",
+      "type": "concept",
+      "title": "Markets, Regulation \u0026 the Mixed Economy",
+      "hook": "Pure free market or full state control? Almost every country picks neither — they run a mixed economy, and where they draw the line is one of politics' great arguments.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f7cf61",
+      "slug": "the-civil-service-and-bureaucracy",
+      "type": "concept",
+      "title": "The Civil Service \u0026 Bureaucracy",
+      "hook": "Governments change; the bureaucracy stays. The permanent civil service is the machinery that actually delivers policy — for better and, sometimes, for worse.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_c978c5",
+      "slug": "markets-regulation-mixed-economy",
+      "type": "concept",
+      "title": "Markets, Regulation \u0026 the Mixed Economy",
+      "hook": "Pure free market or full state control? Almost every country picks neither — they run a mixed economy, and where they draw the line is one of politics' great arguments.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_9a8e81#0",
+      "format": "flip",
+      "prompt": "What trade-off did the 2026 nuclear fast-tracking program raise?",
+      "back_html": "\u003cp\u003eSpeeding up reactor-design testing and approval could accelerate new\nnuclear technology, but critics warned it could also mean less time to\ncatch safety problems.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9a8e81#1",
+      "format": "quiz",
+      "prompt": "Why do safety regulators typically make approval processes slow?",
+      "choices": [
+        {
+          "text": "To catch design flaws and safety problems before a product is approved for use",
+          "correct": true
+        },
+        {
+          "text": "To generate revenue for the regulator",
+          "correct": false
+        },
+        {
+          "text": "Because faster processes are technically impossible",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThorough review takes time; the point is to surface problems before,\nnot after, something is deployed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9a8e81#2",
+      "format": "quiz",
+      "prompt": "What general regulatory trade-off does the nuclear fast-tracking case illustrate?",
+      "choices": [
+        {
+          "text": "Speed and innovation versus caution and safety scrutiny, a tension across many regulated industries",
+          "correct": true
+        },
+        {
+          "text": "A conflict that only affects the energy sector",
+          "correct": false
+        },
+        {
+          "text": "A permanent choice between having regulation and having none",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe same tension — move fast to let new technology reach the market\nvs. slow down to catch risks — recurs across drug approval, aviation,\nfinance, and more.\u003c/p\u003e"
+    }
+  ]
+}

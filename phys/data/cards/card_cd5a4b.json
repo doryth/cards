@@ -1,0 +1,133 @@
+{
+  "id": "card_cd5a4b",
+  "slug": "qubits-and-quantum-computing",
+  "type": "concept",
+  "title": "Qubits and Quantum Computing",
+  "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+  "key_points": [
+    "A classical bit is 0 or 1; a qubit can be in a superposition of both until measured.",
+    "Entangling qubits links their fates, letting them represent many combinations at once.",
+    "For specific problems — code-breaking, simulating molecules — this could vastly outpace normal computers.",
+    "Qubits are fragile: the tiniest disturbance collapses them, so they need extreme isolation."
+  ],
+  "content_html": "\u003cp\u003eAn ordinary computer stores information in bits, each firmly a 0 or a 1. A quantum computer uses qubits, which exploit the strange rules of quantum physics. Thanks to superposition, a qubit isn't pinned to 0 or 1 but can hold a blend of both possibilities at once, committing to a definite value only when you measure it. On its own that's curious; the real power comes when qubits are entangled, their states linked so that a group of them can represent an enormous number of combinations simultaneously.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis doesn't make quantum computers simply \u0026quot;faster\u0026quot; at everything — for most everyday tasks they offer no advantage. But for a special class of problems they could be transformative: factoring huge numbers (which would upend today's encryption), simulating molecules and materials for chemistry and drug design, and certain search and optimization tasks. The enormous obstacle is fragility. A qubit's quantum state is destroyed by the faintest stray interaction with its surroundings — a process called decoherence — so real machines must isolate their qubits and keep them frigid, while juggling elaborate error correction. Today's quantum computers are still small and error-prone, more promising laboratory than finished tool. Wikipedia surveys the principles, the algorithms, and where the technology stands.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e31194",
+      "slug": "magnons-quantum-computers-penny-sized",
+      "type": "news",
+      "title": "Tiny Magnetic Waves Could Shrink Quantum Computers to Coin Size",
+      "hook": "Magnons — quantum ripples of magnetism once too short-lived to use — just got a 100x lifespan boost, and the bottleneck turns out to be manufacturing, not physics.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_cd5a4b#0",
+      "format": "flip",
+      "prompt": "How does a qubit differ from a classical bit?",
+      "back_html": "\u003cp\u003eA bit is strictly 0 or 1. A qubit can exist in a \u003cstrong\u003esuperposition\u003c/strong\u003e of 0 and 1\nat the same time, settling on one value only when measured.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cd5a4b#1",
+      "format": "quiz",
+      "prompt": "What lets a quantum computer tackle certain problems classical ones can't?",
+      "choices": [
+        {
+          "text": "Superposition and entanglement let many qubits represent vast combinations at once",
+          "correct": true
+        },
+        {
+          "text": "Its transistors simply switch faster",
+          "correct": false
+        },
+        {
+          "text": "It runs many ordinary computers side by side",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBy putting qubits in superposition and entangling them, a quantum computer\nprocesses a huge space of possibilities together — for specific tasks, not all.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cd5a4b#2",
+      "format": "quiz",
+      "prompt": "Why are quantum computers so hard to build?",
+      "choices": [
+        {
+          "text": "Qubits are extremely fragile — the slightest disturbance collapses their quantum state",
+          "correct": true
+        },
+        {
+          "text": "They require more electricity than exists",
+          "correct": false
+        },
+        {
+          "text": "Quantum effects only work above room temperature",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAlmost any stray interaction with the environment destroys a qubit's\nsuperposition (decoherence), so they must be isolated and error-corrected.\u003c/p\u003e"
+    }
+  ]
+}

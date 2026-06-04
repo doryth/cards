@@ -1,0 +1,81 @@
+{
+  "id": "card_629c25",
+  "slug": "simple-recipe-for-entangled-states",
+  "type": "news",
+  "title": "A Simpler Recipe for Entangled Atoms",
+  "hook": "Highly entangled quantum states usually demand elaborate hardware. A team found you can coax atoms into them by gently nudging their energy levels instead.",
+  "key_points": [
+    "Entangled states are a key resource for quantum computing and sensing, but hard to build at scale.",
+    "University of Chicago researchers trapped atoms together inside an optical cavity — a mirrored box for light.",
+    "Small tweaks to the atoms' energy levels steer them into a wide variety of entangled states.",
+    "The trick needs no extra complicated hardware — just retuning what's already there.",
+    "It hints at an easier path to the fragile quantum states many technologies rely on."
+  ],
+  "content_html": "\u003cp\u003eEntanglement — the spooky link that ties quantum particles' fates together — is the fuel behind\nquantum computers and ultra-precise sensors. The catch is that the most useful, highly entangled\nstates are notoriously fiddly to build, usually demanding layers of specialized hardware.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team at the University of Chicago reported a surprisingly simple shortcut. They placed atoms\ntogether inside an \u003cem\u003eoptical cavity\u003c/em\u003e — essentially a tiny hall of mirrors that traps light and\nforces the atoms to talk to one another through it. By making only small adjustments to the\natoms' energy levels, they could steer the group into a wide range of highly entangled states,\nwithout bolting on extra complicated equipment. As summarized by ScienceDaily, the appeal is the\neconomy of the method: tuning what's already in the box, rather than building a more elaborate\none, could make these delicate quantum states far easier to reach.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260606075510.htm",
+    "published_at": "2026-06-06",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-08",
+  "date": "2026-06-06",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_629c25#0",
+      "format": "flip",
+      "prompt": "How did the team generate a variety of entangled states without new hardware?",
+      "back_html": "\u003cp\u003eBy making small adjustments to the energy levels of atoms held together inside an optical\ncavity — retuning the system rather than adding complicated apparatus.\u003c/p\u003e"
+    },
+    {
+      "id": "card_629c25#1",
+      "format": "quiz",
+      "prompt": "Why does an easier way to make entangled states matter?",
+      "choices": [
+        {
+          "text": "Entangled states are a core resource for quantum computing and sensing, but hard to produce",
+          "correct": true
+        },
+        {
+          "text": "Entanglement makes atoms heavier, which is useful for storage",
+          "correct": false
+        },
+        {
+          "text": "It lets atoms travel faster than light",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHighly entangled states power quantum technologies but are normally difficult to create, so a\nsimpler recipe lowers a real barrier. Entanglement does not add mass or allow faster-than-light travel.\u003c/p\u003e"
+    }
+  ]
+}

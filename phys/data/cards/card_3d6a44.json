@@ -1,0 +1,92 @@
+{
+  "id": "card_3d6a44",
+  "slug": "is-light-a-wave-or-particle",
+  "type": "concept",
+  "title": "Is Light a Wave or a Particle?",
+  "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+  "key_points": [
+    "Light spreads, interferes, and diffracts like a wave.",
+    "It also arrives in discrete packets of energy called photons, like particles.",
+    "This wave-particle duality is a core idea of quantum physics.",
+    "Which behavior you see depends on the experiment you run."
+  ],
+  "content_html": "\u003cp\u003eFor centuries physicists argued over whether light was a wave or a stream of tiny particles. Wave experiments seemed decisive: light spreads around corners, bends through lenses, and produces interference patterns where overlapping beams add up or cancel out — all hallmarks of waves. But other experiments stubbornly showed light arriving in discrete chunks of energy, behaving like particles.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe resolution, and one of the founding insights of quantum physics, is that light is both. It travels and spreads like a wave, yet it's delivered and absorbed in indivisible packets called photons. Which face it shows depends on the experiment you set up to look at it — no single classical picture captures the whole story. This wave-particle duality isn't unique to light, either; matter such as electrons turns out to behave the same way. Britannica traces the history of the debate and how duality settled it.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/light/Wave-particle-duality",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "light-optics",
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_af8914",
+      "slug": "reflection-and-refraction",
+      "type": "concept",
+      "title": "Reflection \u0026 Refraction",
+      "hook": "A straw looks bent in a glass of water — not because the straw bends, but because light does when it changes speed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e9988d",
+      "slug": "the-photoelectric-effect",
+      "type": "concept",
+      "title": "The Photoelectric Effect",
+      "hook": "Shine the wrong color of light on a metal and nothing happens, no matter how bright. Switch to a bluer color and electrons fly off instantly. That puzzle proved light comes in packets.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3d6a44#0",
+      "format": "flip",
+      "prompt": "What is wave-particle duality?",
+      "back_html": "\u003cp\u003eLight behaves as a \u003cstrong\u003ewave\u003c/strong\u003e (spreading, interfering) in some experiments and\nas a stream of \u003cstrong\u003eparticles\u003c/strong\u003e — photons — in others. It is genuinely both.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3d6a44#1",
+      "format": "quiz",
+      "prompt": "Which behavior of light reveals its wave nature rather than its particle nature?",
+      "choices": [
+        {
+          "text": "Producing interference patterns where overlapping beams reinforce or cancel",
+          "correct": true
+        },
+        {
+          "text": "Arriving in discrete, countable packets of energy",
+          "correct": false
+        },
+        {
+          "text": "Knocking individual electrons off a metal surface",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInterference and diffraction are wave hallmarks. Arriving in packets (photons)\nand ejecting single electrons instead reveal light's particle side.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "card_079340",
+  "slug": "star-orbiting-milky-ways-black-hole-spin",
+  "type": "paper",
+  "title": "A Star Fast Enough to Reveal Our Black Hole's Spin",
+  "hook": "A faint star discovered orbiting Sgr A*, the Milky Way's central black hole, whips around at 25,000 km/s — fast enough that its motion could finally reveal whether the black hole is spinning.",
+  "key_points": [
+    "Sgr A*, the 4.3-million-solar-mass black hole at our galaxy's center, is close enough that astronomers can track individual stars orbiting it as precise probes of its gravity.",
+    "Past observations of orbiting stars measured Sgr A*'s mass and confirmed relativistic effects like gravitational redshift — but only effects tied to a non-spinning (Schwarzschild) black hole.",
+    "The newly discovered star, S301, is on a tight 8.7-year orbit with a peak velocity of 25,000 km/s — over 8% the speed of light.",
+    "S301's orbit is close and fast enough that its motion is directly sensitive to Sgr A*'s spin — a correction only present if the black hole rotates, per the Kerr metric — within reach of near-infrared interferometry and future extremely large telescopes."
+  ],
+  "content_html": "\u003cp\u003eAt the center of the Milky Way sits Sgr A*, a black hole 4.3 million times the Sun's mass. Because it's the closest supermassive black hole to Earth, astronomers can track individual stars swinging around it as exquisitely sensitive probes of gravity — measurements that have already pinned down its mass to sub-percent precision and confirmed relativistic effects like gravitational redshift and orbital precession, all consistent with a simple, non-spinning black hole.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat's been missing is a measurement of Sgr A*'s spin, which requires detecting subtler effects predicted by the Kerr metric — the description of spacetime around a rotating black hole. This newly discovered star, designated S301, might finally make that possible. It's a faint main-sequence star on a tight 8.7-year orbit with such a close approach to the black hole that its peak velocity reaches roughly 25,000 km/s, over 8% the speed of light. That combination of proximity and speed pushes S301's orbit into a regime directly sensitive to Sgr A*'s spin — a correction one order beyond the effects measured so far — within the reach of current near-infrared interferometry and upcoming extremely large telescopes. The star's highly eccentric orbit also hints at an exotic origin: it may be the surviving half of a binary star system torn apart by the black hole's tides, in what's known as the Hills mechanism.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "K. Abd El Dayem",
+      "R. Genzel",
+      "F. Eisenhauer",
+      "S. Gillessen"
+    ],
+    "url": "https://arxiv.org/abs/2607.12664",
+    "published_at": "2026-07-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "gravity-orbits"
+  ],
+  "tags": [
+    "paper",
+    "landmark"
+  ],
+  "importance": 5,
+  "difficulty": "deep",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_be32cb",
+      "slug": "a-decade-of-black-hole-spins",
+      "type": "paper",
+      "title": "Ten Years of Listening to Black Holes Spin",
+      "hook": "A decade after the first gravitational-wave detection, 100+ events let astronomers read black holes' spins — and spin turns out to reveal how the pairs were born.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_079340#0",
+      "format": "flip",
+      "prompt": "Why is Sgr A* especially useful for testing gravity near a black hole?",
+      "back_html": "\u003cp\u003eIt's the closest massive black hole to us, at our galaxy's center — close enough\nthat astronomers can track individual orbiting stars as precise probes of its\ngravitational field.\u003c/p\u003e"
+    },
+    {
+      "id": "card_079340#1",
+      "format": "quiz",
+      "prompt": "What makes the newly discovered star S301 special?",
+      "choices": [
+        {
+          "text": "Its tight, fast orbit (peak velocity ~25,000 km/s) makes it directly sensitive to Sgr A*'s spin",
+          "correct": true
+        },
+        {
+          "text": "It is the very first star ever found orbiting Sgr A*",
+          "correct": false
+        },
+        {
+          "text": "It orbits Sgr A* only once every million years",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eS301's close pericenter and extreme peak speed push its measurable relativistic\ncorrections beyond simple Schwarzschild effects, into territory sensitive to the\nblack hole's spin (Kerr metric).\u003c/p\u003e"
+    },
+    {
+      "id": "card_079340#2",
+      "format": "flip",
+      "prompt": "What had earlier studies of stars orbiting Sgr A* already established?",
+      "back_html": "\u003cp\u003eSgr A*'s mass to sub-percent precision, and non-spin relativistic effects like\ngravitational redshift, the transverse Doppler effect, and orbital precession —\nall consistent with a non-spinning (Schwarzschild) black hole.\u003c/p\u003e"
+    }
+  ]
+}

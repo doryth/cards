@@ -1,0 +1,107 @@
+{
+  "id": "card_13b1bf",
+  "slug": "the-force-on-a-quark",
+  "type": "paper",
+  "title": "Measuring the force that traps a quark inside the proton",
+  "hook": "Nobody has ever seen a free quark. A sharpened reconstruction of the actual force tugging on one inside the proton comes out looking like a string pulled at constant tension.",
+  "key_points": [
+    "Confinement — no quark has ever been observed in isolation — is one of the Standard Model's central open problems.",
+    "Ji and collaborators recently proposed a framework to define and measure the force acting on a quark inside the proton.",
+    "This work sharpens that reconstruction with light-cone QCD sum rules, filling in where experiment and lattice data run out.",
+    "Treating the extraction as a regularized inverse problem cuts the dependence on guessed-at fitting functions.",
+    "The recovered force stays consistent with a linear confining potential — the flux-tube picture of the strong force.",
+    "Better future inputs could substantially shrink the remaining uncertainty, the authors say."
+  ],
+  "content_html": "\u003cp\u003eQuark confinement is one of those facts that is easy to state and brutally hard to derive: coloured quarks are permanently locked inside colour-neutral hadrons, and no experiment has ever caught one on its own. Recently Ji and collaborators proposed something more concrete than a general argument — a framework for defining and actually measuring the force acting on a quark inside the proton, which yielded strong evidence for a net confining force.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eJi-Xin Yu, Ao-Sheng Xiong, Ji Xu, Fu-Sheng Yu and Yong Zheng improve on that analysis in two ways. First, they bring in light-cone QCD sum rule results to supplement the limited experimental and lattice QCD information available in the large-|q²| region, where the data thin out. Second, rather than fitting the force to a prescribed functional form — a choice that quietly injects model dependence — they reformulate the reconstruction as a regularized inverse problem. The resulting quark force is a complementary, less parametrization-dependent determination, and it remains consistent with what a linear QCD potential implies: a constant restoring force, the flux-tube picture in which pulling quarks apart never gets any easier. The authors read that agreement as support for the robustness of Ji et al.'s original framework, and note that improved future inputs could substantially reduce the uncertainty in the reconstruction.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Ji-Xin Yu",
+      "Ao-Sheng Xiong",
+      "Ji Xu",
+      "Fu-Sheng Yu",
+      "Yong Zheng"
+    ],
+    "url": "https://arxiv.org/abs/2607.21952",
+    "published_at": "2026-07-24",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aaec2a",
+      "slug": "glueball-x2370",
+      "type": "paper",
+      "title": "Physics's Long-Sought 'Glueball' May Finally Be Here",
+      "hook": "The strong force's glue can bind to itself, making a particle with no quarks at all. Physicists hunted these 'glueballs' for 50 years — BESIII says the X(2370) is the strongest candidate yet.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-22"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_13b1bf#0",
+      "format": "flip",
+      "prompt": "What does quark confinement mean?",
+      "back_html": "\u003cp\u003eColoured quarks are permanently bound inside colour-neutral hadrons and have never been\nobserved as isolated particles.\u003c/p\u003e"
+    },
+    {
+      "id": "card_13b1bf#1",
+      "format": "quiz",
+      "prompt": "What does a linear confining potential imply about the force between quarks?",
+      "choices": [
+        {
+          "text": "The force stays roughly constant no matter how far apart you pull them",
+          "correct": true
+        },
+        {
+          "text": "The force falls off with the square of the distance, like gravity",
+          "correct": false
+        },
+        {
+          "text": "The force grows without limit as the quarks get closer together",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA potential that rises linearly with separation means a constant restoring force — the\nflux-tube or string picture, in which separating quarks never gets cheaper.\u003c/p\u003e"
+    },
+    {
+      "id": "card_13b1bf#2",
+      "format": "flip",
+      "prompt": "How did the authors reduce model dependence in reconstructing the quark force?",
+      "back_html": "\u003cp\u003eBy formulating it as a regularized inverse problem rather than fitting prescribed functional\nforms, and by supplementing sparse data with light-cone QCD sum rules.\u003c/p\u003e"
+    }
+  ]
+}

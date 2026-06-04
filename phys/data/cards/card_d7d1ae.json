@@ -1,0 +1,99 @@
+{
+  "id": "card_d7d1ae",
+  "slug": "entanglement-straight-from-sunlight",
+  "type": "news",
+  "title": "Entanglement Made From Plain Sunlight",
+  "hook": "Quantum entanglement was thought to need a laser's disciplined light. An outdoor experiment made it from raw sunlight instead.",
+  "key_points": [
+    "Entangled photon pairs are normally produced by pumping a nonlinear crystal with a laser, whose narrow, coherent beam was assumed essential.",
+    "The team ran the same conversion using focused sunlight as the pump, in an experiment done outdoors.",
+    "The resulting pairs matched the ideal entangled state with about 94% fidelity, according to the researchers.",
+    "Dropping the laser removes a power-hungry, delicate component — attractive for satellites and other constrained platforms.",
+    "Possible payoffs include simpler quantum satellites, secure communication links, and lower-energy quantum hardware."
+  ],
+  "content_html": "\u003cp\u003eEntangled photons are the workhorse of quantum communication, and the standard recipe starts with a laser: shine a narrow, coherent beam into a nonlinear crystal, and occasionally one photon splits into an entangled pair. The laser's coherence was assumed to be doing essential work. A team has now made entangled pairs with sunlight as the pump, in an experiment run outdoors.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSunlight is the opposite of laser light — broadband, unpolarised, arriving from a wide angle — which is why it was not an obvious pump. Yet after focusing, it drove the conversion, and the pairs that came out matched the target entangled state with roughly 94% fidelity by the researchers' measure. The interest here is less about the physics being impossible before and more about what it removes: a laser is one of the most power-hungry and alignment-sensitive parts of a quantum optics setup, and satellites have neither watts nor patience to spare. If the approach scales, it points toward simpler quantum satellites, secure links that run on ambient light, and quantum hardware with a smaller energy budget.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260807035133.htm",
+    "published_at": "2026-08-07"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "light-optics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-07",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_629c25",
+      "slug": "simple-recipe-for-entangled-states",
+      "type": "news",
+      "title": "A Simpler Recipe for Entangled Atoms",
+      "hook": "Highly entangled quantum states usually demand elaborate hardware. A team found you can coax atoms into them by gently nudging their energy levels instead.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "card_65937b",
+      "slug": "how-lasers-work",
+      "type": "concept",
+      "title": "How Lasers Work",
+      "hook": "A flashlight sprays a jumble of colors every which way. A laser does the opposite: one pure color, marching in perfect step, in a beam so tight it can reach the Moon.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d7d1ae#0",
+      "format": "flip",
+      "prompt": "What assumption about making entangled photons did this experiment overturn?",
+      "back_html": "\u003cp\u003eThat you need a \u003cstrong\u003elaser\u003c/strong\u003e as the pump. The team generated entangled pairs using\nfocused sunlight instead, outdoors.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d7d1ae#1",
+      "format": "quiz",
+      "prompt": "Why would generating entanglement without a laser be useful in space?",
+      "choices": [
+        {
+          "text": "It removes a power-hungry, delicate component from the satellite",
+          "correct": true
+        },
+        {
+          "text": "Lasers cannot operate in vacuum",
+          "correct": false
+        },
+        {
+          "text": "Sunlight produces entanglement at a higher rate than any laser",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe appeal is engineering, not rate: dropping the laser cuts power draw and\ncomplexity, which matters for quantum satellites and other constrained\nplatforms.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d7d1ae#2",
+      "format": "flip",
+      "prompt": "How close were the sunlight-generated pairs to an ideal entangled state?",
+      "back_html": "\u003cp\u003eAbout \u003cstrong\u003e94%\u003c/strong\u003e similarity to the ideal state, as reported by the researchers.\u003c/p\u003e"
+    }
+  ]
+}

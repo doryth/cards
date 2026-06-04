@@ -1,0 +1,90 @@
+{
+  "id": "card_7ebb9d",
+  "slug": "super-puff-planets",
+  "type": "news",
+  "title": "Two Planets Lighter Than Cotton Candy",
+  "hook": "TOI-791 b and c are roughly Jupiter-sized but so bloated and gassy they'd float on water — and their unusually neat orbital rhythm is a rare clue to how puffed-up planets like this ever form.",
+  "key_points": [
+    "TOI-791 b and c orbit a star 1,110 light-years away and are each about Jupiter's size but far lighter.",
+    "Their densities are 28-35x lower than Jupiter's — around 0.04 g/cm3, less dense than cotton candy.",
+    "The two planets lock into a 5:3 mean-motion resonance: the inner one orbits five times for every three of the outer one.",
+    "Only a handful of other known systems have more than one 'super-puff' planet, making this pairing rare.",
+    "Citizen scientists spotted the candidates in NASA TESS data; ground telescopes then confirmed them.",
+    "Their huge, light hydrogen-helium atmospheres likely puffed up while the planets formed farther from their star."
+  ],
+  "content_html": "\u003cp\u003eNot every giant planet is dense like Jupiter. TOI-791 b and c, orbiting a star about 1,110 light-years away, are each roughly Jupiter's size but carry a fraction of its mass — their densities work out to somewhere between 28 and 35 times lower than Jupiter's, around 0.04 grams per cubic centimeter. For comparison, cotton candy runs about 0.05 g/cm3: these planets are, by that measure, lighter than spun sugar.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to ScienceDaily, the pair was first flagged by citizen scientists combing through NASA's TESS survey data, then confirmed with ground-based follow-up including Antarctica's ASTEP telescope. What makes the system especially valuable to astronomers is the neat 5:3 mean-motion resonance between the two planets — the inner one completes five orbits for every three the outer one makes. Systems with more than one such \u0026quot;super-puff\u0026quot; are rare; only a handful are known. Researchers think planets like these built their oversized, gassy envelopes while still forming farther from their star, in a colder part of the system, and studying pairs locked in stable resonances like this one offers a rare, clean test of that idea.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260626124659.htm",
+    "published_at": "2026-06-26",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-26",
+  "related": [
+    {
+      "id": "card_7ed11f",
+      "slug": "giant-planet-spins",
+      "type": "news",
+      "title": "Why Some Giant Planets Spin Faster Than 'Failed Stars'",
+      "hook": "Astronomers clocked the spins of dozens of distant worlds and found a surprise: lightweight giant planets can twirl faster than the much heavier brown dwarfs — so mass isn't the whole story.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_9eaa6c",
+      "slug": "wasp-121b-two-twilights",
+      "type": "news",
+      "title": "An Alien World With Two Different Twilights",
+      "hook": "On a scorching giant planet that never turns away from its star, the James Webb telescope found that dawn and dusk look nothing alike — winds smear the heat from one side to the other.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-11"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7ebb9d#0",
+      "format": "flip",
+      "prompt": "Why are TOI-791 b and c called 'super-puff' planets?",
+      "back_html": "\u003cp\u003eThey're roughly Jupiter's size but only about 1/30th as dense — around 0.04 g/cm3,\nless dense than cotton candy — because of their huge, lightweight hydrogen-helium\natmospheres.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7ebb9d#1",
+      "format": "quiz",
+      "prompt": "What makes this particular pair of super-puffs unusually rare?",
+      "choices": [
+        {
+          "text": "They share a tight 5:3 mean-motion orbital resonance",
+          "correct": true
+        },
+        {
+          "text": "They are the only super-puff planets ever found",
+          "correct": false
+        },
+        {
+          "text": "They orbit two different stars",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMulti-planet super-puff systems are already uncommon — only a few are known — and this\npair's clean 5:3 resonance (five inner orbits per three outer orbits) makes it stand out.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7ebb9d#2",
+      "format": "flip",
+      "prompt": "What does the planets' puffiness suggest about how they formed?",
+      "back_html": "\u003cp\u003eThey likely built up enormous hydrogen-helium atmospheres while forming farther from\ntheir star, in a colder region — a clue researchers use to reconstruct how such\nlow-density giants come to exist.\u003c/p\u003e"
+    }
+  ]
+}

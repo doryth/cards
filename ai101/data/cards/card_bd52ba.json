@@ -1,0 +1,88 @@
+{
+  "id": "card_bd52ba",
+  "slug": "autonomous-weapons-ukraine",
+  "type": "news",
+  "title": "When the Drone Decides: AI and Autonomous Weapons",
+  "hook": "Ukraine reportedly ran a one-time test of fully autonomous drones that chose and struck targets with no human pulling the trigger. The 'killer robot' debate just stopped being hypothetical.",
+  "key_points": [
+    "Ars Technica reported Ukraine tested fully autonomous drones that engaged targets on their own.",
+    "Full autonomy is still rare — most armed drones keep a human in the decision loop.",
+    "But AI modules are increasingly being added to drones and ground robots.",
+    "The ethical line is removing the human from the choice to take a life."
+  ],
+  "content_html": "\u003cp\u003eFor years, \u0026quot;killer robots\u0026quot; — weapons that decide on their own whom to kill — were a debate about the future. Ars Technica reported that the future arrived, at least once: Ukraine ran a one-time test in which fully autonomous drones selected and struck Russian soldiers without a human making the final call. The report stresses that full autonomy like this is still rare, but that Ukraine has been installing AI modules on drones and ground robots more broadly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe crucial distinction is \u003cem\u003ewhere the human sits\u003c/em\u003e. A remotely piloted drone still has a person watching a screen and choosing whether to fire — slow, accountable, human. A fully autonomous one compresses that decision into software: the machine identifies a target and acts. That's the bright line that ethicists, militaries, and treaty negotiators have argued over for a decade — not whether AI should be \u003cem\u003ein\u003c/em\u003e weapons (it already is, for navigation and targeting aids), but whether it should ever be the one to pull the trigger. War tends to accelerate whatever gives an edge, which is why a single reported test matters: it shows the technical barrier is largely gone, leaving the question a moral and legal one. It's also a sharp version of a theme that runs through all of AI — the more we let systems \u003cem\u003eact\u003c/em\u003e without us, the more it matters exactly which decisions we're handing over.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers",
+    "published_at": "2026-06-12",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "robots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "agent"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-15",
+  "date": "2026-06-12",
+  "related": [
+    {
+      "id": "card_66e39d",
+      "slug": "robots-and-self-driving",
+      "type": "concept",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bd52ba#0",
+      "format": "quiz",
+      "prompt": "What makes a weapon 'fully autonomous' in this story?",
+      "choices": [
+        {
+          "text": "It selects and engages targets on its own, with no human making the final call",
+          "correct": true
+        },
+        {
+          "text": "It's remotely piloted by a soldier the whole time",
+          "correct": false
+        },
+        {
+          "text": "It runs on batteries instead of fuel",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFull autonomy means the human is removed from the kill decision — the system\npicks and strikes targets itself. That's the line this test reportedly crossed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bd52ba#1",
+      "format": "flip",
+      "prompt": "Is fully autonomous lethal force the norm in warfare today?",
+      "back_html": "\u003cp\u003eNo — it's still rare. Most armed drones keep a human in the loop, but AI modules\nare increasingly added to drones and robots, pushing toward more autonomy.\u003c/p\u003e"
+    }
+  ]
+}

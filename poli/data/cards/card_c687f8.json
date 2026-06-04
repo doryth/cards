@@ -1,0 +1,94 @@
+{
+  "id": "card_c687f8",
+  "slug": "maps-as-political-power",
+  "type": "blog",
+  "title": "Maps as Political Power",
+  "hook": "A map looks like neutral fact, but someone chose what to show, what to leave out, and where to draw the line — and those choices shape voting, travel, and spending.",
+  "key_points": [
+    "Maps are not neutral: they reflect the choices and interests of whoever makes them.",
+    "Map-making shapes who gets to vote where, how people move, and where public money flows.",
+    "An essay in The Conversation argues maps help control a shared 'public imagination.'",
+    "'Counter-maps' let communities map their own experience and contest the official version."
+  ],
+  "content_html": "\u003cp\u003eWe tend to read a map as a plain statement of fact, but in an essay for The Conversation, urban design professor Patty Heyda argues that maps are powerful political tools. Every map reflects choices — what to include, what to leave out, what to center, and where to draw the boundaries — and those choices are rarely innocent. From who gets to vote in which district, to how roads route people through a city, to where public money is directed, Heyda writes that politicians and planners use maps to shape what she calls the public imagination.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe political power of maps is easiest to see in elections. Because many systems group voters into districts, the act of drawing a boundary decides which voters are counted together — and, as redistricting and gerrymandering debates show, that can change who wins. But Heyda's argument is broader: maps frame what a place is and who belongs in it, and an official map can quietly normalize one version of reality while hiding others, such as which neighborhoods were neglected or displaced. Her proposed response is \u0026quot;counter-mapping\u0026quot;: ordinary people and communities producing their own maps to depict their experience — the routes they actually walk, the harms they actually face — and so contest the authoritative version. The civic point is that maps are a form of media. Like any media, they carry a point of view, and reading them critically means asking not just what they show but who made them and why.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Patty Heyda"
+    ],
+    "url": "https://theconversation.com/maps-are-powerful-political-tools-shaping-a-nations-past-present-and-future-counter-maps-allow-everyday-people-to-reclaim-the-narrative-272482",
+    "published_at": "2026-06-01",
+    "license": "CC BY-ND 4.0"
+  },
+  "topic_ids": [
+    "media-civil-society",
+    "elections-voting-systems"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-06-01",
+  "related": [
+    {
+      "id": "card_15c8cc",
+      "slug": "electoral-districts-and-gerrymandering",
+      "type": "concept",
+      "title": "Districts \u0026 Gerrymandering",
+      "hook": "Where you draw the lines on a map can decide an election before a single vote is cast — which is exactly what gerrymandering exploits.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c687f8#0",
+      "format": "flip",
+      "prompt": "Why does the essay argue that maps are not politically neutral?",
+      "back_html": "\u003cp\u003eBecause someone always chooses what a map includes, omits, and emphasizes —\nand those choices shape voting, movement, and public spending.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c687f8#1",
+      "format": "quiz",
+      "prompt": "What is a 'counter-map,' as described in the essay?",
+      "choices": [
+        {
+          "text": "A map made by ordinary people to depict their own experience and contest the official version",
+          "correct": true
+        },
+        {
+          "text": "A map that hides the location of public buildings",
+          "correct": false
+        },
+        {
+          "text": "An official government map of voting districts",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCounter-mapping lets communities reclaim the narrative by mapping reality\nas they see it, rather than accepting an authority's framing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c687f8#2",
+      "format": "quiz",
+      "prompt": "How does map-making connect to elections specifically?",
+      "choices": [
+        {
+          "text": "Drawing boundaries decides which voters fall into which districts, shaping outcomes",
+          "correct": true
+        },
+        {
+          "text": "Maps determine how many candidates may run nationwide",
+          "correct": false
+        },
+        {
+          "text": "Maps set the dates on which elections are held",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhere lines are drawn groups voters differently, which can change which\nside wins — the core of redistricting and gerrymandering debates.\u003c/p\u003e"
+    }
+  ]
+}

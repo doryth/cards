@@ -1,0 +1,85 @@
+{
+  "id": "card_c36b83",
+  "slug": "music-ai-training-database",
+  "type": "news",
+  "title": "See the Music That Trained AI",
+  "hook": "Ever wonder if your favorite song helped train an AI? The Atlantic dug up four music datasets used to train AI models — two with millions of tracks — and made them searchable by anyone.",
+  "key_points": [
+    "The Atlantic's Alex Reisner uncovered four datasets of music used to train AI models.",
+    "Two are huge — about 12 million and 9 million tracks; the other two are smaller but still substantial.",
+    "The Atlantic made the datasets publicly searchable, so anyone can look for specific music.",
+    "It's a rare concrete look at the copyrighted material feeding generative-AI music tools.",
+    "Whether such training needs artists' permission is a live legal and ethical fight."
+  ],
+  "content_html": "\u003cp\u003eGenerative AI doesn't conjure music from nothing — it learns from existing recordings, and usually the public never sees which ones. The Verge reports that The Atlantic's Alex Reisner uncovered four datasets of music used to train AI models and made them fully searchable, so anyone can check what's inside.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo of the datasets are enormous — roughly 12 million and 9 million tracks — and the other two, while smaller, still represent a large body of work. That matters because the songs in a training set are typically created and owned by real artists, who often had no say in their use. A tool like this turns an abstract debate — \u0026quot;AI is trained on copyrighted work\u0026quot; — into something you can actually look up. It also feeds directly into one of the hottest legal questions in AI: whether training on copyrighted material counts as fair use or requires permission and payment. For a listener, the takeaway is simple but easy to forget — when an AI writes a song \u0026quot;in the style of\u0026quot; someone, that style was learned from real music made by real people.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O’Brien"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "published_at": "2026-06-20",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "dataset",
+    "training"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-25",
+  "date": "2026-06-20",
+  "related": [
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c36b83#0",
+      "format": "quiz",
+      "prompt": "What did The Atlantic make public about AI music training?",
+      "choices": [
+        {
+          "text": "Four datasets of music used to train AI models, made searchable to anyone",
+          "correct": true
+        },
+        {
+          "text": "A new AI music generator you can use for free",
+          "correct": false
+        },
+        {
+          "text": "A list of songs AI is legally banned from playing",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eReporter Alex Reisner uncovered four training datasets — two with millions of tracks —\nand The Atlantic made them fully searchable.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c36b83#1",
+      "format": "flip",
+      "prompt": "Why does it matter which songs are in an AI's training set?",
+      "back_html": "\u003cp\u003eThose tracks are made and owned by real artists who often weren't asked — fueling\nthe legal fight over whether AI training needs permission and payment.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c36b83#2",
+      "format": "flip",
+      "prompt": "How does a searchable dataset change the 'AI uses copyrighted work' debate?",
+      "back_html": "\u003cp\u003eIt turns an abstract claim into something concrete — anyone can look up specific\ntracks instead of just arguing about it in the abstract.\u003c/p\u003e"
+    }
+  ]
+}

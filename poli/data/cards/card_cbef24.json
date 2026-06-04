@@ -1,0 +1,131 @@
+{
+  "id": "card_cbef24",
+  "slug": "surveillance-and-privacy",
+  "type": "concept",
+  "title": "Surveillance \u0026 Privacy",
+  "hook": "Technology lets states and companies watch people at a scale once unimaginable — putting the old right to be left alone on a collision course with security and profit.",
+  "key_points": [
+    "Privacy is the claim to control information about oneself and a zone free from intrusion.",
+    "Digital technology enables mass surveillance — tracking communications, locations, and behavior.",
+    "States cite security; companies monetize data — both create pressure against privacy.",
+    "The democratic stakes are high: surveillance can chill free speech, dissent, and association."
+  ],
+  "content_html": "\u003cp\u003ePrivacy — the claim to control information about oneself and to have a zone of life free from intrusion — is an old idea now under unprecedented pressure. For most of history, watching people closely was expensive and labor-intensive, which placed natural limits on how much any state or organization could monitor. Digital technology has erased those limits. Communications, locations, purchases, searches, and associations can now be recorded, stored, and analyzed at vast scale and low cost, making surveillance of entire populations technically feasible in a way it never was before.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo distinct pressures drive the erosion of privacy. States cite security: monitoring communications and movements can help prevent crime and terrorism, and governments argue this justifies expanded surveillance powers. Companies, meanwhile, have built business models on collecting personal data and using it to target advertising and predict behavior, giving them strong commercial reasons to gather as much as possible. Encyclopaedia Britannica notes that the right to privacy has long been recognized as important precisely because of its connection to liberty and autonomy. The democratic stakes are what make this a political issue and not just a personal one. Pervasive surveillance can have a \u0026quot;chilling effect\u0026quot;: people who believe they are being watched tend to self-censor, avoid controversial associations, and shy away from dissent — quietly narrowing the free expression, protest, and association that democracy depends on. The result is an ongoing political struggle over where to draw lines: how much surveillance to permit, under what oversight, with what limits on data collection, and how to protect privacy without sacrificing legitimate security — a balance every modern society is now forced to negotiate.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/right-to-privacy",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "technology-and-politics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5b9a4",
+      "slug": "freedom-of-expression",
+      "type": "concept",
+      "title": "Freedom of Expression",
+      "hook": "The freedom to speak, publish, and dissent is often called the first freedom — because without it, citizens can't check power or argue their way to better decisions.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2a6bac",
+      "slug": "gunshot-detection-technology",
+      "type": "blog",
+      "title": "Gunshot Detection Tech",
+      "hook": "Cities pay millions for microphones that promise to pinpoint gunfire and speed up police. The evidence that it actually works is surprisingly thin.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "card_253e60",
+      "slug": "buying-data-the-law-restricts",
+      "type": "news",
+      "title": "A Strict Privacy Law Is Only as Strong as Its Enforcer",
+      "hook": "A state can write the toughest data privacy law in the country and still see the data sold. Rights on paper need someone whose job is to notice when they're ignored.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-20"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cbef24#0",
+      "format": "flip",
+      "prompt": "What is privacy, as a political and legal claim?",
+      "back_html": "\u003cp\u003eThe claim to \u003cstrong\u003econtrol information about oneself\u003c/strong\u003e and to a zone of life\nfree from intrusion by the state or others.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cbef24#1",
+      "format": "quiz",
+      "prompt": "What two pressures most push against privacy in the digital age?",
+      "choices": [
+        {
+          "text": "States seeking security and companies monetizing personal data",
+          "correct": true
+        },
+        {
+          "text": "Only the weather and geography",
+          "correct": false
+        },
+        {
+          "text": "A lack of any technology at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGovernments invoke security to justify surveillance, while firms profit\nfrom collecting and using personal data — both erode privacy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cbef24#2",
+      "format": "quiz",
+      "prompt": "Why does mass surveillance raise democratic concerns?",
+      "choices": [
+        {
+          "text": "Being watched can chill free speech, dissent, and association",
+          "correct": true
+        },
+        {
+          "text": "It makes elections happen more often",
+          "correct": false
+        },
+        {
+          "text": "It has no effect on how people behave",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIf people fear being monitored, they may self-censor and avoid dissent —\nundermining the freedoms democracy depends on.\u003c/p\u003e"
+    }
+  ]
+}

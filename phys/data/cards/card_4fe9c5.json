@@ -1,0 +1,104 @@
+{
+  "id": "card_4fe9c5",
+  "slug": "two-determinants-are-enough",
+  "type": "paper",
+  "title": "Every Electron Wave Function Needs at Most Two Building Blocks",
+  "hook": "Chemistry's standard toolkit stacks up thousands of Slater determinants to describe interacting electrons. A new proof says two fixed ones — chosen in advance — are always enough.",
+  "key_points": [
+    "A Slater determinant is the basic antisymmetric building block that encodes the Pauli exclusion principle for a set of electrons.",
+    "Exact expansions in a finite basis need combinatorially many determinants, and neural-network wave functions likewise stack more and more of them.",
+    "Carleo and Rossi prove that one universal determinant — fixed in advance, independent of the system — times a smooth symmetric (bosonic) function approximates any fermionic wave function in up to three dimensions.",
+    "That holds in the first-order Sobolev norm, which is the norm that actually controls the variational energy you are minimising.",
+    "Reaching the stronger second-order norm relevant to Coulomb interactions costs at most one extra fixed determinant, and only in 3D."
+  ],
+  "content_html": "\u003cp\u003eDescribing a gas of interacting electrons accurately is the central difficulty of quantum chemistry and condensed matter. The standard answer is to build the wave function out of Slater determinants — the antisymmetric combinations that encode the Pauli exclusion principle — and then to use a great many of them. Exact expansions in a finite basis need combinatorially many, and even modern neural-network wave functions have tended to stack a growing number of determinants to squeeze out accuracy.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eGiuseppe Carleo and Riccardo Rossi prove that this is unnecessary. In the norms that actually govern variational calculations, at most two determinants are needed — and they can be fixed in advance, independent of the system and of the state. A single universal Slater determinant multiplied by a smooth bosonic (symmetric) wave function approximates any fermionic wave function in up to three spatial dimensions in the first-order Sobolev norm, which is the norm that controls the variational energy. Getting to the second-order Sobolev norm — the domain of the Coulomb Hamiltonian, which bounds the variance of the local energy central to variational Monte Carlo — costs at most one additional fixed determinant, and only in three dimensions. The practical suggestion is that the hard work belongs in the smooth bosonic factor, not in piling up antisymmetric structure.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Giuseppe Carleo",
+      "Riccardo Rossi"
+    ],
+    "url": "https://arxiv.org/abs/2608.14476",
+    "published_at": "2026-08-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_ee9c7f",
+      "slug": "chemistry-without-quantum-computers",
+      "type": "news",
+      "title": "A Chemistry Question Solved Without a Quantum Computer",
+      "hook": "Many assumed only a quantum computer could crack certain chemistry problems. A result decades in the making shows an ordinary computer can do it after all.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "card_1044b3",
+      "slug": "fractional-fermi-sea",
+      "type": "news",
+      "title": "Physicists Force Atoms Into a Brand-New Quantum State",
+      "hook": "By yanking a line of ultracold atoms between opposite kinds of interaction, physicists drove them into a state matter isn't supposed to reach — breaking the standard rulebook for 1D quantum systems.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4fe9c5#0",
+      "format": "flip",
+      "prompt": "What is a Slater determinant doing in a many-electron wave function?",
+      "back_html": "\u003cp\u003eIt is the basic antisymmetric building block — the structure that enforces the \u003cstrong\u003ePauli\nexclusion principle\u003c/strong\u003e, so swapping two electrons flips the wave function's sign.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4fe9c5#1",
+      "format": "quiz",
+      "prompt": "What do Carleo and Rossi prove about how many determinants a variational description needs?",
+      "choices": [
+        {
+          "text": "At most two fixed universal determinants suffice, regardless of particle number or target accuracy",
+          "correct": true
+        },
+        {
+          "text": "The number grows linearly with the number of electrons",
+          "correct": false
+        },
+        {
+          "text": "Determinants can be dropped entirely for interacting fermions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOne universal determinant, specified in advance and multiplied by a smooth bosonic\nfunction, works in the first-order Sobolev norm; a second fixed determinant is needed\nonly to reach the second-order norm in three dimensions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4fe9c5#2",
+      "format": "flip",
+      "prompt": "Why does it matter which norm the approximation is proved in?",
+      "back_html": "\u003cp\u003eThe first-order Sobolev norm is what \u003cstrong\u003econtrols the variational energy\u003c/strong\u003e; the second-order\nnorm bounds the variance of the local energy at the heart of variational Monte Carlo. A\nresult is only as useful as the norm it holds in.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "card_9d6f94",
+  "slug": "fast-radio-bursts-track-star-formation",
+  "type": "paper",
+  "title": "Fast Radio Bursts Follow Star Formation Almost Instantly",
+  "hook": "Mysterious millisecond flashes from across the universe closely track where new stars are being born — with almost no time lag, ruling out one of the leading theories of what causes them.",
+  "key_points": [
+    "Fast radio bursts (FRBs) are millisecond-long flashes of radio waves from distant galaxies; what triggers most of them has been debated for years.",
+    "A new statistical analysis of the CHIME/FRB catalog found the FRB rate peaks at the same cosmic epoch as star formation, with a delay of only 0.1-0.3 billion years.",
+    "That's too short to fit the multi-billion-year delay expected if most FRBs come from old compact-binary mergers (like colliding neutron stars).",
+    "The result instead favors young stellar remnants — most likely magnetars born in core-collapse supernovae — as the dominant source."
+  ],
+  "content_html": "\u003cp\u003eFor years, one open question about fast radio bursts (FRBs) — brief, powerful flashes of radio waves from far outside our galaxy — has been what actually triggers them. Two broad pictures competed: young magnetars, the intensely magnetic remnants left behind almost immediately after a massive star explodes as a supernova, or old compact-object mergers, like colliding neutron stars, which typically take billions of years to happen after their parent stars were born.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAstronomers Yi-Ying Wang, Yin-Jie Li, and Yi-Zhong Fan tackled the question with a hierarchical Bayesian analysis of the CHIME/FRB catalog, jointly modeling the observed bursts, their brightness, and the redshifts of their host galaxies while correcting for what the survey could and couldn't detect. Across a range of models, the reconstructed FRB rate peaked at the same cosmic epoch as the universe's star-formation history, with a mean delay of just 0.1 to 0.3 billion years — consistent with essentially no delay at all. That's far too short for the multi-billion-year lag expected from compact-binary mergers, ruling out mergers as the dominant channel and instead pointing to progenitors tied to young stellar remnants, most notably magnetars forged in core-collapse supernovae.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Yi-Ying Wang",
+      "Yin-Jie Li",
+      "Yi-Zhong Fan"
+    ],
+    "url": "https://arxiv.org/abs/2607.09109",
+    "published_at": "2026-07-10",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_230f1d",
+      "slug": "magnetar-birth-caught-chirping",
+      "type": "news",
+      "title": "Astronomers Caught a Magnetar Being Born",
+      "hook": "A supernova's light curve started 'chirping' — bumps in brightness arriving closer and closer together — the birth cry of one of the universe's most extreme objects: a magnetar.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9d6f94#0",
+      "format": "flip",
+      "prompt": "What are fast radio bursts (FRBs)?",
+      "back_html": "\u003cp\u003eMillisecond-long flashes of radio waves arriving from distant galaxies, whose\ntrigger mechanism has long been debated.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9d6f94#1",
+      "format": "quiz",
+      "prompt": "What did the new analysis of the CHIME/FRB catalog find about the timing of FRBs relative to star formation?",
+      "choices": [
+        {
+          "text": "FRBs track star formation almost instantly, with only a 0.1-0.3 billion-year delay",
+          "correct": true
+        },
+        {
+          "text": "FRBs lag star formation by many billions of years",
+          "correct": false
+        },
+        {
+          "text": "FRBs show no relationship to star formation at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe FRB rate peaks at the same cosmic epoch as star formation with only a short\ndelay — far too brief for an old-population origin.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9d6f94#2",
+      "format": "flip",
+      "prompt": "Why does this short delay rule out compact-binary mergers as the dominant FRB source?",
+      "back_html": "\u003cp\u003eMergers of old compact objects like neutron stars take \u003cstrong\u003ebillions of years\u003c/strong\u003e to\noccur after their stars form. A near-instant delay instead points to \u003cstrong\u003eyoung\u003c/strong\u003e\nremnants — most likely magnetars from core-collapse supernovae.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "card_37a194",
+  "slug": "second-primary-after-a-map-redraw",
+  "type": "news",
+  "title": "When New Maps Force a Second Primary",
+  "hook": "Redraw a district map after candidates have already filed, and the calendar breaks: some Alabama voters had to nominate candidates twice in one year.",
+  "key_points": [
+    "District boundaries decide who is even eligible to run in a race — so a mid-cycle redraw can invalidate an already-scheduled primary.",
+    "NPR reports Alabama redrew its congressional maps in May 2026, pushing primaries in several districts to August.",
+    "Voters in the affected districts therefore cast congressional primary ballots a second time in the same election year.",
+    "NPR reports local concern that the confusion would dampen turnout in the rescheduled contests.",
+    "The cost of late map changes is administrative, not just legal: new ballots, new deadlines, and voters unsure which race is theirs."
+  ],
+  "content_html": "\u003cp\u003eDistrict lines are usually treated as background scenery, but they are load-bearing: a map defines which voters belong to a race and which candidates may run in it. That is why changing a map late in an election cycle does not just alter the odds — it can invalidate the schedule itself. NPR's Debbie Elliott reports that after Alabama redrew its congressional maps in May 2026, primaries in several districts had to be pushed to August, sending voters in those districts back to the polls to nominate congressional candidates a second time in the same year.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe interesting part is administrative rather than legal. Once boundaries move, election officials must rebuild the contest from the ground up: new candidate lists, new ballots, new deadlines, and a fresh round of telling voters which district they now live in. NPR reports local concern that the resulting confusion would depress turnout in the rescheduled races — a plausible worry whenever an unscheduled election lands in the middle of an ordinary calendar year. The general lesson travels beyond Alabama and beyond the United States: wherever courts or legislatures can revise electoral boundaries mid-cycle, the timing of that revision is itself a consequential decision. A map changed early is a policy dispute; a map changed late is also a logistics problem, and logistics problems in elections tend to be paid for in turnout.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Debbie Elliott"
+    ],
+    "url": "https://npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
+    "published_at": "2026-08-11",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "how-government-works"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_15c8cc",
+      "slug": "electoral-districts-and-gerrymandering",
+      "type": "concept",
+      "title": "Districts \u0026 Gerrymandering",
+      "hook": "Where you draw the lines on a map can decide an election before a single vote is cast — which is exactly what gerrymandering exploits.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fa0ec9",
+      "slug": "who-sets-the-primary-calendar",
+      "type": "news",
+      "title": "Who Decides Which State Votes First?",
+      "hook": "The order states vote in a presidential nominating contest isn't set by any constitution — it's a party rule, and parties rewrite it to change whose voters get courted first.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_605440",
+      "slug": "purcell-principle-and-timing",
+      "type": "news",
+      "title": "The Calendar as a Legal Strategy",
+      "hook": "Courts avoid changing election rules close to voting day. That gives a litigant a strange incentive: argue the other side sued too early, and the clock does the rest.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-04"
+    },
+    {
+      "id": "card_ee55cb",
+      "slug": "voter-turnout-and-engagement",
+      "type": "concept",
+      "title": "Voter Turnout \u0026 Engagement",
+      "hook": "Who shows up changes who wins. Turnout — the share of eligible people who actually vote — is one of the quiet forces shaping every election.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_15c8cc",
+      "slug": "electoral-districts-and-gerrymandering",
+      "type": "concept",
+      "title": "Districts \u0026 Gerrymandering",
+      "hook": "Where you draw the lines on a map can decide an election before a single vote is cast — which is exactly what gerrymandering exploits.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_37a194#0",
+      "format": "flip",
+      "prompt": "Why can redrawing a district map force a primary to be re-run?",
+      "back_html": "\u003cp\u003eBoundaries determine which voters and candidates belong to a race. Change\nthem after a primary is scheduled and the earlier contest no longer\nmatches the district that will actually elect someone.\u003c/p\u003e"
+    },
+    {
+      "id": "card_37a194#1",
+      "format": "quiz",
+      "prompt": "According to NPR, what was the main worry about Alabama's rescheduled August primaries?",
+      "choices": [
+        {
+          "text": "Confusion over the second round of voting would dampen turnout",
+          "correct": true
+        },
+        {
+          "text": "There were not enough candidates willing to file",
+          "correct": false
+        },
+        {
+          "text": "The state lacked the legal authority to hold a primary",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNPR reports concern that voters facing an unfamiliar second primary in the\nsame year — with new district lines — would simply not show up.\u003c/p\u003e"
+    },
+    {
+      "id": "card_37a194#2",
+      "format": "quiz",
+      "prompt": "What kind of cost do late map changes impose beyond litigation?",
+      "choices": [
+        {
+          "text": "Administrative cost — reprinting ballots, resetting deadlines, re-informing voters",
+          "correct": true
+        },
+        {
+          "text": "None; election administration is unaffected by boundary changes",
+          "correct": false
+        },
+        {
+          "text": "They automatically extend the term of sitting legislators",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eElection officials have to rebuild the mechanics of the contest, and voters\nhave to relearn which district and which race is theirs.\u003c/p\u003e"
+    }
+  ]
+}

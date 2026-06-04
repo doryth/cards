@@ -1,0 +1,94 @@
+{
+  "id": "card_5e3470",
+  "slug": "neptune-moons-from-shattered-worlds",
+  "type": "news",
+  "title": "Neptune's Little Moons Are Wreckage",
+  "hook": "JWST found clay minerals on Neptune's inner moons — the kind that only form with liquid water. The catch: those moons have no water ice of their own.",
+  "key_points": [
+    "JWST detected clay-like minerals on the moons Larissa and Galatea and in Neptune's rings.",
+    "Clays form when rock reacts with liquid water, so they point to a wet interior somewhere in the moons' history.",
+    "Yet the moons themselves show no obvious surface water ice — the clays look inherited, not homegrown.",
+    "The likely source is the deep interior of much larger icy moons that were destroyed long ago.",
+    "The suspected culprit is Triton's capture, which would have wrecked Neptune's original satellite system."
+  ],
+  "content_html": "\u003cp\u003eNeptune's small inner moons look unremarkable — dark, irregular lumps close to the\nplanet. JWST has now found something on them that does not belong: clay-like minerals\non Larissa and Galatea, and in Neptune's rings.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eClays are a chemical fingerprint of water. They form when rock sits in contact with\nliquid water long enough to react, which is why they show up on bodies with warm, wet\ninteriors. But these moons show no obvious water ice at all. The material looks\ninherited rather than made in place — dredged from deep inside something much bigger.\u003c/p\u003e\n\u003cp\u003eThe story that fits is destruction. Neptune's giant moon Triton orbits backwards,\nwhich marks it as a captured object rather than one that formed alongside the planet,\nand capturing a body that large would have wrecked whatever satellite system Neptune\nalready had. On this reading, today's little inner moons and the rings are rubble from\nlarger icy worlds torn apart in that upheaval, carrying the chemistry of their\ninteriors as evidence. See ScienceDaily's report for the observation details.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260813045545.htm",
+    "published_at": "2026-08-14",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "gravity-orbits"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_a1dd7d",
+      "slug": "shattered-asteroid-bombarded-earth",
+      "type": "news",
+      "title": "A Shattered Asteroid May Have Bombarded Earth 800 Million Years Ago",
+      "hook": "One asteroid shattering near a gravitational 'gateway' carved out by Jupiter may explain a wave of impact craters across the inner solar system — and a climate shakeup on Earth.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "card_fb760c",
+      "slug": "jupiter-magnetic-cavity-moons",
+      "type": "news",
+      "title": "The Magnetic Bubble That Saved Jupiter's Moons",
+      "hook": "Jupiter has four giant moons. Saturn has essentially one. New simulations pin the difference on a magnetic bubble that kept young Jupiter's moons from spiraling to their deaths.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "card_0c4530",
+      "slug": "planet-nine",
+      "type": "news",
+      "title": "The Hunt for Planet Nine Gets Stranger",
+      "hook": "A hidden giant planet far past Neptune would explain the odd orbits of distant icy worlds. New observations show those orbits behaving more normally than expected — deepening the mystery.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5e3470#0",
+      "format": "flip",
+      "prompt": "Why is finding clay minerals on a small airless moon surprising?",
+      "back_html": "\u003cp\u003eClays form when rock reacts with \u003cstrong\u003eliquid water\u003c/strong\u003e. A small moon with no water\nice on its surface has no way to make them itself — so the material was most\nlikely inherited from a larger body that did.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5e3470#1",
+      "format": "quiz",
+      "prompt": "What event is thought to have shattered Neptune's original moons?",
+      "choices": [
+        {
+          "text": "The capture of Triton, which disrupted the existing satellite system",
+          "correct": true
+        },
+        {
+          "text": "A close pass by Pluto early in the solar system's history",
+          "correct": false
+        },
+        {
+          "text": "Neptune's migration causing its moons to spiral into the planet",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTriton orbits backwards, a signature of capture rather than formation in place.\nCapturing such a large body would have wreaked havoc on whatever moons were\nalready there, and the debris could have reassembled into today's small inner\nmoons.\u003c/p\u003e"
+    }
+  ]
+}

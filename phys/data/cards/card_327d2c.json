@@ -1,0 +1,110 @@
+{
+  "id": "card_327d2c",
+  "slug": "silicon-spin-qubit-five-nines",
+  "type": "paper",
+  "title": "A Silicon Qubit Gate That Misfires Once in a Million Tries",
+  "hook": "Spin qubits in silicon just crossed 99.999% single-gate fidelity — and getting there meant discovering that some of the field's benchmark numbers were partly artefacts.",
+  "key_points": [
+    "A spin qubit stores information in the spin of a single electron in a silicon device, and is driven with microwaves.",
+    "The relevant coherence metric under microwave driving is the spin-locking time T1rho, less studied than the free-evolution time T2*.",
+    "Removing nearby electron reservoirs from the device markedly lengthened T1rho, the key to the improvement.",
+    "The team also found that rectangular microwave pulses off-resonantly excite neighbouring qubits, creating substantial benchmarking artefacts under parity readout.",
+    "With spectrally tailored pulse shapes and cleaner device conditions they measured a pi/2 gate fidelity of 99.99920(2)%.",
+    "The remaining error is dominated by incoherent noise rather than control imperfection."
+  ],
+  "content_html": "\u003cp\u003eQuantum computers need gates that almost never go wrong, because errors compound across a circuit. Spin qubits — single electron spins in silicon devices, appealing because they are small and made with semiconductor techniques — had already reached high single-gate fidelities, but not consistently, and the reason was murky. Most coherence work focuses on T2*, the time a spin stays coherent while left alone. Gates, though, happen while microwaves are hammering the spin.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eKenta Takeda and colleagues went after that driven regime and reached single-qubit gate fidelities above 99.999%. Two things got them there. First, the device: they show that electron reservoirs sitting close to the qubit degrade the spin-locking coherence time T1rho, the metric that actually governs a driven gate, and that removing those reservoirs extends it substantially. Second, the measurement itself. In typical setups using parity readout and plain rectangular microwave pulses, the drive off-resonantly excites neighbouring qubits — which means part of what the field has been reporting as fidelity is a benchmarking artefact. With spectrally tailored pulse shaping to suppress that leakage, they measure a pi/2 gate fidelity of 99.99920(2)%, with the residual error dominated by incoherent noise rather than imperfect control. The paper reads as much as a set of practical guidelines — how to reach these fidelities and, just as importantly, how to verify them honestly — as a record.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Kenta Takeda",
+      "Akito Noiri",
+      "Takashi Nakajima",
+      "Leon C. Camenzind",
+      "Takashi Kobayashi",
+      "Giordano Scappucci",
+      "Seigo Tarucha"
+    ],
+    "url": "https://arxiv.org/abs/2608.11072",
+    "published_at": "2026-08-11",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_869b2e",
+      "slug": "quantum-computers-colder-not-always-better",
+      "type": "paper",
+      "title": "For Quantum Computers, Colder Isn't Always Better",
+      "hook": "The instinct is to chase ever-lower temperatures for quantum chips. A new study of real silicon qubits finds a 'sweet spot' instead, since cooling itself has a cost.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_028872",
+      "slug": "coulomb-blockade-qubit-decoherence",
+      "type": "paper",
+      "title": "The Tiny Metal Islands Quietly Breaking Quantum Computers",
+      "hook": "Quantum computers lose their fragile quantum states partly due to a decoherence source nobody had pinned down: stray metal islands from chip manufacturing acting like microscopic traffic jams.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_327d2c#0",
+      "format": "flip",
+      "prompt": "Why is T1rho the coherence time that matters for a driven spin qubit?",
+      "back_html": "\u003cp\u003eBecause gates are performed \u003cstrong\u003ewhile microwaves are driving the spin\u003c/strong\u003e. T1rho is the\nspin-locking coherence under that drive; T2* describes free evolution instead.\u003c/p\u003e"
+    },
+    {
+      "id": "card_327d2c#1",
+      "format": "quiz",
+      "prompt": "What device change gave the largest coherence gain?",
+      "choices": [
+        {
+          "text": "Removing electron reservoirs sitting close to the qubit",
+          "correct": true
+        },
+        {
+          "text": "Cooling the device by a further order of magnitude in temperature",
+          "correct": false
+        },
+        {
+          "text": "Replacing silicon with a germanium quantum well",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProximal reservoirs were degrading the spin-locking time T1rho; taking them away\nextended it dramatically and enabled the higher fidelity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_327d2c#2",
+      "format": "flip",
+      "prompt": "What benchmarking artefact did the team uncover?",
+      "back_html": "\u003cp\u003eRectangular microwave pulses \u003cstrong\u003eoff-resonantly excite neighbouring qubits\u003c/strong\u003e, which\nunder parity readout distorts measured fidelities. Spectrally tailored pulses fix it.\u003c/p\u003e"
+    }
+  ]
+}

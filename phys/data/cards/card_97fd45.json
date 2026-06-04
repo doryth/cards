@@ -1,0 +1,111 @@
+{
+  "id": "card_97fd45",
+  "slug": "first-extragalactic-star-stream",
+  "type": "paper",
+  "title": "The First Star Stream Spotted Outside Our Galaxy",
+  "hook": "A star cluster being torn apart leaves a long thin trail — and how that trail bends reveals the invisible dark matter around it. Until now, we'd only ever seen one in the Milky Way.",
+  "key_points": [
+    "Hubble imaging reveals what appears to be the first globular cluster stellar stream beyond the Milky Way.",
+    "Streams form when a galaxy's tides strip stars off an orbiting cluster into long leading and trailing arms.",
+    "Those arms persist for billions of years and are exquisitely sensitive to the host's dark matter halo.",
+    "The host is UGC9050-Dw1, an ultra-diffuse galaxy — a class whose dark matter content is hotly debated.",
+    "Fitting dynamical models to the stream's shape gives the first stream-based halo constraint for such a galaxy.",
+    "The models point to a globular cluster progenitor and a massive dark matter halo."
+  ],
+  "content_html": "\u003cp\u003eWhen a globular cluster orbits a galaxy, the galaxy's tides peel stars off it, stretching them into a long thin ribbon — a stellar stream — that survives for billions of years. Because that ribbon traces the gravity it fell through, streams are among the sharpest tools we have for weighing a galaxy's invisible dark matter. The problem: we'd only ever seen globular cluster streams in the Milky Way. Julie Kiel Holm, Sarah Pearson and colleagues now report evidence for the first one beyond it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe stream turned up in deep Hubble Space Telescope imaging of UGC9050-Dw1, an ultra-diffuse galaxy — the faint, puffy class whose dark matter content has been argued over for years. The authors report that the stream's morphology, colour and apparent association with a compact source all support a globular cluster progenitor, and that simulated cluster stellar populations reproduce the observed surface brightness. Using generative stream modelling — fitting dynamical models directly to the stream's shape — they constrain the progenitor's mass and derive what they describe as the first stream-based halo constraint for an ultra-diffuse galaxy. Their models suggest a massive dark matter host halo. If it holds up, the real news is methodological: a dark matter measurement technique that had been confined to our own galaxy now reaches others.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Julie Kiel Holm",
+      "Sarah Pearson",
+      "Jacob Nibauer",
+      "David J. Sand",
+      "Adrian M. Price-Whelan",
+      "Tjitske Starkenburg",
+      "David Hendel",
+      "Catherine Fielder"
+    ],
+    "url": "https://arxiv.org/abs/2608.12254",
+    "published_at": "2026-08-12",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b3f9f3",
+      "slug": "supermagnified-stars-dark-matter-clumps",
+      "type": "paper",
+      "title": "A Single Star, Magnified a Thousandfold, Maps Invisible Dark Matter",
+      "hook": "Gravity can magnify one ordinary star a thousandfold — and the flicker pattern as it drifts behind a galaxy cluster's lens encodes clues about dark matter clumps invisible any other way.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_97fd45#0",
+      "format": "flip",
+      "prompt": "How does a stellar stream form?",
+      "back_html": "\u003cp\u003eA host galaxy's tides \u003cstrong\u003estrip stars off an orbiting cluster\u003c/strong\u003e, drawing them into long, thin\nleading and trailing arms that survive for billions of years.\u003c/p\u003e"
+    },
+    {
+      "id": "card_97fd45#1",
+      "format": "quiz",
+      "prompt": "Why are globular cluster streams such useful dark matter probes?",
+      "choices": [
+        {
+          "text": "Their thin, long-lived shape records the gravitational field — including invisible halo mass — they moved through",
+          "correct": true
+        },
+        {
+          "text": "They emit a distinctive dark matter spectral line",
+          "correct": false
+        },
+        {
+          "text": "They only form in galaxies with no dark matter at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe stream is a narrow tracer of the host's gravity. Fitting dynamical models directly to its\nmorphology constrains the halo mass — which is what the authors do here.\u003c/p\u003e"
+    },
+    {
+      "id": "card_97fd45#2",
+      "format": "flip",
+      "prompt": "What made this detection a first?",
+      "back_html": "\u003cp\u003eGlobular cluster streams had only ever been observed \u003cstrong\u003ein the Milky Way\u003c/strong\u003e. This one sits in\nUGC9050-Dw1, an ultra-diffuse galaxy, extending the technique to other galaxies.\u003c/p\u003e"
+    }
+  ]
+}

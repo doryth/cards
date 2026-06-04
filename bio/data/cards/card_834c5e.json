@@ -1,0 +1,109 @@
+{
+  "id": "card_834c5e",
+  "slug": "cloning",
+  "type": "concept",
+  "title": "Cloning and Dolly the Sheep",
+  "hook": "A clone is a genetic copy — and in 1996, Dolly the sheep proved a whole mammal could be made from a single adult body cell.",
+  "key_points": [
+    "A clone is an organism genetically identical to another — a living copy.",
+    "Cloning happens naturally too: identical twins are natural clones.",
+    "Dolly the sheep (1996) was the first mammal cloned from an adult cell.",
+    "It was done by placing a body-cell nucleus into an egg with its own removed."
+  ],
+  "content_html": "\u003cp\u003eA clone is simply a genetic copy — an organism carrying the same DNA as another. Cloning isn't only a laboratory feat: identical twins are natural clones, and many plants clone themselves through cuttings and runners. What captured the world's attention was cloning a whole mammal deliberately, from a single adult cell.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat breakthrough was Dolly the sheep, born in Scotland in 1996. As the NIH's National Human Genome Research Institute recounts, scientists used a method called \u003cstrong\u003esomatic cell nuclear transfer\u003c/strong\u003e: they took the nucleus — the DNA-containing core — from an adult sheep's body cell and inserted it into an egg cell whose own nucleus had been removed. The egg, now carrying the adult's complete genetic blueprint, was prompted to develop into an embryo and grew into Dolly. The achievement reshaped biology, showing a specialized adult cell could be \u0026quot;reset\u0026quot; to build a whole organism, and it sparked lasting debates about the ethics of cloning.\u003c/p\u003e",
+  "source": {
+    "name": "NIH National Human Genome Research Institute",
+    "url": "https://www.genome.gov/about-genomics/fact-sheets/Cloning-Fact-Sheet",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "biotechnology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_f0fbb5",
+      "slug": "stem-cells",
+      "type": "concept",
+      "title": "Stem Cells: The Body's Blank Slates",
+      "hook": "Some cells haven't decided what to be yet — they can become muscle, nerve, or blood, and that flexibility makes them a frontier of medicine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cb9097",
+      "slug": "gmos-and-genetic-engineering",
+      "type": "concept",
+      "title": "GMOs and Genetic Engineering",
+      "hook": "By deliberately rewriting an organism's DNA, scientists can make bacteria brew human insulin or crops resist pests — traits nature never handed them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_834c5e#0",
+      "format": "flip",
+      "prompt": "What is a clone?",
+      "back_html": "\u003cp\u003eAn organism that is \u003cstrong\u003egenetically identical\u003c/strong\u003e to another — a copy carrying the\nsame DNA. Identical twins are a natural example.\u003c/p\u003e"
+    },
+    {
+      "id": "card_834c5e#1",
+      "format": "quiz",
+      "prompt": "Why was Dolly the sheep a scientific milestone?",
+      "choices": [
+        {
+          "text": "She was the first mammal cloned from an adult body cell",
+          "correct": true
+        },
+        {
+          "text": "She was the first animal ever born from an egg",
+          "correct": false
+        },
+        {
+          "text": "She was the first sheep with edited DNA",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBorn in 1996, Dolly proved that the DNA in a specialized adult cell could be\nreprogrammed to grow an entire new mammal — something thought impossible.\u003c/p\u003e"
+    },
+    {
+      "id": "card_834c5e#2",
+      "format": "quiz",
+      "prompt": "How was Dolly created?",
+      "choices": [
+        {
+          "text": "An adult cell's nucleus was placed into an egg whose own nucleus was removed",
+          "correct": true
+        },
+        {
+          "text": "Two sheep embryos were glued together",
+          "correct": false
+        },
+        {
+          "text": "Her DNA was printed by a machine from scratch",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThis technique is called \u003cstrong\u003esomatic cell nuclear transfer\u003c/strong\u003e: the genetic material\nfrom a body cell takes over an emptied egg, which then develops into a copy.\u003c/p\u003e"
+    }
+  ]
+}

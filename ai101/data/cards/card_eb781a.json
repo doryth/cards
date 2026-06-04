@@ -1,0 +1,91 @@
+{
+  "id": "card_eb781a",
+  "slug": "ai-in-healthcare",
+  "type": "concept",
+  "title": "AI in Healthcare",
+  "hook": "AI can spot a tumor on a scan faster than a tired radiologist and flag patterns no one would catch by eye. It's a powerful assistant to doctors — not a replacement for one.",
+  "key_points": [
+    "AI helps read scans, flag risks, and sift research — often faster than humans alone.",
+    "It assists clinicians; a qualified human still makes and owns the diagnosis.",
+    "It can be biased or wrong, so medical AI is tested and regulated carefully.",
+    "Never self-diagnose with a chatbot — it isn't a doctor and doesn't know you."
+  ],
+  "content_html": "\u003cp\u003eHealthcare is one of the most promising places for AI, and some of it is already quietly at work. Trained on huge numbers of medical images, AI systems can help spot tumors, fractures, or signs of disease on scans — sometimes catching subtle patterns a human might miss, and triaging urgent cases faster. Others sift mountains of research, flag patients at risk, or help manage the paperwork that buries clinicians. Used well, these tools extend what doctors can do.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe crucial word is \u003cem\u003eassist\u003c/em\u003e. In responsible medical use, AI augments a clinician who reviews its output and remains accountable for the decision — it doesn't diagnose patients on its own. There are good reasons for that caution: medical AI can inherit bias from its training data (performing worse for under-represented groups), can be confidently wrong, and operates where mistakes are dangerous. That's why these systems are tested and regulated far more strictly than a consumer chatbot. Which points to the most important takeaway for everyday life: a general-purpose chatbot is \u003cstrong\u003enot\u003c/strong\u003e a doctor. It doesn't know your history, isn't built or approved for diagnosis, and can invent symptoms or treatments that sound authoritative. It's fine for understanding a condition or preparing questions for an appointment — but the diagnosis, and the decisions, belong to a qualified human who can actually examine you.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Artificial intelligence in healthcare",
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "ai-healthcare"
+  ],
+  "tags": [
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_58c33d",
+      "slug": "ai-bias",
+      "type": "concept",
+      "title": "Bias \u0026 Fairness",
+      "hook": "AI learns from data made by people, so it inherits our patterns — including the unfair ones. A model trained on a biased past will confidently recommend a biased future.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_eb781a#0",
+      "format": "quiz",
+      "prompt": "What's the role of AI in medical diagnosis today?",
+      "choices": [
+        {
+          "text": "An assistant that helps clinicians, who still make and own the decision",
+          "correct": true
+        },
+        {
+          "text": "A replacement that diagnoses patients on its own",
+          "correct": false
+        },
+        {
+          "text": "A toy with no real medical use",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMedical AI augments doctors — spotting patterns, prioritizing cases — but a\nqualified human reviews and is accountable for the actual diagnosis.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eb781a#1",
+      "format": "flip",
+      "prompt": "Why shouldn't you rely on a general chatbot to diagnose yourself?",
+      "back_html": "\u003cp\u003eIt isn't a doctor, doesn't know your history, can be confidently wrong, and\nisn't regulated for medical use. Use it for questions, not for diagnosis.\u003c/p\u003e"
+    }
+  ]
+}

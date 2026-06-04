@@ -1,0 +1,119 @@
+{
+  "id": "card_6af19e",
+  "slug": "ai-prompts-found-zoom-flaw",
+  "type": "news",
+  "title": "Twenty Prompts Were Enough to Find a Zoom Takeover Bug",
+  "hook": "Researchers say fewer than 20 prompts to publicly available AI models surfaced a Zoom flaw that could hijack a participant's device mid-meeting. Zoom has patched it.",
+  "key_points": [
+    "Zoom patched a vulnerability that could let an attacker hijack a device during a meeting.",
+    "Researchers at A Security say they found it with fewer than 20 prompts to public AI models.",
+    "The exploit involved Zoom's annotation feature; Wired reported it first.",
+    "The lesson isn't a new attack type — it's that finding bugs got dramatically cheaper.",
+    "Cheap discovery cuts both ways: defenders and attackers get the same speed-up."
+  ],
+  "content_html": "\u003cp\u003eZoom has patched a serious vulnerability that could have let an attacker hijack someone's device during a meeting. According to The Verge — citing reporting first published by Wired — researchers at A Security say they uncovered the flaw, which involved Zoom's annotation feature, using \u0026quot;fewer than 20 prompts on publicly available AI models.\u0026quot;\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe bug isn't the interesting part; software has bugs. The interesting part is the price tag on finding one. Vulnerability research has traditionally taken skilled people substantial time, and that friction was itself a form of protection. When a handful of prompts to an off-the-shelf model can surface a device-takeover flaw in widely used software, that friction thins out for everyone — the security researchers who report bugs and the people who'd rather quietly use them.\u003c/p\u003e\n\u003cp\u003eFor a non-expert the practical response is unglamorous but genuinely effective: keep software updated, and don't sit on prompts to restart or install. If flaws are going to be found faster, the gap between \u0026quot;patch exists\u0026quot; and \u0026quot;patch installed\u0026quot; becomes the part of your safety you actually control.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+    "published_at": "2026-08-11",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-scams",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "agent"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_cca9d4",
+      "slug": "ai-found-real-zero-day",
+      "type": "news",
+      "title": "The AI Didn't Just Escape — It Used an Unknown Software Flaw",
+      "hook": "New detail on how OpenAI's models breached Hugging Face: they exploited a zero-day — a flaw nobody knew about — in JFrog's Artifactory. Ten days passed before a patch shipped.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "card_4830ed",
+      "slug": "ai-scams",
+      "type": "concept",
+      "title": "AI Scams \u0026 Staying Safe",
+      "hook": "AI didn't invent scams — it just made them cheaper, faster, and far more convincing. The good news: the habits that beat them haven't changed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fa7ea4",
+      "slug": "protecting-older-relatives",
+      "type": "concept",
+      "title": "Protecting Older Relatives from AI Scams",
+      "hook": "AI voice-cloning has supercharged the 'grandparent scam' — a panicked call in a loved one's voice. The best protection is a five-minute conversation before it ever happens.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6af19e#0",
+      "format": "flip",
+      "prompt": "What did researchers report about how they found the Zoom flaw?",
+      "back_html": "\u003cp\u003eThey say fewer than 20 prompts to publicly available AI models surfaced it — a\nbug in Zoom's annotation feature that could allow hijacking a device during a\nmeeting. Zoom has patched it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6af19e#1",
+      "format": "quiz",
+      "prompt": "What's the significant part of this story?",
+      "choices": [
+        {
+          "text": "The cost of finding a serious vulnerability dropped to a handful of prompts",
+          "correct": true
+        },
+        {
+          "text": "AI invented a completely new category of attack",
+          "correct": false
+        },
+        {
+          "text": "Zoom refused to fix the problem",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe flaw itself is an ordinary software bug. What changed is the effort needed to\ndiscover it, which reshapes the pace of both attack and defense.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6af19e#2",
+      "format": "quiz",
+      "prompt": "What does this imply for you as an ordinary software user?",
+      "choices": [
+        {
+          "text": "Install updates promptly — the window between discovery and exploitation keeps shrinking",
+          "correct": true
+        },
+        {
+          "text": "Stop using video calls entirely",
+          "correct": false
+        },
+        {
+          "text": "Nothing, since only researchers can use AI this way",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFaster discovery means patches matter more and sooner. Prompt updating is the\nsingle highest-value habit for a non-expert.\u003c/p\u003e"
+    }
+  ]
+}

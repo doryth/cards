@@ -1,0 +1,99 @@
+{
+  "id": "card_14dba3",
+  "slug": "cell-membrane-and-transport",
+  "type": "concept",
+  "title": "The Cell Membrane: Gatekeeper of the Cell",
+  "hook": "A flexible, oily film just two molecules thick decides what enters and leaves every cell — and it pulls off some of that traffic for free.",
+  "key_points": [
+    "The cell membrane is a phospholipid bilayer that surrounds the cell.",
+    "It's selectively permeable: some things cross freely, others are blocked or pumped.",
+    "Diffusion and osmosis move substances down their concentration gradient, no energy needed.",
+    "Active transport moves substances against the gradient and costs energy (ATP)."
+  ],
+  "content_html": "\u003cp\u003eEvery cell is wrapped in a membrane made of two layers of fat-like molecules called phospholipids. This thin film is selectively permeable: it lets some things through freely while keeping others out, acting as the cell's gatekeeper. Some traffic happens for free; other movement the cell has to pay for with energy.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSmall, uncharged molecules like oxygen and carbon dioxide drift across the membrane by \u003cstrong\u003ediffusion\u003c/strong\u003e, moving from where they're crowded to where they're sparse — down the concentration gradient — without the cell spending anything. \u003cstrong\u003eOsmosis\u003c/strong\u003e is the same idea for water, which flows toward the side with more dissolved material. But cells often need to move things the wrong way, against the gradient. That's \u003cstrong\u003eactive transport\u003c/strong\u003e, which uses protein pumps embedded in the membrane and burns energy in the form of ATP. As Encyclopaedia Britannica explains, this combination of free passive movement and powered active transport lets a cell hold a stable internal environment very different from its surroundings.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/cell-membrane",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "the-cell"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d14f9d",
+      "slug": "what-is-a-cell",
+      "type": "concept",
+      "title": "What Is a Cell?",
+      "hook": "Every living thing — from a bacterium to a blue whale — is built from cells, the smallest unit that can call itself alive.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_574828",
+      "slug": "cell-organelles",
+      "type": "concept",
+      "title": "The Cell's Tiny Organs",
+      "hook": "Inside a single cell sits a whole working city — a control room, power plants, factories, and shipping lanes, each a structure called an organelle.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_14dba3#0",
+      "format": "flip",
+      "prompt": "What does it mean that the cell membrane is 'selectively permeable'?",
+      "back_html": "\u003cp\u003eIt lets some substances cross while blocking or controlling others. Small,\nuncharged molecules slip through easily; larger or charged ones need help.\u003c/p\u003e"
+    },
+    {
+      "id": "card_14dba3#1",
+      "format": "quiz",
+      "prompt": "Osmosis is the movement of which substance across a membrane?",
+      "choices": [
+        {
+          "text": "Water, toward the side with more dissolved stuff",
+          "correct": true
+        },
+        {
+          "text": "Proteins, pumped out of the cell",
+          "correct": false
+        },
+        {
+          "text": "Oxygen, always into the cell",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u003cstrong\u003eOsmosis\u003c/strong\u003e is the diffusion of water across a membrane, moving toward the side\nwith a higher concentration of dissolved solutes until the two sides balance.\u003c/p\u003e"
+    },
+    {
+      "id": "card_14dba3#2",
+      "format": "quiz",
+      "prompt": "What makes active transport different from diffusion?",
+      "choices": [
+        {
+          "text": "It moves substances against the gradient and uses energy",
+          "correct": true
+        },
+        {
+          "text": "It only works on water",
+          "correct": false
+        },
+        {
+          "text": "It happens without any membrane proteins",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u003cstrong\u003eActive transport\u003c/strong\u003e pushes molecules from low to high concentration — uphill —\nso the cell must spend energy (ATP) and use protein pumps to do it.\u003c/p\u003e"
+    }
+  ]
+}

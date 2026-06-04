@@ -1,0 +1,117 @@
+{
+  "id": "card_db4d4c",
+  "slug": "atom-interferometer-at-cern",
+  "type": "paper",
+  "title": "CERN Wants to Drop Atoms Down a Shaft",
+  "hook": "A 100-metre vertical atom interferometer in an LHC access shaft would hunt ultralight dark matter in a mass range nothing else can reach — and listen for gravitational waves below LIGO's floor.",
+  "key_points": [
+    "AICE is a proposed ~100 m vertical atom interferometer in the PX46 access shaft at CERN.",
+    "Primary goal: search for bosonic ultralight dark matter in a mass range inaccessible to other experiments.",
+    "Secondary goal: pioneer gravitational-wave detection at 0.03–3 Hz, below the band ground-based detectors cover.",
+    "It works by interfering ultracold strontium-87 atoms in a multi-source gradiometer; swapping isotopes changes what it is sensitive to.",
+    "The proposal reports no technical showstoppers and 57 institutions across 22 countries behind it."
+  ],
+  "content_html": "\u003cp\u003eAtom interferometry does to matter what a laser interferometer does to light: split a cloud of ultracold atoms into two quantum paths, let them fall, and recombine them. The interference pattern records anything that nudged the two paths differently — including, potentially, a passing dark-matter field or a gravitational wave. Make the baseline longer and the sensitivity grows, which is why CERN is eyeing a very deep hole.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe AICE technical proposal describes a roughly 100-metre vertical interferometer installed against the wall of PX46, an access shaft to the LHC. Three atom sources along the shaft form a gradiometer, with a fourth at the surface for laser stabilisation. Ultracold strontium-87 in a single-photon 698 nm interferometer targets scalar ultralight dark matter; running strontium-88 instead opens up axion-like particles, vector dark matter with B−L couplings, and tests of the equivalence principle, with a ytterbium-171 upgrade to follow. The secondary science case is gravitational waves at 0.03–3 Hz, below what ground-based detectors reach, as a pathfinder for longer baselines. The collaboration — 57 institutions in 22 countries, building on the VLBAI, MAGIS and AION-10 efforts — reports that PX46 is implementation-ready with no technical showstoppers, and that site preparation during the next long shutdown would let AICE run without disturbing the HL-LHC.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Gianluigi Arduini",
+      "Oliver Buchmueller",
+      "Albert De Roeck",
+      "John Ellis",
+      "and the AICE Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2608.18743",
+    "published_at": "2026-08-19",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_0f51ff",
+      "slug": "quantum-sensor-hunts-dark-matter",
+      "type": "news",
+      "title": "A Quantum Sensor Built to Catch Dark Matter and Ancient Gravitational Waves",
+      "hook": "Two clouds of ultracold atoms, compared against each other, cancel out noise so well that a signal buried in one measurement reappears — aimed at dark matter and ancient gravitational waves.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_2512e3",
+      "slug": "first-directional-dark-matter-limits",
+      "type": "paper",
+      "title": "A Dark Matter Detector That Asks Which Way the Hit Came From",
+      "hook": "Neutrons and dark matter can leave identical-looking recoils. MIMAC's answer: reconstruct the direction of each recoil and check whether it points where dark matter should come from.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-26"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_db4d4c#0",
+      "format": "flip",
+      "prompt": "What is AICE's primary scientific target?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eBosonic ultralight dark matter\u003c/strong\u003e — in a mass range that other experiments cannot\nreach. Gravitational waves at 0.03–3 Hz are the secondary goal.\u003c/p\u003e"
+    },
+    {
+      "id": "card_db4d4c#1",
+      "format": "quiz",
+      "prompt": "Why is the 0.03–3 Hz gravitational-wave band interesting for a new detector?",
+      "choices": [
+        {
+          "text": "It sits below the band ground-based detectors like LIGO cover",
+          "correct": true
+        },
+        {
+          "text": "It is where the loudest black-hole mergers happen",
+          "correct": false
+        },
+        {
+          "text": "It is the only band where general relativity can be tested",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAICE is framed as a pathfinder for longer-baseline detectors in this low-frequency\nrange, which existing ground-based interferometers do not reach.\u003c/p\u003e"
+    },
+    {
+      "id": "card_db4d4c#2",
+      "format": "flip",
+      "prompt": "How does changing the atomic species change what AICE can look for?",
+      "back_html": "\u003cp\u003eThe baseline uses ultracold \u003cstrong\u003estrontium-87\u003c/strong\u003e for scalar ultralight dark matter.\n\u003cstrong\u003eStrontium-88\u003c/strong\u003e adds sensitivity to axion-like particles, vector dark matter with B−L\ncouplings, and equivalence-principle violation; a \u003cstrong\u003eytterbium-171\u003c/strong\u003e upgrade sharpens those.\u003c/p\u003e"
+    }
+  ]
+}

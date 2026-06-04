@@ -1,0 +1,99 @@
+{
+  "id": "card_669908",
+  "slug": "gemini-transcribe-85-languages",
+  "type": "news",
+  "title": "Transcription That Knows Your Jargon and Deletes Your 'Ums'",
+  "hook": "Google's new Gemini 3.5 Transcribe handles more than 85 languages, picks up specialized vocabulary on its own, and quietly cleans the filler words out of what you said.",
+  "key_points": [
+    "Gemini 3.5 Transcribe covers more than 85 languages and auto-detects specialized jargon, per The Verge.",
+    "It strips filler like 'um' and 'ah', producing text that reads cleaner than the audio sounded.",
+    "The same model powers Gboard's Rambler feature and is rolling into more Google products, including Chrome.",
+    "Accurate jargon handling is what made older dictation tools useless for medicine, law, and engineering.",
+    "A tidied transcript is an edited transcript — fine for notes, riskier as a record of what someone said."
+  ],
+  "content_html": "\u003cp\u003eGoogle has added a transcription model to the Gemini family: Gemini 3.5 Transcribe. Per The Verge, it covers more than 85 languages, automatically recognizes specialized jargon without being told the domain in advance, and tidies your speech as it goes — the \u0026quot;ums\u0026quot; and \u0026quot;ahs\u0026quot; don't make it into the text. Ars Technica notes it's the same technology behind Gboard's Rambler dictation, now spreading into more Google products including Chrome.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe jargon part is the genuinely useful advance. Anyone who has tried to dictate a medical note, a legal clause, or a list of part numbers into older software knows the failure mode: the everyday words come out fine and every term you actually needed comes out mangled. A model that picks up domain vocabulary on its own is the difference between a transcript you edit for ten minutes and one you throw away. Alongside 3.5 Live Translate, it also points at where this is heading — audio as a first-class input, not a novelty feature.\u003c/p\u003e\n\u003cp\u003eOne small habit worth keeping. A transcript that deletes filler is an \u003cem\u003eedited\u003c/em\u003e transcript. For meeting notes or a first draft, that's a gift. For anything where the record matters — an interview, a dispute about what was promised, a source quote — remember that the polish is the model's, not the speaker's, and keep the original audio.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "published_at": "2026-08-26",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "voice-ai",
+    "ai-accessibility",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "speech"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_2646c3",
+      "slug": "talking-with-your-voice",
+      "type": "concept",
+      "title": "Voice Assistants",
+      "hook": "Siri and Alexa could set a timer; the new voice AIs can hold a real conversation. Talking is becoming a normal way to use AI — handy, natural, and always a little bit listening.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_146cc4",
+      "slug": "ai-and-accessibility",
+      "type": "concept",
+      "title": "AI \u0026 Accessibility",
+      "hook": "For people with disabilities, AI is often life-changing: apps that describe the world to blind users, caption speech for deaf users, or give a synthetic voice back to someone who lost theirs.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cef5ae",
+      "slug": "breaking-language-barriers",
+      "type": "concept",
+      "title": "Breaking Language Barriers",
+      "hook": "AI translation has gone from comically bad to genuinely useful — text, speech, even live signs through your camera. Good enough to travel and connect; not yet good enough for the contract.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_669908#0",
+      "format": "quiz",
+      "prompt": "What makes automatic jargon detection a big deal for transcription?",
+      "choices": [
+        {
+          "text": "Specialized vocabulary is where older dictation tools failed hardest",
+          "correct": true
+        },
+        {
+          "text": "It lets the model transcribe faster than real time",
+          "correct": false
+        },
+        {
+          "text": "It removes the need for a microphone",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMedical, legal, and technical terms were the classic breaking point for\ndictation software. Getting them right is what makes a transcript usable at work.\u003c/p\u003e"
+    },
+    {
+      "id": "card_669908#1",
+      "format": "flip",
+      "prompt": "Why should you be a little careful with a transcript that removes filler words?",
+      "back_html": "\u003cp\u003eIt's a cleaned-up version, not a verbatim record. Great for notes and drafts;\nless appropriate where exactly what someone said, hesitations included, matters.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "card_5a0461",
+  "slug": "counting-people-counting-seats",
+  "type": "news",
+  "title": "The Census Decides How Many Seats You Get",
+  "hook": "A once-a-decade headcount sets each state's share of the House for ten years. A Florida challenge argues the count was done wrong — and shows why that is nearly impossible to fix afterward.",
+  "key_points": [
+    "The Constitution requires an 'actual Enumeration' every ten years; the result reapportions House seats among the states.",
+    "Because the total number of seats is fixed, one state's gain is another's loss.",
+    "Florida Republicans, including Rep. Byron Donalds, argue the Census Bureau's use of statistical imputation cost the state a seat.",
+    "A three-judge district court dismissed the suit for lack of standing — no showing the methods caused the undercount.",
+    "The court also called the remedy — finding and directly contacting 18.8 million people — 'exceedingly impracticable, if not impossible', and found the suit time-barred.",
+    "The appeal was docketed August 18, 2026, with the Census Bureau's response due September 17."
+  ],
+  "content_html": "\u003cp\u003eThe census sounds administrative and is anything but. The Constitution requires an \u0026quot;actual Enumeration\u0026quot; every ten years, and that count reapportions seats in the House of Representatives among the states. Because the chamber's size is fixed, apportionment is zero-sum: if one state's population is undercounted and it loses a seat, another state gains it — along with an extra electoral vote and a decade of additional influence.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSCOTUSblog's Amy Howe reports on a challenge testing what happens when a state believes the count went wrong. A group of Florida Republicans, including Rep. Byron Donalds, argue the Census Bureau failed the \u0026quot;actual Enumeration\u0026quot; requirement by using statistical imputation — inferring some residents rather than contacting them — and that the resulting undercount cost Florida a House seat. They warn that statistical adjustment \u0026quot;opens the door to political tampering.\u0026quot; A three-judge district court dismissed the case without reaching that question: the plaintiffs lacked standing, having not plausibly shown the Bureau's methods caused the undercount; the remedy they sought, tracking down and directly contacting 18.8 million people, was \u0026quot;exceedingly impracticable, if not impossible\u0026quot;; and the suit came outside the four-year limitations window. The appeal was docketed on August 18, 2026, with a Bureau response due September 17. Whatever the outcome, the procedural posture is the lesson: the practical window to contest a census closes long before its consequences do.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Amy Howe"
+    ],
+    "url": "https://scotusblog.com/2026/08/florida-republicans-bring-census-bureau-challenge-to-the-supreme-court",
+    "published_at": "2026-08-19",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "federalism-levels"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_15c8cc",
+      "slug": "electoral-districts-and-gerrymandering",
+      "type": "concept",
+      "title": "Districts \u0026 Gerrymandering",
+      "hook": "Where you draw the lines on a map can decide an election before a single vote is cast — which is exactly what gerrymandering exploits.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fd45b2",
+      "slug": "census-data-privacy",
+      "type": "concept",
+      "title": "Why Census Data Has 'Noise' Added",
+      "hook": "To stop anyone reverse-engineering your identity from public statistics, the U.S. census deliberately blurs its own numbers — a privacy-for-accuracy trade with real political stakes.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "card_07c9e3",
+      "slug": "what-is-federalism",
+      "type": "concept",
+      "title": "What Federalism Is",
+      "hook": "Some countries split authority between a national government and regional ones, each with powers the other can't simply override.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_853f06",
+      "slug": "racial-vote-dilution",
+      "type": "news",
+      "title": "Racial Vote Dilution: When District Lines Split a Community",
+      "hook": "Redrawing a map can quietly weaken a racial group's vote — split one community across enough districts and it may elect no one, even where its numbers are large.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_15c8cc",
+      "slug": "electoral-districts-and-gerrymandering",
+      "type": "concept",
+      "title": "Districts \u0026 Gerrymandering",
+      "hook": "Where you draw the lines on a map can decide an election before a single vote is cast — which is exactly what gerrymandering exploits.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_5a0461#0",
+      "format": "flip",
+      "prompt": "Why is a census a political event and not just a statistical one?",
+      "back_html": "\u003cp\u003eIt reapportions a \u003cstrong\u003efixed\u003c/strong\u003e number of House seats among the states, so\nevery miscount shifts representation — and federal funding — for the\nnext decade. One state's gain is another's loss.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5a0461#1",
+      "format": "quiz",
+      "prompt": "On what ground did the district court dismiss the Florida census challenge?",
+      "choices": [
+        {
+          "text": "Standing — plaintiffs did not show the Bureau's methods caused the undercount",
+          "correct": true
+        },
+        {
+          "text": "The Constitution does not require a census at all",
+          "correct": false
+        },
+        {
+          "text": "Only the president may sue the Census Bureau",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe court also called the requested remedy impracticable and found the\nsuit outside the four-year limitations period.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5a0461#2",
+      "format": "quiz",
+      "prompt": "Why are census errors so hard to remedy through the courts?",
+      "choices": [
+        {
+          "text": "By the time a case is decided, re-contacting millions of people is impractical",
+          "correct": true
+        },
+        {
+          "text": "Courts are constitutionally barred from hearing census cases",
+          "correct": false
+        },
+        {
+          "text": "The Census Bureau is immune from all lawsuits",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHere the court balked at a remedy requiring direct contact with 18.8\nmillion people nearly five years after the count.\u003c/p\u003e"
+    }
+  ]
+}

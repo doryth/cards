@@ -1,0 +1,90 @@
+{
+  "id": "card_f527f3",
+  "slug": "wifi-signals-identify-people",
+  "type": "news",
+  "title": "Ordinary WiFi Can Recognise You Through a Wall",
+  "hook": "The radio waves already bouncing around your flat carry a shape — yours. Researchers turned unencrypted WiFi chatter into an image good enough to identify 197 people almost perfectly.",
+  "key_points": [
+    "WiFi is microwave-band radio; your body reflects, absorbs, and delays those waves, imprinting itself on what the router receives.",
+    "Routine unencrypted signals exchanged between devices and routers were enough — no camera, no special sensor, no phone carried by the person.",
+    "From those signals the researchers reconstructed radio-based images of people and recognised them within seconds.",
+    "In tests with 197 participants, identification accuracy was near 100%, from different angles and regardless of gait.",
+    "The physics is ordinary reflection and interference; the privacy implication is that any WiFi network is a latent imaging system."
+  ],
+  "content_html": "\u003cp\u003eWiFi is not a special kind of signal; it is microwave-band electromagnetic radiation, obeying the same reflection and interference rules as light. Which means that when it fills a room, everything in the room leaves a mark on it. A body is mostly water, so it absorbs some of the wave, reflects some, and delays what passes around it — and that distortion arrives at the router along with the data.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers, in work reported via ScienceDaily, showed how much of a person survives in that distortion. They used the unencrypted signals routinely exchanged between WiFi devices and access points — nothing intercepted from the encrypted payload, no camera, and no connected device on the person — and reconstructed radio-based images of people from them. In tests with 197 participants, the system identified individuals with nearly 100% accuracy within seconds, from different viewing angles and independent of how each person walked. The physics here is not new, which is rather the point: the sensing capability is a side effect of how radio propagation works, so it comes free with any WiFi network. The authors frame it as a warning that ordinary networks are quietly capable of camera-free surveillance.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260811052857.htm",
+    "published_at": "2026-08-12",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "electricity-magnetism",
+    "waves-sound"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_1c33ae",
+      "slug": "electromagnetism",
+      "type": "concept",
+      "title": "Electricity \u0026 Magnetism Are One Force",
+      "hook": "Move a magnet near a wire and you make electricity; run current through a wire and you make a magnet. They're two faces of the same force.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_275a24",
+      "slug": "electric-and-magnetic-fields",
+      "type": "concept",
+      "title": "Electric and Magnetic Fields",
+      "hook": "How does a magnet pull a paperclip it isn't touching? Through a field — an invisible region of influence that tells other charges and magnets how to feel a force.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f527f3#0",
+      "format": "flip",
+      "prompt": "What physical effect lets WiFi signals carry information about a person's body?",
+      "back_html": "\u003cp\u003eA body \u003cstrong\u003ereflects, absorbs, and delays\u003c/strong\u003e the radio waves passing through a room,\nso the signal arriving at the router is altered in a person-specific way.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f527f3#1",
+      "format": "quiz",
+      "prompt": "What made the WiFi identification result unsettling from a privacy standpoint?",
+      "choices": [
+        {
+          "text": "It used routine unencrypted router traffic, with no camera and no device carried by the person",
+          "correct": true
+        },
+        {
+          "text": "It required breaking the network's WPA encryption first",
+          "correct": false
+        },
+        {
+          "text": "It only worked if the person was wearing a WiFi-enabled wearable",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe signals were the ordinary unencrypted exchanges between devices and routers,\nmeaning existing networks can act as surveillance sensors without any added hardware.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f527f3#2",
+      "format": "flip",
+      "prompt": "How accurate was the system, and on how many people?",
+      "back_html": "\u003cp\u003eNear \u003cstrong\u003e100%\u003c/strong\u003e identification across \u003cstrong\u003e197 participants\u003c/strong\u003e — holding up from\ndifferent angles and regardless of how each person walked.\u003c/p\u003e"
+    }
+  ]
+}

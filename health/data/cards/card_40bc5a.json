@@ -1,0 +1,82 @@
+{
+  "id": "card_40bc5a",
+  "slug": "how-alzheimers-spreads",
+  "type": "news",
+  "title": "How Alzheimer's Might Spread From Cell to Cell",
+  "hook": "A common brain protein may double as a delivery vehicle for Alzheimer's, ferrying toxic tau out of damaged neurons and into healthy ones — a possible new target for slowing the disease.",
+  "key_points": [
+    "How Alzheimer's damage spreads from cell to cell in the brain has been unclear.",
+    "Researchers found a common brain protein may package and carry toxic tau out of damaged neurons.",
+    "Healthy neurons can take up these toxic packages, potentially spreading the damage further.",
+    "Blocking the packages before they reach new cells might one day help slow the disease's progression.",
+    "This is an early-stage mechanism finding, not a treatment yet."
+  ],
+  "content_html": "\u003cp\u003eAlzheimer's disease doesn't stay confined to where it starts — it spreads through the brain over time, steadily recruiting more neurons into its damage. How that spread actually happens at the cellular level has been a harder question to answer.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, researchers identified a common brain protein that may act as an unwitting delivery vehicle: it packages toxic tau protein — the same protein implicated in Alzheimer's hallmark brain changes — and carries it out of damaged neurons. Healthy neighboring neurons can then take up these toxic packages, potentially spreading the damage further across brain tissue.\u003c/p\u003e\n\u003cp\u003eThe hopeful angle is that a delivery mechanism is also a target. If these toxic packages can be intercepted or blocked before they reach healthy cells, researchers believe it may eventually be possible to slow Alzheimer's relentless progression. That's still a research-stage idea rather than a therapy on the horizon, but understanding \u003cem\u003ehow\u003c/em\u003e damage spreads is a meaningful piece of a puzzle that's long been dominated by questions about how it starts.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260630020521.htm",
+    "published_at": "2026-06-30",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "healthy-aging"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_d7624e",
+      "slug": "what-triggers-alzheimers",
+      "type": "news",
+      "title": "Maybe Plaques Aren't the Whole Story",
+      "hook": "New research suggests Alzheimer's may start not with plaques themselves, but with amyloid beta interfering with tau — the protein that keeps neurons running.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_2ead17",
+      "slug": "keeping-your-brain-healthy",
+      "type": "concept",
+      "title": "Keeping Your Brain Healthy",
+      "hook": "No pill prevents dementia, but the habits that protect your heart turn out to protect your brain too.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_40bc5a#0",
+      "format": "flip",
+      "prompt": "How might Alzheimer's damage spread from one neuron to another, per this research?",
+      "back_html": "\u003cp\u003eA common brain protein appears to package toxic \u003cstrong\u003etau\u003c/strong\u003e from damaged neurons and\ncarry it out, where healthy neurons can take it up — potentially spreading the\ndamage cell to cell.\u003c/p\u003e"
+    },
+    {
+      "id": "card_40bc5a#1",
+      "format": "quiz",
+      "prompt": "What could blocking these toxic protein packages potentially do?",
+      "choices": [
+        {
+          "text": "Slow the disease by stopping toxic tau from reaching new neurons",
+          "correct": true
+        },
+        {
+          "text": "Immediately cure existing Alzheimer's damage",
+          "correct": false
+        },
+        {
+          "text": "Prevent tau from ever forming in the brain",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers believe blocking the packages before they reach new cells could help\nslow the spread of damage — a potential future target, not a cure for damage\nalready done.\u003c/p\u003e"
+    }
+  ]
+}

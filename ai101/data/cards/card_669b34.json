@@ -1,0 +1,140 @@
+{
+  "id": "card_669b34",
+  "slug": "claude-watermarks-ai-text",
+  "type": "news",
+  "title": "Claude Will Start Signing Its Own Homework",
+  "hook": "Anthropic says Claude's text and files will carry invisible machine-readable marks — a nudge from EU transparency rules, and the first time watermarking reaches plain text.",
+  "key_points": [
+    "Anthropic pledged to embed watermarks in Claude-generated text and provenance metadata in generated files.",
+    "The marks are invisible to people — only software looking for them can read them.",
+    "The method is a version of SynthID-Text, Google DeepMind's open-source scheme that hides the signal in word-choice probabilities.",
+    "The mark flags anything Claude processed — including human writing it merely edited.",
+    "The stated driver is compliance with European rules requiring AI transparency.",
+    "Text watermarking is harder than image watermarking: paraphrasing or editing can wash it out."
+  ],
+  "content_html": "\u003cp\u003eAnthropic has said it will start marking Claude's output so machines can tell where it came from: embedded watermarks in generated text, and digitally signed provenance metadata in generated files where the format supports it. Both are invisible to human eyes. The company frames the change as part of complying with European rules that require AI-generated content be identifiable.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe interesting part is the text half. Watermarking images is a reasonably settled craft — you nudge pixels in a pattern a detector can find later. Text gives you far less room to hide a signal, and far more ways to destroy one: paste it into an editor, ask another model to rewrite it, trim a paragraph, and the mark can vanish. File metadata has the mirror problem — it survives only as long as every app in the chain bothers to preserve it, and plenty strip metadata by default.\u003c/p\u003e\n\u003cp\u003eAnthropic has since \u003ca href=\"https://theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system\"\u003etold The Verge\u003c/a\u003e that its text marking is \u0026quot;a version of the SynthID-Text approach\u0026quot; — an open-source technique from Google DeepMind. The trick is that a language model never has just one acceptable next word; it has a spread of plausible ones. SynthID-Text quietly biases that choice so the finished text carries a statistical pattern a detector can recognise, while still reading perfectly naturally to you. Nothing is inserted into the characters themselves, which is why you cannot find the mark by squinting at the page.\u003c/p\u003e\n\u003cp\u003eSo treat this as useful plumbing rather than a truth detector. Marks that are present are good evidence; marks that are absent tell you nothing at all, since they cover only the generators that opt in and only content nobody has laundered.\u003c/p\u003e\n\u003cp\u003eThere's also a scope question worth knowing about. \u003ca href=\"https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now\"\u003eArs Technica reports\u003c/a\u003e that the mark flags anything Claude \u003cem\u003eprocessed\u003c/em\u003e — not just text it wrote from scratch, but human writing it only edited — and calls the result a \u0026quot;scarlet letter\u0026quot; that is invisible \u0026quot;for now.\u0026quot; That distinction matters for anyone who uses AI as a proofreader: a mark says the tool touched the words, not that a machine authored them.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+    "published_at": "2026-08-11",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "generative"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_68958b",
+      "slug": "meta-content-seal-watermark",
+      "type": "news",
+      "title": "Meta Built Its Own AI Watermark Instead of Using the Shared One",
+      "hook": "Meta's new 'Content Seal' stamps an invisible mark on its AI images so they can be traced. The catch: Google already had a tool for that — and one shared standard works better than many.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "card_990b33",
+      "slug": "suno-watermark-ai-music",
+      "type": "news",
+      "title": "The Biggest AI Music Maker Wants to Label Its Own Songs",
+      "hook": "Suno is adding watermarking and download rules to stem the flood of AI tracks clogging streaming services — a rare case of a generator volunteering to mark its output.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-06"
+    },
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_669b34#0",
+      "format": "flip",
+      "prompt": "How does an invisible text watermark hide inside ordinary words?",
+      "back_html": "\u003cp\u003eAnthropic says it uses a version of SynthID-Text, DeepMind's open-source\nscheme: it tilts the model's word-choice probabilities into a statistical\npattern a detector can spot, while the text still reads normally.\u003c/p\u003e"
+    },
+    {
+      "id": "card_669b34#1",
+      "format": "quiz",
+      "prompt": "Why is watermarking plain text harder than watermarking an image?",
+      "choices": [
+        {
+          "text": "Text is easy to edit or paraphrase, which can wash the hidden signal out",
+          "correct": true
+        },
+        {
+          "text": "Text files are too small to hold any extra data",
+          "correct": false
+        },
+        {
+          "text": "Only images can be read by software",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA watermark has to survive whatever happens to the content next. Rewriting a\nfew sentences is trivial, so a text mark is far more fragile than one baked\ninto pixels.\u003c/p\u003e"
+    },
+    {
+      "id": "card_669b34#2",
+      "format": "quiz",
+      "prompt": "What does an invisible watermark mean for you as a reader?",
+      "choices": [
+        {
+          "text": "Software may be able to flag AI text, but you still can't see the mark yourself",
+          "correct": true
+        },
+        {
+          "text": "AI-written text will now look visibly different on the page",
+          "correct": false
+        },
+        {
+          "text": "You can be certain any unmarked text was written by a human",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe marks are machine-readable only, and they cover just the tools that add\nthem — absence of a watermark proves nothing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_669b34#3",
+      "format": "quiz",
+      "prompt": "You write an essay yourself and ask Claude only to fix your grammar. Does it get marked?",
+      "choices": [
+        {
+          "text": "Yes — the mark flags anything Claude processed, including text it merely edited",
+          "correct": true
+        },
+        {
+          "text": "No — only text Claude writes from scratch is marked",
+          "correct": false
+        },
+        {
+          "text": "No — marks are added only when you ask for them",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe mark records that the tool touched the words, not that a machine authored\nthem, so light editing counts too.\u003c/p\u003e"
+    }
+  ]
+}

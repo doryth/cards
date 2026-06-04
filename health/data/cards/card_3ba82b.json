@@ -1,0 +1,97 @@
+{
+  "id": "card_3ba82b",
+  "slug": "probiotics-as-cancer-drug-factories",
+  "type": "news",
+  "title": "Probiotics Rebuilt as Tumor Drug Factories",
+  "hook": "Engineered probiotic bacteria slipped into pancreatic tumors, switched on cancer-fighting immune cells, and slowed growth in animals — working best alongside standard treatment, not instead of it.",
+  "key_points": [
+    "Researchers engineered probiotic bacteria to act as drug factories inside tumors.",
+    "The bacteria infiltrated pancreatic tumors, stimulated cancer-fighting immune cells, and slowed tumor growth in animals.",
+    "Pancreatic tumors are notoriously hard to treat, partly because they shut out the immune system.",
+    "The effect was stronger when combined with chemotherapy, radiation, or immunotherapy.",
+    "This is animal-stage work — promising, but far from a treatment people can get."
+  ],
+  "content_html": "\u003cp\u003ePancreatic cancer is one of the hardest tumors to treat, in part because it builds an environment that keeps the immune system out. Researchers reported by ScienceDaily tried an unusual way in: engineering probiotic bacteria to travel to the tumor and manufacture cancer-fighting signals on site.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn animal studies, the engineered bacteria infiltrated pancreatic tumors, stimulated immune cells that attack cancer, and slowed tumor growth. The more interesting result was combinatorial — the approach worked better when paired with chemotherapy, radiation, or immunotherapy, suggesting it makes tumors more vulnerable to treatments they normally resist.\u003c/p\u003e\n\u003cp\u003eThe appeal of using a living bacterium as the delivery vehicle is that it can seek out the low-oxygen interior of a tumor where injected drugs struggle to reach, and keep producing there. The caveat is the usual one and it's load-bearing: this is animal-stage work, and the road from a mouse tumor to an approved therapy is long and littered with failures.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260816044830.htm",
+    "published_at": "2026-08-19",
+    "license": "ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_3248ca",
+      "slug": "cracking-pancreatic-cancer",
+      "type": "news",
+      "title": "A Drug for 'Undruggable' Pancreatic Cancer",
+      "hook": "A new drug, daraxonrasib, hits a KRAS mutation long thought 'undruggable' and nearly doubled survival in a trial of advanced pancreatic cancer — a hard-to-treat disease.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_54df72",
+      "slug": "pancreatic-cancer-self-destruct",
+      "type": "news",
+      "title": "Making Pancreatic Cancer Cells Self-Destruct",
+      "hook": "Instead of blocking cancer signals, an experimental compound cranks them into overdrive until pancreatic cancer cells destroy themselves — and blocked over 90% of tumor cell migration in lab tests.",
+      "importance": 2,
+      "difficulty": "intro",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_618737",
+      "slug": "gut-microbiome-basics",
+      "type": "news",
+      "title": "Gut Health: What the Evidence Actually Says",
+      "hook": "Wellness marketing says your gut is 'broken' and a supplement will fix it. Here's what the evidence really supports — and what's just hype.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3ba82b#0",
+      "format": "flip",
+      "prompt": "What job were the engineered probiotic bacteria given?",
+      "back_html": "\u003cp\u003eTo act as \u003cstrong\u003edrug factories inside the tumor\u003c/strong\u003e — infiltrating pancreatic tumors and producing\nagents that stimulate cancer-fighting immune cells locally.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3ba82b#1",
+      "format": "quiz",
+      "prompt": "What was the most striking result in the animal studies?",
+      "choices": [
+        {
+          "text": "The treatment worked better combined with chemotherapy, radiation, or immunotherapy",
+          "correct": true
+        },
+        {
+          "text": "It cured the tumors outright with no other treatment",
+          "correct": false
+        },
+        {
+          "text": "It only worked when all other treatments were stopped",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt slowed tumor growth on its own, but the notable finding was that it amplified standard\ntreatments rather than competing with them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3ba82b#2",
+      "format": "flip",
+      "prompt": "Why is 'animal studies' the most important caveat here?",
+      "back_html": "\u003cp\u003eMost therapies that shrink tumors in animals never work in people. This is early-stage\nproof of concept, not an available treatment.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "card_55fadc",
+  "slug": "black-hole-or-white-hole-shadow",
+  "type": "paper",
+  "title": "Could We Tell a White Hole From a Black Hole?",
+  "hook": "Some quantum-gravity models say a black hole eventually bounces into a white hole. Ray-tracing says the two would leave very different fingerprints in an image.",
+  "key_points": [
+    "In frameworks like loop quantum gravity, a black hole may 'bounce' into a white hole.",
+    "The authors ray-traced accretion-disk light through both a Kerr black hole and a post-bounce white hole.",
+    "The black hole gives the familiar picture: a crescent emission ring around a central shadow.",
+    "The white hole instead produces eccentric, asymmetric nested rings from lensing and frame dragging.",
+    "Polarized images differ too — the white hole shows discontinuities in polarization between rings.",
+    "These features give future VLBI observations a concrete way to break the ambiguity."
+  ],
+  "content_html": "\u003cp\u003eA white hole is a black hole run backwards: nothing can get in, and matter streams out. General relativity permits the solution but gives no way to make one — except that some quantum-gravity frameworks, loop quantum gravity among them, suggest a collapsing black hole eventually \u0026quot;bounces\u0026quot; and becomes exactly that. Chengyu Bi and Zhoujian Cao asked a practical question about it: if one existed, could a telescope tell?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir answer comes from general-relativistic ray tracing — following light from an accretion disk through the curved spacetime to a distant camera. A spinning Kerr black hole gives the now-familiar result: a bright crescent emission ring wrapped around a dark central shadow, the shape the Event Horizon Telescope made famous. The post-bounce rotating white hole looks nothing like it. Radiation from the previous cosmic stage penetrates the horizon, and lensing plus frame dragging fold it into eccentric, asymmetric \u003cem\u003enested\u003c/em\u003e rings whose layout shifts with spin, viewing angle, and disk geometry. The authors then add polarized ray tracing, and find the white hole imprints spatial rotation patterns and concentric fringes with a sharp polarization discontinuity between rings — a signature the black hole lacks. Their point is that imaging alone can be ambiguous, but adding multi-band and polarimetric baselines to future very-long-baseline interferometry would give observers a real handle on which object they're looking at.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Chengyu Bi",
+      "Zhoujian Cao"
+    ],
+    "url": "https://arxiv.org/abs/2607.20945",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_1a992a",
+      "slug": "coloring-the-black-hole-image",
+      "type": "paper",
+      "title": "The Black Hole Photo Wasn't Really a Photo",
+      "hook": "The iconic orange ring of the first black hole image wasn't captured — it was built from noisy data through countless judgment calls, and the real evidence is that reasonable choices all agree.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_a9dd8c",
+      "slug": "gravastar-instead-of-black-hole",
+      "type": "news",
+      "title": "What If a Dying Star Made a Universe, Not a Black Hole?",
+      "hook": "A new theoretical study floats a wild alternative to the black hole: a collapsing star might birth a tiny dark-energy-filled universe inside itself, halting the crush before a singularity forms.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-14"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_548bd7",
+      "slug": "black-hole-evaporation-exact-4d-solution",
+      "type": "paper",
+      "title": "The First Exact Picture of a Black Hole Evaporating in Our Universe",
+      "hook": "Physicists have finally worked out, in exact mathematical form, how a real 3D black hole's geometry evolves as it evaporates — previously solved only in toy 2D universes.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_55fadc#0",
+      "format": "quiz",
+      "prompt": "What distinguishes a simulated white-hole image from a black-hole image here?",
+      "choices": [
+        {
+          "text": "Nested, eccentric asymmetric intensity rings instead of one crescent ring plus a shadow",
+          "correct": true
+        },
+        {
+          "text": "A complete absence of any light at all",
+          "correct": false
+        },
+        {
+          "text": "A perfectly uniform disc with no structure",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Kerr black hole yields a crescent emission ring around a central shadow. Radiation\npenetrating the rotating white hole instead forms nested, eccentric, asymmetric rings.\u003c/p\u003e"
+    },
+    {
+      "id": "card_55fadc#1",
+      "format": "flip",
+      "prompt": "Why does polarization help tell the two objects apart?",
+      "back_html": "\u003cp\u003eLight's polarization vector is twisted as it propagates through the strong field and dragged\nspacetime. The white-hole case shows rotation patterns and a \u003cstrong\u003epolarization discontinuity\nbetween rings\u003c/strong\u003e that black holes don't produce.\u003c/p\u003e"
+    },
+    {
+      "id": "card_55fadc#2",
+      "format": "quiz",
+      "prompt": "In these models, how would a black hole become a white hole?",
+      "choices": [
+        {
+          "text": "Through a quantum 'bounce' predicted by frameworks such as loop quantum gravity",
+          "correct": true
+        },
+        {
+          "text": "By absorbing enough matter to reverse its spin",
+          "correct": false
+        },
+        {
+          "text": "By colliding with another black hole of equal mass",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLoop quantum gravity and related approaches suggest quantum effects halt collapse and drive a\nbounce, turning the black hole into a time-reversed white hole.\u003c/p\u003e"
+    }
+  ]
+}

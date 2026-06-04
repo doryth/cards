@@ -1,0 +1,72 @@
+{
+  "id": "card_698fbb",
+  "slug": "pesticide-exposure-and-parkinsons",
+  "type": "news",
+  "title": "A Common Pesticide Linked to Parkinson's",
+  "hook": "People living near where the pesticide chlorpyrifos was used were more than twice as likely to develop Parkinson's disease, a UCLA study found.",
+  "key_points": [
+    "UCLA researchers linked long-term exposure to the pesticide chlorpyrifos to Parkinson's disease.",
+    "People exposed near their homes were more than twice as likely to develop the condition.",
+    "In the lab, chlorpyrifos damaged dopamine neurons — the very cells lost in Parkinson's.",
+    "It also hampered the brain's ability to clear out toxic protein buildup.",
+    "Epidemiology and lab evidence pointing the same way make the link harder to dismiss."
+  ],
+  "content_html": "\u003cp\u003eParkinson's disease is usually framed as a matter of age and genetics, but environment plays a role too. A UCLA study highlighted by ScienceDaily strengthens the case for one suspect: chlorpyrifos, a pesticide once widely used on crops. People with long-term exposure to it near their homes were more than twice as likely to develop Parkinson's.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat gives the finding extra weight is that it pairs population data with a plausible mechanism. In laboratory studies, chlorpyrifos damaged dopamine neurons — the same brain cells that progressively die in Parkinson's — and interfered with the brain's housekeeping system for clearing out toxic protein buildup. When an epidemiological signal and a biological explanation point in the same direction, the link is harder to chalk up to chance.\u003c/p\u003e\n\u003cp\u003eNo single study settles a question like this, and most people aren't knowingly exposed to agricultural pesticides. But the result is a useful reminder that chemical exposures around the home and community can carry long-term health stakes, and a reason to take seriously the labels and precautions on the pesticides and chemicals we do bring indoors.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260621111113.htm",
+    "published_at": "2026-06-28",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "home-safety",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-29",
+  "date": "2026-06-28",
+  "related": [
+    {
+      "id": "card_588479",
+      "slug": "safe-storage-of-medicines-and-chemicals",
+      "type": "concept",
+      "title": "Safe Storage of Medicines and Chemicals",
+      "hook": "Most poisonings happen at home with everyday products. How you store them is your first line of defense.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_698fbb#0",
+      "format": "quiz",
+      "prompt": "What did the UCLA study find about people exposed to chlorpyrifos near their homes?",
+      "choices": [
+        {
+          "text": "They were more than twice as likely to develop Parkinson's disease",
+          "correct": true
+        },
+        {
+          "text": "They were protected against Parkinson's disease",
+          "correct": false
+        },
+        {
+          "text": "Their risk was unchanged",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study linked long-term home-area exposure to chlorpyrifos with more than double\nthe risk of Parkinson's disease.\u003c/p\u003e"
+    },
+    {
+      "id": "card_698fbb#1",
+      "format": "flip",
+      "prompt": "How did lab studies suggest chlorpyrifos could drive Parkinson's?",
+      "back_html": "\u003cp\u003eIt \u003cstrong\u003edamaged dopamine neurons\u003c/strong\u003e — the cells lost in Parkinson's — and interfered with\nthe brain's ability to clear away toxic protein buildup. Lab mechanism plus the\npopulation link makes the case stronger.\u003c/p\u003e"
+    }
+  ]
+}

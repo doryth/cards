@@ -1,0 +1,79 @@
+{
+  "id": "card_12a631",
+  "slug": "taking-medicines-safely",
+  "type": "concept",
+  "title": "Taking Medicines Safely",
+  "hook": "Medicines help only when used right. Most medication mishaps are preventable with a few habits — reading the label, knowing your list, and asking questions.",
+  "key_points": [
+    "Read the label and follow the dose and timing exactly; more is not better.",
+    "Keep an up-to-date list of everything you take, including over-the-counter drugs and supplements.",
+    "Drug interactions are real — tell your provider and pharmacist about your full list.",
+    "Store medicines safely, check expiry dates, and dispose of old ones properly."
+  ],
+  "content_html": "\u003cp\u003eA medicine is only as safe as the way it's used. Most problems — wrong doses, dangerous combinations, accidental poisonings — come down to a few avoidable habits, and the fixes are simple.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe FDA's guidance on safe medication use centers on a handful of practices. Read the label and follow the dosing and timing exactly: taking more than directed doesn't speed recovery and raises the risk of side effects or overdose. Keep a current list of everything you take — prescriptions, over-the-counter drugs, vitamins, and supplements — and share it with your provider and pharmacist, because interactions between them are a common and underestimated hazard. Ask questions when you start something new: what it's for, how and when to take it, what to avoid, and what side effects to watch for. Finally, store medicines as directed and out of reach of children, mind expiry dates, and dispose of leftovers properly rather than letting them accumulate. None of this is complicated, but together it's what keeps a helpful drug from becoming a harmful one.\u003c/p\u003e",
+  "source": {
+    "name": "U.S. Food \u0026 Drug Administration",
+    "url": "https://www.fda.gov/drugs/buying-using-medicine-safely/ensuring-safe-use-medicine",
+    "license": "Public domain (U.S. Food \u0026 Drug Administration)"
+  },
+  "topic_ids": [
+    "medication-safety"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_3a556a",
+      "slug": "antibiotics-use-them-right",
+      "type": "concept",
+      "title": "Antibiotics: Use Them Right",
+      "hook": "Antibiotics are miracle drugs against bacteria — and useless against viruses like colds and flu. Using them when they won't help fuels a genuinely dangerous problem.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2a9b89",
+      "slug": "when-a-symptom-needs-a-doctor",
+      "type": "concept",
+      "title": "When a Symptom Needs a Doctor",
+      "hook": "Most everyday symptoms pass on their own. The skill worth having is recognizing the red flags that mean don't wait — call for help now.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_12a631#0",
+      "format": "flip",
+      "prompt": "Why keep a current list of all the medicines you take?",
+      "back_html": "\u003cp\u003eSo your provider and pharmacist can check for \u003cstrong\u003einteractions\u003c/strong\u003e — including with\nover-the-counter drugs and supplements, which can clash with prescriptions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_12a631#1",
+      "format": "quiz",
+      "prompt": "If a medicine isn't working fast enough, is it safe to take extra?",
+      "choices": [
+        {
+          "text": "No — follow the labeled dose; more can be harmful",
+          "correct": true
+        },
+        {
+          "text": "Yes, doubling up always speeds things up",
+          "correct": false
+        },
+        {
+          "text": "Yes, as long as it's over-the-counter",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTaking more than the labeled dose raises the risk of harmful side effects and\noverdose; the FDA stresses following dose and timing exactly.\u003c/p\u003e"
+    }
+  ]
+}

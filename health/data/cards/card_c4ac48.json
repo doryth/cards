@@ -1,0 +1,102 @@
+{
+  "id": "card_c4ac48",
+  "slug": "heat-deaths-undercounted",
+  "type": "news",
+  "title": "Heat Kills About Five Times More Americans Than the Official Count Says",
+  "hook": "Federal records list roughly 1,700 U.S. heat deaths a year. A two-year NPR and Boston University investigation modeled the real figure at around 9,000 — and found the risk isn't limited to hot states.",
+  "key_points": [
+    "Official federal numbers attribute about 1,700 U.S. deaths a year to heat-related causes.",
+    "A statistical model built by NPR and Boston University researchers estimated roughly 9,000 — about five times higher.",
+    "Deaths go uncounted because heat must be written on the death record, and its role is hard to disentangle from conditions like heart disease.",
+    "There are no clear national standards for attributing a death to heat, so practice varies by coroner and medical examiner.",
+    "Risk is nationwide, not just in hot regions; people with preexisting conditions, in manufactured homes, or using drugs are more vulnerable.",
+    "Financial pressure is a recurring theme — people who can't afford to run or repair cooling."
+  ],
+  "content_html": "\u003cp\u003eFederal statistics say heat kills about 1,700 Americans a year. Reporter Alejandra Borunda spent two years testing that number, and with researcher Quinn Adams at Boston University built a statistical model to estimate the real toll. Their answer: roughly 9,000 deaths a year — about five times the official count.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe gap comes down to paperwork and difficulty. For a death to enter the official tally, heat has to be written on the death record, and establishing heat's role is genuinely hard: there is usually another proximate cause, like a preexisting heart condition, and separating the two takes time, training, and money that coroners and medical examiners may not have. With no clear national standards, as Borunda puts it, \u0026quot;everyone is kind of figuring this out for themselves.\u0026quot;\u003c/p\u003e\n\u003cp\u003eThe reporting also reshapes who should be worried. Heat risk is widespread across the country, not confined to the places we think of as hot. The most vulnerable are people with preexisting health conditions, people living in manufactured homes, and people struggling with drug use — and, again and again, people under financial pressure whose air conditioning or swamp cooler broke or cost too much to run. Tara Gentner found her mother collapsed in front of a swamp cooler blowing hot air in Tucson; her internal temperature was 106, and she died later that day.\u003c/p\u003e\n\u003cp\u003eThe proposed fix starts with counting. As Adams told NPR, you can't fix a problem you don't see clearly — better attribution first, then targeted help: paying for cooling and insulation, and educating the people most at risk and their caregivers. Arizona and some other places are working on it; most of the country is not, at a time when climate change keeps pushing summers hotter.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Alejandra Borunda"
+    ],
+    "url": "https://npr.org/2026/08/31/nx-s1-5950405/nprs-2-year-search-for-the-truth-about-deaths-from-heat",
+    "published_at": "2026-08-31",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "home-safety",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-08-31",
+  "related": [
+    {
+      "id": "card_7c77b8",
+      "slug": "how-extreme-heat-harms-the-body",
+      "type": "news",
+      "title": "How Extreme Heat Harms the Body",
+      "hook": "Your body cools itself by sweating — but in high heat and humidity, that system can be overwhelmed, and the result can be deadly. Knowing the signs is how you stay ahead of it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_1955f3",
+      "slug": "preventing-falls-at-home",
+      "type": "concept",
+      "title": "Preventing Falls at Home",
+      "hook": "Falls are the leading cause of injury for older adults, but most are preventable with a few targeted fixes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_5bcd11",
+      "slug": "wildfire-smoke-2026",
+      "type": "news",
+      "title": "Wildfire Smoke Is Like Smoking Half a Pack a Day",
+      "hook": "As Canadian wildfire smoke blanketed the U.S. in July 2026, doctors compared short-term exposure to smoking half a pack a day — and a $20 box fan turned out to be a top home defense.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-17"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c4ac48#0",
+      "format": "quiz",
+      "prompt": "Why are heat deaths so badly undercounted?",
+      "choices": [
+        {
+          "text": "Heat must be recorded on the death certificate, and its role is hard to separate from preexisting conditions — with no clear national standards",
+          "correct": true
+        },
+        {
+          "text": "Heat deaths are deliberately excluded from federal statistics",
+          "correct": false
+        },
+        {
+          "text": "Most heat deaths happen outside the country",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEstablishing heat's contribution takes time, training and money, and often competes with an\nobvious cause like a heart condition. Without national standards, each jurisdiction is\n\u0026quot;kind of figuring this out for themselves.\u0026quot;\u003c/p\u003e"
+    },
+    {
+      "id": "card_c4ac48#1",
+      "format": "flip",
+      "prompt": "How big is the gap between the official and modeled numbers?",
+      "back_html": "\u003cp\u003eFederal records list about \u003cstrong\u003e1,700\u003c/strong\u003e heat-related deaths a year. The NPR–Boston University\nmodel put it near \u003cstrong\u003e9,000\u003c/strong\u003e — roughly five times higher.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c4ac48#2",
+      "format": "flip",
+      "prompt": "Who turned out to be most at risk?",
+      "back_html": "\u003cp\u003ePeople with preexisting health conditions, people living in manufactured homes, and people\ndealing with drug use or addiction — with financial pressure a recurring thread: cooling that\nbroke, or that someone couldn't afford to run. And the risk is nationwide, not just in\nobviously hot places.\u003c/p\u003e"
+    }
+  ]
+}

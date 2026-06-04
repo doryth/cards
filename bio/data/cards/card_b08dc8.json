@@ -1,0 +1,101 @@
+{
+  "id": "card_b08dc8",
+  "slug": "otc-glucose-monitor-children-cgm",
+  "type": "news",
+  "title": "A Blood Sugar Tracker for 2-Year-Olds Is Now Sold Over the Counter",
+  "hook": "Dexcom's Stelo is the first continuous glucose monitor sold over-the-counter for kids as young as 2. Doctors are split on whether that's genuinely useful, or a source of needless anxiety.",
+  "key_points": [
+    "Dexcom's Stelo is the first continuous glucose monitor (CGM) approved over-the-counter for children ages 2 and up, giving real-time blood sugar readings every 15 minutes.",
+    "Supporters see it as improving access for underserved children with prediabetes or obesity who lack insurance coverage for prescription CGMs.",
+    "A key concern: children don't have well-established 'normal' blood sugar ranges, making the readings hard to interpret without clinical guidance.",
+    "Pediatricians worry the device could fuel disordered or overly restrictive eating patterns, and increase parental anxiety around ordinary foods.",
+    "The core tension is between expanding access to a genuinely useful tool and introducing unproven, potentially harmful data-driven monitoring into early childhood."
+  ],
+  "content_html": "\u003cp\u003eContinuous glucose monitors have mostly been a tool for people managing diabetes. Now Dexcom's Stelo has become the first version approved for over-the-counter sale to children as young as 2 — no prescription needed, no diabetes diagnosis required.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe device gives real-time blood sugar readings every 15 minutes, and supporters see real value in that: for children with prediabetes or obesity who lack insurance coverage for a prescription CGM, it's a way to get useful data that was previously out of reach. But the concerns are just as concrete. Children don't have the same well-established \u0026quot;normal\u0026quot; blood sugar ranges adults do, so a reading that looks alarming might not actually mean anything is wrong — without a clinician to help interpret it, parents are left guessing. Pediatricians and dietitians go further, warning that constant glucose feedback risks fueling disordered or overly restrictive eating in kids, with one dietitian describing a scenario where a child is told their blood sugar \u0026quot;went too high\u0026quot; after a cupcake and concludes they can never have one again. The debate boils down to a genuine tension: expanding access to a tool that can help some families, versus introducing unproven, potentially anxiety-inducing health monitoring into early childhood before the data even means what parents might assume it means.\u003c/p\u003e",
+  "source": {
+    "name": "STAT",
+    "url": "https://statnews.com/2026/07/08/dexcom-stelo-cgm-risk-benefit-otc-glucose-monitoring-children",
+    "published_at": "2026-07-08",
+    "license": "© STAT"
+  },
+  "topic_ids": [
+    "nutrition-health"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-08",
+  "related": [
+    {
+      "id": "card_ec190a",
+      "slug": "nutrition-and-diet",
+      "type": "concept",
+      "title": "Nutrition and Diet",
+      "hook": "Your body runs on food, but not all food does the same job — different food groups supply the fuel, building blocks, and protection your cells need.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_40e578",
+      "slug": "how-fat-cells-develop",
+      "type": "paper",
+      "title": "Mapping How a Fat Cell Grows Up",
+      "hook": "Fat cells don't just appear — they mature through a series of transitional stages, guided by growth signals that differ depending on where the fat sits in your body.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b08dc8#0",
+      "format": "flip",
+      "prompt": "What is Dexcom's Stelo, and why is its approval notable?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003econtinuous glucose monitor (CGM)\u003c/strong\u003e that gives real-time blood sugar\nreadings — it's the first such device approved \u003cstrong\u003eover-the-counter\u003c/strong\u003e for\nchildren as young as \u003cstrong\u003eage 2\u003c/strong\u003e, with no prescription required.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b08dc8#1",
+      "format": "quiz",
+      "prompt": "What's the main data-interpretation concern experts raise about CGMs in young children?",
+      "choices": [
+        {
+          "text": "Children lack well-established 'normal' blood sugar ranges, making readings hard to interpret without clinical guidance",
+          "correct": true
+        },
+        {
+          "text": "The device physically cannot take accurate readings in children",
+          "correct": false
+        },
+        {
+          "text": "CGMs have never been tested in any age group before",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWithout solid reference ranges for children, a reading that looks abnormal\nmay not actually indicate a problem — making the data easy to misread without\na clinician's help.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b08dc8#2",
+      "format": "quiz",
+      "prompt": "What behavioral risk do pediatricians worry the device could introduce?",
+      "choices": [
+        {
+          "text": "Disordered or overly restrictive eating patterns, and increased parental anxiety around ordinary foods",
+          "correct": true
+        },
+        {
+          "text": "A complete loss of appetite in all users",
+          "correct": false
+        },
+        {
+          "text": "Increased risk of the child developing diabetes directly from wearing it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePediatricians and dietitians worry that constant glucose feedback could push\nfamilies toward restrictive eating or anxiety over normal foods, especially in\nchildren without diabetes.\u003c/p\u003e"
+    }
+  ]
+}

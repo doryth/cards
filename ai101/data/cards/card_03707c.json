@@ -1,0 +1,98 @@
+{
+  "id": "card_03707c",
+  "slug": "meta-ai-search-social-posts",
+  "type": "news",
+  "title": "Meta's New AI Search Answers From Facebook Posts",
+  "hook": "Meta added an 'AI Mode' to Facebook search that builds answers out of public posts. Convenient in theory — but early hands-on testing found it confidently getting things wrong.",
+  "key_points": [
+    "Facebook search now has an 'AI Mode' alongside options like People and Marketplace.",
+    "It generates answers drawing on public Facebook posts as source material.",
+    "A Verge hands-on found it occasionally handy but prone to getting things wrong.",
+    "Grounding AI answers in social media raises both accuracy and privacy questions."
+  ],
+  "content_html": "\u003cp\u003eMeta has added an \u0026quot;AI Mode\u0026quot; to Facebook's search, sitting alongside familiar options like People and Marketplace. Ask it a question and, instead of a list of results, you get an AI-generated answer — one that draws on public Facebook posts as part of its source material, according to The Verge.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe idea is to turn everything people share publicly into a kind of living knowledge base you can just ask. In practice, The Verge's hands-on found it could be handy but also got things wrong — the same reliability problem that dogs AI search in general. Grounding answers in social media makes that worse in two ways. First, public posts are unverified opinion and chatter, so an answer built from them inherits whatever is mistaken or biased in the source. Second, it's a reminder that anything you post publicly can be vacuumed up and repurposed — here, to help generate answers for strangers. As with any AI summary, treat it as a starting point, not the last word, and click through before trusting anything that matters.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Allison Johnson"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+    "published_at": "2026-06-17",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-search",
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "rag"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-18",
+  "date": "2026-06-17",
+  "related": [
+    {
+      "id": "card_a92eaf",
+      "slug": "ai-search-overviews",
+      "type": "concept",
+      "title": "AI in Search",
+      "hook": "Search engines now answer in sentences, not just links. Convenient — but the AI summary can be wrong or miss context, and the links underneath are still where the truth lives.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_05a983",
+      "slug": "ai-search-court-ruling",
+      "type": "news",
+      "title": "A Court Just Pushed Back on AI Search",
+      "hook": "A German court ruled against Google's AI Overviews — the AI summaries atop search results — in a decision that could reshape AI search and back publishers who don't want their work summarized away.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_03707c#0",
+      "format": "quiz",
+      "prompt": "What's notable about where Meta's new AI search gets its answers?",
+      "choices": [
+        {
+          "text": "It draws on public Facebook posts to build AI-generated answers",
+          "correct": true
+        },
+        {
+          "text": "It only uses peer-reviewed scientific journals",
+          "correct": false
+        },
+        {
+          "text": "It refuses to answer anything not written by Meta",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMeta's 'AI Mode' generates answers informed by public Facebook posts — which is\nexactly what raises questions about both accuracy and how your posts get used.\u003c/p\u003e"
+    },
+    {
+      "id": "card_03707c#1",
+      "format": "flip",
+      "prompt": "Why be cautious about AI search grounded in social media posts?",
+      "back_html": "\u003cp\u003ePublic posts are unverified and often wrong or biased, so answers built from them\ncan be too — and it means your public posts feed the system. Early reviews found it error-prone.\u003c/p\u003e"
+    }
+  ]
+}

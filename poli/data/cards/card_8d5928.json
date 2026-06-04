@@ -1,0 +1,128 @@
+{
+  "id": "card_8d5928",
+  "slug": "erisa-and-denied-health-claims",
+  "type": "blog",
+  "title": "Why It's So Hard to Sue Your Health Insurer",
+  "hook": "A 1974 law meant to protect pensions also quietly shields most employer health plans from lawsuits over wrongly denied claims — even when the denial causes real harm.",
+  "key_points": [
+    "ERISA (1974) set federal standards for employer-run benefit plans, passed after pension collapses like Studebaker's 1963 shutdown wiped out workers' retirement savings.",
+    "It also covers most employer-sponsored health plans, and its remedies are narrow: patients can generally recover only the value of the denied treatment, not damages for the harm the denial caused.",
+    "ERISA preempts — overrides — state laws that would otherwise let patients sue insurers for bad-faith denials or claim damages beyond the benefit itself.",
+    "That combination leaves self-insured health plans with relatively little legal exposure for wrongly denying care.",
+    "It's a case study in how a law built for one purpose (protecting pensions) can end up shaping an entirely different fight (health-claim disputes) decades later."
+  ],
+  "content_html": "\u003cp\u003eMost people who've had a health claim denied assume they can sue if the denial was wrong or made in bad faith. For tens of millions of people on employer-sponsored plans, that's often not true — and the reason traces back to a law that has nothing to do with health insurance on its face.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe Employee Retirement Income Security Act (ERISA) became law in 1974, after a wave of pension failures — most notoriously Studebaker's 1963 factory closure in South Bend, Indiana, which stripped thousands of autoworkers of pensions they'd counted on. Congress responded with federal standards meant to protect workers' retirement benefits from mismanagement and fraud. As Miranda Yaver, a health policy scholar at the University of Pittsburgh, explains in The Conversation, that same law now governs most employer-sponsored health plans too — and its remedy structure is narrow by design. A patient whose ERISA plan wrongly denies care generally can't recover damages for pain, suffering, or lost income caused by the denial; the maximum recovery is typically just the treatment that should have been covered in the first place. Worse, ERISA preempts — legally overrides — state laws that would otherwise let patients sue insurers for bad-faith denials or push for stronger consumer protections like prior-authorization reform. Together, limited remedies and broad preemption leave self-insured health plans facing \u0026quot;relatively little legal risk when they wrongly deny coverage,\u0026quot; in Yaver's words. It's a vivid illustration of how far a federal law's reach can travel from its original purpose once courts apply it broadly for half a century. (This card describes U.S. federal law specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Miranda Yaver, Assistant Professor of Health Policy and Management, University of Pittsburgh"
+    ],
+    "url": "https://theconversation.com/how-health-insurers-get-a-free-pass-to-deny-coverage-from-a-52-year-old-law-meant-to-protect-worker-pensions-280709",
+    "published_at": "2026-07-02",
+    "license": "© The Conversation (CC BY-ND)"
+  },
+  "topic_ids": [
+    "public-policy-economy",
+    "federalism-levels"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-06",
+  "date": "2026-07-02",
+  "related": [
+    {
+      "id": "card_edb3f3",
+      "slug": "federal-preemption",
+      "type": "news",
+      "title": "When Federal Law Overrides the States",
+      "hook": "Who decides what warning goes on a bottle of weed killer — a state jury or the federal government? The answer turns on a quiet but powerful rule called preemption.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0233de",
+      "slug": "the-welfare-state",
+      "type": "concept",
+      "title": "The Welfare State",
+      "hook": "Should the state guarantee a floor below which no one can fall? The welfare state is modern government's answer — and one of its biggest, most-debated commitments.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_edb3f3",
+      "slug": "federal-preemption",
+      "type": "news",
+      "title": "When Federal Law Overrides the States",
+      "hook": "Who decides what warning goes on a bottle of weed killer — a state jury or the federal government? The answer turns on a quiet but powerful rule called preemption.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_8d5928#0",
+      "format": "flip",
+      "prompt": "What was ERISA originally passed to protect, and when?",
+      "back_html": "\u003cp\u003ePensions. Congress passed the Employee Retirement Income Security Act\nin 1974 after failures like Studebaker's 1963 pension collapse wiped\nout workers' retirement savings.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8d5928#1",
+      "format": "quiz",
+      "prompt": "Why is it hard to sue an employer health plan over a wrongly denied claim?",
+      "choices": [
+        {
+          "text": "ERISA preempts state lawsuits and limits remedies to the value of the denied benefit, not damages for the harm caused",
+          "correct": true
+        },
+        {
+          "text": "Health insurance denials legally cannot be appealed at all",
+          "correct": false
+        },
+        {
+          "text": "Only federal prosecutors are allowed to bring such cases",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eERISA overrides state laws that would otherwise let patients sue for\nbad-faith denials or claim damages beyond the denied benefit itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8d5928#2",
+      "format": "quiz",
+      "prompt": "What does the ERISA example illustrate about federal preemption?",
+      "choices": [
+        {
+          "text": "A law written for one purpose (pensions) can end up governing an unrelated area (health claims) decades later",
+          "correct": true
+        },
+        {
+          "text": "Preemption only ever applies to environmental regulation",
+          "correct": false
+        },
+        {
+          "text": "State law automatically overrides federal law once enacted",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eERISA shows how far preemption's reach can extend beyond a law's\noriginal target once courts apply it broadly over time.\u003c/p\u003e"
+    }
+  ]
+}

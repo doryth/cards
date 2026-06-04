@@ -1,0 +1,102 @@
+{
+  "id": "card_9e52ca",
+  "slug": "two-new-xyz-structures",
+  "type": "news",
+  "title": "Hunting One Exotic Particle, Finding Two",
+  "hook": "A search aimed at a single mysterious particle turned up evidence for two unexpected structures instead — possible new members of the strange 'XYZ' family that refuses to fit the quark model.",
+  "key_points": [
+    "Ordinary hadrons come in twos (mesons) or threes (baryons) of quarks; XYZ states fit neither pattern.",
+    "The search targeted one hypothesised exotic particle and instead saw two separate structures.",
+    "Both are candidates for the XYZ family — loosely bound multiquark states or molecule-like pairs.",
+    "Each new state constrains how the strong force can glue quarks and gluons into matter.",
+    "Researchers say the findings point to new combinations of quarks and gluons worth mapping."
+  ],
+  "content_html": "\u003cp\u003eSearches in particle physics often find something other than what they were looking for. Here, a\nhunt for one hypothesised exotic particle instead surfaced evidence for two different structures,\nboth candidates for the odd family of states physicists label X, Y and Z.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eOrdinary hadrons are built from either a quark-antiquark pair (a meson) or three quarks (a\nbaryon). XYZ states fit neither mould — they look like four-quark bound states, or perhaps two\nordinary hadrons loosely orbiting each other like a molecule. Each new one is a data point on the\npart of quantum chromodynamics nobody can calculate from first principles: how the strong force\nactually assembles quarks and gluons into matter. As reported by ScienceDaily, the researchers\nargue these two structures could reveal further ways that quarks and gluons combine, turning what\nbegan as a single-particle search into a survey of a larger family.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260831015147.htm",
+    "published_at": "2026-09-02"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_aaec2a",
+      "slug": "glueball-x2370",
+      "type": "paper",
+      "title": "Physics's Long-Sought 'Glueball' May Finally Be Here",
+      "hook": "The strong force's glue can bind to itself, making a particle with no quarks at all. Physicists hunted these 'glueballs' for 50 years — BESIII says the X(2370) is the strongest candidate yet.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "card_13b1bf",
+      "slug": "the-force-on-a-quark",
+      "type": "paper",
+      "title": "Measuring the force that traps a quark inside the proton",
+      "hook": "Nobody has ever seen a free quark. A sharpened reconstruction of the actual force tugging on one inside the proton comes out looking like a string pulled at constant tension.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_3206bb",
+      "slug": "how-many-elementary-particles",
+      "type": "news",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "hook": "Count the Standard Model's particles and you might say 17 — but tweak the rules and the tally climbs past 900, with one rigorous answer that isn't even a whole number.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-15"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9e52ca#0",
+      "format": "quiz",
+      "prompt": "What makes the XYZ states 'exotic'?",
+      "choices": [
+        {
+          "text": "They do not fit the standard two-quark or three-quark hadron patterns",
+          "correct": true
+        },
+        {
+          "text": "They carry no electric charge",
+          "correct": false
+        },
+        {
+          "text": "They travel faster than light inside the detector",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eConventional hadrons are quark-antiquark mesons or three-quark baryons. XYZ states match\nneither, hinting at four-quark bound states or molecule-like pairings of ordinary hadrons.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9e52ca#1",
+      "format": "flip",
+      "prompt": "Why is finding a new exotic hadron scientifically useful?",
+      "back_html": "\u003cp\u003eEach state is a fresh constraint on how the strong force binds quarks and gluons — the\nregime of QCD that is too strong to calculate perturbatively.\u003c/p\u003e"
+    }
+  ]
+}

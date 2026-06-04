@@ -1,0 +1,89 @@
+{
+  "id": "card_429377",
+  "slug": "ai-and-elections",
+  "type": "concept",
+  "title": "AI, Elections \u0026 Democracy",
+  "hook": "AI lets anyone fake a candidate's voice, flood feeds with tailored propaganda, and impersonate officials — cheaply, at scale. The antidote is slower, more skeptical habits, not better eyesight.",
+  "key_points": [
+    "AI enables fake audio/video of politicians, mass-produced propaganda, and fake 'voters' online.",
+    "Targeted messaging can show different people different (mis)information.",
+    "Treat dramatic, last-minute, emotionally charged political clips with suspicion.",
+    "Verify election logistics (when/where/how to vote) only via official sources."
+  ],
+  "content_html": "\u003cp\u003eDemocracy runs on information, which is exactly why AI poses a real challenge to it. The same tools that make a fun image generator also let bad actors fake a candidate saying something they never said, mass-produce slick propaganda in seconds, and run armies of fake accounts that impersonate ordinary voters to manufacture the appearance of a groundswell. There have already been incidents of AI-cloned voices of politicians and officials used to deceive voters, including robocalls telling people not to vote. The cost of producing convincing political lies has collapsed, and the volume has exploded.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo dynamics make this especially corrosive. \u003cstrong\u003eMicro-targeting\u003c/strong\u003e means different groups can be shown different, tailored messages — even contradictory ones — making manipulation hard to spot from the outside. And the sheer \u003cstrong\u003eflood\u003c/strong\u003e of synthetic content can drown out reliable information and, just as damaging, give liars cover: when anything \u003cem\u003ecan\u003c/em\u003e be fake, real evidence gets dismissed as \u0026quot;probably AI\u0026quot; too. There's no clever visual trick that reliably saves you here, because the fakes keep getting better. What protects you are habits: be especially wary of dramatic, emotionally charged political content, particularly right before an election when there's no time to debunk it; pause before sharing, since sharing is how this spreads; and cross-check claims against established, independent news outlets. Most concretely of all — for the practical facts of voting (your registration status, polling place, dates, and rules) trust only official election authorities, never a viral post, an ad, or a chatbot. An informed, slightly skeptical public is the strongest defense democracy has against synthetic deception.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-elections"
+  ],
+  "tags": [
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82f0f6",
+      "slug": "ai-and-the-news",
+      "type": "concept",
+      "title": "AI \u0026 the News",
+      "hook": "AI now writes news, fakes whole 'outlets,' and powers the feed deciding what you see. Staying informed increasingly means knowing how the sausage is made — and who made it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_429377#0",
+      "format": "quiz",
+      "prompt": "How does AI threaten elections?",
+      "choices": [
+        {
+          "text": "Fake media of candidates, mass propaganda, and fake online 'voters' at scale",
+          "correct": true
+        },
+        {
+          "text": "By directly changing votes in the machines",
+          "correct": false
+        },
+        {
+          "text": "It doesn't affect elections at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe threat is to the information around voting: cheap deepfakes, automated\npropaganda, and bot accounts that fake grassroots support or sow confusion.\u003c/p\u003e"
+    },
+    {
+      "id": "card_429377#1",
+      "format": "flip",
+      "prompt": "Where should you confirm how, when, and where to vote?",
+      "back_html": "\u003cp\u003eOnly through official election authorities — never a viral post or chatbot,\nwhich can spread wrong dates, locations, or rules.\u003c/p\u003e"
+    }
+  ]
+}

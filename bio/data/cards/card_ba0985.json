@@ -1,0 +1,111 @@
+{
+  "id": "card_ba0985",
+  "slug": "what-is-biotechnology",
+  "type": "concept",
+  "title": "What Is Biotechnology?",
+  "hook": "From cheese and beer to insulin and vaccines, biotechnology puts living things — or their molecular parts — to work making products we need.",
+  "key_points": [
+    "Biotechnology uses living organisms or their components to make useful products.",
+    "It's ancient — bread, beer, and cheese all rely on microbes doing chemistry for us.",
+    "Modern biotech harnesses cells and genes to make medicines, foods, and materials.",
+    "It spans medicine, agriculture, industry, and environmental cleanup."
+  ],
+  "content_html": "\u003cp\u003eBiotechnology means putting living organisms, or the molecular machinery inside them, to work making things people want. It sounds futuristic, but humans have done it for millennia: the yeast that raises bread, ferments beer, and the bacteria that turn milk into cheese and yogurt are all tiny living factories doing chemistry on our behalf.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Encyclopaedia Britannica describes it, what changed in the modern era is precision. Once we understood cells and DNA, we could direct these living systems deliberately — engineering bacteria to pump out human insulin, growing cells that produce vaccines, breeding crops that resist pests, or unleashing microbes that digest oil spills. The toolkit now reaches across medicine, agriculture, industry, and the environment. The common thread never changes: biotechnology borrows the chemistry of life and aims it at a useful goal.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/technology/biotechnology",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "biotechnology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_cb9097",
+      "slug": "gmos-and-genetic-engineering",
+      "type": "concept",
+      "title": "GMOs and Genetic Engineering",
+      "hook": "By deliberately rewriting an organism's DNA, scientists can make bacteria brew human insulin or crops resist pests — traits nature never handed them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e0bc83",
+      "slug": "dna-sequencing-and-the-genome",
+      "type": "concept",
+      "title": "DNA Sequencing and the Genome",
+      "hook": "Sequencing reads the exact order of the letters in DNA — and the Human Genome Project read all 3 billion of ours for the first time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a18add",
+      "slug": "synthetic-biology",
+      "type": "concept",
+      "title": "Synthetic Biology",
+      "hook": "If genetic engineering edits life's existing code, synthetic biology aims to engineer it from the ground up — designing new biological parts and even whole systems.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ba0985#0",
+      "format": "flip",
+      "prompt": "What is biotechnology, in one sentence?",
+      "back_html": "\u003cp\u003eUsing \u003cstrong\u003eliving things — or their parts, like cells and enzymes — to make useful\nproducts\u003c/strong\u003e, from food and medicine to fuels and materials.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ba0985#1",
+      "format": "quiz",
+      "prompt": "Which everyday product is an example of ancient biotechnology?",
+      "choices": [
+        {
+          "text": "Bread, made with yeast that ferments sugars into gas that lifts the dough",
+          "correct": true
+        },
+        {
+          "text": "A glass window made by melting sand",
+          "correct": false
+        },
+        {
+          "text": "A steel beam forged in a furnace",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYeast is a living microbe. Letting it ferment dough is biotechnology — humans\nhave done it for thousands of years without knowing the microbe was there.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ba0985#2",
+      "format": "quiz",
+      "prompt": "Which of these is NOT a typical field of biotechnology?",
+      "choices": [
+        {
+          "text": "Mining metal ore with explosives",
+          "correct": true
+        },
+        {
+          "text": "Making medicines like insulin",
+          "correct": false
+        },
+        {
+          "text": "Improving crops in agriculture",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBiotech spans medicine, agriculture, industry, and environmental cleanup — all\nusing living systems. Blasting rock for ore relies on no living process.\u003c/p\u003e"
+    }
+  ]
+}

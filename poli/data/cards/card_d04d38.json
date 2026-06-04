@@ -1,0 +1,142 @@
+{
+  "id": "card_d04d38",
+  "slug": "when-a-detention-clock-resets",
+  "type": "news",
+  "title": "A Time Limit Only Binds If Someone Counts the Clock",
+  "hook": "A 72-hour cap on holding someone sounds like a hard limit. It is only as hard as the rule about when the count starts over.",
+  "key_points": [
+    "Detention rules often cap how long a facility may hold someone before transfer or release — a procedural, not substantive, protection.",
+    "If a new booking starts a fresh count, the same person can be held far longer than the cap while every individual hold looks compliant.",
+    "ProPublica reports local jails contracted to hold immigrants for 72 hours; one woman was held 26 days in total across bookings.",
+    "Caps written per-episode rather than per-person are the loophole: nothing in the paperwork ever shows a violation.",
+    "Enforcing a limit needs a cumulative counter, an outside auditor, and records that follow the individual across facilities."
+  ],
+  "content_html": "\u003cp\u003eA rule that says a jail may hold someone for no more than 72 hours reads like a hard ceiling. It is really a procedural promise, and procedural promises depend entirely on the bookkeeping around them. The decisive question is not the number of hours but when the count starts over. ProPublica's Mario Ariza, Hannah Beckler, Libby Seline and Chris Alcantara report on local jails contracted to hold immigrants for only 72 hours at a time, where one woman ended up detained for 26 days in total.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe mechanism is worth understanding because it recurs far beyond immigration. When a limit attaches to a detention \u003cem\u003eepisode\u003c/em\u003e rather than to a \u003cem\u003eperson\u003c/em\u003e, releasing and re-booking someone produces a fresh clock, and a chain of individually compliant holds adds up to a stay the cap was written to prevent. Nothing in any single record looks wrong; the violation exists only in a total that no one is required to compute. Contracted facilities make this harder to see still, since the records sit with an operator rather than the agency that set the limit.\u003c/p\u003e\n\u003cp\u003eThe general lesson is that a procedural safeguard needs three things to bite: a counter defined over the individual rather than the episode, records that follow that individual across facilities, and someone outside the holding facility with both the authority and the appetite to add them up. Absent those, a time limit is less a constraint than a description of how the paperwork is organized.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Mario Ariza",
+      "Hannah Beckler",
+      "Libby Seline",
+      "Chris Alcantara"
+    ],
+    "url": "https://propublica.org/article/immigrants-rebooking-ice-jails-florida",
+    "published_at": "2026-08-27",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption",
+    "rights-civil-liberties"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_a9ea7f",
+      "slug": "oversight-gaps-in-contracted-custody",
+      "type": "news",
+      "title": "When the State Contracts Out Custody, Oversight Doesn't Follow",
+      "hook": "Governments can delegate the job of locking someone up. What often fails to travel with the contract is the duty to open the records.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "card_8b4e22",
+      "slug": "outsourcing-detention",
+      "type": "news",
+      "title": "When Detention Is a Revenue Line",
+      "hook": "Contract out a coercive government function and you create a company whose earnings rise with enforcement — and whose shareholders now have a stake in how the policy goes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-08"
+    },
+    {
+      "id": "card_92c7cb",
+      "slug": "war-powers-clock-reset",
+      "type": "news",
+      "title": "The 60-Day Clock That Keeps Getting Reset",
+      "hook": "The War Powers Resolution gives Congress 60 days to approve a war before the president must stop — but a new 'notice' can restart the clock, and Congress has struggled to make its objection stick.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_8b4e22",
+      "slug": "outsourcing-detention",
+      "type": "news",
+      "title": "When Detention Is a Revenue Line",
+      "hook": "Contract out a coercive government function and you create a company whose earnings rise with enforcement — and whose shareholders now have a stake in how the policy goes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-08"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_d04d38#0",
+      "format": "flip",
+      "prompt": "How can a 72-hour detention cap coexist with someone being held for weeks?",
+      "back_html": "\u003cp\u003eIf each new booking starts the count over, a person can be re-booked\nrepeatedly. Every individual hold stays under the cap, so the paperwork\nnever records a violation even as the total grows.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d04d38#1",
+      "format": "quiz",
+      "prompt": "What drafting choice turns a time cap into a loophole?",
+      "choices": [
+        {
+          "text": "Writing the limit per detention episode rather than cumulatively per person",
+          "correct": true
+        },
+        {
+          "text": "Setting the limit in hours instead of days",
+          "correct": false
+        },
+        {
+          "text": "Applying the limit to local jails rather than federal facilities",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA per-episode cap is satisfied by every short hold in a chain. Only a\ncumulative, per-person count can bound how long someone is actually held.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d04d38#2",
+      "format": "quiz",
+      "prompt": "What does enforcing such a limit actually require?",
+      "choices": [
+        {
+          "text": "A cumulative counter, an outside auditor, and records that follow the person across facilities",
+          "correct": true
+        },
+        {
+          "text": "A shorter cap, such as 48 hours",
+          "correct": false
+        },
+        {
+          "text": "The facility's own assurance that it complies",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe failure is one of counting and visibility, so the remedy is a running\ntotal someone outside the facility can check.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "card_aaec2a",
+  "slug": "glueball-x2370",
+  "type": "paper",
+  "title": "Physics's Long-Sought 'Glueball' May Finally Be Here",
+  "hook": "The strong force's glue can bind to itself, making a particle with no quarks at all. Physicists hunted these 'glueballs' for 50 years — BESIII says the X(2370) is the strongest candidate yet.",
+  "key_points": [
+    "Quantum chromodynamics predicts 'glueballs' — particles bound purely from gluons, the strong force's carriers, with no quarks inside.",
+    "Predicted ~50 years ago, glueballs are hard to spot because they can mix with ordinary quark mesons of similar mass.",
+    "Using 10 billion J/ψ decays, BESIII found a key X(2370) decay mode strongly suppressed, setting a tight upper limit.",
+    "That suppression marks X(2370) as a 'flavor-singlet' — the first light hadron of its kind ever seen above 1 GeV/c².",
+    "Its mass, spin-parity, production rate, and decay pattern all match the lightest predicted glueball, disfavoring rival explanations."
+  ],
+  "content_html": "\u003cp\u003eQuantum chromodynamics — the theory of the strong force — makes a strange prediction: the gluons that normally glue quarks together can also bind to each other, forming a particle with no quarks at all. These \u0026quot;glueballs\u0026quot; have been hunted for roughly half a century. Now the BESIII experiment in China reports the strongest case yet that a particle called the X(2370) is one.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eUsing 10 billion J/ψ decays, BESIII searched for the X(2370) decaying into K*(892)⁰K̄⁰ and found no sign of it, setting a tight upper limit. That suppression flags the X(2370) as a \u0026quot;flavor-singlet\u0026quot; — the first light hadron of its kind ever seen above 1 GeV/c². Combined with its other measured traits — its mass, its spin-parity, its abundant production in J/ψ radiative decays, and a decay pattern echoing the η_c — the collaboration argues that every property lines up with the lightest predicted glueball, while rival explanations fall short. Glueballs are notoriously slippery because they can blend with ordinary quark mesons of similar mass, so the team frames the finding as strong evidence rather than outright discovery. Attribution: BESIII Collaboration, arXiv (2026).\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "BESIII Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2607.20366",
+    "published_at": "2026-07-22",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-23",
+  "date": "2026-07-22",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3206bb",
+      "slug": "how-many-elementary-particles",
+      "type": "news",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "hook": "Count the Standard Model's particles and you might say 17 — but tweak the rules and the tally climbs past 900, with one rigorous answer that isn't even a whole number.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-15"
+    },
+    {
+      "id": "card_e16fb0",
+      "slug": "quark-gluon-plasma-in-light-ion-collisions",
+      "type": "paper",
+      "title": "Evidence for Sequential Υ(nS) Suppression in Light Ion Collisions",
+      "hook": "Physicists just found the same 'melting pattern' that signals a quark-gluon plasma — the universe's primordial soup — in much smaller particle collisions than ever confirmed before.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_aaec2a#0",
+      "format": "flip",
+      "prompt": "What is a glueball?",
+      "back_html": "\u003cp\u003eA particle bound purely from \u003cstrong\u003egluons\u003c/strong\u003e — the carriers of the strong force —\nwith no quarks inside. Quantum chromodynamics predicts they exist.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aaec2a#1",
+      "format": "quiz",
+      "prompt": "Why have glueballs been so hard to identify?",
+      "choices": [
+        {
+          "text": "They can mix with ordinary quark mesons of similar mass",
+          "correct": true
+        },
+        {
+          "text": "They carry no electric charge, so detectors can't see them",
+          "correct": false
+        },
+        {
+          "text": "They only appear at energies no collider can reach",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA glueball can blend with an ordinary quark-antiquark meson of nearly the\nsame mass, muddying its signature — which is why \u0026quot;evidence\u0026quot; is the careful word.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aaec2a#2",
+      "format": "flip",
+      "prompt": "What did the strongly suppressed decay mode tell BESIII about the X(2370)?",
+      "back_html": "\u003cp\u003eIt marks X(2370) as a \u003cstrong\u003eflavor-singlet\u003c/strong\u003e state — the first light hadron of that\nkind seen above 1 GeV/c², exactly the hallmark expected of a glueball.\u003c/p\u003e"
+    }
+  ]
+}

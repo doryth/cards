@@ -1,0 +1,101 @@
+{
+  "id": "card_660dd5",
+  "slug": "vertebrates-and-invertebrates",
+  "type": "concept",
+  "title": "Vertebrates and Invertebrates",
+  "hook": "The animal kingdom splits along one simple line: do you have a backbone or not? The vast majority of animals don't.",
+  "key_points": [
+    "Vertebrates have an internal backbone (spine); invertebrates do not.",
+    "The great majority of animal species — about 95% — are invertebrates, like insects and worms.",
+    "Vertebrates fall into five main classes: fish, amphibians, reptiles, birds, and mammals.",
+    "A backbone is part of an internal skeleton that supports the body and protects the spinal cord."
+  ],
+  "content_html": "\u003cp\u003eFor all its variety, the animal kingdom is often first cut in two by a single question: is there a backbone inside? Animals with one are vertebrates; animals without are invertebrates. It feels like a tidy 50-50 split, but it isn't — the backbone-less animals dominate.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAbout 95% of all animal species are invertebrates: insects, spiders, worms, snails, jellyfish, and countless others, most of them small. Vertebrates are the minority, but they include the large, familiar animals and divide into five main classes — fish, amphibians, reptiles, birds, and mammals. Their defining backbone is part of an internal skeleton that supports the body and shields the delicate spinal cord running through it. Encyclopaedia Britannica's article on the vertebrate explains how the backbone defines this group and what sets its five classes apart from one another.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/animal/vertebrate",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "animals"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_477fab",
+      "slug": "the-animal-kingdom",
+      "type": "concept",
+      "title": "The Animal Kingdom",
+      "hook": "Sponges, spiders, sharks, and squirrels look nothing alike — yet all are animals, sharing a few deep traits that set them apart from plants, fungi, and microbes.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5bfd13",
+      "slug": "naming-and-classifying-species",
+      "type": "concept",
+      "title": "How Species Are Named",
+      "hook": "Every species on Earth gets a two-word Latin name — like Homo sapiens — under a tidy ranked system invented 250 years ago that scientists still use today.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_660dd5#0",
+      "format": "quiz",
+      "prompt": "What single feature separates vertebrates from invertebrates?",
+      "choices": [
+        {
+          "text": "Vertebrates have a backbone; invertebrates do not",
+          "correct": true
+        },
+        {
+          "text": "Vertebrates live in water; invertebrates live on land",
+          "correct": false
+        },
+        {
+          "text": "Vertebrates are warm-blooded; invertebrates are cold-blooded",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe dividing line is the backbone. Vertebrates have an internal spine; invertebrates,\nlike insects, worms, and jellyfish, lack one.\u003c/p\u003e"
+    },
+    {
+      "id": "card_660dd5#1",
+      "format": "flip",
+      "prompt": "What are the five main classes of vertebrates?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eFish, amphibians, reptiles, birds, and mammals\u003c/strong\u003e — the five major groups of\nanimals that have a backbone.\u003c/p\u003e"
+    },
+    {
+      "id": "card_660dd5#2",
+      "format": "quiz",
+      "prompt": "Which group makes up the great majority of animal species?",
+      "choices": [
+        {
+          "text": "Invertebrates",
+          "correct": true
+        },
+        {
+          "text": "Mammals",
+          "correct": false
+        },
+        {
+          "text": "Birds",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRoughly 95% of animal species are invertebrates — insects alone account for an\nenormous share. Vertebrates are a small, though familiar, minority.\u003c/p\u003e"
+    }
+  ]
+}

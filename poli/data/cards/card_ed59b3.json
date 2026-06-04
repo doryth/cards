@@ -1,0 +1,119 @@
+{
+  "id": "card_ed59b3",
+  "slug": "co-production-as-military-aid",
+  "type": "news",
+  "title": "Giving a Country Weapons vs. Teaching It to Build Them",
+  "hook": "Shipping missiles buys a partner time. Sharing the blueprints changes what it can do without you — which is why technology transfer is a bigger decision than any single delivery.",
+  "key_points": [
+    "Military aid runs on a ladder: finished weapons, then spare parts and maintenance, then licensed assembly, then full technology transfer.",
+    "Each rung trades short-term control for long-term partner capability — and is harder to reverse than the one below it.",
+    "Sharing classified design information usually needs export-control approval and touches agreements with the original manufacturer.",
+    "In August 2026 the U.K. said defence firm MBDA would release details of U.K.-made SCALP missile components so Ukraine could assemble long-range missiles itself.",
+    "Domestic assembly also shifts the political question: a partner that can build a weapon no longer needs permission to use it."
+  ],
+  "content_html": "\u003cp\u003eHelping an ally fight is not one decision but a ladder of them. At the bottom is sending finished weapons; above that, spare parts and maintenance training; above that, licensed local assembly; at the top, handing over the design information needed to build the thing outright. Every rung buys the partner more independence — and costs the supplier some leverage, because deliveries can be slowed as pressure while knowledge cannot be taken back.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn August 2026 the U.K. moved up that ladder for Ukraine. During a visit to Kyiv for Ukraine's Independence Day, U.K. defence secretary Burnham said the European missile maker MBDA would release details of U.K.-made components of the SCALP long-range missile so Ukraine could assemble the weapons itself, the Associated Press reported.\u003c/p\u003e\n\u003cp\u003eTransfers like this typically require export-control clearance and the agreement of the original manufacturer, because classified design data is involved. They also quietly change the politics of a conflict: a country that can build its own long-range weapons no longer has to ask anyone before using them.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "The Associated Press"
+    ],
+    "url": "https://npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+    "published_at": "2026-08-25",
+    "license": "© NPR / AP (educational reference)"
+  },
+  "topic_ids": [
+    "conflict-and-security",
+    "international-relations"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_1726f4",
+      "slug": "war-and-peace",
+      "type": "concept",
+      "title": "War \u0026 Peace",
+      "hook": "War is politics at its most extreme — organized violence between groups. Understanding why it happens, and how peace is kept, is central to the study of states.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_72061b",
+      "slug": "diplomacy-and-war",
+      "type": "concept",
+      "title": "Diplomacy \u0026 War",
+      "hook": "States pursue their interests on a spectrum that runs from the conference table to the battlefield. Diplomacy and war are two ends of the same toolkit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1aa0a",
+      "slug": "soft-power-and-hard-power",
+      "type": "concept",
+      "title": "Soft Power \u0026 Hard Power",
+      "hook": "States get their way two ways: by force and money, or by attraction. Knowing the difference between hard power and soft power explains a lot about how influence really works.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5ab42f",
+      "slug": "state-sovereignty-among-nations",
+      "type": "concept",
+      "title": "Sovereignty Among Nations",
+      "hook": "Inside its borders a state is supreme — but in the world of states there's no higher ruler. That gap, called anarchy, shapes everything about international politics.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_72061b",
+      "slug": "diplomacy-and-war",
+      "type": "concept",
+      "title": "Diplomacy \u0026 War",
+      "hook": "States pursue their interests on a spectrum that runs from the conference table to the battlefield. Diplomacy and war are two ends of the same toolkit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_ed59b3#0",
+      "format": "flip",
+      "prompt": "What distinguishes technology transfer from ordinary arms supply?",
+      "back_html": "\u003cp\u003eSupplying weapons keeps production — and therefore leverage — at home.\nTransferring the technology lets the partner build them independently.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ed59b3#1",
+      "format": "quiz",
+      "prompt": "Why is sharing weapons designs harder to reverse than sending finished missiles?",
+      "choices": [
+        {
+          "text": "Once a partner can manufacture the weapon, it no longer depends on the supplier's approval",
+          "correct": true
+        },
+        {
+          "text": "International law forbids ending a technology-sharing deal",
+          "correct": false
+        },
+        {
+          "text": "Finished weapons cannot be withheld once promised",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDeliveries can be slowed or stopped as leverage. Knowledge, once handed\nover, stays with the recipient.\u003c/p\u003e"
+    }
+  ]
+}

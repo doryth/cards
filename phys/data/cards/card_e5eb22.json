@@ -1,0 +1,122 @@
+{
+  "id": "card_e5eb22",
+  "slug": "how-rainbows-form",
+  "type": "concept",
+  "title": "How Rainbows Form",
+  "hook": "A rainbow isn't an object in the sky — it's sunlight bending through millions of raindrops, each splitting white light into colors and bouncing one back toward your eyes.",
+  "key_points": [
+    "Light bends entering a raindrop, reflects off its back, and bends again leaving.",
+    "Colors bend by slightly different amounts (dispersion), fanning white light into a spectrum.",
+    "You see the bow about 42° from the point opposite the Sun, with the Sun behind you.",
+    "A fainter second bow, with colors reversed, comes from light reflecting twice inside drops."
+  ],
+  "content_html": "\u003cp\u003eA rainbow looks like a solid arch hanging in the sky, but it's really a trick of geometry played out in countless raindrops. When sunlight enters a drop, it slows and bends (refracts). Some of it reflects off the back of the drop and bends again on the way out. Crucially, water bends different colors by slightly different amounts — an effect called dispersion — so the white sunlight fans out into its spectrum, red through violet, as it leaves each drop.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEvery drop sends its colors back out at a particular angle, so you only see the bow where the geometry lines up: in a circle about 42 degrees away from the point directly opposite the Sun. That's why you must stand with the Sun behind you and the rain ahead, and why the bow sits low when the Sun is high. Because it depends on the angle between you, the drops, and the Sun, the rainbow has no fixed location — each person sees their own, and it shifts as you move. Sometimes light reflects twice inside the drops and produces a second, fainter bow outside the first, with its colors running in reverse order. Wikipedia walks through the ray paths and the angles involved.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rainbow",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "light-optics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_af8914",
+      "slug": "reflection-and-refraction",
+      "type": "concept",
+      "title": "Reflection \u0026 Refraction",
+      "hook": "A straw looks bent in a glass of water — not because the straw bends, but because light does when it changes speed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80e637",
+      "slug": "electromagnetic-spectrum",
+      "type": "concept",
+      "title": "The Electromagnetic Spectrum",
+      "hook": "Radio, microwaves, the warmth of sunlight, the colors you see, and a hospital X-ray are all the same thing — electromagnetic waves, differing only in wavelength.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d0578d",
+      "slug": "why-the-sky-is-blue",
+      "type": "concept",
+      "title": "Why the Sky Is Blue",
+      "hook": "Sunlight is white, yet the sky is blue and sunsets are red. The reason is that air scatters blue light far more than red — and the rest follows.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_af8914",
+      "slug": "reflection-and-refraction",
+      "type": "concept",
+      "title": "Reflection \u0026 Refraction",
+      "hook": "A straw looks bent in a glass of water — not because the straw bends, but because light does when it changes speed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_e5eb22#0",
+      "format": "flip",
+      "prompt": "What happens to sunlight inside a raindrop to make a rainbow?",
+      "back_html": "\u003cp\u003eIt \u003cstrong\u003erefracts\u003c/strong\u003e entering the drop, \u003cstrong\u003ereflects\u003c/strong\u003e off the back, and refracts again\nleaving — and different colors bend by different amounts, spreading the spectrum.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e5eb22#1",
+      "format": "quiz",
+      "prompt": "Why do you have to stand with the Sun behind you to see a rainbow?",
+      "choices": [
+        {
+          "text": "The light bounces back out of the drops toward the Sun's direction, so the bow appears opposite the Sun",
+          "correct": true
+        },
+        {
+          "text": "Rainbows only form on the same side of the sky as the Sun",
+          "correct": false
+        },
+        {
+          "text": "Looking toward the Sun is just too bright to notice it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDrops send the colored light back at a specific angle, forming the bow in a\nring about 42° around the point directly opposite the Sun — behind you.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e5eb22#2",
+      "format": "quiz",
+      "prompt": "What causes the colors in a rainbow to separate?",
+      "choices": [
+        {
+          "text": "Dispersion — each color refracts by a slightly different amount",
+          "correct": true
+        },
+        {
+          "text": "The raindrops are themselves different colors",
+          "correct": false
+        },
+        {
+          "text": "Clouds filter sunlight into separate colors",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhite sunlight is a mix of colors, and water bends each by a different amount,\nso they emerge spread out into the familiar band.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "card_ee1a3f",
+  "slug": "asking-the-court-to-reconsider",
+  "type": "news",
+  "title": "The Appeal After the Last Appeal",
+  "hook": "When the Supreme Court declines your case, one option remains: ask it to reconsider. It has not granted such a request since 2018.",
+  "key_points": [
+    "A petition for rehearing asks the Court to revisit an order it has already issued — the final procedural step available.",
+    "SCOTUSblog reports the Court has not granted one since 2018; denial is effectively automatic.",
+    "Denials come with no explanation, in routine order lists rather than opinions.",
+    "On August 17, 2026 the Court denied rehearing in Trump's bid to appeal the E. Jean Carroll civil verdict, which it had first refused in June.",
+    "A denial of review is not a ruling on the merits — it simply leaves the lower court's judgment in place."
+  ],
+  "content_html": "\u003cp\u003eMost people know the Supreme Court chooses its cases and turns away the overwhelming majority. Fewer know there is a step after that: a petition for rehearing, asking the Court to reconsider the order it just issued. It exists, it is filed regularly, and it essentially never works.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSCOTUSblog's Amy Howe notes the striking statistic — the Court has not granted a rehearing petition since 2018. The occasion for the reminder was a case involving President Trump, who asked the Court to reconsider its June 2026 refusal to hear his appeal of the E. Jean Carroll civil suit and its $5 million verdict. On August 17, 2026, the Court denied that request in its second summer order list, with no explanation, as is standard for such orders. Two civics points sit underneath the procedural trivia. First, finality is a feature: an appellate system needs a genuine last step, or litigation never ends. Second, and more commonly misunderstood, a refusal to hear a case is not an endorsement of the ruling below. The Court is saying it will not take the question up, which leaves the lower court's judgment standing without the Court ever having said whether it agrees.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Amy Howe"
+    ],
+    "url": "https://scotusblog.com/2026/08/court-turns-down-trumps-request-to-reconsider-its-refusal-to-hear-carroll-suit-against-him",
+    "published_at": "2026-08-17",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_7da30b",
+      "slug": "how-the-supreme-court-decides",
+      "type": "blog",
+      "title": "How the Supreme Court Decides a Case",
+      "hook": "A top court hears only a sliver of the cases that beg for its attention — and the path from petition to ruling runs through written briefs, a public argument, and a vote taken in secret.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_ad4830",
+      "slug": "the-shadow-docket",
+      "type": "news",
+      "title": "The Supreme Court's 'Shadow Docket'",
+      "hook": "Most Supreme Court rulings today aren't fully-argued opinions — they're fast, often unsigned orders with little explanation. In the term ending October 2025, those quietly became the majority.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7da30b",
+      "slug": "how-the-supreme-court-decides",
+      "type": "blog",
+      "title": "How the Supreme Court Decides a Case",
+      "hook": "A top court hears only a sliver of the cases that beg for its attention — and the path from petition to ruling runs through written briefs, a public argument, and a vote taken in secret.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_ee1a3f#0",
+      "format": "flip",
+      "prompt": "What is a petition for rehearing at the Supreme Court?",
+      "back_html": "\u003cp\u003eA request that the Court revisit an order it has already issued — the\nlast procedural move available after review is denied. SCOTUSblog\nreports none has been granted since 2018.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ee1a3f#1",
+      "format": "quiz",
+      "prompt": "What does it mean when the Supreme Court declines to hear a case?",
+      "choices": [
+        {
+          "text": "The lower court's judgment stands; the Court has said nothing about who was right",
+          "correct": true
+        },
+        {
+          "text": "The Court has affirmed the lower court's reasoning as correct",
+          "correct": false
+        },
+        {
+          "text": "The case is dismissed and the judgment erased",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA denial of review resolves nothing on the merits — it only ends the\nappeal, leaving the decision below intact.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ee1a3f#2",
+      "format": "quiz",
+      "prompt": "Why do denials of rehearing come without explanation?",
+      "choices": [
+        {
+          "text": "They are issued as routine order-list entries, not opinions",
+          "correct": true
+        },
+        {
+          "text": "Federal law forbids the Court from explaining them",
+          "correct": false
+        },
+        {
+          "text": "Each justice must file a separate sealed reason",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOrder lists dispose of procedural requests in bulk, with no reasoning\nattached — standard practice for this step.\u003c/p\u003e"
+    }
+  ]
+}

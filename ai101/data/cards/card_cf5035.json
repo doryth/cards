@@ -1,0 +1,95 @@
+{
+  "id": "card_cf5035",
+  "slug": "secret-federal-ai-safety-rules",
+  "type": "news",
+  "title": "The Government Reviews Frontier AI — And Won't Say How",
+  "hook": "US officials now sign off on the most powerful AI models before release. A lawsuit is trying to find out what the criteria actually are.",
+  "key_points": [
+    "A lawsuit may force the Trump administration to disclose the rules federal agencies use to safety-test frontier AI models, per Ars Technica.",
+    "The suit argues secret reviews of frontier models could conceal corruption or favoritism.",
+    "The underlying fact is the newsworthy part: government pre-release review of AI models is now routine.",
+    "Undisclosed criteria can't be audited, contested, or applied consistently across companies.",
+    "Secrecy cuts both ways — a lab can't prove it was treated fairly either."
+  ],
+  "content_html": "\u003cp\u003eA lawsuit may force the Trump administration to reveal the rules federal agencies use when safety-testing frontier AI models, Ars Technica reports. The plaintiffs' argument is blunt: secret reviews of the most powerful models create room for corruption, and the public has no way to know whether the process is even-handed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eStep back from the litigation and there's a bigger fact sitting underneath it. Government review of frontier models before they ship has become a normal part of the release process — a real shift from the era when labs simply decided for themselves when a model was ready. That's arguably progress over pure self-governance.\u003c/p\u003e\n\u003cp\u003eThe catch is that a standard nobody can read isn't much of a standard. If the criteria aren't public, no one outside can check whether two companies got the same treatment, whether the bar moved between administrations, or whether a review ever blocked anything. The secrecy is bad for the labs too: a company cleared under invisible rules can't prove it was cleared fairly, and one that's held up can't contest why. Publishing the criteria is the cheapest way to make the process mean something — which is exactly what the lawsuit is asking for.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing",
+    "published_at": "2026-09-02",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-regulation",
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_58749d",
+      "slug": "openai-slows-development",
+      "type": "news",
+      "title": "OpenAI Slowed Itself Down. That's Not Nothing — and Not Much.",
+      "hook": "Facing an IPO and hard-charging rivals, OpenAI says it paused parts of its AI development to tighten security. Every part of that is voluntary.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cf5035#0",
+      "format": "flip",
+      "prompt": "What is the lawsuit actually seeking?",
+      "back_html": "\u003cp\u003eDisclosure of the criteria federal agencies use when safety-testing frontier AI\nmodels before release — rules that are currently not public.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cf5035#1",
+      "format": "quiz",
+      "prompt": "Why does the secrecy of these criteria matter?",
+      "choices": [
+        {
+          "text": "Undisclosed rules can't be audited or shown to be applied evenly across companies",
+          "correct": true
+        },
+        {
+          "text": "Secret rules are automatically unconstitutional",
+          "correct": false
+        },
+        {
+          "text": "It means no safety testing is actually happening",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA standard nobody can read can't be checked for consistency or contested — which is\nthe corruption concern the suit raises.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cf5035#2",
+      "format": "flip",
+      "prompt": "Beyond the lawsuit, what's the notable background fact here?",
+      "back_html": "\u003cp\u003eThat US government pre-release review of frontier AI models has quietly become\nroutine — a significant shift from purely voluntary self-governance.\u003c/p\u003e"
+    }
+  ]
+}

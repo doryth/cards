@@ -1,0 +1,108 @@
+{
+  "id": "card_1e076a",
+  "slug": "peer-review-ai-era",
+  "type": "news",
+  "title": "Peer Review Is Buckling Under the AI Era",
+  "hook": "Science's quality-control system runs on unpaid volunteers reading each other's papers. AI makes papers much faster to write — and not one bit faster to check.",
+  "key_points": [
+    "Peer review is volunteer work: researchers vet each other's papers unpaid, on top of their day jobs.",
+    "Ars Technica reports submissions are surging as AI speeds up drafting and analysis.",
+    "Writing scales with AI; careful human reading does not — so the backlog grows.",
+    "A strained review pool means weaker papers can slip through, or good ones sit for months.",
+    "Practical takeaway: 'peer-reviewed' is a useful signal, not a guarantee."
+  ],
+  "content_html": "\u003cp\u003eBefore a scientific paper is published, other researchers in the field are supposed to read it and poke holes in it. That's peer review, and it runs almost entirely on volunteers — experts doing it unpaid, squeezed between their own research and teaching. Ars Technica reports that this system is now struggling: the volume of research being submitted keeps climbing, helped along by AI tools that speed up drafting and analysis, while the pool of people willing to review it has not grown to match.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe mismatch is the whole story. Generating a plausible-looking manuscript has gotten dramatically cheaper; carefully checking whether its claims hold up has not, because that still requires a human expert's attention. Journalist Saima Sidik's piece lays out the squeeze on reviewers — see the source for the specifics and the fixes people are proposing.\u003c/p\u003e\n\u003cp\u003eWhy it matters if you don't publish papers: \u0026quot;peer-reviewed\u0026quot; is one of the few shortcuts non-specialists have for deciding whether a scientific claim is worth taking seriously. It's a genuinely useful signal, but this is a good reminder that it's a signal, not a certificate. An overloaded review system means some thin work gets waved through and some solid work waits months. When you see a startling study in a headline, it's still worth asking who checked it, and whether anyone has replicated it.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Saima Sidik"
+    ],
+    "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era",
+    "published_at": "2026-08-10",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-and-truth",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-10",
+  "related": [
+    {
+      "id": "card_5e58f4",
+      "slug": "what-happens-to-truth",
+      "type": "concept",
+      "title": "What Happens to Truth?",
+      "hook": "When anything can be faked and the internet floods with synthetic everything, the danger isn't just believing lies — it's the 'liar's dividend,' where real evidence gets dismissed as fake too.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_03fe8f",
+      "slug": "ai-detectors-distrust",
+      "type": "news",
+      "title": "AI Detectors Are Making Everyone Suspicious of Everyone",
+      "hook": "Tools that claim to spot AI writing are unreliable enough to flag honest work — and the damage isn't just false accusations. It's that nobody trusts anything anymore.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1e076a#0",
+      "format": "flip",
+      "prompt": "Why does AI put peer review under strain?",
+      "back_html": "\u003cp\u003eAI makes papers much faster to write, but reviewing still needs a human expert\nreading carefully for free. Submissions scale; reviewer hours don't.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1e076a#1",
+      "format": "quiz",
+      "prompt": "Who normally does peer review?",
+      "choices": [
+        {
+          "text": "Other researchers in the field, unpaid and on top of their own work",
+          "correct": true
+        },
+        {
+          "text": "Full-time salaried reviewers employed by each journal",
+          "correct": false
+        },
+        {
+          "text": "Government science regulators",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePeer review is volunteer labour by fellow researchers — which is exactly why a\nsurge in submissions can overwhelm it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1e076a#2",
+      "format": "quiz",
+      "prompt": "What should a reader take from this for judging research?",
+      "choices": [
+        {
+          "text": "'Peer-reviewed' is a helpful signal of quality, not a guarantee of correctness",
+          "correct": true
+        },
+        {
+          "text": "Peer-reviewed papers are always reliable",
+          "correct": false
+        },
+        {
+          "text": "Peer review is worthless and should be ignored",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn overloaded system lets some weak work through and delays good work. The label\nstill means something — just treat it as one check, not proof.\u003c/p\u003e"
+    }
+  ]
+}

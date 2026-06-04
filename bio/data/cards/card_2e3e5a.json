@@ -1,0 +1,109 @@
+{
+  "id": "card_2e3e5a",
+  "slug": "antibodies-and-immune-memory",
+  "type": "concept",
+  "title": "Antibodies and Immune Memory",
+  "hook": "The first time a germ infects you, your body fights from scratch. The second time, it remembers — and crushes the invader before you ever feel sick.",
+  "key_points": [
+    "Antibodies are Y-shaped proteins that lock onto one specific target on a pathogen.",
+    "By binding their target, antibodies neutralize invaders and flag them for destruction.",
+    "After an infection clears, long-lived memory cells stay behind, primed for that exact germ.",
+    "On a second exposure, memory lets the body respond far faster and stronger — often before symptoms appear."
+  ],
+  "content_html": "\u003cp\u003eWhen a pathogen gets past your outer defenses, the adaptive immune system makes antibodies — Y-shaped proteins, each one shaped to grip a single specific target on that invader. Binding to it neutralizes the germ and marks it for destruction. The first such response takes days. But the system keeps a record.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAfter the threat is cleared, most of the responding cells die off, but a population of long-lived memory cells stays behind, each one tuned to that exact pathogen. This is immune memory. When the same germ shows up again, those memory cells recognize it instantly and unleash a response that is far faster and stronger than the first — frequently wiping out the invader before you notice any symptoms at all. This is the principle vaccines exploit: they train memory without the danger of a real infection. Encyclopaedia Britannica's article on the antibody describes how these proteins recognize their targets and how the body banks that recognition for the future.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/antibody",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "immune-system"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b56025",
+      "slug": "how-immunity-works",
+      "type": "concept",
+      "title": "How Immunity Works",
+      "hook": "Your body fights invaders on two fronts: a fast, general first response that hits anything foreign, and a slower, custom-built defense that learns and remembers each specific enemy.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a9a451",
+      "slug": "vaccines",
+      "type": "concept",
+      "title": "Vaccines",
+      "hook": "A vaccine is a training session for your immune system — it learns to beat a dangerous pathogen using a harmless preview, so the real fight is already half-won.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_825c87",
+      "slug": "allergies-and-autoimmunity",
+      "type": "concept",
+      "title": "Allergies and Autoimmunity",
+      "hook": "A defense system this powerful can misfire — attacking harmless pollen as if it were a plague, or turning its weapons on the very body it's meant to protect.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2e3e5a#0",
+      "format": "flip",
+      "prompt": "What is an antibody, and what shape is it?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003eY-shaped protein\u003c/strong\u003e that binds to one specific target (an antigen) on a\npathogen, neutralizing it and flagging it for destruction.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2e3e5a#1",
+      "format": "quiz",
+      "prompt": "Why is a second infection by the same germ usually fought off faster?",
+      "choices": [
+        {
+          "text": "Memory cells from the first infection let the body respond quickly and strongly",
+          "correct": true
+        },
+        {
+          "text": "The germ is weaker the second time around",
+          "correct": false
+        },
+        {
+          "text": "Antibodies from the first infection never go away and stay at full strength forever",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAfter clearing an infection, the body keeps memory cells tuned to that pathogen.\nOn re-exposure they mount a rapid, powerful response — often stopping illness before it starts.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2e3e5a#2",
+      "format": "quiz",
+      "prompt": "How does an antibody help defeat a pathogen?",
+      "choices": [
+        {
+          "text": "It locks onto a specific target, neutralizing the invader and marking it for destruction",
+          "correct": true
+        },
+        {
+          "text": "It dissolves the pathogen with stomach acid",
+          "correct": false
+        },
+        {
+          "text": "It carries oxygen to starve the pathogen",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEach antibody binds one specific antigen. That binding can block the invader directly\nand tags it so other immune cells know to destroy it.\u003c/p\u003e"
+    }
+  ]
+}

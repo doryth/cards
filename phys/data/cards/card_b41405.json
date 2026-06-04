@@ -1,0 +1,123 @@
+{
+  "id": "card_b41405",
+  "slug": "quantum-gravimeter-navigates-without-gps",
+  "type": "paper",
+  "title": "Navigating by Gravity Alone",
+  "hook": "A ship crossed 83 km of open water with GPS switched off, steering by tiny local changes in Earth's gravity measured with falling cold atoms.",
+  "key_points": [
+    "Satellite navigation is jammed or unavailable at sea, and pure inertial navigation drifts without an external fix.",
+    "Gravity map matching is a passive alternative: measure local gravity, compare it to a known anomaly map, infer where you are.",
+    "The team flew an atom-interferometer gravimeter on a 29 m vessel in an unstabilised cabin, hybridised with a classical accelerometer.",
+    "Over an 83 km trajectory with GNSS excluded, gravity aiding bounded the inertial drift at nautical-mile-level accuracy.",
+    "In survey mode it resolved features down to ~300 m along track, about 50x finer than the satellite gravity map.",
+    "A 56-hour stationary test showed the atomic reference cut long-term drift roughly 70x versus the classical sensor alone."
+  ],
+  "content_html": "\u003cp\u003eSatellite navigation is the invisible backbone of modern shipping, and it is also fragile — jammed, spoofed, or simply absent. The fallback, an inertial navigation system, works anywhere but slowly wanders off: it only ever measures acceleration, so tiny errors pile up into kilometres. This experiment demonstrates a third option that gives nothing away and needs no infrastructure: navigate by feeling the shape of Earth's gravity field.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEveritt and colleagues put a quantum gravimeter — an atom interferometer that reads gravity by timing freely falling cold atoms — aboard a 29 m surface vessel, in an ordinary cabin with no environmental stabilisation, and hybridised it with a classical accelerometer for bias stabilisation. Over an 83 km maritime trajectory with GNSS excluded from the entire measurement chain, matching the locally measured gravity to a satellite-derived anomaly map held the inertial solution to nautical-mile-level accuracy instead of letting it drift freely.\u003c/p\u003e\n\u003cp\u003eThe same instrument doubles as a survey tool. Run in a GNSS-referenced mode along coastal routes in seas up to Sea State 4, it agreed with existing gravimetric maps at the milligal level and resolved anomalies down to roughly 300 m along track — about fifty times finer than the satellite map's half-power wavelength. The authors also report the first same-instrument comparison of gimbaled and strapdown mobile quantum gravimetry, finding the two configurations comparable, which matters because strapdown mounting is what makes such a sensor small enough for an autonomous platform.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Patrick J. Everitt",
+      "Donald H. White",
+      "Todd Lyon",
+      "Michael J. Biercuk",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2608.25563",
+    "published_at": "2026-08-26",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "gravity-orbits"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_59a026",
+      "slug": "quantum-sensors-that-compute",
+      "type": "paper",
+      "title": "Don't Measure the Field, Measure the Answer",
+      "hook": "A single-qubit sensor gives you one bit per measurement. Instead of averaging thousands of them into a number, why not spend the quantum processing on the question you actually asked?",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-08-18"
+    },
+    {
+      "id": "card_8d492c",
+      "slug": "quantum-secure-time-transfer-satellites",
+      "type": "paper",
+      "title": "Syncing Clocks in Orbit Without Trusting GPS",
+      "hook": "Everything from power grids to finance runs on GPS time, and GPS can be spoofed. An entanglement-based link now synchronises clocks and distributes keys at 30 times the Micius rate.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-25"
+    },
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b41405#0",
+      "format": "flip",
+      "prompt": "What is gravity map matching, in one sentence?",
+      "back_html": "\u003cp\u003eYou measure the local strength of gravity, compare it against a pre-existing map of\ngravity anomalies, and use the match to work out where you are — no satellites, no\nsignals broadcast, nothing to jam.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b41405#1",
+      "format": "quiz",
+      "prompt": "Why does an inertial navigation system need an external aid like this at all?",
+      "choices": [
+        {
+          "text": "Its position estimate drifts without correction, since it only integrates measured acceleration",
+          "correct": true
+        },
+        {
+          "text": "It cannot measure acceleration at all while a vessel is rolling",
+          "correct": false
+        },
+        {
+          "text": "It stops working entirely once the ship leaves coastal waters",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn INS builds position by integrating acceleration, so small sensor errors accumulate\nwithout bound. Gravity aiding supplies an independent fix that bounds that drift.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b41405#2",
+      "format": "quiz",
+      "prompt": "What did the atomic sensor add over the classical accelerometer it was paired with?",
+      "choices": [
+        {
+          "text": "A stable long-term reference — about 70x less drift over a 56-hour test",
+          "correct": true
+        },
+        {
+          "text": "A much faster sampling rate for tracking wave motion",
+          "correct": false
+        },
+        {
+          "text": "Immunity to the ship's roll and pitch",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAtom interferometry ties the measurement to atomic constants rather than a drifting\nmechanical spring, so it anchors the classical channel's bias over long runs.\u003c/p\u003e"
+    }
+  ]
+}

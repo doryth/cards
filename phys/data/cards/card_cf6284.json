@@ -1,0 +1,145 @@
+{
+  "id": "card_cf6284",
+  "slug": "laptop-beats-77-qubit-chemistry-run",
+  "type": "paper",
+  "title": "A Laptop Redoes a 77-Qubit Chemistry Experiment in Under a Minute",
+  "hook": "One of the largest quantum-chemistry runs ever took 77 qubits and a supercomputer's worth of post-processing. A new classical algorithm reproduces it on a laptop — and does better.",
+  "key_points": [
+    "The unitary cluster Jastrow ansatz is a quantum circuit tailored to today's noisy hardware.",
+    "The largest such experiment ran 77 qubits and 10,570 gates on an IBM machine.",
+    "Its classical post-processing used up to 6,400 nodes of the Fugaku supercomputer.",
+    "The authors give a polynomial-time classical algorithm for any single-layer version of that circuit.",
+    "It reproduces the experiment in under a minute on a laptop, with no hardware locality constraints.",
+    "Faster simulation let them optimize the circuit and reach a *lower* ground-state energy than the experiment."
+  ],
+  "content_html": "\u003cp\u003eQuantum computing's most-cited near-term promise is chemistry: molecules are quantum, so a quantum machine ought to model them better. That promise gets tested by experiments running a circuit called the unitary cluster Jastrow ansatz — a design deliberately shaped to fit noisy hardware. The largest of them used 77 qubits and 10,570 gates on an IBM quantum computer, plus classical post-processing on up to 6,400 nodes of the Fugaku supercomputer, to compute molecular ground-state energies better than the standard Hartree-Fock baseline. Hrishikesh Belagali and colleagues just reran it on a laptop.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir result is a polynomial-time classical algorithm that computes the energy of any single-layer unitary cluster Jastrow circuit — and unlike the hardware, it doesn't care about qubit connectivity or locality constraints. It reproduces that flagship experiment in less than a minute on a laptop. Then it goes further: because the simulation is so cheap, the authors could optimize the circuit itself and land on a \u003cem\u003elower\u003c/em\u003e ground-state energy than the experiment reported. This is what the field calls dequantization, and it is not a knock on the experimentalists — it's how the boundary gets found. Every dequantized ansatz narrows the space where quantum hardware can claim a real edge, and tells the next experiment which circuits are worth burning qubits on.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Hrishikesh Belagali",
+      "Thomas Van Camp",
+      "R. Pradeep",
+      "Sourin Das",
+      "Namit Anand",
+      "Ryan LaRose"
+    ],
+    "url": "https://arxiv.org/abs/2607.21337",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_ee9c7f",
+      "slug": "chemistry-without-quantum-computers",
+      "type": "news",
+      "title": "A Chemistry Question Solved Without a Quantum Computer",
+      "hook": "Many assumed only a quantum computer could crack certain chemistry problems. A result decades in the making shows an ordinary computer can do it after all.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_da171f",
+      "slug": "quantum-classical-crossover-point",
+      "type": "paper",
+      "title": "Quantum-Classical Crossover in Fault-Tolerant Quantum Dynamics Simulation",
+      "hook": "A new paper puts an actual number on 'when do quantum computers win': about 2 hours and 370,000 qubits to beat 100 years of classical computing on one benchmark physics problem.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_d3f7a4",
+      "slug": "quantum-computer-simulates-magnon-spectra",
+      "type": "paper",
+      "title": "Precision Quantum Simulation of Magnon Spectra and Interactions",
+      "hook": "A 97-qubit quantum processor just simulated the spin-wave ripples inside a magnet more precisely than any classical computer can — a real step toward quantum computers helping discover new materials.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_cf6284#0",
+      "format": "quiz",
+      "prompt": "What did the new classical algorithm achieve against the 77-qubit experiment?",
+      "choices": [
+        {
+          "text": "It reproduced the result on a laptop in under a minute, and then beat its energy",
+          "correct": true
+        },
+        {
+          "text": "It matched the result but needed a supercomputer of its own",
+          "correct": false
+        },
+        {
+          "text": "It proved the original experiment's result was incorrect",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe polynomial-time algorithm reproduces the largest published run in under a minute on a laptop,\nand circuit optimization enabled by that speed yields a lower ground-state energy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cf6284#1",
+      "format": "flip",
+      "prompt": "What does 'dequantizing' an experiment like this tell us?",
+      "back_html": "\u003cp\u003eThat the circuit family used didn't actually require quantum hardware. It moves the frontier of\ngenuine quantum advantage — you have to run circuits no classical algorithm can shortcut.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cf6284#2",
+      "format": "quiz",
+      "prompt": "What is the scope of the authors' algorithm?",
+      "choices": [
+        {
+          "text": "Any single-layer unitary cluster Jastrow circuit, regardless of hardware locality constraints",
+          "correct": true
+        },
+        {
+          "text": "Every quantum circuit that has ever been run on IBM hardware",
+          "correct": false
+        },
+        {
+          "text": "Only circuits with fewer than ten qubits",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThey compute the energy of any single-layer unitary cluster Jastrow circuit in polynomial time —\na specific but widely used ansatz, not all quantum circuits.\u003c/p\u003e"
+    }
+  ]
+}

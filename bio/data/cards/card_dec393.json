@@ -1,0 +1,101 @@
+{
+  "id": "card_dec393",
+  "slug": "mendelian-inheritance",
+  "type": "concept",
+  "title": "Mendelian Inheritance",
+  "hook": "A 19th-century monk breeding pea plants worked out the hidden rules of heredity — why a trait can skip a generation and reappear in your grandchild.",
+  "key_points": [
+    "We inherit two copies of each gene, one from each parent; versions are called alleles.",
+    "A dominant allele shows its trait even if only one copy is present.",
+    "A recessive allele's trait appears only when both copies are recessive.",
+    "A Punnett square predicts the odds of each combination in offspring."
+  ],
+  "content_html": "\u003cp\u003eLong before anyone knew about DNA, a monk named Gregor Mendel cracked the basic math of heredity by carefully breeding thousands of pea plants. His insight: traits are passed down in discrete units (what we now call genes), in predictable ratios. It explains familiar mysteries, like why a trait can vanish in parents and reappear in their children.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe core idea is that you carry two copies of each gene, and the versions are called \u003cstrong\u003ealleles\u003c/strong\u003e. A \u003cstrong\u003edominant\u003c/strong\u003e allele shows its effect even if you have just one copy, while a \u003cstrong\u003erecessive\u003c/strong\u003e allele's trait appears only when you inherit two recessive copies. That's why a recessive trait can hide for a generation and then resurface. To predict the odds, geneticists use a \u003cstrong\u003ePunnett square\u003c/strong\u003e — a grid that crosses the parents' alleles to show the probability of each outcome in their offspring. Encyclopaedia Britannica's overview of Mendelism traces how these rules, drawn from pea plants, became the foundation of modern genetics.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/Mendelism",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_82d3b1",
+      "slug": "genes-and-traits",
+      "type": "concept",
+      "title": "How Genes Become Traits",
+      "hook": "You inherit two copies of every gene — one from each parent — and the way those copies interact helps decide everything from eye color to blood type.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a0b243",
+      "slug": "chromosomes-and-meiosis",
+      "type": "concept",
+      "title": "Chromosomes and Meiosis",
+      "hook": "Your DNA is packed into 46 bundles called chromosomes — and a special kind of cell division halves that number so sperm and egg can combine without doubling up.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_dec393#0",
+      "format": "flip",
+      "prompt": "What is an allele?",
+      "back_html": "\u003cp\u003eOne of the different \u003cstrong\u003eversions of a gene\u003c/strong\u003e. You inherit two alleles for each\ngene — one from each parent — and they may match or differ.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dec393#1",
+      "format": "quiz",
+      "prompt": "A recessive trait shows up only when...",
+      "choices": [
+        {
+          "text": "Both copies of the gene are the recessive allele",
+          "correct": true
+        },
+        {
+          "text": "At least one copy is the recessive allele",
+          "correct": false
+        },
+        {
+          "text": "The dominant allele is also present",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA \u003cstrong\u003erecessive\u003c/strong\u003e trait appears only when \u003cstrong\u003eboth\u003c/strong\u003e alleles are recessive. A single\ndominant allele is enough to mask it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dec393#2",
+      "format": "quiz",
+      "prompt": "What is a Punnett square used for?",
+      "choices": [
+        {
+          "text": "Predicting the probability of offspring's traits",
+          "correct": true
+        },
+        {
+          "text": "Measuring the length of a chromosome",
+          "correct": false
+        },
+        {
+          "text": "Copying DNA inside a cell",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA \u003cstrong\u003ePunnett square\u003c/strong\u003e is a simple grid that combines the parents' alleles to show\nthe chances of each possible trait in their offspring.\u003c/p\u003e"
+    }
+  ]
+}

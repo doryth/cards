@@ -1,0 +1,102 @@
+{
+  "id": "card_bb8286",
+  "slug": "geoneutrinos-map-earths-mantle",
+  "type": "news",
+  "title": "Neutrinos From Inside the Earth Are Mapping the Mantle",
+  "hook": "You can't drill to the mantle, but its radioactive decays leak neutrinos straight through the planet — and detectors are starting to read them.",
+  "key_points": [
+    "Radioactive uranium and thorium inside Earth emit antineutrinos as they decay; these \"geoneutrinos\" pass through rock almost unimpeded.",
+    "Their number and energy spectrum reveal how much radioactive material the planet holds and roughly where it sits.",
+    "That matters because radioactive decay supplies a large share of the internal heat that drives mantle convection and plate tectonics.",
+    "A worldwide network of neutrino detectors is now pooling data to build a picture no seismic survey or borehole can provide.",
+    "The technique turns particle detectors built for physics into instruments for geology."
+  ],
+  "content_html": "\u003cp\u003eNobody has ever sampled Earth's mantle directly; the deepest boreholes barely dent the crust. But the mantle is radioactive, and radioactive decay emits neutrinos, and neutrinos ignore rock. A global constellation of neutrino detectors is now assembling a view of the radioactive elements powering the planet's heat engine.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eUranium and thorium deep inside Earth decay continuously, releasing antineutrinos known as geoneutrinos. Because these particles interact so feebly, essentially all of them stream out of the planet unimpeded — carrying, in their number and energy spectrum, a census of how much radioactive material lies below and roughly how it is distributed. That census is a live geological question. Radioactive decay contributes a large share of Earth's internal heat, and that heat drives mantle convection, which in turn drives plate tectonics, volcanism, and mountain-building. Estimates of the total have long relied on indirect arguments from meteorite composition and heat-flow measurements. Detectors built to study neutrino physics can now weigh in directly, though the signal is so faint that no single site suffices; the picture emerges only from combining detectors around the world, each seeing a different blend of nearby crust and distant mantle. As Quanta's James Dinneen reports, it amounts to geology done with particle physics instruments.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "James Dinneen"
+    ],
+    "url": "https://quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807",
+    "published_at": "2026-08-07"
+  },
+  "topic_ids": [
+    "atomic-nuclear",
+    "particle-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-07",
+  "related": [
+    {
+      "id": "card_a1831a",
+      "slug": "radioactivity",
+      "type": "concept",
+      "title": "Radioactivity and Half-Life",
+      "hook": "You can't predict when a single unstable atom will decay, yet a huge sample decays on a clock so precise we use it to date rocks billions of years old.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_37dae0",
+      "slug": "tracking-the-elusive-neutrino",
+      "type": "news",
+      "title": "Catching the Ghost Particle",
+      "hook": "Trillions of neutrinos stream through your body every second, yet they almost never touch anything. To catch even a few, physicists build some of the most audacious detectors ever conceived.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_28ad49",
+      "slug": "juno-neutrino-first-results",
+      "type": "news",
+      "title": "JUNO's First Look at Shape-Shifting Neutrinos",
+      "hook": "A giant detector buried under China caught neutrinos changing identity mid-flight — and in just 59 days made one of the sharpest measurements yet of the ghost particle's habits.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-12"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bb8286#0",
+      "format": "flip",
+      "prompt": "What is a geoneutrino, and why can it tell us about the deep Earth?",
+      "back_html": "\u003cp\u003eAn antineutrino emitted by radioactive decay of \u003cstrong\u003euranium and thorium\u003c/strong\u003e inside\nthe planet. Neutrinos pass through rock almost unimpeded, so they carry\ninformation out from depths nothing else reaches.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bb8286#1",
+      "format": "quiz",
+      "prompt": "Why does counting Earth's radioactive material matter for geology?",
+      "choices": [
+        {
+          "text": "Radioactive decay supplies much of the internal heat that drives mantle convection and plate tectonics",
+          "correct": true
+        },
+        {
+          "text": "It sets the strength of Earth's magnetic field directly",
+          "correct": false
+        },
+        {
+          "text": "It determines the length of Earth's day",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe planet's heat engine is what moves plates and builds mountains, and\nradioactive decay is a major part of its fuel budget — so the amount and\ndistribution of uranium and thorium is a first-order geological question.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bb8286#2",
+      "format": "flip",
+      "prompt": "Why does studying geoneutrinos require a global network rather than one detector?",
+      "back_html": "\u003cp\u003eGeoneutrino signals are extremely faint, and each detector sees a different mix\nof local crust and deep mantle — so combining sites worldwide is what makes a\nplanet-wide picture possible.\u003c/p\u003e"
+    }
+  ]
+}

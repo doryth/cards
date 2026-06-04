@@ -1,0 +1,110 @@
+{
+  "id": "card_a052f0",
+  "slug": "inflammation",
+  "type": "concept",
+  "title": "Inflammation",
+  "hook": "Redness, heat, swelling, and pain aren't the problem — they're the immune system rushing to the scene, the visible signs of defense in action.",
+  "key_points": [
+    "Inflammation is the immune system's rapid response to injury or infection.",
+    "Its classic signs are redness, heat, swelling, and pain at the site.",
+    "Blood vessels widen and leak, flooding the area with immune cells and fluid.",
+    "Acute inflammation is short and protective; chronic inflammation can harm tissue.",
+    "It's a first line of defense, often acting before specific immunity kicks in."
+  ],
+  "content_html": "\u003cp\u003eThat red, hot, swollen, throbbing patch around a splinter or a scrape isn't damage from the injury alone — it's your immune system at work. Inflammation is the body's rapid, built-in response to harm, whether from a cut, a burn, or invading microbes. The four classic signs — redness, heat, swelling, and pain — are the outward evidence of defense being mounted.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Encyclopaedia Britannica describes, inflammation begins when injured tissue releases chemical signals that make nearby blood vessels widen and become leaky. More warm blood flows in (the redness and heat), fluid seeps into the tissue (the swelling), and immune cells slip out of the vessels to attack invaders and clear debris, while irritated nerves register pain. This acute response is short-lived and protective, usually fading once the threat is gone. But when inflammation drags on, chronic inflammation can damage healthy tissue and contributes to many long-term diseases — a reminder that the same defense that heals can, unchecked, do harm.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/inflammation",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "immune-system"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b56025",
+      "slug": "how-immunity-works",
+      "type": "concept",
+      "title": "How Immunity Works",
+      "hook": "Your body fights invaders on two fronts: a fast, general first response that hits anything foreign, and a slower, custom-built defense that learns and remembers each specific enemy.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1976d",
+      "slug": "how-infections-spread",
+      "type": "concept",
+      "title": "How Infections Spread",
+      "hook": "Germs can't fly to a new host on their own — they hitch rides on coughs, hands, food, water, and insects. Break the ride, and you break the chain of infection.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2e3e5a",
+      "slug": "antibodies-and-immune-memory",
+      "type": "concept",
+      "title": "Antibodies and Immune Memory",
+      "hook": "The first time a germ infects you, your body fights from scratch. The second time, it remembers — and crushes the invader before you ever feel sick.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a052f0#0",
+      "format": "flip",
+      "prompt": "What are the four classic signs of inflammation?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eRedness, heat, swelling, and pain.\u003c/strong\u003e They appear as blood and immune cells\nflood the injured or infected area to defend and repair it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a052f0#1",
+      "format": "quiz",
+      "prompt": "Why does an inflamed area turn red and warm?",
+      "choices": [
+        {
+          "text": "Blood vessels widen, bringing more blood to the site",
+          "correct": true
+        },
+        {
+          "text": "The skin produces extra pigment",
+          "correct": false
+        },
+        {
+          "text": "Nerves generate heat directly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInflammation widens nearby blood \u003cstrong\u003evessels\u003c/strong\u003e, so more warm blood — carrying\nimmune cells — flows in, making the area look red and feel hot.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a052f0#2",
+      "format": "quiz",
+      "prompt": "How does acute inflammation differ from chronic inflammation?",
+      "choices": [
+        {
+          "text": "Acute is short and protective; chronic lingers and can damage tissue",
+          "correct": true
+        },
+        {
+          "text": "Acute only happens in animals; chronic only in plants",
+          "correct": false
+        },
+        {
+          "text": "They are exactly the same process",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u003cstrong\u003eAcute\u003c/strong\u003e inflammation is a brief, helpful response that resolves once the\nthreat is cleared. When it persists, \u003cstrong\u003echronic\u003c/strong\u003e inflammation can harm healthy tissue.\u003c/p\u003e"
+    }
+  ]
+}

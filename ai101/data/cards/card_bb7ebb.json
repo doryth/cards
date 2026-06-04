@@ -1,0 +1,87 @@
+{
+  "id": "card_bb7ebb",
+  "slug": "ai-help-not-replace",
+  "type": "news",
+  "title": "'AI Will Help You, Not Replace You' — Maybe",
+  "hook": "Microsoft's AI chief walked back his own claim that AI would automate white-collar jobs like lawyers and accountants, clarifying he meant AI will help those workers — not do their work for them.",
+  "key_points": [
+    "Mustafa Suleyman had suggested AI would automate white-collar work (lawyers, accountants, PMs).",
+    "He later clarified he meant AI will help workers with tasks, not replace the jobs.",
+    "The 'augment vs. replace' distinction is the heart of the AI-and-jobs debate.",
+    "Even bold predictions get walked back — treat sweeping job forecasts with healthy skepticism."
+  ],
+  "content_html": "\u003cp\u003eThe most-asked question about AI is also the most loaded: will it take my job? A recent episode shows how slippery even the experts are on it. As The Verge reports, Microsoft AI head Mustafa Suleyman had floated the idea that AI would automate white-collar work — the kind done by lawyers, accountants, and project managers. He then walked it back on the \u003cem\u003eDecoder\u003c/em\u003e podcast, clarifying that he meant AI will \u003cem\u003ehelp\u003c/em\u003e those workers complete tasks, not do their jobs for them.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat backpedal is itself the lesson. The gap between \u0026quot;AI will replace lawyers\u0026quot; and \u0026quot;AI will help lawyers work faster\u0026quot; is enormous — and it's the gap the entire jobs debate lives in. The same tool can look like a job-killer or a productivity boost depending on which framing you adopt, and even the people building these systems shift between the two. For you, two takeaways: first, be skeptical of confident, sweeping predictions about jobs disappearing — they often get quietly revised, as this one was. Second, the more durable bet is the \u0026quot;augment\u0026quot; story: in most fields so far, AI is changing \u003cem\u003ehow\u003c/em\u003e tasks get done rather than erasing roles wholesale. That's not a guarantee, but it's a steadier guide than the headlines, and it points at the practical move — learning to use these tools well, rather than waiting to see if they replace you.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+    "published_at": "2026-06-09",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-and-jobs",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-11",
+  "date": "2026-06-09",
+  "related": [
+    {
+      "id": "card_b4f14c",
+      "slug": "ai-and-jobs",
+      "type": "concept",
+      "title": "AI \u0026 Jobs",
+      "hook": "AI is less likely to take your whole job than to take certain tasks within it. The pattern through history: tools reshape work faster than they erase it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b50ff8",
+      "slug": "future-proofing-your-career",
+      "type": "concept",
+      "title": "Future-Proofing Your Career",
+      "hook": "You won't be replaced by AI so much as by a person who uses it well. The hedge isn't out-typing the machine — it's getting fluent with it while doubling down on what's stubbornly human.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bb7ebb#0",
+      "format": "quiz",
+      "prompt": "How did Suleyman revise his claim about AI and white-collar jobs?",
+      "choices": [
+        {
+          "text": "From AI replacing those jobs to AI helping workers with tasks",
+          "correct": true
+        },
+        {
+          "text": "From AI helping workers to AI replacing all of them",
+          "correct": false
+        },
+        {
+          "text": "He said AI would have no effect on work at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer The Verge, he walked back automating white-collar jobs, clarifying he\nmeant AI will help workers complete tasks rather than do their jobs for them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bb7ebb#1",
+      "format": "flip",
+      "prompt": "What's the key distinction in the AI-and-jobs debate this story highlights?",
+      "back_html": "\u003cp\u003e'Augment vs. replace' — whether AI does your work for you, or helps you do it\nfaster. Much of the jobs debate turns on which of those a tool actually delivers.\u003c/p\u003e"
+    }
+  ]
+}

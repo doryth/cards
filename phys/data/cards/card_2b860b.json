@@ -1,0 +1,119 @@
+{
+  "id": "card_2b860b",
+  "slug": "lensed-superluminous-supernova-sn2025wny",
+  "type": "paper",
+  "title": "One Supernova, Five Images, and a New Way to Measure the Universe",
+  "hook": "A gravitational lens split a colossal exploding star into five copies. Timing the gaps between them gives a fresh, ladder-free measurement of how fast the cosmos expands.",
+  "key_points": [
+    "SN 2025wny is a superluminous Type I supernova at redshift z = 2.015, lensed by two foreground galaxies into five resolved images.",
+    "It is the first strongly lensed superluminous supernova ever found, and the first galaxy-scale lensed supernova with both photometric and spectroscopic time delays.",
+    "Because the five images travel different path lengths, the delays between their light curves encode the Hubble constant directly.",
+    "HST and JWST follow-up yields H0 = 66.7 (+7.6/-6.3) km/s/Mpc for isothermal lens models, or 70.8 (+8.2/-6.1) with freer density slopes.",
+    "The same data give the most detailed rest-frame UV view of any superluminous supernova, hinting at a non-standard power source."
+  ],
+  "content_html": "\u003cp\u003eIn 2026 astronomers caught a spectacular coincidence: a superluminous supernova exploding 10 billion light-years away, at redshift 2.015, with two foreground galaxies sitting almost exactly in the line of sight. Their combined gravity bent the light into five separate images of the same explosion — the first time this has happened to a superluminous supernova, and a rare gift for cosmology.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe reason it matters is timing. Each image's light takes a slightly different route around the lensing galaxies, so the same explosion shows up at Earth on five different dates. The size of those gaps depends on the geometry of the lens \u003cem\u003eand\u003c/em\u003e on how fast the universe is expanding — which means a lensed supernova measures the Hubble constant in one step, without relying on the usual chain of calibrated distance indicators.\u003c/p\u003e\n\u003cp\u003eA team led by Ariel Goobar and collaborators (Stockholm University and partners) reported HST and JWST follow-up of SN 2025wny in a series of arXiv papers in August 2026. Modeling the two lens galaxies as elliptical power-law mass distributions plus external shear, Edvard Mörtsell and colleagues derive H0 = 66.7 (+7.6/−6.3) km/s/Mpc for isothermal profiles, rising to 70.8 (+8.2/−6.1) when the density slopes are allowed to vary. The uncertainties are still large, so this single system doesn't settle the Hubble tension — but it demonstrates the method on a new class of object, and the companion analysis by Maggie Li and Lin Yan notes the supernova's light curve may need a hybrid or non-standard power source, making it a reference spectrum for the many high-redshift superluminous supernovae that Rubin and Roman are expected to find.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Ariel Goobar",
+      "Joel Johansson",
+      "Edvard Mörtsell",
+      "Cameron Lemon",
+      "Steve Schulze",
+      "Suhail Dhawan"
+    ],
+    "url": "https://arxiv.org/abs/2608.28413",
+    "published_at": "2026-08-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_0ac579",
+      "slug": "hubble-tension",
+      "type": "paper",
+      "title": "The Hubble Tension: Cosmology's Stubborn Crisis",
+      "hook": "Two trustworthy ways of measuring how fast the universe expands keep disagreeing — and a decade of cross-checks has only hardened the gap into a genuine crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9018a5",
+      "slug": "ai-model-sharpens-supernova-distances",
+      "type": "news",
+      "title": "An AI Framework Could Turn Millions of Exploding Stars Into a Dark Energy Map",
+      "hook": "A new AI framework models a supernova, its host galaxy, and the dust between them all at once — squeezing spectroscopic-grade distances out of ordinary images alone.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2b860b#0",
+      "format": "flip",
+      "prompt": "How does a gravitationally lensed supernova measure the Hubble constant?",
+      "back_html": "\u003cp\u003eEach of its multiple images takes a different path through the lens, so the same explosion\narrives at different times. Those time delays depend on the expansion rate, giving H0\nwithout climbing the usual distance ladder.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2b860b#1",
+      "format": "quiz",
+      "prompt": "What makes SN 2025wny unusual among lensed supernovae?",
+      "choices": [
+        {
+          "text": "It is the first strongly lensed superluminous supernova, split into five resolved images",
+          "correct": true
+        },
+        {
+          "text": "It is the closest supernova ever observed, inside the Milky Way",
+          "correct": false
+        },
+        {
+          "text": "It is the first supernova detected purely in gravitational waves",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLensed supernovae are already rare; SN 2025wny is the first of the superluminous class,\nand its five images allow both photometric and spectroscopic time-delay measurements.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2b860b#2",
+      "format": "flip",
+      "prompt": "Why do the reported H0 values shift depending on the lens model?",
+      "back_html": "\u003cp\u003eThe time delays only give H0 once you know how mass is distributed in the lensing galaxies.\nAssuming isothermal profiles gives about 66.7 km/s/Mpc; letting the density slopes vary\nfreely shifts it to about 70.8, with larger error bars.\u003c/p\u003e"
+    }
+  ]
+}

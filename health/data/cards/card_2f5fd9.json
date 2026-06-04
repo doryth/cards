@@ -1,0 +1,89 @@
+{
+  "id": "card_2f5fd9",
+  "slug": "car-t-rheumatoid-arthritis",
+  "type": "news",
+  "title": "A Cancer Therapy Put Severe Arthritis Into Remission",
+  "hook": "Six people with rheumatoid arthritis that had defeated every other treatment got CAR T-cell therapy. Three ended up in remission with no medication at all.",
+  "key_points": [
+    "CAR T-cell therapy, developed for cancer, was given to six people with treatment-resistant rheumatoid arthritis.",
+    "Disease activity dropped dramatically; three of the six reached medication-free remission.",
+    "The proposed mechanism is clearing out harmful immune cells and letting the immune system rebuild.",
+    "That's a different goal from ordinary arthritis drugs, which suppress inflammation continuously.",
+    "Six patients is a very early signal — much larger studies are needed.",
+    "CAR T is intensive and carries serious risks; it is not a routine arthritis treatment."
+  ],
+  "content_html": "\u003cp\u003eCAR T-cell therapy was built to fight cancer: a patient's own T cells are engineered to hunt down a specific target. Researchers pointed it at rheumatoid arthritis instead, in six people whose disease had resisted everything else. Disease activity fell dramatically across the group, and three of them ended up in remission taking no medication at all.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat makes that striking is the goal, not just the result. Standard rheumatoid arthritis drugs suppress inflammation for as long as you keep taking them; stop, and the disease usually returns. The theory here is different — clear out the immune cells driving the attack and let the immune system repopulate itself, effectively rebooting the part that went wrong. Medication-free remission is what that theory predicts, and in half these patients it's what happened.\u003c/p\u003e\n\u003cp\u003eSix people is not a trial, though, and enthusiasm should be sized accordingly. CAR T is an intensive, expensive therapy with real risks, and the researchers are explicit that much larger studies are needed. What this is, for now, is a strong hint that autoimmune disease might be treatable as something to reset rather than something to manage forever.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260828082330.htm",
+    "published_at": "2026-08-29",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "chronic-conditions",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-29",
+  "related": [
+    {
+      "id": "card_e82618",
+      "slug": "ultrasound-treatment-prevents-arthritis",
+      "type": "news",
+      "title": "An Ultrasound Treatment That May Stop Arthritis Before It Starts",
+      "hook": "A simple, non-invasive ultrasound treatment nudges immune cells in an injured joint away from damaging inflammation and toward repair — potentially heading off arthritis before it takes hold.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "card_fe0187",
+      "slug": "inulin-for-knee-arthritis",
+      "type": "news",
+      "title": "A Daily Fiber Supplement Eased Knee Arthritis Pain",
+      "hook": "In a six-week trial, a spoonful of chicory-root fiber cut knee osteoarthritis pain about as well as physiotherapy — and people actually stuck with it. Only 3.6% dropped out, versus 21%.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2f5fd9#0",
+      "format": "quiz",
+      "prompt": "How does the CAR T approach differ from standard rheumatoid arthritis drugs?",
+      "choices": [
+        {
+          "text": "It aims to reset the immune system rather than continuously suppress inflammation",
+          "correct": true
+        },
+        {
+          "text": "It blocks pain signals in the joints",
+          "correct": false
+        },
+        {
+          "text": "It replaces damaged cartilage",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eStandard drugs keep inflammation down for as long as you take them. Clearing out the\nharmful immune cells aims at a reboot — which is why medication-free remission was\neven possible.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2f5fd9#1",
+      "format": "flip",
+      "prompt": "What happened to the six patients?",
+      "back_html": "\u003cp\u003eDisease activity fell dramatically in all of them, and \u003cstrong\u003ethree reached remission with\nno medication at all\u003c/strong\u003e — in disease that had resisted other treatments.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2f5fd9#2",
+      "format": "flip",
+      "prompt": "Why is this not yet a treatment option to ask for?",
+      "back_html": "\u003cp\u003eSix patients is a very early signal, and CAR T is an intensive therapy with serious\nrisks. It needs much larger studies before it belongs anywhere near routine care.\u003c/p\u003e"
+    }
+  ]
+}

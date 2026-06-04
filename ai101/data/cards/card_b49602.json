@@ -1,0 +1,79 @@
+{
+  "id": "card_b49602",
+  "slug": "free-vs-paid-ai",
+  "type": "concept",
+  "title": "Free vs Paid Tools",
+  "hook": "The free tier is enough for most people most of the time. Paid plans mostly buy you the smarter model, higher limits, and stronger privacy — useful only if you'll actually use them.",
+  "key_points": [
+    "Free tiers cover everyday tasks well; start there before paying.",
+    "Paid usually means: smarter model, higher usage limits, extra features, better privacy.",
+    "'Free' can mean your data trains the model — paid often opts you out.",
+    "Pay when you hit real limits or handle sensitive material, not out of FOMO."
+  ],
+  "content_html": "\u003cp\u003eIt's easy to assume the paid version is the \u0026quot;real\u0026quot; one and you're getting a crippled toy for free. Usually that's not true. The free tiers of the major AI tools are remarkably capable and handle the overwhelming majority of everyday tasks — drafting, summarizing, explaining, brainstorming — perfectly well. The sensible move is to start free and only upgrade when you feel a specific wall, not because a subscription button is glowing at you.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhen you do hit a wall, here's what paying typically buys: access to the company's smartest (and slower, more expensive to run) model; higher usage limits so you're not cut off mid-session; extra features like file uploads, image generation, or connections to other apps; and — importantly — stronger privacy terms. That last point is the quiet cost of \u0026quot;free.\u0026quot; Free tiers are more likely to retain what you type and use it to help train future models, whereas paid and business plans often let you opt out or promise not to train on your data at all. So the decision is really about \u003cem\u003eyour\u003c/em\u003e usage: pay when you regularly hit the limits, lean on the best model for serious work, or handle anything sensitive. Otherwise, free is not a consolation prize — it's the right tool.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "choosing-tools"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_42f5a2",
+      "slug": "which-chatbot-to-use",
+      "type": "concept",
+      "title": "Which Chatbot Should I Use?",
+      "hook": "ChatGPT, Claude, Gemini, Copilot, Meta AI — they're more alike than different. The honest answer to 'which is best' is: the one you'll actually open, plus a second to cross-check.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b49602#0",
+      "format": "quiz",
+      "prompt": "When is it actually worth paying for an AI tool?",
+      "choices": [
+        {
+          "text": "When you hit the free limits or handle sensitive material",
+          "correct": true
+        },
+        {
+          "text": "Always — paid is the only way to get useful answers",
+          "correct": false
+        },
+        {
+          "text": "Never — paid plans offer nothing extra",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFree tiers handle most everyday use. Pay when you genuinely bump into usage\ncaps, need the smarter model, or want the stronger privacy terms.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b49602#1",
+      "format": "flip",
+      "prompt": "What's the hidden 'cost' of a free AI tool?",
+      "back_html": "\u003cp\u003eOften your data: free tiers are more likely to store your inputs and use\nthem to train future models. Paid plans frequently let you opt out.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "card_3e5004",
+  "slug": "starburst-neutrino-factory",
+  "type": "news",
+  "title": "A Galaxy That Makes Neutrinos Without a Black Hole",
+  "hook": "Astronomers expected a feeding black hole behind a flood of cosmic neutrinos. Instead they found furious star formation — hinting dusty starburst galaxies seed the high-energy neutrino sky.",
+  "key_points": [
+    "Space is awash in high-energy neutrinos, but pinning down their sources is hard.",
+    "Supermassive black holes feeding on gas were the leading suspected source.",
+    "A dusty galaxy nicknamed 'Shadow Blaster' appears to make neutrinos via extreme star formation.",
+    "Hidden starburst galaxies could account for a significant share of cosmic high-energy neutrinos.",
+    "Neutrinos barely interact with matter, so they escape thick dust that traps light."
+  ],
+  "content_html": "\u003cp\u003eSpace is filled with high-energy neutrinos — ghostly particles that stream through almost everything untouched. Tracing where they come from is one of astronomy's hardest puzzles, and the usual prime suspect is gas swirling into a supermassive black hole. A galaxy nicknamed \u0026quot;Shadow Blaster\u0026quot; points to another culprit.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers found that this distant, dust-shrouded galaxy may be churning out neutrinos through extreme star formation rather than a feeding black hole. Bursts of newborn stars — and the violent supernovae they leave behind — can turn a galaxy into a natural particle accelerator. Because neutrinos barely interact with matter, they slip out of even thick dust that traps light, carrying information from deep inside. If many such hidden \u0026quot;starburst\u0026quot; galaxies behave this way, they could supply a significant fraction of the universe's high-energy neutrinos — reshaping where we think this cosmic particle flux is born. See the full release for details.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260619020510.htm",
+    "published_at": "2026-06-19",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "particle-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-22",
+  "date": "2026-06-19",
+  "related": [
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5ac508",
+      "slug": "amaterasu-particle",
+      "type": "news",
+      "title": "The Amaterasu Particle Might Not Be a Proton",
+      "hook": "One of the most energetic cosmic rays ever caught hit Earth with the energy of a thrown brick — packed into a single particle. New work says it may be a heavy nucleus, not a proton.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "card_28ad49",
+      "slug": "juno-neutrino-first-results",
+      "type": "news",
+      "title": "JUNO's First Look at Shape-Shifting Neutrinos",
+      "hook": "A giant detector buried under China caught neutrinos changing identity mid-flight — and in just 59 days made one of the sharpest measurements yet of the ghost particle's habits.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-12"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3e5004#0",
+      "format": "quiz",
+      "prompt": "What surprising source of cosmic neutrinos did the 'Shadow Blaster' galaxy point to?",
+      "choices": [
+        {
+          "text": "Extreme star formation, not a feeding supermassive black hole",
+          "correct": true
+        },
+        {
+          "text": "A supermassive black hole swallowing a passing star",
+          "correct": false
+        },
+        {
+          "text": "A collision between two neutron stars",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe dusty galaxy appears to produce high-energy neutrinos through intense star formation rather\nthan the usually-suspected supermassive black hole.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3e5004#1",
+      "format": "flip",
+      "prompt": "Why can neutrinos reveal what's happening deep inside a dust-shrouded galaxy?",
+      "back_html": "\u003cp\u003eNeutrinos barely interact with matter, so they slip out of thick dust that blocks light —\ncarrying information straight from the galaxy's hidden interior.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3e5004#2",
+      "format": "quiz",
+      "prompt": "If many hidden starburst galaxies make neutrinos this way, what would it imply?",
+      "choices": [
+        {
+          "text": "They could supply a significant fraction of the universe's high-energy neutrinos",
+          "correct": true
+        },
+        {
+          "text": "Supermassive black holes produce no neutrinos at all",
+          "correct": false
+        },
+        {
+          "text": "Cosmic neutrinos must all come from within our own galaxy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe discovery suggests dust-filled starburst galaxies could account for a sizeable share of\ncosmic high-energy neutrinos, broadening where we think they originate.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "card_983f67",
+  "slug": "midjourney-medical-claims",
+  "type": "news",
+  "title": "When an AI Company Promises a Medical Miracle",
+  "hook": "Midjourney, famous for AI art, now pitches a spa-like water tank that scans your body 'as powerful as an MRI' — but The Verge says the bold claims lack the evidence to back them.",
+  "key_points": [
+    "Midjourney, best known for its AI image generator, announced a pivot into medical imaging.",
+    "Its pitch: an ultrasound body scanner that immerses you in water, 'as casual as a trip to the spa.'",
+    "It claims results 'as powerful as MRI' — an extraordinary promise for ultrasound.",
+    "The Verge reports the medical claims currently lack supporting evidence.",
+    "A follow-up behind-the-scenes video showed more of the 'dunk-tank' scanner design — but still no real proof it works.",
+    "Lesson: extraordinary AI health claims need extraordinary proof before you trust them."
+  ],
+  "content_html": "\u003cp\u003eWhen a company famous for one kind of AI suddenly promises a breakthrough in another, it's worth a careful look. The Verge reports that Midjourney — best known for generating images from text — announced a pivot into medical imaging: a futuristic ultrasound scanner that would immerse you in a tank of water and, the company hopes, produce \u0026quot;something as powerful as MRI\u0026quot; while being \u0026quot;as casual as a trip to the spa.\u0026quot;\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat's a striking promise. MRI and ultrasound are different technologies with very different strengths, and matching MRI-level imaging with a spa-like ultrasound would be a genuine leap. The trouble, as The Verge lays out, is that the claims so far aren't backed by published evidence. This is a textbook case of why AI health claims deserve extra skepticism: the stakes are high, the marketing is glossy, and an impressive demo or a confident announcement is not the same as data showing the thing actually works. For anyone reading AI health headlines, the useful filter is simple — ask what's been \u003cem\u003edemonstrated\u003c/em\u003e, by whom, and reviewed by which independent experts, before treating a bold claim as fact.\u003c/p\u003e\n\u003cp\u003eA few weeks later, Midjourney released a nearly 20-minute behind-the-scenes video of the scanner — a \u0026quot;dunk-tank\u0026quot; design it hopes to deploy in spa-like settings for cheap, detailed, radiation-free imaging. The Verge's follow-up found the tour added more hardware detail but still left the core question unanswered: no published data showing the device actually delivers the imaging quality Midjourney claims. A glossier video is still not evidence — the same filter from before still applies.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Robert Hart"
+    ],
+    "url": "https://theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+    "published_at": "2026-06-23",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-hype",
+    "ai-healthcare",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "vision",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-25",
+  "date": "2026-06-23",
+  "related": [
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eb781a",
+      "slug": "ai-in-healthcare",
+      "type": "concept",
+      "title": "AI in Healthcare",
+      "hook": "AI can spot a tumor on a scan faster than a tired radiologist and flag patterns no one would catch by eye. It's a powerful assistant to doctors — not a replacement for one.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_983f67#0",
+      "format": "quiz",
+      "prompt": "What's the main reason to be skeptical of Midjourney's medical scanner pitch?",
+      "choices": [
+        {
+          "text": "Its bold claims aren't yet backed by published evidence",
+          "correct": true
+        },
+        {
+          "text": "Ultrasound is illegal to use on humans",
+          "correct": false
+        },
+        {
+          "text": "Midjourney has never made any AI products before",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA glossy announcement and an impressive concept aren't the same as data showing the\ndevice actually works — which is what The Verge found missing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_983f67#1",
+      "format": "flip",
+      "prompt": "What's a good filter for any bold AI health claim?",
+      "back_html": "\u003cp\u003eAsk what's actually been demonstrated, by whom, and whether independent experts have\nreviewed it — before treating the claim as fact.\u003c/p\u003e"
+    },
+    {
+      "id": "card_983f67#2",
+      "format": "flip",
+      "prompt": "Why is matching 'MRI-level' imaging with ultrasound a big deal?",
+      "back_html": "\u003cp\u003eThey're different technologies with different strengths; getting MRI-quality results\nfrom a casual ultrasound would be a genuine leap — which is why it needs strong proof.\u003c/p\u003e"
+    },
+    {
+      "id": "card_983f67#3",
+      "format": "flip",
+      "prompt": "Did Midjourney's follow-up behind-the-scenes video resolve the skepticism?",
+      "back_html": "\u003cp\u003eNo. The Verge's nearly 20-minute tour of the water-tank scanner showed more of the\nhardware but still no published evidence the device actually delivers MRI-level results.\u003c/p\u003e"
+    }
+  ]
+}

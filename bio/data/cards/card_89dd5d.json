@@ -1,0 +1,101 @@
+{
+  "id": "card_89dd5d",
+  "slug": "natural-selection",
+  "type": "concept",
+  "title": "Natural Selection",
+  "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+  "key_points": [
+    "Individuals in a population vary, and some of that variation is heritable.",
+    "More offspring are born than can survive, so there's competition to reproduce.",
+    "Traits that help survival and reproduction get passed on more often.",
+    "Over generations this shifts the population — adaptation without any plan or purpose."
+  ],
+  "content_html": "\u003cp\u003eNatural selection, the mechanism Charles Darwin and Alfred Russel Wallace independently described, is deceptively simple. Within any population, individuals differ, and some of those differences are inherited. Because more offspring are produced than the environment can support, there's competition to survive and reproduce. Individuals whose traits give them even a slight edge tend to leave more offspring — and those offspring inherit the helpful traits. Repeat over many generations and the whole population shifts.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe crucial thing to get right is that this process has no goal. Selection doesn't aim at perfection or strive toward any \u0026quot;higher\u0026quot; form; it has no foresight at all. It simply, blindly, retains whatever happens to work in the conditions of the moment. The raw material is random variation — mostly from genetic mutation — and organisms can't summon useful traits on demand or pass on changes acquired during life, like muscles built at the gym. What looks like exquisite design is the cumulative result of countless small advantages preserved over deep time. Britannica details the conditions selection requires and how it differs from chance.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/natural-selection",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "evolution"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_043084",
+      "slug": "common-descent",
+      "type": "concept",
+      "title": "The Tree of Life",
+      "hook": "Humans, mushrooms, and oak trees share an ancestor if you go back far enough — all life on Earth branches from a single common root.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82d3b1",
+      "slug": "genes-and-traits",
+      "type": "concept",
+      "title": "How Genes Become Traits",
+      "hook": "You inherit two copies of every gene — one from each parent — and the way those copies interact helps decide everything from eye color to blood type.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_89dd5d#0",
+      "format": "flip",
+      "prompt": "What are the basic ingredients natural selection needs?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eHeritable variation\u003c/strong\u003e among individuals, \u003cstrong\u003ecompetition\u003c/strong\u003e (more are born than\nsurvive), and differences in \u003cstrong\u003esurvival and reproduction\u003c/strong\u003e tied to that variation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_89dd5d#1",
+      "format": "quiz",
+      "prompt": "Is evolution by natural selection working toward a goal or a 'perfect' organism?",
+      "choices": [
+        {
+          "text": "No — it has no goal; it just favors whatever survives and reproduces now",
+          "correct": true
+        },
+        {
+          "text": "Yes — it steadily aims at producing perfect, ideal creatures",
+          "correct": false
+        },
+        {
+          "text": "Yes — every species is climbing toward becoming human",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNatural selection is not goal-directed. It has no foresight — it simply passes\non traits that happen to work in the current environment.\u003c/p\u003e"
+    },
+    {
+      "id": "card_89dd5d#2",
+      "format": "quiz",
+      "prompt": "Where does the variation that selection acts on ultimately come from?",
+      "choices": [
+        {
+          "text": "Random genetic differences, including mutations",
+          "correct": true
+        },
+        {
+          "text": "Organisms choosing to develop the traits they need",
+          "correct": false
+        },
+        {
+          "text": "Traits acquired during life, like big muscles, being inherited",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVariation arises from random genetic differences; organisms can't will useful\ntraits into existence or pass on changes built up during their lifetime.\u003c/p\u003e"
+    }
+  ]
+}

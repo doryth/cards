@@ -1,0 +1,99 @@
+{
+  "id": "card_9e052d",
+  "slug": "how-animals-behave",
+  "type": "concept",
+  "title": "How Animals Behave",
+  "hook": "A spider spins a perfect web without a lesson, while a crow figures out a new trick by trial and error — two sides of how animals act in the world.",
+  "key_points": [
+    "Animal behavior is what an animal does — how it feeds, moves, communicates, and reproduces.",
+    "Instinct (innate behavior) is inherited and present without being taught, like a spider's web.",
+    "Learned behavior develops from experience and can change over an animal's lifetime.",
+    "Behaviors like migration and communication help animals survive and reproduce."
+  ],
+  "content_html": "\u003cp\u003eBehavior is everything an animal does — how it finds food, moves, communicates, defends itself, and finds a mate. Biologists generally trace any behavior to two sources: things an animal is born knowing how to do, and things it picks up along the way.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe first source is instinct, or innate behavior: inherited and present without any teaching. A spider spins a flawless web on its first try; a newborn sea turtle scrambles toward the ocean. The second is learned behavior, which develops through experience and can change over an animal's life, like a crow working out how to crack a nut or a young predator improving its hunting. Many of the most striking behaviors blend the two and serve survival and reproduction: seasonal migration that carries animals thousands of miles to food or breeding grounds, and communication through sound, scent, color, or movement that lets animals warn, attract, and coordinate. Encyclopaedia Britannica's overview of animal behavior examines how instinct and learning together shape what animals do.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/animal-behavior",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "animals"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_477fab",
+      "slug": "the-animal-kingdom",
+      "type": "concept",
+      "title": "The Animal Kingdom",
+      "hook": "Sponges, spiders, sharks, and squirrels look nothing alike — yet all are animals, sharing a few deep traits that set them apart from plants, fungi, and microbes.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d50d41",
+      "slug": "animal-adaptations",
+      "type": "concept",
+      "title": "Animal Adaptations",
+      "hook": "A camel's hump, a chameleon's color, a polar bear's fat — these aren't accidents. Each is a trait shaped over generations to fit a particular way of life.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9e052d#0",
+      "format": "quiz",
+      "prompt": "What is the difference between instinct and learned behavior?",
+      "choices": [
+        {
+          "text": "Instinct is inherited and present without teaching; learned behavior comes from experience",
+          "correct": true
+        },
+        {
+          "text": "Instinct only happens in mammals; learning only happens in birds",
+          "correct": false
+        },
+        {
+          "text": "Instinct is slow; learned behavior is always fast",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInstinctive (innate) behaviors are built in and need no teaching, like a spider's web.\nLearned behaviors develop through experience and can change over a lifetime.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9e052d#1",
+      "format": "flip",
+      "prompt": "Why do some animals migrate?",
+      "back_html": "\u003cp\u003eTo \u003cstrong\u003esurvive and reproduce\u003c/strong\u003e — moving to find food, better weather, or breeding grounds\nas seasons change, then often returning.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9e052d#2",
+      "format": "quiz",
+      "prompt": "A spider spinning a perfect web the first time, with no lesson, is an example of:",
+      "choices": [
+        {
+          "text": "Instinct (innate behavior)",
+          "correct": true
+        },
+        {
+          "text": "Learned behavior",
+          "correct": false
+        },
+        {
+          "text": "A behavior taught by its parents",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWeb-spinning appears fully formed without practice or teaching, so it is instinctive —\nan inherited behavior the spider is born knowing how to do.\u003c/p\u003e"
+    }
+  ]
+}

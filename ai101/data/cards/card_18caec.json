@@ -1,0 +1,102 @@
+{
+  "id": "card_18caec",
+  "slug": "ai-rules-and-regulation",
+  "type": "concept",
+  "title": "Rules \u0026 Regulation",
+  "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+  "key_points": [
+    "Regulation lags the tech — rules are being written while AI keeps changing.",
+    "Approaches differ: the EU's risk-based law, lighter-touch US rules, and others.",
+    "Common goals: safety, transparency, privacy, and accountability for harm.",
+    "It affects you via rights like disclosure ('this is AI') and data protections."
+  ],
+  "content_html": "\u003cp\u003eTechnology usually outruns the law, and AI has done so spectacularly: the tools went mainstream in a couple of years, while the rules governing them are still being drafted. That gap is why so much around AI feels like a Wild West — questions about liability, copyright, privacy, and safety that don't yet have settled answers. Governments worldwide are now racing to write those answers, and they're not all choosing the same path.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eApproaches vary by region. The European Union passed a broad, \u003cstrong\u003erisk-based\u003c/strong\u003e law that puts the heaviest rules on the most dangerous uses (like AI in policing or hiring) and lighter rules on low-risk ones. The United States has leaned toward a lighter, more piecemeal touch, with action split across agencies and states. Other countries sit at different points on the spectrum, and the picture keeps shifting. Beneath the differences, the shared goals are recognizable: keep AI \u003cstrong\u003esafe\u003c/strong\u003e, make it \u003cstrong\u003etransparent\u003c/strong\u003e (you should know when you're dealing with AI or AI-generated content), protect people's \u003cstrong\u003eprivacy and data\u003c/strong\u003e, and ensure someone is \u003cstrong\u003eaccountable\u003c/strong\u003e when AI causes harm. For ordinary people this isn't abstract — it shows up as the right to be told \u0026quot;this is a bot,\u0026quot; limits on how your data can be used to train models, and recourse when an automated decision goes wrong. The core challenge regulators wrestle with is balance: rein in the genuine harms without smothering a technology that's also genuinely useful.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Regulation of artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "ai-regulation"
+  ],
+  "tags": [
+    "safety",
+    "alignment"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dc90db",
+      "slug": "will-ai-take-over",
+      "type": "concept",
+      "title": "Will AI Take Over?",
+      "hook": "The Terminator scenario — AI 'waking up' and turning on us — isn't what serious researchers worry about. Their real concerns are more mundane and more immediate.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_88e089",
+      "slug": "ai-kill-switch-bill",
+      "type": "news",
+      "title": "A Bill to Give AI an Emergency 'Kill Switch'",
+      "hook": "A bipartisan bill would let a US agency order AI companies to hit the brakes — shut a system down or throttle it. It's still just a proposal, but it puts a government 'off switch' on the table.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_18caec#0",
+      "format": "quiz",
+      "prompt": "What's the central tension in regulating AI?",
+      "choices": [
+        {
+          "text": "Curbing real harms without choking off a useful technology",
+          "correct": true
+        },
+        {
+          "text": "Whether to allow computers at all",
+          "correct": false
+        },
+        {
+          "text": "Which company should own all AI",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRegulators try to prevent harms — bias, deception, unsafe uses — while\nkeeping room for innovation and benefit. Striking that balance is the hard part.\u003c/p\u003e"
+    },
+    {
+      "id": "card_18caec#1",
+      "format": "flip",
+      "prompt": "Name one way AI regulation can show up in your everyday life.",
+      "back_html": "\u003cp\u003eDisclosure rules — e.g. being told when you're talking to a bot or seeing\nAI-generated content — plus protections for how your data can be used.\u003c/p\u003e"
+    }
+  ]
+}

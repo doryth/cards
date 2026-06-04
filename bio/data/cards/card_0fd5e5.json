@@ -1,0 +1,102 @@
+{
+  "id": "card_0fd5e5",
+  "slug": "oak-trees-carbon-after-growth",
+  "type": "news",
+  "title": "Oak Trees Keep Pulling in Carbon Long After They Stop Growing",
+  "hook": "Climate models often assume photosynthesis and tree growth rise and fall together. Oak trees just showed that a third or more of their yearly carbon capture happens after growth has already stopped.",
+  "key_points": [
+    "Oak trees across the eastern U.S. and California kept photosynthesizing for months after their growth season ended.",
+    "Eastern oaks grew from May to July but kept photosynthesizing through October; about 36% of their annual carbon uptake happened after growth had stopped.",
+    "California oaks showed a similar pattern, with roughly 26% of yearly carbon uptake occurring post-growth.",
+    "The findings challenge a common climate-model assumption that more photosynthesis automatically means more long-term carbon storage as wood.",
+    "Since much of that late-season carbon becomes leaves or short-term fuel rather than durable wood, forests may store less carbon long-term than current models predict."
+  ],
+  "content_html": "\u003cp\u003eIt seems intuitive: if a tree is photosynthesizing more, it must be storing more carbon as wood. A new multi-site study of oak trees says that link is weaker than climate models assume.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eCombining satellite measurements of photosynthesis, hourly carbon dioxide readings above the tree canopy, trunk sensors tracking size changes, and decades of tree-ring and temperature records, researchers found that eastern U.S. oaks grew from May to July but kept photosynthesizing all the way through October — with about 36% of their entire year's carbon uptake happening after growth had already stopped. California oaks showed a similar pattern, capturing roughly 26% of their annual carbon post-growth. The catch is where that late-season carbon goes: mostly into leaves and short-term metabolic fuel, not durable wood, which is where forests store carbon for the long haul. As the lead researcher put it, most models assume that photosynthesis means growth — but this data shows that link doesn't hold, suggesting forests may lock away less carbon over time than current climate models predict, especially as warming and weather variability increase.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260708022210.htm",
+    "published_at": "2026-07-09",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "plants",
+    "energy-in-life"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-09",
+  "related": [
+    {
+      "id": "card_4be834",
+      "slug": "photosynthesis",
+      "type": "concept",
+      "title": "Photosynthesis",
+      "hook": "Plants pull carbon dioxide from the air and water from the soil, and using only sunlight, build sugar — releasing the oxygen you're breathing right now.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_140092",
+      "slug": "why-plants-run-the-planet",
+      "type": "concept",
+      "title": "Why Plants Run the Planet",
+      "hook": "Nearly every breath you take and every meal you eat traces back to plants — they make the oxygen, anchor the food chain, and lock away carbon for the whole biosphere.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0fd5e5#0",
+      "format": "flip",
+      "prompt": "What surprising pattern did researchers find in when oak trees absorb carbon?",
+      "back_html": "\u003cp\u003eOak trees keep \u003cstrong\u003ephotosynthesizing and absorbing carbon for months after their\ngrowth season ends\u003c/strong\u003e — up to about 36% of their annual carbon uptake happens\nafter growth has already stopped.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0fd5e5#1",
+      "format": "quiz",
+      "prompt": "What common climate-model assumption does this finding challenge?",
+      "choices": [
+        {
+          "text": "That more photosynthesis automatically means more long-term carbon storage as wood",
+          "correct": true
+        },
+        {
+          "text": "That trees photosynthesize at all outside of summer",
+          "correct": false
+        },
+        {
+          "text": "That oak trees are a major source of atmospheric carbon",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMany climate models assume photosynthesis and growth (and thus long-term wood\ncarbon storage) rise and fall together — this study shows that link doesn't\nhold for oaks.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0fd5e5#2",
+      "format": "quiz",
+      "prompt": "Why does late-season carbon uptake matter less for long-term storage than growth-season uptake?",
+      "choices": [
+        {
+          "text": "Much of it becomes leaves or short-term metabolic fuel rather than durable wood",
+          "correct": true
+        },
+        {
+          "text": "The tree releases it back into the atmosphere the same day",
+          "correct": false
+        },
+        {
+          "text": "It gets absorbed by soil microbes instead of the tree",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCarbon captured after growth has stopped tends to go toward leaves and\nshort-term metabolic needs rather than wood, which is where carbon gets stored\nfor the long term — so forests may sequester less durable carbon than expected.\u003c/p\u003e"
+    }
+  ]
+}

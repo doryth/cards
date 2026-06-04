@@ -1,0 +1,94 @@
+{
+  "id": "card_a93f20",
+  "slug": "tiktok-ai-likeness-detection",
+  "type": "news",
+  "title": "TikTok Will Now Scan for AI Clones of Your Face",
+  "hook": "Worried an AI has faked a video of your face on TikTok? A new opt-in tool verifies who you are, then scans the app for AI content wearing your likeness — and lets you report it.",
+  "key_points": [
+    "TikTok is testing an opt-in tool that scans the app for AI-generated content using a creator's face.",
+    "To enable it, creators verify their identity via Jumio: a live selfie plus an ID check.",
+    "TikTok says it doesn't keep the ID document; facial data is used only to match likeness matches.",
+    "Matches are shown to the creator, who can review and report suspected unauthorized AI content.",
+    "It follows YouTube's own likeness-detection tool, already expanded to eligible creators and some celebrities."
+  ],
+  "content_html": "\u003cp\u003eIf an AI-generated video started circulating with your face on it, would you even know? TikTok is testing a tool meant to answer that. The Verge reports the platform is piloting an opt-in feature, currently limited to a small group of US creators, that scans TikTok for AI-generated content using a creator's likeness and lets them report anything unauthorized.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTo turn it on, a creator verifies their identity through Jumio — a live selfie plus an ID check. TikTok says it doesn't retain the ID document itself; the facial data collected is used only to match potential likeness hits, which the creator can then review before deciding whether to report a post or account as impersonation. It's a direct response to a problem creators increasingly face: AI tools make it easy to generate convincing video or images of a real, identifiable person without their involvement at all. TikTok isn't first here — YouTube already runs a similar likeness-detection system, which it's expanded beyond ordinary creators to some celebrities and talent agencies. As these tools spread, they're becoming a quiet but important second line of defense alongside platform moderation: not just catching deepfakes after the fact, but giving the person being impersonated a direct way to find and flag them.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jay Peters"
+    ],
+    "url": "https://theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+    "published_at": "2026-07-17",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "deepfakes",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c3cf19",
+      "slug": "meta-muse-instagram-deepfakes",
+      "type": "news",
+      "title": "Meta Let You Put Strangers Into AI Photos — Then Pulled It Back Fast",
+      "hook": "Meta's new AI image model could pull any public Instagram user into your AI-generated photos, no permission asked. Backlash was swift, and so was the shutdown.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a93f20#0",
+      "format": "quiz",
+      "prompt": "How does TikTok's new likeness-detection tool work?",
+      "choices": [
+        {
+          "text": "Creators verify their identity once, then TikTok scans for AI content using their face and flags matches for review",
+          "correct": true
+        },
+        {
+          "text": "It automatically deletes any video that mentions the creator's name",
+          "correct": false
+        },
+        {
+          "text": "It blocks all AI-generated content from being uploaded at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAfter identity verification, the tool scans for potential matches to a\ncreator's likeness, which the creator can then review and report.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a93f20#1",
+      "format": "flip",
+      "prompt": "What does identity verification for the tool involve, and what does TikTok keep?",
+      "back_html": "\u003cp\u003eA live selfie and ID check via Jumio. TikTok says it does not keep the ID\ndocument — facial data is used only to match likeness, not to store your ID.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a93f20#2",
+      "format": "flip",
+      "prompt": "Is TikTok the first platform to build a tool like this?",
+      "back_html": "\u003cp\u003eNo — YouTube already has a similar likeness-detection tool, which it has\nexpanded to eligible creators and even some celebrities and talent agencies.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "card_022270",
+  "slug": "gene-edited-crop-nutrition",
+  "type": "news",
+  "title": "Editing Lettuce to Order",
+  "hook": "Scientists switched off the gene for red pigment in lettuce — and instead of just losing color, the plant rerouted its chemistry to pile up other healthy compounds.",
+  "key_points": [
+    "Researchers used genome editing to block red-pigment (anthocyanin) production in lettuce.",
+    "With that pathway shut, other beneficial plant compounds built up instead.",
+    "The edited lettuce still grew normally.",
+    "It points toward designing crops with custom nutritional profiles.",
+    "Editing one step in a plant's chemistry can redirect the whole flow."
+  ],
+  "content_html": "\u003cp\u003eRed lettuce gets its color from pigments called anthocyanins. Researchers decided to switch that pigment off using genome editing — and the interesting part wasn't the color change. Reported via ScienceDaily, the plant responded by redirecting its internal chemistry, building up other beneficial compounds in place of the pigment, and it kept growing normally.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat redirection is the real lesson. A plant's biochemistry is a network of connected pathways, so closing one route can push raw materials down others. By choosing which step to edit, scientists can nudge a crop toward a desired mix of nutrients — a route to designing fruits and vegetables with customized nutritional profiles. It's a small, concrete example of how precise gene editing is moving from simply removing traits to actively shaping what our food contains.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260614011854.htm",
+    "published_at": "2026-06-15",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "biotechnology",
+    "plants"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-18",
+  "date": "2026-06-15",
+  "related": [
+    {
+      "id": "card_cb9097",
+      "slug": "gmos-and-genetic-engineering",
+      "type": "concept",
+      "title": "GMOs and Genetic Engineering",
+      "hook": "By deliberately rewriting an organism's DNA, scientists can make bacteria brew human insulin or crops resist pests — traits nature never handed them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9fc450",
+      "slug": "crispr-gene-editing",
+      "type": "concept",
+      "title": "CRISPR: Molecular Scissors for DNA",
+      "hook": "Borrowed from a bacterial immune system, CRISPR lets scientists find a precise spot in the genome and cut it — turning gene editing into something almost routine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_140092",
+      "slug": "why-plants-run-the-planet",
+      "type": "concept",
+      "title": "Why Plants Run the Planet",
+      "hook": "Nearly every breath you take and every meal you eat traces back to plants — they make the oxygen, anchor the food chain, and lock away carbon for the whole biosphere.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_022270#0",
+      "format": "flip",
+      "prompt": "What happened when scientists blocked red-pigment production in lettuce?",
+      "back_html": "\u003cp\u003eThe plant's chemistry \u003cstrong\u003ererouted\u003c/strong\u003e: with the red-pigment pathway shut off, other\nbeneficial compounds built up instead — and the lettuce still grew normally.\u003c/p\u003e"
+    },
+    {
+      "id": "card_022270#1",
+      "format": "quiz",
+      "prompt": "Why is this result useful beyond just changing a plant's color?",
+      "choices": [
+        {
+          "text": "It shows editing one step can redirect a plant's chemistry to make custom-nutrition crops",
+          "correct": true
+        },
+        {
+          "text": "It proves lettuce can't survive without red pigment",
+          "correct": false
+        },
+        {
+          "text": "It makes the lettuce grow much faster",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eShutting one pathway pushed the plant's resources into other valuable compounds,\nhinting at a general way to tune crops for desired nutrients.\u003c/p\u003e"
+    }
+  ]
+}

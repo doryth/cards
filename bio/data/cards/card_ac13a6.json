@@ -1,0 +1,102 @@
+{
+  "id": "card_ac13a6",
+  "slug": "permian-mass-extinction-metabolism",
+  "type": "news",
+  "title": "Why Clams Replaced Brachiopods: Metabolism Decided Earth's Worst Extinction",
+  "hook": "Brachiopods ruled the seafloor for 280 million years. One mass extinction later, clams and snails took over — and new research says the deciding factor was how fast each group's metabolism ran.",
+  "key_points": [
+    "The end-Permian extinction, about 252 million years ago, killed roughly 96% of marine species and 70% of land animals — the worst mass extinction in Earth's history.",
+    "Massive volcanic eruptions released huge amounts of CO2 and methane, warming oceans and depleting dissolved oxygen.",
+    "Species with metabolisms poorly suited to warm, low-oxygen water died at much higher rates than species already adapted to those conditions.",
+    "Brachiopods, slow filter-feeders that dominated seafloors for 280 million years, mostly perished; only about 400 species survived, versus roughly 10,000–15,000 living bivalve species (clams, mussels) today.",
+    "Bivalves' faster metabolisms, suited to active movement and predatory behavior, gave them the edge that slow, low-metabolism brachiopods lacked."
+  ],
+  "content_html": "\u003cp\u003eWalk any beach today and the shells underfoot are almost all clams and snails. For 280 million years before the end-Permian extinction, that seafloor role belonged to a different group entirely: brachiopods. New research explains why the changeover happened, and it comes down to something as basic as metabolism.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAbout 252 million years ago, massive volcanic eruptions flooded the atmosphere with carbon dioxide and methane, warming the oceans and stripping them of dissolved oxygen. The event, nicknamed the \u0026quot;Great Dying,\u0026quot; wiped out roughly 96% of marine species and 70% of land animals — the worst mass extinction Earth has ever recorded. According to this study, the deciding factor in who survived wasn't luck or location, but metabolism: species whose metabolic demands were poorly matched to warm, oxygen-starved water died off at far higher rates than species already suited to those conditions. Brachiopods — slow, filter-feeding animals that had dominated seafloors for 280 million years — fell into the first camp, and only about 400 species survive today. Bivalves like clams and mussels, with faster metabolisms built for active movement and predatory behavior, fell into the second, and now number somewhere between 10,000 and 15,000 living species. The researchers note a sobering parallel: current projections put us on track for Permian-Triassic levels of warming in worst-case climate scenarios, though there's still time to change course.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260711010122.htm",
+    "published_at": "2026-07-12",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "origin-of-life",
+    "evolution"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-12",
+  "related": [
+    {
+      "id": "card_e0f432",
+      "slug": "mass-extinctions",
+      "type": "concept",
+      "title": "Mass Extinctions",
+      "hook": "Five times in the past half-billion years, life on Earth was nearly wiped out. Each catastrophe reset the course of evolution — and the asteroid that killed the dinosaurs was only the most famous.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_71676e",
+      "slug": "the-history-of-life",
+      "type": "concept",
+      "title": "The History of Life",
+      "hook": "Life is about 3.5 billion years old, but for most of that time it was just microbes. Animals, plants, and us are latecomers crowded into the most recent slice of deep time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ac13a6#0",
+      "format": "flip",
+      "prompt": "What caused the end-Permian mass extinction, and how severe was it?",
+      "back_html": "\u003cp\u003eMassive volcanic eruptions released huge amounts of CO2 and methane, warming\noceans and depleting oxygen. It killed roughly \u003cstrong\u003e96% of marine species\u003c/strong\u003e and\n\u003cstrong\u003e70% of land animals\u003c/strong\u003e — the worst extinction in Earth's history.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ac13a6#1",
+      "format": "quiz",
+      "prompt": "According to this new research, what determined which species survived the extinction?",
+      "choices": [
+        {
+          "text": "How well their metabolism tolerated warm, low-oxygen water",
+          "correct": true
+        },
+        {
+          "text": "How large the species' body size was",
+          "correct": false
+        },
+        {
+          "text": "Whether the species lived on land or in the ocean",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSpecies with metabolisms poorly adapted to warm, oxygen-poor conditions died at\nmuch higher rates, regardless of other traits — metabolic tolerance was the\ndeciding factor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ac13a6#2",
+      "format": "quiz",
+      "prompt": "Why did bivalves (clams, mussels) replace brachiopods as the dominant seafloor animals?",
+      "choices": [
+        {
+          "text": "Bivalves' faster metabolisms, suited to active movement and predation, tolerated the crisis better than brachiopods' slow, filter-feeding metabolism",
+          "correct": true
+        },
+        {
+          "text": "Bivalves migrated away from the ocean entirely during the extinction",
+          "correct": false
+        },
+        {
+          "text": "Brachiopods were hunted to extinction by early bivalves",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBrachiopods, slow filter-feeders dominant for 280 million years, mostly died\nout — only about 400 species remain — while faster-metabolism bivalves\nradiated into today's 10,000–15,000 species.\u003c/p\u003e"
+    }
+  ]
+}

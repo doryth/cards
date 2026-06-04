@@ -1,0 +1,109 @@
+{
+  "id": "card_88ba5a",
+  "slug": "from-dna-to-protein",
+  "type": "concept",
+  "title": "From DNA to Protein: The Central Dogma",
+  "hook": "Your DNA is a recipe book locked in the nucleus — so the cell copies a single recipe to RNA, carries it out, and reads it to build a protein.",
+  "key_points": [
+    "The central dogma describes information flowing from DNA to RNA to protein.",
+    "Transcription copies a gene's DNA into a messenger RNA (mRNA).",
+    "Translation reads the mRNA in three-letter codons to assemble a protein.",
+    "Proteins do most of the work in cells, so this is how genes shape traits."
+  ],
+  "content_html": "\u003cp\u003eDNA holds the instructions for building you, but those instructions have to be read and acted on. Biologists summarize the flow of that information as the central dogma: DNA to RNA to protein. The cell never sends the master DNA out to do the work; instead it makes a disposable copy, carries it out, and uses it as a build sheet.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt happens in two steps. First, \u003cstrong\u003etranscription\u003c/strong\u003e copies a single gene from DNA into a strand of messenger RNA (mRNA) — like photocopying one recipe rather than carrying the whole cookbook around. Then, in \u003cstrong\u003etranslation\u003c/strong\u003e, a ribosome reads the mRNA three bases at a time. Each three-letter group, called a codon, names a specific amino acid, and the ribosome links those amino acids into a chain that folds into a protein. As Khan Academy lays out, this pathway matters because proteins do most of the actual work in a cell — so transcription and translation are how the information in your genes becomes real traits.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/gene-expression-central-dogma/central-dogma-transcription/a/the-central-dogma-of-molecular-biology",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82d3b1",
+      "slug": "genes-and-traits",
+      "type": "concept",
+      "title": "How Genes Become Traits",
+      "hook": "You inherit two copies of every gene — one from each parent — and the way those copies interact helps decide everything from eye color to blood type.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80bbc5",
+      "slug": "mutations",
+      "type": "concept",
+      "title": "Mutations: When DNA Changes",
+      "hook": "Every time a cell copies its DNA, tiny typos can slip in — most do nothing at all, a few cause disease, and rare ones fuel evolution.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_88ba5a#0",
+      "format": "flip",
+      "prompt": "What is the 'central dogma' of molecular biology?",
+      "back_html": "\u003cp\u003eThe flow of genetic information: \u003cstrong\u003eDNA → RNA → protein\u003c/strong\u003e. DNA is transcribed\ninto RNA, and RNA is translated into protein.\u003c/p\u003e"
+    },
+    {
+      "id": "card_88ba5a#1",
+      "format": "quiz",
+      "prompt": "What happens during transcription?",
+      "choices": [
+        {
+          "text": "A gene's DNA is copied into messenger RNA",
+          "correct": true
+        },
+        {
+          "text": "A protein is broken down into amino acids",
+          "correct": false
+        },
+        {
+          "text": "Two cells fuse into one",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn \u003cstrong\u003etranscription\u003c/strong\u003e, the cell makes an RNA copy (mRNA) of a gene's DNA sequence,\nwhich can then leave the nucleus to be read.\u003c/p\u003e"
+    },
+    {
+      "id": "card_88ba5a#2",
+      "format": "quiz",
+      "prompt": "During translation, the mRNA is read in units of how many bases?",
+      "choices": [
+        {
+          "text": "Three — called codons",
+          "correct": true
+        },
+        {
+          "text": "One base at a time",
+          "correct": false
+        },
+        {
+          "text": "Ten, called genes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003emRNA is read in \u003cstrong\u003ethree-base groups called codons\u003c/strong\u003e, and each codon specifies a\nparticular amino acid to add to the growing protein.\u003c/p\u003e"
+    }
+  ]
+}

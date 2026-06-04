@@ -1,0 +1,122 @@
+{
+  "id": "card_cb4581",
+  "slug": "standing-waves-and-harmonics",
+  "type": "concept",
+  "title": "Standing Waves: How Music Gets Its Pitch",
+  "hook": "Pluck a guitar string and it doesn't wobble randomly — it locks into a few special patterns. Those standing waves are why every instrument plays definite notes.",
+  "key_points": [
+    "A wave trapped in a string or pipe reflects and overlaps itself into a standing pattern.",
+    "Only certain wavelengths 'fit', giving fixed points that stay still (nodes) and points of max swing.",
+    "The lowest fitting pattern sets the pitch; its multiples are the harmonics.",
+    "The blend of harmonics gives each instrument its distinct tone, or timbre."
+  ],
+  "content_html": "\u003cp\u003eWhen you pluck a guitar string fixed at both ends, it can't just vibrate any old way — the ends are pinned, so only wave patterns that \u0026quot;fit\u0026quot; between them survive. Reflecting back and forth, the waves overlap and reinforce into a standing wave: a pattern that seems frozen in place, with points that never move (nodes) and points that swing widest. A pipe of air in a flute or organ works the same way. Only a special set of wavelengths fits, and that's what gives an instrument its set of playable notes.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe lowest-frequency pattern that fits is the fundamental, and it sets the note's pitch — which is why a shorter string or a finger on a fret, fitting only shorter waves, plays higher. Stacked above the fundamental are the harmonics, patterns vibrating at whole-number multiples of its frequency. Real instruments sound all of these at once, in different proportions, and that particular recipe of harmonics is what lets your ear instantly tell a violin from a flute even when they play the very same note. Standing waves also explain resonance in everything from wine glasses to bridges. Wikipedia covers the patterns and the math of which wavelengths fit.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Standing_wave",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "waves-sound"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_18e1b9",
+      "slug": "interference-and-resonance",
+      "type": "concept",
+      "title": "Interference \u0026 Resonance",
+      "hook": "When waves overlap they add up — in step they reinforce, out of step they cancel. Drive a system at its natural beat and it swings ever bigger: resonance.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a621bf",
+      "slug": "sound-waves",
+      "type": "concept",
+      "title": "Sound Waves",
+      "hook": "Sound is just air being squeezed and stretched — which is also why there's no sound in the vacuum of space.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eefe71",
+      "slug": "what-is-a-wave",
+      "type": "concept",
+      "title": "What Is a Wave?",
+      "hook": "A wave moves energy from place to place without moving the stuff it travels through — the water bobs, but the wave races on.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_eefe71",
+      "slug": "what-is-a-wave",
+      "type": "concept",
+      "title": "What Is a Wave?",
+      "hook": "A wave moves energy from place to place without moving the stuff it travels through — the water bobs, but the wave races on.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_cb4581#0",
+      "format": "flip",
+      "prompt": "What is a standing wave?",
+      "back_html": "\u003cp\u003eA wave trapped in a confined space (like a string) that reflects and overlaps\nitself, forming a pattern that appears to \u003cstrong\u003estand still\u003c/strong\u003e with fixed nodes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cb4581#1",
+      "format": "quiz",
+      "prompt": "Why does a guitar string of a given length produce a definite pitch?",
+      "choices": [
+        {
+          "text": "Only certain wavelengths fit between its fixed ends, setting which notes it can sound",
+          "correct": true
+        },
+        {
+          "text": "The string randomly chooses a frequency each time",
+          "correct": false
+        },
+        {
+          "text": "Pitch depends only on how hard you pluck it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFixed ends force the wave into specific fitting patterns. The lowest one sets\nthe fundamental pitch; shortening the string raises it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cb4581#2",
+      "format": "quiz",
+      "prompt": "Why do a violin and a flute playing the same note sound different?",
+      "choices": [
+        {
+          "text": "They produce different mixes of harmonics on top of the same fundamental",
+          "correct": true
+        },
+        {
+          "text": "They are actually playing different pitches",
+          "correct": false
+        },
+        {
+          "text": "One is louder, which changes the note",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth share the fundamental frequency, but each instrument emphasizes different\novertones (harmonics). That blend is what we hear as timbre.\u003c/p\u003e"
+    }
+  ]
+}

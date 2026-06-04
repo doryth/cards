@@ -1,0 +1,131 @@
+{
+  "id": "card_d0f1bd",
+  "slug": "neural-decoder-doubles-code-threshold",
+  "type": "paper",
+  "title": "Teaching a Neural Net to Read Quantum Error Syndromes",
+  "hook": "A decoder that passes soft beliefs up and down a code's concatenation levels — with small neural nets learning only how to combine them — nearly doubles the noise a code can tolerate.",
+  "key_points": [
+    "Concatenated quantum codes nest codes inside codes; decoding them well means letting each level inform the others.",
+    "The framework passes soft beliefs (probabilities, not verdicts) bidirectionally across levels, so no level commits early to a wrong guess.",
+    "Lightweight neural networks learn only the message-aggregation step, keeping the rest of the decoder structural and general.",
+    "For the concatenated [[15,7,3]] quantum Hamming code the depolarizing pseudo-threshold rises from 6.5% to 12.3%.",
+    "Fine-tuned on circuit-level errors, it beats the dedicated decoder for many-hypercube codes using a fixed iteration count instead of combinatorial search.",
+    "Being code-agnostic, it opens up non-CSS concatenated constructions that lacked good decoders."
+  ],
+  "content_html": "\u003cp\u003eConcatenated quantum codes protect information by nesting: encode a logical qubit in a small code, then encode each of those physical qubits in the same code again, and so on. Decoding such a stack is a chain of inferences, and the usual approach makes hard decisions at each level before moving on. If an inner level guesses wrong, the outer levels inherit the mistake.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWu, Zhang, Wu and Huang (arXiv, August 2026) replace that chain with a neural message-passing framework. Soft beliefs — probability-like messages rather than verdicts — travel bidirectionally across the concatenation levels, and small neural networks learn only how to combine the messages arriving at each node. The structure of the code does the rest of the work, which is why the same framework applies to general concatenated stabilizer codes, including non-CSS constructions.\u003c/p\u003e\n\u003cp\u003eThe gains are concrete. On the concatenated [[15,7,3]] quantum Hamming code the decoder reports substantially higher thresholds than the state-of-the-art bidirectional hard-decision decoder under both bit-flip and depolarizing noise, with the depolarizing pseudo-threshold rising from 6.5% to 12.3%. For many-hypercube codes, a version fine-tuned on circuit-level errors in Knill's teleportation-based error correction achieves lower logical-CNOT failure rates than the code's dedicated decoder — and does it with a fixed number of message-passing iterations, rather than an extensive combinatorial search.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Jiahui Wu",
+      "Chao Zhang",
+      "Zipeng Wu",
+      "Shilin Huang"
+    ],
+    "url": "https://arxiv.org/abs/2608.28571",
+    "published_at": "2026-08-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_97bae5",
+      "slug": "million-gate-decoder-on-one-cpu",
+      "type": "paper",
+      "title": "A Million Quantum Gates, Decoded on a Laptop-Class CPU",
+      "hook": "Error correction has to keep up with the quantum computer in real time or the machine stalls. A new decoding stack handles a million-gate workload on one ordinary CPU.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-25"
+    },
+    {
+      "id": "card_b6cd84",
+      "slug": "ai-scientist-designs-error-correcting-codes",
+      "type": "paper",
+      "title": "An AI That Invents Quantum Error-Correcting Codes",
+      "hook": "Designing a good quantum code means balancing code structure, hardware layout, syndrome extraction and decoding at once. An LLM-driven search now beats the standard codes at equal qubit budgets.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "card_0a3bcb",
+      "slug": "more-gates-can-mean-fewer-errors",
+      "type": "paper",
+      "title": "When More Gates Means Fewer Errors",
+      "hook": "The textbook-optimal Toffoli gate uses six two-qubit gates. On a real chip where qubits only talk to neighbours, an eight-gate version wins — hardware layout can reverse which circuit is better.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-21"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d0f1bd#0",
+      "format": "quiz",
+      "prompt": "What is the key advantage of passing 'soft' beliefs rather than hard decisions between concatenation levels?",
+      "choices": [
+        {
+          "text": "No level locks in a guess prematurely; uncertainty flows both ways and can be revised",
+          "correct": true
+        },
+        {
+          "text": "Soft messages are smaller, so the decoder uses less memory",
+          "correct": false
+        },
+        {
+          "text": "Hard decisions are impossible to compute for concatenated codes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA hard-decision decoder that commits at an inner level cannot recover if it was wrong.\nBidirectional soft beliefs let outer-level evidence correct inner-level doubt.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d0f1bd#1",
+      "format": "flip",
+      "prompt": "How much did the depolarizing pseudo-threshold improve for the concatenated [[15,7,3]] code?",
+      "back_html": "\u003cp\u003eFrom \u003cstrong\u003e6.5%\u003c/strong\u003e to \u003cstrong\u003e12.3%\u003c/strong\u003e — roughly double — against the state-of-the-art\nbidirectional hard-decision decoder.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d0f1bd#2",
+      "format": "quiz",
+      "prompt": "What role do the neural networks actually play in this decoder?",
+      "choices": [
+        {
+          "text": "They learn only how to aggregate incoming messages; the message-passing structure is fixed",
+          "correct": true
+        },
+        {
+          "text": "They replace the code's parity checks with a learned approximation",
+          "correct": false
+        },
+        {
+          "text": "They generate the concatenated code itself before decoding begins",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eKeeping the learned part small and structural is what makes the framework generic\nacross code families rather than tuned to one code.\u003c/p\u003e"
+    }
+  ]
+}

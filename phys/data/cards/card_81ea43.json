@@ -1,0 +1,79 @@
+{
+  "id": "card_81ea43",
+  "slug": "material-upconverts-sunlight-to-uv",
+  "type": "news",
+  "title": "A Material That Turns Sunlight Into UV Light",
+  "hook": "A new solid material soaks up ordinary visible sunlight and re-emits it as higher-energy ultraviolet — running uphill in energy, which light rarely does on its own.",
+  "key_points": [
+    "A new solid-state material converts visible light into higher-energy UV light.",
+    "Boosting light to higher energy ('upconversion') had long frustrated researchers.",
+    "It works powered by natural sunlight, with no other energy source needed.",
+    "Possible uses include air purification, solar-driven chemistry, and manufacturing."
+  ],
+  "content_html": "\u003cp\u003eAccording to a ScienceDaily report, researchers have built a new solid-state material that takes in ordinary visible sunlight and re-emits it as higher-energy ultraviolet light. That direction — pushing light to \u003cem\u003ehigher\u003c/em\u003e energy — is the hard one. When light interacts with matter it usually loses energy, so coaxing low-energy visible photons into producing higher-energy UV (a trick called photon upconversion) had frustrated scientists for years.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe appeal is that the material does this using nothing but natural sunlight, with no separate power source. UV light is more chemically energetic than visible light, so an efficient, sunlight-driven source of it could open up applications the report highlights: cleaner air purification, solar-driven chemistry, and advanced manufacturing. The work is an example of materials engineering being used to reshape light itself, rather than simply absorbing or reflecting it.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260623083058.htm",
+    "published_at": "2026-06-26",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "light-optics",
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-29",
+  "date": "2026-06-26",
+  "related": [
+    {
+      "id": "card_80e637",
+      "slug": "electromagnetic-spectrum",
+      "type": "concept",
+      "title": "The Electromagnetic Spectrum",
+      "hook": "Radio, microwaves, the warmth of sunlight, the colors you see, and a hospital X-ray are all the same thing — electromagnetic waves, differing only in wavelength.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_81ea43#0",
+      "format": "flip",
+      "prompt": "What does the new material do to incoming sunlight?",
+      "back_html": "\u003cp\u003eIt absorbs ordinary \u003cstrong\u003evisible\u003c/strong\u003e light and re-emits it as \u003cstrong\u003ehigher-energy\nultraviolet\u003c/strong\u003e light — a process called photon upconversion.\u003c/p\u003e"
+    },
+    {
+      "id": "card_81ea43#1",
+      "format": "quiz",
+      "prompt": "Why is converting visible light into UV considered hard?",
+      "choices": [
+        {
+          "text": "It pushes light to higher energy, the opposite of light's usual downhill behavior",
+          "correct": true
+        },
+        {
+          "text": "Ultraviolet light cannot exist in solid materials",
+          "correct": false
+        },
+        {
+          "text": "Sunlight contains no visible light to start from",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLight normally loses energy when it interacts with matter; producing\nhigher-energy UV out of lower-energy visible light is the difficult,\nuphill direction.\u003c/p\u003e"
+    },
+    {
+      "id": "card_81ea43#2",
+      "format": "flip",
+      "prompt": "What makes the approach appealing for practical use?",
+      "back_html": "\u003cp\u003eIt runs on natural sunlight alone, so it could drive air purification,\nsolar chemistry, and manufacturing without an extra energy source.\u003c/p\u003e"
+    }
+  ]
+}

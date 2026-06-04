@@ -1,0 +1,109 @@
+{
+  "id": "card_0dc6ed",
+  "slug": "texas-freezes-flock-funding",
+  "type": "news",
+  "title": "Texas Pulls the Plug on More AI Surveillance Cameras",
+  "hook": "Governor Abbott froze state spending on Flock's AI cameras — days before reporters revealed Texas had spent over $30 million on them, funded by a $1 fee on insurance policies.",
+  "key_points": [
+    "The Verge reported on August 30, 2026 that Texas froze state funding for more Flock cameras.",
+    "Flock's AI cameras read license plates and feed a searchable network used by police.",
+    "A Texas Tribune investigation found the state spent over $30 million on the cameras.",
+    "The money came largely from a $1 fee tacked onto insurance policies — not a debated budget line.",
+    "The funding route is the point: surveillance can scale without ever facing a public vote."
+  ],
+  "content_html": "\u003cp\u003eFlock's cameras automatically read license plates and pool the results into a searchable network that police agencies across the country can query. On August 30, 2026, The Verge reported that Texas Governor Greg Abbott froze state spending on buying more of them, amid growing backlash over that network.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe timing was pointed: the freeze landed just before a Texas Tribune investigation revealed the state had spent over $30 million on Flock cameras. The detail worth remembering is where that money came from — primarily a $1 fee tacked onto insurance policies, rather than a debated line in a budget.\u003c/p\u003e\n\u003cp\u003eThat's the quiet mechanism behind a lot of surveillance infrastructure. A dollar per policy doesn't feel like a decision to anyone paying it, and it never has to survive a public argument, so a statewide camera network can be built without one. Note the limits of the move as well: freezing new spending stops expansion. It doesn't take down the cameras already in place, and it doesn't change who can search the data they've collected.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O'Brien"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "published_at": "2026-08-30",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "facial-recognition",
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-31",
+  "date": "2026-08-30",
+  "related": [
+    {
+      "id": "card_e9f8a6",
+      "slug": "flock-tightens-plate-reader-rules",
+      "type": "news",
+      "title": "Flock Tightens the Rules on Its Nationwide License-Plate Network",
+      "hook": "After dozens of cities cancelled contracts, the biggest police camera company is adding guardrails to a searchable record of where cars have been.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-13"
+    },
+    {
+      "id": "card_7c7279",
+      "slug": "computer-cops-ai-policing",
+      "type": "news",
+      "title": "Inside the Trade Show Where Companies Sell AI to the Police",
+      "hook": "Facial-recognition cameras, 911 chatbots, gunshot-detection, and AI report-writing — a police-chiefs' tech conference showed how far AI has already moved into everyday policing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_95563d",
+      "slug": "facial-recognition-and-surveillance",
+      "type": "concept",
+      "title": "Facial Recognition",
+      "hook": "The same AI that unlocks your phone can pick your face out of a crowd. It's convenient at your fingertips and unsettling at a city's scale — and it makes mistakes, unevenly.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0dc6ed#0",
+      "format": "quiz",
+      "prompt": "How was Texas's $30M+ of Flock camera spending funded?",
+      "choices": [
+        {
+          "text": "Mostly by a $1 fee added to insurance policies",
+          "correct": true
+        },
+        {
+          "text": "A dedicated line item approved by referendum",
+          "correct": false
+        },
+        {
+          "text": "Federal counterterrorism grants only",
+          "correct": false
+        },
+        {
+          "text": "Flock donated the cameras free of charge",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Texas Tribune found the money came primarily from a $1 fee on insurance\npolicies — a funding route that never required a public debate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0dc6ed#1",
+      "format": "flip",
+      "prompt": "Why does the funding mechanism matter as much as the cameras?",
+      "back_html": "\u003cp\u003eA small automatic fee scales a surveillance network without ever appearing as a\nbudget decision voters get to weigh in on.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0dc6ed#2",
+      "format": "flip",
+      "prompt": "What did the governor actually do — and not do?",
+      "back_html": "\u003cp\u003eHe froze state spending on more cameras. That halts expansion; it doesn't remove\nthe cameras already installed or the network they feed.\u003c/p\u003e"
+    }
+  ]
+}

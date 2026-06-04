@@ -1,0 +1,90 @@
+{
+  "id": "card_d1c9e8",
+  "slug": "asking-ai-about-health",
+  "type": "concept",
+  "title": "Asking AI About Health",
+  "hook": "AI beats frantic late-night symptom-googling for calm, readable explanations — and makes a great prep tool for a doctor's visit. What it can't do is examine you or diagnose you.",
+  "key_points": [
+    "Good for understanding conditions, decoding medical jargon, and prepping questions.",
+    "It can't examine you, doesn't know your history, and can be confidently wrong.",
+    "Don't use it to self-diagnose or to decide on medications or treatments.",
+    "In an emergency, call emergency services — not a chatbot."
+  ],
+  "content_html": "\u003cp\u003eAlmost everyone has fallen down a late-night symptom-search rabbit hole and emerged convinced of the worst. A chatbot can actually be an improvement on that experience — not because it's more authoritative, but because it's calmer and clearer. Ask it to explain a diagnosis your doctor mentioned, translate the jargon on a lab report, describe what a procedure involves, or lay out general lifestyle factors for a condition, and you'll usually get a readable, balanced overview that helps you feel less lost. It's especially valuable as a \u003cem\u003epreparation\u003c/em\u003e tool: have it help you write down the right questions to ask at an appointment, so your limited time with a clinician is well spent.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBut the boundary here is a matter of safety, not etiquette. A general chatbot is \u003cstrong\u003enot a doctor\u003c/strong\u003e. It cannot examine you, run tests, or see the dozens of subtle cues a clinician uses; it doesn't know your medical history; and it can produce a confident, plausible answer that's flat wrong — including inventing conditions, dosages, or interactions. So use it to \u003cem\u003eunderstand and prepare\u003c/em\u003e, never to \u003cem\u003ediagnose or treat\u003c/em\u003e. Don't let it talk you into or out of seeing a professional, and never act on its advice about medications, doses, or whether a symptom is serious. Above all, it has no place in an emergency: chest pain, difficulty breathing, signs of a stroke, thoughts of self-harm, or any urgent situation mean you call emergency services or get to care right away. Think of AI as a knowledgeable friend who's read a lot — helpful for getting oriented, but no substitute for the doctor who can actually look at \u003cem\u003eyou\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-health-questions"
+  ],
+  "tags": [
+    "safety",
+    "tutorial"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_eb781a",
+      "slug": "ai-in-healthcare",
+      "type": "concept",
+      "title": "AI in Healthcare",
+      "hook": "AI can spot a tumor on a scan faster than a tired radiologist and flag patterns no one would catch by eye. It's a powerful assistant to doctors — not a replacement for one.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d1c9e8#0",
+      "format": "quiz",
+      "prompt": "What's an appropriate way to use AI for health?",
+      "choices": [
+        {
+          "text": "Understanding a condition and preparing questions for your doctor",
+          "correct": true
+        },
+        {
+          "text": "Getting a firm diagnosis instead of seeing a doctor",
+          "correct": false
+        },
+        {
+          "text": "Deciding which prescription medication to take",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI is a good explainer and prep tool. It can't examine you, lacks your\nhistory, and may be wrong — so diagnosis and treatment belong to a clinician.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d1c9e8#1",
+      "format": "flip",
+      "prompt": "What should you do in a medical emergency?",
+      "back_html": "\u003cp\u003eCall emergency services or get to care immediately — never rely on a chatbot\nto assess an urgent or life-threatening situation.\u003c/p\u003e"
+    }
+  ]
+}

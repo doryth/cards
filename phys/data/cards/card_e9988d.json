@@ -1,0 +1,112 @@
+{
+  "id": "card_e9988d",
+  "slug": "the-photoelectric-effect",
+  "type": "concept",
+  "title": "The Photoelectric Effect",
+  "hook": "Shine the wrong color of light on a metal and nothing happens, no matter how bright. Switch to a bluer color and electrons fly off instantly. That puzzle proved light comes in packets.",
+  "key_points": [
+    "Light can knock electrons out of a metal — but only above a threshold color (frequency).",
+    "Brighter light below that threshold does nothing; brightness isn't the deciding factor.",
+    "Einstein explained it: light arrives as packets (photons), each carrying energy set by its frequency.",
+    "It was key evidence that light is quantized, and it won Einstein the Nobel Prize."
+  ],
+  "content_html": "\u003cp\u003eBy the early 1900s physicists had a puzzle. Shining light on a metal surface can knock electrons loose — the photoelectric effect — but the details made no sense under the reigning view that light is a smooth wave. Wave theory said a brighter beam carries more energy, so any color of light, if intense enough, should eventually free electrons. Experiments said otherwise: below a certain frequency (toward the red end), no electrons came off no matter how blinding the light, while even a faint beam above that frequency freed them at once.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn 1905 Einstein cracked it by proposing that light is not a continuous wave but a stream of discrete energy packets, later called photons, each carrying an amount of energy set purely by its frequency. An electron is freed by absorbing a single photon, so what matters is whether one photon packs enough punch — a question of color, not of how many photons arrive. A brighter beam just delivers more photons, freeing more electrons, but only if each already clears the energy bar. This was among the first hard evidence that energy at small scales comes in quantized lumps, and it earned Einstein the Nobel Prize. The same effect runs solar cells and light sensors today. Wikipedia covers the experiments and Einstein's photon explanation.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Photoelectric_effect",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational",
+    "landmark"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80e637",
+      "slug": "electromagnetic-spectrum",
+      "type": "concept",
+      "title": "The Electromagnetic Spectrum",
+      "hook": "Radio, microwaves, the warmth of sunlight, the colors you see, and a hospital X-ray are all the same thing — electromagnetic waves, differing only in wavelength.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e9988d#0",
+      "format": "flip",
+      "prompt": "What does the photoelectric effect show that classical wave theory couldn't explain?",
+      "back_html": "\u003cp\u003eLight ejects electrons only above a threshold \u003cstrong\u003efrequency\u003c/strong\u003e (color), no matter\nhow bright — so light's energy comes in frequency-sized packets, not smooth waves.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e9988d#1",
+      "format": "quiz",
+      "prompt": "Dim blue light frees electrons from a metal, but intense red light doesn't. Why?",
+      "choices": [
+        {
+          "text": "Each photon's energy depends on frequency; only high-enough-frequency photons can free an electron",
+          "correct": true
+        },
+        {
+          "text": "Red light is too weak to carry any energy at all",
+          "correct": false
+        },
+        {
+          "text": "The metal reflects all red light but absorbs blue",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOne electron is freed by one photon. A red photon lacks the energy regardless of\nhow many arrive; a blue photon carries enough, even if they're few.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e9988d#2",
+      "format": "quiz",
+      "prompt": "Whose explanation of the photoelectric effect helped launch quantum physics?",
+      "choices": [
+        {
+          "text": "Einstein's, that light comes in discrete energy packets called photons",
+          "correct": true
+        },
+        {
+          "text": "Newton's, that light is a continuous fluid",
+          "correct": false
+        },
+        {
+          "text": "Faraday's, that light is purely a magnetic ripple",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEinstein's 1905 photon explanation accounted for the threshold behavior and\nearned him the Nobel Prize, cementing the idea that light is quantized.\u003c/p\u003e"
+    }
+  ]
+}

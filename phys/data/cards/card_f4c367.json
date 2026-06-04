@@ -1,0 +1,136 @@
+{
+  "id": "card_f4c367",
+  "slug": "on-chip-radio-frequency-maser",
+  "type": "paper",
+  "title": "A Maser Shrunk Onto a Chip",
+  "hook": "Masers are lasers for microwaves: exquisitely quiet, ideal for hearing faint signals, and stuck inside bulky metal resonators. This one runs at room temperature on a chip.",
+  "key_points": [
+    "A maser amplifies microwaves by stimulated emission — the same trick as a laser, lower frequency.",
+    "Its ultra-low noise suits weak-signal detection, but bulky metallic resonators blocked miniaturization.",
+    "The authors report the first on-chip radio-frequency maser working at room temperature.",
+    "It runs on optically pumped triplet states of pentacene, an organic molecule, emitting at 106.62 MHz.",
+    "It senses microwave magnetic fields at about 10 femtotesla per root hertz.",
+    "The same device acts as both local oscillator and sensor; tuning microwave dissipation controls the output."
+  ],
+  "content_html": "\u003cp\u003eThe laser has a quieter older sibling. A maser amplifies microwaves rather than light, using the same stimulated-emission trick, and its exceptional frequency selectivity and ultra-low noise make it a natural front end for detecting signals almost too faint to exist. The problem has always been packaging: masers need resonators, and metallic resonators are bulky, which has kept them off chips and out of the lower frequency bands. Hongliang Wu and colleagues report a maser that escapes that constraint.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir device is, they say, the first on-chip radio-frequency maser to operate at room temperature. The gain medium is pentacene — an organic molecule whose triplet states are populated by optical pumping — and the stimulated emission comes out at 106.62 MHz, well below the microwave band where solid-state masers usually live. Because the architecture is cavity-free, they can regulate the output by actively controlling microwave dissipation, which they identify as the key knob for tuning emission in open systems like this. The payoff is a chip that is simultaneously a local oscillator and a magnetometer, detecting microwave magnetic fields at around 10 femtotesla per root hertz. That combination — quiet, integrated, room-temperature — is what portable quantum sensing has been waiting on.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Hongliang Wu",
+      "Zhengtao Wang",
+      "Yuchen Han",
+      "Liu Yang",
+      "Zhiwei Wang",
+      "Yeliang Wang",
+      "Dezhi Zheng",
+      "Bo Zhang",
+      "Jun Zhang"
+    ],
+    "url": "https://arxiv.org/abs/2607.21002",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "electricity-magnetism"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_2a0bb3",
+      "slug": "programmable-photonic-chip-slow-light",
+      "type": "news",
+      "title": "A Photonic Chip That Slows Light on Command",
+      "hook": "Light usually races through a chip at a fixed clip. This programmable circuit dials that speed down on demand — the buffer and delay line that computing with light has been missing.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-21"
+    },
+    {
+      "id": "card_0f51ff",
+      "slug": "quantum-sensor-hunts-dark-matter",
+      "type": "news",
+      "title": "A Quantum Sensor Built to Catch Dark Matter and Ancient Gravitational Waves",
+      "hook": "Two clouds of ultracold atoms, compared against each other, cancel out noise so well that a signal buried in one measurement reappears — aimed at dark matter and ancient gravitational waves.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_b123c0",
+      "slug": "semiconductors-and-transistors",
+      "type": "concept",
+      "title": "Semiconductors and the Transistor",
+      "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f4c367#0",
+      "format": "quiz",
+      "prompt": "What is a maser?",
+      "choices": [
+        {
+          "text": "A device that amplifies microwaves by stimulated emission, like a laser at lower frequency",
+          "correct": true
+        },
+        {
+          "text": "A magnet that stores microwave energy for later release",
+          "correct": false
+        },
+        {
+          "text": "A detector that converts microwaves directly into visible light",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMaser and laser work on the same principle of stimulated emission; the maser operates in the\nmicrowave band, where its low noise makes it excellent for weak-signal detection.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f4c367#1",
+      "format": "flip",
+      "prompt": "What had been blocking masers from being miniaturized?",
+      "back_html": "\u003cp\u003eTheir reliance on \u003cstrong\u003ebulky metallic resonators\u003c/strong\u003e, which also made it hard to push them down to\nlower frequencies. This work replaces that with an on-chip, cavity-free architecture.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f4c367#2",
+      "format": "quiz",
+      "prompt": "What makes this device unusual as an instrument?",
+      "choices": [
+        {
+          "text": "It works simultaneously as a local oscillator and as a magnetic-field sensor",
+          "correct": true
+        },
+        {
+          "text": "It only functions below one kelvin",
+          "correct": false
+        },
+        {
+          "text": "It requires no pump source of any kind",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe optically pumped pentacene maser emits at 106.62 MHz while also detecting microwave magnetic\nfields at roughly 10 fT/√Hz — oscillator and sensor in one chip.\u003c/p\u003e"
+    }
+  ]
+}

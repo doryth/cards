@@ -1,0 +1,131 @@
+{
+  "id": "card_94ba2e",
+  "slug": "grazing-rules-and-public-comment",
+  "type": "news",
+  "title": "Rulemaking Is Supposed to Include the Public — What Happens When It Doesn't",
+  "hook": "Before a federal agency can change a regulation, it's normally required to ask the public first. A 2026 overhaul of grazing rules on federal land tested how easily that step can be trimmed.",
+  "key_points": [
+    "U.S. federal agencies generally must use 'notice-and-comment' rulemaking: publish a proposed rule, let the public respond, then consider those comments before finalizing it.",
+    "Notice-and-comment is meant to let affected communities, experts, and advocacy groups shape a regulation before it takes effect, not just challenge it afterward.",
+    "Agencies have tools to shorten or narrow that input — for example, shorter comment windows, narrower proposals, or procedural categories that skip full notice-and-comment.",
+    "In 2026, federal regulators pursued the first major overhaul of public-lands grazing rules in a generation while curbing the scope of public involvement, per ProPublica reporting.",
+    "The more public input is curtailed, the more a rule reflects the drafting agency's judgment alone rather than a wider range of affected voices."
+  ],
+  "content_html": "\u003cp\u003eA federal regulation doesn't usually spring fully formed from an agency. The normal path is \u0026quot;notice-and-comment\u0026quot;: propose a rule, publish it, let the public weigh in, and consider those comments before finishing it. It's one of the main ways people outside government get a say in how a law is actually implemented.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat input isn't guaranteed to be substantial. Agencies have real discretion over how much room to leave for it — shorter comment windows, narrower proposed changes, or procedural shortcuts that reduce the practical opportunity to weigh in. ProPublica's Mark Olalde, Jimmy Tobias, and Roberto \u0026quot;Bear\u0026quot; Guerra report that federal regulators pursued the first major overhaul of public-lands grazing regulations in a generation while curbing the scope of public involvement in the process. Whatever one thinks of the specific rule, the pattern is a durable one: the less room a rulemaking leaves for outside comment, the more the final regulation reflects the drafting agency's judgment alone. (This card describes U.S. federal rulemaking procedure specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Mark Olalde",
+      "Jimmy Tobias",
+      "Roberto \"Bear\" Guerra"
+    ],
+    "url": "https://propublica.org/article/public-land-livestock-grazing-ranching-access",
+    "published_at": "2026-07-07",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "environment-and-politics",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_916855",
+      "slug": "redefining-habitat-endangered-species-act",
+      "type": "news",
+      "title": "How Redefining One Word Can Rewrite a Law",
+      "hook": "Congress didn't touch the Endangered Species Act. An agency just redefined what \"habitat\" means — and, critics say, quietly stripped out one of its main protections.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "card_bb70fb",
+      "slug": "environmental-governance",
+      "type": "concept",
+      "title": "Environmental Governance",
+      "hook": "How do you regulate something that ignores borders and belongs to no one? Environmental governance is the toolkit societies use to manage nature collectively.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_bb70fb",
+      "slug": "environmental-governance",
+      "type": "concept",
+      "title": "Environmental Governance",
+      "hook": "How do you regulate something that ignores borders and belongs to no one? Environmental governance is the toolkit societies use to manage nature collectively.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_94ba2e#0",
+      "format": "flip",
+      "prompt": "What is 'notice-and-comment' rulemaking?",
+      "back_html": "\u003cp\u003eThe normal process for U.S. federal agencies: publish a proposed rule,\nlet the public submit comments, and consider those comments before the\nrule is finalized.\u003c/p\u003e"
+    },
+    {
+      "id": "card_94ba2e#1",
+      "format": "quiz",
+      "prompt": "Why does notice-and-comment rulemaking matter for accountability?",
+      "choices": [
+        {
+          "text": "It lets affected communities and experts shape a rule before it takes effect, not just contest it afterward",
+          "correct": true
+        },
+        {
+          "text": "It requires a supermajority vote of Congress before any regulation is issued",
+          "correct": false
+        },
+        {
+          "text": "It gives courts the power to write the rule themselves",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRulemaking sits with the executive branch, but notice-and-comment\nbuilds in a chance for outside input before a rule is locked in.\u003c/p\u003e"
+    },
+    {
+      "id": "card_94ba2e#2",
+      "format": "quiz",
+      "prompt": "What did the 2026 overhaul of federal grazing rules illustrate, per ProPublica's reporting?",
+      "choices": [
+        {
+          "text": "Agencies can narrow the scope of public involvement even while rewriting a major, long-standing regulation",
+          "correct": true
+        },
+        {
+          "text": "Federal rulemaking always requires a full public referendum",
+          "correct": false
+        },
+        {
+          "text": "Public-lands grazing rules cannot legally be changed without a new law from Congress",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe reporting describes regulators curbing public involvement in the\nfirst major grazing-rules overhaul in a generation — a rulemaking\nchoice, not a change requiring new legislation.\u003c/p\u003e"
+    }
+  ]
+}

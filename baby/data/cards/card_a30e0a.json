@@ -1,0 +1,72 @@
+{
+  "id": "card_a30e0a",
+  "slug": "prenatal-care-visits",
+  "type": "concept",
+  "title": "Why Prenatal Visits Matter",
+  "hook": "Regular checkups during pregnancy catch problems early — for many a typical schedule is monthly, then every two weeks, then weekly as the due date nears.",
+  "key_points": [
+    "Prenatal care tracks the baby's growth and the parent's blood pressure, weight, and wellbeing over time.",
+    "Early visits screen for conditions like gestational diabetes and high blood pressure that are easier to manage when caught early.",
+    "Guidelines suggest starting care as soon as you know you're pregnant, ideally in the first trimester.",
+    "Visit frequency typically increases as pregnancy progresses; your clinician sets the exact schedule."
+  ],
+  "content_html": "\u003cp\u003ePrenatal care (also called antenatal care) is the series of checkups you have throughout pregnancy. They exist to catch issues before they become emergencies: a clinician tracks the baby's growth and monitors the pregnant parent's blood pressure, weight, and general health at each visit.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA common pattern is monthly visits early on, shifting to every two weeks and then weekly as the due date approaches — though the exact schedule depends on your health and your provider. Early visits also include screening for conditions such as gestational diabetes and high blood pressure, which are far easier to manage when found early. Guidelines from bodies like the NHS recommend booking care as soon as you know you're pregnant. This is general information, not a substitute for advice from your own midwife or doctor.\u003c/p\u003e",
+  "source": {
+    "name": "NHS",
+    "url": "https://www.nhs.uk/pregnancy/your-pregnancy-care/your-antenatal-appointments/",
+    "license": "© Crown copyright (Open Government Licence)"
+  },
+  "topic_ids": [
+    "pregnancy",
+    "health-safety"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2e5fb5",
+      "slug": "folic-acid-before-and-during",
+      "type": "concept",
+      "title": "Folic Acid Before and During Pregnancy",
+      "hook": "Taking folic acid before conception and in early pregnancy is one of the best-evidenced ways to lower the risk of serious birth defects of the brain and spine.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a30e0a#0",
+      "format": "quiz",
+      "prompt": "When do guidelines generally suggest starting prenatal (antenatal) care?",
+      "choices": [
+        {
+          "text": "As soon as you know you're pregnant, ideally in the first trimester",
+          "correct": true
+        },
+        {
+          "text": "Only once you can feel the baby move",
+          "correct": false
+        },
+        {
+          "text": "In the final month before the due date",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEarly care lets clinicians screen for and manage issues like high blood\npressure and gestational diabetes when they're easiest to handle.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a30e0a#1",
+      "format": "flip",
+      "prompt": "What does a routine prenatal visit typically check?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003ebaby's growth\u003c/strong\u003e plus the parent's \u003cstrong\u003eblood pressure, weight, and\noverall wellbeing\u003c/strong\u003e — tracked over time to spot problems early.\u003c/p\u003e"
+    }
+  ]
+}

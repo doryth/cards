@@ -1,0 +1,119 @@
+{
+  "id": "card_c0a536",
+  "slug": "convergent-evolution",
+  "type": "concept",
+  "title": "Convergent Evolution",
+  "hook": "Birds, bats, and insects all fly — yet none inherited wings from a shared flying ancestor. Similar problems can push unrelated species toward the same solution.",
+  "key_points": [
+    "Convergent evolution is when unrelated lineages independently evolve similar traits.",
+    "It happens because similar environments and challenges favor similar solutions.",
+    "Eyes, wings, and streamlined bodies have each evolved many separate times.",
+    "Such look-alike traits are called analogous structures, not inherited homologies."
+  ],
+  "content_html": "\u003cp\u003eEvolution doesn't have a single playbook, but it does keep arriving at the same good ideas. Convergent evolution is when distantly related organisms independently evolve similar features because they face similar problems. The classic example is the eye, which has evolved separately many times — in vertebrates, in octopuses, in insects — each a different engineering route to the same end of capturing light. Wings tell the same story: birds, bats, and insects all fly, but their wings are built from completely different starting parts.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe key is that these resemblances are not inherited from a shared flying or seeing ancestor. Biologists call such independently evolved look-alikes analogous structures, distinguishing them from homologous structures, which trace back to common descent. The reason convergence happens at all is that physics and ecology impose the same constraints on everyone: a body that moves fast through water — whether a shark, a dolphin, or an extinct ichthyosaur — tends to end up streamlined and torpedo-shaped, because that's what works. As Encyclopaedia Britannica explains, convergent evolution is powerful evidence that natural selection responds to environment, repeatedly sculpting unrelated creatures toward the same forms.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/convergent-evolution",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "evolution"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_89dd5d",
+      "slug": "natural-selection",
+      "type": "concept",
+      "title": "Natural Selection",
+      "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_043084",
+      "slug": "common-descent",
+      "type": "concept",
+      "title": "The Tree of Life",
+      "hook": "Humans, mushrooms, and oak trees share an ancestor if you go back far enough — all life on Earth branches from a single common root.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f9a54a",
+      "slug": "evidence-for-evolution",
+      "type": "concept",
+      "title": "The Evidence for Evolution",
+      "hook": "Fossils, DNA, shared body plans, and change we can watch happen — evolution isn't a hunch, it's a conclusion forced by many independent lines of evidence.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_229d3b",
+      "slug": "spider-disguised-as-fungus",
+      "type": "news",
+      "title": "The Spider That Pretends to Be a Fungus",
+      "hook": "A newly found Amazonian spider disguises itself as a parasitic fungus — copying not just the look but the behavior of something most predators won't touch.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-17"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c0a536#0",
+      "format": "flip",
+      "prompt": "What is convergent evolution?",
+      "back_html": "\u003cp\u003eWhen \u003cstrong\u003eunrelated lineages independently evolve similar traits\u003c/strong\u003e because they face\nsimilar environmental pressures — not because they inherited the trait from a common\nancestor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c0a536#1",
+      "format": "quiz",
+      "prompt": "Why do unrelated species sometimes end up with similar features, like wings or eyes?",
+      "choices": [
+        {
+          "text": "Similar environments favor similar solutions to the same problems",
+          "correct": true
+        },
+        {
+          "text": "They secretly share a recent common ancestor with that feature",
+          "correct": false
+        },
+        {
+          "text": "They deliberately copy traits they see in other species",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen different lineages face the same challenge — flying, seeing, moving through\nwater — natural selection can push each toward a comparable design independently.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c0a536#2",
+      "format": "quiz",
+      "prompt": "What do we call similar structures that evolved independently rather than from a shared ancestor?",
+      "choices": [
+        {
+          "text": "Analogous structures",
+          "correct": true
+        },
+        {
+          "text": "Homologous structures",
+          "correct": false
+        },
+        {
+          "text": "Vestigial structures",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAnalogous structures (like a bird's wing and an insect's wing) look or work alike but\narose separately. Homologous structures, by contrast, are inherited from a common ancestor.\u003c/p\u003e"
+    }
+  ]
+}

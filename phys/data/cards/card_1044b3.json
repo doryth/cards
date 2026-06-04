@@ -1,0 +1,89 @@
+{
+  "id": "card_1044b3",
+  "slug": "fractional-fermi-sea",
+  "type": "news",
+  "title": "Physicists Force Atoms Into a Brand-New Quantum State",
+  "hook": "By yanking a line of ultracold atoms between opposite kinds of interaction, physicists drove them into a state matter isn't supposed to reach — breaking the standard rulebook for 1D quantum systems.",
+  "key_points": [
+    "University of Innsbruck physicists cooled cesium atoms to near absolute zero and lined them up in one dimension.",
+    "Repeatedly cycling the atoms between strongly repulsive and strongly attractive interactions pushed them out of equilibrium.",
+    "The result, a 'fractional Fermi sea,' has a hidden order that only shows up in how the particles correlate.",
+    "Its behavior contradicts Tomonaga-Luttinger liquid theory, the textbook model for 1D quantum systems.",
+    "It shows quantum simulators can conjure states of matter that don't exist in ordinary equilibrium physics."
+  ],
+  "content_html": "\u003cp\u003eCool a gas until it nearly stops moving and you'd expect it to settle into one of physics' well-cataloged quantum states. Instead, a team at the University of Innsbruck, led by Hans-Christoph Nägerl with theorist Alvise Bastianello, pushed a line of ultracold cesium atoms somewhere textbooks don't cover. They confined the atoms to a single-file, one-dimensional line and then repeatedly flipped the interactions between them from strongly repulsive to strongly attractive, refusing to let the system settle down.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat emerged, dubbed a \u0026quot;fractional Fermi sea,\u0026quot; is a state with what Nägerl calls \u0026quot;a hidden order that becomes visible in its correlations\u0026quot; — patterns of decay and correlation between particles that don't match the predictions of Tomonaga-Luttinger liquid theory, the standard framework physicists use to describe one-dimensional quantum systems. As collaborator Yi Zeng put it, the result \u0026quot;gives us a controlled way to explore quantum matter beyond the usual equilibrium paradigms.\u0026quot; The experiment is a reminder that ultracold-atom setups aren't just re-creating known physics in miniature — they can be used to manufacture states of matter that nature, left to reach equilibrium on its own, would never produce.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260619101330.htm",
+    "published_at": "2026-06-29",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_d18019",
+      "slug": "bose-einstein-condensate",
+      "type": "news",
+      "title": "The Fifth State of Matter, Made in Space",
+      "hook": "Chill a gas to a hair above absolute zero and its atoms stop acting like a crowd and merge into one quantum entity. In orbit, weightlessness lets that strange state last even longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1044b3#0",
+      "format": "flip",
+      "prompt": "How did the Innsbruck team push their atoms into this new quantum state?",
+      "back_html": "\u003cp\u003eThey cooled cesium atoms to near absolute zero, lined them up in one dimension, and\nrepeatedly cycled the interactions between them from strongly repulsive to strongly\nattractive — driving the system out of equilibrium.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1044b3#1",
+      "format": "quiz",
+      "prompt": "What makes a 'fractional Fermi sea' surprising to physicists?",
+      "choices": [
+        {
+          "text": "Its correlations contradict Tomonaga-Luttinger liquid theory, the standard 1D model",
+          "correct": true
+        },
+        {
+          "text": "It only forms at extremely high temperatures",
+          "correct": false
+        },
+        {
+          "text": "It behaves exactly like an ordinary equilibrium gas",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe state shows a hidden order in its particle correlations that the usual theory for\none-dimensional quantum systems doesn't predict.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1044b3#2",
+      "format": "flip",
+      "prompt": "Why does this experiment matter beyond the one result?",
+      "back_html": "\u003cp\u003eIt demonstrates that quantum simulators can create and probe genuinely new states of\nmatter that don't arise in ordinary equilibrium physics, opening a route to explore\nquantum behavior beyond established theory.\u003c/p\u003e"
+    }
+  ]
+}

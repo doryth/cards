@@ -1,0 +1,102 @@
+{
+  "id": "card_f132f2",
+  "slug": "ear-infections",
+  "type": "concept",
+  "title": "Ear Infections in Young Children",
+  "hook": "Ear infections are one of the most common reasons little kids see the doctor — and many clear up on their own, which is why doctors often watch and wait before reaching for antibiotics.",
+  "key_points": [
+    "Common in young kids: their eustachian tubes are short and horizontal, so fluid drains poorly.",
+    "Watch for ear pain or tugging, fever, fussiness, trouble sleeping, or fluid draining from the ear.",
+    "Around 80% resolve on their own, so doctors often 'watch and wait' for 2–3 days.",
+    "Antibiotics are used for some — younger babies, severe symptoms, or kids who aren't improving."
+  ],
+  "content_html": "\u003cp\u003eEar infections are among the most common illnesses in early childhood, and there's an anatomical reason: a young child's eustachian tubes — the small passages that drain the middle ear — are shorter, narrower, and more horizontal than an adult's, so fluid backs up and gets infected more easily. The American Academy of Pediatrics lists typical signs as ear pain, fussiness, fever, trouble sleeping, and sometimes fluid draining from the ear. Babies may tug at an ear, though tugging alone isn't proof.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHere's the reassuring part: roughly 80% of ear infections clear up on their own. That's why the AAP supports a \u0026quot;watch and wait\u0026quot; approach for many children — holding off on antibiotics for about 48 to 72 hours, which avoids unnecessary medication and the resistance it can foster. Pain relief like acetaminophen or ibuprofen helps in the meantime. Antibiotics are reserved for some cases: very young babies, severe symptoms, or a child who isn't improving. Call your doctor to have an ear checked, and seek prompt care for high fever or a child who seems very unwell. This is general educational information — your pediatrician will decide the right treatment.\u003c/p\u003e",
+  "source": {
+    "name": "HealthyChildren.org (AAP)",
+    "url": "https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/Pages/Ear-Infection-Information.aspx",
+    "license": "© American Academy of Pediatrics"
+  },
+  "topic_ids": [
+    "illness-care",
+    "health-safety"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2f5c1c",
+      "slug": "common-cold-in-children",
+      "type": "concept",
+      "title": "The Common Cold in Children",
+      "hook": "Young kids catch a lot of colds — that's normal. Colds are viral, so antibiotics won't help; comfort care does, and OTC cough-and-cold medicines aren't safe for little ones.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6a8236",
+      "slug": "fever-basics",
+      "type": "concept",
+      "title": "Fever Basics for Parents",
+      "hook": "A fever is a sign the body is fighting infection, not a disease itself — how your child looks and acts often matters more than the exact number on the thermometer.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f132f2#0",
+      "format": "quiz",
+      "prompt": "Why are ear infections so common in young children?",
+      "choices": [
+        {
+          "text": "Their eustachian tubes are short and horizontal, so fluid drains poorly",
+          "correct": true
+        },
+        {
+          "text": "Their ears are physically larger than adults' ears",
+          "correct": false
+        },
+        {
+          "text": "They produce too little earwax",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA child's eustachian tubes are shorter, narrower, and more horizontal than an\nadult's, which makes it harder for fluid to drain — setting the stage for infection.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f132f2#1",
+      "format": "flip",
+      "prompt": "Why might a doctor 'watch and wait' instead of prescribing antibiotics right away?",
+      "back_html": "\u003cp\u003eBecause around \u003cstrong\u003e80% of ear infections clear up on their own\u003c/strong\u003e. Waiting\n48–72 hours avoids unnecessary antibiotics and the resistance they can drive.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f132f2#2",
+      "format": "quiz",
+      "prompt": "Which is a typical sign of an ear infection in a young child?",
+      "choices": [
+        {
+          "text": "Ear pain or tugging, fever, fussiness, and trouble sleeping",
+          "correct": true
+        },
+        {
+          "text": "A rash that doesn't fade when pressed",
+          "correct": false
+        },
+        {
+          "text": "Slower growth over many months",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEar pain (or tugging at the ear in babies), fever, fussiness, and trouble\nsleeping are common signs — though ear-tugging alone isn't proof of infection.\u003c/p\u003e"
+    }
+  ]
+}

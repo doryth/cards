@@ -1,0 +1,101 @@
+{
+  "id": "card_a0dcb3",
+  "slug": "ai-at-work",
+  "type": "concept",
+  "title": "AI at Work",
+  "hook": "The biggest everyday payoff from AI is at work: drafting the email, summarizing the meeting, untangling the spreadsheet formula. The trick is using it without leaking secrets or trust.",
+  "key_points": [
+    "Time-savers: drafting, summarizing notes/meetings, reformatting, explaining tools.",
+    "Don't paste confidential or customer data into public AI tools.",
+    "Check your employer's policy — many have approved (and banned) tools.",
+    "You still own the work: review accuracy and judgment before it goes out."
+  ],
+  "content_html": "\u003cp\u003eFor most working people, the job is where AI quietly pays for itself. Not in dramatic ways — in the accumulation of small frictions removed. The draft of the email you were dreading. The fifteen-page report boiled down to its five key points. The messy meeting notes turned into clear action items. The spreadsheet formula you couldn't remember, explained and written for you. The first awkward pass at a presentation you can then refine. None of it replaces your expertise; it clears the runway so you spend your time on the parts that need you.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo cautions turn AI from a workplace asset into a workplace liability if ignored. First, \u003cstrong\u003edata\u003c/strong\u003e: public chatbots may store and learn from what you paste, so confidential company information, customer details, unreleased plans, or anything under an NDA should never go into a general AI tool. Many organizations now offer enterprise versions with privacy protections precisely so employees can use AI safely — which leads to the second point: \u003cstrong\u003eknow your employer's policy\u003c/strong\u003e. Rules vary widely, from \u0026quot;use these approved tools\u0026quot; to outright bans, and quietly breaking them can be a serious problem. Finally, the output is still yours to stand behind. AI can be confidently wrong and writes in a generic voice, so review for accuracy, edit for tone, and apply the professional judgment that's the actual reason you're in the room. Used within those lines, AI is less a threat to your job than the most useful colleague you've ever had.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-at-work"
+  ],
+  "tags": [
+    "generative",
+    "tutorial"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_84ed63",
+      "slug": "ai-for-writing",
+      "type": "concept",
+      "title": "AI for Writing",
+      "hook": "Writing is where AI earns its keep for most people: not replacing your voice, but beating the blank page, tightening drafts, and translating 'ugh' into a sendable email.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af049a",
+      "slug": "using-ai-responsibly",
+      "type": "concept",
+      "title": "Using AI Responsibly",
+      "hook": "The point of AI literacy isn't to use AI for everything — it's to use it well: check its work, be honest that you used it, and know the moments to put it down.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_84ed63",
+      "slug": "ai-for-writing",
+      "type": "concept",
+      "title": "AI for Writing",
+      "hook": "Writing is where AI earns its keep for most people: not replacing your voice, but beating the blank page, tightening drafts, and translating 'ugh' into a sendable email.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a0dcb3#0",
+      "format": "quiz",
+      "prompt": "What should you NOT paste into a public AI tool at work?",
+      "choices": [
+        {
+          "text": "Confidential company or customer data",
+          "correct": true
+        },
+        {
+          "text": "A request to reword a generic email",
+          "correct": false
+        },
+        {
+          "text": "A question about a public news topic",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePublic AI tools may store and train on inputs. Confidential or customer data\ncan leak or breach policy — use only approved tools for anything sensitive.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a0dcb3#1",
+      "format": "flip",
+      "prompt": "Before leaning on AI at work, what's the first thing to check?",
+      "back_html": "\u003cp\u003eYour employer's AI policy — many specify which tools are approved, which are\nbanned, and what data is off-limits.\u003c/p\u003e"
+    }
+  ]
+}

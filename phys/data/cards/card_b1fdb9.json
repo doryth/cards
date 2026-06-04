@@ -1,0 +1,103 @@
+{
+  "id": "card_b1fdb9",
+  "slug": "quantum-proofs-more-powerful",
+  "type": "news",
+  "title": "Quantum Proofs Really Are More Powerful Than Classical Ones",
+  "hook": "For 20+ years it was open whether a 'quantum-shaped' proof gives a quantum computer more power than checking an ordinary one. Researchers just found strong evidence that it does.",
+  "key_points": [
+    "A 'quantum proof' is a quantum state offered as a certificate — one too complex to write down as classical data.",
+    "Researchers proved an oracle separation between QMA (quantum proofs) and QCMA (classical proofs a quantum computer verifies), evidence they're not equally powerful.",
+    "The result rests on the 'spectral forrelation problem,' akin to telling whether two shadows came from the same object lit differently.",
+    "It won a best-paper award at the 2026 Symposium on Theory of Computing, addressing a question open for two decades."
+  ],
+  "content_html": "\u003cp\u003eSince the early 2000s, quantum complexity theorists have wondered about a subtle question: if a quantum computer is checking a proof, does it actually help for that proof itself to be a quantum object, rather than an ordinary string of classical bits? A \u0026quot;quantum proof\u0026quot; here means a quantum state offered as a certificate of correctness — one too intricate to write down classically, but one a quantum computer can check directly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eFour researchers — Mark Zhandry, John Bostanci, Jonas Haferkamp, and Chinmay Nirkhe — answered a version of that question, proving an oracle separation between QMA (the class of problems with quantum proofs) and QCMA (problems with classical proofs a quantum computer can verify). An oracle separation is a rigorous, specific form of evidence in complexity theory: it shows that in at least one well-defined setting, the two classes genuinely differ, offering strong reason to think quantum proofs are fundamentally more powerful. Their approach centers on the \u0026quot;spectral forrelation problem,\u0026quot; which Quanta Magazine's Ben Brubaker likens to determining whether two shadows came from the same object lit two different ways — something a quantum proof can certify easily, but a classical one struggles to. The work won a best-paper award at the 2026 Symposium on Theory of Computing (STOC), closing out a question that had sat open for more than two decades and adding to the case that quantum mechanics resists being fully captured in classical terms.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Ben Brubaker"
+    ],
+    "url": "https://quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706",
+    "published_at": "2026-07-06",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_b1fdb9#0",
+      "format": "flip",
+      "prompt": "What is a 'quantum proof' in this context?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003equantum state offered as a certificate\u003c/strong\u003e of a solution's correctness — one too\ncomplex to be written down as ordinary classical data.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b1fdb9#1",
+      "format": "quiz",
+      "prompt": "What did the researchers actually establish?",
+      "choices": [
+        {
+          "text": "An oracle separation showing quantum proofs (QMA) and classical proofs a quantum computer checks (QCMA) are likely not equally powerful",
+          "correct": true
+        },
+        {
+          "text": "An unconditional proof that quantum computers can solve any problem instantly",
+          "correct": false
+        },
+        {
+          "text": "That classical computers can simulate quantum proofs perfectly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt's an oracle separation — a specific, rigorous form of evidence in complexity theory —\nnot a sweeping claim about all quantum computation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b1fdb9#2",
+      "format": "flip",
+      "prompt": "What problem did the proof hinge on?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003espectral forrelation problem\u003c/strong\u003e — roughly, telling whether two measurement outcomes\nof a quantum state came from the same underlying object, like comparing two shadows.\u003c/p\u003e"
+    }
+  ]
+}

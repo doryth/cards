@@ -1,0 +1,88 @@
+{
+  "id": "card_0a9075",
+  "slug": "tidally-locked-planet-heat-loop",
+  "type": "news",
+  "title": "A Tidally Locked Planet's Hidden Heat-Recycling Loop",
+  "hook": "One side permanently roasting, the other frozen in endless dark — a lab model suggests this exoplanet's interior still evens things out with a steady loop of molten rock.",
+  "key_points": [
+    "LHS 3844b, an Earth-sized planet 48.5 light-years away, is tidally locked: one side in constant blistering daylight, the other in permanent darkness.",
+    "Researchers modeled a geological heat-circulation loop in the planet's mantle: hot rock rises on the day side, flows across, cools on the night side, then sinks and returns underneath.",
+    "A tank of viscous glycerol with thermochromic liquid crystals and four thermostats reproduced this convection pattern in the lab.",
+    "The stable circulation could sustain localized geothermal environments in mid-latitude regions, suggesting such extreme worlds might be more hospitable than assumed."
+  ],
+  "content_html": "\u003cp\u003eLHS 3844b is an Earth-sized planet 48.5 light-years away with about as extreme a climate as a rocky world can have: tidally locked to its star, one hemisphere bakes in permanent daylight at 1,000-2,000 Kelvin while the other sits in perpetual darkness near absolute zero. A planet split that starkly in half seems like the last place you'd expect any kind of stable, moderating process.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers at the University of Pennsylvania's Penn GEFLOW Lab, led by Hugo Ulloa with postdoctoral researcher Daisuke Noto, working alongside Japan's JAMSTEC and Hokkaido University, modeled a geological process that could change that picture: a continuous heat-circulation loop inside the planet's mantle. Hot material rises beneath the scorching day side, flows across the upper mantle toward the night side, cools and sinks there, then returns through the lower mantle back to the day side — a self-sustaining cycle. To test the idea, the team built a physical analog: a tank of viscous glycerol and thermochromic liquid crystals, heated and cooled by four thermostats to reproduce the planet's day-night temperature gradient, which reproduced the same convection pattern. If real, this steady internal circulation could maintain localized geothermal environments in the planet's mid-latitudes — suggesting tidally locked worlds like LHS 3844b might be more hospitable than their brutal surface conditions suggest. Published in \u003cem\u003eNature Communications\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260709160657.htm",
+    "published_at": "2026-07-09",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-09",
+  "related": [
+    {
+      "id": "card_9eaa6c",
+      "slug": "wasp-121b-two-twilights",
+      "type": "news",
+      "title": "An Alien World With Two Different Twilights",
+      "hook": "On a scorching giant planet that never turns away from its star, the James Webb telescope found that dawn and dusk look nothing alike — winds smear the heat from one side to the other.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-11"
+    },
+    {
+      "id": "card_7ebb9d",
+      "slug": "super-puff-planets",
+      "type": "news",
+      "title": "Two Planets Lighter Than Cotton Candy",
+      "hook": "TOI-791 b and c are roughly Jupiter-sized but so bloated and gassy they'd float on water — and their unusually neat orbital rhythm is a rare clue to how puffed-up planets like this ever form.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0a9075#0",
+      "format": "flip",
+      "prompt": "Why does LHS 3844b have one side in permanent daylight and one in permanent darkness?",
+      "back_html": "\u003cp\u003eIt's \u003cstrong\u003etidally locked\u003c/strong\u003e — the same hemisphere always faces its star, so one side bakes\nin constant daylight while the other stays in perpetual night.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0a9075#1",
+      "format": "quiz",
+      "prompt": "What heat-circulation pattern did researchers model inside the planet?",
+      "choices": [
+        {
+          "text": "Hot mantle material rises on the day side, flows across, cools on the night side, then sinks and returns underneath in one continuous loop",
+          "correct": true
+        },
+        {
+          "text": "Heat stays trapped permanently on the day side with no movement at all",
+          "correct": false
+        },
+        {
+          "text": "The planet's core randomly redistributes heat with no consistent pattern",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe proposed loop is a geological convection cycle: rising hot rock on the day side,\nlateral flow, cooling and sinking on the night side, and return flow through the deep\nmantle.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0a9075#2",
+      "format": "flip",
+      "prompt": "How did researchers test this heat-circulation idea in the lab?",
+      "back_html": "\u003cp\u003eWith a tank of \u003cstrong\u003eviscous glycerol and thermochromic liquid crystals\u003c/strong\u003e, heated and cooled\nby four thermostats to mimic the exoplanet's extreme day-night temperature gradient.\u003c/p\u003e"
+    }
+  ]
+}

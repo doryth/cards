@@ -1,0 +1,95 @@
+{
+  "id": "card_869b2e",
+  "slug": "quantum-computers-colder-not-always-better",
+  "type": "paper",
+  "title": "For Quantum Computers, Colder Isn't Always Better",
+  "hook": "The instinct is to chase ever-lower temperatures for quantum chips. A new study of real silicon qubits finds a 'sweet spot' instead, since cooling itself has a cost.",
+  "key_points": [
+    "Silicon spin qubits are attractive for large-scale quantum computers because they're compatible with existing semiconductor manufacturing.",
+    "Scaling up to many qubits generates heat that outpaces the cooling power available at the millikelvin temperatures qubits normally need.",
+    "Raising the operating temperature eases the cooling burden but degrades gate fidelity, which increases the overhead needed for quantum error correction.",
+    "Benchmarking real industrial and academic silicon chips, researchers found a finite optimal operating temperature exists, governed by a fidelity crossover near 1 K in current devices."
+  ],
+  "content_html": "\u003cp\u003eThe conventional wisdom in quantum computing is simple: colder is better, since heat and thermal noise are the enemy of fragile quantum states. But a new study on silicon spin qubits — a leading candidate for large-scale quantum computers because they piggyback on existing chip manufacturing — complicates that picture.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs quantum processors scale to many more qubits, they generate more heat than the cooling systems available at typical millikelvin operating temperatures can remove. Raising the temperature eases that cooling burden, but it comes at a cost: researchers Paul Steinacker, Amanda E. Seedhouse, and colleagues benchmarked real two-qubit silicon chips from both industrial and academic fabs across a range of temperatures, and found that higher temperatures substantially shorten coherence times and increase gate and measurement errors — errors that then require more overhead to correct. Combining these fidelity measurements with a model of cryogenic cooling costs, the team showed a finite optimal operating temperature exists, set by a fidelity crossover near 1 K in current devices, above which errors climb rapidly. The takeaway for anyone trying to build a commercially viable, large-scale quantum computer: there's a genuine engineering trade-off to balance, not a simple race to absolute zero.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Paul Steinacker",
+      "Amanda E. Seedhouse",
+      "Andrew S. Dzurak",
+      "Jared H. Cole"
+    ],
+    "url": "https://arxiv.org/abs/2607.11846",
+    "published_at": "2026-07-13",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "efficiency",
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-13",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b123c0",
+      "slug": "semiconductors-and-transistors",
+      "type": "concept",
+      "title": "Semiconductors and the Transistor",
+      "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_869b2e#0",
+      "format": "flip",
+      "prompt": "Why can't large-scale silicon quantum computers just run as cold as possible?",
+      "back_html": "\u003cp\u003eScaling up to many qubits generates more heat than the available cooling power\nat millikelvin temperatures can remove — cooling itself becomes a bottleneck.\u003c/p\u003e"
+    },
+    {
+      "id": "card_869b2e#1",
+      "format": "quiz",
+      "prompt": "What happens to silicon qubits as their operating temperature rises?",
+      "choices": [
+        {
+          "text": "Coherence times shorten and gate/measurement errors increase, raising error-correction overhead",
+          "correct": true
+        },
+        {
+          "text": "Nothing changes until temperatures exceed room temperature",
+          "correct": false
+        },
+        {
+          "text": "Qubits become perfectly stable regardless of temperature",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eElevated temperatures substantially shorten coherence times and increase gate\nand measurement infidelities, which raises the overhead needed for\nerror correction.\u003c/p\u003e"
+    },
+    {
+      "id": "card_869b2e#2",
+      "format": "flip",
+      "prompt": "What did the researchers conclude about the ideal operating temperature?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003efinite optimal temperature\u003c/strong\u003e exists that minimizes total power use, set by a\nfidelity crossover near \u003cstrong\u003e1 K\u003c/strong\u003e in current silicon devices — colder isn't\nautomatically better.\u003c/p\u003e"
+    }
+  ]
+}

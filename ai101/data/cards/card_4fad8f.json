@@ -1,0 +1,130 @@
+{
+  "id": "card_4fad8f",
+  "slug": "chatbots-crisis-safety-data",
+  "type": "news",
+  "title": "Chatbots Have Failed People in Crisis — and Nobody Can Audit Why",
+  "hook": "Clinicians say AI companies are sitting on the data that would show how their chatbots handle users in crisis. Without it, nobody outside the company can tell whether the safeguards work.",
+  "key_points": [
+    "Ars Technica reports clinicians and researchers want AI firms to open up their safety data.",
+    "There are documented cases of chatbots responding badly to people in crisis.",
+    "Safety claims are currently unverifiable from outside the companies that make the models.",
+    "Crisis handling is hard: a model must recognize risk, then refuse to improvise.",
+    "Practical rule for you: a chatbot is not a crisis line — use a human hotline."
+  ],
+  "content_html": "\u003cp\u003eThere are now documented cases of AI chatbots responding badly to people in acute distress, and Ars Technica reports that clinicians and researchers are pressing AI companies to release the safety data that would show how often it happens and whether new safeguards actually help. Right now, the companies are the only ones who can see it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo things are worth separating here. The first is a measurement problem: when a company says \u0026quot;we improved crisis handling,\u0026quot; there is no independent way to check, because the transcripts, the incident counts, and the internal evaluations stay in-house. Researchers who study self-harm and suicide prevention are used to auditable data, and they don't have it for the tool millions of people now talk to at 2 a.m. The second is a design problem. A language model's whole instinct is to keep producing a fluent, cooperative reply — and in a crisis the correct behavior is close to the opposite: recognize the risk, stop improvising, and route the person to a human. Bolting that reflex onto a system built to always have something to say is genuinely difficult, which is why the practical advice hasn't changed. A chatbot can be a place to put words at an hour when nobody else is awake. It is not a crisis line, and if things are serious, the number to call is a human one.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Cyrus Farivar"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed",
+    "published_at": "2026-08-07",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-mental-health",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-07",
+  "related": [
+    {
+      "id": "card_e99d41",
+      "slug": "ai-and-mental-health",
+      "type": "concept",
+      "title": "AI \u0026 Mental Health",
+      "hook": "A chatbot that listens at 2 a.m. without judgment is a real comfort to many. It's also not a therapist, not a crisis line, and not your friend — and confusing the two can be dangerous.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1b27c5",
+      "slug": "ai-companions",
+      "type": "concept",
+      "title": "AI Companions \u0026 Friends",
+      "hook": "Millions now have an AI friend, partner, or confidant that's always available and always on their side. It can ease loneliness — and quietly reshape what we expect from real people.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_e99d41",
+      "slug": "ai-and-mental-health",
+      "type": "concept",
+      "title": "AI \u0026 Mental Health",
+      "hook": "A chatbot that listens at 2 a.m. without judgment is a real comfort to many. It's also not a therapist, not a crisis line, and not your friend — and confusing the two can be dangerous.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_4fad8f#0",
+      "format": "flip",
+      "prompt": "Why do researchers want access to AI companies' safety data?",
+      "back_html": "\u003cp\u003eBecause without it, a company's claim that its chatbot handles crisis conversations\nsafely can't be checked by anyone outside the company.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4fad8f#1",
+      "format": "quiz",
+      "prompt": "What's the safest way to treat a chatbot when someone is in real distress?",
+      "choices": [
+        {
+          "text": "As a stopgap for talking, never as a substitute for a crisis line or clinician",
+          "correct": true
+        },
+        {
+          "text": "As a therapist, since it's available at any hour",
+          "correct": false
+        },
+        {
+          "text": "As a diagnostic tool that can assess how serious the risk is",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eChatbots can be a comfort to talk to, but they aren't accountable, trained, or able\nto escalate. Crisis situations need a human on the other end.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4fad8f#2",
+      "format": "quiz",
+      "prompt": "Why is a crisis conversation especially hard for a language model?",
+      "choices": [
+        {
+          "text": "It must recognize danger and then stop generating plausible-sounding advice",
+          "correct": true
+        },
+        {
+          "text": "Crisis language uses words the model has never seen",
+          "correct": false
+        },
+        {
+          "text": "Models are forbidden by law from discussing emotions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA model's default behavior is to produce a fluent, agreeable continuation — exactly\nthe wrong instinct when the right move is to stop and hand off to a human.\u003c/p\u003e"
+    }
+  ]
+}

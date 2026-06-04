@@ -1,0 +1,118 @@
+{
+  "id": "card_ea06ac",
+  "slug": "xai-sues-grok-csam-user",
+  "type": "news",
+  "title": "xAI Sues Its Own User Over Grok-Made Child Abuse Images",
+  "hook": "Elon Musk's xAI usually gets sued over Grok's failures. This time it's the plaintiff — suing a man it says jailbroke Grok's safeguards to generate child sexual abuse material.",
+  "key_points": [
+    "xAI sued a 67-year-old South Carolina man, alleging he used Grok to generate CSAM.",
+    "The man was separately arrested in March on charges of possessing and distributing CSAM.",
+    "xAI says Grok refused some requests, but he tailored prompts across two accounts to bypass safeguards.",
+    "xAI says it suspended over 52,000 accounts and made 73,000+ NCMEC reports in 2026, leading to 244+ arrests.",
+    "It's one of the first cases of an AI company suing a user rather than the reverse."
+  ],
+  "content_html": "\u003cp\u003eElon Musk's xAI is usually the one being sued over what its Grok chatbot generates. This week, the company flipped the script: it sued a 67-year-old South Carolina man, alleging he used Grok to create child sexual abuse material (CSAM). Ars Technica reports the man was separately arrested in March on charges of possessing and distributing CSAM, and xAI's suit accuses him of deliberately working around Grok's safety filters to make the images.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to the lawsuit, Grok refused some of his requests outright — but he ran two separate accounts and carefully tailored his prompts until he found phrasing the safeguards didn't catch. That's the core, uncomfortable truth about AI guardrails: they filter known bad requests, but a determined user hunting for the gap between what's blocked and what isn't can often find one. xAI says it isn't just filtering after the fact — the company reports it suspended more than 52,000 accounts and filed over 73,000 reports to the National Center for Missing \u0026amp; Exploited Children in 2026, leading to at least 244 arrests. Suing an alleged abuser directly is a newer move: a signal that AI companies are starting to treat \u0026quot;someone jailbroke our safety filters\u0026quot; as grounds for their own legal action, not just an embarrassment to quietly patch.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
+    "published_at": "2026-07-16",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "deepfakes",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_1dd856",
+      "slug": "sf-nudify-apps-app-stores",
+      "type": "news",
+      "title": "San Francisco Tells Apple and Google: Stop Selling 'Nudify' Apps",
+      "hook": "Apps that use AI to digitally strip clothes from a photo have been sitting in the App Store and Google Play, taking a cut of the profits. San Francisco just gave both companies 28 days to pull them.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ea06ac#0",
+      "format": "quiz",
+      "prompt": "What's unusual about xAI's lawsuit here compared to most AI-safety lawsuits?",
+      "choices": [
+        {
+          "text": "The AI company is the one suing — a user, not the company, is the defendant",
+          "correct": true
+        },
+        {
+          "text": "It was filed by the user against xAI",
+          "correct": false
+        },
+        {
+          "text": "It was dismissed before it started",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMost AI lawsuits target the company over what its tool did. Here xAI itself\nsued a user, alleging he deliberately circumvented Grok's safeguards.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ea06ac#1",
+      "format": "flip",
+      "prompt": "How did the accused allegedly get Grok to make prohibited images?",
+      "back_html": "\u003cp\u003exAI says Grok refused some of his requests, but he used two accounts and\ncarefully tailored prompts to work around the chatbot's safety guardrails.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ea06ac#2",
+      "format": "quiz",
+      "prompt": "What does xAI's own enforcement data suggest about the scale of this problem?",
+      "choices": [
+        {
+          "text": "It's suspended 52,000+ accounts and reported 73,000+ cases to NCMEC in 2026 alone",
+          "correct": true
+        },
+        {
+          "text": "This is the first ever report xAI has made",
+          "correct": false
+        },
+        {
+          "text": "Grok has never been misused before",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer xAI's own figures, tens of thousands of accounts were suspended and\nreported in 2026 — this lawsuit is one visible case within a much larger pattern.\u003c/p\u003e"
+    }
+  ]
+}

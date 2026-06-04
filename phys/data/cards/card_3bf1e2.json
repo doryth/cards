@@ -1,0 +1,131 @@
+{
+  "id": "card_3bf1e2",
+  "slug": "what-powers-the-sun",
+  "type": "concept",
+  "title": "What Powers the Sun",
+  "hook": "The Sun isn't burning like a fire — it's fusing hydrogen into helium in its core, and a sliver of mass turning into pure energy is what lights up our sky.",
+  "key_points": [
+    "The Sun's energy comes from nuclear fusion deep in its core, not from burning.",
+    "Crushing pressure and heat fuse hydrogen nuclei into helium.",
+    "A tiny fraction of the mass becomes energy, following E=mc^2.",
+    "It has been fusing for billions of years and has billions left to go."
+  ],
+  "content_html": "\u003cp\u003eIt's tempting to picture the Sun as a giant ball of fire, but it isn't burning in any chemical sense. Its energy comes from nuclear fusion: in the core, where pressure and temperature are staggering, hydrogen nuclei are forced together to make helium. That reaction releases the flood of light and heat we feel as sunshine.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trick is that the helium produced weighs slightly less than the hydrogen that went in, and the missing mass is converted into energy according to E=mc^2. Even a tiny fraction of mass yields an enormous payoff, which is why the Sun can shine so brightly for so long. It has been fusing hydrogen for billions of years and has billions more in the tank. Wikipedia describes the proton-proton chain, the specific sequence of fusion steps that powers our star.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Proton%E2%80%93proton_chain",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d1ba32",
+      "slug": "nuclear-fusion",
+      "type": "concept",
+      "title": "Nuclear Fusion",
+      "hook": "The same reaction that powers every star — squeezing light nuclei together — could one day give Earth nearly limitless clean energy, if we can hold a sun in a box.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_45c4fe",
+      "slug": "e-equals-mc-squared",
+      "type": "concept",
+      "title": "E = mc²: Mass Is Energy",
+      "hook": "The most famous equation in physics says mass and energy are the same thing. Because the speed of light squared is a colossal number, a tiny bit of mass holds a staggering amount of energy.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5086ca",
+      "slug": "solar-cycle-switch-off-prediction",
+      "type": "news",
+      "title": "The Sun's 'Switch-Off' Signal That Forecasts the Next Cycle",
+      "hook": "Partway through the Sun's 11-year cycle, a 'switch-off' moment shuts down its most violent storms — and the sunspots left over forecast the next cycle's strength years in advance.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-21"
+    },
+    {
+      "id": "card_30885a",
+      "slug": "change-6-solar-wind-lunar-asymmetry",
+      "type": "news",
+      "title": "Why the Solar Wind Hits the Moon's Two Sides Differently",
+      "hook": "The Moon's near and far hemispheres soak up the solar wind unequally — because Earth's own magnetic shield shadows the near side. Chang'e-6's far-side dirt caught the difference.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-21"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3bf1e2#0",
+      "format": "flip",
+      "prompt": "What process produces the Sun's energy?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eNuclear fusion\u003c/strong\u003e — hydrogen nuclei fusing into helium in the Sun's core.\nIt is not chemical burning like a campfire.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3bf1e2#1",
+      "format": "quiz",
+      "prompt": "Where does the released energy come from?",
+      "choices": [
+        {
+          "text": "A tiny fraction of mass converting to energy, per E=mc^2",
+          "correct": true
+        },
+        {
+          "text": "Oxygen feeding a chemical flame",
+          "correct": false
+        },
+        {
+          "text": "Electricity stored inside the Sun",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFusion turns a small amount of the reacting mass into energy, exactly as\nEinstein's E=mc^2 describes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3bf1e2#2",
+      "format": "quiz",
+      "prompt": "What conditions in the core make fusion possible?",
+      "choices": [
+        {
+          "text": "Enormous pressure and heat crushing hydrogen nuclei together",
+          "correct": true
+        },
+        {
+          "text": "Cold temperatures that let nuclei drift together gently",
+          "correct": false
+        },
+        {
+          "text": "A magnetic field with no heat at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe core's crushing pressure and extreme heat force hydrogen nuclei close\nenough to fuse.\u003c/p\u003e"
+    }
+  ]
+}

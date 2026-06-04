@@ -1,0 +1,99 @@
+{
+  "id": "card_50ecfa",
+  "slug": "how-new-species-form",
+  "type": "concept",
+  "title": "How New Species Form",
+  "hook": "Split one population in two, let them drift apart long enough, and eventually they can no longer interbreed — that's speciation, the engine that fills the tree of life with branches.",
+  "key_points": [
+    "A species is usually defined as a group that can interbreed and produce fertile offspring.",
+    "Speciation begins when populations become reproductively isolated from each other.",
+    "Geographic barriers — mountains, rivers, oceans — are a common cause of isolation.",
+    "Once separated, mutation and selection push the groups apart until they can't merge again."
+  ],
+  "content_html": "\u003cp\u003eWhere do new species come from? They split off from old ones. Biologists most often define a species as a group of organisms that can interbreed and produce fertile offspring, so the birth of a new species — speciation — is really about a population losing the ability to interbreed with its relatives. The classic recipe starts with a barrier: a river carves a forest in two, a few birds colonize a far island, a mountain range rises.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eOnce a population is split, gene flow between the halves stops. Each group then accumulates its own mutations, and natural selection tunes each to its own local conditions. Over many generations the two diverge — in body, behavior, mating signals, even genetics — until, if they ever meet again, they can't successfully interbreed. At that point they're separate species, and the single branch has become two. As Britannica explains, isolation doesn't always require geography; differences in timing, habitat, or mate preference can split a population in place. Multiply this process across millions of years and you get the vast, branching diversity of life on Earth.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/speciation",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "evolution"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_89dd5d",
+      "slug": "natural-selection",
+      "type": "concept",
+      "title": "Natural Selection",
+      "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f9a54a",
+      "slug": "evidence-for-evolution",
+      "type": "concept",
+      "title": "The Evidence for Evolution",
+      "hook": "Fossils, DNA, shared body plans, and change we can watch happen — evolution isn't a hunch, it's a conclusion forced by many independent lines of evidence.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_50ecfa#0",
+      "format": "quiz",
+      "prompt": "Under the common biological definition, what makes two groups separate species?",
+      "choices": [
+        {
+          "text": "They can no longer interbreed to produce fertile offspring",
+          "correct": true
+        },
+        {
+          "text": "They simply look different from each other",
+          "correct": false
+        },
+        {
+          "text": "They live in different countries",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe \u003cstrong\u003ebiological species concept\u003c/strong\u003e defines a species as a population that can\ninterbreed and produce fertile offspring — reproductive isolation is the key line.\u003c/p\u003e"
+    },
+    {
+      "id": "card_50ecfa#1",
+      "format": "quiz",
+      "prompt": "What often triggers speciation?",
+      "choices": [
+        {
+          "text": "A population getting split and reproductively isolated",
+          "correct": true
+        },
+        {
+          "text": "An individual deciding to become a new species",
+          "correct": false
+        },
+        {
+          "text": "A single mutation instantly creating a new species",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSpeciation usually starts with \u003cstrong\u003eisolation\u003c/strong\u003e — frequently geographic — so the two\ngroups stop exchanging genes and begin evolving along separate paths.\u003c/p\u003e"
+    },
+    {
+      "id": "card_50ecfa#2",
+      "format": "flip",
+      "prompt": "After two populations are isolated, what drives them to become distinct species?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eMutation, drift, and natural selection\u003c/strong\u003e accumulate different changes in each\ngroup. Given enough time, the differences make interbreeding impossible.\u003c/p\u003e"
+    }
+  ]
+}

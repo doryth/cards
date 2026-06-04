@@ -1,0 +1,112 @@
+{
+  "id": "card_8803c4",
+  "slug": "vomiting-and-dehydration",
+  "type": "concept",
+  "title": "Vomiting and Dehydration",
+  "hook": "When a stomach bug hits, the real risk isn't the vomiting itself — it's dehydration. The goal is keeping fluids in with small, frequent sips, and knowing the signs that mean call the doctor.",
+  "key_points": [
+    "Stomach bugs are usually viral; the priority is hydration, not stopping the vomiting.",
+    "Give small, frequent amounts — sips every few minutes — rather than large drinks at once.",
+    "Oral rehydration solution is the safe choice; very sugary drinks can make diarrhea worse.",
+    "Dehydration signs: fewer wet diapers, no tears when crying, dry mouth, lethargy, a sunken soft spot."
+  ],
+  "content_html": "\u003cp\u003eStomach bugs are unpleasant but usually viral and self-limiting — the thing to actually worry about is dehydration, because young children lose fluids quickly. So the goal during vomiting isn't to stop it, but to keep fluids going in. The American Academy of Pediatrics advises offering small amounts often: have your child sip or suck small quantities of fluid every few minutes over a few hours, rather than gulping a big drink that's more likely to come straight back up.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAn oral rehydration solution is the safe, effective choice for replacing lost fluids and salts at home; for infants 6–12 months, use breast milk, formula, or a rehydration solution rather than plain water, and skip very sugary drinks, which the AAP notes can make diarrhea worse. Watch closely for dehydration: fewer wet diapers, no tears when crying, a dry mouth, unusual sleepiness or lethargy, and a sunken soft spot in a baby. Avoid giving anti-diarrheal medicines to young children unless a doctor directs it. Call your pediatrician right away if your child can't keep fluids down, becomes lethargic, or shows any of these signs. This is general guidance — seek medical care when in doubt.\u003c/p\u003e",
+  "source": {
+    "name": "HealthyChildren.org (AAP)",
+    "url": "https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Drinks-to-Prevent-Dehydration-in-a-Vomiting-Child.aspx",
+    "license": "© American Academy of Pediatrics"
+  },
+  "topic_ids": [
+    "illness-care",
+    "health-safety"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a0edf4",
+      "slug": "when-to-call-the-doctor",
+      "type": "concept",
+      "title": "When to Call the Doctor — Red Flags",
+      "hook": "Most childhood illnesses are mild, but a handful of signs mean don't wait and watch — get medical help right away. Knowing them takes the guesswork out of a scary moment.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2f5c1c",
+      "slug": "common-cold-in-children",
+      "type": "concept",
+      "title": "The Common Cold in Children",
+      "hook": "Young kids catch a lot of colds — that's normal. Colds are viral, so antibiotics won't help; comfort care does, and OTC cough-and-cold medicines aren't safe for little ones.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_660d20",
+      "slug": "reflux-and-spit-up",
+      "type": "concept",
+      "title": "Spit-Up vs. Reflux: When It's Just Laundry",
+      "hook": "Most babies spit up — it's a plumbing issue, not an illness, and a happy, growing 'spitter' needs patience, not treatment. A few specific signs are the ones worth a doctor's call.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8803c4#0",
+      "format": "quiz",
+      "prompt": "When a child has a stomach bug, what's the main thing to focus on?",
+      "choices": [
+        {
+          "text": "Preventing dehydration by keeping fluids in",
+          "correct": true
+        },
+        {
+          "text": "Stopping the vomiting with medicine as fast as possible",
+          "correct": false
+        },
+        {
+          "text": "Withholding all fluids until the stomach settles",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eStomach bugs are usually viral and self-limiting; the real risk is dehydration,\nso the priority is replacing lost fluids — not stopping the vomiting itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8803c4#1",
+      "format": "flip",
+      "prompt": "What's the best way to give fluids to a vomiting child?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eSmall amounts, frequently\u003c/strong\u003e — sips or sucks every few minutes over a few hours,\nusing an \u003cstrong\u003eoral rehydration solution\u003c/strong\u003e. Large drinks at once tend to come back up.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8803c4#2",
+      "format": "quiz",
+      "prompt": "Which is a sign of dehydration in an infant?",
+      "choices": [
+        {
+          "text": "Fewer wet diapers, no tears when crying, dry mouth, and lethargy",
+          "correct": true
+        },
+        {
+          "text": "More wet diapers than usual and lots of energy",
+          "correct": false
+        },
+        {
+          "text": "A barky, seal-like cough",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFewer wet diapers, a parched dry mouth, fewer tears, sleepiness or lethargy, and\na sunken soft spot all point to dehydration and mean you should call the doctor.\u003c/p\u003e"
+    }
+  ]
+}

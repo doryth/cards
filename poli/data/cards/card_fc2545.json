@@ -1,0 +1,128 @@
+{
+  "id": "card_fc2545",
+  "slug": "upzoning-the-missing-middle",
+  "type": "news",
+  "title": "Zoning as a Housing Policy Lever: the \"Missing Middle\"",
+  "hook": "Nearly 70% of Denver's residential land allows only single-family houses. A simulator estimates that letting four units build anywhere would raise market-rate multifamily supply 46%.",
+  "key_points": [
+    "\"Missing middle\" housing = duplexes, triplexes, quadplexes, townhomes, cottage courts — between the detached house and the big apartment block.",
+    "It also names a price gap: households at 80–120% of area median income, too rich for subsidy, too poor for market rate.",
+    "Single-family-only zoning covers nearly 70% of Denver's residential land, capping how much can be built.",
+    "A Terner Labs (UC Berkeley) policy simulator models costs, interest rates, and zoning over thousands of iterations.",
+    "Modeled policy: every parcel must allow at least four units, with no lengthy approval process — a predicted 46% supply increase.",
+    "Zoning is a local rule, but states increasingly use preemption and streamlining to override it."
+  ],
+  "content_html": "\u003cp\u003e\u0026quot;Missing middle\u0026quot; housing is the range of homes that sits between a detached single-family house and a large apartment building: duplexes, triplexes, quadplexes, townhomes, cottage courts. The name is a double pun — these building types largely vanished from what US zoning codes permit, and they tend to house the middle-income households (roughly 80–120% of area median income) who earn too much for subsidized programs and too little for new market-rate units. Writing in The Conversation, University of Denver's Stefan Chavez-Norgaard and Susan Daggett use Colorado's shortage to show why this is fundamentally a policy question rather than a construction one.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir evidence comes from a Housing Policy Simulator built by Terner Labs at UC Berkeley, which the authors partnered with. It models what actually gets built by combining project costs, interest rates, zoning rules, and historical development patterns, then running thousands of probabilistic iterations to estimate new units and average building costs. The policy they modeled for Denver was a citywide missing-middle upzoning: require every parcel to allow at least four units, and skip the lengthy discretionary approval process. The simulator's estimate was a 46% increase in market-rate multifamily housing supply compared with status-quo development.\u003c/p\u003e\n\u003cp\u003eThe reason such a change bites is that nearly 70% of Denver's residential land is zoned single-family only, so the legal ceiling on units per lot is the binding constraint. This is also a neat illustration of how layered government complicates policy: zoning is written locally, parcel by parcel, but the housing shortage is regional and the political pressure is statewide. Colorado has reached for other levers too — a common application system to cut compliance costs across agencies, and a rent control bill that failed in 2023 — which is why upzoning debates so often turn into fights about which level of government gets to decide.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Stefan Chavez-Norgaard, Teaching Assistant Professor of Public Policy, University of Denver",
+      "Susan D. Daggett, Professor of the Practice of Law, University of Denver"
+    ],
+    "url": "https://theconversation.com/colorado-is-facing-a-housing-shortage-building-more-duplexes-and-townhomes-could-be-part-of-the-solution-285458",
+    "published_at": "2026-08-20",
+    "license": "CC BY-ND (The Conversation)"
+  },
+  "topic_ids": [
+    "public-policy-economy",
+    "federalism-levels"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e521e1",
+      "slug": "local-government",
+      "type": "concept",
+      "title": "Local Government",
+      "hook": "The layer of government you meet most often isn't the national one — it's the city or council that runs your streets, schools, and rubbish collection.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c978c5",
+      "slug": "markets-regulation-mixed-economy",
+      "type": "concept",
+      "title": "Markets, Regulation \u0026 the Mixed Economy",
+      "hook": "Pure free market or full state control? Almost every country picks neither — they run a mixed economy, and where they draw the line is one of politics' great arguments.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fc2545#0",
+      "format": "quiz",
+      "prompt": "What counts as \"missing middle\" housing?",
+      "choices": [
+        {
+          "text": "Duplexes, triplexes, townhomes and cottage courts — between detached houses and big apartment blocks",
+          "correct": true
+        },
+        {
+          "text": "Subsidized public housing for the lowest-income renters",
+          "correct": false
+        },
+        {
+          "text": "High-rise apartment towers in downtown cores",
+          "correct": false
+        },
+        {
+          "text": "Single-family homes on unusually small lots",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe term covers the mid-density forms zoning mostly stopped allowing — and\nalso the middle-income households (80–120% of area median income) they tend\nto serve.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fc2545#1",
+      "format": "flip",
+      "prompt": "Why does single-family-only zoning matter so much for housing supply?",
+      "back_html": "\u003cp\u003eBecause it covers most buildable land — nearly \u003cstrong\u003e70% of Denver's residential\nland\u003c/strong\u003e — so the legal cap on units per parcel, not construction capacity,\nbecomes the binding constraint.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fc2545#2",
+      "format": "quiz",
+      "prompt": "What did the Terner Labs housing simulator actually estimate for Denver?",
+      "choices": [
+        {
+          "text": "Allowing at least four units on every parcel would raise market-rate multifamily supply about 46%",
+          "correct": true
+        },
+        {
+          "text": "Rent control would cut average rents about 46%",
+          "correct": false
+        },
+        {
+          "text": "Denver needs 46% more subsidized affordable units",
+          "correct": false
+        },
+        {
+          "text": "46% of Denver residents support upzoning",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe simulator runs thousands of iterations over costs, interest rates and\nzoning rules; the 46% figure is the modeled increase in market-rate\nmultifamily supply versus status-quo development.\u003c/p\u003e"
+    }
+  ]
+}

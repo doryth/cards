@@ -1,0 +1,86 @@
+{
+  "id": "card_9868db",
+  "slug": "openai-losing-billions",
+  "type": "news",
+  "title": "The Leading AI Company Is Losing Billions a Year",
+  "hook": "Leaked, audited financials reportedly show OpenAI bleeding billions of dollars a year. Its revenue is growing fast — but the cost of building AI is growing faster.",
+  "key_points": [
+    "Leaked documents described as audited accounts reportedly show OpenAI losing billions a year.",
+    "Revenue is rising quickly, but it's dwarfed by research, computing, and other expenses.",
+    "Building and running frontier AI — chips, data centers, talent — is staggeringly expensive.",
+    "'Leading the AI race' and 'running a sound business' are not the same thing."
+  ],
+  "content_html": "\u003cp\u003eFor all the talk of an AI gold rush, one of its biggest names is reportedly losing money at a remarkable clip. Leaked documents — described as audited financial accounts — suggest OpenAI, the company behind ChatGPT, is losing billions of dollars a year, according to Ars Technica.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe striking part isn't that OpenAI spends a lot — everyone knew that — but that its fast-growing revenue is still dwarfed by its costs: research and development, the enormous computing bills behind training and running models, and other expenses. Money is coming in quickly, and going out even faster.\u003c/p\u003e\n\u003cp\u003eFor anyone trying to make sense of the AI moment, it's a useful counterweight to the hype. Being the most talked-about company, or having the most advanced model, doesn't automatically mean the business underneath is sound — the economics of frontier AI are still very much unproven. Treat the specific figures as reported rather than company-confirmed; Ars Technica has the details.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Kyle Orland"
+    ],
+    "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
+    "published_at": "2026-06-16",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-hype",
+    "ai-news"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-18",
+  "date": "2026-06-16",
+  "related": [
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9868db#0",
+      "format": "quiz",
+      "prompt": "What did the leaked OpenAI financials reportedly reveal?",
+      "choices": [
+        {
+          "text": "Revenue is growing, but it's dwarfed by research and other costs — so the company loses billions a year",
+          "correct": true
+        },
+        {
+          "text": "The company is hugely profitable with no major costs",
+          "correct": false
+        },
+        {
+          "text": "OpenAI has stopped earning any money at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer the reporting, OpenAI's revenue is rising fast — but spending on research,\ncomputing, and other expenses is far higher, leaving billions in annual losses.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9868db#1",
+      "format": "flip",
+      "prompt": "Why isn't 'leading the AI race' the same as being profitable?",
+      "back_html": "\u003cp\u003eBuilding and running frontier AI — chips, data centers, talent — is enormously\nexpensive. A company can dominate technically while still losing money fast.\u003c/p\u003e"
+    }
+  ]
+}

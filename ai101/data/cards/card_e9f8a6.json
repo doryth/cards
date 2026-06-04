@@ -1,0 +1,124 @@
+{
+  "id": "card_e9f8a6",
+  "slug": "flock-tightens-plate-reader-rules",
+  "type": "news",
+  "title": "Flock Tightens the Rules on Its Nationwide License-Plate Network",
+  "hook": "After dozens of cities cancelled contracts, the biggest police camera company is adding guardrails to a searchable record of where cars have been.",
+  "key_points": [
+    "Flock's automated license-plate readers feed a nationwide, searchable database used by roughly 5,000 agencies.",
+    "Officers must now enter a criminal case number before running a search — previously optional.",
+    "A mandatory automated audit flags suspicious search patterns for administrators to review.",
+    "Flock now recommends keeping data 7 days instead of 30, and lets agencies block other departments from searching by crime category.",
+    "The backlash: a Washington Post investigation found 46 cases of officers using the cameras to track romantic partners.",
+    "At least 30 cities dropped their contracts in the year to February 2026; the ACLU argues the real problem is searching without prior suspicion."
+  ],
+  "content_html": "\u003cp\u003eFlock Safety's cameras read license plates automatically and pool the results into a nationwide, searchable database — roughly 5,000 agencies can look up where a car has been. On August 13, 2026, MIT Technology Review reported that the company is tightening how officers reach that data, after a year of cancelled contracts and unflattering headlines.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThree changes: officers must now attach a criminal case number to every search (it used to be optional), an automated system flags unusual search patterns for administrators, and agencies get finer control — Flock recommends holding data for seven days instead of 30, and departments can now allow outside agencies to search only for specific crime categories, permitting a kidnapping investigation while blocking immigration-enforcement lookups.\u003c/p\u003e\n\u003cp\u003eThe pressure behind this is concrete. A Washington Post investigation documented 46 cases of officers using the cameras to track romantic partners, and at least 30 cities dropped Flock contracts in the year to February 2026 — a small share of its business, the company notes. Whether new guardrails help is a fair question: when Flock previously asked officers to type a reason for each search, some Oregon officers wrote \u0026quot;hehehe\u0026quot; 20 times. The ACLU's Chad Marlow frames the real issue as scale rather than bad apples — the system lets police search a huge location record without first establishing suspicion of a crime, doing an end-run around the warrant process. It's a useful lesson for any AI-powered system: the safeguard that matters is the one something actually checks.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "James O'Donnell"
+    ],
+    "url": "https://technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash",
+    "published_at": "2026-08-13",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "facial-recognition",
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-13",
+  "related": [
+    {
+      "id": "card_7c7279",
+      "slug": "computer-cops-ai-policing",
+      "type": "news",
+      "title": "Inside the Trade Show Where Companies Sell AI to the Police",
+      "hook": "Facial-recognition cameras, 911 chatbots, gunshot-detection, and AI report-writing — a police-chiefs' tech conference showed how far AI has already moved into everyday policing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_95563d",
+      "slug": "facial-recognition-and-surveillance",
+      "type": "concept",
+      "title": "Facial Recognition",
+      "hook": "The same AI that unlocks your phone can pick your face out of a crowd. It's convenient at your fingertips and unsettling at a city's scale — and it makes mistakes, unevenly.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e9f8a6#0",
+      "format": "flip",
+      "prompt": "What does an automated license-plate reader network actually give police?",
+      "back_html": "\u003cp\u003eA searchable history of where vehicles have been — cameras log plates\nautomatically, and Flock's network is shared across roughly 5,000 agencies.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e9f8a6#1",
+      "format": "quiz",
+      "prompt": "Which change did Flock make to how officers search the network?",
+      "choices": [
+        {
+          "text": "Requiring a criminal case number for every search, plus automated audits of suspicious patterns",
+          "correct": true
+        },
+        {
+          "text": "Deleting all historical plate data permanently",
+          "correct": false
+        },
+        {
+          "text": "Letting the public search the same database",
+          "correct": false
+        },
+        {
+          "text": "Requiring a judge's warrant before any search",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCase numbers became mandatory (they were optional before) and an automated\nsystem now flags odd search patterns for administrators. No warrant is required.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e9f8a6#2",
+      "format": "flip",
+      "prompt": "Why does the ACLU say officer misuse isn't the core problem?",
+      "back_html": "\u003cp\u003eTheir argument is about scale: officers can search a vast location database\nwithout first establishing suspicion of a crime, sidestepping warrant requirements.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e9f8a6#3",
+      "format": "quiz",
+      "prompt": "Why is a self-reported 'reason for search' box a weak safeguard?",
+      "choices": [
+        {
+          "text": "Nothing checks what's typed — some Oregon officers entered 'hehehe' 20 times",
+          "correct": true
+        },
+        {
+          "text": "Officers can't type while on patrol",
+          "correct": false
+        },
+        {
+          "text": "The reason field is hidden from administrators",
+          "correct": false
+        },
+        {
+          "text": "Search reasons are deleted after seven days",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA free-text field only works if someone verifies it. Flock's earlier\nreason-for-search requirement was defeated by officers typing nonsense.\u003c/p\u003e"
+    }
+  ]
+}

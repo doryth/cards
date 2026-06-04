@@ -1,0 +1,104 @@
+{
+  "id": "card_44f5ff",
+  "slug": "hidden-prompts-court-filings",
+  "type": "news",
+  "title": "He Hid Instructions in a Court Filing to Trick the AI",
+  "hook": "Suspecting the court was using AI to read his case, a man buried instructions inside his filings to sway the outcome. It didn't work — but the tactic is now everywhere.",
+  "key_points": [
+    "Ars Technica reports a self-represented litigant injected prompts into filings aimed at an AI reader.",
+    "The tactic is prompt injection: text in a document that tries to command the AI reading it.",
+    "The judge warned that people representing themselves are misusing chatbots and getting desperate.",
+    "Any AI that reads documents you didn't write can be steered by text hidden inside them.",
+    "Treat AI-summarized documents as a starting point, not as evidence of what they say."
+  ],
+  "content_html": "\u003cp\u003eA man who suspected the court handling his case was using AI to process filings tried to exploit that: he buried instructions inside his own documents, hoping an AI reader would follow them and tilt the case his way. Ars Technica reports it failed, and the judge used the episode to warn that self-represented litigants are leaning on chatbots badly and out of desperation.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe stunt is a plain-English demonstration of prompt injection. A language model reading a document has no reliable way to separate \u0026quot;this is the text I was asked to summarize\u0026quot; from \u0026quot;this is an instruction I should obey\u0026quot; — it's all just words going in. That's why hidden text in a resume, an email, or a web page can hijack an assistant that reads it on your behalf. The takeaway for everyday use is modest but real: when an AI summarizes something you didn't write, treat the summary as a lead to check, not as a faithful account of the document.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+    "published_at": "2026-08-14",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "responsible-use",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_af049a",
+      "slug": "using-ai-responsibly",
+      "type": "concept",
+      "title": "Using AI Responsibly",
+      "hook": "The point of AI literacy isn't to use AI for everything — it's to use it well: check its work, be honest that you used it, and know the moments to put it down.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6af19e",
+      "slug": "ai-prompts-found-zoom-flaw",
+      "type": "news",
+      "title": "Twenty Prompts Were Enough to Find a Zoom Takeover Bug",
+      "hook": "Researchers say fewer than 20 prompts to publicly available AI models surfaced a Zoom flaw that could hijack a participant's device mid-meeting. Zoom has patched it.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_3747ba",
+      "slug": "chatgpt-logs-as-evidence",
+      "type": "news",
+      "title": "Your Chatbot History Can End Up in Court",
+      "hook": "Prosecutors in a deadly-wildfire case used a suspect's ChatGPT logs as evidence — a reminder that what you type into a chatbot can be stored, requested, and read by others.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-28"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_44f5ff#0",
+      "format": "flip",
+      "prompt": "What is prompt injection, in the sense used in this story?",
+      "back_html": "\u003cp\u003eHiding instructions inside a document so that an AI reading it follows them —\ntreating text meant as content as if it were a command from the user.\u003c/p\u003e"
+    },
+    {
+      "id": "card_44f5ff#1",
+      "format": "quiz",
+      "prompt": "What made this tactic possible at all?",
+      "choices": [
+        {
+          "text": "An AI can't reliably tell content it reads from instructions it's given",
+          "correct": true
+        },
+        {
+          "text": "Courts legally require judges to use AI on every filing",
+          "correct": false
+        },
+        {
+          "text": "The filing system automatically runs any code it receives",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe weakness is definitional: to a language model, text is text. Instructions\nburied in a document can look just like instructions from the operator.\u003c/p\u003e"
+    },
+    {
+      "id": "card_44f5ff#2",
+      "format": "flip",
+      "prompt": "What did the judge say about people representing themselves?",
+      "back_html": "\u003cp\u003eThat pro se litigants are using chatbots wrong and getting desperate — a warning\nabout misuse, not an endorsement of the tactic.\u003c/p\u003e"
+    }
+  ]
+}

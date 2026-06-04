@@ -1,0 +1,132 @@
+{
+  "id": "card_5f57f5",
+  "slug": "superconductivity",
+  "type": "concept",
+  "title": "Superconductivity: Electricity with Zero Resistance",
+  "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+  "key_points": [
+    "Below a critical temperature, some materials lose all electrical resistance.",
+    "Current then flows with zero energy loss — no heat wasted in the wire.",
+    "Superconductors also expel magnetic fields, letting magnets levitate above them.",
+    "They power MRI scanners, maglev trains, and the magnets in particle accelerators."
+  ],
+  "content_html": "\u003cp\u003ePush current through an ordinary wire and some energy is always lost as heat, because the material resists the flow — that's electrical resistance. In 1911 physicists found something astonishing: cool certain materials below a particular critical temperature and their resistance doesn't just shrink, it disappears entirely. These superconductors carry current with zero loss. A current set circulating in a superconducting ring would, in principle, keep flowing essentially forever.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSuperconductors have a second striking trait: they push magnetic fields out of their interior, an effect that lets a magnet hover in midair above a chilled superconductor. Together these properties make them enormously useful. Because they carry huge currents without overheating, superconducting coils build the intense, stable magnetic fields inside MRI machines and particle accelerators like the Large Hadron Collider, and they lift and guide maglev trains. The catch is the cold: most superconductors only work at temperatures far below freezing, so keeping them chilled is expensive. \u0026quot;High-temperature\u0026quot; superconductors discovered in the 1980s work somewhat warmer but still need deep cooling — which is why a room-temperature superconductor remains one of physics' great prizes. Wikipedia covers the discovery, the Meissner effect, and the applications.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Superconductivity",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2a4c51",
+      "slug": "circuits-and-ohms-law",
+      "type": "concept",
+      "title": "Circuits and Ohm's Law",
+      "hook": "Three quantities run every circuit — voltage, current, and resistance — and one tidy rule ties them together: voltage equals current times resistance.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_02ca0c",
+      "slug": "absolute-zero",
+      "type": "concept",
+      "title": "Absolute Zero: The Coldest Possible Temperature",
+      "hook": "There's no limit to how hot things can get, but cold has a floor. At absolute zero, −273°C, particle motion bottoms out — and you can get achingly close but never quite reach it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_275a24",
+      "slug": "electric-and-magnetic-fields",
+      "type": "concept",
+      "title": "Electric and Magnetic Fields",
+      "hook": "How does a magnet pull a paperclip it isn't touching? Through a field — an invisible region of influence that tells other charges and magnets how to feel a force.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d18019",
+      "slug": "bose-einstein-condensate",
+      "type": "news",
+      "title": "The Fifth State of Matter, Made in Space",
+      "hook": "Chill a gas to a hair above absolute zero and its atoms stop acting like a crowd and merge into one quantum entity. In orbit, weightlessness lets that strange state last even longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_2a4c51",
+      "slug": "circuits-and-ohms-law",
+      "type": "concept",
+      "title": "Circuits and Ohm's Law",
+      "hook": "Three quantities run every circuit — voltage, current, and resistance — and one tidy rule ties them together: voltage equals current times resistance.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_5f57f5#0",
+      "format": "flip",
+      "prompt": "What defines a superconductor?",
+      "back_html": "\u003cp\u003eA material that, below a certain critical temperature, has \u003cstrong\u003ezero electrical\nresistance\u003c/strong\u003e — current flows through it with no energy loss.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5f57f5#1",
+      "format": "quiz",
+      "prompt": "What is special about current flowing in a superconductor?",
+      "choices": [
+        {
+          "text": "It loses no energy to resistance, so it could circulate indefinitely",
+          "correct": true
+        },
+        {
+          "text": "It flows faster than the speed of light",
+          "correct": false
+        },
+        {
+          "text": "It generates more energy than was put in",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith no resistance there's no heating loss, so a current started in a\nsuperconducting loop would keep going without fading.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5f57f5#2",
+      "format": "quiz",
+      "prompt": "Why can a magnet float above a superconductor?",
+      "choices": [
+        {
+          "text": "Superconductors expel magnetic fields, which pushes the magnet away",
+          "correct": true
+        },
+        {
+          "text": "Superconductors are lighter than air",
+          "correct": false
+        },
+        {
+          "text": "The magnet's heat lifts it upward",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA superconductor pushes magnetic fields out of its interior (the Meissner\neffect), producing a repulsion that can levitate a magnet above it.\u003c/p\u003e"
+    }
+  ]
+}

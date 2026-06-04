@@ -1,0 +1,129 @@
+{
+  "id": "card_02acdd",
+  "slug": "public-media-after-federal-funding",
+  "type": "news",
+  "title": "What Happens When a Country Defunds Its Public Broadcaster",
+  "hook": "A year after the U.S. ended six decades of federal support for public media, the stations are still on air — but the mix of who pays for them, and which ones survive, has changed.",
+  "key_points": [
+    "Governments fund public broadcasters on the theory that news serving small or rural audiences won't cover its own costs in a pure market.",
+    "NPR reports that a law signed in 2025 ended roughly six decades of U.S. federal funding for public television and radio.",
+    "A year on, David Folkenflik describes reinvention and innovation alongside cuts and clear anxiety at stations nationwide.",
+    "One bridge has been 'rage-giving' — surges of donations from audiences reacting to the cuts themselves.",
+    "Donation-driven funding is less predictable than an appropriation, and small local stations have the thinnest cushion."
+  ],
+  "content_html": "\u003cp\u003eMost democracies put some public money into broadcasting, on a fairly simple theory: news for a thinly populated county, or programming for an audience too small to sell to advertisers, doesn't pay for itself. Subsidize it and it exists; don't, and it mostly doesn't. So it's a natural experiment when a country stops.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's David Folkenflik reported in July 2026 on the year since a law signed by President Trump ended roughly six decades of federal funding for U.S. public television and radio. His picture is mixed rather than apocalyptic: reinvention and innovation on one side, cuts and real anxiety on the other, varying a lot station to station. Part of what carried the system through was what he calls rage-giving — waves of donations from audiences reacting to the cuts.\u003c/p\u003e\n\u003cp\u003eThe structural lesson outranks the headline. Swapping a stable appropriation for donation-driven revenue doesn't just shrink the money, it changes its character: giving surges with public mood and fades between flashpoints, which is hard to plan a newsroom around. And the effect isn't distributed evenly, since federal support made up a larger share of small local stations' budgets and those stations have the least capacity to replace it. (This card describes the U.S. case; public broadcasters elsewhere are funded through license fees, direct grants, or a mix, and are exposed to political pressure in different ways.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "David Folkenflik"
+    ],
+    "url": "https://npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
+    "published_at": "2026-07-26",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "media-civil-society",
+    "public-policy-economy"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-26",
+  "related": [
+    {
+      "id": "card_b3bd44",
+      "slug": "free-press-and-democracy",
+      "type": "concept",
+      "title": "The Free Press \u0026 Democracy",
+      "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_58bb3e",
+      "slug": "public-goods-and-the-state",
+      "type": "concept",
+      "title": "Public Goods \u0026 the State",
+      "hook": "Some things markets struggle to provide — clean air, national defense, street lighting — because no one can be charged for them. That gap is a core reason states exist.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6efae9",
+      "slug": "taxation-and-public-budgets",
+      "type": "concept",
+      "title": "Taxation \u0026 Public Budgets",
+      "hook": "A government's budget is its values written in numbers — and taxation is how it raises the money to act at all. Follow the money to understand the priorities.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_b3bd44",
+      "slug": "free-press-and-democracy",
+      "type": "concept",
+      "title": "The Free Press \u0026 Democracy",
+      "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_02acdd#0",
+      "format": "flip",
+      "prompt": "What is the standard justification for a government funding a public broadcaster?",
+      "back_html": "\u003cp\u003eCoverage aimed at small, rural, or low-income audiences often can't\npay for itself in a pure market, so public funding keeps it\navailable anyway.\u003c/p\u003e"
+    },
+    {
+      "id": "card_02acdd#1",
+      "format": "quiz",
+      "prompt": "Why is replacing an appropriation with listener donations a structural change, not just a smaller budget?",
+      "choices": [
+        {
+          "text": "Donations fluctuate with public mood, making revenue far less predictable than a set appropriation",
+          "correct": true
+        },
+        {
+          "text": "Donations are legally barred from funding news coverage",
+          "correct": false
+        },
+        {
+          "text": "Donations must be matched by an equal amount of advertising revenue",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn appropriation is a planned line item; giving rises and falls with\nevents. Stations can survive on it but can't budget against it the\nsame way.\u003c/p\u003e"
+    },
+    {
+      "id": "card_02acdd#2",
+      "format": "quiz",
+      "prompt": "In NPR's reporting, which stations face the greatest risk after the funding cut?",
+      "choices": [
+        {
+          "text": "Small local stations, which have the thinnest financial cushion",
+          "correct": true
+        },
+        {
+          "text": "The largest national networks, which have the highest costs",
+          "correct": false
+        },
+        {
+          "text": "Stations that already carried advertising",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFederal support made up a bigger share of small stations' budgets\nand they have the least ability to replace it from other sources.\u003c/p\u003e"
+    }
+  ]
+}

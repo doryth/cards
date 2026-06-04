@@ -1,0 +1,97 @@
+{
+  "id": "card_8f7773",
+  "slug": "nvidia-hundred-billion-quarter",
+  "type": "news",
+  "title": "Nvidia Is About to Make $100 Billion in a Single Quarter",
+  "hook": "Nvidia just posted a record $96.2 billion quarter and says the next one should hit about $108 billion — a club only Amazon, Apple, and Alphabet have ever entered.",
+  "key_points": [
+    "Nvidia reported record revenue of $96.2 billion in its latest quarter.",
+    "It forecasts roughly $108 billion in the coming quarter, crossing $100 billion for the first time.",
+    "Only Amazon, Apple, and Alphabet have previously posted $100B+ quarters.",
+    "Nvidia mostly sells the chips other companies use to build AI — it's the picks-and-shovels of the boom.",
+    "That makes its revenue a running measure of how much the industry is betting on AI."
+  ],
+  "content_html": "\u003cp\u003eNvidia's latest earnings report set a company record: $96.2 billion of revenue in a single quarter. The more striking number is the forecast. The Verge reports Nvidia expects roughly $108 billion in the coming quarter, which would put it in a group only Amazon, Apple, and Alphabet have ever joined — companies that have posted more than $100 billion in a single three-month stretch.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNvidia doesn't sell you a chatbot. It sells the chips that everyone building chatbots needs, which is why its earnings double as a live reading on how hard the rest of the industry is spending. If you're trying to judge whether AI enthusiasm is cooling, this is one of the cleaner signals available: the money is still flowing into the hardware layer at record pace. What it doesn't tell you is whether that spending will pay off. Suppliers do extremely well in the early years of any buildout — the returns question lands on the customers, and it lands later.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Stevie Bonifield"
+    ],
+    "url": "https://theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+    "published_at": "2026-08-26",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-hype",
+    "ai-news"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_d76205",
+      "slug": "compute-as-asset-class",
+      "type": "news",
+      "title": "Wall Street Wants to Turn Computing Power Into an Asset Class",
+      "hook": "Six of the biggest names in finance are working with Nvidia on $500 billion of financing built around GPUs — treating compute like real estate or oil.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8f7773#0",
+      "format": "quiz",
+      "prompt": "Why is Nvidia's revenue treated as a thermometer for the AI boom?",
+      "choices": [
+        {
+          "text": "It sells the chips nearly everyone else needs to build and run AI",
+          "correct": true
+        },
+        {
+          "text": "It owns the most popular chatbot",
+          "correct": false
+        },
+        {
+          "text": "It sets the price of AI subscriptions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNvidia is the supplier, not the app maker. When labs and cloud companies spend on AI\ninfrastructure, much of that spending lands as Nvidia revenue.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8f7773#1",
+      "format": "flip",
+      "prompt": "How rare is a $100 billion quarter?",
+      "back_html": "\u003cp\u003eVery — before Nvidia's forecast of roughly $108 billion, only Amazon, Apple, and\nAlphabet had repeatedly reached that milestone.\u003c/p\u003e"
+    }
+  ]
+}

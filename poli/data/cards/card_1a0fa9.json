@@ -1,0 +1,138 @@
+{
+  "id": "card_1a0fa9",
+  "slug": "raising-constitutional-amendment-thresholds",
+  "type": "news",
+  "title": "Making It Harder to Amend a Constitution — by Amending It First",
+  "hook": "Some U.S. states are asking voters to approve a measure that would make future constitutional amendments harder to pass. It's direct democracy voting to limit direct democracy.",
+  "key_points": [
+    "Amending a constitution is deliberately harder than passing an ordinary law — that's the design, not a flaw.",
+    "In 2026, several U.S. states put ballot measures before voters that would raise the threshold needed to pass future constitutional amendments, such as requiring a supermajority instead of a simple majority.",
+    "Supporters argue a higher bar protects the constitution from being rewritten by a narrow, possibly low-turnout majority on a single-issue vote.",
+    "Critics counter that raising the threshold entrenches the status quo and makes it harder for citizen-initiated measures — direct democracy's own tool — to ever succeed.",
+    "The irony: voters must currently approve these threshold-raising measures under the very same (lower) rules the measures aim to replace."
+  ],
+  "content_html": "\u003cp\u003eA constitution is supposed to be harder to change than an ordinary law — that extra friction is what keeps it from being rewritten every time political winds shift. In 2026, several U.S. states are testing how much friction is the right amount, by asking voters to raise the bar for amending their own state constitutions going forward.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's Ashley Lopez reports that these ballot measures would replace a simple-majority requirement with a higher one, such as a supermajority, for any future constitutional amendment to pass. Supporters argue this protects the constitution from being rewritten by a narrow or low-turnout majority on a single hot-button question. Critics — and many direct-democracy advocates — counter that raising the bar mainly entrenches whatever the constitution already says, making it harder for citizen-initiated amendments in particular to ever clear the higher threshold. There's a built-in irony reporters have noted: voters are being asked to approve the new, higher bar using the very same, lower-bar process the measure is designed to retire. (U.S. state-level examples; the general trade-off between amendment ease and stability applies to any constitution.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Ashley Lopez"
+    ],
+    "url": "https://npr.org/2026/07/14/nx-s1-5877715/direct-democracy-state-constitutional-amendment-thresholds",
+    "published_at": "2026-07-14",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_83f9cf",
+      "slug": "referendums-and-direct-democracy",
+      "type": "concept",
+      "title": "Referendums \u0026 Direct Democracy",
+      "hook": "Usually we elect others to decide for us. Sometimes the people decide a question themselves — that's direct democracy, and the referendum is its main modern tool.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1d0cfe",
+      "slug": "amending-a-constitution",
+      "type": "concept",
+      "title": "Amending a Constitution",
+      "hook": "A constitution has to last — but not freeze. Amendment rules let it change deliberately, usually demanding more agreement than an ordinary law.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf95a8",
+      "slug": "what-is-a-constitution",
+      "type": "concept",
+      "title": "What a Constitution Is",
+      "hook": "The rulebook above the rules: a constitution sets out how a government is structured and the limits on its power.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_83f9cf",
+      "slug": "referendums-and-direct-democracy",
+      "type": "concept",
+      "title": "Referendums \u0026 Direct Democracy",
+      "hook": "Usually we elect others to decide for us. Sometimes the people decide a question themselves — that's direct democracy, and the referendum is its main modern tool.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1d0cfe",
+      "slug": "amending-a-constitution",
+      "type": "concept",
+      "title": "Amending a Constitution",
+      "hook": "A constitution has to last — but not freeze. Amendment rules let it change deliberately, usually demanding more agreement than an ordinary law.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_1a0fa9#0",
+      "format": "flip",
+      "prompt": "What are several U.S. states asking voters to approve in 2026, regarding their state constitutions?",
+      "back_html": "\u003cp\u003eBallot measures that would \u003cstrong\u003eraise the threshold\u003c/strong\u003e needed to pass future\nconstitutional amendments — for example, requiring a supermajority\ninstead of a simple majority.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1a0fa9#1",
+      "format": "quiz",
+      "prompt": "What's the main argument supporters make for raising amendment thresholds?",
+      "choices": [
+        {
+          "text": "It protects the constitution from being rewritten by a narrow, possibly low-turnout majority",
+          "correct": true
+        },
+        {
+          "text": "It's required by the federal Constitution for all states",
+          "correct": false
+        },
+        {
+          "text": "It guarantees higher voter turnout in every election",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSupporters frame the higher bar as a safeguard for stability, not a\nfederal mandate — states set their own amendment rules.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1a0fa9#2",
+      "format": "quiz",
+      "prompt": "What's the central irony NPR's reporting points to in these measures?",
+      "choices": [
+        {
+          "text": "Voters must approve the higher threshold under the very same, lower-bar rules the measure would replace",
+          "correct": true
+        },
+        {
+          "text": "The measures were passed by legislatures without any public vote at all",
+          "correct": false
+        },
+        {
+          "text": "Raising the threshold has no effect on future ballot measures",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA simple-majority vote is being used, in effect, to make future\nsimple-majority votes on the constitution harder to win.\u003c/p\u003e"
+    }
+  ]
+}

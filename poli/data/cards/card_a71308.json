@@ -1,0 +1,149 @@
+{
+  "id": "card_a71308",
+  "slug": "trump-election-vulnerability-claims",
+  "type": "news",
+  "title": "Declassified Isn't the Same as New",
+  "hook": "A primetime address, declassified documents, and warnings of 'shocking vulnerabilities' in U.S. elections — but reviewers found the documents mostly repeated what officials already knew years ago.",
+  "key_points": [
+    "In a July 2026 primetime address, President Trump said newly declassified intelligence documents revealed 'shocking vulnerabilities' in U.S. election infrastructure, citing alleged Chinese interference, voting-machine security gaps, and noncitizens appearing on some states' voter rolls.",
+    "The address did not present new evidence that any specific vote, in 2020 or any other election, was actually altered or fraudulently cast.",
+    "News organizations reviewing the documents found they largely restated vulnerabilities already flagged in a 2021 U.S. intelligence community assessment — newly declassified, but not newly discovered.",
+    "A claimed vulnerability in a voting system is not the same as evidence that it was exploited to change a result — the two get conflated easily in public debate.",
+    "Election security officials have spent years working to patch known vulnerabilities like these; a resurfaced old finding doesn't by itself show current systems are unprotected."
+  ],
+  "content_html": "\u003cp\u003eNot every claim about election security is equally strong, and one useful test is whether it's backed by evidence a specific outcome was actually changed — or just points to a vulnerability that could, in theory, be misused.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn a July 2026 primetime address, President Trump said newly declassified intelligence documents showed \u0026quot;shocking vulnerabilities\u0026quot; in U.S. election infrastructure, pointing to alleged Chinese interference efforts, voting-machine security gaps, and noncitizens appearing on some states' voter rolls. Per NPR's Franco Ordoñez, the speech did not offer new evidence that any specific vote — in 2020 or any other election — was actually altered or fraudulently cast. News organizations that reviewed the declassified material found it largely restated vulnerabilities election security officials had already flagged in a 2021 U.S. intelligence community assessment: newly declassified, in other words, but not newly discovered, and not evidence any of them were exploited. The distinction matters for how citizens evaluate this kind of claim generally: a system having a theoretical weak point is a real and often worthwhile thing to fix, but it is not, by itself, proof that anyone used it to change a result. (This card describes U.S. federal election-security claims specifically; the underlying vulnerabilities and mitigation efforts vary by state and jurisdiction.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Franco Ordoñez"
+    ],
+    "url": "https://npr.org/2026/07/17/nx-s1-5897446/trump-promised-evidence-of-election-fraud-experts-say-there-was-none",
+    "published_at": "2026-07-17",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "media-civil-society"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a2d914",
+      "slug": "election-assistance-commission-independence",
+      "type": "news",
+      "title": "What the Election Assistance Commission Does — and Why Its Independence Matters",
+      "hook": "A little-known federal commission certifies voting machines and helps run U.S. elections. In 2026 the president removed its last sitting members, months before the midterms.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "card_c16f42",
+      "slug": "disinformation-and-propaganda",
+      "type": "concept",
+      "title": "Disinformation \u0026 Propaganda",
+      "hook": "Democracy depends on citizens being informed — so deliberately polluting what they know is a direct attack on it. That's the threat of propaganda and disinformation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_51131a",
+      "slug": "what-is-democracy",
+      "type": "concept",
+      "title": "What Democracy Means",
+      "hook": "Rule by the people: a system where political power ultimately traces back to citizens, usually through regular, free elections.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_872551",
+      "slug": "why-vote-counts-shift",
+      "type": "blog",
+      "title": "Why Vote Counts Shift After Election Night",
+      "hook": "Watch a close race and the leader can flip in the days after polls close. The usual cause is boring — who votes by mail, and when those ballots get counted — not fraud.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a71308#0",
+      "format": "flip",
+      "prompt": "Why doesn't declassifying a document about election vulnerabilities automatically count as new evidence of fraud?",
+      "back_html": "\u003cp\u003eDeclassification only changes who can \u003cstrong\u003esee\u003c/strong\u003e the document — it\ndoesn't change what's in it. Reviewers found this material mostly\nrestated vulnerabilities already known from a 2021 assessment.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a71308#1",
+      "format": "quiz",
+      "prompt": "What did President Trump's July 2026 primetime address claim, and what did it not provide?",
+      "choices": [
+        {
+          "text": "It claimed 'shocking vulnerabilities' in U.S. elections but provided no evidence a specific vote was actually altered",
+          "correct": true
+        },
+        {
+          "text": "It provided forensic proof that ballots were altered in the 2020 election",
+          "correct": false
+        },
+        {
+          "text": "It announced that all voting machines nationwide had been formally decertified",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer NPR, the address raised claims of vulnerability without new\nevidence that any vote was actually changed as a result.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a71308#2",
+      "format": "quiz",
+      "prompt": "What's the key distinction this story illustrates about 'vulnerability' versus 'fraud'?",
+      "choices": [
+        {
+          "text": "A system having a theoretical weakness is not the same as proof that weakness was actually exploited to change a result",
+          "correct": true
+        },
+        {
+          "text": "Vulnerabilities and fraud are legally defined as identical terms",
+          "correct": false
+        },
+        {
+          "text": "Only paper ballots can have vulnerabilities; electronic systems cannot",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eElection security debates often blur this line — a known weak point\nis not, by itself, evidence that anyone used it to alter an outcome.\u003c/p\u003e"
+    }
+  ]
+}

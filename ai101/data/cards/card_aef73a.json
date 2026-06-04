@@ -1,0 +1,88 @@
+{
+  "id": "card_aef73a",
+  "slug": "creators-ai-sponsorship-backlash",
+  "type": "news",
+  "title": "When Filmmakers Take the AI Sponsorship",
+  "hook": "Big filmmaking YouTubers pitched an AI video tool as the future of production. Their audiences — many of them working creatives — turned on them fast.",
+  "key_points": [
+    "Creators including Matti Haapoja and Sam 'Kold' Kolder posted videos demoing AI platform Higgsfield.",
+    "The videos showcased Higgsfield's newly added Seedance 2.5 video generation.",
+    "They framed the tools as the future of video production; viewers pushed back hard.",
+    "The friction is economic: the audience for filmmaking tutorials is people whose craft is being automated.",
+    "A useful lens on AI adoption — the fight is often about livelihoods, not image quality."
+  ],
+  "content_html": "\u003cp\u003eIn late August 2026, several prominent filmmaking YouTubers — among them Matti Haapoja and Sam \u0026quot;Kold\u0026quot; Kolder — posted videos showing off Higgsfield, an AI video platform, and its newly added Seedance 2.5 generation. The pitch was that this is where video production is heading. The response, The Verge reports, was a swift backlash.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe pattern is instructive beyond YouTube. These channels built their audiences by teaching people to shoot and edit; that audience is exactly the group whose skills a competent text-to-video tool devalues. So the argument that followed wasn't really about whether the clips looked good — it was about who profits and who gets displaced, and about a creator vouching for the thing eating their viewers' work. Expect the same shape wherever AI tools arrive in a craft community. Full story at The Verge.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Charles Pulliam-Moore"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "published_at": "2026-08-21",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-creativity",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_0c9316",
+      "slug": "ai-slop-movies-streaming",
+      "type": "news",
+      "title": "Cheap AI Movies Are Riding the Coattails of Real Blockbusters",
+      "hook": "As Christopher Nolan's big-budget Odyssey hit theaters, a fully AI-generated film with a nearly identical title quietly appeared online — the direct-to-video cash-grab playbook, remade with AI.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "card_beea3d",
+      "slug": "can-ai-be-creative",
+      "type": "concept",
+      "title": "Can AI Be Creative?",
+      "hook": "AI can write a poem or compose a tune that genuinely moves people. Whether that's 'real' creativity or very sophisticated remixing is a question with no settled answer — and it matters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_aef73a#0",
+      "format": "flip",
+      "prompt": "Why did AI-tool sponsorships hit filmmaking YouTubers especially hard?",
+      "back_html": "\u003cp\u003eTheir audience is largely working creatives, so promoting a tool that\nautomates video production reads as promoting against the viewers' livelihoods.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aef73a#1",
+      "format": "quiz",
+      "prompt": "What does this backlash suggest most disputes about generative video are really about?",
+      "choices": [
+        {
+          "text": "Whose work and income the tools displace",
+          "correct": true
+        },
+        {
+          "text": "Whether the generated clips are technically high-resolution",
+          "correct": false
+        },
+        {
+          "text": "Which company trained the model first",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe creators' demos were about capability; the response was about jobs and\ncraft. Adoption fights usually track livelihoods more than output quality.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "card_d6127d",
+  "slug": "inside-the-atom",
+  "type": "concept",
+  "title": "Inside the Atom",
+  "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+  "key_points": [
+    "A dense central nucleus holds protons (positive) and neutrons (neutral) — nearly all the atom's mass.",
+    "A cloud of electrons (negative) surrounds the nucleus, held by electric attraction.",
+    "The number of protons defines the element — change it and you change what it is.",
+    "Atoms are mostly empty space: the nucleus is a tiny speck at the center."
+  ],
+  "content_html": "\u003cp\u003eEverything you can touch is built from atoms, and each atom has a surprisingly simple architecture. At the center sits a tiny, dense nucleus made of protons, which carry positive charge, and neutrons, which carry none. Around it swarms a cloud of electrons, which are negative. The electric pull between the positive nucleus and the negative electrons is what holds the whole thing together.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat makes one element different from another is just the number of protons: one proton makes hydrogen, six makes carbon, 79 makes gold. The strangest part is how empty an atom is. The nucleus holds nearly all the mass but takes up almost none of the space, so if an atom were a stadium, the nucleus would be a marble at center field and the electrons a faint haze in the stands. Wikipedia lays out the structure and history of how we pieced this picture together.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Atom",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "atomic-nuclear"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2b87f5",
+      "slug": "electric-charge-and-current",
+      "type": "concept",
+      "title": "Electric Charge \u0026 Current",
+      "hook": "Everything electrical comes down to charge — and an electric current is simply charge on the move.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a1831a",
+      "slug": "radioactivity",
+      "type": "concept",
+      "title": "Radioactivity and Half-Life",
+      "hook": "You can't predict when a single unstable atom will decay, yet a huge sample decays on a clock so precise we use it to date rocks billions of years old.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_302533",
+      "slug": "nuclear-clock-thorium-229",
+      "type": "paper",
+      "title": "The First Clock That Ticks With a Nucleus",
+      "hook": "Atomic clocks keep time with jumps in an atom's electrons. Physicists just ran a clock that ticks on a jump inside the atom's nucleus instead — a far more shielded, stabler reference.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d6127d#0",
+      "format": "flip",
+      "prompt": "What determines which element an atom is?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003enumber of protons\u003c/strong\u003e in the nucleus. Hydrogen has one, carbon has\nsix, gold has 79 — change the proton count and you change the element.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d6127d#1",
+      "format": "quiz",
+      "prompt": "Where is almost all of an atom's mass located?",
+      "choices": [
+        {
+          "text": "In the tiny central nucleus",
+          "correct": true
+        },
+        {
+          "text": "Spread evenly through the electron cloud",
+          "correct": false
+        },
+        {
+          "text": "In the empty space between particles",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProtons and neutrons in the nucleus carry nearly all the mass, even though\nthe nucleus occupies a vanishingly small fraction of the atom's volume.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d6127d#2",
+      "format": "quiz",
+      "prompt": "What holds the electrons near the nucleus?",
+      "choices": [
+        {
+          "text": "Electric attraction between negative electrons and positive protons",
+          "correct": true
+        },
+        {
+          "text": "Magnetism from the neutrons",
+          "correct": false
+        },
+        {
+          "text": "Gravity from the nucleus's mass",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eElectrons are negative and protons are positive, so electric attraction\nbinds the electron cloud to the nucleus.\u003c/p\u003e"
+    }
+  ]
+}

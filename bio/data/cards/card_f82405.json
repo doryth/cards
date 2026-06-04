@@ -1,0 +1,83 @@
+{
+  "id": "card_f82405",
+  "slug": "can-memories-be-transferred",
+  "type": "blog",
+  "title": "Can a Memory Be Transferred — or Eaten?",
+  "hook": "In the 1960s, scientists trained flatworms, ground them up, and fed them to untrained worms — chasing the wild idea that a memory might be a molecule you could pass along.",
+  "key_points": [
+    "1960s worm-training experiments suggested learning might transfer between animals, even by feeding.",
+    "The hope: memory is stored in a molecule like RNA that could be moved from one brain to another.",
+    "The results never reliably replicated, and the molecular-memory idea fell out of favor.",
+    "Modern neuroscience locates memory in patterns of strengthened connections between neurons, not a single substance."
+  ],
+  "content_html": "\u003cp\u003eIn the 1960s, a series of worm-training experiments captivated the public — and some serious scientists. As Quanta Magazine columnist Claire L. Evans recounts, researchers trained flatworms to respond to stimuli, then asked a startling question: could that learning be passed on physically? Some experiments even ground up trained worms and fed them to untrained ones, testing whether a memory could literally be eaten.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBehind the spectacle was a real and tantalizing idea: that memory might be stored in a single kind of molecule — RNA was a leading suspect — which could be moved from one brain to another. If true, learning would be a transferable substance. But the results proved slippery and never reliably replicated, and the molecular-memory hypothesis faded. As Evans's essay revisits, the episode is a vivid reminder of how seductive a simple answer can be. Today neuroscientists locate memory not in one magic molecule but in patterns of strengthened connections among many neurons — a picture explored in the \u003cem\u003eMemory and Learning\u003c/em\u003e card.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Claire L. Evans"
+    ],
+    "url": "https://quantamagazine.org/are-memories-transferable-or-edible-20260605",
+    "published_at": "2026-06-05",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-08",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_c65348",
+      "slug": "memory-and-learning",
+      "type": "concept",
+      "title": "Memory and Learning",
+      "hook": "Every memory you hold is a pattern of connections between neurons — and learning is, quite literally, your brain rewiring itself to make those connections stronger.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_945f3f",
+      "slug": "neurons-and-signals",
+      "type": "concept",
+      "title": "Neurons and Signals",
+      "hook": "Your every thought, twitch, and feeling rides on tiny electrical pulses fired by neurons — and leaps the gaps between them as bursts of chemicals.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f82405#0",
+      "format": "flip",
+      "prompt": "What was the strange hope behind the 1960s worm-training experiments?",
+      "back_html": "\u003cp\u003eThat a \u003cstrong\u003ememory might be a molecule\u003c/strong\u003e — something like RNA — that could be\nphysically transferred from a trained animal to an untrained one, even by feeding.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f82405#1",
+      "format": "quiz",
+      "prompt": "How does modern neuroscience say memories are actually stored?",
+      "choices": [
+        {
+          "text": "As patterns of strengthened connections between many neurons",
+          "correct": true
+        },
+        {
+          "text": "As a single 'memory molecule' that can be eaten and absorbed",
+          "correct": false
+        },
+        {
+          "text": "In one dedicated memory cell per fact",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe molecular-transfer idea never reliably replicated. Memory lives in patterns\nof synaptic connections across many neurons — not in a transferable substance.\u003c/p\u003e"
+    }
+  ]
+}

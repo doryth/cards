@@ -1,0 +1,104 @@
+{
+  "id": "card_88e089",
+  "slug": "ai-kill-switch-bill",
+  "type": "news",
+  "title": "A Bill to Give AI an Emergency 'Kill Switch'",
+  "hook": "A bipartisan bill would let a US agency order AI companies to hit the brakes — shut a system down or throttle it. It's still just a proposal, but it puts a government 'off switch' on the table.",
+  "key_points": [
+    "The proposed 'AI Kill Switch Act' would let the Department of Homeland Security order companies to shut down or throttle AI systems.",
+    "It's bipartisan — Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) were set to introduce it, Politico reported via The Verge.",
+    "The idea: give the government an emergency brake if an AI system is judged a serious threat.",
+    "It's only a proposal — not law, and a long way from any vote.",
+    "A 'kill switch' is easy to picture but hard to build: modern AI runs across many machines and can be copied."
+  ],
+  "content_html": "\u003cp\u003eLawmakers are floating a literal off switch for AI. According to a Politico report relayed by The Verge, Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) were preparing to introduce an \u0026quot;AI Kill Switch Act\u0026quot; — a bill that would let the Department of Homeland Security order AI companies to shut down or throttle their systems.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe pitch is an emergency brake: if an AI system were judged a serious threat, the government could force the company running it to power it down or slow it to a crawl. The proposal is notably bipartisan, with a Democrat and a Republican named as sponsors — a sign that unease about powerful AI crosses party lines. But it's worth keeping the stage in mind: this is a proposed bill, not a law, and it has a long road through Congress before anything takes effect. It's also a reminder that a \u0026quot;kill switch\u0026quot; is far easier to picture than to build. Modern AI doesn't live on one computer you can unplug — it runs across many machines and can be copied — so an orderly, reliable shutdown is a genuinely hard technical problem, not just a policy one. For now the story is about intent: a growing appetite among lawmakers to hold an emergency lever over the technology.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+    "published_at": "2026-07-23",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-23",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dc90db",
+      "slug": "will-ai-take-over",
+      "type": "concept",
+      "title": "Will AI Take Over?",
+      "hook": "The Terminator scenario — AI 'waking up' and turning on us — isn't what serious researchers worry about. Their real concerns are more mundane and more immediate.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_88e089#0",
+      "format": "quiz",
+      "prompt": "What would the proposed 'AI Kill Switch Act' let the government do?",
+      "choices": [
+        {
+          "text": "Order AI companies to shut down or throttle systems judged a serious threat",
+          "correct": true
+        },
+        {
+          "text": "Ban all AI chatbots in the United States",
+          "correct": false
+        },
+        {
+          "text": "Require every AI answer to be fact-checked before you see it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe bill would give the Department of Homeland Security authority to order companies\nto power down or throttle an AI system — an emergency brake, not a blanket ban.\u003c/p\u003e"
+    },
+    {
+      "id": "card_88e089#1",
+      "format": "flip",
+      "prompt": "Is the 'AI Kill Switch Act' a law you have to follow?",
+      "back_html": "\u003cp\u003eNo. It's a proposed bill that lawmakers were set to introduce — not law, and a long\nway from any vote. Proposals often change or die before becoming rules.\u003c/p\u003e"
+    },
+    {
+      "id": "card_88e089#2",
+      "format": "flip",
+      "prompt": "Why is an AI 'kill switch' easier to imagine than to build?",
+      "back_html": "\u003cp\u003eModern AI systems run across many machines and can be copied, so there's rarely a\nsingle plug to pull — shutting one down cleanly is harder than it sounds.\u003c/p\u003e"
+    }
+  ]
+}

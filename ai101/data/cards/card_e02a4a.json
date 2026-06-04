@@ -1,0 +1,119 @@
+{
+  "id": "card_e02a4a",
+  "slug": "openai-jalapeno-chip",
+  "type": "news",
+  "title": "OpenAI Built Its Own Chip — and Grades Its Own Homework",
+  "hook": "OpenAI says its new Jalapeño chip answers faster and more efficiently than the competition. Note who's making the claim: the company selling the chip, in a blog post.",
+  "key_points": [
+    "OpenAI announced Jalapeño, its own AI chip, claiming faster responses and better efficiency than rival systems, per The Verge.",
+    "Hardware VP Richard Ho described it as the 'best of both worlds' — lower latency plus higher throughput.",
+    "Building your own chip reduces dependence on Nvidia, the bottleneck the whole industry buys through.",
+    "The performance numbers come from the vendor's own blog post, not independent testing.",
+    "The pattern is now standard: Google, Amazon, and Chinese labs are all designing in-house AI silicon."
+  ],
+  "content_html": "\u003cp\u003eOpenAI has announced its own AI chip, Jalapeño, and says it completes tasks more efficiently and returns answers faster than competing systems. In a briefing with reporters covered by The Verge, hardware vice president Richard Ho described it as the \u0026quot;best of both worlds\u0026quot;: lower latency — the wait before a reply starts — together with higher throughput, meaning more requests served at once.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhy a software company builds silicon is straightforward. Nearly everyone's models run on Nvidia hardware, which makes Nvidia the industry's chokepoint on both price and supply. A chip designed for your own models can shave the cost of every answer you serve and loosen your place in someone else's queue. That's why this is now a pattern rather than a surprise: Google has run its own TPUs for years, Amazon designs its own, and Chinese labs have been pushing hard toward domestic silicon under export controls.\u003c/p\u003e\n\u003cp\u003eThe part to file carefully is the evidence. Every number in this story originates in the vendor's blog post and its own briefing, where the vendor also chose which comparisons to run. That's not an accusation — it's just how launch benchmarks work, and it applies equally to Nvidia's slides. Wait for someone with no stake to measure it. Meanwhile, the strategic story stands on its own: the companies building the models increasingly want to own the machines underneath them, which concentrates a bit more of the AI stack inside a handful of firms.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "published_at": "2026-08-25",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency",
+    "inference"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_7f4f3f",
+      "slug": "deepseek-own-chips",
+      "type": "news",
+      "title": "Cut Off From Nvidia, DeepSeek Plans to Build Its Own Chips",
+      "hook": "US export controls were meant to slow Chinese AI by choking off advanced chips. DeepSeek's answer: stop depending on Nvidia and Huawei, and start making its own silicon.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d76205",
+      "slug": "compute-as-asset-class",
+      "type": "news",
+      "title": "Wall Street Wants to Turn Computing Power Into an Asset Class",
+      "hook": "Six of the biggest names in finance are working with Nvidia on $500 billion of financing built around GPUs — treating compute like real estate or oil.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-19"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e02a4a#0",
+      "format": "quiz",
+      "prompt": "Why would an AI lab design its own chip instead of buying Nvidia's?",
+      "choices": [
+        {
+          "text": "To cut cost and reduce dependence on a single supplier it competes for",
+          "correct": true
+        },
+        {
+          "text": "Because general-purpose chips can't run AI models at all",
+          "correct": false
+        },
+        {
+          "text": "To avoid needing data centers",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNvidia is the industry's bottleneck. Custom silicon tuned to your own models\ncan lower cost per answer and loosen your reliance on one vendor's queue.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e02a4a#1",
+      "format": "flip",
+      "prompt": "What's the catch with the speed claims in this announcement?",
+      "back_html": "\u003cp\u003eThey come from OpenAI's own blog post and briefing, not independent benchmarks.\nVendor-run comparisons pick the tests — treat them as claims until someone else measures.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e02a4a#2",
+      "format": "quiz",
+      "prompt": "What do 'lower latency' and 'higher throughput' mean for you as a user?",
+      "choices": [
+        {
+          "text": "Answers start arriving sooner, and more users can be served at once",
+          "correct": true
+        },
+        {
+          "text": "The model becomes more accurate and hallucinates less",
+          "correct": false
+        },
+        {
+          "text": "Your data stays on your own device",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLatency is the wait before a reply; throughput is how much work the hardware\nhandles in parallel. Both are about speed and cost, not correctness.\u003c/p\u003e"
+    }
+  ]
+}

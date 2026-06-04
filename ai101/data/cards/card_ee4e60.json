@@ -1,0 +1,110 @@
+{
+  "id": "card_ee4e60",
+  "slug": "meta-ai-layoffs-lawsuit",
+  "type": "news",
+  "title": "A Lawsuit Claims AI, Not People, Picked Who Meta Laid Off",
+  "hook": "Being screened by AI isn't just about getting hired — a new lawsuit claims Meta used AI-driven performance data to decide who to fire, allegedly targeting workers on medical leave.",
+  "key_points": [
+    "Ars Technica and The Verge report 26 former Meta employees are suing over layoff decisions.",
+    "The suit claims Meta used a 'constellation' of internal AI tools to score and target workers.",
+    "It alleges the targeting disproportionately hit employees on leave for disabilities or illness.",
+    "Meta denies using AI to terminate workers with disabilities and medical problems.",
+    "It's a mirror image of AI hiring screens — the same automated scoring, now used to decide who goes."
+  ],
+  "content_html": "\u003cp\u003eMost conversations about being \u0026quot;judged by AI\u0026quot; focus on getting in the door — a résumé screener, a loan algorithm. A new lawsuit reported by Ars Technica and The Verge points to the other end of the employment relationship: getting pushed out. Twenty-six former Meta employees are suing the company, alleging that its layoff decisions were driven by AI rather than human judgment.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe complaint claims Meta drew on a \u0026quot;constellation\u0026quot; of internal AI tools that tracked employee performance data, and that this scoring system disproportionately targeted workers who were on leave for disabilities or medical conditions — exactly the kind of protected group anti-discrimination law exists to shield. Meta denies using AI to terminate workers because of disabilities or medical problems, and the underlying facts will be argued out in court. But the shape of the allegation is instructive regardless of how the case resolves: the same automated scoring systems praised for making hiring \u0026quot;faster and more consistent\u0026quot; can, in principle, make the \u003cem\u003eopposite\u003c/em\u003e decision just as opaquely — who to let go, with a model rather than a manager doing the sorting. If you work somewhere that uses performance analytics tools, it's a reminder that the questions worth asking about AI hiring screens — what data feeds the score, who can see it, what recourse exists — apply just as much on the way out.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jon Brodkin"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
+    "published_at": "2026-07-14",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-hiring",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_fc554a",
+      "slug": "being-judged-by-ai",
+      "type": "concept",
+      "title": "Being Judged by AI",
+      "hook": "An algorithm may now screen your résumé, score your loan, or rank your rental application before any human sees it. Knowing that — and your rights — is the first step to a fair shot.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b4f14c",
+      "slug": "ai-and-jobs",
+      "type": "concept",
+      "title": "AI \u0026 Jobs",
+      "hook": "AI is less likely to take your whole job than to take certain tasks within it. The pattern through history: tools reshape work faster than they erase it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_fc554a",
+      "slug": "being-judged-by-ai",
+      "type": "concept",
+      "title": "Being Judged by AI",
+      "hook": "An algorithm may now screen your résumé, score your loan, or rank your rental application before any human sees it. Knowing that — and your rights — is the first step to a fair shot.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_ee4e60#0",
+      "format": "quiz",
+      "prompt": "What does the lawsuit against Meta allege about its layoff process?",
+      "choices": [
+        {
+          "text": "That AI tools scored workers and disproportionately targeted those on medical leave",
+          "correct": true
+        },
+        {
+          "text": "That Meta refused to use any automated tools in its layoffs",
+          "correct": false
+        },
+        {
+          "text": "That the layoffs were randomly generated by a lottery",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer the reporting, former employees allege Meta used internal AI performance\ntools to determine who to lay off, and that this disproportionately hit\nworkers on leave for disabilities or medical issues. Meta denies this.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ee4e60#1",
+      "format": "flip",
+      "prompt": "How does this case relate to AI screening job applicants?",
+      "back_html": "\u003cp\u003eIt's the same basic risk in reverse — instead of an algorithm deciding who\ngets hired, one allegedly helped decide who gets let go, with the same\nconcerns about opaque scoring and hidden bias.\u003c/p\u003e"
+    }
+  ]
+}

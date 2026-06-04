@@ -1,0 +1,128 @@
+{
+  "id": "card_6dbcda",
+  "slug": "senate-confirmation-hearings",
+  "type": "news",
+  "title": "The Hearing Before the Job: How Senate Confirmation Works",
+  "hook": "Cabinet secretaries don't just get appointed — the Senate gets a vote first. A contentious July 2026 hearing for the next attorney general shows the confirmation gauntlet at work.",
+  "key_points": [
+    "The Constitution's 'advice and consent' clause requires Senate confirmation for Cabinet officials, federal judges, and many other top posts.",
+    "A nominee testifies at a public committee hearing, where senators question their record, before a floor vote decides confirmation.",
+    "In July 2026, Acting AG Todd Blanche — already confirmed once as the Justice Department's No. 2 official — faced a second, more contentious hearing to become permanent attorney general.",
+    "The same week, a separate Senate committee held its own confirmation hearing for a CDC director nominee, showing how many agencies cycle through this same process.",
+    "A hearing lets senators who lack the votes to block a nominee still question them publicly and put objections on the record."
+  ],
+  "content_html": "\u003cp\u003eGetting a job as a Cabinet secretary, federal judge, or other senior official isn't just a presidential decision. The Constitution's \u0026quot;advice and consent\u0026quot; clause hands the Senate a check on that power: a nominee doesn't take office until senators have had their say and voted to confirm.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn practice, that means a public hearing before the relevant committee, where senators — from both parties — question the nominee's record, positions, and fitness for the job, before a committee vote and then a full Senate floor vote. NPR's Ryan Lucas reported that Acting Attorney General Todd Blanche faced exactly this in July 2026: already confirmed once, as the Justice Department's No. 2 official, he returned to Capitol Hill for a second, more contentious hearing seeking the top job on a permanent basis. The same week, a separate Senate committee ran a CDC director nominee through the identical process — a reminder that dozens of top posts across the government cycle through this same gauntlet, often in parallel. Even senators who lack the votes to block a nominee still get something from the hearing: a public, on-the-record chance to press them on positions and past conduct, which is part of why these sessions can turn contentious regardless of the outcome.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Ryan Lucas"
+    ],
+    "url": "https://npr.org/2026/07/15/nx-s1-5891870/todd-blanche-senate-confirmation-attorney-general",
+    "published_at": "2026-07-15",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-15",
+  "related": [
+    {
+      "id": "card_015396",
+      "slug": "checks-and-balances",
+      "type": "concept",
+      "title": "Checks and Balances",
+      "hook": "Separating power isn't enough — each branch also gets tools to limit the others, so power keeps power in check.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_63346f",
+      "slug": "the-legislature",
+      "type": "concept",
+      "title": "The Legislature",
+      "hook": "The branch that makes the law is also where a society argues out loud — the legislature turns competing interests into binding rules through debate and votes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3e760d",
+      "slug": "the-executive",
+      "type": "concept",
+      "title": "The Executive",
+      "hook": "Laws don't enforce themselves. The executive is the branch that runs the state day to day — carrying out the law, commanding the bureaucracy, and acting in a crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_015396",
+      "slug": "checks-and-balances",
+      "type": "concept",
+      "title": "Checks and Balances",
+      "hook": "Separating power isn't enough — each branch also gets tools to limit the others, so power keeps power in check.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_6dbcda#0",
+      "format": "flip",
+      "prompt": "What does the Constitution's 'advice and consent' clause require before a Cabinet nominee can take office?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eSenate confirmation\u003c/strong\u003e — a majority floor vote, usually after a public\ncommittee hearing where senators question the nominee's fitness and record.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6dbcda#1",
+      "format": "quiz",
+      "prompt": "Why did Todd Blanche face a Senate hearing in July 2026 even though he'd already been confirmed once?",
+      "choices": [
+        {
+          "text": "He was nominated for a different, higher post — permanent attorney general, not deputy AG",
+          "correct": true
+        },
+        {
+          "text": "The Senate requires every official to be reconfirmed each year",
+          "correct": false
+        },
+        {
+          "text": "His first confirmation had been ruled invalid by a court",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEach distinct Senate-confirmed position requires its own confirmation,\neven for someone already serving in a related role.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6dbcda#2",
+      "format": "quiz",
+      "prompt": "What can a confirmation hearing let senators do, even without the votes to block a nominee?",
+      "choices": [
+        {
+          "text": "Publicly question the nominee and put their objections on the record",
+          "correct": true
+        },
+        {
+          "text": "Automatically postpone the floor vote indefinitely",
+          "correct": false
+        },
+        {
+          "text": "Force the nominee to withdraw on the spot",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe hearing itself has value as public accountability — a recorded,\non-camera chance to press a nominee — separate from whether the vote\nto confirm ultimately succeeds.\u003c/p\u003e"
+    }
+  ]
+}

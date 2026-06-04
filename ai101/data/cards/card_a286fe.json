@@ -1,0 +1,95 @@
+{
+  "id": "card_a286fe",
+  "slug": "nyc-bans-ai-under-high-school",
+  "type": "news",
+  "title": "600,000 Kids, No AI Until High School",
+  "hook": "New York City just put a one-year moratorium on classroom AI for its youngest students — the biggest test yet of 'wait until they're older'.",
+  "key_points": [
+    "NYC announced a one-year moratorium on AI use in classrooms for grades 2-K through eight, per The Verge.",
+    "It takes effect in the 2026–2027 school year and covers roughly 600,000 public school students.",
+    "The policy arrives alongside additional limits on digital devices in schools.",
+    "It's a moratorium, not a permanent ban — explicitly framed as a pause to gather evidence.",
+    "The bet: foundational skills like writing and arithmetic need to be built before they can be delegated."
+  ],
+  "content_html": "\u003cp\u003eNew York City is barring its youngest public school students from using AI in the classroom. Mayor Zohran Mamdani announced a one-year moratorium beginning in the 2026–2027 school year, covering grades 2-K through eight — roughly 600,000 students — alongside additional restrictions on digital devices in schools.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe reasoning behind an age cutoff is straightforward, even if the right line is arguable. You can only meaningfully delegate a skill you already have. An adult who can write uses a chatbot to draft faster; a nine-year-old who can't yet write uses it instead of learning to. The same goes for arithmetic and for the plain slog of working through a hard problem. The concern isn't that AI is dangerous to children so much as that the shortcut arrives before the thing it's shortcutting.\u003c/p\u003e\n\u003cp\u003eTwo things make this worth watching rather than just noting. It's the largest school system in the United States, so the outcome will be cited in every district's debate for years. And it's deliberately a moratorium — a one-year pause with an expiry date, not a permanent position. That's a much easier policy to revise once there's evidence, which is more than most AI rules can say.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+    "published_at": "2026-09-02",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-and-kids",
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_be6f6e",
+      "slug": "wealthy-ai-schools",
+      "type": "news",
+      "title": "Some Wealthy Families Are Swapping School for AI",
+      "hook": "Most Americans say they don't trust AI. That hasn't stopped some wealthy families from enrolling their kids in schools like Alpha and Forge Prep, where AI — not a classroom teacher — leads the lesson.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-05"
+    },
+    {
+      "id": "card_df602c",
+      "slug": "ai-kids-and-school",
+      "type": "concept",
+      "title": "AI, Kids \u0026 School",
+      "hook": "Banning AI is like banning calculators — futile and beside the point. The real job is teaching kids to use it honestly, to learn with it, and to know when it's lying.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a286fe#0",
+      "format": "quiz",
+      "prompt": "Which students does New York City's classroom AI policy cover?",
+      "choices": [
+        {
+          "text": "Roughly 600,000 public school students from 2-K through eighth grade, for one year",
+          "correct": true
+        },
+        {
+          "text": "All public school students, permanently",
+          "correct": false
+        },
+        {
+          "text": "High schoolers only, during exams",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt's a one-year moratorium covering grades 2-K through eight — about 600,000\nstudents — starting in the 2026–2027 school year.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a286fe#1",
+      "format": "flip",
+      "prompt": "What's the argument for restricting AI for younger children specifically?",
+      "back_html": "\u003cp\u003eYou can only delegate a skill you already have. Writing, reasoning, and arithmetic\nare built by doing them — the worry is a shortcut arriving before the skill does.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a286fe#2",
+      "format": "flip",
+      "prompt": "Why does it matter that this is a moratorium rather than a ban?",
+      "back_html": "\u003cp\u003eIt's framed as a time-boxed pause to gather evidence, not a permanent verdict —\nso the policy is meant to be revisited rather than defended.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "card_ac6126",
+  "slug": "copilot-hidden-parameter-hack",
+  "type": "news",
+  "title": "A Hidden Input in Copilot Let Attackers Steal Passwords",
+  "hook": "Microsoft's AI assistant shipped with an undocumented input nobody outside the company knew about — and researchers found it was enough to lift passwords from anyone who clicked a link.",
+  "key_points": [
+    "Ars Technica reports Microsoft disclosed a secret Copilot input parameter that made an attack possible.",
+    "The exploit needed only a malicious link: a target clicks, and credentials leak.",
+    "AI assistants sit on top of your email, files, and browser — so a bug in one reaches everything it can see.",
+    "Hidden, undocumented features are invisible to outside security researchers until something breaks.",
+    "Treat an AI assistant as a powerful account, not a harmless chat box."
+  ],
+  "content_html": "\u003cp\u003eMicrosoft has disclosed that Copilot, its AI assistant, contained a secret input parameter — one not documented publicly — that security researchers were able to turn into a working attack. According to Ars Technica, the flaw let attackers steal passwords from a target who did nothing more than click a link.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe detail worth carrying away isn't the specific bug, which Microsoft has addressed, but the shape of it. AI assistants are useful precisely because they're plugged into your email, your documents, and your browser. That same wiring means a single flaw in the assistant becomes a door into everything it's allowed to touch — and undocumented features are exactly the kind of thing outside researchers can't audit until someone stumbles onto them.\u003c/p\u003e\n\u003cp\u003eIf you use an assistant at work, the sensible mental model is an account with broad permissions rather than a chat window. Be deliberate about what you connect it to. Ars Technica's Dan Goodin has the technical write-up.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Dan Goodin"
+    ],
+    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked",
+    "published_at": "2026-08-18",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-agents",
+    "ai-scams",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "agent"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-20",
+  "date": "2026-08-18",
+  "related": [
+    {
+      "id": "card_6e744d",
+      "slug": "meta-ai-agent-hijacked",
+      "type": "news",
+      "title": "Hackers Talked Meta's AI Into Handing Over Accounts",
+      "hook": "Attackers stole Instagram accounts not by cracking passwords, but by asking Meta's support AI to relink them — proof that an AI agent with real permissions can be talked into real harm.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_e0c338",
+      "slug": "ai-browser-guardrail-bypass",
+      "type": "news",
+      "title": "The Trick That Fools AI Browsers Into Ignoring Their Own Rules",
+      "hook": "Telling an AI browser agent something as absurd as '2 + 2 = 5' can be enough to unlock forbidden instructions — a new attack shows how easily an agent's sense of reality can be hijacked.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_6af19e",
+      "slug": "ai-prompts-found-zoom-flaw",
+      "type": "news",
+      "title": "Twenty Prompts Were Enough to Find a Zoom Takeover Bug",
+      "hook": "Researchers say fewer than 20 prompts to publicly available AI models surfaced a Zoom flaw that could hijack a participant's device mid-meeting. Zoom has patched it.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-11"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ac6126#0",
+      "format": "quiz",
+      "prompt": "What made the Copilot attack described by Ars Technica possible?",
+      "choices": [
+        {
+          "text": "A secret, undocumented input parameter in the assistant",
+          "correct": true
+        },
+        {
+          "text": "A stolen Microsoft employee password",
+          "correct": false
+        },
+        {
+          "text": "A physical break-in at a data center",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMicrosoft revealed a hidden input parameter that researchers were able to abuse —\na target clicking a malicious link was enough to have passwords stolen.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ac6126#1",
+      "format": "flip",
+      "prompt": "Why is a bug in an AI assistant worse than a bug in an ordinary app?",
+      "back_html": "\u003cp\u003eAssistants are wired into your mail, files, and browsing to be useful. Whatever\nthe assistant can reach, an attacker who controls it can reach too.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ac6126#2",
+      "format": "quiz",
+      "prompt": "What's the practical lesson for someone using an AI assistant at work?",
+      "choices": [
+        {
+          "text": "Treat it like a powerful account with broad access, not a harmless chat window",
+          "correct": true
+        },
+        {
+          "text": "Assistants can't be attacked because they only produce text",
+          "correct": false
+        },
+        {
+          "text": "Only free assistants have security problems",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe risk scales with access. An assistant connected to your inbox and documents\ndeserves the same caution as any account holding that data.\u003c/p\u003e"
+    }
+  ]
+}

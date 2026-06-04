@@ -1,0 +1,100 @@
+{
+  "id": "card_2af5da",
+  "slug": "using-pain-relievers-safely",
+  "type": "concept",
+  "title": "Using Pain Relievers Safely",
+  "hook": "The pain relievers in your medicine cabinet are safe used right — and surprisingly risky used wrong. Knowing the two main types and their limits is the whole game.",
+  "key_points": [
+    "Acetaminophen and NSAIDs (like ibuprofen, naproxen) work differently and have different risks.",
+    "Don't exceed the daily acetaminophen limit — overdose can cause serious liver damage.",
+    "Acetaminophen hides in many combo cold and pain products; doses can add up unnoticed.",
+    "NSAIDs can irritate the stomach and stress the kidneys, especially with long use.",
+    "Read labels, follow dosing, and ask a pharmacist if you're unsure."
+  ],
+  "content_html": "\u003cp\u003eOver-the-counter pain relievers fall into two big families that work differently. Acetaminophen (the active ingredient in Tylenol) eases pain and fever, while NSAIDs — ibuprofen, naproxen, and aspirin — also reduce inflammation. Each is safe within its limits, but each carries its own cautions worth understanding.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe FDA's central warning about acetaminophen is the daily-dose ceiling: taking more than directed can cause serious, even fatal, liver damage. The trap is that acetaminophen is an ingredient in many combination products — cold, flu, and prescription pain medicines — so it's easy to double up without realizing it. Reading labels for \u0026quot;acetaminophen\u0026quot; (or \u0026quot;APAP\u0026quot;) and not stacking products is the key safeguard. NSAIDs carry a different profile: they can irritate the stomach lining and raise the risk of ulcers or bleeding, and they can strain the kidneys, particularly at high doses or with prolonged use or in people with kidney or heart concerns. The practical takeaway across both: read the Drug Facts label, stick to the stated dose and timing, avoid duplicating active ingredients, and ask a pharmacist if anything is unclear.\u003c/p\u003e",
+  "source": {
+    "name": "U.S. FDA",
+    "url": "https://www.fda.gov/drugs/information-drug-class/acetaminophen-information",
+    "license": "Public domain (U.S. FDA)"
+  },
+  "topic_ids": [
+    "medication-safety"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_12a631",
+      "slug": "taking-medicines-safely",
+      "type": "concept",
+      "title": "Taking Medicines Safely",
+      "hook": "Medicines help only when used right. Most medication mishaps are preventable with a few habits — reading the label, knowing your list, and asking questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3a556a",
+      "slug": "antibiotics-use-them-right",
+      "type": "concept",
+      "title": "Antibiotics: Use Them Right",
+      "hook": "Antibiotics are miracle drugs against bacteria — and useless against viruses like colds and flu. Using them when they won't help fuels a genuinely dangerous problem.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5acd3d",
+      "slug": "caring-for-a-cold-or-flu-at-home",
+      "type": "concept",
+      "title": "Caring for a Cold or Flu at Home",
+      "hook": "Most colds and flu run their course on their own. Good home care is about comfort and rest — and knowing the handful of red flags that mean it's time to get checked.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_eafebe",
+      "slug": "opioids-and-acute-pain",
+      "type": "news",
+      "title": "The Largest Opioid Review Yet: Often No Better Than Placebo",
+      "hook": "The biggest review yet of opioids for short-term pain found their benefits are often small and brief — and for some surgeries and kidney stones, no better than a placebo.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2af5da#0",
+      "format": "quiz",
+      "prompt": "Why is it easy to accidentally take too much acetaminophen?",
+      "choices": [
+        {
+          "text": "It's an ingredient in many combination cold and pain products, so doses add up",
+          "correct": true
+        },
+        {
+          "text": "It has no maximum daily dose, so any amount is fine",
+          "correct": false
+        },
+        {
+          "text": "It is only sold by prescription, so doses are hard to track",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAcetaminophen appears in many over-the-counter combination products. Taking\nseveral at once can push you over the daily limit, which the FDA warns can\ncause serious liver damage.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2af5da#1",
+      "format": "flip",
+      "prompt": "What are the main cautions for NSAIDs like ibuprofen and naproxen?",
+      "back_html": "\u003cp\u003eNSAIDs can \u003cstrong\u003eirritate the stomach\u003c/strong\u003e (risk of ulcers and bleeding) and\n\u003cstrong\u003estress the kidneys\u003c/strong\u003e, especially with high doses or long-term use. Follow\nthe label dose and check with a pharmacist or doctor if you take them often.\u003c/p\u003e"
+    }
+  ]
+}

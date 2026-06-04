@@ -1,0 +1,108 @@
+{
+  "id": "card_a1b171",
+  "slug": "nonlinear-thermoelectrics-at-room-temperature",
+  "type": "paper",
+  "title": "A crystal that turns heat into voltage differently in each direction",
+  "hook": "Heat this crystal from the left and you get one voltage; heat it from the right and you get another — no magnets involved. Two Weyl semimetals just showed it works at room temperature.",
+  "key_points": [
+    "Thermoelectric materials turn a temperature difference into voltage; normally reversing the gradient just flips the sign.",
+    "In low-symmetry crystals a second-order response survives, so the two directions are genuinely not mirror images.",
+    "The team measured this in the type-II Weyl semimetals Td-WTe2 and TaIrTe4, up to room temperature.",
+    "No magnetic field or magnetic material is needed — the effect comes from the crystal's own reduced symmetry.",
+    "They resolved every symmetry-allowed component: nonlinear Seebeck, nonlinear Nernst and mixed-directional effects.",
+    "Both Berry curvature and electron scattering contribute, dominating different components of the response."
+  ],
+  "content_html": "\u003cp\u003eA thermoelectric material converts a temperature difference into a voltage — the effect behind thermocouples and waste-heat harvesters. Ordinarily it is a strictly reciprocal business: reverse the temperature gradient and the voltage simply flips sign. But in crystals with low enough symmetry, a second-order term survives that does not flip, meaning heating the sample from one side genuinely is not the mirror image of heating it from the other.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNonlinear \u003cem\u003eelectrical\u003c/em\u003e transport has recently emerged as an intrinsic property of low-symmetry quantum materials, but the thermoelectric counterpart had not been demonstrated. Kurea Nakagawa, Bart J. van Wees, Marcos H. D. Guimarães and colleagues report it in the type-II Weyl semimetals Td-WTe₂ and TaIrTe₄, using harmonic detection combined with gradient-reversal techniques, and see it persist up to room temperature — with no magnetic field or magnetic material anywhere in the setup. They resolve all symmetry-allowed components of the second-order thermoelectric tensor, including nonlinear Seebeck, nonlinear Nernst and mixed-directional effects, and show that Berry-curvature-related and scattering-induced contributions govern different components. The takeaway they draw is that nonlinear thermoelectricity arises intrinsically from reduced crystal symmetry, opening a route to higher-order heat-to-charge conversion beyond linear response.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Kurea Nakagawa",
+      "Krishnaraajan Sundararajan",
+      "Cédric A. Cordero-Silis",
+      "Bart J. van Wees",
+      "Marcos H. D. Guimarães"
+    ],
+    "url": "https://arxiv.org/abs/2607.21808",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "heat-thermo"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_eb9e3e",
+      "slug": "electric-field-boosts-heat-flow",
+      "type": "news",
+      "title": "An Electric Field Trick That Nearly Triples Heat Flow",
+      "hook": "Zap a ceramic crystal with an electric field and heat suddenly flows through it almost three times faster in one direction — a jump far beyond anything researchers expected.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "card_53b5e1",
+      "slug": "programmable-heat-material",
+      "type": "news",
+      "title": "A Material That Remembers How It Radiates Heat",
+      "hook": "Most materials just leak heat the same way forever. This one can be switched between heat-radiating modes with a magnetic field — and it keeps its setting even after the field is gone.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_b123c0",
+      "slug": "semiconductors-and-transistors",
+      "type": "concept",
+      "title": "Semiconductors and the Transistor",
+      "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a1b171#0",
+      "format": "flip",
+      "prompt": "What makes a thermoelectric response 'nonlinear' or nonreciprocal?",
+      "back_html": "\u003cp\u003eA second-order term that does not simply flip sign when the temperature gradient is reversed —\nso heating from one side is not the mirror image of heating from the other.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a1b171#1",
+      "format": "quiz",
+      "prompt": "What makes the nonlinear thermoelectric effect in these materials 'intrinsic'?",
+      "choices": [
+        {
+          "text": "It arises from the crystal's own reduced symmetry, with no magnetic field or magnetic material needed",
+          "correct": true
+        },
+        {
+          "text": "It only appears under a strong applied magnetic field",
+          "correct": false
+        },
+        {
+          "text": "It requires the sample to be cooled close to absolute zero",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors observed the effect in Td-WTe2 and TaIrTe4 in the absence of magnetic fields or\nmagnetic materials — it follows from the low crystal symmetry itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a1b171#2",
+      "format": "flip",
+      "prompt": "Which two mechanisms govern the different nonlinear thermoelectric components?",
+      "back_html": "\u003cp\u003eBerry-curvature-related contributions and scattering-induced contributions, with each\ndominating different symmetry-allowed components of the response.\u003c/p\u003e"
+    }
+  ]
+}

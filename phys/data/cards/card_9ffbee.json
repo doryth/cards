@@ -1,0 +1,118 @@
+{
+  "id": "card_9ffbee",
+  "slug": "time-emerges-without-a-clock",
+  "type": "news",
+  "title": "A Tiny Lab Universe Where Time Emerged on Its Own",
+  "hook": "What if time isn't a built-in feature of the universe, but something that emerges from change itself? A physicist built a 24,000-atom 'mini universe' with no external clock — and time appeared anyway.",
+  "key_points": [
+    "University of Birmingham physicist Giovanni Barontini split 24,000 ultracold atoms into an 'observed' and 'unobserved' region using two laser beams.",
+    "With no external clock, time instead emerged from entropy: as atoms redistributed between the two regions, the system moved forward in what Barontini calls 'entropic time.'",
+    "When the atom distribution stopped changing, time effectively came to a halt in the system.",
+    "The result supports the idea, tied to the Wheeler-DeWitt equation, that time isn't fundamental but emerges from relationships between a system's parts."
+  ],
+  "content_html": "\u003cp\u003ePhysics normally treats time as a given: a clock ticks somewhere outside the system you're studying, and everything else evolves relative to it. But what if there's no clock at all? University of Birmingham physicist Giovanni Barontini built a stripped-down quantum system to find out.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHis setup used 24,000 ultracold atoms, chilled to billionths of a degree above absolute zero, split by two laser beams of different frequencies into a \u0026quot;bright,\u0026quot; observed region and a \u0026quot;dark,\u0026quot; unobserved region inside an isolated chamber — with no external clock feeding the system any information about time. Instead, time emerged from entropy: as atoms redistributed between the bright and dark regions, the system moved forward in what Barontini calls \u0026quot;entropic time.\u0026quot; When the atom distribution stopped changing, time in the system effectively came to a halt. The result is consistent with ideas tied to the Wheeler-DeWitt equation in quantum gravity, which suggests time isn't a built-in feature of the universe at all, but something that emerges from relationships between a system's own components. Barontini's team also showed the Schrödinger equation can be reformulated using this entropic time and still describe quantum mechanics consistently. Published in \u003cem\u003ePhysical Review Research\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260709160632.htm",
+    "published_at": "2026-07-09",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-13",
+  "date": "2026-07-09",
+  "related": [
+    {
+      "id": "card_eb3c68",
+      "slug": "making-quantum-time-flow-backward",
+      "type": "news",
+      "title": "Physicists Made a Quantum System's Arrow of Time Run Backward",
+      "hook": "By carefully steering quantum measurements, researchers made a system behave as if time were flowing in reverse — and found they could harvest energy from the trick itself.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d18019",
+      "slug": "bose-einstein-condensate",
+      "type": "news",
+      "title": "The Fifth State of Matter, Made in Space",
+      "hook": "Chill a gas to a hair above absolute zero and its atoms stop acting like a crowd and merge into one quantum entity. In orbit, weightlessness lets that strange state last even longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9ffbee#0",
+      "format": "flip",
+      "prompt": "How was this 'mini universe' built, and why does it matter that it had no external clock?",
+      "back_html": "\u003cp\u003eFrom \u003cstrong\u003e24,000 ultracold atoms\u003c/strong\u003e split by lasers into an 'observed' and 'unobserved' region,\nwith no clock feeding the system a sense of time from outside.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9ffbee#1",
+      "format": "quiz",
+      "prompt": "Where did time 'come from' in this experiment, since there was no external clock?",
+      "choices": [
+        {
+          "text": "From entropy changes, as atoms redistributed between the two regions — 'entropic time'",
+          "correct": true
+        },
+        {
+          "text": "From a hidden atomic clock built into the apparatus",
+          "correct": false
+        },
+        {
+          "text": "Time didn't actually pass in the experiment at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBarontini calls this 'entropic time': the system's forward progress tracked how the atom\ndistribution changed, not any external timekeeper.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9ffbee#2",
+      "format": "flip",
+      "prompt": "What happened to time in the system once the atom distribution stopped changing?",
+      "back_html": "\u003cp\u003eTime \u003cstrong\u003eeffectively came to a halt\u003c/strong\u003e — with nothing left to change, there was nothing left\nto mark time's passage.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9ffbee#3",
+      "format": "quiz",
+      "prompt": "What broader idea about time does this experiment lend support to?",
+      "choices": [
+        {
+          "text": "That time isn't a fundamental feature of the universe, but emerges from relationships between a system's parts",
+          "correct": true
+        },
+        {
+          "text": "That time flows at the same rate everywhere in the universe, always",
+          "correct": false
+        },
+        {
+          "text": "That quantum mechanics requires an external clock to work at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThis connects to the Wheeler-DeWitt equation, which suggests time may not be built into\nthe universe's fundamental description — it can emerge instead.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "card_05f960",
+  "slug": "food-chains-and-webs",
+  "type": "concept",
+  "title": "Food Chains \u0026 Energy Flow",
+  "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+  "key_points": [
+    "Producers (plants, algae) capture energy; consumers eat to get it secondhand.",
+    "A food web is the tangle of interconnected food chains in an ecosystem.",
+    "Only about 10% of energy passes to the next level — the rest is lost mostly as heat.",
+    "That energy loss is why top predators are few and chains rarely run more than 4-5 links."
+  ],
+  "content_html": "\u003cp\u003eEnergy is the real currency of an ecosystem, and a food chain traces its path. It almost always starts with producers — plants, algae, and some bacteria — that capture sunlight through photosynthesis and lock it into sugar. Animals can't do this, so they eat to get their energy secondhand: herbivores eat producers, and carnivores eat the herbivores. In reality these chains crisscross into a food web, since most creatures eat, and are eaten by, several others.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch is that energy doesn't transfer cleanly. At each step, an organism spends most of the energy it takes in on simply living — moving, growing, staying warm — and much is lost as heat. As a rough rule, only about 10% of the energy at one level makes it into the next. That leak has a big consequence: the higher you go, the less energy is left to go around, which is why ecosystems support vast numbers of plants but only a handful of top predators, and why food chains rarely stretch beyond four or five links. Khan Academy illustrates the pyramid of energy and where it all goes.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/flow-of-energy-and-matter-through-ecosystems",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "ecology",
+    "energy-in-life"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_4be834",
+      "slug": "photosynthesis",
+      "type": "concept",
+      "title": "Photosynthesis",
+      "hook": "Plants pull carbon dioxide from the air and water from the soil, and using only sunlight, build sugar — releasing the oxygen you're breathing right now.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a13f41",
+      "slug": "ecosystems-and-interdependence",
+      "type": "concept",
+      "title": "Ecosystems \u0026 Interdependence",
+      "hook": "An ecosystem is a community of living things plus their environment, all so tangled together that pulling one thread can shake the whole web.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_05f960#0",
+      "format": "flip",
+      "prompt": "What is a producer in a food chain?",
+      "back_html": "\u003cp\u003eAn organism that makes its own food and \u003cstrong\u003ecaptures energy\u003c/strong\u003e — like a plant or\nalga doing photosynthesis. Producers are the base every food chain rests on.\u003c/p\u003e"
+    },
+    {
+      "id": "card_05f960#1",
+      "format": "quiz",
+      "prompt": "Roughly how much energy passes from one feeding level to the next?",
+      "choices": [
+        {
+          "text": "About 10% — most is lost, largely as heat",
+          "correct": true
+        },
+        {
+          "text": "About 90% — very little is lost",
+          "correct": false
+        },
+        {
+          "text": "All of it — energy transfers perfectly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOnly around a tenth of the energy at one level is captured by the next; the\nrest is used up or lost as heat, which is why food chains stay short.\u003c/p\u003e"
+    },
+    {
+      "id": "card_05f960#2",
+      "format": "quiz",
+      "prompt": "Why are there usually far fewer top predators than plants in an ecosystem?",
+      "choices": [
+        {
+          "text": "So much energy is lost at each step that little remains to support high levels",
+          "correct": true
+        },
+        {
+          "text": "Predators choose to keep their numbers low",
+          "correct": false
+        },
+        {
+          "text": "Plants are simply easier to count",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEach transfer wastes most of the available energy, so the amount left shrinks\nsharply up the chain — supporting only a few top predators.\u003c/p\u003e"
+    }
+  ]
+}

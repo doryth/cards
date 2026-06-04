@@ -1,0 +1,111 @@
+{
+  "id": "card_52d8f2",
+  "slug": "heat-transfer",
+  "type": "concept",
+  "title": "Three Ways Heat Moves",
+  "hook": "Heat travels three ways: conduction through contact, convection by circulating fluid, and radiation across empty space. Most warming you feel mixes all three.",
+  "key_points": [
+    "Conduction: heat passes through direct contact, like a metal spoon warming in soup.",
+    "Convection: warm fluid rises and circulates, like boiling water or the weather.",
+    "Radiation: heat travels as electromagnetic waves, how the Sun warms you across empty space.",
+    "Everyday heating usually blends all three at once."
+  ],
+  "content_html": "\u003cp\u003eHeat always flows from warmer to cooler, but it gets there by three different routes. In conduction, heat passes through direct contact — leave a metal spoon in hot soup and the handle warms up as the heat travels along the solid. In convection, a heated fluid expands, rises, and circulates, carrying its warmth with it; it's what stirs a pot of boiling water and drives the planet's weather. In radiation, heat travels as electromagnetic waves, needing no material at all — which is how the Sun's warmth crosses the vacuum of space to reach you.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMost real situations are a mix. A campfire warms your front by radiation, heats the air above it by convection, and the warmth creeping up a stick you're holding is conduction. Engineers exploit and fight all three at once — insulating a house, cooling a laptop, or designing a thermos that blocks every path. Wikipedia's article on heat transfer breaks down the three modes and how they combine.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heat_transfer",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "heat-thermo"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_eff6e4",
+      "slug": "heat-vs-temperature",
+      "type": "concept",
+      "title": "Heat vs. Temperature",
+      "hook": "A sparkler can hit thousands of degrees yet barely burn you — because temperature and heat are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3ad16a",
+      "slug": "states-of-matter",
+      "type": "concept",
+      "title": "States of Matter",
+      "hook": "Solid, liquid, gas, plasma — the difference is how tightly particles are bound. Add heat and matter changes state, but during the change the temperature holds still.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_095eee",
+      "slug": "radiative-heat-at-the-nanoscale",
+      "type": "news",
+      "title": "Heat Radiation Breaks Its Own Speed Limit",
+      "hook": "Textbooks cap how much heat two surfaces can radiate at each other. Squeeze the gap to a few nanometers and that limit shatters — researchers saw up to 4x more heat flow.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_52d8f2#0",
+      "format": "flip",
+      "prompt": "What are the three ways heat moves?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eConduction\u003c/strong\u003e (through direct contact), \u003cstrong\u003econvection\u003c/strong\u003e (circulating warm\nfluid), and \u003cstrong\u003eradiation\u003c/strong\u003e (electromagnetic waves across space).\u003c/p\u003e"
+    },
+    {
+      "id": "card_52d8f2#1",
+      "format": "quiz",
+      "prompt": "How does the Sun's heat reach Earth across the vacuum of space?",
+      "choices": [
+        {
+          "text": "By radiation — electromagnetic waves that need no medium",
+          "correct": true
+        },
+        {
+          "text": "By conduction through the air between us and the Sun",
+          "correct": false
+        },
+        {
+          "text": "By convection currents in outer space",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eConduction and convection need matter to carry the heat, but radiation\ntravels as electromagnetic waves through empty space.\u003c/p\u003e"
+    },
+    {
+      "id": "card_52d8f2#2",
+      "format": "quiz",
+      "prompt": "A metal spoon left in hot soup gets hot at the handle. Which mode is that?",
+      "choices": [
+        {
+          "text": "Conduction — heat passing through direct contact within the metal",
+          "correct": true
+        },
+        {
+          "text": "Radiation from the soup to the handle",
+          "correct": false
+        },
+        {
+          "text": "Convection inside the solid spoon",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHeat passes along the solid metal by direct contact between neighboring\nparticles — that's conduction.\u003c/p\u003e"
+    }
+  ]
+}

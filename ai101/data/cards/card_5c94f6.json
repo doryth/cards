@@ -1,0 +1,98 @@
+{
+  "id": "card_5c94f6",
+  "slug": "perplexity-personal-computer",
+  "type": "news",
+  "title": "An AI That Runs Your Windows PC For You",
+  "hook": "Perplexity's Personal Computer now works on Windows — a 'general-purpose digital worker' that opens your files and apps and does things, rather than just talking about them.",
+  "key_points": [
+    "Perplexity brought its agentic Personal Computer tool from Mac to Windows.",
+    "It's pitched as a 'general-purpose digital worker' with access to your local files and apps.",
+    "The AI runs locally on your machine rather than only in a browser tab.",
+    "This is the chat-to-agent shift: from answering questions to taking actions on your behalf.",
+    "Anything that can open your files can also mis-open them — access is the whole risk."
+  ],
+  "content_html": "\u003cp\u003ePerplexity has expanded Personal Computer — its agentic desktop tool — from the Mac to Windows, putting it on the operating system most people actually use. The pitch is a \u0026quot;general-purpose digital worker\u0026quot;: software that reaches into your local files and applications and gets things done, rather than answering questions in a chat window.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is the shift from chatbot to agent, arriving on ordinary consumer machines. The upside is obvious the first time it saves you a tedious half hour of clicking through folders. The thing to be clear-eyed about is that capability and exposure are the same property: an assistant powerful enough to open your documents, send your email, and rearrange your desktop is also powerful enough to do those things wrong, or to be talked into doing them by content it encounters along the way. If you try tools like this, start on work you can afford to have go sideways, watch what it actually does the first few times, and don't hand it access to anything you'd hate to lose.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+    "published_at": "2026-07-28",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-agents",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-07-28",
+  "related": [
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d8f877",
+      "slug": "ai-agents-not-coworkers",
+      "type": "news",
+      "title": "Calling an AI Agent Your 'Coworker' Backfires",
+      "hook": "Companies are giving AI agents names and org-chart spots like real employees. Research says that framing makes people worse at their jobs — catching fewer errors and dodging responsibility.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_e8725c",
+      "slug": "chatgpt-work-atlas-shutdown",
+      "type": "news",
+      "title": "OpenAI Kills Its AI Browser, Bets on an Agent That Works For You",
+      "hook": "Less than a year after launching an AI browser, OpenAI is shutting it down — and replacing the ambition behind it with 'ChatGPT Work,' an agent built to run independent tasks for hours at a time.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5c94f6#0",
+      "format": "flip",
+      "prompt": "What separates an AI 'agent' like this from an ordinary chatbot?",
+      "back_html": "\u003cp\u003eA chatbot answers; an agent acts. Perplexity's Personal Computer can reach into\nyour local files and applications and carry out multi-step tasks on the machine\nitself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5c94f6#1",
+      "format": "quiz",
+      "prompt": "Where's the main risk in giving an AI agent access to your computer?",
+      "choices": [
+        {
+          "text": "The same file and app access that makes it useful lets its mistakes touch real data",
+          "correct": true
+        },
+        {
+          "text": "It uses more electricity than a web search",
+          "correct": false
+        },
+        {
+          "text": "It stops other programs from running",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCapability and exposure are the same thing here — an agent that can open your\ndocuments can also alter or leak them when it gets something wrong.\u003c/p\u003e"
+    }
+  ]
+}

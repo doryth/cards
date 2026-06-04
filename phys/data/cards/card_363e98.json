@@ -1,0 +1,114 @@
+{
+  "id": "card_363e98",
+  "slug": "shallow-circuit-quantum-advantage",
+  "type": "paper",
+  "title": "Quantum Advantage From an Extremely Shallow Circuit",
+  "hook": "A proof of quantumness you can check on a laptop, run by a quantum circuit only log-log-deep — no mid-circuit measurements, no feed-forward, just run the circuit and sample.",
+  "key_points": [
+    "The task: a sampling problem easy for a shallow quantum circuit but hard for classical polynomial-time algorithms.",
+    "Hardness rests on lattice assumptions, specifically Learning With Errors (LWE).",
+    "Crucially, a purely classical computer can efficiently verify the quantum device's output.",
+    "Two implementations: log-log-depth circuits with 1- and 2-qubit gates, or constant-depth circuits with unbounded fan-in gates.",
+    "Unlike earlier low-depth proofs of quantumness, it needs no mid-circuit measurement or feed-forward.",
+    "The price is stronger, less standard assumptions — including a strengthened adaptive-hardcore-bit property of LWE."
+  ],
+  "content_html": "\u003cp\u003eClaiming a quantum computer did something classically impossible is easy; proving it is the hard\npart. A \u0026quot;proof of quantumness\u0026quot; is a task that is hard for classical machines under a standard\ncryptographic assumption, yet whose answers a classical verifier can check efficiently. Alexandru\nGheorghiu shows such a task can be solved by a startlingly shallow quantum circuit.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe construction compiles an earlier LWE-based single-round proof of quantumness down to very low\ndepth, in two flavours: log-logarithmic-depth circuits built from one- and two-qubit gates, or\nconstant-depth circuits allowed unbounded fan-in gates. The practical appeal is what it drops.\nPrevious low-depth protocols needed mid-circuit measurements and feed-forward — measure some\nqubits, then apply gates conditioned on the result — which is awkward on real hardware. Here the\nquantum device just runs a shallow circuit and samples its output distribution. The cost, as the\npaper is explicit about, is stronger assumptions: a lattice knowledge assumption plus a\nstrengthened form of LWE's adaptive-hardcore-bit property, for which the author offers supporting\nevidence. The conceptual takeaway is that shallow circuits already carry enough structure to do\nclassically hard, classically checkable work.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Alexandru Gheorghiu"
+    ],
+    "url": "https://arxiv.org/abs/2609.01448",
+    "published_at": "2026-09-01",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-09-01",
+  "related": [
+    {
+      "id": "card_9ababf",
+      "slug": "quantum-speedups-need-structure-or-depth",
+      "type": "paper",
+      "title": "Why Quantum Speedups Need Structure",
+      "hook": "A long-standing conjecture says quantum computers can't beat classical ones on unstructured problems. It's now settled for parallel algorithms — and depth is the deciding resource.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_b1fdb9",
+      "slug": "quantum-proofs-more-powerful",
+      "type": "news",
+      "title": "Quantum Proofs Really Are More Powerful Than Classical Ones",
+      "hook": "For 20+ years it was open whether a 'quantum-shaped' proof gives a quantum computer more power than checking an ordinary one. Researchers just found strong evidence that it does.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_259dad",
+      "slug": "certified-fidelity-for-hard-quantum-circuits",
+      "type": "paper",
+      "title": "Proving You Really Ran the Hard Quantum Circuit",
+      "hook": "Quantum advantage demos have a credibility gap: the circuits are hard to check. This one carries its own error-detecting certificate.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-28"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_363e98#0",
+      "format": "flip",
+      "prompt": "What is a 'proof of quantumness'?",
+      "back_html": "\u003cp\u003eA task a quantum device can do but a classical computer provably cannot do efficiently,\nwhose answers a classical verifier can still check — evidence the device is really quantum.\u003c/p\u003e"
+    },
+    {
+      "id": "card_363e98#1",
+      "format": "quiz",
+      "prompt": "What makes this construction easier to run on hardware than earlier low-depth proofs of quantumness?",
+      "choices": [
+        {
+          "text": "It needs no mid-circuit measurements or feed-forward — just run the shallow circuit and sample",
+          "correct": true
+        },
+        {
+          "text": "It requires no qubits at all, only classical randomness",
+          "correct": false
+        },
+        {
+          "text": "It works without any error correction because the circuit is fault-tolerant by design",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMid-circuit measurement and conditional gate application are hard on real devices. Removing\nthem reduces the protocol to a single shallow circuit plus output sampling.\u003c/p\u003e"
+    },
+    {
+      "id": "card_363e98#2",
+      "format": "flip",
+      "prompt": "What is the trade-off the author accepts for pushing the depth this low?",
+      "back_html": "\u003cp\u003eReliance on less standard cryptographic assumptions: a lattice knowledge assumption plus a\nstrengthened variant of LWE's adaptive-hardcore-bit property.\u003c/p\u003e"
+    }
+  ]
+}

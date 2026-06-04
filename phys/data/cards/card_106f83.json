@@ -1,0 +1,130 @@
+{
+  "id": "card_106f83",
+  "slug": "first-single-black-hole-binary-in-pulsar-timing",
+  "type": "paper",
+  "title": "Picking One Black Hole Binary Out of the Hum",
+  "hook": "Pulsar timing arrays hear a nanohertz hum from countless supermassive black hole pairs. The next milestone is resolving a single one — here is what it will look like.",
+  "key_points": [
+    "Several pulsar timing arrays report evidence for a nanohertz gravitational-wave background, thought to be the blended signal of many inspiraling supermassive black hole binaries.",
+    "A key test of that interpretation is finding one individual binary loud enough to stand out above the background.",
+    "The authors simulate binary populations constrained by the measured background and study the loudest system in each realisation.",
+    "If MeerKAT keeps its current strategy for 9 years total, the chance of resolving an individual binary is about 10-27%.",
+    "Doubling timing precision helps a little; quadrupling the observing cadence helps more; doing both gives roughly 12-33%.",
+    "High-cadence campaigns preferentially catch binaries above ~10 nHz, whose short orbital periods make optical follow-up far more practical."
+  ],
+  "content_html": "\u003cp\u003eA pulsar timing array turns the Milky Way into a detector. Millisecond pulsars tick with extraordinary regularity, and a passing gravitational wave nudges those ticks early or late by nanoseconds. Several collaborations now report evidence for a nanohertz background in that data — a low hum thought to be the superposition of countless supermassive black hole binaries spiraling together in merged galaxies across cosmic history.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEvidence for a hum is not proof of its source, though. The cleanest confirmation would be a single binary loud enough to rise above the crowd. Houlden, Thrane and Auchettl ask what that first resolvable system is likely to be, and how observing strategy changes the odds. They simulate populations of supermassive black hole binaries constrained by the measured background and examine the loudest binary in each realisation.\u003c/p\u003e\n\u003cp\u003eIf MeerKAT continues its current observing strategy for nine years in total, they put the probability of detecting an individual binary at roughly 10–27%. Improving timing precision twofold nudges that to about 11–28%; quadrupling the cadence does rather better, about 12–30%; combining both yields around 12–33%. The more interesting finding is qualitative: a high-cadence campaign preferentially resolves higher-frequency systems, above roughly 10 nHz. Those binaries have shorter orbital periods, which makes any accompanying periodic brightening far easier to catch with the current generation of high-cadence all-sky optical surveys — so cadence buys not just a detection, but a detection you can point a telescope at.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Blaze Houlden",
+      "Eric Thrane",
+      "Katie Auchettl"
+    ],
+    "url": "https://arxiv.org/abs/2608.25715",
+    "published_at": "2026-08-26",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper",
+    "benchmark"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_67d2a9",
+      "slug": "stochastic-gravitational-wave-background-limits",
+      "type": "paper",
+      "title": "Closing In on the Gravitational-Wave Hum",
+      "hook": "Every merger the universe has ever had leaves a faint background rumble. LIGO-Virgo-KAGRA still can't hear it — but their new limit is now within a factor of a few of where it should be.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0ef6c9",
+      "slug": "spotting-black-hole-pairs-by-starlight-flashes",
+      "type": "news",
+      "title": "Catching Black Hole Pairs by Their Flicker",
+      "hook": "Tightly bound supermassive black hole pairs are nearly invisible. A new idea: watch for stars that flash as the black holes' gravity bends and magnifies their light.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_106f83#0",
+      "format": "flip",
+      "prompt": "Why would resolving a single binary matter, given the background is already detected?",
+      "back_html": "\u003cp\u003eThe background is a blend, so its origin is inferred rather than seen. Picking out one\nindividual supermassive black hole binary would directly confirm that the hum really\ncomes from such systems.\u003c/p\u003e"
+    },
+    {
+      "id": "card_106f83#1",
+      "format": "quiz",
+      "prompt": "Which observing change most improved the odds of resolving an individual binary?",
+      "choices": [
+        {
+          "text": "Quadrupling the cadence — observing more often — beat doubling the timing precision",
+          "correct": true
+        },
+        {
+          "text": "Doubling the timing precision, which dominated all other factors",
+          "correct": false
+        },
+        {
+          "text": "Neither; only extending the campaign beyond 9 years changed anything",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDoubling precision moved the probability from ~10-27% to ~11-28%; quadrupling cadence\nmoved it to ~12-30%, and combining both gave ~12-33%.\u003c/p\u003e"
+    },
+    {
+      "id": "card_106f83#2",
+      "format": "quiz",
+      "prompt": "Why do high-cadence campaigns produce binaries that are easier to identify with telescopes?",
+      "choices": [
+        {
+          "text": "They favour higher-frequency systems, whose shorter orbital periods repeat often enough to spot electromagnetically",
+          "correct": true
+        },
+        {
+          "text": "They favour nearer binaries, which are simply brighter",
+          "correct": false
+        },
+        {
+          "text": "They reduce the sky-localisation area to a single galaxy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSampling more often gives sensitivity above ~10 nHz. Those binaries orbit faster, so any\nperiodic electromagnetic signature recurs on a timescale a survey can actually catch.\u003c/p\u003e"
+    }
+  ]
+}

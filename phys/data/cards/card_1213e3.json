@@ -1,0 +1,141 @@
+{
+  "id": "card_1213e3",
+  "slug": "quantum-mpemba-effect",
+  "type": "paper",
+  "title": "The Quantum Mpemba Effect: Starting Further Away, Arriving Sooner",
+  "hook": "Hot water sometimes freezes faster than cold. A quantum version shows up in spin chains: states that begin further from equilibrium can relax to it first.",
+  "key_points": [
+    "The Mpemba effect is the classical oddity where a hotter sample can cool past a colder one.",
+    "The quantum analogue: a state further from equilibrium restores a broken symmetry faster.",
+    "Their probe is an 'entanglement asymmetry' for the Kramers-Wannier symmetry of the Ising chain.",
+    "At equilibrium it crosses over sharply between ordered and disordered phases, dipping at criticality.",
+    "After a quench to criticality the asymmetry decays to zero — the symmetry is dynamically restored.",
+    "Under the right conditions, the further-from-equilibrium state gets there first."
+  ],
+  "content_html": "\u003cp\u003eThe Mpemba effect is one of physics' favourite embarrassments: under some conditions, hot water freezes faster than cold water. It offends intuition because the hot sample has further to go. Milo Vescovo, Pasquale Calabrese and Filiberto Ares find the same reversal inside a quantum many-body system — and in a place nobody had looked.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir setting is the Kramers-Wannier duality of the transverse-field Ising chain, the textbook example of a \u0026quot;non-invertible\u0026quot; symmetry: a symmetry-like operation that can't be undone, and whose behaviour away from criticality and out of equilibrium was largely unmapped. The authors introduce a Kramers-Wannier entanglement asymmetry — a quantum-information measure of how badly that symmetry is broken in a subsystem. In equilibrium it behaves sharply: a striking crossover between the ordered and disordered phases, with a pronounced dip at the critical point that grows sharper as the subsystem gets larger. Then they quench the chain from either gapped phase to criticality and watch the asymmetry decay to zero, meaning the non-invertible symmetry is dynamically restored. And within that relaxation sits the surprise: under suitable conditions, states prepared \u003cem\u003efurther\u003c/em\u003e from equilibrium restore the symmetry faster than states prepared closer. The authors give both analytical and numerical evidence and identify the mechanism behind it, arguing that entanglement asymmetry is a sharp new probe of what non-invertible symmetries do when a system is driven out of equilibrium.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Milo Vescovo",
+      "Pasquale Calabrese",
+      "Filiberto Ares"
+    ],
+    "url": "https://arxiv.org/abs/2607.21226",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "heat-thermo"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eb3c68",
+      "slug": "making-quantum-time-flow-backward",
+      "type": "news",
+      "title": "Physicists Made a Quantum System's Arrow of Time Run Backward",
+      "hook": "By carefully steering quantum measurements, researchers made a system behave as if time were flowing in reverse — and found they could harvest energy from the trick itself.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "card_02ca0c",
+      "slug": "absolute-zero",
+      "type": "concept",
+      "title": "Absolute Zero: The Coldest Possible Temperature",
+      "hook": "There's no limit to how hot things can get, but cold has a floor. At absolute zero, −273°C, particle motion bottoms out — and you can get achingly close but never quite reach it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_1213e3#0",
+      "format": "quiz",
+      "prompt": "What is the quantum Mpemba effect, as seen in this work?",
+      "choices": [
+        {
+          "text": "States starting further from equilibrium can restore the broken symmetry faster than states starting closer",
+          "correct": true
+        },
+        {
+          "text": "Quantum systems always reach equilibrium at exactly the same rate",
+          "correct": false
+        },
+        {
+          "text": "Cooling a quantum system makes it more entangled",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt mirrors the classical Mpemba oddity of hot water freezing first: being further from\nequilibrium initially does not mean taking longer to get there.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1213e3#1",
+      "format": "flip",
+      "prompt": "What does 'entanglement asymmetry' measure here?",
+      "back_html": "\u003cp\u003eHow badly a symmetry is broken in a subsystem — in this case the Kramers-Wannier symmetry of the\ntransverse-field Ising chain. It decays to zero when the symmetry is dynamically restored.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1213e3#2",
+      "format": "quiz",
+      "prompt": "What happens to the Kramers-Wannier asymmetry at the critical point in equilibrium?",
+      "choices": [
+        {
+          "text": "It shows a pronounced dip that sharpens as the subsystem grows",
+          "correct": true
+        },
+        {
+          "text": "It diverges to infinity",
+          "correct": false
+        },
+        {
+          "text": "It stays perfectly flat across the transition",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors find a striking crossover between the ordered and disordered phases together with a\npronounced dip at criticality, becoming increasingly sharp with subsystem size.\u003c/p\u003e"
+    }
+  ]
+}

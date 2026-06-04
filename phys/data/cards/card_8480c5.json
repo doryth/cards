@@ -1,0 +1,110 @@
+{
+  "id": "card_8480c5",
+  "slug": "optical-centrifuge-spins-molecules-in-superfluid",
+  "type": "news",
+  "title": "Spinning Molecules Inside a Superfluid With Light",
+  "hook": "Superfluids flow with zero friction. Physicists built a laser 'centrifuge' that can spin a single molecule inside one at a controlled, steady rate — a step toward watching friction reappear.",
+  "key_points": [
+    "An optical centrifuge uses a rotating laser pulse to spin individual molecules, but earlier versions spun them too fast and abruptly to control well.",
+    "Researchers added a brief delay between laser pulses, producing slower, steadier rotation that molecules can actually follow.",
+    "The technique worked on nitric oxide dimers embedded in helium nano-droplets — a superfluid quantum liquid.",
+    "It's the first controlled demonstration of spinning a molecule inside a superfluid, opening the door to finding the exact point where superfluidity breaks down."
+  ],
+  "content_html": "\u003cp\u003eA superfluid, like ultracold liquid helium, flows without any friction at all — a strange quantum state where the ordinary rules of viscosity simply stop applying. Physicists have long wanted to probe exactly how and where that frictionless behavior gives way, but doing so means precisely controlling motion at the scale of a single molecule.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team led by Valery Milner at the University of British Columbia, working with the University of Freiburg, found a way to do it. Their tool is an \u0026quot;optical centrifuge\u0026quot; — a rotating laser pulse that spins a molecule — but earlier versions spun molecules too fast and too abruptly to follow cleanly. By introducing a brief delay between successive laser pulses, the team produced a slower, steadier rotation that a molecule could actually keep up with, effectively increasing how \u0026quot;spinnable\u0026quot; it is. Testing the technique on nitric oxide dimers embedded in helium nano-droplets, they achieved the first controlled demonstration of spinning a molecule inside a superfluid. The next step, the team says, is dialing the rotation rate up and down to find the exact point where a molecule's spin starts to lag — the signature of superfluidity breaking down at the atomic scale. Published in \u003cem\u003ePhysical Review Letters\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260625014840.htm",
+    "published_at": "2026-07-04",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "heat-thermo"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-04",
+  "related": [
+    {
+      "id": "card_02ca0c",
+      "slug": "absolute-zero",
+      "type": "concept",
+      "title": "Absolute Zero: The Coldest Possible Temperature",
+      "hook": "There's no limit to how hot things can get, but cold has a floor. At absolute zero, −273°C, particle motion bottoms out — and you can get achingly close but never quite reach it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d18019",
+      "slug": "bose-einstein-condensate",
+      "type": "news",
+      "title": "The Fifth State of Matter, Made in Space",
+      "hook": "Chill a gas to a hair above absolute zero and its atoms stop acting like a crowd and merge into one quantum entity. In orbit, weightlessness lets that strange state last even longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "card_3ad16a",
+      "slug": "states-of-matter",
+      "type": "concept",
+      "title": "States of Matter",
+      "hook": "Solid, liquid, gas, plasma — the difference is how tightly particles are bound. Add heat and matter changes state, but during the change the temperature holds still.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_02ca0c",
+      "slug": "absolute-zero",
+      "type": "concept",
+      "title": "Absolute Zero: The Coldest Possible Temperature",
+      "hook": "There's no limit to how hot things can get, but cold has a floor. At absolute zero, −273°C, particle motion bottoms out — and you can get achingly close but never quite reach it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_8480c5#0",
+      "format": "flip",
+      "prompt": "What is an optical centrifuge, in this experiment?",
+      "back_html": "\u003cp\u003eA rotating laser pulse used to \u003cstrong\u003espin individual molecules\u003c/strong\u003e — like a tiny, light-powered\ncentrifuge aimed at a single particle.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8480c5#1",
+      "format": "quiz",
+      "prompt": "What change let researchers finally control molecular rotation inside a superfluid?",
+      "choices": [
+        {
+          "text": "Adding a brief delay between laser pulses, producing slower, steadier rotation",
+          "correct": true
+        },
+        {
+          "text": "Cooling the superfluid to an even lower temperature",
+          "correct": false
+        },
+        {
+          "text": "Using a much more powerful laser pulse",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEarlier optical centrifuges spun molecules too fast and abruptly for the molecule to\nfollow smoothly. Spacing the pulses out let the rotation ramp up gradually instead.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8480c5#2",
+      "format": "flip",
+      "prompt": "What long-term question is this technique aimed at answering?",
+      "back_html": "\u003cp\u003eExactly where and how \u003cstrong\u003esuperfluidity breaks down\u003c/strong\u003e at the molecular scale — a transition\npoint that remains poorly understood.\u003c/p\u003e"
+    }
+  ]
+}

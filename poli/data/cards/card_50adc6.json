@@ -1,0 +1,140 @@
+{
+  "id": "card_50adc6",
+  "slug": "dont-trust-the-name-on-the-pac",
+  "type": "news",
+  "title": "Don't Trust the Name on the PAC",
+  "hook": "The cheapest way to disguise who is talking to voters isn't a lie in the ad — it's a reassuring name on the group paying for it.",
+  "key_points": [
+    "Political action committees choose their own names, and the name is often the only clue a voter has about who is behind a message.",
+    "Two law scholars report that PACs are adopting names signalling the opposite of the goals they actually pursue.",
+    "They report research indicating the tactic works — voters update their views based on the label.",
+    "Disclosure rules mostly require naming the spender, not naming it honestly, so a misleading name can be fully legal.",
+    "The defence is procedural: check the committee's filings and funders rather than trusting the label."
+  ],
+  "content_html": "\u003cp\u003eCampaign finance disclosure rests on a simple bet: if voters can see who is paying for a message, they can discount it appropriately. The bet has a gap in it. Rules generally require that a spender be \u003cem\u003enamed\u003c/em\u003e, not that it be named honestly — and a political action committee picks its own name. Brian Sheppard and Andrew Moshirnia, law scholars writing in The Conversation, report that PACs are exploiting this by adopting names that signal the opposite of the political goals the group actually pursues, and that research indicates the strategy is working on voters.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe reason it works is cognitive rather than legal. Almost nobody looks up a committee's filings before absorbing an ad, so the name does the interpretive work: a group called something evocative of veterans, teachers, or fiscal restraint gets read as being \u003cem\u003eof\u003c/em\u003e those constituencies, and a mailer arriving from a group whose name suggests one side's values lands very differently than the same mailer from the other side. Counter-signalling names can even be used to depress support for a candidate by ostensibly praising them to the wrong audience. Two implications follow. For institutions, the finding suggests that transparency requirements without truthfulness requirements can be gamed — which is why some reform proposals target names, top-donor disclosure in the ad itself, or plain-language \u0026quot;paid for by\u0026quot; identification. For an individual reading political mail, the practical rule is narrow and usable: treat the committee name as marketing, and treat the disclosure record — who actually funded it — as the evidence.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Brian Sheppard",
+      "Andrew Moshirnia"
+    ],
+    "url": "https://theconversation.com/dont-trust-the-name-on-the-pac-289340",
+    "published_at": "2026-08-12",
+    "license": "CC BY-ND (The Conversation)"
+  },
+  "topic_ids": [
+    "media-civil-society",
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_1bbd2b",
+      "slug": "interest-groups-and-lobbying",
+      "type": "concept",
+      "title": "Interest Groups \u0026 Lobbying",
+      "hook": "Between elections, organized groups press their case to government every day. Lobbying is how that pressure is applied — and it's both a feature and a worry of democracy.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cecb76",
+      "slug": "party-spending-and-campaign-finance",
+      "type": "news",
+      "title": "Party Spending \u0026 Campaign Finance",
+      "hook": "Since Watergate, a law has capped how much a political party can spend directly coordinating with its own candidate. In 2026 the Supreme Court struck that cap down.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_c16f42",
+      "slug": "disinformation-and-propaganda",
+      "type": "concept",
+      "title": "Disinformation \u0026 Propaganda",
+      "hook": "Democracy depends on citizens being informed — so deliberately polluting what they know is a direct attack on it. That's the threat of propaganda and disinformation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6f4cbe",
+      "slug": "capping-super-pac-contributions",
+      "type": "news",
+      "title": "The Distinction That Could Reshape Super PACs",
+      "hook": "Citizens United protects unlimited independent spending. Maine's law doesn't touch spending — it caps what one donor may give the committee doing the spending. That gap is now in court.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-08"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_1bbd2b",
+      "slug": "interest-groups-and-lobbying",
+      "type": "concept",
+      "title": "Interest Groups \u0026 Lobbying",
+      "hook": "Between elections, organized groups press their case to government every day. Lobbying is how that pressure is applied — and it's both a feature and a worry of democracy.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_50adc6#0",
+      "format": "flip",
+      "prompt": "Why is a PAC's name such an effective disguise?",
+      "back_html": "\u003cp\u003eDisclosure typically requires naming the spender, not naming it truthfully —\nand for most voters the name is the only available cue about who is behind\nthe message.\u003c/p\u003e"
+    },
+    {
+      "id": "card_50adc6#1",
+      "format": "quiz",
+      "prompt": "What tactic do Sheppard and Moshirnia describe?",
+      "choices": [
+        {
+          "text": "PACs adopting names that signal the opposite of the goals they actually pursue",
+          "correct": true
+        },
+        {
+          "text": "PACs refusing to file any disclosure reports",
+          "correct": false
+        },
+        {
+          "text": "PACs paying voters directly to attend rallies",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThey report committees choosing counter-signalling names to manipulate voter\nperception — and research suggesting it succeeds.\u003c/p\u003e"
+    },
+    {
+      "id": "card_50adc6#2",
+      "format": "quiz",
+      "prompt": "What is a voter's practical defence against a misleading committee name?",
+      "choices": [
+        {
+          "text": "Look up the committee's filings and who funds it, rather than trusting the label",
+          "correct": true
+        },
+        {
+          "text": "Assume any group with a positive name is trustworthy",
+          "correct": false
+        },
+        {
+          "text": "Wait for the group to be prosecuted",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause the name itself is largely unregulated, the reliable signal is the\ndisclosure record showing the actual money behind the group.\u003c/p\u003e"
+    }
+  ]
+}

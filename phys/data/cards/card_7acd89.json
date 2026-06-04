@@ -1,0 +1,82 @@
+{
+  "id": "card_7acd89",
+  "slug": "new-jersey-meteorite-life-ingredients",
+  "type": "news",
+  "title": "A Meteorite Through a Roof, and a Clue to Life's Ingredients",
+  "hook": "A rock that punched through a New Jersey house turned out to be a pristine piece of a primitive asteroid — carrying amino acids and traces of ancient salty water.",
+  "key_points": [
+    "The meteorite was recovered almost immediately after falling, so it had little time to be contaminated by Earth's water and biology.",
+    "Analysis found organic compounds and amino acids — the building blocks of proteins — plus minerals that only form in the presence of liquid water.",
+    "Those minerals imply the parent asteroid once hosted briny fluids, meaning water chemistry ran inside small bodies early in the Solar System.",
+    "Freshly fallen, quickly collected meteorites are scientifically far more valuable than ones found after years on the ground.",
+    "The find supports the idea that asteroid impacts delivered some of the prebiotic chemistry that early Earth needed."
+  ],
+  "content_html": "\u003cp\u003eA rock crashed through the roof of a house in New Jersey. Because it was picked up almost immediately, it became something rarer than a meteorite: an uncontaminated sample of a primitive asteroid, and researchers have now found it carries both organic compounds and the mineral fingerprints of ancient salty water.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMost meteorites are found long after they land, by which point Earth's rain, soil, and microbes have thoroughly muddled their chemistry — which makes any organic molecules inside them suspect. A fresh fall avoids that problem. The analysis turned up amino acids, the units proteins are built from, alongside minerals that can only form where liquid water was present. That combination says the parent asteroid was warm and wet enough, early in Solar System history, to run water-based chemistry inside itself. It is a concrete data point for a long-standing idea: that the young Earth did not have to invent all of life's precursor molecules from scratch, because incoming space rocks were already stocked with them.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260807035145.htm",
+    "published_at": "2026-08-08"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-08",
+  "related": [
+    {
+      "id": "card_4d9ce5",
+      "slug": "meteorite-that-killed-dinosaurs",
+      "type": "news",
+      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
+      "hook": "The asteroid that ended the dinosaurs' long reign turns out to be an exceptionally rare type of space rock — and its chemistry rewrites how it actually killed them.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "card_a1dd7d",
+      "slug": "shattered-asteroid-bombarded-earth",
+      "type": "news",
+      "title": "A Shattered Asteroid May Have Bombarded Earth 800 Million Years Ago",
+      "hook": "One asteroid shattering near a gravitational 'gateway' carved out by Jupiter may explain a wave of impact craters across the inner solar system — and a climate shakeup on Earth.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-18"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7acd89#0",
+      "format": "flip",
+      "prompt": "Why is a meteorite recovered within days of falling so much more valuable than one found years later?",
+      "back_html": "\u003cp\u003eIt has barely been contaminated by Earth's water, microbes, and weathering — so\norganic molecules found inside can be attributed to the asteroid rather than to\nterrestrial contamination.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7acd89#1",
+      "format": "quiz",
+      "prompt": "What did the minerals in this meteorite reveal about its parent asteroid?",
+      "choices": [
+        {
+          "text": "Salty liquid water once flowed through it",
+          "correct": true
+        },
+        {
+          "text": "It formed in the atmosphere of a gas giant",
+          "correct": false
+        },
+        {
+          "text": "It was once part of the Moon's crust",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCertain minerals only form in contact with liquid water. Their presence, along\nwith organic compounds and amino acids, points to briny fluids inside a\nprimitive asteroid.\u003c/p\u003e"
+    }
+  ]
+}

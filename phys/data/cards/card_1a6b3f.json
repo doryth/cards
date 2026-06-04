@@ -1,0 +1,108 @@
+{
+  "id": "card_1a6b3f",
+  "slug": "nicer-neutron-star-radius",
+  "type": "paper",
+  "title": "Measuring a Neutron Star With X-ray Hot Spots",
+  "hook": "How big is a neutron star? NICER reads the answer off the X-ray flicker of hot patches sweeping across its surface — for PSR J0614-3329, somewhere between 9.9 and 12.8 km.",
+  "key_points": [
+    "Neutron star radii constrain the equation of state of matter denser than an atomic nucleus.",
+    "NICER measures them by modelling the X-ray pulses from hot spots rotating with the star.",
+    "The target, PSR J0614-3329, spins at 318 Hz with a radio-derived mass of about 1.4-1.5 solar masses.",
+    "The best-fitting model uses three uniform-temperature circular hot spots.",
+    "It gives a symmetric 68% credible range of 9.88-12.77 km for the equatorial circumferential radius.",
+    "Joint fits with XMM-Newton data systematically underpredict the XMM measurements, an unresolved tension."
+  ],
+  "content_html": "\u003cp\u003eThe core of a neutron star is the densest matter in the universe short of a black hole, packed\nwell beyond the density inside an atomic nucleus. Nobody can make it in a lab, so its properties\nhave to be inferred, and the cleanest handle is geometric: measure the star's radius at a known\nmass and you constrain the equation of state directly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNASA's NICER instrument on the space station does this by watching X-rays from hot patches on a\npulsar's surface. As the star rotates, those spots sweep in and out of view, and the detailed\nshape of the resulting pulse depends on the star's radius, mass and the light-bending in its own\ngravity. Miller and colleagues apply the technique to PSR J0614-3329, a 318 Hz pulsar whose mass\nis pinned near 1.4-1.5 solar masses by radio observations. Their best-fitting model, with three\nuniform-temperature circular hot spots, yields a symmetric 68% credible range of 9.88 to 12.77 km\nfor the equatorial circumferential radius. The paper is candid about a wrinkle: joint fits to\nNICER and XMM-Newton data systematically underpredict the XMM measurements under the standard\nassumption that its background is known from surrounding fields — a caveat worth keeping in mind\nas these radii feed into dense-matter models.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "M. C. Miller",
+      "A. J. Dittmann",
+      "I. M. Holt",
+      "F. K. Lamb",
+      "C. Chirenti",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2609.00965",
+    "published_at": "2026-09-01",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-09-01",
+  "related": [
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_48d4c5",
+      "slug": "quantum-computers-neutron-star-matter",
+      "type": "paper",
+      "title": "Why Neutron Star Interiors May Need a Quantum Computer",
+      "hook": "Nobody can calculate what matter does at neutron-star densities, because the standard trick for solving QCD breaks down there. Quantum computers may be the way around it.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-06"
+    },
+    {
+      "id": "card_2b3958",
+      "slug": "ai-model-neutron-star-nucleosynthesis",
+      "type": "news",
+      "title": "An AI Shortcut for How Star Mergers Forge Heavy Elements",
+      "hook": "Simulating how neutron star collisions forge gold and other heavy elements normally needs a huge nuclear calculation at every step. A neural network now approximates it almost for free.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1a6b3f#0",
+      "format": "flip",
+      "prompt": "How does NICER measure a neutron star's radius?",
+      "back_html": "\u003cp\u003eBy modelling the X-ray pulse profile produced as hot spots on the surface rotate in and out\nof view — the shape of that flicker depends on the star's radius and mass.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1a6b3f#1",
+      "format": "quiz",
+      "prompt": "Why do astronomers care so much about neutron star radii?",
+      "choices": [
+        {
+          "text": "They constrain the equation of state of cold matter above nuclear saturation density",
+          "correct": true
+        },
+        {
+          "text": "They determine how fast the star can spin before exploding",
+          "correct": false
+        },
+        {
+          "text": "They set the star's surface temperature",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA neutron star's core is denser than any nucleus and cannot be reproduced in a lab. Its\nradius, given its mass, is one of the few handles on how such matter behaves.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1a6b3f#2",
+      "format": "flip",
+      "prompt": "What complication did the joint NICER + XMM-Newton fits reveal?",
+      "back_html": "\u003cp\u003eModels that best fit both datasets systematically underpredict the XMM-Newton data when its\nbackground is assumed known from surrounding-field observations.\u003c/p\u003e"
+    }
+  ]
+}

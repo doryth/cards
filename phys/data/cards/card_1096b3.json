@@ -1,0 +1,141 @@
+{
+  "id": "card_1096b3",
+  "slug": "dark-matter-and-dark-energy",
+  "type": "concept",
+  "title": "Dark Matter \u0026 Dark Energy",
+  "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+  "key_points": [
+    "Ordinary matter is only about 5% of the universe's contents.",
+    "Dark matter (~27%) is unseen mass whose gravity holds galaxies together.",
+    "Dark energy (~68%) is a mysterious push speeding up the expansion.",
+    "We infer both from their effects; their true nature is still unknown."
+  ],
+  "content_html": "\u003cp\u003eAdd up everything astronomers can see and it accounts for only a small slice of the universe. Ordinary matter — the stuff of stars, gas, planets, and us — makes up roughly 5%. The rest comes in two forms we infer only from their effects, never having caught either one directly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eDark matter, about 27% of the total, is invisible mass that betrays itself through gravity: galaxies spin too fast to hold together on their visible matter alone, and light bends as it passes massive but unseen concentrations. Dark energy, about 68%, is stranger still — a kind of pressure woven through space that's making the expansion of the universe speed up rather than slow down. We have strong evidence both exist, yet what they actually are remains one of physics' biggest open questions. Wikipedia surveys the evidence and the leading ideas.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dark_matter",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_06b9c7",
+      "slug": "the-big-bang",
+      "type": "concept",
+      "title": "The Big Bang",
+      "hook": "About 13.8 billion years ago the universe began hot and dense and has been expanding ever since — but it wasn't an explosion into empty space. Space itself stretched.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ab4608",
+      "slug": "the-fate-of-the-universe",
+      "type": "concept",
+      "title": "How Will the Universe End?",
+      "hook": "The universe began with a Big Bang — but how does the story end? With dark energy speeding up the expansion, the leading answer is a long, cold fade into darkness.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_402dc8",
+      "slug": "cosmic-acceleration-confirmed",
+      "type": "news",
+      "title": "Dark Energy Survives a Major Challenge",
+      "hook": "A bold claim said the universe's accelerating expansion was an illusion. Astronomers checked the math, found the mistakes — and cosmic acceleration came out as strong as ever.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_cb7f47",
+      "slug": "milky-way-gamma-ray-glow-dark-matter",
+      "type": "news",
+      "title": "The Milky Way's Mystery Glow Might Really Be Dark Matter",
+      "hook": "A gamma-ray haze at the galaxy's center has split scientists for years between 'hidden neutron stars' and 'dark matter.' Machine learning just tipped the scales.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_3c0997",
+      "slug": "ligo-signal-primordial-black-holes-dark-matter",
+      "type": "news",
+      "title": "Could This Odd LIGO Signal Be the Missing Dark Matter?",
+      "hook": "An unusual gravitational-wave signal has revived a long-shot idea: that primordial black holes born moments after the Big Bang could be the universe's missing dark matter.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1096b3#0",
+      "format": "flip",
+      "prompt": "What fraction of the universe is ordinary matter?",
+      "back_html": "\u003cp\u003eOnly about \u003cstrong\u003e5%\u003c/strong\u003e. The rest is dark matter (~27%) and dark energy (~68%),\nneither of which we've directly detected.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1096b3#1",
+      "format": "quiz",
+      "prompt": "What does dark matter do?",
+      "choices": [
+        {
+          "text": "Its gravity holds galaxies together and bends light",
+          "correct": true
+        },
+        {
+          "text": "It pushes galaxies apart faster and faster",
+          "correct": false
+        },
+        {
+          "text": "It emits the bright glow we see in the night sky",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDark matter doesn't shine, but its gravity binds galaxies and bends the light\npassing near it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1096b3#2",
+      "format": "quiz",
+      "prompt": "What is dark energy thought to do?",
+      "choices": [
+        {
+          "text": "Speed up the expansion of the universe",
+          "correct": true
+        },
+        {
+          "text": "Slow the universe down until it collapses",
+          "correct": false
+        },
+        {
+          "text": "Hold individual galaxies together",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDark energy acts like a push spread through space, accelerating the cosmic\nexpansion.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "card_28ad49",
+  "slug": "juno-neutrino-first-results",
+  "type": "news",
+  "title": "JUNO's First Look at Shape-Shifting Neutrinos",
+  "hook": "A giant detector buried under China caught neutrinos changing identity mid-flight — and in just 59 days made one of the sharpest measurements yet of the ghost particle's habits.",
+  "key_points": [
+    "Neutrinos 'oscillate' — they switch between flavors as they travel, which only happens if they have mass.",
+    "JUNO is a massive underground observatory in China built to study these elusive particles.",
+    "From just 59 days of data it sharply tightened the measured properties of how neutrinos change.",
+    "The result boosts confidence JUNO can solve the neutrino 'mass hierarchy' — the unknown ordering of their masses."
+  ],
+  "content_html": "\u003cp\u003eNeutrinos are among the universe's most elusive particles: nearly massless, electrically neutral, and\nso reluctant to interact that trillions pass through your body every second unnoticed. One of their\nstrangest habits is \u0026quot;oscillation\u0026quot; — as a neutrino travels, it can switch between three flavors\n(electron, muon, and tau). That shape-shifting is only possible if neutrinos have mass, a discovery\nthat overturned the original Standard Model expectation that they were massless.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to a ScienceDaily report, the JUNO observatory — a massive detector buried deep underground\nin China — has delivered its first major result. Using just 59 days of data, the collaboration produced\none of the most precise measurements yet of how neutrinos oscillate, sharply tightening several key\nneutrino properties. The headline goal is bigger still: determining the neutrino \u0026quot;mass hierarchy,\u0026quot; the\nstill-unknown ordering of the three neutrino masses. Nailing that ordering is one of particle physics'\noutstanding puzzles, with consequences reaching from the behavior of exploding stars to why the universe\ncontains more matter than antimatter. JUNO's early precision suggests it's well on track to tackle it.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260612032026.htm",
+    "published_at": "2026-06-12",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-15",
+  "date": "2026-06-12",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_37dae0",
+      "slug": "tracking-the-elusive-neutrino",
+      "type": "news",
+      "title": "Catching the Ghost Particle",
+      "hook": "Trillions of neutrinos stream through your body every second, yet they almost never touch anything. To catch even a few, physicists build some of the most audacious detectors ever conceived.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_28ad49#0",
+      "format": "flip",
+      "prompt": "What does it mean that neutrinos 'oscillate', and why does it matter?",
+      "back_html": "\u003cp\u003eAs neutrinos travel they switch between flavors (types). This shape-shifting can only\nhappen if neutrinos have mass — so oscillation is direct evidence they aren't massless.\u003c/p\u003e"
+    },
+    {
+      "id": "card_28ad49#1",
+      "format": "quiz",
+      "prompt": "What major open question is JUNO designed to help answer?",
+      "choices": [
+        {
+          "text": "The neutrino mass hierarchy — the true ordering of neutrino masses",
+          "correct": true
+        },
+        {
+          "text": "Whether neutrinos travel faster than light",
+          "correct": false
+        },
+        {
+          "text": "How many quarks make up a neutrino",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eJUNO's precise oscillation measurements aim to pin down the neutrino mass hierarchy,\none of particle physics' biggest unsolved puzzles. Neutrinos are fundamental, not made\nof quarks, and don't exceed light speed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_28ad49#2",
+      "format": "flip",
+      "prompt": "Why is it striking that JUNO got a precise result from only 59 days of data?",
+      "back_html": "\u003cp\u003eNeutrinos barely interact with matter, so catching enough of them is normally slow.\nA sharp measurement from 59 days signals how sensitive the detector is.\u003c/p\u003e"
+    }
+  ]
+}

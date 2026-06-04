@@ -1,0 +1,92 @@
+{
+  "id": "card_95563d",
+  "slug": "facial-recognition-and-surveillance",
+  "type": "concept",
+  "title": "Facial Recognition",
+  "hook": "The same AI that unlocks your phone can pick your face out of a crowd. It's convenient at your fingertips and unsettling at a city's scale — and it makes mistakes, unevenly.",
+  "key_points": [
+    "Facial recognition matches a face to an identity from photos or live video.",
+    "Everyday uses (phone unlock, photo tagging) are opt-in and on your device.",
+    "At scale — public cameras, policing — it enables mass tracking with little consent.",
+    "It's less accurate for some groups, leading to real wrongful identifications."
+  ],
+  "content_html": "\u003cp\u003eFacial recognition is one of the most visible — and divisive — applications of AI's ability to \u0026quot;see.\u0026quot; At heart it does one thing: take a face from a photo or a live camera and match it to an identity. You meet the friendly version daily, and it's genuinely handy: your phone unlocks by recognizing you, your photo app groups every picture of your sister, and airports speed you through a gate. These uses are typically opt-in, run on your own device or a contained system, and concern only you.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe unease comes when the same capability scales up. Cameras in streets, stores, stadiums, and public squares can, in principle, identify and track large numbers of people as they go about their lives — often without anyone's knowledge or consent. That shifts the technology from a personal convenience to an instrument of \u003cstrong\u003emass surveillance\u003c/strong\u003e, with serious implications for privacy, freedom of movement, and the chilling effect of being constantly watched. Authoritarian governments have used it to monitor and suppress dissent. There's a second, well-documented problem: accuracy isn't even. Studies have repeatedly found facial recognition performs worse on women and people with darker skin, and those errors have led to real \u003cstrong\u003ewrongful arrests\u003c/strong\u003e of innocent people misidentified by the system. That combination — pervasive reach plus uneven reliability — is why facial recognition is among the most hotly regulated AI uses, with some cities and countries restricting or banning police use outright. For an everyday person, the takeaway is awareness: the face-unlock in your pocket and the camera network over a city are the same technology pointed at wildly different scales, and the second one is a live debate about the kind of society we want.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Facial recognition system",
+    "url": "https://en.wikipedia.org/wiki/Facial_recognition_system",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "facial-recognition"
+  ],
+  "tags": [
+    "vision",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_58c33d",
+      "slug": "ai-bias",
+      "type": "concept",
+      "title": "Bias \u0026 Fairness",
+      "hook": "AI learns from data made by people, so it inherits our patterns — including the unfair ones. A model trained on a biased past will confidently recommend a biased future.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_95563d#0",
+      "format": "quiz",
+      "prompt": "Why is large-scale facial recognition controversial?",
+      "choices": [
+        {
+          "text": "It enables mass tracking without consent and misidentifies some groups more",
+          "correct": true
+        },
+        {
+          "text": "It's too slow to be useful",
+          "correct": false
+        },
+        {
+          "text": "It only works in total darkness",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBeyond convenient phone unlock, city-scale use allows tracking people without\nconsent, and lower accuracy for some groups has caused wrongful IDs.\u003c/p\u003e"
+    },
+    {
+      "id": "card_95563d#1",
+      "format": "flip",
+      "prompt": "How does phone face-unlock differ from public facial recognition?",
+      "back_html": "\u003cp\u003ePhone unlock is opt-in and stays on your device for one person; public systems\nscan many people, often without consent, and link faces to identities at scale.\u003c/p\u003e"
+    }
+  ]
+}

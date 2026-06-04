@@ -1,0 +1,130 @@
+{
+  "id": "card_c6801f",
+  "slug": "gates-danger-thresholds",
+  "type": "news",
+  "title": "Bill Gates Changed His Mind About AI",
+  "hook": "The optimist turned worrier: in a ~6,000-word essay, Gates argues AI has already crossed safety lines we promised to handle before reaching them — and names five of them.",
+  "key_points": [
+    "Gates names five danger areas: bioterrorism, cyberattacks, job displacement, psychological dependence, and loss of control.",
+    "He calls AI-assisted bioterrorism the scariest, saying models that design novel molecules need monitoring.",
+    "He argues roughly half of white-collar jobs are now replaceable by cheaper AI — 'this time is different' from past tech waves.",
+    "His proposals include a tax on AI that replaces human work, jobs reserved for humans, and monitoring deals with China.",
+    "Notable mainly as a reversal: he previously leaned on history showing technology creates net new jobs."
+  ],
+  "content_html": "\u003cp\u003eBill Gates spent most of the AI boom as an enthusiast. Then he went quiet. Now he's back with a nearly 6,000-word essay and a much darker thesis: AI development has already crossed several of the danger thresholds that the industry, including him, said it would address \u003cem\u003ebefore\u003c/em\u003e getting there.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHe names five. AI-assisted bioterrorism worries him most — he calls it far scarier than a natural pandemic, and wants monitoring on models capable of designing novel molecules. Then cyberattacks, now within reach of people with no technical skill. Then jobs, where he estimates roughly half of white-collar work is replaceable by AI that costs less than a person, and explicitly breaks with his own earlier argument that history shows technology creates more jobs than it destroys: this time, he says, is different, because the speed and the breadth of cognitive replacement are different. Then psychological dependence on AI. And finally loss of control — his read that systems are showing behaviors nobody explicitly asked for.\u003c/p\u003e\n\u003cp\u003eHis proposed remedies are unusually concrete for this genre: a sales-tax-style levy on AI that replaces human labor, funding the safety net it strains; certain jobs legally reserved for humans; and international monitoring agreements, including with China. You don't have to accept his numbers — the \u0026quot;half of white-collar jobs\u0026quot; figure is an estimate, not a measurement, and other data on actual AI use at work looks far less dramatic. What's worth registering is the direction of travel: the people who spent a decade telling you not to worry are increasingly not the ones telling you that anymore.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Mat Honan"
+    ],
+    "url": "https://technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold",
+    "published_at": "2026-08-26",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-takeover",
+    "ai-hype",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_dc90db",
+      "slug": "will-ai-take-over",
+      "type": "concept",
+      "title": "Will AI Take Over?",
+      "hook": "The Terminator scenario — AI 'waking up' and turning on us — isn't what serious researchers worry about. Their real concerns are more mundane and more immediate.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_578ae3",
+      "slug": "ai-bioweapon-safeguards",
+      "type": "news",
+      "title": "AI Rivals Unite to Guard Against AI-Aided Bioweapons",
+      "hook": "Fierce competitors in AI set their rivalries aside to ask Congress for tougher rules — so their own tools can't be used to help build biological weapons.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b4f14c",
+      "slug": "ai-and-jobs",
+      "type": "concept",
+      "title": "AI \u0026 Jobs",
+      "hook": "AI is less likely to take your whole job than to take certain tasks within it. The pattern through history: tools reshape work faster than they erase it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c6801f#0",
+      "format": "quiz",
+      "prompt": "Which risk does Gates single out as the most frightening?",
+      "choices": [
+        {
+          "text": "AI helping create biological weapons",
+          "correct": true
+        },
+        {
+          "text": "Chatbots giving bad medical advice",
+          "correct": false
+        },
+        {
+          "text": "AI-generated art displacing illustrators",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHe calls it far scarier than natural pandemics, and argues models capable of\ndesigning novel molecules need active monitoring.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c6801f#1",
+      "format": "flip",
+      "prompt": "What is a 'danger threshold' in Gates's framing?",
+      "back_html": "\u003cp\u003eA capability line we said we'd have safeguards ready before crossing. His claim\nis that several have been crossed already, without the promised preparation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c6801f#2",
+      "format": "quiz",
+      "prompt": "Why is Gates's argument notable beyond its content?",
+      "choices": [
+        {
+          "text": "It reverses his own earlier optimism that history shows tech creates net new jobs",
+          "correct": true
+        },
+        {
+          "text": "He is the first public figure to raise AI risk",
+          "correct": false
+        },
+        {
+          "text": "He announced he would stop using AI entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA long-standing optimist publicly saying \u0026quot;this time is different\u0026quot; is a data point\nabout how the debate is shifting — though a famous person's view is still a view.\u003c/p\u003e"
+    }
+  ]
+}

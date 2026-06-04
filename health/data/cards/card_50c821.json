@@ -1,0 +1,89 @@
+{
+  "id": "card_50c821",
+  "slug": "low-dose-digoxin-heart-failure",
+  "type": "news",
+  "title": "A Ten-Cent Heart Drug Makes a Comeback",
+  "hook": "Digoxin has been treating hearts since the 1700s and costs under ten cents a day. New research suggests low doses cut heart-failure hospitalizations by about 25%.",
+  "key_points": [
+    "Digoxin derives from foxglove and has been used for heart conditions for centuries.",
+    "New research links low-dose digoxin to roughly 25% fewer heart-failure hospitalizations.",
+    "It costs less than ten cents a day — no patent, no supply constraint.",
+    "Dose matters: digoxin has a narrow safety margin, and older high-dose use caused toxicity.",
+    "Hospitalization is a major driver of heart-failure cost and decline, making it a real endpoint."
+  ],
+  "content_html": "\u003cp\u003eDigoxin comes from foxglove and has been used to treat failing hearts since the 1700s. It fell out of favor as newer drugs arrived — and as its narrow safety margin became clear. New research suggests it deserves another look: at low doses, it appears to cut heart-failure hospitalizations by about 25%.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHospitalization is not a soft endpoint in heart failure. Each admission tends to leave patients worse off than before, and repeat hospitalizations drive both the human cost and the financial cost of the disease. A quarter fewer of them would be a meaningful result from any drug.\u003c/p\u003e\n\u003cp\u003eThat it comes from a generic costing under ten cents a day is what makes this notable. There's no patent to negotiate and no supply to scale — if the finding holds, it can reach patients in any health system. The catch is in the dosing. Digoxin's therapeutic window is narrow, and the high doses used decades ago caused real toxicity, which is exactly why it was sidelined. The new work is about \u003cem\u003elow\u003c/em\u003e dose, and that distinction is the whole story. Anyone with heart failure should treat this as a question for their cardiologist, not a self-prescription.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260814235858.htm",
+    "published_at": "2026-08-16",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "chronic-conditions",
+    "medication-safety",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-16",
+  "related": [
+    {
+      "id": "card_fc9417",
+      "slug": "keeping-your-heart-healthy",
+      "type": "concept",
+      "title": "Keeping Your Heart Healthy",
+      "hook": "Most heart disease isn't bad luck — it's the sum of a few everyday habits. The American Heart Association distills them into eight that move the needle most.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_1501be",
+      "slug": "understanding-blood-pressure",
+      "type": "concept",
+      "title": "Understanding Blood Pressure",
+      "hook": "High blood pressure is called the 'silent killer' for a reason — it usually has no symptoms, yet it quietly raises your risk of heart attack and stroke.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_50c821#0",
+      "format": "quiz",
+      "prompt": "What benefit did new research attribute to low-dose digoxin?",
+      "choices": [
+        {
+          "text": "About 25% fewer heart-failure hospitalizations",
+          "correct": true
+        },
+        {
+          "text": "About 25% lower blood pressure",
+          "correct": false
+        },
+        {
+          "text": "Complete reversal of heart failure in most patients",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe finding is specifically about hospitalizations — roughly a \u003cstrong\u003e25% reduction\u003c/strong\u003e —\nnot a cure or a blood-pressure effect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_50c821#1",
+      "format": "flip",
+      "prompt": "Why does the word 'low-dose' matter so much for digoxin?",
+      "back_html": "\u003cp\u003eDigoxin has a narrow safety margin. Older high-dose practice caused toxicity, which\nis part of why the drug fell out of favor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_50c821#2",
+      "format": "flip",
+      "prompt": "Why is a ten-cent-a-day drug newsworthy in heart failure?",
+      "back_html": "\u003cp\u003eCost and supply are solved problems for an old generic — so a real benefit can reach\npatients everywhere, not just wealthy health systems.\u003c/p\u003e"
+    }
+  ]
+}

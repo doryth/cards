@@ -1,0 +1,101 @@
+{
+  "id": "card_fbcad2",
+  "slug": "classical-probability-double-slit",
+  "type": "paper",
+  "title": "Can Classical Probability Alone Explain the Double-Slit Pattern?",
+  "hook": "The double-slit interference pattern is physics' go-to symbol of quantum weirdness. A theoretical study shows classical probability alone can reproduce it, given the right ingredients.",
+  "key_points": [
+    "The double-slit experiment's interference pattern is usually presented as proof that quantum particles behave fundamentally unlike anything classical.",
+    "Physicist Christof Wetterich builds a classical field theory with probabilistic initial conditions and conserved charges that define 'particles' as statistical properties, not fundamental objects.",
+    "That probability distribution's evolution turns out to obey the Schrödinger equation, complete with interference, tunneling, and discrete energy levels.",
+    "This doesn't overturn quantum mechanics — it shows the underlying math connecting classical probability and quantum behavior is more subtle than the usual textbook divide suggests."
+  ],
+  "content_html": "\u003cp\u003eAsk any physics student for the clearest evidence that quantum particles behave nothing like everyday objects, and they'll likely point to the double-slit experiment: send particles one at a time through two slits, and they build up an interference pattern — as if each particle passed through both slits at once.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePhysicist Christof Wetterich revisits that divide with a purely classical construction. He starts from a classical field theory for a complex scalar field, but with probabilistic — rather than fixed — initial conditions. Conserved charges in this theory define \u0026quot;particles\u0026quot; not as fundamental objects, but as statistical properties of the probability distribution over field configurations. Tracking the probabilistic information for a single-particle subsystem, Wetterich encodes it in a complex wave function — and shows that the classical Liouville equation governing how the probability distribution evolves turns out to be mathematically equivalent to the Schrödinger equation, reproducing interference, tunneling, and discrete energy levels along the way. The result doesn't overturn quantum mechanics; rather, it's a striking demonstration that the formal boundary between \u0026quot;classical\u0026quot; and \u0026quot;quantum\u0026quot; descriptions is less clean than the standard textbook story suggests.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Christof Wetterich"
+    ],
+    "url": "https://arxiv.org/abs/2607.11580",
+    "published_at": "2026-07-13",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-16",
+  "date": "2026-07-13",
+  "related": [
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fbcad2#0",
+      "format": "flip",
+      "prompt": "What is the double-slit experiment usually used to illustrate?",
+      "back_html": "\u003cp\u003eThat quantum particles produce an interference pattern impossible to explain with\nordinary, classical intuition — a hallmark of \u0026quot;quantum weirdness.\u0026quot;\u003c/p\u003e"
+    },
+    {
+      "id": "card_fbcad2#1",
+      "format": "quiz",
+      "prompt": "What was the key move in this classical-probability construction?",
+      "choices": [
+        {
+          "text": "Encoding the probability distribution for particle-like excitations as a complex wave function whose evolution follows the Schrödinger equation",
+          "correct": true
+        },
+        {
+          "text": "Adding a hidden extra spatial dimension to the classical field theory",
+          "correct": false
+        },
+        {
+          "text": "Replacing probability entirely with deterministic classical trajectories",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBy tracking conserved charges as statistical properties of a classical field's\nprobability distribution, the resulting wave function obeys the same equation\nthat governs quantum particles.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fbcad2#2",
+      "format": "flip",
+      "prompt": "Does this result mean quantum mechanics is 'secretly' classical?",
+      "back_html": "\u003cp\u003eNot exactly — it shows that under specific mathematical conditions, classical\nprobability theory can reproduce quantum-like behavior, revealing the boundary\nbetween the two frameworks is subtler than commonly presented.\u003c/p\u003e"
+    }
+  ]
+}

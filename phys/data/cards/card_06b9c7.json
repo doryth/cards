@@ -1,0 +1,102 @@
+{
+  "id": "card_06b9c7",
+  "slug": "the-big-bang",
+  "type": "concept",
+  "title": "The Big Bang",
+  "hook": "About 13.8 billion years ago the universe began hot and dense and has been expanding ever since — but it wasn't an explosion into empty space. Space itself stretched.",
+  "key_points": [
+    "The universe began about 13.8 billion years ago in a hot, dense state.",
+    "It has been expanding and cooling ever since.",
+    "It was not an explosion into space — space itself expanded everywhere at once.",
+    "Key evidence: the expanding universe and the cosmic microwave background."
+  ],
+  "content_html": "\u003cp\u003eThe Big Bang is our best model for how the universe began. About 13.8 billion years ago everything we can see was packed into an extraordinarily hot, dense state, and it has been expanding and cooling ever since. The name is a little misleading: this was not a bomb going off at a point in space.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eInstead, space itself began stretching everywhere at the same time — there was no empty room outside for the universe to expand into. Run the cosmic clock forward and galaxies drift apart; run it backward and everything draws together toward that dense early state. Two pillars of evidence support the picture: distant galaxies are rushing away from us, and faint radiation left over from the early universe still fills the sky. Wikipedia lays out the timeline and the observations that back it up.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Big_Bang",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "foundational",
+    "landmark"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_461ffa",
+      "slug": "cosmic-microwave-background",
+      "type": "concept",
+      "title": "The Cosmic Microwave Background",
+      "hook": "The oldest light we can see is a faint glow filling all of space — released when the infant universe first cooled enough to become transparent, about 380,000 years after the Big Bang.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_06b9c7#0",
+      "format": "flip",
+      "prompt": "Roughly how old is the universe?",
+      "back_html": "\u003cp\u003eAbout \u003cstrong\u003e13.8 billion years\u003c/strong\u003e. It began in a hot, dense state and has been\nexpanding and cooling ever since.\u003c/p\u003e"
+    },
+    {
+      "id": "card_06b9c7#1",
+      "format": "quiz",
+      "prompt": "What's the biggest misconception about the Big Bang?",
+      "choices": [
+        {
+          "text": "That it was an explosion into empty space — instead, space itself expanded",
+          "correct": true
+        },
+        {
+          "text": "That the universe is expanding at all",
+          "correct": false
+        },
+        {
+          "text": "That the universe was once hot and dense",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Big Bang wasn't matter flying out into a pre-existing void. Space itself\nstretched everywhere at once.\u003c/p\u003e"
+    },
+    {
+      "id": "card_06b9c7#2",
+      "format": "quiz",
+      "prompt": "What is strong evidence for the Big Bang?",
+      "choices": [
+        {
+          "text": "The expanding universe and the cosmic microwave background",
+          "correct": true
+        },
+        {
+          "text": "The fact that stars twinkle at night",
+          "correct": false
+        },
+        {
+          "text": "The phases of the Moon",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDistant galaxies racing apart and the leftover glow filling all of space both\npoint back to a hot, dense beginning.\u003c/p\u003e"
+    }
+  ]
+}

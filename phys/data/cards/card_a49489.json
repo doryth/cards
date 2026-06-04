@@ -1,0 +1,112 @@
+{
+  "id": "card_a49489",
+  "slug": "elastic-vs-inelastic-collisions",
+  "type": "concept",
+  "title": "Elastic vs. Inelastic Collisions",
+  "hook": "Billiard balls click and bounce; cars crumple and stick. Both conserve momentum, but only one keeps its energy of motion — the difference is where the energy goes.",
+  "key_points": [
+    "Momentum is conserved in every collision; kinetic energy is not.",
+    "Elastic collisions conserve kinetic energy — think ideal billiard balls.",
+    "Inelastic collisions lose kinetic energy to heat, sound, and deformation.",
+    "A perfectly inelastic collision is when the objects stick together afterward."
+  ],
+  "content_html": "\u003cp\u003eWhen two things collide, momentum is always conserved — but kinetic energy, the energy of motion, may or may not be. That split is what separates the two main types of collision. In an elastic collision the total kinetic energy is preserved; in an inelastic collision some of it is converted into other forms.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTruly elastic collisions are rare in everyday life — hard objects like billiard balls or steel ball bearings come close, and collisions between atoms and subatomic particles can be exactly elastic. Most real impacts are inelastic: a car crash, a dropped ball of clay, a dropped phone. The \u0026quot;missing\u0026quot; kinetic energy isn't destroyed — it turns into heat, sound, and the work of bending and crumpling material, so total energy is still conserved. The extreme case is a perfectly inelastic collision, where the objects stick together and move as one, losing the maximum kinetic energy allowed while still conserving momentum. That's exactly the principle crumple zones exploit to protect passengers. Wikipedia contrasts the two types and works through the math of each.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Inelastic_collision",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "momentum-collisions"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_3776ab",
+      "slug": "conservation-of-momentum",
+      "type": "concept",
+      "title": "Conservation of Momentum",
+      "hook": "Fire a gun and it kicks back; push off a friend on skates and you both glide apart. Total momentum never changes unless an outside force interferes.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_11b086",
+      "slug": "conservation-of-energy",
+      "type": "concept",
+      "title": "Conservation of Energy",
+      "hook": "Energy is never created or destroyed — it only changes form. That single rule is one of the most powerful ideas in all of physics.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a13f1f",
+      "slug": "what-is-momentum",
+      "type": "concept",
+      "title": "Momentum: The Quantity of Motion",
+      "hook": "A slow freight train and a fast bullet are both brutally hard to stop. Momentum captures why: it's mass times velocity, the real measure of moving 'oomph'.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a49489#0",
+      "format": "flip",
+      "prompt": "What's conserved in every collision, and what isn't?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eMomentum\u003c/strong\u003e is always conserved. \u003cstrong\u003eKinetic energy\u003c/strong\u003e is only conserved in\nelastic collisions; inelastic ones lose it to heat, sound, and deformation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a49489#1",
+      "format": "quiz",
+      "prompt": "Two lumps of clay collide and stick together. What kind of collision is this?",
+      "choices": [
+        {
+          "text": "Perfectly inelastic — they move as one and lose kinetic energy",
+          "correct": true
+        },
+        {
+          "text": "Elastic, since they ended up moving",
+          "correct": false
+        },
+        {
+          "text": "It violates conservation of momentum",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen objects stick together it's perfectly inelastic: momentum is conserved,\nbut the most kinetic energy possible is lost to deformation and heat.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a49489#2",
+      "format": "quiz",
+      "prompt": "Where does the kinetic energy go in an inelastic car crash?",
+      "choices": [
+        {
+          "text": "Into heat, sound, and bending and crumpling metal",
+          "correct": true
+        },
+        {
+          "text": "It disappears, breaking conservation of energy",
+          "correct": false
+        },
+        {
+          "text": "It all converts back into momentum",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEnergy is still conserved overall — the kinetic energy just transforms into\nheat, noise, and the work of deforming the cars.\u003c/p\u003e"
+    }
+  ]
+}

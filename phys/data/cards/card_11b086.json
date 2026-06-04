@@ -1,0 +1,104 @@
+{
+  "id": "card_11b086",
+  "slug": "conservation-of-energy",
+  "type": "concept",
+  "title": "Conservation of Energy",
+  "hook": "Energy is never created or destroyed — it only changes form. That single rule is one of the most powerful ideas in all of physics.",
+  "key_points": [
+    "The total energy of an isolated system stays constant over time.",
+    "Energy converts between forms — kinetic, potential, heat, light — but the total is fixed.",
+    "A swinging pendulum trades height (potential) for speed (kinetic) and back again.",
+    "'Lost' energy isn't gone; friction usually turns it into heat."
+  ],
+  "content_html": "\u003cp\u003eConservation of energy says that in an isolated system the total amount of energy never changes — it can only move between different forms. Drop a ball and its stored gravitational potential energy turns into kinetic energy of motion; a battery turns chemical energy into electrical energy and then into light and heat.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA pendulum is the classic illustration. At the top of its swing it's momentarily still but high up, so its energy is all potential. At the bottom it's moving fastest but lowest, so the energy is all kinetic. The total stays the same throughout. When a real pendulum gradually stops, the energy hasn't vanished — friction and air resistance have quietly converted it into heat. HyperPhysics shows how to tally the forms and check that the books always balance.\u003c/p\u003e",
+  "source": {
+    "name": "HyperPhysics (Georgia State University)",
+    "authors": [
+      "Rod Nave"
+    ],
+    "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/conser.html",
+    "license": "© Georgia State University (educational use)"
+  },
+  "topic_ids": [
+    "energy-work"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ae227e",
+      "slug": "kinetic-and-potential-energy",
+      "type": "concept",
+      "title": "Kinetic \u0026 Potential Energy",
+      "hook": "Energy comes in two basic flavors: the energy of motion, and the energy stored up waiting to happen.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_11b086#0",
+      "format": "flip",
+      "prompt": "State the law of conservation of energy in one sentence.",
+      "back_html": "\u003cp\u003eThe total energy of an isolated system stays constant — energy can change\nform but is never created or destroyed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_11b086#1",
+      "format": "quiz",
+      "prompt": "A pendulum slows and eventually stops. Where did its energy go?",
+      "choices": [
+        {
+          "text": "Friction converted it mostly into heat",
+          "correct": true
+        },
+        {
+          "text": "The energy was destroyed, violating conservation",
+          "correct": false
+        },
+        {
+          "text": "It turned into extra mass at the pivot",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEnergy isn't destroyed; friction transforms the motion into heat, so the\ntotal is still conserved.\u003c/p\u003e"
+    },
+    {
+      "id": "card_11b086#2",
+      "format": "quiz",
+      "prompt": "At the bottom of its swing, a pendulum's energy is mostly which form?",
+      "choices": [
+        {
+          "text": "Kinetic — it is moving fastest there",
+          "correct": true
+        },
+        {
+          "text": "Potential — it is highest there",
+          "correct": false
+        },
+        {
+          "text": "Heat — friction peaks at the bottom",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe bottom is the lowest point and the fastest, so potential energy has been\ntraded for kinetic energy.\u003c/p\u003e"
+    }
+  ]
+}

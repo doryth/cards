@@ -1,0 +1,122 @@
+{
+  "id": "card_3b2456",
+  "slug": "electromagnetic-induction",
+  "type": "concept",
+  "title": "Electromagnetic Induction: How We Make Electricity",
+  "hook": "Almost all the electricity you use was made by waving magnets past coils of wire. A changing magnetic field pushes charge into motion — that's Faraday's great discovery.",
+  "key_points": [
+    "A changing magnetic field through a coil induces a voltage — Faraday's law of induction.",
+    "Faster change or more loops of wire means a bigger induced voltage.",
+    "Generators spin coils in a magnetic field; nearly all power plants work this way.",
+    "The induced current always opposes the change that made it (Lenz's law), conserving energy."
+  ],
+  "content_html": "\u003cp\u003eIn the 1830s Michael Faraday found that a magnet alone does nothing to a nearby wire — but a \u003cem\u003emoving\u003c/em\u003e magnet pushes electric charge through it. The rule, Faraday's law of induction, is that a changing magnetic field through a loop of wire creates a voltage across that loop. Move the magnet faster, or add more loops, and the voltage grows. This single fact is how essentially all of our electricity gets made.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA generator is just this principle running continuously: spin a coil inside a magnetic field (or spin a magnet past a coil) and you get a steady flow of current. Whatever the energy source — burning coal, splitting atoms, falling water, or wind — a power plant's job is mostly to turn a turbine that turns a generator. There's a catch built into the universe: the induced current always flows in the direction that opposes the change creating it, a rule called Lenz's law. That's not a quirk but a guarantee of energy conservation — otherwise a generator would spin up for free. The same induction underlies transformers, induction stovetops, and the wireless chargers on a desk. Wikipedia traces Faraday's experiments and the law that bears his name.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Electromagnetic_induction",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "electricity-magnetism"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1c33ae",
+      "slug": "electromagnetism",
+      "type": "concept",
+      "title": "Electricity \u0026 Magnetism Are One Force",
+      "hook": "Move a magnet near a wire and you make electricity; run current through a wire and you make a magnet. They're two faces of the same force.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_275a24",
+      "slug": "electric-and-magnetic-fields",
+      "type": "concept",
+      "title": "Electric and Magnetic Fields",
+      "hook": "How does a magnet pull a paperclip it isn't touching? Through a field — an invisible region of influence that tells other charges and magnets how to feel a force.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2b87f5",
+      "slug": "electric-charge-and-current",
+      "type": "concept",
+      "title": "Electric Charge \u0026 Current",
+      "hook": "Everything electrical comes down to charge — and an electric current is simply charge on the move.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_1c33ae",
+      "slug": "electromagnetism",
+      "type": "concept",
+      "title": "Electricity \u0026 Magnetism Are One Force",
+      "hook": "Move a magnet near a wire and you make electricity; run current through a wire and you make a magnet. They're two faces of the same force.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_3b2456#0",
+      "format": "flip",
+      "prompt": "What does it take to induce a voltage in a coil of wire?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003echanging\u003c/strong\u003e magnetic field through the coil. A steady field does nothing —\nit's the change that drives charge into motion (Faraday's law).\u003c/p\u003e"
+    },
+    {
+      "id": "card_3b2456#1",
+      "format": "quiz",
+      "prompt": "How does a typical power plant actually generate electricity?",
+      "choices": [
+        {
+          "text": "It spins coils of wire in a magnetic field, inducing a current",
+          "correct": true
+        },
+        {
+          "text": "It chemically creates electric charge from fuel",
+          "correct": false
+        },
+        {
+          "text": "It stores sunlight and releases it as current at night",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCoal, gas, nuclear, hydro, and wind plants all spin a turbine that turns a\ngenerator — a coil moving in a magnetic field — inducing the current.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3b2456#2",
+      "format": "quiz",
+      "prompt": "Lenz's law says an induced current flows in the direction that…",
+      "choices": [
+        {
+          "text": "Opposes the change in magnetic field that created it",
+          "correct": true
+        },
+        {
+          "text": "Reinforces the change, building current without limit",
+          "correct": false
+        },
+        {
+          "text": "Always flows toward the nearest magnet",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe induced current opposes the change — if it reinforced it, you'd get\nenergy from nothing. Lenz's law is conservation of energy in action.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "card_1a9e70",
+  "slug": "first-mrna-flu-vaccine",
+  "type": "news",
+  "title": "The First mRNA Flu Vaccine Arrives This Season",
+  "hook": "Moderna's mRNA flu vaccine — the first flu shot built on the same technology as the COVID vaccines — is now FDA-approved and ready for the coming flu season.",
+  "key_points": [
+    "The FDA has approved the first mRNA-based flu vaccine; it will be ready for this flu season.",
+    "It's Moderna's mRNA influenza vaccine, aimed at older adults — those 50 and over.",
+    "An FDA advisory committee had recommended it unanimously (all nine members).",
+    "It's the first flu vaccine using the same mRNA technology as COVID shots.",
+    "mRNA can be updated faster than egg-grown vaccines, which lock in strains months ahead."
+  ],
+  "content_html": "\u003cp\u003eThe flu shot is getting a technology upgrade. As NPR's Rob Stein reports, the FDA has now approved Moderna's mRNA influenza vaccine — the first flu shot built on the same platform that powered the COVID-19 vaccines — and it will be ready for the coming flu season.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe approval follows a unanimous vote by the FDA's top vaccine advisory committee, whose nine members all backed the vaccine for adults 50 and over (\u003ca href=\"https://npr.org/2026/06/18/nx-s1-5863570/flu-vaccine-mrna-moderna-fda\"\u003emore detail from NPR\u003c/a\u003e). The vaccine is geared to older people, the group influenza hits hardest.\u003c/p\u003e\n\u003cp\u003eWhy it matters: traditional flu vaccines are mostly grown in eggs, a slow process that locks in each season's strain choice months ahead — part of why the annual shot is sometimes a poor match for the strains that actually circulate. mRNA can be made without eggs and updated faster, the same flexibility that let COVID vaccines be retooled quickly. This season is the first real test of whether that translates into better protection in practice.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Rob Stein"
+    ],
+    "url": "https://npr.org/2026/06/19/nx-s1-5858893/fda-committee-unanimously-recommends-first-mrna-flu-vaccine",
+    "published_at": "2026-06-19",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "vaccines"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-22",
+  "date": "2026-06-19",
+  "related": [
+    {
+      "id": "card_9bbd5f",
+      "slug": "flu-and-seasonal-shots",
+      "type": "concept",
+      "title": "Flu and Seasonal Shots",
+      "hook": "Some vaccines are a yearly habit, not a one-time event — because the viruses change, or immunity fades, and a fresh shot keeps protection current each season.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d8a0ad",
+      "slug": "vaccines-adults-still-need",
+      "type": "concept",
+      "title": "Vaccines Adults Still Need",
+      "hook": "Vaccination isn't just a childhood checklist. Protection from some shots fades, new ones are recommended with age, and a few need regular boosters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e94193",
+      "slug": "mrna-melanoma-vaccine",
+      "type": "news",
+      "title": "An mRNA Vaccine Aimed at Keeping Melanoma From Coming Back",
+      "hook": "Merck and Moderna say a late-stage trial of their mRNA melanoma vaccine succeeded — a shot meant not to prevent cancer, but to stop it from returning after surgery.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-20"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1a9e70#0",
+      "format": "flip",
+      "prompt": "Why is Moderna's newly approved flu vaccine notable?",
+      "back_html": "\u003cp\u003eIt's the \u003cstrong\u003efirst flu vaccine using mRNA\u003c/strong\u003e — the same technology as the COVID-19\nshots — and the first to be FDA-approved for use in a flu season.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1a9e70#1",
+      "format": "quiz",
+      "prompt": "Who is the approved mRNA flu vaccine aimed at?",
+      "choices": [
+        {
+          "text": "Older adults — those 50 and over",
+          "correct": true
+        },
+        {
+          "text": "Newborns and infants only",
+          "correct": false
+        },
+        {
+          "text": "People who have never had a flu shot",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eModerna's mRNA influenza vaccine is geared to older people, the group flu hits\nhardest — adults 50 and over, the same population the FDA's advisory committee\nbacked unanimously.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1a9e70#2",
+      "format": "quiz",
+      "prompt": "What practical advantage does mRNA offer over traditional flu vaccine production?",
+      "choices": [
+        {
+          "text": "It skips egg-based growing, so strain updates can happen faster",
+          "correct": true
+        },
+        {
+          "text": "It protects against every influenza strain at once",
+          "correct": false
+        },
+        {
+          "text": "It removes the need for an annual shot",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eConventional flu vaccines are mostly grown in eggs, a slow process that forces\nstrain choices months in advance. mRNA can be made without eggs and retooled\nmore quickly — the flexibility that stood out during COVID.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "card_7150b9",
+  "slug": "heat-engines-and-efficiency",
+  "type": "concept",
+  "title": "Heat Engines and Why None Are Perfect",
+  "hook": "Every car engine and power plant turns heat into motion — but physics forbids turning all of it. Some heat must always be thrown away, which is why perpetual motion is impossible.",
+  "key_points": [
+    "A heat engine extracts useful work as heat flows from something hot to something cold.",
+    "The second law forbids converting all that heat to work — some must be dumped as waste.",
+    "Max possible efficiency rises with a bigger temperature gap between hot and cold.",
+    "A fridge is a heat engine run backwards: do work to pump heat from cold to hot."
+  ],
+  "content_html": "\u003cp\u003eA heat engine is any device that turns heat into useful work — your car's engine, a jet turbine, a coal or nuclear power plant. The trick they all share is letting heat flow from something hot to something cold and capturing part of that flow as motion along the way. Energy is conserved throughout, so it might seem you could grab all the heat as work. You can't, and that limit is one of the deepest rules in physics.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe second law of thermodynamics insists that a heat engine must always dump some heat into a colder reservoir; only the remainder can become work. That's why every engine wastes part of its fuel as heat out the exhaust or the radiator, and why no machine can run forever on its own output — perpetual motion is off the table. The best possible efficiency, worked out by Sadi Carnot, depends only on the temperatures involved: the wider the gap between the hot and cold sides, the more of the heat you can convert. Run the whole process in reverse and you get a refrigerator or heat pump, which uses work to move heat from a cold place to a warm one — cooling your food by pushing its heat out the back. Wikipedia explains the cycle and the efficiency limit.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heat_engine",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "heat-thermo"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eff6e4",
+      "slug": "heat-vs-temperature",
+      "type": "concept",
+      "title": "Heat vs. Temperature",
+      "hook": "A sparkler can hit thousands of degrees yet barely burn you — because temperature and heat are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_52d8f2",
+      "slug": "heat-transfer",
+      "type": "concept",
+      "title": "Three Ways Heat Moves",
+      "hook": "Heat travels three ways: conduction through contact, convection by circulating fluid, and radiation across empty space. Most warming you feel mixes all three.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_11b086",
+      "slug": "conservation-of-energy",
+      "type": "concept",
+      "title": "Conservation of Energy",
+      "hook": "Energy is never created or destroyed — it only changes form. That single rule is one of the most powerful ideas in all of physics.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_7150b9#0",
+      "format": "flip",
+      "prompt": "How does a heat engine produce useful work?",
+      "back_html": "\u003cp\u003eIt lets heat flow from a \u003cstrong\u003ehot\u003c/strong\u003e source to a \u003cstrong\u003ecold\u003c/strong\u003e sink and skims off some of\nthat flow as work — like an engine turning burning fuel into motion.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7150b9#1",
+      "format": "quiz",
+      "prompt": "Why can't a heat engine convert 100% of its heat into useful work?",
+      "choices": [
+        {
+          "text": "The second law of thermodynamics requires dumping some heat to a cold reservoir",
+          "correct": true
+        },
+        {
+          "text": "Engineers just haven't built a good enough engine yet",
+          "correct": false
+        },
+        {
+          "text": "Energy is destroyed in the process",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSome heat must always be rejected to the cold side, so efficiency is always\nbelow 100%. This is also why perpetual-motion machines can't exist.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7150b9#2",
+      "format": "quiz",
+      "prompt": "What makes a heat engine more efficient?",
+      "choices": [
+        {
+          "text": "A larger temperature difference between its hot and cold sides",
+          "correct": true
+        },
+        {
+          "text": "Running it at a single uniform temperature",
+          "correct": false
+        },
+        {
+          "text": "Making the engine physically heavier",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe maximum efficiency depends on the temperatures: the bigger the gap between\nhot source and cold sink, the more of the heat can become work.\u003c/p\u003e"
+    }
+  ]
+}

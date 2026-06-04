@@ -1,0 +1,109 @@
+{
+  "id": "card_890fc0",
+  "slug": "exercise-and-the-body",
+  "type": "concept",
+  "title": "Exercise and the Body",
+  "hook": "Physical activity reaches far beyond muscle — it strengthens the heart, reshapes metabolism, and even sharpens the brain.",
+  "key_points": [
+    "Exercise makes muscles stronger and improves their endurance.",
+    "It strengthens the heart, so it pumps more blood with each beat.",
+    "Activity helps control weight, blood sugar, and blood pressure.",
+    "It also boosts mood, memory, and brain health."
+  ],
+  "content_html": "\u003cp\u003eIt's easy to think of exercise as just a way to build muscle, but its effects ripple through nearly every system in the body. Working muscles get stronger and more enduring, but the same activity also trains the heart, tunes metabolism, and even changes the brain.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs MedlinePlus describes, the heart is itself a muscle, so aerobic activity strengthens it — letting it pump more blood with each beat and work less hard at rest. Regular movement helps control body weight, keeps blood sugar and blood pressure in healthier ranges, and strengthens bones. The benefits reach the brain too: exercise boosts blood flow and releases chemicals that lift mood, ease anxiety, and support memory and learning. Taken together, that's why staying active is one of the most reliable things a person can do to lower the risk of chronic disease and feel better day to day.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/benefitsofexercise.html",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "nutrition-health"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_324518",
+      "slug": "bones-and-muscles",
+      "type": "concept",
+      "title": "Bones and Muscles",
+      "hook": "Your skeleton is the frame and your muscles are the engines — together they let you stand, move, and protect the soft organs inside you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_630b44",
+      "slug": "circulatory-system",
+      "type": "concept",
+      "title": "The Circulatory System",
+      "hook": "Your heart pumps blood through roughly 60,000 miles of vessels, delivering oxygen and fuel to every cell and hauling waste away — about once a minute.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1ffae",
+      "slug": "diet-and-disease",
+      "type": "concept",
+      "title": "Diet and Disease",
+      "hook": "What you eat over years quietly shapes your odds of heart disease, type 2 diabetes, and more — diet is one of the strongest levers on long-term health.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_890fc0#0",
+      "format": "flip",
+      "prompt": "Name three things regular exercise does for the body.",
+      "back_html": "\u003cp\u003eIt \u003cstrong\u003estrengthens muscles\u003c/strong\u003e, makes the \u003cstrong\u003eheart pump more efficiently\u003c/strong\u003e, and\nimproves \u003cstrong\u003ebrain health and mood\u003c/strong\u003e — plus it helps control weight, blood sugar,\nand blood pressure.\u003c/p\u003e"
+    },
+    {
+      "id": "card_890fc0#1",
+      "format": "quiz",
+      "prompt": "What happens to the heart with regular aerobic exercise?",
+      "choices": [
+        {
+          "text": "It grows stronger and pumps more blood per beat",
+          "correct": true
+        },
+        {
+          "text": "It stops needing oxygen",
+          "correct": false
+        },
+        {
+          "text": "It shrinks until it can no longer pump",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe heart is a muscle. Regular activity strengthens it, so it moves more blood\nwith each beat and doesn't have to work as hard at rest.\u003c/p\u003e"
+    },
+    {
+      "id": "card_890fc0#2",
+      "format": "quiz",
+      "prompt": "How does exercise affect the brain?",
+      "choices": [
+        {
+          "text": "It can improve mood, memory, and thinking",
+          "correct": true
+        },
+        {
+          "text": "It has no effect on the brain at all",
+          "correct": false
+        },
+        {
+          "text": "It only affects the brain in children",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eExercise increases blood flow to the brain and triggers chemicals that lift mood\nand support memory and learning — benefits seen across all ages.\u003c/p\u003e"
+    }
+  ]
+}

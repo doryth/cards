@@ -1,0 +1,122 @@
+{
+  "id": "card_d8ad74",
+  "slug": "political-legitimacy",
+  "type": "concept",
+  "title": "Political Legitimacy",
+  "hook": "Power can rest on fear alone, but it lasts when people believe it is rightful. That belief — legitimacy — is what separates authority from mere force.",
+  "key_points": [
+    "Legitimacy is the widely shared belief that a government's right to rule is justified.",
+    "It turns naked power into authority people accept voluntarily, not just out of fear.",
+    "Max Weber identified three sources: tradition, charisma, and legal-rational rules.",
+    "In democracies, legitimacy rests mainly on lawful procedures and the consent expressed in elections."
+  ],
+  "content_html": "\u003cp\u003eA government can hold power through sheer force, but force is expensive and brittle — it requires constant coercion and invites resistance. Legitimacy is what makes power durable: it is the widely shared belief that a government's right to rule is justified, so that people obey because they accept its authority as rightful, not merely because they fear punishment. This belief is the difference between a regime that must watch its citizens and one that its citizens largely accept.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe sociologist Max Weber offered the classic map of where legitimacy comes from, identifying three pure types. Traditional authority rests on long-established custom — \u0026quot;we have always been ruled this way,\u0026quot; as with hereditary monarchs. Charismatic authority flows from devotion to an exceptional leader's personal qualities. Legal-rational authority, the dominant form in modern states, rests on impersonal rules and offices: people obey the law and the office, not the individual. Encyclopaedia Britannica notes that real governments usually blend these sources. In a democracy, legitimacy leans heavily on the legal-rational type — lawful procedures, constitutional limits, and the consent expressed through free elections — which is why disputed elections or rule-breaking by leaders can damage a government's standing even when it keeps physical control.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/legitimacy",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "foundations-of-government"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_643502",
+      "slug": "social-contract",
+      "type": "concept",
+      "title": "The Social Contract",
+      "hook": "Why should anyone obey the state? The social contract answers: people trade some freedom for the security and order that only collective authority can provide.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7322d2",
+      "slug": "what-is-government",
+      "type": "concept",
+      "title": "What Government Is For",
+      "hook": "Every society needs a way to make and enforce collective decisions — that shared system of authority is what we call government.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_766f74",
+      "slug": "rule-of-law",
+      "type": "concept",
+      "title": "The Rule of Law",
+      "hook": "The principle that everyone — including those in power — is bound by the same publicly known laws, applied equally.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7322d2",
+      "slug": "what-is-government",
+      "type": "concept",
+      "title": "What Government Is For",
+      "hook": "Every society needs a way to make and enforce collective decisions — that shared system of authority is what we call government.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_d8ad74#0",
+      "format": "flip",
+      "prompt": "What is political legitimacy?",
+      "back_html": "\u003cp\u003eThe widely shared belief that a government's right to rule is \u003cstrong\u003ejustified\u003c/strong\u003e —\nwhat turns raw power into authority people accept voluntarily.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d8ad74#1",
+      "format": "quiz",
+      "prompt": "What distinguishes legitimate authority from mere force?",
+      "choices": [
+        {
+          "text": "People accept it as rightful, not only out of fear of punishment",
+          "correct": true
+        },
+        {
+          "text": "It always controls a larger army",
+          "correct": false
+        },
+        {
+          "text": "It never has to enforce any laws",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eForce compels; legitimacy persuades. Authority is accepted as rightful,\nso compliance does not depend on constant coercion.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d8ad74#2",
+      "format": "quiz",
+      "prompt": "Which three sources of legitimate authority did Max Weber identify?",
+      "choices": [
+        {
+          "text": "Tradition, charisma, and legal-rational rules",
+          "correct": true
+        },
+        {
+          "text": "Wealth, military strength, and territory",
+          "correct": false
+        },
+        {
+          "text": "Religion, language, and ethnicity",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWeber's classic typology: legitimacy can rest on long-standing tradition,\na leader's personal charisma, or impersonal legal-rational rules.\u003c/p\u003e"
+    }
+  ]
+}

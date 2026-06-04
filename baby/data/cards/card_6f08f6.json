@@ -1,0 +1,82 @@
+{
+  "id": "card_6f08f6",
+  "slug": "vaccines-in-pregnancy",
+  "type": "concept",
+  "title": "Vaccines That Protect You and Your Baby",
+  "hook": "Certain vaccines in pregnancy do double duty: they protect you from serious illness and pass antibodies to your baby, shielding them in the early weeks before their own shots.",
+  "key_points": [
+    "Recommended vaccines in pregnancy include Tdap (whooping cough), flu, and RSV — exact options depend on your country and season.",
+    "Antibodies cross the placenta, protecting your newborn before they're old enough for their own vaccines.",
+    "Tdap is usually given in the third trimester (about 27–36 weeks) to maximise antibody transfer to the baby.",
+    "The RSV vaccine is typically given later (around 32–36 weeks) during the RSV season."
+  ],
+  "content_html": "\u003cp\u003eSome of the most effective protection a newborn gets happens before they're even born. When you're vaccinated in pregnancy, your body makes antibodies that cross the placenta to your baby — giving them a shield against serious infections in the first weeks of life, before they're old enough for their own vaccines.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe CDC recommends several vaccines in pregnancy, including Tdap (which protects against whooping cough), the flu vaccine, and the RSV vaccine; the exact recommendations depend on your country, your health, and the season. Timing matters: Tdap is generally given in the third trimester (about 27–36 weeks) to maximise antibody transfer, and the maternal RSV vaccine is typically given a little later (around 32–36 weeks) during RSV season. This is general information — your midwife or doctor will advise which vaccines are right for you and when to have them.\u003c/p\u003e",
+  "source": {
+    "name": "CDC",
+    "url": "https://www.cdc.gov/vaccines-pregnancy/hcp/vaccination-guidelines/index.html",
+    "license": "Public domain (U.S. Government)"
+  },
+  "topic_ids": [
+    "pregnancy",
+    "health-safety"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_9ce053",
+      "slug": "childhood-vaccines",
+      "type": "concept",
+      "title": "How Childhood Vaccines Work",
+      "hook": "Vaccines train a child's immune system to recognize a disease in advance, so it can fight off the real thing — and they're scheduled to protect kids when they're most vulnerable.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a30e0a",
+      "slug": "prenatal-care-visits",
+      "type": "concept",
+      "title": "Why Prenatal Visits Matter",
+      "hook": "Regular checkups during pregnancy catch problems early — for many a typical schedule is monthly, then every two weeks, then weekly as the due date nears.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6f08f6#0",
+      "format": "quiz",
+      "prompt": "How do vaccines given in pregnancy help protect a newborn?",
+      "choices": [
+        {
+          "text": "Antibodies cross the placenta, protecting the baby before their own vaccines",
+          "correct": true
+        },
+        {
+          "text": "They make the baby immune for life from birth",
+          "correct": false
+        },
+        {
+          "text": "They replace the need for any childhood vaccines",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVaccinating in pregnancy allows passive antibody transfer across the\nplacenta, giving newborns protection in the gap before their own shots.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6f08f6#1",
+      "format": "flip",
+      "prompt": "When is the Tdap (whooping cough) vaccine usually given in pregnancy?",
+      "back_html": "\u003cp\u003eUsually in the \u003cstrong\u003ethird trimester, around 27–36 weeks\u003c/strong\u003e, which maximises\nthe antibodies passed to the baby for protection against whooping cough.\u003c/p\u003e"
+    }
+  ]
+}

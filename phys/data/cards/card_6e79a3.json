@@ -1,0 +1,113 @@
+{
+  "id": "card_6e79a3",
+  "slug": "dead-cone-effect-in-b-jets",
+  "type": "paper",
+  "title": "Heavy Quarks Cast a Shadow",
+  "hook": "A massive quark cannot radiate gluons straight ahead — it carves out a 'dead cone' around its own direction. CMS now sees that shadow in bottom-quark jets, disfavouring models without it at 4.3 sigma.",
+  "key_points": [
+    "A quark shooting out of a collision sheds gluons, building up a jet of particles.",
+    "For a massive quark, collinear gluon emission is suppressed — the dead-cone effect.",
+    "It is the primary way quark mass shows up in a parton shower.",
+    "CMS analysed 59.8 inverse femtobarns of 13 TeV proton-proton data.",
+    "Bottom jets with transverse momenta of 40-200 GeV, from top quark pair production, were iteratively declustered.",
+    "The emission density versus subjet angle favours showers with the dead cone; models without it are disfavoured at 4.3 sigma."
+  ],
+  "content_html": "\u003cp\u003eWhen a quark is knocked out of a proton-proton collision it does not travel alone: it radiates\ngluons, which radiate further, until the whole cascade hadronises into a jet. For a light quark\nthat radiation peaks at small angles to the quark's direction. Give the quark mass and that\ncollinear radiation is choked off, leaving an emptier cone around its flight path — the dead-cone\neffect, and the clearest way quark mass shows up in a parton shower.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe CMS collaboration measured it in bottom-quark jets, using 59.8 inverse femtobarns of 13 TeV\nproton-proton data. The trick is getting a clean sample and a clean observable: they take b jets\nwith transverse momenta between 40 and 200 GeV produced in top quark pair production, then\niteratively decluster each jet and measure the emission density as a function of the angular\nseparation between the resulting subjets. Compared with the data, a Monte Carlo parton shower\nincluding the dead cone is favoured, while one without it is disfavoured at 4.3 standard\ndeviations — evidence for an effect that has been in the theory for decades but is stubbornly\nhard to see directly.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "CMS Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2608.29412",
+    "published_at": "2026-08-29",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-08-29",
+  "related": [
+    {
+      "id": "card_13b1bf",
+      "slug": "the-force-on-a-quark",
+      "type": "paper",
+      "title": "Measuring the force that traps a quark inside the proton",
+      "hook": "Nobody has ever seen a free quark. A sharpened reconstruction of the actual force tugging on one inside the proton comes out looking like a string pulled at constant tension.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_e16fb0",
+      "slug": "quark-gluon-plasma-in-light-ion-collisions",
+      "type": "paper",
+      "title": "Evidence for Sequential Υ(nS) Suppression in Light Ion Collisions",
+      "hook": "Physicists just found the same 'melting pattern' that signals a quark-gluon plasma — the universe's primordial soup — in much smaller particle collisions than ever confirmed before.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "card_8d54fc",
+      "slug": "gluon-junction-carries-baryon-number",
+      "type": "news",
+      "title": "What Actually Makes a Proton a Proton?",
+      "hook": "Textbooks say a proton's identity lives in its three quarks. RHIC data hint it is really carried by a Y-shaped junction of the gluons tying them together.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-16"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6e79a3#0",
+      "format": "flip",
+      "prompt": "What is the dead-cone effect?",
+      "back_html": "\u003cp\u003eA massive quark's gluon radiation is suppressed at small angles to its own direction,\nleaving a cone around its flight path that is comparatively empty of emissions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6e79a3#1",
+      "format": "quiz",
+      "prompt": "Why is the dead cone the headline signature of quark mass in a parton shower?",
+      "choices": [
+        {
+          "text": "Mass is what suppresses the collinear emissions a massless quark would produce freely",
+          "correct": true
+        },
+        {
+          "text": "Only massive quarks produce jets at all",
+          "correct": false
+        },
+        {
+          "text": "It changes the total number of quarks in the event",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMassless quarks radiate strongly at small angles. Giving the quark mass shuts that channel\ndown, so the missing collinear radiation directly encodes the mass.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6e79a3#2",
+      "format": "flip",
+      "prompt": "How did CMS resolve the emission pattern inside a jet?",
+      "back_html": "\u003cp\u003eBy iteratively declustering the jet into subjets and measuring the emission density as a\nfunction of the angular separation between them.\u003c/p\u003e"
+    }
+  ]
+}

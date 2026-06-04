@@ -1,0 +1,86 @@
+{
+  "id": "card_197439",
+  "slug": "gut-bacterium-toxin-colon-cancer",
+  "type": "news",
+  "title": "Scientists Solved How a Gut Bacterium Triggers Colon Cancer",
+  "hook": "Researchers cracked a long-standing mystery — how a common gut bacterium's toxin damages the colon and drives cancer — and used that insight to design a decoy protein that blocked it in mice.",
+  "key_points": [
+    "A bacterial toxin long associated with colorectal cancer works by first binding to a receptor called claudin-4 on colon cells.",
+    "That binding gives the toxin access to attack the cells' protective barrier, setting up inflammation and tumor growth.",
+    "Researchers used this newly identified weak point to design a decoy protein that successfully blocked the toxin in mice.",
+    "The discovery could pave the way for new therapies to prevent inflammation and colon tumors, though it's still at the mouse stage."
+  ],
+  "content_html": "\u003cp\u003eA bacterial toxin long linked to colorectal cancer has kept scientists guessing about exactly how it does its damage. A new study says it's solved that mystery.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, the toxin first binds to a receptor called claudin-4 on colon cells, and that binding is what gives it access to attack the cells' protective barrier — setting off the inflammation and tumor growth associated with colorectal cancer. Having identified that weak point, the research team designed a decoy protein that successfully blocked the toxin in mice. It's still an animal-stage result, but pinpointing the exact mechanism opens a clear path toward therapies that could prevent this kind of damage in people, rather than just treating cancer after it's already formed.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260713084910.htm",
+    "published_at": "2026-07-16",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_3248ca",
+      "slug": "cracking-pancreatic-cancer",
+      "type": "news",
+      "title": "A Drug for 'Undruggable' Pancreatic Cancer",
+      "hook": "A new drug, daraxonrasib, hits a KRAS mutation long thought 'undruggable' and nearly doubled survival in a trial of advanced pancreatic cancer — a hard-to-treat disease.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_427b95",
+      "slug": "cancer-screenings-worth-knowing",
+      "type": "concept",
+      "title": "Cancer Screenings Worth Knowing",
+      "hook": "Screening looks for cancer before symptoms start — and for a few common cancers, that early catch dramatically improves the odds.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_197439#0",
+      "format": "flip",
+      "prompt": "How does the cancer-linked bacterial toxin get into colon cells in the first place?",
+      "back_html": "\u003cp\u003eIt first binds to a receptor called \u003cstrong\u003eclaudin-4\u003c/strong\u003e, which gives it access to attack the\ncells' protective barrier — the opening move behind the damage it causes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_197439#1",
+      "format": "quiz",
+      "prompt": "What did researchers build after identifying this weak point?",
+      "choices": [
+        {
+          "text": "A decoy protein that blocked the toxin in mice",
+          "correct": true
+        },
+        {
+          "text": "A vaccine against the bacterium itself",
+          "correct": false
+        },
+        {
+          "text": "A blood test to detect the toxin early",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOnce they knew how the toxin gained entry, researchers designed a decoy protein that\nsuccessfully blocked it in mouse studies.\u003c/p\u003e"
+    },
+    {
+      "id": "card_197439#2",
+      "format": "flip",
+      "prompt": "What stage is this research at?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eMouse studies\u003c/strong\u003e — the decoy protein worked in mice, but it's not yet a tested therapy\nin people.\u003c/p\u003e"
+    }
+  ]
+}

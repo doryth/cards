@@ -1,0 +1,104 @@
+{
+  "id": "card_42fd73",
+  "slug": "how-fine-tuned-is-our-universe",
+  "type": "paper",
+  "title": "Maybe the Universe Isn't as Finely Tuned as Advertised",
+  "hook": "A review of what happens when you change the constants of nature argues the usual story is overstated: universes with quite different parameters could still make stars, planets, and possibly life.",
+  "key_points": [
+    "The fine-tuning argument holds that the constants of physics sit in improbably narrow ranges, without which no complex structure could form.",
+    "Fred Adams surveys the actual ranges, varying the four force strengths and the up-quark, down-quark, and electron masses.",
+    "He also varies cosmological parameters: total density, dark energy density, baryon-to-photon ratio, dark matter fraction, fluctuation amplitude, and the number of spatial dimensions.",
+    "Classic worries get re-examined — the triple-alpha reaction that makes carbon, a stable diproton, and unstable deuterium.",
+    "His conclusion: many altered universes still find ways to generate energy, run nucleosynthesis, and support habitability.",
+    "The framing assumes a multiverse in which different universes sample different physical laws."
+  ],
+  "content_html": "\u003cp\u003eYou have probably heard that the universe is finely tuned: nudge the strength of gravity or the mass of the electron a little and stars never ignite, carbon never forms, and nothing interesting happens. Fred Adams' review works through the actual arithmetic and concludes the constants have more room to move than that story suggests.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAdams starts from the premise the argument requires — that many universes exist and sample different physical laws — and then asks, quantitatively, how far each parameter can be pushed. He varies the four coupling constants that set the strengths of the fundamental forces and the masses of the particles making up atomic matter (up quark, down quark, electron), along with a list of cosmological parameters: the density parameter, the dark energy density, the baryon-to-photon ratio, the dark matter contribution, the amplitude of primordial density fluctuations, and even the number of spatial dimensions. The constraints come from requiring a universe that emerges from nucleosynthesis with a workable chemical composition, lasts a long time, and eventually assembles galaxies, stars, and planets — with stars living long enough and running hot enough to matter for life. Along the way he revisits the greatest hits of the fine-tuning literature: the triple-alpha reaction that lets stars make carbon, what happens if the diproton were stable, what happens if deuterium were not. His summary is that universes with substantially different parameters can still find routes to generating energy, running nucleosynthesis, and plausibly supporting habitability — the space of viable physics being, in his word, not so fragile.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Fred C. Adams"
+    ],
+    "url": "https://arxiv.org/abs/2607.23374",
+    "published_at": "2026-07-25",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology",
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-07-25",
+  "related": [
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ab4608",
+      "slug": "the-fate-of-the-universe",
+      "type": "concept",
+      "title": "How Will the Universe End?",
+      "hook": "The universe began with a Big Bang — but how does the story end? With dark energy speeding up the expansion, the leading answer is a long, cold fade into darkness.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_42fd73#0",
+      "format": "flip",
+      "prompt": "What is the fine-tuning argument, and what does this review conclude about it?",
+      "back_html": "\u003cp\u003eThe claim that the constants of nature must sit in improbably narrow ranges for\ncomplex structure to exist. Adams argues the ranges are \u003cstrong\u003ewider than usually\nstated\u003c/strong\u003e — altered universes often still make stars and planets.\u003c/p\u003e"
+    },
+    {
+      "id": "card_42fd73#1",
+      "format": "quiz",
+      "prompt": "Which of these is one of the classic fine-tuning worries Adams re-examines?",
+      "choices": [
+        {
+          "text": "The triple-alpha reaction that lets stars build carbon",
+          "correct": true
+        },
+        {
+          "text": "The exact value of the speed of light in a vacuum",
+          "correct": false
+        },
+        {
+          "text": "The number of galaxies in the observable universe",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHe revisits several stellar-physics cases: the triple-alpha carbon reaction, a\nstable diproton, and unstable deuterium — each often cited as needing delicate\ntuning.\u003c/p\u003e"
+    },
+    {
+      "id": "card_42fd73#2",
+      "format": "flip",
+      "prompt": "What premise does this kind of analysis start from?",
+      "back_html": "\u003cp\u003eThat \u003cstrong\u003emultiple universes\u003c/strong\u003e can exist and sample different realisations of the\nlaws of physics — otherwise there is no ensemble to ask \u0026quot;how likely are our\nconstants?\u0026quot; against.\u003c/p\u003e"
+    }
+  ]
+}

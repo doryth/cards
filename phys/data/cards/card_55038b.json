@@ -1,0 +1,119 @@
+{
+  "id": "card_55038b",
+  "slug": "exceptional-points-in-photonics",
+  "type": "paper",
+  "title": "Exceptional Points: When Two Light Modes Become One",
+  "hook": "Tune an optical resonator with just the right amount of loss and two of its modes don't merely cross — they merge outright. That degeneracy is hypersensitive, which is why sensor designers love it.",
+  "key_points": [
+    "Open photonic systems leak light, so they are described by non-Hermitian operators rather than tidy Hermitian ones.",
+    "At an exceptional point, two eigenvalues AND their eigenvectors coalesce, and the operator becomes defective.",
+    "The response to a small perturbation is nonanalytic — it scales like a root, not linearly.",
+    "The review sorts the zoo: Hamiltonian, absorbing, scattering-matrix, Bloch, Floquet and Liouvillian exceptional points.",
+    "Applications span sensing, lasing, coherent absorption, polarization control, nonlinear optics and nonreciprocal photonics.",
+    "It also assesses the hard parts: robustness, noise, scalability and honest performance metrics."
+  ],
+  "content_html": "\u003cp\u003eTextbook quantum mechanics uses Hermitian operators, which guarantees real energies and a clean\northogonal set of modes. Real optical devices leak: light escapes the cavity, gets absorbed, or\nis pumped in. That makes the governing operator non-Hermitian, and non-Hermitian operators can do\nsomething Hermitian ones cannot — at an exceptional point, two eigenvalues and their eigenvectors\ncoalesce, and the operator becomes defective.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis review by Zhang, Bogdanov and colleagues offers a unified framework for the resulting zoo,\nsorting exceptional degeneracies by the operator involved, the spectral variable, the boundary\nconditions and what you can actually measure: Hamiltonian exceptional points, absorbing ones tied\nto scattering zeros, real-frequency scattering- and Jones-matrix varieties, Bloch and Floquet\nversions in periodic and driven systems, and Liouvillian ones in open quantum systems. The\nphysics that makes them interesting is the nonanalytic perturbative response — a tiny nudge\nproduces an outsized spectral shift, which is the basis of exceptional-point sensing, along with\napplications in lasing, coherent absorption, directional scattering, polarization and wavefront\nshaping, and nonreciprocal photonics. The authors also do the unglamorous work of assessing where\nthis breaks down in practice: robustness, noise, scalability, and whether the claimed sensing\ngains survive an honest, experimentally measurable accounting.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Fan Zhang",
+      "Nikolay Solodovchenko",
+      "Dmitrii N. Maksimov",
+      "Xuchen Wang",
+      "Andrey Bogdanov",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2609.01239",
+    "published_at": "2026-09-01",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "light-optics",
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-09-01",
+  "related": [
+    {
+      "id": "card_65937b",
+      "slug": "how-lasers-work",
+      "type": "concept",
+      "title": "How Lasers Work",
+      "hook": "A flashlight sprays a jumble of colors every which way. A laser does the opposite: one pure color, marching in perfect step, in a beam so tight it can reach the Moon.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2a0bb3",
+      "slug": "programmable-photonic-chip-slow-light",
+      "type": "news",
+      "title": "A Photonic Chip That Slows Light on Command",
+      "hook": "Light usually races through a chip at a fixed clip. This programmable circuit dials that speed down on demand — the buffer and delay line that computing with light has been missing.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-21"
+    },
+    {
+      "id": "card_59b567",
+      "slug": "fibre-like-loss-on-a-chip",
+      "type": "news",
+      "title": "Chip Waveguides That Lose Light Almost as Slowly as Fiber",
+      "hook": "Optical fiber carries light for kilometers; on-chip waveguides lose it in centimeters. Caltech closed most of that gap for visible light by melting the roughness away.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "card_80e637",
+      "slug": "electromagnetic-spectrum",
+      "type": "concept",
+      "title": "The Electromagnetic Spectrum",
+      "hook": "Radio, microwaves, the warmth of sunlight, the colors you see, and a hospital X-ray are all the same thing — electromagnetic waves, differing only in wavelength.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_55038b#0",
+      "format": "flip",
+      "prompt": "What distinguishes an exceptional point from an ordinary degeneracy?",
+      "back_html": "\u003cp\u003eAt an ordinary degeneracy only the eigenvalues coincide. At an exceptional point the\neigenvectors coalesce too, and the operator becomes defective.\u003c/p\u003e"
+    },
+    {
+      "id": "card_55038b#1",
+      "format": "quiz",
+      "prompt": "Why are exceptional points attractive for sensing?",
+      "choices": [
+        {
+          "text": "The response to a small perturbation is nonanalytic, so a tiny change produces an outsized shift",
+          "correct": true
+        },
+        {
+          "text": "They eliminate all noise from the measurement",
+          "correct": false
+        },
+        {
+          "text": "They make the resonator lossless",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNear an exceptional point the eigenvalue splitting scales like a root of the perturbation\nrather than linearly — a big response to a small nudge. The review notes noise and\nrobustness are exactly where the practical debate lies.\u003c/p\u003e"
+    },
+    {
+      "id": "card_55038b#2",
+      "format": "flip",
+      "prompt": "Why are open photonic systems described by non-Hermitian operators?",
+      "back_html": "\u003cp\u003eBecause they leak — light escapes and is absorbed. Gain and loss make the governing operator\nnon-Hermitian, allowing complex eigenvalues and exceptional points.\u003c/p\u003e"
+    }
+  ]
+}

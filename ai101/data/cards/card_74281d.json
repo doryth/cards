@@ -1,0 +1,121 @@
+{
+  "id": "card_74281d",
+  "slug": "fact-checking-ai",
+  "type": "concept",
+  "title": "How to Fact-Check AI",
+  "hook": "You can't tell a true AI answer from a made-up one by reading it — both sound equally sure. So build a habit: for anything that matters, verify it somewhere that isn't the AI.",
+  "key_points": [
+    "Confidence is not accuracy — a fluent answer is not a checked one.",
+    "Verify against a real source you can see: official sites, primary documents, multiple outlets.",
+    "Ask the AI for its sources, then actually open and read them.",
+    "Be most skeptical of specific facts: names, dates, numbers, quotes, citations, laws."
+  ],
+  "content_html": "\u003cp\u003eThe hardest thing about AI errors is that they're invisible from the inside of an answer. A correct fact and a complete fabrication are written in the same calm, fluent, authoritative voice — the model doesn't know which is which, so it can't warn you. That means \u0026quot;it sounded right\u0026quot; is worthless as a test. The only reliable approach is to verify important claims \u003cem\u003eoutside\u003c/em\u003e the AI, against something you can actually see.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA practical routine: for anything with real stakes, confirm it against a primary or official source — the actual government site, the original document, the company's own page — or check whether several independent outlets say the same thing. Ask the AI to provide its sources, but don't stop there: open them, because models sometimes invent citations, complete with realistic-looking titles and authors that don't exist. Aim your skepticism where hallucinations cluster: specific names, dates, statistics, quotes, legal rules, and medical or financial details. Conceptual explanations (\u0026quot;how does a mortgage work?\u0026quot;) are usually safe to trust; specific facts (\u0026quot;what was the 2019 rate?\u0026quot;) are exactly where to slow down. The goal isn't paranoia — it's a reflex to double-check the details before you act on them or pass them on.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "hallucinations"
+  ],
+  "tags": [
+    "safety",
+    "tutorial"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a92eaf",
+      "slug": "ai-search-overviews",
+      "type": "concept",
+      "title": "AI in Search",
+      "hook": "Search engines now answer in sentences, not just links. Convenient — but the AI summary can be wrong or miss context, and the links underneath are still where the truth lives.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af049a",
+      "slug": "using-ai-responsibly",
+      "type": "concept",
+      "title": "Using AI Responsibly",
+      "hook": "The point of AI literacy isn't to use AI for everything — it's to use it well: check its work, be honest that you used it, and know the moments to put it down.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_74281d#0",
+      "format": "quiz",
+      "prompt": "Why can't you spot a hallucination just by reading the answer?",
+      "choices": [
+        {
+          "text": "True and made-up answers are written with the same confidence",
+          "correct": true
+        },
+        {
+          "text": "Hallucinations are always full of typos",
+          "correct": false
+        },
+        {
+          "text": "The AI flags wrong answers in red",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe model has no internal sense of certainty it shows you — a fabricated\nfact reads exactly as smoothly as a correct one. Only outside checking reveals it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_74281d#1",
+      "format": "flip",
+      "prompt": "What kinds of AI output deserve the most suspicion?",
+      "back_html": "\u003cp\u003eSpecifics: names, dates, numbers, quotes, citations, and legal or medical\nclaims. These are exactly where models invent plausible-sounding details.\u003c/p\u003e"
+    },
+    {
+      "id": "card_74281d#2",
+      "format": "quiz",
+      "prompt": "The AI gives you a source for its claim. What next?",
+      "choices": [
+        {
+          "text": "Open the source and confirm it actually says that",
+          "correct": true
+        },
+        {
+          "text": "Trust it — providing a source proves it's right",
+          "correct": false
+        },
+        {
+          "text": "Ask the AI if the source is real",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eModels sometimes invent citations outright. A named source means nothing\nuntil you open it and verify it exists and supports the claim.\u003c/p\u003e"
+    }
+  ]
+}

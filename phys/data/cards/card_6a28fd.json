@@ -1,0 +1,101 @@
+{
+  "id": "card_6a28fd",
+  "slug": "friction",
+  "type": "concept",
+  "title": "Friction: The Force That Resists Sliding",
+  "hook": "You can't walk, brake, or hold a cup without it — yet it quietly wastes energy as heat and wears machines down. Friction is both essential and costly.",
+  "key_points": [
+    "Friction is a force between touching surfaces that always opposes relative sliding.",
+    "Static friction must be overcome to start motion; kinetic friction acts while sliding.",
+    "It scales with the normal force pressing the surfaces together, not contact area.",
+    "It enables walking, grip, and brakes — but wastes energy as heat and wears parts."
+  ],
+  "content_html": "\u003cp\u003eFriction is the force that resists sliding between two surfaces in contact. It comes in two flavors: static friction, which you must overcome to get a stationary object moving, and kinetic friction, which acts on something already sliding. Either way, it always pushes against the relative motion of the surfaces.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe strength of friction depends mainly on how hard the surfaces are pressed together — the normal force — rather than on how large the contact patch is. Roughly double the weight pressing down and you roughly double the friction. That single fact explains a lot: heavier cars need stronger brakes, and pushing a loaded crate is harder than an empty one. Friction is indispensable — without it you couldn't walk, grip a pencil, or stop a bike — but it also bleeds energy away as heat and slowly wears parts down, which is why engines need lubrication. Wikipedia's overview covers static versus kinetic friction and the rules of thumb engineers rely on.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Friction",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "motion-forces"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d32c83",
+      "slug": "newtons-three-laws",
+      "type": "concept",
+      "title": "Newton's Three Laws of Motion",
+      "hook": "Three short rules — inertia, F=ma, and action-reaction — quietly govern almost everything that moves around you.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b37088",
+      "slug": "circular-motion",
+      "type": "concept",
+      "title": "Circular Motion Needs a Force Pulling Inward",
+      "hook": "Anything moving in a circle is accelerating, even at constant speed — so something must constantly pull it inward. There is no real outward force flinging you out.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6a28fd#0",
+      "format": "flip",
+      "prompt": "What is the difference between static and kinetic friction?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eStatic friction\u003c/strong\u003e must be overcome to start an object moving, and it's\nusually a bit stronger. \u003cstrong\u003eKinetic friction\u003c/strong\u003e acts once the object is sliding.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6a28fd#1",
+      "format": "quiz",
+      "prompt": "Which direction does friction act?",
+      "choices": [
+        {
+          "text": "Opposite to the relative motion (or attempted motion) of the surfaces",
+          "correct": true
+        },
+        {
+          "text": "Always straight down toward the ground",
+          "correct": false
+        },
+        {
+          "text": "In the same direction as the object's motion",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFriction always opposes sliding between surfaces, which is why it slows\nthings down and why you need it to grip and push off.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6a28fd#2",
+      "format": "quiz",
+      "prompt": "Friction force mostly depends on which of these?",
+      "choices": [
+        {
+          "text": "How hard the surfaces are pressed together (the normal force)",
+          "correct": true
+        },
+        {
+          "text": "The total contact area between the surfaces",
+          "correct": false
+        },
+        {
+          "text": "The color of the surfaces",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTo a good approximation friction scales with the normal force, not with how\nmuch surface area is in contact.\u003c/p\u003e"
+    }
+  ]
+}

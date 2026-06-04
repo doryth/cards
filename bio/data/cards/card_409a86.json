@@ -1,0 +1,111 @@
+{
+  "id": "card_409a86",
+  "slug": "sex-and-early-animal-evolution",
+  "type": "news",
+  "title": "Did Sex Jump-Start Evolution?",
+  "hook": "Earth's first animals barely changed for ages. A study argues the switch from cloning to sex is what finally set evolution — and biodiversity — racing.",
+  "key_points": [
+    "Earth's earliest animals reproduced largely asexually and changed little over long spans.",
+    "Asexual cloning makes near-identical offspring, limiting the variation evolution needs.",
+    "Sexual reproduction shuffles two parents' genes into new combinations each generation.",
+    "The study links the shift toward sex to a surge in biodiversity and faster evolution."
+  ],
+  "content_html": "\u003cp\u003eFor hundreds of millions of years, Earth's earliest animals barely changed. A new study suggests the reason lies in how they reproduced — and that the switch to sex is what finally set evolution racing.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, the research argues that early animal communities reproduced largely asexually, cloning themselves into genetically similar, low-competition populations that stayed evolutionarily stagnant. Sexual reproduction changes that: it shuffles two parents' genes into novel combinations every generation, generating the raw genetic variety that natural selection feeds on. As environmental pressures pushed animals toward sex, that variation — and the competition it fueled — accelerated diversification, helping set the stage for the explosion of animal forms that followed. The work reframes sex not just as a way to make offspring, but as an engine of evolutionary change.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260610003042.htm",
+    "published_at": "2026-06-10",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "evolution",
+    "origin-of-life"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-11",
+  "date": "2026-06-10",
+  "related": [
+    {
+      "id": "card_539d3b",
+      "slug": "sexual-selection",
+      "type": "concept",
+      "title": "Sexual Selection",
+      "hook": "Why does a peacock drag around a tail that makes it easy prey? Because for some traits, winning a mate matters more to evolution than simply surviving.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_50ecfa",
+      "slug": "how-new-species-form",
+      "type": "concept",
+      "title": "How New Species Form",
+      "hook": "Split one population in two, let them drift apart long enough, and eventually they can no longer interbreed — that's speciation, the engine that fills the tree of life with branches.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e21b2e",
+      "slug": "the-cambrian-explosion",
+      "type": "concept",
+      "title": "The Cambrian Explosion",
+      "hook": "Around 540 million years ago, after billions of years of mostly microbes, animal life suddenly diversified into a riot of body plans — most major groups appearing in a geological blink.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_409a86#0",
+      "format": "flip",
+      "prompt": "Why does sexual reproduction tend to speed up evolution?",
+      "back_html": "\u003cp\u003eIt shuffles two parents' genes into \u003cstrong\u003enew combinations\u003c/strong\u003e every generation,\ncreating the genetic variety that natural selection acts on.\u003c/p\u003e"
+    },
+    {
+      "id": "card_409a86#1",
+      "format": "quiz",
+      "prompt": "Per the study, why did Earth's earliest animals change so little for so long?",
+      "choices": [
+        {
+          "text": "They reproduced asexually, forming genetically similar, low-competition communities",
+          "correct": true
+        },
+        {
+          "text": "They had no genes for natural selection to act on",
+          "correct": false
+        },
+        {
+          "text": "The planet was frozen solid the entire time",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCloning produced near-identical offspring with little competition, so these early\ncommunities stayed evolutionarily stagnant.\u003c/p\u003e"
+    },
+    {
+      "id": "card_409a86#2",
+      "format": "quiz",
+      "prompt": "What does the research say the shift toward sexual reproduction triggered?",
+      "choices": [
+        {
+          "text": "A surge in biodiversity and faster evolution",
+          "correct": true
+        },
+        {
+          "text": "The extinction of all animal life",
+          "correct": false
+        },
+        {
+          "text": "A return to single-celled organisms",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOnce environmental pressures pushed animals toward sex, the new genetic variety\nand competition it created accelerated diversification.\u003c/p\u003e"
+    }
+  ]
+}

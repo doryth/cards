@@ -1,0 +1,106 @@
+{
+  "id": "card_26b71f",
+  "slug": "affinage-llm-gene-annotation",
+  "type": "news",
+  "title": "An AI Pipeline Just Annotated Nearly Every Human Gene",
+  "hook": "For thousands of human genes, the official record of what they actually do was empty or a stub. An AI that reads the primary literature just filled in the gaps for 19,293 of them.",
+  "key_points": [
+    "Affinage is an LLM pipeline that reads a gene's primary research papers and reasons out its mechanistic function.",
+    "It annotates each gene once and stores the result, instead of re-reading the literature from scratch every time.",
+    "Applied across the genome, it produced mechanistic write-ups for 19,293 human protein-coding genes.",
+    "Scored head-to-head by an independent LLM judge, its annotations beat curated databases like UniProt 99.1% of the time.",
+    "It also maps the roughly 10% of the human proteome that still has no clear mechanistic function anywhere in the literature."
+  ],
+  "content_html": "\u003cp\u003eKnowing what a gene actually \u003cem\u003edoes\u003c/em\u003e is the starting point for most of biology — but for a huge slice of the human genome, that knowledge is scattered across thousands of papers or simply hasn't been written down anywhere searchable. Curated reference databases exist, but they can lag years behind the latest literature.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers led by Matteo Di Bernardo and Iain Cheeseman at MIT's Whitehead Institute built Affinage, an LLM pipeline that reads a gene's primary research papers, extracts only direct experimental evidence, and reasons over those findings to produce a structured, reusable annotation — done once per gene rather than re-derived by every researcher who asks. Run across the genome, it annotated 19,293 human protein-coding genes, and a cross-family LLM judge preferred its write-ups over the existing curated reference 99.1% of the time in head-to-head comparisons. The project also produces something arguably as valuable as the annotations themselves: a map of the roughly 10% of the human proteome that remains mechanistically uncharacterized even after decades of research, released openly for other scientists to build on.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv (q-bio.GN)",
+    "authors": [
+      "Matteo Di Bernardo",
+      "Iain M. Cheeseman"
+    ],
+    "url": "https://arxiv.org/abs/2607.02217",
+    "published_at": "2026-07-02",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "biotechnology",
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-06",
+  "date": "2026-07-02",
+  "related": [
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e0bc83",
+      "slug": "dna-sequencing-and-the-genome",
+      "type": "concept",
+      "title": "DNA Sequencing and the Genome",
+      "hook": "Sequencing reads the exact order of the letters in DNA — and the Human Genome Project read all 3 billion of ours for the first time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_26b71f#0",
+      "format": "flip",
+      "prompt": "What problem does the Affinage pipeline solve for gene function databases?",
+      "back_html": "\u003cp\u003eCurated databases like UniProt can lag years behind the literature, and many\ngenes have an \u003cstrong\u003eempty or stub\u003c/strong\u003e entry. Affinage has an LLM read a gene's papers\nand write a reusable mechanistic summary instead.\u003c/p\u003e"
+    },
+    {
+      "id": "card_26b71f#1",
+      "format": "quiz",
+      "prompt": "How did Affinage's annotations compare to the curated reference database?",
+      "choices": [
+        {
+          "text": "An LLM judge preferred Affinage's write-up 99.1% of the time head-to-head",
+          "correct": true
+        },
+        {
+          "text": "They were rated worse than the curated database on every gene",
+          "correct": false
+        },
+        {
+          "text": "They could not be compared because no reference database exists",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eScored by a cross-family LLM judge against the existing curated reference,\nAffinage's mechanistic annotations won on 99.1% of head-to-head genes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_26b71f#2",
+      "format": "quiz",
+      "prompt": "What does Affinage reveal about the state of human gene knowledge?",
+      "choices": [
+        {
+          "text": "About 10% of the human proteome still has no clear mechanistic function documented anywhere",
+          "correct": true
+        },
+        {
+          "text": "Every human gene already has a fully solved mechanistic function",
+          "correct": false
+        },
+        {
+          "text": "Human genes cannot be studied without lab experiments",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBeyond filling in annotations, the pipeline flags which genes remain\nmechanistically uncharacterized — about one in ten proteins.\u003c/p\u003e"
+    }
+  ]
+}

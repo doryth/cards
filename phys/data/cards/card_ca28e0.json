@@ -1,0 +1,88 @@
+{
+  "id": "card_ca28e0",
+  "slug": "jwst-black-hole-feeding-cycle",
+  "type": "news",
+  "title": "NASA's James Webb catches a supermassive black hole feeding",
+  "hook": "JWST just captured a supermassive black hole's fuel supply in action: gas pouring into a fast-spinning disk, hinting these giants recycle their own fuel instead of just consuming and discarding it.",
+  "key_points": [
+    "JWST imaged gas flowing straight into the supermassive black hole at galaxy NGC 4696's center.",
+    "A vast filament funnels material into an 800-light-year-wide spinning disk around the black hole.",
+    "Gas in that disk races around at up to 600 kilometers per second.",
+    "The black hole may recycle its own fuel: jets heat gas, which later cools and falls back in."
+  ],
+  "content_html": "\u003cp\u003eAccording to a ScienceDaily report, NASA's James Webb Space Telescope has captured unusually detailed images of gas feeding the supermassive black hole at the center of the galaxy NGC 4696. A vast filament appears to funnel material into a spinning disk 800 light-years wide, where gas races around the black hole at up to 600 kilometers per second.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers say the observation hints that black holes may recycle their own fuel rather than simply consuming and discarding it: jets from the black hole heat surrounding gas, and that gas later cools and falls back in to feed the black hole again. If confirmed, the cycle would help explain how supermassive black holes sustain themselves over cosmic time.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260716023601.htm",
+    "published_at": "2026-07-17",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_449648",
+      "slug": "black-hole-winds-quench-galaxies",
+      "type": "news",
+      "title": "Black Hole Winds Starve Their Own Galaxies",
+      "hook": "Why do the biggest galaxies hold far fewer stars than expected? New X-ray data caught a supermassive black hole blasting out winds that sweep away the gas stars need to form.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ca28e0#0",
+      "format": "flip",
+      "prompt": "What did JWST capture happening at the center of galaxy NGC 4696?",
+      "back_html": "\u003cp\u003eA vast filament of gas funneling into an \u003cstrong\u003e800-light-year-wide spinning\ndisk\u003c/strong\u003e around the supermassive black hole there.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ca28e0#1",
+      "format": "quiz",
+      "prompt": "How fast does gas move in the disk feeding the black hole?",
+      "choices": [
+        {
+          "text": "Up to 600 kilometers per second",
+          "correct": true
+        },
+        {
+          "text": "About 60 kilometers per second",
+          "correct": false
+        },
+        {
+          "text": "Faster than the speed of light",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eJWST measured gas racing around the disk at speeds up to 600 km/s as it\nspirals toward the black hole.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ca28e0#2",
+      "format": "flip",
+      "prompt": "What does the observation suggest about how black holes get fuel?",
+      "back_html": "\u003cp\u003eThey may \u003cstrong\u003erecycle\u003c/strong\u003e it — jets heat surrounding gas, which later cools\nand falls back in to feed the black hole again.\u003c/p\u003e"
+    }
+  ]
+}

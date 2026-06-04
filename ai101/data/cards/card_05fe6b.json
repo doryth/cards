@@ -1,0 +1,87 @@
+{
+  "id": "card_05fe6b",
+  "slug": "ai-water-use-reality",
+  "type": "news",
+  "title": "How Much Water Does AI Really Use?",
+  "hook": "Nationally, AI data centers are 'a drop in the bucket' of total water use. Locally, a single one can drain a town's supply. Both things are true — which is what makes the debate tricky.",
+  "key_points": [
+    "Across a whole country, AI data centers use a tiny share of total water — a drop in the bucket.",
+    "But one moderately sized center can have an outsized impact on its local water supply.",
+    "Amazon disclosed its data centers used about 2.5 billion gallons of water last year — reportedly a first.",
+    "The honest answer isn't 'huge' or 'nothing' — it depends heavily on scale and location."
+  ],
+  "content_html": "\u003cp\u003eThe \u0026quot;AI is boiling the planet's water\u0026quot; headlines and the \u0026quot;it's totally fine\u0026quot; rebuttals can't both be right — so which is it? Ars Technica's answer is a useful both/and: when you add up \u003cem\u003eall\u003c/em\u003e the water a country uses, AI data centers are, for now, a drop in the bucket. But that national average hides the local picture, where even a moderately sized data center can put real strain on the water supply of the specific town or region that hosts it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBoth facts matter, and confusing them is where the debate goes wrong. Quote a national statistic and AI's thirst looks trivial; stand next to a single facility competing with a community for water during a drought and it looks alarming. The transparency around the numbers is also shifting: The Verge reported that Amazon — just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees had pushed for — disclosed that its data centers used about 2.5 billion gallons of water last year, reportedly the first time it had shared the figure. The honest takeaway for a curious reader is to be skeptical of any one-line verdict. AI's water footprint isn't \u0026quot;nothing\u0026quot; and it isn't \u0026quot;the end of the world\u0026quot; — it's a real, uneven cost that depends enormously on where the computers sit and how they're cooled.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Kyle Orland"
+    ],
+    "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket",
+    "published_at": "2026-06-12",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-energy",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-15",
+  "date": "2026-06-12",
+  "related": [
+    {
+      "id": "card_969523",
+      "slug": "ai-energy-and-water",
+      "type": "concept",
+      "title": "AI's Energy \u0026 Water",
+      "hook": "Every chatbot reply runs in a warehouse of power-hungry computers somewhere. AI's convenience has a real physical footprint — in electricity, water for cooling, and carbon.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_199fae",
+      "slug": "data-center-backlash",
+      "type": "news",
+      "title": "Communities Are Pushing Back on AI Data Centers",
+      "hook": "The warehouses that power AI need land, power, and water — and neighbors are starting to say no. New York just signed the nation's first statewide data center ban into law.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_05fe6b#0",
+      "format": "quiz",
+      "prompt": "Which statement best captures AI data centers' water use?",
+      "choices": [
+        {
+          "text": "Small as a share of national use, but potentially huge for the local area",
+          "correct": true
+        },
+        {
+          "text": "Enormous everywhere — it's draining the country's water",
+          "correct": false
+        },
+        {
+          "text": "Zero — data centers don't use water",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNationally it's a small fraction of total water use, yet a single facility can\nstrain its local supply. Scale and location are what matter.\u003c/p\u003e"
+    },
+    {
+      "id": "card_05fe6b#1",
+      "format": "flip",
+      "prompt": "What did Amazon reveal about its data centers' water use?",
+      "back_html": "\u003cp\u003eAmazon disclosed that its data centers used roughly 2.5 billion gallons of\nwater last year — reportedly the first time it shared the figure.\u003c/p\u003e"
+    }
+  ]
+}

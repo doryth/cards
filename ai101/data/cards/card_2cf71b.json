@@ -1,0 +1,129 @@
+{
+  "id": "card_2cf71b",
+  "slug": "openai-gpt-5-6-release",
+  "type": "news",
+  "title": "OpenAI's GPT-5.6 Arrives — After a Government Pause",
+  "hook": "OpenAI's newest models landed in a 'limited preview' — but only after the US government asked it to slow the rollout over security worries. A sign that big AI releases now answer to Washington.",
+  "key_points": [
+    "OpenAI unveiled the GPT-5.6 line: Sol (the flagship), Terra (mid-tier), and Luna.",
+    "It launched as a 'limited preview' — access first to a small group, not a wide public release.",
+    "The Trump administration reportedly asked OpenAI to stagger the launch over security concerns.",
+    "The preview arrived less than a day after the news that the rollout would be slowed.",
+    "Update: about two weeks later, The Verge reports the administration greenlit a full public rollout.",
+    "The takeaway isn't the model names — it's that frontier releases are now shaped by government."
+  ],
+  "content_html": "\u003cp\u003eOpenAI has unveiled GPT-5.6, its next generation of models — but the more telling story is \u003cem\u003ehow\u003c/em\u003e it arrived. According to The Verge, the company released the new line as a \u0026quot;limited preview,\u0026quot; meaning only a small group gets access first rather than the usual broad public launch. The suite includes a flagship called Sol, a mid-tier model called Terra aimed at high-volume work, and a third called Luna.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat makes the release unusual is the backdrop. Less than a day earlier, reporting (originally from The Information) said the Trump administration had asked OpenAI to stagger the rollout because of potential security concerns — and OpenAI's CEO reportedly told staff the model would go out in limited form, to a small group, rather than all at once. For everyday users, the practical news isn't the lineup of names; it's the precedent. A company that would normally decide its own launch schedule slowed a flagship release at a government's request. Alongside the parallel standoff over Anthropic's models, it's a clear signal that the release of the most capable AI systems is increasingly negotiated with Washington, not just announced by the labs that build them.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUpdate, July 2026:\u003c/strong\u003e About two weeks after the limited preview began, The Verge reports OpenAI received the administration's greenlight for a full public rollout — with Sam Altman calling it \u0026quot;the best model we have ever produced.\u0026quot; OpenAI marked the occasion by also announcing a new product, \u0026quot;ChatGPT Work\u0026quot; (see the related agent-and-Atlas story below).\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Hayden Field"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "published_at": "2026-06-26",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "chatbots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-29",
+  "date": "2026-06-26",
+  "related": [
+    {
+      "id": "card_42f5a2",
+      "slug": "which-chatbot-to-use",
+      "type": "concept",
+      "title": "Which Chatbot Should I Use?",
+      "hook": "ChatGPT, Claude, Gemini, Copilot, Meta AI — they're more alike than different. The honest answer to 'which is best' is: the one you'll actually open, plus a second to cross-check.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5711da",
+      "slug": "anthropic-fable-government-ban",
+      "type": "news",
+      "title": "A Government Orders an AI Model Switched Off",
+      "hook": "The US government ordered Anthropic to cut off foreign access to two of its top models over national-security fears — so the company shut them off for everyone. A new kind of control over AI.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_e8725c",
+      "slug": "chatgpt-work-atlas-shutdown",
+      "type": "news",
+      "title": "OpenAI Kills Its AI Browser, Bets on an Agent That Works For You",
+      "hook": "Less than a year after launching an AI browser, OpenAI is shutting it down — and replacing the ambition behind it with 'ChatGPT Work,' an agent built to run independent tasks for hours at a time.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2cf71b#0",
+      "format": "quiz",
+      "prompt": "What does releasing a model as a 'limited preview' mean?",
+      "choices": [
+        {
+          "text": "Only a small group gets access first, before any wide public rollout",
+          "correct": true
+        },
+        {
+          "text": "The model can only answer a limited number of questions per day",
+          "correct": false
+        },
+        {
+          "text": "It's a free trial that expires after a preview period",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA limited preview hands access to a select group first. It lets the company\ntest and gate a powerful new model rather than open it to everyone at once.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2cf71b#1",
+      "format": "flip",
+      "prompt": "Why is it notable that the government asked OpenAI to stagger the GPT-5.6 launch?",
+      "back_html": "\u003cp\u003eIt shows frontier AI releases are no longer purely a company decision — governments\nnow weigh in on the timing and reach of the most capable models, on security grounds.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2cf71b#2",
+      "format": "quiz",
+      "prompt": "What were the three models in the GPT-5.6 preview?",
+      "choices": [
+        {
+          "text": "Sol (flagship), Terra (mid-tier), and Luna",
+          "correct": true
+        },
+        {
+          "text": "GPT, Codex, and DALL-E",
+          "correct": false
+        },
+        {
+          "text": "Sol, Mythos, and Fable",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOpenAI's preview suite was Sol as the flagship, Terra for high-volume mid-tier\nwork, and Luna. (Mythos and Fable are Anthropic's model names, not OpenAI's.)\u003c/p\u003e"
+    }
+  ]
+}

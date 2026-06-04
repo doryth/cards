@@ -1,0 +1,87 @@
+{
+  "id": "card_debb47",
+  "slug": "data-centers-flex-the-grid",
+  "type": "news",
+  "title": "A Fix for AI's Power Crunch: Flexible Data Centers",
+  "hook": "AI's data centers are straining electric grids. One promising fix: build them to flex — easing off power when the grid is stressed, in exchange for getting connected far sooner.",
+  "key_points": [
+    "AI's boom leaves new data centers waiting years to connect to overloaded electric grids.",
+    "MIT Technology Review reports a fix: centers that can flex their power use on demand.",
+    "If a center agrees to ease off at peak moments, the grid can absorb it much faster.",
+    "It trades a little flexibility for a lot of speed — and less strain on everyone's power."
+  ],
+  "content_html": "\u003cp\u003eThe boom in AI has a mundane bottleneck: electricity. New data centers — the warehouses of computers that train and run AI — increasingly have to wait in line for years to connect to electric grids that are already stretched thin. MIT Technology Review reports on a promising way to jump that queue: make the data center flexible.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe idea borrows from how grids already cope with demand spikes (think of an entire country boiling kettles at half-time). A data center that can ease off its power use during the grid's most stressed moments adds far less strain than one that demands full power around the clock — so utilities can connect it much sooner. It's a trade: give up a little flexibility, gain a lot of speed, and spread the load more gently across a grid everyone else depends on too. It won't erase AI's growing energy footprint, but it points to a smarter way to grow into it. MIT Technology Review has the full picture.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Amos Zeeberg"
+    ],
+    "url": "https://technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex",
+    "published_at": "2026-06-16",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-energy",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-18",
+  "date": "2026-06-16",
+  "related": [
+    {
+      "id": "card_199fae",
+      "slug": "data-center-backlash",
+      "type": "news",
+      "title": "Communities Are Pushing Back on AI Data Centers",
+      "hook": "The warehouses that power AI need land, power, and water — and neighbors are starting to say no. New York just signed the nation's first statewide data center ban into law.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_969523",
+      "slug": "ai-energy-and-water",
+      "type": "concept",
+      "title": "AI's Energy \u0026 Water",
+      "hook": "Every chatbot reply runs in a warehouse of power-hungry computers somewhere. AI's convenience has a real physical footprint — in electricity, water for cooling, and carbon.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_debb47#0",
+      "format": "quiz",
+      "prompt": "How can 'flexibility' help a new AI data center connect to the grid faster?",
+      "choices": [
+        {
+          "text": "By agreeing to reduce its power use when the grid is stressed, so it adds less strain",
+          "correct": true
+        },
+        {
+          "text": "By using no electricity at all",
+          "correct": false
+        },
+        {
+          "text": "By building its own separate power plant on the moon",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA data center that can ease off at peak demand is far easier for an overloaded\ngrid to accommodate, so it can be connected much sooner than a rigid, always-on one.\u003c/p\u003e"
+    },
+    {
+      "id": "card_debb47#1",
+      "format": "flip",
+      "prompt": "What grid problem is AI's growth creating?",
+      "back_html": "\u003cp\u003eAI's surge in data centers is overloading electric grids, leaving projects waiting\nyears to connect — which is why flexible power demand is being floated as a fix.\u003c/p\u003e"
+    }
+  ]
+}

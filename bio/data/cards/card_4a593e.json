@@ -1,0 +1,114 @@
+{
+  "id": "card_4a593e",
+  "slug": "base-editing-human-embryos",
+  "type": "news",
+  "title": "Sharper Gene Editing in Embryos — and Sharper Ethics Questions",
+  "hook": "Next-gen CRISPR 'base editors' edit DNA more precisely than the old cut-and-paste — and using them on early embryos is revealing how human development works while reigniting the ethics debate.",
+  "key_points": [
+    "Newer CRISPR 'base editing' tools change DNA more accurately than cutting both strands.",
+    "Researchers applied them to very early human embryos in the lab.",
+    "The work pulled back the curtain on a key gene that orchestrates early development.",
+    "Editing embryos studies gene function — but edits could be passed to future generations.",
+    "Greater precision doesn't settle the ethics; it sharpens the debate over embryo editing."
+  ],
+  "content_html": "\u003cp\u003eCRISPR keeps getting more precise. STAT reports that next-generation \u0026quot;base editing\u0026quot; tools — which rewrite individual DNA letters rather than cutting the double helix — are improving the accuracy of genome editing in early human embryos, while sharpening long-running ethical concerns.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBeyond testing the technology, the work used embryo editing to pull back the curtain on one of the key genes that orchestrates the first stages of human development — a way of learning what a gene does by carefully altering it. But editing embryos is uniquely fraught: changes made that early are present in every cell and could, in principle, be inherited by future generations. That's the crux of the debate. More accurate tools reduce some risks of off-target damage, yet precision alone doesn't answer whether — or when — editing human embryos should be permitted at all. (For background on the editing toolkit itself, see the CRISPR and gene-therapy cards.)\u003c/p\u003e",
+  "source": {
+    "name": "STAT",
+    "authors": [
+      "Andrew Joseph and Megan Molteni"
+    ],
+    "url": "https://statnews.com/2026/06/25/crispr-base-editing-human-embryo-study",
+    "published_at": "2026-06-25",
+    "license": "© STAT"
+  },
+  "topic_ids": [
+    "biotechnology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-29",
+  "date": "2026-06-25",
+  "related": [
+    {
+      "id": "card_280f4b",
+      "slug": "crispr-shreds-cancer-cells",
+      "type": "news",
+      "title": "CRISPR That Shreds Cancer Cells From the Inside",
+      "hook": "A new CRISPR enzyme reads a cell for a cancer's tell-tale mutation, then chops up all the DNA inside only those cells — a way to attack 'undruggable' tumors.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "card_2657f3",
+      "slug": "gene-therapy",
+      "type": "concept",
+      "title": "Gene Therapy",
+      "hook": "Instead of treating symptoms, gene therapy goes after the root cause — fixing, replacing, or silencing a faulty gene inside a patient's own cells.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_834c5e",
+      "slug": "cloning",
+      "type": "concept",
+      "title": "Cloning and Dolly the Sheep",
+      "hook": "A clone is a genetic copy — and in 1996, Dolly the sheep proved a whole mammal could be made from a single adult body cell.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4a593e#0",
+      "format": "quiz",
+      "prompt": "How does CRISPR 'base editing' differ from classic CRISPR cutting?",
+      "choices": [
+        {
+          "text": "It changes DNA letters more precisely instead of cutting both strands",
+          "correct": true
+        },
+        {
+          "text": "It deletes the entire chromosome",
+          "correct": false
+        },
+        {
+          "text": "It works only on plants, never animals",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBase editors rewrite individual DNA bases with greater accuracy than the original\ndouble-strand-cut approach, reducing some of the collateral damage of cutting.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4a593e#1",
+      "format": "flip",
+      "prompt": "What did editing early embryos let scientists learn, beyond testing the tool?",
+      "back_html": "\u003cp\u003eIt pulled back the curtain on a key gene that orchestrates the first stages of human\ndevelopment — using editing to probe what that gene actually does.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4a593e#2",
+      "format": "quiz",
+      "prompt": "Why does editing embryos raise especially sharp ethical concerns?",
+      "choices": [
+        {
+          "text": "Changes made in an embryo could be inherited by future generations",
+          "correct": true
+        },
+        {
+          "text": "Embryos cannot be studied in a lab at all",
+          "correct": false
+        },
+        {
+          "text": "Base editing is known to be completely error-free",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEdits to an early embryo affect every cell and could be passed to descendants — so\nmore accurate tools improve safety but don't resolve the heritability debate.\u003c/p\u003e"
+    }
+  ]
+}

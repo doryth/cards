@@ -1,0 +1,102 @@
+{
+  "id": "card_febbbc",
+  "slug": "streetlight-pillbug-death-spirals",
+  "type": "news",
+  "title": "Streetlights Are Trapping Pill Bugs in Giant Spinning Circles",
+  "hook": "Thousands of woodlice have been found marching in circular 'death spirals' under streetlights — never seen in the wild before, and a new clue to how light pollution reshapes animal behavior.",
+  "key_points": [
+    "Researchers documented thousands of pill bugs (woodlice) forming synchronized circular 'death spirals' around the edges of streetlight beams.",
+    "Individual spirals have contained more than 5,000 animals, moving continuously along the boundary of the illuminated area.",
+    "A streetlight's beam creates a sharp circular edge of light on the ground; isopods are drawn to walk along that edge, and the behavior becomes self-sustaining as more join in.",
+    "It's the first documented evidence that artificial night lighting can trigger large-scale collective behavior disruption in ground-dwelling animals.",
+    "Researchers believe the spirals are harmful traps, leaving pill bugs vulnerable to predators and exhausted, distracted from normal sheltering behavior."
+  ],
+  "content_html": "\u003cp\u003eArtificial light already keeps birds awake and disorients sea turtle hatchlings. Now add pill bugs to the list: researchers have documented thousands of woodlice trapped in synchronized circular \u0026quot;death spirals\u0026quot; under streetlights, a behavior no one had seen in the wild before.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA streetlight's beam casts a sharp circular edge of light on the ground, and isopods are drawn to walk along that boundary. As more individuals join the moving perimeter, the behavior becomes self-sustaining — some spirals have contained more than 5,000 animals circling continuously. It's the first documented evidence that artificial night lighting can disrupt collective behavior in ground-dwelling animals at this scale, and researchers see it as a trap rather than anything beneficial: pill bugs caught in the spiral stay exposed to predators and burn energy that would otherwise go toward normal sheltering. It's a small, easy-to-overlook example of how much artificial light may be quietly rewriting animal behavior in ways we're only starting to notice.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260626125707.htm",
+    "published_at": "2026-07-06",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "ecology",
+    "animals"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_a13f41",
+      "slug": "ecosystems-and-interdependence",
+      "type": "concept",
+      "title": "Ecosystems \u0026 Interdependence",
+      "hook": "An ecosystem is a community of living things plus their environment, all so tangled together that pulling one thread can shake the whole web.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9e052d",
+      "slug": "how-animals-behave",
+      "type": "concept",
+      "title": "How Animals Behave",
+      "hook": "A spider spins a perfect web without a lesson, while a crow figures out a new trick by trial and error — two sides of how animals act in the world.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_febbbc#0",
+      "format": "flip",
+      "prompt": "What is the pill bug 'death spiral' behavior discovered under streetlights?",
+      "back_html": "\u003cp\u003eThousands of pill bugs (woodlice) form a \u003cstrong\u003esynchronized circular formation\u003c/strong\u003e,\ncontinuously walking along the edge of a streetlight's illuminated area —\nsometimes more than 5,000 animals in one spiral.\u003c/p\u003e"
+    },
+    {
+      "id": "card_febbbc#1",
+      "format": "quiz",
+      "prompt": "What triggers the death spiral behavior?",
+      "choices": [
+        {
+          "text": "Isopods are drawn to walk along the sharp circular edge of a streetlight's beam, and the behavior becomes self-sustaining as more join",
+          "correct": true
+        },
+        {
+          "text": "The pill bugs are fleeing from a predator hidden in the light",
+          "correct": false
+        },
+        {
+          "text": "Streetlight heat draws them into a tight circle for warmth",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe light creates a defined boundary on the ground; isopods follow that edge,\nand as more individuals join the moving perimeter, the spiral becomes\nself-reinforcing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_febbbc#2",
+      "format": "quiz",
+      "prompt": "Why do researchers consider this behavior harmful rather than natural?",
+      "choices": [
+        {
+          "text": "It leaves the isopods vulnerable to predators and exhausted, distracted from normal sheltering behavior",
+          "correct": true
+        },
+        {
+          "text": "It causes them to reproduce far more than usual",
+          "correct": false
+        },
+        {
+          "text": "It helps them find food more efficiently",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRather than a beneficial behavior, the spiral appears to be an artificial trap —\nthe animals stay exposed and burn energy instead of sheltering as they normally\nwould.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "card_e1dbad",
+  "slug": "static-electricity-and-lightning",
+  "type": "concept",
+  "title": "Static Electricity and Lightning",
+  "hook": "The shock from a doorknob and a bolt of lightning are the same thing at wildly different scales: charge that piled up with nowhere to go, suddenly leaping across a gap.",
+  "key_points": [
+    "Rubbing materials transfers electrons, leaving one positively and one negatively charged.",
+    "Charge that builds up and stays put is 'static' — until it finds a path to jump.",
+    "When the voltage gets high enough, charge discharges as a spark, leaping across air.",
+    "Lightning is a giant static discharge between charged clouds and the ground."
+  ],
+  "content_html": "\u003cp\u003eStatic electricity is simply electric charge that has built up and is sitting still, waiting. It usually starts with contact: when two different materials rub together, electrons hop from one to the other, leaving one object with extra negative charge and the other positive. Because the charge can't easily flow away — say, across dry air or an insulating surface — it lingers. That's why a balloon sticks to your hair and why you sometimes get zapped reaching for a metal handle.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe zap happens when the built-up voltage gets high enough to force charge across the gap, ionizing a thin path of air so current can briefly flow — a spark. Lightning is exactly this, scaled up enormously. Inside a storm cloud, colliding ice and water particles separate charge until a colossal voltage builds between parts of the cloud and the ground. Eventually the air breaks down and a massive current surges through, heating the channel to many times the Sun's surface temperature in an instant; the flash is that glowing air, and thunder is the shockwave from its sudden expansion. Wikipedia covers how charge separates and discharges.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Static_electricity",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "electricity-magnetism"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2b87f5",
+      "slug": "electric-charge-and-current",
+      "type": "concept",
+      "title": "Electric Charge \u0026 Current",
+      "hook": "Everything electrical comes down to charge — and an electric current is simply charge on the move.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_275a24",
+      "slug": "electric-and-magnetic-fields",
+      "type": "concept",
+      "title": "Electric and Magnetic Fields",
+      "hook": "How does a magnet pull a paperclip it isn't touching? Through a field — an invisible region of influence that tells other charges and magnets how to feel a force.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e1dbad#0",
+      "format": "flip",
+      "prompt": "What makes an object build up a static charge when you rub it?",
+      "back_html": "\u003cp\u003eRubbing \u003cstrong\u003etransfers electrons\u003c/strong\u003e between materials. One ends up with extra\nelectrons (negative), the other short a few (positive).\u003c/p\u003e"
+    },
+    {
+      "id": "card_e1dbad#1",
+      "format": "quiz",
+      "prompt": "What is the spark when you touch a doorknob after walking on carpet?",
+      "choices": [
+        {
+          "text": "Built-up static charge suddenly discharging across the air gap",
+          "correct": true
+        },
+        {
+          "text": "The metal generating fresh charge on contact",
+          "correct": false
+        },
+        {
+          "text": "Heat from your hand igniting the air",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCharge accumulates on you until the voltage is high enough to jump the small\ngap to the knob, releasing as a tiny spark.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e1dbad#2",
+      "format": "quiz",
+      "prompt": "How is a lightning bolt related to the shock from a doorknob?",
+      "choices": [
+        {
+          "text": "It's the same kind of static discharge, just vastly larger",
+          "correct": true
+        },
+        {
+          "text": "Lightning is magnetic, not electric",
+          "correct": false
+        },
+        {
+          "text": "Lightning comes from the Sun, not from charge separation",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn a storm, charge separates within clouds until the voltage to ground is\nenormous; the air breaks down and a huge current flows — a giant spark.\u003c/p\u003e"
+    }
+  ]
+}

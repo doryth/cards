@@ -1,0 +1,99 @@
+{
+  "id": "card_cd7fc6",
+  "slug": "biodiversity-and-conservation",
+  "type": "concept",
+  "title": "Biodiversity \u0026 Conservation",
+  "hook": "Biodiversity is the full variety of life — genes, species, and ecosystems. It cleans our water, pollinates our food, and steadies the systems we depend on, and right now it's vanishing fast.",
+  "key_points": [
+    "Biodiversity spans three levels: genetic, species, and ecosystem variety.",
+    "Diverse ecosystems are more stable and provide services like clean water, pollination, and food.",
+    "Major threats include habitat loss, climate change, pollution, overharvesting, and invasive species.",
+    "Conservation protects biodiversity through reserves, laws, restoration, and sustainable use."
+  ],
+  "content_html": "\u003cp\u003eBiodiversity is shorthand for the variety of life, and it works on three levels at once: the genetic variation within a species, the number of different species, and the range of distinct ecosystems across a region. That variety isn't just a pleasing fact about nature — it's load-bearing. Diverse ecosystems tend to be more stable and resilient, and they quietly deliver the \u0026quot;ecosystem services\u0026quot; humans depend on: bees and other animals pollinating crops, wetlands filtering water, forests storing carbon, soil microbes recycling nutrients.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trouble, as Britannica documents, is that biodiversity is declining at a rate many scientists compare to past mass extinctions. The drivers are largely human: habitat loss from farming and development, climate change shifting where species can live, pollution, overharvesting of fish and wildlife, and invasive species that outcompete natives. Conservation is the effort to slow and reverse this. It ranges from setting aside protected reserves and passing laws like endangered-species acts, to restoring damaged habitats and promoting sustainable use so people can benefit from nature without exhausting it. The underlying logic is the same one that runs through all of ecology: living things are interconnected, so protecting variety means protecting the whole web that sustains us, ourselves included.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/biodiversity",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "ecology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a13f41",
+      "slug": "ecosystems-and-interdependence",
+      "type": "concept",
+      "title": "Ecosystems \u0026 Interdependence",
+      "hook": "An ecosystem is a community of living things plus their environment, all so tangled together that pulling one thread can shake the whole web.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_74ae50",
+      "slug": "biomes-of-the-world",
+      "type": "concept",
+      "title": "Biomes of the World",
+      "hook": "Deserts, rainforests, tundra, ocean — Earth sorts its life into great zones, each shaped mostly by temperature and rainfall, with similar communities appearing wherever the climate repeats.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cd7fc6#0",
+      "format": "flip",
+      "prompt": "What three levels does biodiversity include?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eGenetic\u003c/strong\u003e diversity (variation within a species), \u003cstrong\u003especies\u003c/strong\u003e diversity (the\nrange of different species), and \u003cstrong\u003eecosystem\u003c/strong\u003e diversity (the variety of habitats).\u003c/p\u003e"
+    },
+    {
+      "id": "card_cd7fc6#1",
+      "format": "quiz",
+      "prompt": "Which of these is a leading driver of biodiversity loss?",
+      "choices": [
+        {
+          "text": "Habitat loss from human land use",
+          "correct": true
+        },
+        {
+          "text": "Too many wildlife reserves",
+          "correct": false
+        },
+        {
+          "text": "Species having too much genetic variation",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u003cstrong\u003eHabitat destruction\u003c/strong\u003e — clearing forests, draining wetlands, paving land — is\nthe single biggest cause, alongside climate change, pollution, overharvesting,\nand invasive species.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cd7fc6#2",
+      "format": "quiz",
+      "prompt": "Why does biodiversity matter to humans, beyond its beauty?",
+      "choices": [
+        {
+          "text": "It provides services like pollination, clean water, and food",
+          "correct": true
+        },
+        {
+          "text": "It has no practical effect on human life",
+          "correct": false
+        },
+        {
+          "text": "It only matters in places far from people",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDiverse ecosystems pollinate crops, filter water, build soil, and stabilize\nclimate — practical \u0026quot;ecosystem services\u0026quot; we rely on every day.\u003c/p\u003e"
+    }
+  ]
+}

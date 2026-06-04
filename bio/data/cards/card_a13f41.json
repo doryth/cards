@@ -1,0 +1,99 @@
+{
+  "id": "card_a13f41",
+  "slug": "ecosystems-and-interdependence",
+  "type": "concept",
+  "title": "Ecosystems \u0026 Interdependence",
+  "hook": "An ecosystem is a community of living things plus their environment, all so tangled together that pulling one thread can shake the whole web.",
+  "key_points": [
+    "An ecosystem includes all the organisms in an area plus the non-living environment.",
+    "Species depend on each other — for food, shelter, pollination, and recycling.",
+    "Decomposers break down dead matter, returning nutrients to the soil.",
+    "Removing a key species can ripple through and destabilize the whole system."
+  ],
+  "content_html": "\u003cp\u003eAn ecosystem is everything in a given place that affects life there: all the organisms — plants, animals, fungi, microbes — together with the non-living surroundings like soil, water, sunlight, and climate. What makes an ecosystem more than a list of parts is the web of relationships connecting them. Organisms eat each other, shelter each other, pollinate flowers, spread seeds, and compete for the same resources.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA lot of that interdependence is invisible until it breaks. Decomposers — fungi and bacteria — quietly dismantle dead leaves and carcasses, returning nutrients to the soil so plants can grow again; without them, the whole system would choke on its own waste. Because the connections run so deep, removing one important species can send shockwaves through the rest. When wolves were removed from some regions, deer populations exploded, overgrazed the plants, and reshaped entire landscapes. That sensitivity is why ecologists pay close attention to \u0026quot;keystone\u0026quot; species whose influence far outweighs their numbers — and why conservation often means protecting relationships, not just individual creatures.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ecology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_05f960",
+      "slug": "food-chains-and-webs",
+      "type": "concept",
+      "title": "Food Chains \u0026 Energy Flow",
+      "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_89dd5d",
+      "slug": "natural-selection",
+      "type": "concept",
+      "title": "Natural Selection",
+      "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a13f41#0",
+      "format": "flip",
+      "prompt": "What does an ecosystem include?",
+      "back_html": "\u003cp\u003eAll the \u003cstrong\u003eliving organisms\u003c/strong\u003e in an area \u003cstrong\u003eplus the non-living environment\u003c/strong\u003e —\nsoil, water, air, climate — and the interactions among them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a13f41#1",
+      "format": "quiz",
+      "prompt": "What is the role of decomposers in an ecosystem?",
+      "choices": [
+        {
+          "text": "They break down dead matter and return nutrients to the environment",
+          "correct": true
+        },
+        {
+          "text": "They produce all the oxygen in the ecosystem",
+          "correct": false
+        },
+        {
+          "text": "They sit outside the ecosystem and have no role",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDecomposers like fungi and bacteria recycle dead material into nutrients that\nproducers can use again — closing the loop.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a13f41#2",
+      "format": "quiz",
+      "prompt": "What can happen when a key species is removed from an ecosystem?",
+      "choices": [
+        {
+          "text": "Effects can ripple through and destabilize the whole system",
+          "correct": true
+        },
+        {
+          "text": "Nothing — each species is fully independent",
+          "correct": false
+        },
+        {
+          "text": "The ecosystem always becomes healthier",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSpecies are interdependent, so losing an important one can cascade through the\nfood web and unbalance the entire community.\u003c/p\u003e"
+    }
+  ]
+}

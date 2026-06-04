@@ -1,0 +1,92 @@
+{
+  "id": "card_3c868d",
+  "slug": "weight-loss-not-enough-diabetes",
+  "type": "news",
+  "title": "When Losing Weight Isn't Enough to Stop Diabetes",
+  "hook": "Lifestyle change prevents type 2 diabetes for many people — but researchers found one high-risk group whose blood sugar kept climbing even after years of sustained weight loss.",
+  "key_points": [
+    "Researchers sort people at risk of type 2 diabetes into subgroups, or 'clusters'.",
+    "One group — cluster 5 — kept worsening despite losing about 8% of body weight.",
+    "They held that weight loss for years, and blood sugar still rose.",
+    "Their insulin production continued to weaken, pointing to a beta-cell problem.",
+    "It suggests prediabetes isn't one condition, and one prevention plan won't fit all."
+  ],
+  "content_html": "\u003cp\u003eLose weight and you'll dodge type 2 diabetes. It's the standard advice, and for a lot of people it works. Researchers have now identified a group for whom it doesn't.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, people at high risk of diabetes can be sorted into subgroups based on their metabolic profile. One of them — labelled cluster 5 — behaved unlike the rest. Members lost roughly 8% of their body weight, which is a substantial and genuinely difficult result, and kept it off for years. Their blood sugar rose anyway, their insulin production kept weakening, and their risk of progressing to diabetes stayed high.\u003c/p\u003e\n\u003cp\u003eThe implication is that \u0026quot;prediabetes\u0026quot; bundles together conditions that are not the same underneath. Where insulin resistance is the main driver, weight loss addresses the actual problem. Where the insulin-producing cells themselves are failing, taking weight off doesn't fix what's broken. That distinction argues for tailoring prevention — and for not treating a patient who did everything right and still progressed as someone who simply didn't try hard enough.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260724061450.htm",
+    "published_at": "2026-07-28",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "chronic-conditions",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-07-28",
+  "related": [
+    {
+      "id": "card_bcf692",
+      "slug": "preventing-type-2-diabetes",
+      "type": "concept",
+      "title": "Preventing Type 2 Diabetes",
+      "hook": "Type 2 diabetes often arrives slowly, with a warning stage called prediabetes — and at that stage, modest lifestyle changes can stop or delay it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_252345",
+      "slug": "reversing-prediabetes-protects-the-heart",
+      "type": "news",
+      "title": "Reversing Prediabetes Pays Off for the Heart",
+      "hook": "Prediabetes isn't a one-way street. People who brought their blood sugar back to normal cut their risk of dying from heart disease or being hospitalized for heart failure by 58%.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-14"
+    },
+    {
+      "id": "card_430c96",
+      "slug": "losing-healthy-fat-and-diabetes",
+      "type": "news",
+      "title": "Losing the Wrong Fat Can Cause Diabetes",
+      "hook": "We treat body fat as the villain in diabetes. New work shows the opposite failure mode: when healthy fat tissue becomes inflamed and disappears, metabolism collapses too.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3c868d#0",
+      "format": "flip",
+      "prompt": "What was surprising about the high-risk 'cluster 5' group?",
+      "back_html": "\u003cp\u003eEven after losing about 8% of their body weight and keeping it off for years,\ntheir blood sugar kept rising and their insulin production kept weakening —\nso they remained at strong risk of developing type 2 diabetes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3c868d#1",
+      "format": "quiz",
+      "prompt": "What does this finding imply about prediabetes?",
+      "choices": [
+        {
+          "text": "It isn't a single condition — different subgroups need different prevention",
+          "correct": true
+        },
+        {
+          "text": "Weight loss doesn't help anyone prevent diabetes",
+          "correct": false
+        },
+        {
+          "text": "Blood sugar testing is unreliable in people who lose weight",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLifestyle change still prevents diabetes for many people. The point is that a\nsubgroup with failing insulin production doesn't respond the same way, so a\nsingle blanket prevention plan will quietly fail some of the highest-risk patients.\u003c/p\u003e"
+    }
+  ]
+}

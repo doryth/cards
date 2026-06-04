@@ -1,0 +1,117 @@
+{
+  "id": "card_85a233",
+  "slug": "photon-polariton-quantum-interference",
+  "type": "paper",
+  "title": "A Quantum Handshake Between Light and a Metal Ripple",
+  "hook": "Turn a single photon into a wave of jiggling electrons on a metal surface and it stays quantum-mechanically identical to the photon it came from — proof the conversion loses nothing.",
+  "key_points": [
+    "A surface plasmon polariton is a hybrid of light and collective electron oscillation riding a metal-dielectric interface.",
+    "The open question was whether such a quasiparticle preserves the full quantum state of the photon that created it.",
+    "Hong-Ou-Mandel interference is the test: two truly identical particles hitting a beam splitter always leave together.",
+    "The team built an Au-SiN photonic-plasmonic chip and interfered a single photon with a plasmon polariton.",
+    "The interference appeared, showing polaritons keep the indistinguishability of their parent photons.",
+    "That makes plasmons a usable carrier of quantum information, opening a path to photonic-plasmonic quantum circuits."
+  ],
+  "content_html": "\u003cp\u003eShine a single photon at the right kind of metal surface and it can convert into a surface plasmon polariton — a travelling hybrid of light and the collective sloshing of the metal's free electrons. That conversion is at the heart of a lot of nanophotonics, but it raises a question nobody had settled: does the quasiparticle carry the photon's quantum state intact, or does the messy business of involving billions of electrons wash it out?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eYun-Ru Fan, Qiang Zhou, and colleagues answer it with the cleanest available test. Hong-Ou-Mandel interference is the effect where two genuinely indistinguishable particles arriving at a beam splitter from opposite sides always exit the same way — it is exquisitely sensitive to any residual difference between them. Using an integrated gold-silicon-nitride photonic-plasmonic device, the team brought a single photon and a surface plasmon polariton together and observed the interference. The polariton, in other words, retains the indistinguishability of the photon that excited it. Beyond the foundational point about how far quantum coherence survives light-matter hybridisation, the practical upshot is that plasmons can be treated as legitimate quantum information carriers — which matters because plasmonic components can be made far smaller than the wavelength of the light they handle.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Yun-Ru Fan",
+      "Ying-Ao Su",
+      "Kai Guo",
+      "Bo-Yu Fan",
+      "Yao-Qing Zhang",
+      "Hai-Zhi Song",
+      "Hao Li",
+      "Yong Geng",
+      "Kun Chen",
+      "Deng-Ke Zhang",
+      "Li-Xing You",
+      "Yan-Yu Wei",
+      "Guang-Can Guo",
+      "Qiang Zhou"
+    ],
+    "url": "https://arxiv.org/abs/2609.02200",
+    "published_at": "2026-09-02",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_b1b124",
+      "slug": "quantum-telecloning-on-chips",
+      "type": "paper",
+      "title": "You Can't Copy a Qubit — But You Can Make Two Blurry Ones",
+      "hook": "Quantum mechanics forbids perfect copies. The best you can do for two recipients is 5/6 fidelity each — and a six-photon experiment across two silicon chips just beat the classical limit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_08aa81",
+      "slug": "teleportation-over-hollow-core-fibre",
+      "type": "paper",
+      "title": "Quantum Teleportation Down a Fibre That's Mostly Empty Space",
+      "hook": "A quantum state was teleported across a deployed city fibre network while ordinary data traffic blasted through the same strands — because the fibre's core is hollow.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-28"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_85a233#0",
+      "format": "flip",
+      "prompt": "What is a surface plasmon polariton?",
+      "back_html": "\u003cp\u003eA hybrid excitation in which light couples to the collective oscillation of free electrons at\na metal-dielectric interface, travelling along that surface.\u003c/p\u003e"
+    },
+    {
+      "id": "card_85a233#1",
+      "format": "quiz",
+      "prompt": "What does a Hong-Ou-Mandel interference signal demonstrate?",
+      "choices": [
+        {
+          "text": "That the two particles are genuinely indistinguishable, so they leave a beam splitter together",
+          "correct": true
+        },
+        {
+          "text": "That the two particles have the same energy but different polarisation",
+          "correct": false
+        },
+        {
+          "text": "That one particle has been destroyed by the beam splitter",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHOM interference only happens for truly identical particles. Seeing it between a photon and a\npolariton means the conversion preserved indistinguishability.\u003c/p\u003e"
+    },
+    {
+      "id": "card_85a233#2",
+      "format": "flip",
+      "prompt": "Why does this result matter for quantum technology?",
+      "back_html": "\u003cp\u003eIt establishes plasmon polaritons as viable carriers of quantum information, which makes\nhybrid photonic-plasmonic quantum circuitry a realistic route.\u003c/p\u003e"
+    }
+  ]
+}

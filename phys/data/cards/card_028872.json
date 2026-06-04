@@ -1,0 +1,115 @@
+{
+  "id": "card_028872",
+  "slug": "coulomb-blockade-qubit-decoherence",
+  "type": "paper",
+  "title": "The Tiny Metal Islands Quietly Breaking Quantum Computers",
+  "hook": "Quantum computers lose their fragile quantum states partly due to a decoherence source nobody had pinned down: stray metal islands from chip manufacturing acting like microscopic traffic jams.",
+  "key_points": [
+    "Solid-state qubits lose their fragile quantum state ('decoherence') partly due to material defects.",
+    "Researchers used scanning gate microscopy on live superconducting circuits to find a new culprit.",
+    "Tiny stray 'metallic grains' left by standard chip lithography create a Coulomb blockade effect.",
+    "These grains let charge tunnel through via the qubit's own microwave drive, bleeding coherence.",
+    "The defects are as common and damaging as the previously-blamed 'two-level-system' defects.",
+    "Because the cause is a fabrication artifact, eliminating it offers a path to longer-lived qubits."
+  ],
+  "content_html": "\u003cp\u003eSuperconducting qubits — the building blocks of many quantum computers — are notoriously fragile: their quantum state degrades, or \u0026quot;decoheres,\u0026quot; far faster than engineers would like. Tracking each decoherence mechanism back to its specific material origin has been an unsolved challenge, one that has slowed progress toward longer-lived qubits.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team led by R. Banerjee used scanning gate microscopy on live superconducting circuits to identify a previously unrecognized culprit: tiny stray \u0026quot;metallic grains,\u0026quot; islands of metal left behind by standard chip-fabrication lithography. These grains create a Coulomb blockade — a single-electron traffic jam — and let charge tunnel through in response to the qubit's own microwave drive, bleeding away its coherence. Examining multiple defects across different devices, the authors found these metallic-grain defects to be just as common and damaging as the previously blamed \u0026quot;two-level-system\u0026quot; defects, but arising from a completely different mechanism — one conventional techniques would misattribute to something else. Because the cause is a specific fabrication artifact, eliminating stray metallic grains during manufacturing offers a clear, practical path to quieter, longer-lived qubits.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "R. Banerjee",
+      "L. P. Lindoy",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2607.15252",
+    "published_at": "2026-07-16",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_869b2e",
+      "slug": "quantum-computers-colder-not-always-better",
+      "type": "paper",
+      "title": "For Quantum Computers, Colder Isn't Always Better",
+      "hook": "The instinct is to chase ever-lower temperatures for quantum chips. A new study of real silicon qubits finds a 'sweet spot' instead, since cooling itself has a cost.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_028872#0",
+      "format": "flip",
+      "prompt": "What new decoherence culprit did the researchers identify in superconducting qubits?",
+      "back_html": "\u003cp\u003eStray \u0026quot;metallic grains\u0026quot; — metal islands left by standard chip lithography — that\ncreate a Coulomb blockade and bleed away the qubit's coherence.\u003c/p\u003e"
+    },
+    {
+      "id": "card_028872#1",
+      "format": "quiz",
+      "prompt": "How do metallic-grain defects actually damage a qubit's quantum state?",
+      "choices": [
+        {
+          "text": "They create a Coulomb blockade, letting charge tunnel through in response to the qubit's microwave drive",
+          "correct": true
+        },
+        {
+          "text": "They physically crack the superconducting circuit",
+          "correct": false
+        },
+        {
+          "text": "They absorb the qubit's photons and re-emit them as heat",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThey create a Coulomb blockade (single-electron traffic jam); the qubit's own\nmicrowave drive then triggers charge tunneling that bleeds coherence.\u003c/p\u003e"
+    },
+    {
+      "id": "card_028872#2",
+      "format": "quiz",
+      "prompt": "How do metallic-grain defects compare to previously blamed two-level-system (TLS) defects?",
+      "choices": [
+        {
+          "text": "Just as common and damaging, but from a completely different physical mechanism",
+          "correct": true
+        },
+        {
+          "text": "Far rarer, but much more damaging per defect",
+          "correct": false
+        },
+        {
+          "text": "Identical in mechanism, just a different name for the same thing",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eJust as common and damaging, but arising from a completely different physical\nmechanism than TLS defects.\u003c/p\u003e"
+    },
+    {
+      "id": "card_028872#3",
+      "format": "flip",
+      "prompt": "Why is this discovery good news for building better quantum computers?",
+      "back_html": "\u003cp\u003eBecause the cause is a specific fabrication artifact, eliminating stray metallic\ngrains during manufacturing offers a clear path to longer-lived, quieter qubits.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "card_494e8d",
+  "slug": "prompting-mistakes",
+  "type": "concept",
+  "title": "Common Prompting Mistakes",
+  "hook": "Most 'AI is useless' moments trace back to a handful of fixable habits: asking too vaguely, dumping everything at once, and accepting the first draft as final.",
+  "key_points": [
+    "Too vague: 'write something about X' gives generic mush — add audience, goal, length.",
+    "All at once: cramming ten requirements into one prompt; break it into steps.",
+    "No example: not showing what 'good' looks like when you easily could.",
+    "One-and-done: taking the first answer instead of asking for a revision."
+  ],
+  "content_html": "\u003cp\u003eWhen people bounce off AI, the culprit is usually the prompt, not the tool — and the mistakes are predictable. The biggest is \u003cstrong\u003ebeing too vague\u003c/strong\u003e: \u0026quot;write something about productivity\u0026quot; gives the model nothing to aim at, so it returns bland, forgettable filler. The fix is context — who it's for, what it's meant to do, how long, what angle. A second common trap is \u003cstrong\u003edumping everything at once\u003c/strong\u003e: ten requirements crammed into one paragraph, where the model quietly drops half of them. Breaking a big ask into steps (\u0026quot;first outline it, then we'll draft section by section\u0026quot;) works far better.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo more habits quietly cost people the best results. \u003cstrong\u003eNot showing an example\u003c/strong\u003e — if you have a sample email, a style you like, or a format you want, paste it; models are superb at matching a pattern and weak at guessing one. And \u003cstrong\u003etreating the first answer as final\u003c/strong\u003e — the first draft is a starting point, not a verdict. Saying \u0026quot;too formal, loosen it up\u0026quot; or \u0026quot;cut this in half and lead with the conclusion\u0026quot; steers it in seconds. None of this is special \u0026quot;prompt engineering\u0026quot;; it's the same clarity you'd use briefing a capable assistant who can't read your mind. Fix these four and the same tool that felt useless starts feeling indispensable.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "talking-to-ai"
+  ],
+  "tags": [
+    "generative",
+    "tutorial"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a0b7eb",
+      "slug": "talking-to-ai",
+      "type": "concept",
+      "title": "Talking to AI",
+      "hook": "The difference between a useless answer and a great one is usually the question. Give the AI context, an example, and a clear job — and treat it as a conversation, not a vending machine.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a0b7eb",
+      "slug": "talking-to-ai",
+      "type": "concept",
+      "title": "Talking to AI",
+      "hook": "The difference between a useless answer and a great one is usually the question. Give the AI context, an example, and a clear job — and treat it as a conversation, not a vending machine.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_494e8d#0",
+      "format": "quiz",
+      "prompt": "Why does 'write something about climate change' usually disappoint?",
+      "choices": [
+        {
+          "text": "It's too vague — no audience, goal, length, or angle to work from",
+          "correct": true
+        },
+        {
+          "text": "The AI refuses political topics",
+          "correct": false
+        },
+        {
+          "text": "The topic is too hard for AI",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith nothing to aim at, the model defaults to generic filler. Naming the\nreader, purpose, length, and angle is what makes the output useful.\u003c/p\u003e"
+    },
+    {
+      "id": "card_494e8d#1",
+      "format": "flip",
+      "prompt": "What should you do instead of accepting a mediocre first answer?",
+      "back_html": "\u003cp\u003eAsk for a revision — \u0026quot;shorter,\u0026quot; \u0026quot;more concrete,\u0026quot; \u0026quot;in a warmer tone,\u0026quot;\n\u0026quot;add an example.\u0026quot; Iterating is part of using AI well, not a failure.\u003c/p\u003e"
+    }
+  ]
+}

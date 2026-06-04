@@ -1,0 +1,150 @@
+{
+  "id": "card_f51009",
+  "slug": "octupole-non-universal-free-fall",
+  "type": "paper",
+  "title": "In General Relativity, Not Everything Falls the Same Way",
+  "hook": "Galileo's rule — all objects fall alike — holds for points, not for shapes. In general relativity a body's lumpiness accelerates it, and two identical starts can diverge.",
+  "key_points": [
+    "Extended bodies in general relativity need not follow geodesics; they can accelerate.",
+    "That acceleration depends on spin and on the body's quadrupole, octupole, and higher moments.",
+    "Because those moments evolve differently, two bodies with identical initial data can fall differently.",
+    "Only an octupole's trace-free part affects motion, retiring at least 16 of its 40 components.",
+    "In Newtonian limits, momentum moments set a body's 'hidden momentum' — momentum misaligned with velocity.",
+    "Around a spinning black hole, octupoles produce torques quadrupoles simply cannot."
+  ],
+  "content_html": "\u003cp\u003eDrop a feather and a hammer on the Moon and they land together — the equivalence principle, one of the sturdiest facts in physics. But that statement is about \u003cem\u003epoint\u003c/em\u003e particles. Real bodies have size and shape, and in general relativity shape has consequences: an extended body doesn't have to follow a geodesic at all. Abraham Harte and Paul Ramond work out how far this non-universality of free fall goes once you include a body's octupole moment.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe accelerations of an extended body depend on its angular momentum and on the whole tower of multipole moments describing how its mass and momentum are distributed — quadrupole, octupole, and upward. The catch is that those moments evolve differently from one body to another, so two objects can start with identical initial data and still fall along different paths. Harte and Ramond first prove a useful simplification: in any vacuum spacetime, only the trace-free part of an octupole moment can affect the motion, which retires at least 16 of the 40 octupole components from the equations. They then decompose the trace-free octupole two ways — against a timelike frame vector and against a null tetrad — and apply both. In Newtonian spacetimes the mass moments do what Newton would expect, while the momentum moments determine \u0026quot;hidden momentum,\u0026quot; a genuine misalignment between where a body's momentum points and where it's going. In Petrov type D spacetimes, the class that includes the rotating Kerr black hole, they show octupoles generate torques that quadrupole moments cannot produce at all — so the next term in the series isn't just a smaller correction, it's a qualitatively new effect.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Abraham I. Harte",
+      "Paul Ramond"
+    ],
+    "url": "https://arxiv.org/abs/2607.21314",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "gravity-orbits",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_de7edd",
+      "slug": "why-everything-falls-at-the-same-rate",
+      "type": "concept",
+      "title": "Why Everything Falls at the Same Rate",
+      "hook": "Drop a hammer and a feather together in a vacuum and they hit the ground at the same instant. Gravity doesn't care how heavy you are — and that fact runs surprisingly deep.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_de7edd",
+      "slug": "why-everything-falls-at-the-same-rate",
+      "type": "concept",
+      "title": "Why Everything Falls at the Same Rate",
+      "hook": "Drop a hammer and a feather together in a vacuum and they hit the ground at the same instant. Gravity doesn't care how heavy you are — and that fact runs surprisingly deep.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_f51009#0",
+      "format": "quiz",
+      "prompt": "Why can two extended bodies with identical initial data fall differently in general relativity?",
+      "choices": [
+        {
+          "text": "Their multipole moments evolve differently, and those moments feed back into the motion",
+          "correct": true
+        },
+        {
+          "text": "Heavier bodies always fall faster in curved spacetime",
+          "correct": false
+        },
+        {
+          "text": "General relativity has no equations of motion for extended bodies",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAccelerations depend on angular momentum plus quadrupole, octupole and higher moments. Those\nmoments can evolve differently from body to body, so identical starts can diverge.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f51009#1",
+      "format": "flip",
+      "prompt": "How many octupole components actually influence a body's motion in vacuum?",
+      "back_html": "\u003cp\u003eOnly the \u003cstrong\u003etrace-free\u003c/strong\u003e part matters, which means at least \u003cstrong\u003e16 of the 40\u003c/strong\u003e octupole components\ndecouple from the laws of motion entirely.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f51009#2",
+      "format": "quiz",
+      "prompt": "What is 'hidden momentum' in the Newtonian analysis?",
+      "choices": [
+        {
+          "text": "A misalignment between a body's momentum and its velocity, set by its momentum moments",
+          "correct": true
+        },
+        {
+          "text": "Momentum stored in the gravitational field outside the body",
+          "correct": false
+        },
+        {
+          "text": "The momentum a body loses to gravitational radiation",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn Newtonian spacetimes the mass moments produce the ordinary effects, while the momentum\nmoments determine hidden momentum — momentum that doesn't point along the velocity.\u003c/p\u003e"
+    }
+  ]
+}

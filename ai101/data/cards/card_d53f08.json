@@ -1,0 +1,119 @@
+{
+  "id": "card_d53f08",
+  "slug": "your-data-and-privacy",
+  "type": "concept",
+  "title": "Your Data \u0026 Privacy",
+  "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+  "key_points": [
+    "Many AI services may store your chats and use them to improve their models.",
+    "Don't paste secrets: passwords, IDs, medical or financial details, others' private info.",
+    "Check settings — some tools let you turn off training on your data or delete history.",
+    "Free often means your data is the payment; assume inputs aren't truly private."
+  ],
+  "content_html": "\u003cp\u003eThere's an old saying about free online services: if you're not paying, you might be the product. It applies squarely to AI. When you chat with a free assistant, your messages don't just vanish — many services store them, some have staff review samples for quality, and your conversations may be used to help train the next version of the model. That's not necessarily sinister, but it does mean the things you type aren't as private as they feel.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe practical rule is simple: \u003cstrong\u003eshare like it isn't private\u003c/strong\u003e, because it might not be. Don't paste passwords, ID or card numbers, medical or financial details, confidential work documents, or other people's personal information into a general AI tool. It's worth a few minutes in the settings, too — many services now let you opt out of having your data used for training, delete your history, or use a private mode. Paid and business versions often come with stronger privacy commitments, which matters if you're handling sensitive material. None of this means avoid AI; it means use it with the same instinct you'd use posting in public — helpful, but not the place for your secrets.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "privacy-data"
+  ],
+  "tags": [
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_af34d5",
+      "slug": "ai-in-everyday-tools",
+      "type": "concept",
+      "title": "AI in Everyday Tools",
+      "hook": "You've used AI for years without calling it that — every time your phone unlocks with your face, your maps reroute around traffic, or your inbox filters spam.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4830ed",
+      "slug": "ai-scams",
+      "type": "concept",
+      "title": "AI Scams \u0026 Staying Safe",
+      "hook": "AI didn't invent scams — it just made them cheaper, faster, and far more convincing. The good news: the habits that beat them haven't changed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af049a",
+      "slug": "using-ai-responsibly",
+      "type": "concept",
+      "title": "Using AI Responsibly",
+      "hook": "The point of AI literacy isn't to use AI for everything — it's to use it well: check its work, be honest that you used it, and know the moments to put it down.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_98e80e",
+      "slug": "google-search-history-ai-training",
+      "type": "news",
+      "title": "Google Will Save Your Searches to Train AI",
+      "hook": "Google is adding a setting that saves the photos, audio, and video you use to search — Lens snaps, voice queries, Translate clips — and that data can help train its AI. Worth a look.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "card_ba06cb",
+      "slug": "apple-private-cloud-ai",
+      "type": "news",
+      "title": "Can Cloud AI Be Private? Apple's Bet",
+      "hook": "Apple's pitch for its AI is privacy: small models run on your device, and bigger ones run in the cloud — even on Google's servers — in a way Apple says gives the host no access to your data.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "card_1db842",
+      "slug": "pokemon-go-data-repurposed",
+      "type": "news",
+      "title": "Your Game Data Can End Up Somewhere You Never Imagined",
+      "hook": "Data that Pokémon Go players generated for fun has reportedly been repurposed toward tech with military drone uses — a sharp reminder that data has a long, unpredictable second life.",
+      "importance": 2,
+      "difficulty": "intro",
+      "date": "2026-06-12"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d53f08#0",
+      "format": "quiz",
+      "prompt": "What's a safe assumption about what you type into a free AI chatbot?",
+      "choices": [
+        {
+          "text": "It may be stored, reviewed, and used to train future models",
+          "correct": true
+        },
+        {
+          "text": "It's automatically private and deleted instantly",
+          "correct": false
+        },
+        {
+          "text": "It's encrypted so no human can ever see it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMany services retain inputs to improve their models, and staff may review\nsome of them. Treat anything you type as potentially not private.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d53f08#1",
+      "format": "flip",
+      "prompt": "Name two things you should never paste into a general AI tool.",
+      "back_html": "\u003cp\u003eSensitive secrets — like passwords, ID numbers, medical or financial\ndetails — and other people's private information.\u003c/p\u003e"
+    }
+  ]
+}

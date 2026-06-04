@@ -1,0 +1,98 @@
+{
+  "id": "card_a60494",
+  "slug": "gov-website-ai-redesign",
+  "type": "news",
+  "title": "The Government's AI Website Redesign Backfired",
+  "hook": "A White House effort to modernize 27,000 .gov websites leaned on AI-assisted design tools — and the early results were so disjointed the whole rollout got delayed a year in.",
+  "key_points": [
+    "The National Design Studio, led by Airbnb co-founder Joe Gebbia, aims to redesign 27,000 federal websites.",
+    "Early agency pages used AI-assisted design tools to generate layouts quickly.",
+    "Critics called the results disjointed and non-compliant with basic usability standards.",
+    "A year in, the studio postponed its rollout schedule to rethink the approach.",
+    "Generating a design fast isn't the same as generating a design that works."
+  ],
+  "content_html": "\u003cp\u003eRedesigning one website is hard. Redesigning 27,000 of them is the goal of the National Design Studio, a White House effort led by Airbnb co-founder Joe Gebbia to modernize the federal government's web presence. Ars Technica reports that a year into the project, the plan has hit a wall: early agency pages built with AI-assisted design tools turned out disjointed and noncompliant with basic usability standards, and the studio has now postponed its rollout to rethink the approach.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe appeal of using AI here is obvious — 27,000 sites is far more than any human design team could touch by hand in a reasonable time. But speed and quality aren't the same thing, and the early results show the gap. Layouts that looked fine in a demo reportedly broke down in practice, frustrating the usability standards government sites are supposed to meet. It's a large-scale, public version of a pattern that shows up constantly with AI tools: generating output fast is easy; making sure that output actually works for real users still takes human judgment and testing. The project isn't dead — it's paused to fix course — but the stumble is a useful reminder that \u0026quot;AI can do this instantly\u0026quot; and \u0026quot;AI did this well\u0026quot; are two different claims.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors",
+    "published_at": "2026-06-30",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "over-reliance",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-02",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_9d4f35",
+      "slug": "ford-automation-rehire",
+      "type": "news",
+      "title": "Ford Had to Rehire the Engineers Its Automation Replaced",
+      "hook": "Ford leaned hard on automated systems in design and production — then found they weren't as reliable as assumed, and had to bring veteran engineers back to fix the mistakes.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "card_eb9c92",
+      "slug": "over-relying-on-ai",
+      "type": "concept",
+      "title": "Over-Relying on AI",
+      "hook": "The subtle risk isn't that AI fails — it's that it usually works, so you stop checking. Trusting a confident machine over your own judgment is its own kind of mistake.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a60494#0",
+      "format": "quiz",
+      "prompt": "What went wrong with the AI-assisted .gov website redesign?",
+      "choices": [
+        {
+          "text": "The AI-generated layouts were disjointed and failed basic usability standards",
+          "correct": true
+        },
+        {
+          "text": "The AI refused to design anything at all",
+          "correct": false
+        },
+        {
+          "text": "The websites were redesigned perfectly and ahead of schedule",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEarly agency pages built with AI-assisted design tools drew criticism for\ndisjointed, non-compliant layouts — bad enough that the rollout was postponed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a60494#1",
+      "format": "flip",
+      "prompt": "What's the general lesson from the .gov redesign stumble?",
+      "back_html": "\u003cp\u003eLetting AI generate something quickly doesn't guarantee it's usable — output\nstill needs human review before it ships, especially at large scale.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "card_efe310",
+  "slug": "who-owns-ai-output",
+  "type": "concept",
+  "title": "Who Owns AI's Output?",
+  "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+  "key_points": [
+    "Copyright traditionally protects human authorship — pure AI output may not qualify.",
+    "In the US, work with no meaningful human creativity generally can't be copyrighted.",
+    "Separate fight: was it legal to train on copyrighted work without permission?",
+    "For now: read each tool's terms, and be careful using AI output commercially."
+  ],
+  "content_html": "\u003cp\u003eIt seems like a simple question: you wrote the prompt, the AI produced the picture or the paragraph, so it's yours — right? In fact it's one of the messiest open questions in AI, and the honest answer is that the law hasn't caught up. Copyright was built around the idea of \u003cem\u003ehuman\u003c/em\u003e authorship, and AI scrambles that. In the United States, courts and the Copyright Office have generally held that output created with no meaningful human creativity can't be copyrighted at all — meaning a pure \u0026quot;type a prompt, get an image\u0026quot; result may belong to no one, and be free for anyone to use. Add substantial human editing and arrangement, and the picture changes. Other countries draw the lines differently.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThere's a second, even bigger fight running in parallel: not who owns the output, but whether it was legal to \u003cem\u003ebuild\u003c/em\u003e these models in the first place. Generative AI learned from enormous amounts of copyrighted material — books, articles, art, code — typically scraped without asking permission or paying. Authors, artists, and companies have launched major lawsuits arguing that's infringement; AI companies argue it's fair use. Those cases are still working through the courts and could reshape the whole industry. For everyday users, the practical guidance is modest but real: read the terms of the specific tool you're using (they often grant you a license to use what you generate), and be cautious about relying on AI-generated content for commercial work or assuming you have exclusive rights to it. This is an area to expect to \u003cem\u003echange\u003c/em\u003e — what's true this year may not be next.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Artificial intelligence and copyright",
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_and_copyright",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "ai-ownership"
+  ],
+  "tags": [
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aa1028",
+      "slug": "ai-images-and-art",
+      "type": "concept",
+      "title": "AI Images, Art \u0026 Video",
+      "hook": "Type a sentence, get a picture. Image generators learned the link between words and visuals from billions of captioned images — which is also why artists are raising hard questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_beea3d",
+      "slug": "can-ai-be-creative",
+      "type": "concept",
+      "title": "Can AI Be Creative?",
+      "hook": "AI can write a poem or compose a tune that genuinely moves people. Whether that's 'real' creativity or very sophisticated remixing is a question with no settled answer — and it matters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_39e1e7",
+      "slug": "artist-sues-ai-meme-generator",
+      "type": "news",
+      "title": "An Artist Sues an AI Meme App — Over Its Outputs, Not Its Training",
+      "hook": "Most AI copyright fights argue about what a model learned from. This one is simpler: an artist says his comic was sold as a searchable ad template — a much easier case to make.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-27"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_efe310#0",
+      "format": "quiz",
+      "prompt": "Why might a purely AI-generated image not be copyrightable in the US?",
+      "choices": [
+        {
+          "text": "Copyright protects human authorship, and there was little human creativity",
+          "correct": true
+        },
+        {
+          "text": "Images can never be copyrighted",
+          "correct": false
+        },
+        {
+          "text": "The AI company automatically owns it forever",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUS copyright has centered on human authorship. Output created with no\nmeaningful human creative input has generally been held not to qualify.\u003c/p\u003e"
+    },
+    {
+      "id": "card_efe310#1",
+      "format": "flip",
+      "prompt": "What's the separate copyright fight beyond who owns the output?",
+      "back_html": "\u003cp\u003eWhether it was legal to \u003cem\u003etrain\u003c/em\u003e models on copyrighted books, art, and code\nwithout permission — the subject of major ongoing lawsuits.\u003c/p\u003e"
+    }
+  ]
+}

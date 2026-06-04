@@ -1,0 +1,114 @@
+{
+  "id": "card_0d98b1",
+  "slug": "light-pulses-collide-into-black-holes",
+  "type": "paper",
+  "title": "The Weight of Light: Colliding Pulses of Radiation in General Relativity",
+  "hook": "General Relativity predicts pure light alone can collapse into a black hole — and colliding two such pulses head-on can yield one big black hole, two small ones, or none at all.",
+  "key_points": [
+    "Light carries energy, and energy curves spacetime — so pure radiation can collapse into a black hole.",
+    "This paper numerically simulates light pulses right up to and beyond the collapse threshold.",
+    "Near collapse, pulses reach a 'compactness' beyond what the hoop conjecture predicts for ordinary matter.",
+    "A single strong-enough pulse collapses directly into a fast-moving black hole.",
+    "Colliding two pulses head-on can yield two small black holes, one big one, or none — depending on tuning."
+  ],
+  "content_html": "\u003cp\u003eA new arXiv paper by Jorge Expósito Patiño, Vitor Cardoso, and Hannes R. Rüter takes one of General Relativity's strangest implications seriously: light itself carries energy, and energy curves spacetime, so squeezing enough pure radiation into a small enough space should make it collapse into a black hole — no matter required at all. The team numerically simulates strong pulses of electromagnetic radiation right up to, and beyond, that collapse threshold.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNear the threshold, the pulses reach a compactness that exceeds the maximum the \u0026quot;hoop conjecture\u0026quot; predicts should be possible for ordinary matter. Push a single pulse past the threshold and it collapses straight into a fast-moving black hole. Collide two pulses head-on, and depending on how precisely they're tuned, the outcome can be two horizonless remnants, two small black holes, or one single large black hole — showing that light colliding with light alone can carve out genuinely new states of spacetime.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Jorge Expósito Patiño",
+      "Vitor Cardoso",
+      "Hannes R. Rüter"
+    ],
+    "url": "https://arxiv.org/abs/2607.15761",
+    "published_at": "2026-07-17",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "gravity-orbits"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_45c4fe",
+      "slug": "e-equals-mc-squared",
+      "type": "concept",
+      "title": "E = mc²: Mass Is Energy",
+      "hook": "The most famous equation in physics says mass and energy are the same thing. Because the speed of light squared is a colossal number, a tiny bit of mass holds a staggering amount of energy.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0d98b1#0",
+      "format": "flip",
+      "prompt": "Why does General Relativity predict that pure light alone could collapse into a black hole?",
+      "back_html": "\u003cp\u003eLight carries energy, and energy curves spacetime — so squeezing enough\nradiation into a small enough region can make it collapse under its own gravity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0d98b1#1",
+      "format": "quiz",
+      "prompt": "What happens when a single pulse of light is pushed past the collapse threshold?",
+      "choices": [
+        {
+          "text": "It collapses directly into a fast-moving black hole",
+          "correct": true
+        },
+        {
+          "text": "It disperses harmlessly into space",
+          "correct": false
+        },
+        {
+          "text": "It settles into an ordinary star",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAbove the threshold, a single pulse of radiation collapses straight into\na fast-moving black hole, per the paper's simulations.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0d98b1#2",
+      "format": "quiz",
+      "prompt": "What can happen when two strong light pulses collide head-on, depending on tuning?",
+      "choices": [
+        {
+          "text": "Two horizonless remnants, two small black holes, or one big black hole",
+          "correct": true
+        },
+        {
+          "text": "Always exactly one medium-sized black hole",
+          "correct": false
+        },
+        {
+          "text": "The pulses always cancel out and vanish",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDepending on precise tuning, the collision yields two horizonless states,\ntwo small black holes, or one single large black hole.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0d98b1#3",
+      "format": "flip",
+      "prompt": "How compact do the pulses get near the collapse threshold?",
+      "back_html": "\u003cp\u003eCompact enough to exceed the maximum \u0026quot;compactness\u0026quot; the hoop conjecture\npredicts should be possible for ordinary matter.\u003c/p\u003e"
+    }
+  ]
+}

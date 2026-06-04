@@ -1,0 +1,108 @@
+{
+  "id": "card_c8369d",
+  "slug": "ozempic-activates-hunger-neurons",
+  "type": "news",
+  "title": "Ozempic May Work Backwards From What Scientists Expected",
+  "hook": "The obvious guess was that semaglutide switches off the brain's hunger neurons. In mice it appears to switch them on — and that activation seems necessary to keep the fat off.",
+  "key_points": [
+    "Researchers expected semaglutide to silence AgRP-type hunger neurons in the hypothalamus.",
+    "In mice, the drug instead activated hunger-linked neurons.",
+    "Blocking that activation blunted sustained fat loss, suggesting the signal is part of how the drug works.",
+    "One reading: the brain's hunger circuit is doing something other than simply saying 'eat'.",
+    "This is mouse work — but it points at new targets for next-generation obesity drugs."
+  ],
+  "content_html": "\u003cp\u003eSemaglutide — Ozempic, Wegovy — is understood to cut appetite. The tidy story was that it quiets the hypothalamic neurons that drive hunger. New work in mice suggests almost the reverse: the drug appears to activate those hunger-linked neurons, and that activation looks essential for fat loss to stick.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe interesting part is not the surprise itself but what it implies about the circuit. If a drug that reliably reduces eating also turns \u003cem\u003eon\u003c/em\u003e the cells labelled \u0026quot;hunger,\u0026quot; then those cells are doing more than shouting for food — they may be part of how the body renegotiates its energy budget. When researchers prevented the activation, sustained fat loss suffered, which is the kind of result that turns a curiosity into a mechanism.\u003c/p\u003e\n\u003cp\u003eTreat it as a lead, not a lesson: this is animal work, reported via ScienceDaily, and human hypothalamic circuitry is harder to interrogate. But it is exactly the sort of finding that reshapes what the next generation of obesity drugs aims at — cooperating with the hunger system rather than simply overriding it.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260820002436.htm",
+    "published_at": "2026-08-20",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "healthy-weight"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_cce0de",
+      "slug": "glp1-craving-center-brain",
+      "type": "news",
+      "title": "Ozempic May Have Revealed the Brain's Craving Switch",
+      "hook": "GLP-1 drugs blunt more than hunger — they dull cravings for alcohol too. Scientists are tracing that effect to one small brain region: the lateral septum.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "card_77b219",
+      "slug": "why-the-brain-defends-lost-weight",
+      "type": "news",
+      "title": "Your Brain Fights to Get the Weight Back",
+      "hook": "Regaining weight isn't a willpower failure. The brain treats your former higher weight as normal and defends it — with more hunger, stronger cravings, and less energy burned.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-03"
+    },
+    {
+      "id": "card_3ea5de",
+      "slug": "gip-brain-switch-weight-loss",
+      "type": "news",
+      "title": "The Brain Switch Where Blocking and Activating Both Work",
+      "hook": "Two obesity drugs do opposite things to the same receptor — and both cause weight loss. Researchers found the answer is location: it depends which part of the brain you hit.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-15"
+    },
+    {
+      "id": "card_b379a7",
+      "slug": "glp1-beyond-weight-loss",
+      "type": "news",
+      "title": "GLP-1 Drugs Linked to Lower Addiction Risk",
+      "hook": "A study of ~600,000 U.S. veterans links GLP-1 drugs like semaglutide to lower rates of addiction and overdose — an association, not proof that the drugs cause the effect.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-03"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c8369d#0",
+      "format": "quiz",
+      "prompt": "What did researchers find semaglutide does to hunger-linked neurons in mice?",
+      "choices": [
+        {
+          "text": "Activates them — the opposite of what was expected",
+          "correct": true
+        },
+        {
+          "text": "Silences them, confirming the standard model",
+          "correct": false
+        },
+        {
+          "text": "Destroys them permanently",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe expectation was suppression. Instead the drug activated hunger-linked neurons,\nand that activation appeared necessary for fat loss to be sustained.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c8369d#1",
+      "format": "flip",
+      "prompt": "Why does this finding matter for drug development?",
+      "back_html": "\u003cp\u003eIf the hunger circuit is part of the \u003cem\u003emechanism\u003c/em\u003e rather than just the obstacle,\nit becomes a target in its own right — a lever for more effective obesity drugs\ninstead of something to shut down.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c8369d#2",
+      "format": "flip",
+      "prompt": "What's the main caveat on this result?",
+      "back_html": "\u003cp\u003eIt's a \u003cstrong\u003emouse\u003c/strong\u003e study. Rodent hypothalamic circuits guided decades of obesity\nresearch, but activation patterns don't automatically transfer to people.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "card_5bfd13",
+  "slug": "naming-and-classifying-species",
+  "type": "concept",
+  "title": "How Species Are Named",
+  "hook": "Every species on Earth gets a two-word Latin name — like Homo sapiens — under a tidy ranked system invented 250 years ago that scientists still use today.",
+  "key_points": [
+    "Linnaean classification nests life in ranks: domain, kingdom, phylum, class, order, family, genus, species.",
+    "Each species gets a two-part scientific name: its genus plus a species label.",
+    "This binomial naming is written in italics, genus capitalized — e.g. Homo sapiens.",
+    "Carl Linnaeus formalized the system in the 1700s, giving every species one universal name.",
+    "Universal names avoid confusion from local common names that vary by language and place."
+  ],
+  "content_html": "\u003cp\u003eBiologists organize life with a system of nested ranks: domain, kingdom, phylum, class, order, family, genus, and species, each narrower than the last. At the finest level, every species earns a unique two-word name — its genus followed by a species label. Humans are \u003cem\u003eHomo sapiens\u003c/em\u003e; the genus is capitalized and the whole thing is italicized. This is called binomial nomenclature, and it gives scientists everywhere a shared, unambiguous label for each kind of organism.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe framework comes from the 18th-century Swedish naturalist Carl Linnaeus, who set out to give every living thing one consistent name and a fixed place in a hierarchy. His big idea was the two-part name: rather than long descriptive phrases or local nicknames, each species got a compact genus-plus-species tag. That matters because common names are a mess — a single bird might be called different things in every town and language, while \u003cem\u003eTurdus migratorius\u003c/em\u003e means exactly one thing to a biologist in any country. As Encyclopaedia Britannica describes, modern taxonomy still rests on this Linnaean skeleton, even as DNA reshuffles which organisms belong where.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/taxonomy",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "classification"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_9fa649",
+      "slug": "kingdoms-of-life",
+      "type": "concept",
+      "title": "The Kingdoms of Life",
+      "hook": "One step below the domains, life sorts into kingdoms — animals, plants, fungi, and assorted microbes — each a different way of making a living on Earth.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e69708",
+      "slug": "the-three-domains",
+      "type": "concept",
+      "title": "The Three Domains of Life",
+      "hook": "At the very top, all life splits into just three branches — Bacteria, Archaea, and Eukarya — and your cells belong to the same one as mushrooms and oak trees.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_23d88a",
+      "slug": "hidden-bird-species-revealed-by-dna",
+      "type": "news",
+      "title": "A Hidden Bird Species, Revealed by DNA",
+      "hook": "Two birds in Japan look nearly identical — but their DNA and songs say they're different species. The split is Japan's first new bird in 40 years, and shows how genetics keeps finding hidden life.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5bfd13#0",
+      "format": "flip",
+      "prompt": "What is a 'binomial' scientific name?",
+      "back_html": "\u003cp\u003eA two-part name made of an organism's \u003cstrong\u003egenus\u003c/strong\u003e plus its \u003cstrong\u003especies\u003c/strong\u003e label —\nfor example, \u003cem\u003eHomo sapiens\u003c/em\u003e for humans. The genus is capitalized and both are italicized.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5bfd13#1",
+      "format": "quiz",
+      "prompt": "Who formalized the system of ranking and naming species we still use?",
+      "choices": [
+        {
+          "text": "Carl Linnaeus, in the 18th century",
+          "correct": true
+        },
+        {
+          "text": "Charles Darwin, in the 19th century",
+          "correct": false
+        },
+        {
+          "text": "Gregor Mendel, in the 19th century",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCarl Linnaeus laid out the nested ranks and two-word naming in the 1700s. Darwin and\nMendel came later and worked on evolution and heredity, not the naming system.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5bfd13#2",
+      "format": "quiz",
+      "prompt": "Why do scientists use Latin binomial names instead of common names?",
+      "choices": [
+        {
+          "text": "Common names vary by language and region, while one binomial is universal",
+          "correct": true
+        },
+        {
+          "text": "Latin names are shorter than common names",
+          "correct": false
+        },
+        {
+          "text": "Common names are illegal in science",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA single creature might have dozens of common names across languages, but one\nbinomial name is recognized worldwide, removing ambiguity.\u003c/p\u003e"
+    }
+  ]
+}

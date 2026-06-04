@@ -1,0 +1,88 @@
+{
+  "id": "card_6a2743",
+  "slug": "tidal-ai-music-royalties",
+  "type": "news",
+  "title": "Tidal Won't Pay Royalties on Fully AI-Made Songs",
+  "hook": "Tidal isn't banning AI music — but starting July 15, any track it identifies as 100% AI-generated stops earning royalties and gets tagged so listeners know what they're hearing.",
+  "key_points": [
+    "Tidal will label any track it identifies as fully AI-generated with an on-platform tag.",
+    "Those tracks lose royalty payments and can't be sold directly to fans, effective July 15, 2026.",
+    "Tidal isn't banning AI music outright — only cutting monetization for 100%-AI tracks.",
+    "It will also use automated tools to remove AI tracks built to impersonate real artists.",
+    "The policy also covers Tidal Upload, the platform's independent-artist program."
+  ],
+  "content_html": "\u003cp\u003eStreaming platforms have mostly danced around AI music instead of setting hard rules. Tidal just picked a side. The Verge reports that starting July 15, 2026, Tidal will label any track it identifies as 100% AI-generated with an on-platform tag — and cut off its royalties and direct-to-fan sales entirely.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe key word is \u003cem\u003efully\u003c/em\u003e: Tidal isn't banning AI-assisted music, only music it judges to have no meaningful human creation behind it. Once flagged, a track keeps its place in the catalog but stops making money for whoever uploaded it, and listeners see a badge marking it as AI-made. Tidal is also deploying automated tools to catch and remove a nastier category — AI tracks built to impersonate a real artist or group. The policy extends to Tidal Upload, its independent-artist program, closing an obvious loophole. The company frames the goal simply: royalties should go to people who actually wrote and performed the music. It's a concrete answer to a question streaming services have mostly avoided — not \u0026quot;should AI music exist,\u0026quot; but \u0026quot;who gets paid when it does.\u0026quot;\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Andrew Liszewski"
+    ],
+    "url": "https://theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+    "published_at": "2026-06-29",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c36b83",
+      "slug": "music-ai-training-database",
+      "type": "news",
+      "title": "See the Music That Trained AI",
+      "hook": "Ever wonder if your favorite song helped train an AI? The Atlantic dug up four music datasets used to train AI models — two with millions of tracks — and made them searchable by anyone.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-20"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6a2743#0",
+      "format": "quiz",
+      "prompt": "What happens to a song Tidal identifies as 100% AI-generated?",
+      "choices": [
+        {
+          "text": "It gets an AI tag and stops earning royalties or direct-to-fan sales",
+          "correct": true
+        },
+        {
+          "text": "It's automatically deleted from the platform",
+          "correct": false
+        },
+        {
+          "text": "Nothing changes — it's treated exactly like human-made music",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTidal doesn't ban fully AI-generated tracks outright — it labels them and\ncuts off their monetization, while still leaving the music up.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6a2743#1",
+      "format": "flip",
+      "prompt": "Why is Tidal's move described as different from just labeling AI content?",
+      "back_html": "\u003cp\u003eIt targets the money directly — no royalties, no direct-to-fan sales —\nrather than only flagging AI tracks for visibility.\u003c/p\u003e"
+    }
+  ]
+}

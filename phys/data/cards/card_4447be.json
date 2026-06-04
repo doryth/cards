@@ -1,0 +1,101 @@
+{
+  "id": "card_4447be",
+  "slug": "how-planes-fly",
+  "type": "concept",
+  "title": "How Planes Fly",
+  "hook": "A wing throws air downward, and by Newton's third law the air pushes the wing up. Forget the old 'air must rejoin' story — lift is about deflected air.",
+  "key_points": [
+    "A wing deflects air downward; the air pushes the wing up in return (Newton's third law).",
+    "That downwash comes with lower pressure above the wing and higher below.",
+    "Wing shape and angle of attack set how much air gets turned, and thus the lift.",
+    "The popular 'equal transit time' explanation is a myth — air does not need to rejoin."
+  ],
+  "content_html": "\u003cp\u003eAirplanes stay up because their wings push air down. As a wing moves through the air it deflects the stream downward, and Newton's third law guarantees an equal push back upward on the wing — that upward push is lift. The same flow pattern means the air pressure ends up lower over the top of the wing and higher underneath, another way of describing the very same force.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHow much air gets turned depends on the wing's shape and its angle of attack — how steeply it tilts into the oncoming air. Steepen that angle and you deflect more air, gaining lift, until the angle gets too aggressive and the smooth flow breaks away in a stall. It's worth retiring the schoolbook claim that air over the top must \u0026quot;rejoin\u0026quot; air from the bottom and therefore speeds up: there's no such rule, and that story gives the wrong answers. Wikipedia's article on lift explains the deflection-and-pressure picture and debunks the equal-transit-time myth.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lift_(force)",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "fluids-pressure"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_7de888",
+      "slug": "what-is-pressure",
+      "type": "concept",
+      "title": "What Is Pressure?",
+      "hook": "Pressure is force spread over an area. Concentrate the same push on a tiny spot and it skyrockets — which is why a sharp knife cuts and a thumbtack pierces.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d32c83",
+      "slug": "newtons-three-laws",
+      "type": "concept",
+      "title": "Newton's Three Laws of Motion",
+      "hook": "Three short rules — inertia, F=ma, and action-reaction — quietly govern almost everything that moves around you.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4447be#0",
+      "format": "flip",
+      "prompt": "In Newton's terms, how does a wing generate lift?",
+      "back_html": "\u003cp\u003eThe wing \u003cstrong\u003edeflects air downward\u003c/strong\u003e, and by Newton's third law the air pushes\nback \u003cstrong\u003eupward\u003c/strong\u003e on the wing. This goes hand in hand with lower pressure above\nand higher pressure below.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4447be#1",
+      "format": "quiz",
+      "prompt": "Which common explanation of lift is actually a myth?",
+      "choices": [
+        {
+          "text": "Air over the top must rejoin air from the bottom at the trailing edge",
+          "correct": true
+        },
+        {
+          "text": "A wing deflects air downward",
+          "correct": false
+        },
+        {
+          "text": "Pressure is lower above the wing than below",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe 'equal transit time' idea is false — there's no rule that the air must\nmeet up again. Lift comes from deflected air and the resulting pressure\ndifference.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4447be#2",
+      "format": "quiz",
+      "prompt": "What does increasing a wing's angle of attack tend to do (up to a point)?",
+      "choices": [
+        {
+          "text": "Deflect more air downward, increasing lift",
+          "correct": true
+        },
+        {
+          "text": "Eliminate the pressure difference around the wing",
+          "correct": false
+        },
+        {
+          "text": "Reverse the direction of lift",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTilting the wing more into the oncoming air turns more of it downward,\nraising lift — until the angle gets too steep and the flow stalls.\u003c/p\u003e"
+    }
+  ]
+}

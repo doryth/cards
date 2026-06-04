@@ -1,0 +1,139 @@
+{
+  "id": "card_a7735f",
+  "slug": "consent-searches-at-the-door",
+  "type": "blog",
+  "title": "Consent Is the Biggest Exception",
+  "hook": "A warrantless search of a home is presumptively unreasonable — unless you say yes. And nobody is required to tell you that you may say no.",
+  "key_points": [
+    "Warrantless entry into a home is presumptively unreasonable under the Fourth Amendment.",
+    "An anonymous tip, standing alone, does not establish probable cause for a warrant.",
+    "Consent searches need no Miranda-style warning, so officials may ask to come in without mentioning your right to refuse.",
+    "'Exigent circumstances' — an emergency, hot pursuit, imminent destruction of evidence — can justify warrantless entry.",
+    "Lorence's illustration: Pete Buttigieg described police and a child-protection investigator arriving at his Michigan home over an anonymous allegation that proved baseless.",
+    "Courts have recognized that children have their own interest in the privacy and dignity of the home."
+  ],
+  "content_html": "\u003cp\u003eAsk people what the Fourth Amendment protects and you will hear something about warrants. The doctrine is more interesting than that, because the largest hole in the warrant requirement is one people open themselves: consent. Writing at SCOTUSblog, Jordan Lorence uses an episode from Pete Buttigieg's account of a child-protection investigation at his Michigan home to walk through what the rules actually require at a front door.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe facts, as Buttigieg described them in June 2026: an anonymous allegation — that he had confessed to crimes to a woman at a conference in Alabama years earlier — brought police and a child protective services investigator to his house. The investigator asked to interview his children without him present and asked him not to be alone with them until the inquiry closed. No substantive evidence turned up; the claim was baseless.\u003c/p\u003e\n\u003cp\u003eLorence's doctrinal points are the durable part. Warrantless searches of a home are presumptively unreasonable. An anonymous tip on its own does not establish probable cause, so it usually cannot produce a warrant either. That leaves two routes in: genuine exigent circumstances — an emergency, hot pursuit, evidence about to be destroyed — which Lorence argues were absent here, and consent, which requires no warning of any kind. There is no Miranda equivalent for \u0026quot;may we come in,\u0026quot; which is why he advises declining warrantless entry and asking for a warrant. He also notes courts recognizing that children have their own stake in the privacy and dignity of the home, not merely their parents' stake. Lorence writes as senior counsel at First Liberty Institute, a litigation shop with a stated interest in these questions, and his advice is advocacy rather than neutral description — but the underlying asymmetry he identifies is real, and it is the practical core of the amendment: rights that depend on your refusal only work if you know you can refuse.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Jordan Lorence"
+    ],
+    "url": "https://scotusblog.com/2026/08/pete-buttigieg-the-supreme-court-and-the-fourth-amendment",
+    "published_at": "2026-08-07",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-07",
+  "related": [
+    {
+      "id": "card_140ab1",
+      "slug": "geofence-warrants-and-the-fourth-amendment",
+      "type": "news",
+      "title": "Geofence Warrants \u0026 the Fourth Amendment",
+      "hook": "Police can ask a tech company which phones were near a crime scene at a given hour — sweeping up everyone's location, not just a suspect's. In 2026 the Court said that's a 'search.'",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_cbef24",
+      "slug": "surveillance-and-privacy",
+      "type": "concept",
+      "title": "Surveillance \u0026 Privacy",
+      "hook": "Technology lets states and companies watch people at a scale once unimaginable — putting the old right to be left alone on a collision course with security and profit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a7735f#0",
+      "format": "flip",
+      "prompt": "Why is consent described as the largest exception to the warrant requirement?",
+      "back_html": "\u003cp\u003eBecause a consented entry needs no warrant and no probable cause — and\nunlike a custodial interrogation, there is no requirement to inform you\nthat refusal is an option.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a7735f#1",
+      "format": "quiz",
+      "prompt": "Can an anonymous tip by itself support a warrant to search a home?",
+      "choices": [
+        {
+          "text": "No — standing alone it does not establish probable cause",
+          "correct": true
+        },
+        {
+          "text": "Yes, anonymous tips are treated like sworn testimony",
+          "correct": false
+        },
+        {
+          "text": "Only if the tip concerns a child",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn uncorroborated anonymous allegation is not probable cause. That is\nwhy an investigator may seek consent instead of a warrant.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a7735f#2",
+      "format": "quiz",
+      "prompt": "Which situation would allow a warrantless entry into a home?",
+      "choices": [
+        {
+          "text": "Genuine exigent circumstances, such as an emergency or imminent destruction of evidence",
+          "correct": true
+        },
+        {
+          "text": "Any investigation involving allegations about children",
+          "correct": false
+        },
+        {
+          "text": "Whenever officials believe a warrant would take too long",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eExigency is a real but narrow exception. Inconvenience or the general\nseriousness of an allegation does not substitute for a warrant.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "card_af8914",
+  "slug": "reflection-and-refraction",
+  "type": "concept",
+  "title": "Reflection \u0026 Refraction",
+  "hook": "A straw looks bent in a glass of water — not because the straw bends, but because light does when it changes speed.",
+  "key_points": [
+    "Reflection: light bounces off a surface, with the angle in equal to the angle out.",
+    "Refraction: light bends when it passes between materials where it travels at different speeds.",
+    "Light slows in denser media like water or glass, which bends its path.",
+    "Lenses and prisms work by carefully shaping refraction."
+  ],
+  "content_html": "\u003cp\u003eWhen light meets a boundary between two materials, two things can happen. Reflection bounces it back: a mirror sends light off at the same angle it arrived, which is why your reflection looks crisp. Refraction bends it: light that crosses into a new material — say from air into water — changes direction at the surface.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eRefraction happens because light travels at different speeds in different materials, slowing down in denser media like water or glass. That change in speed bends the path, the same way a car veers if one wheel hits mud. It's why a straw in a glass looks broken at the waterline and why a pool looks shallower than it is. Engineers exploit refraction deliberately: a lens is just a shaped piece of glass that bends incoming rays to a focus, and a prism bends different colors by different amounts to spread out a rainbow. HyperPhysics covers the geometry and the index of refraction behind it.\u003c/p\u003e",
+  "source": {
+    "name": "HyperPhysics (Georgia State University)",
+    "authors": [
+      "Rod Nave"
+    ],
+    "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/geoopt/refr.html",
+    "license": "© Georgia State University (educational use)"
+  },
+  "topic_ids": [
+    "light-optics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_af8914#0",
+      "format": "flip",
+      "prompt": "What causes light to refract when it enters water or glass?",
+      "back_html": "\u003cp\u003eLight \u003cstrong\u003echanges speed\u003c/strong\u003e when it moves between materials; that change in speed\nbends its path. It slows in denser media like water or glass.\u003c/p\u003e"
+    },
+    {
+      "id": "card_af8914#1",
+      "format": "quiz",
+      "prompt": "For reflection off a flat surface, how do the incoming and outgoing angles compare?",
+      "choices": [
+        {
+          "text": "The angle in equals the angle out",
+          "correct": true
+        },
+        {
+          "text": "The angle out is always twice the angle in",
+          "correct": false
+        },
+        {
+          "text": "The angle out is always zero",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eReflection follows the law that the angle of incidence equals the angle of\nreflection, both measured from the surface's normal.\u003c/p\u003e"
+    },
+    {
+      "id": "card_af8914#2",
+      "format": "quiz",
+      "prompt": "Why does a straw look bent where it enters a glass of water?",
+      "choices": [
+        {
+          "text": "Light refracts at the water surface, shifting where the straw appears",
+          "correct": true
+        },
+        {
+          "text": "The water physically bends the straw",
+          "correct": false
+        },
+        {
+          "text": "Water absorbs the lower half of the straw",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLight from the submerged part bends as it leaves the water, so your eye sees\nit offset — the straw only looks bent.\u003c/p\u003e"
+    }
+  ]
+}

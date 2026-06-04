@@ -1,0 +1,100 @@
+{
+  "id": "card_8d54fc",
+  "slug": "gluon-junction-carries-baryon-number",
+  "type": "news",
+  "title": "What Actually Makes a Proton a Proton?",
+  "hook": "Textbooks say a proton's identity lives in its three quarks. RHIC data hint it is really carried by a Y-shaped junction of the gluons tying them together.",
+  "key_points": [
+    "Baryon number is the conserved quantity that counts protons and neutrons — its conservation is why protons appear to be stable.",
+    "The textbook picture assigns 1/3 of a baryon number to each of the proton's three valence quarks.",
+    "Collision data from RHIC instead favour a 'gluon junction': the Y-shaped knot where the three gluon strings meet.",
+    "The distinction shows up in how baryon number moves in high-energy collisions — the junction can be transported even when the original quarks are not.",
+    "If it holds up, the picture changes how physicists think about matter's stability and about baryon transport in heavy-ion collisions."
+  ],
+  "content_html": "\u003cp\u003eAsk a textbook what makes a proton a proton and you get a simple answer: three quarks,\neach carrying one-third of a unit of baryon number. Because that number is conserved,\na proton has nothing lighter to turn into — which is the deep reason ordinary matter\ndoes not simply evaporate.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNew analysis of collisions at Brookhaven's Relativistic Heavy Ion Collider points\nsomewhere else. The quarks inside a proton are bound by gluon strings that meet in a\nY-shaped knot, and the data suggest it is that \u003cem\u003ejunction\u003c/em\u003e — not the quarks — that\ncarries the baryon number. The two pictures make different predictions about baryon\ntransport: how much of the incoming particles' baryon number ends up in the middle of\na collision, far from where the original quarks went. The measurements favour the\njunction.\u003c/p\u003e\n\u003cp\u003eIt is a striking revision of a decades-old piece of bookkeeping, and if confirmed it\nreshapes how physicists model baryon flow in heavy-ion collisions and how they think\nabout the origin of matter's stability. As always with a single experiment\noverturning a textbook picture, the result wants independent confirmation before the\ntextbooks get rewritten. See ScienceDaily's report for the collaboration's framing.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260815064805.htm",
+    "published_at": "2026-08-16",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "modern-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-16",
+  "related": [
+    {
+      "id": "card_13b1bf",
+      "slug": "the-force-on-a-quark",
+      "type": "paper",
+      "title": "Measuring the force that traps a quark inside the proton",
+      "hook": "Nobody has ever seen a free quark. A sharpened reconstruction of the actual force tugging on one inside the proton comes out looking like a string pulled at constant tension.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_e16fb0",
+      "slug": "quark-gluon-plasma-in-light-ion-collisions",
+      "type": "paper",
+      "title": "Evidence for Sequential Υ(nS) Suppression in Light Ion Collisions",
+      "hook": "Physicists just found the same 'melting pattern' that signals a quark-gluon plasma — the universe's primordial soup — in much smaller particle collisions than ever confirmed before.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8d54fc#0",
+      "format": "flip",
+      "prompt": "What is baryon number, and why do physicists care that it is conserved?",
+      "back_html": "\u003cp\u003eIt is the quantity that counts baryons — protons and neutrons. Because nothing\nobserved so far changes it, a proton has nothing lighter to decay into, which is\nwhy ordinary matter is stable.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8d54fc#1",
+      "format": "quiz",
+      "prompt": "What does the RHIC result suggest actually carries a proton's baryon number?",
+      "choices": [
+        {
+          "text": "A Y-shaped junction of the gluon strings connecting the quarks",
+          "correct": true
+        },
+        {
+          "text": "The three valence quarks, one-third each, as textbooks say",
+          "correct": false
+        },
+        {
+          "text": "The cloud of virtual quark–antiquark pairs inside the proton",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe data favour the gluon junction — the knot where the three colour strings\nmeet — rather than the quarks themselves, challenging the standard\none-third-per-quark bookkeeping.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8d54fc#2",
+      "format": "flip",
+      "prompt": "Why does it matter experimentally whether quarks or a gluon junction carry baryon number?",
+      "back_html": "\u003cp\u003eThe two pictures predict different baryon transport in high-energy collisions:\na junction can be dragged into the collision debris even when the original\nvalence quarks are not, changing where baryon number ends up.\u003c/p\u003e"
+    }
+  ]
+}

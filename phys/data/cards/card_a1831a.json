@@ -1,0 +1,122 @@
+{
+  "id": "card_a1831a",
+  "slug": "radioactivity",
+  "type": "concept",
+  "title": "Radioactivity and Half-Life",
+  "hook": "You can't predict when a single unstable atom will decay, yet a huge sample decays on a clock so precise we use it to date rocks billions of years old.",
+  "key_points": [
+    "Unstable nuclei spontaneously decay, releasing energy as radiation.",
+    "The three classic types are alpha (helium nuclei), beta (electrons), and gamma (high-energy photons).",
+    "Half-life is the time for half a sample to decay — fixed for each isotope.",
+    "Single decays are random, but bulk decay is precise enough for radiometric dating."
+  ],
+  "content_html": "\u003cp\u003eMost atoms are stable and last forever, but some have nuclei that are too lopsided to hold together. These unstable nuclei spontaneously decay, shedding energy as radiation. There are three classic flavors: alpha decay flings out a helium nucleus, beta decay emits an electron, and gamma decay releases a high-energy photon. Each turns the atom into a slightly different, often more stable, version of itself.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe beautiful part is the timing. You can never say when any single atom will decay; it's genuinely random. But for a large sample, exactly half will decay within a fixed span called the half-life, which can be a fraction of a second or billions of years depending on the isotope. That clockwork reliability is what lets geologists read the age of rocks and archaeologists date ancient remains by measuring how much of a radioactive isotope is left. Wikipedia covers the decay modes and the math of half-life in more detail.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Radioactive_decay",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "atomic-nuclear"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fea6ef",
+      "slug": "nuclear-fission",
+      "type": "concept",
+      "title": "Nuclear Fission",
+      "hook": "Split one heavy nucleus and it releases neutrons that split more — a chain reaction that, tamed, lights cities, and unleashed, levels them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b627bb",
+      "slug": "carbon-dating",
+      "type": "concept",
+      "title": "Carbon Dating: Reading Time in Atoms",
+      "hook": "Every living thing is a slowly ticking clock. The moment it dies, a radioactive form of carbon starts running down — and counting what's left tells us how long ago that was.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a1831a#0",
+      "format": "flip",
+      "prompt": "What is an isotope's half-life?",
+      "back_html": "\u003cp\u003eThe time it takes for \u003cstrong\u003ehalf\u003c/strong\u003e of a sample to decay. It's a fixed,\ncharacteristic value for each isotope — from fractions of a second to\nbillions of years.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a1831a#1",
+      "format": "quiz",
+      "prompt": "Which list correctly names the three classic types of radioactive decay?",
+      "choices": [
+        {
+          "text": "Alpha (helium nuclei), beta (electrons), gamma (high-energy photons)",
+          "correct": true
+        },
+        {
+          "text": "Alpha (protons), beta (neutrons), gamma (X-rays only)",
+          "correct": false
+        },
+        {
+          "text": "Alpha (light), beta (heat), gamma (sound)",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAlpha particles are helium nuclei, beta particles are electrons (or\npositrons), and gamma rays are high-energy photons.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a1831a#2",
+      "format": "quiz",
+      "prompt": "How can decay be random for one atom yet predictable in bulk?",
+      "choices": [
+        {
+          "text": "Each atom decays at random, but huge numbers average into a precise rate",
+          "correct": true
+        },
+        {
+          "text": "Atoms secretly coordinate the timing of their decays",
+          "correct": false
+        },
+        {
+          "text": "The randomness only appears in small samples",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYou can't say when one nucleus will go, but across trillions of atoms the\nstatistics give a sharp, reliable half-life.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "card_eefe71",
+  "slug": "what-is-a-wave",
+  "type": "concept",
+  "title": "What Is a Wave?",
+  "hook": "A wave moves energy from place to place without moving the stuff it travels through — the water bobs, but the wave races on.",
+  "key_points": [
+    "A wave is a disturbance that transfers energy without transferring matter.",
+    "Transverse waves wiggle across the direction of travel; longitudinal waves squeeze along it.",
+    "Key traits: wavelength, frequency, amplitude, and speed.",
+    "Wave speed equals frequency times wavelength."
+  ],
+  "content_html": "\u003cp\u003eA wave is a traveling disturbance that carries energy through a medium without carrying the medium itself. Picture a cork floating on a pond: when ripples pass, the cork bobs up and down but doesn't drift across the water. The water stays put; only the energy moves.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWaves come in two basic geometries. In a transverse wave the medium wiggles at right angles to the direction the wave travels, like a shaken rope. In a longitudinal wave the medium compresses and stretches along the direction of travel, like a pushed spring. Every wave is described by a few numbers: its wavelength (length of one cycle), frequency (cycles per second), amplitude (size of the disturbance), and speed — and those connect through speed = frequency times wavelength. Britannica surveys the types of waves and the quantities that characterize them.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/wave-physics",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "waves-sound"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a621bf",
+      "slug": "sound-waves",
+      "type": "concept",
+      "title": "Sound Waves",
+      "hook": "Sound is just air being squeezed and stretched — which is also why there's no sound in the vacuum of space.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_eefe71#0",
+      "format": "flip",
+      "prompt": "What does a wave transfer, and what does it leave behind?",
+      "back_html": "\u003cp\u003eA wave transfers \u003cstrong\u003eenergy\u003c/strong\u003e from place to place but does \u003cstrong\u003enot\u003c/strong\u003e carry the\nmatter along with it — the medium just oscillates in place.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eefe71#1",
+      "format": "quiz",
+      "prompt": "How do transverse and longitudinal waves differ?",
+      "choices": [
+        {
+          "text": "Transverse wiggle across the direction of travel; longitudinal squeeze along it",
+          "correct": true
+        },
+        {
+          "text": "Transverse carry matter; longitudinal carry only energy",
+          "correct": false
+        },
+        {
+          "text": "They are identical except for their speed",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe distinction is the direction of the disturbance relative to travel:\nacross for transverse, along for longitudinal.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eefe71#2",
+      "format": "quiz",
+      "prompt": "Which relationship gives a wave's speed?",
+      "choices": [
+        {
+          "text": "Speed = frequency times wavelength",
+          "correct": true
+        },
+        {
+          "text": "Speed = frequency divided by amplitude",
+          "correct": false
+        },
+        {
+          "text": "Speed = wavelength times amplitude",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMultiplying how often it cycles (frequency) by the length of each cycle\n(wavelength) gives how fast the wave travels.\u003c/p\u003e"
+    }
+  ]
+}

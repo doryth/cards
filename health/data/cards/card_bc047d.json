@@ -1,0 +1,101 @@
+{
+  "id": "card_bc047d",
+  "slug": "oregon-psilocybin-real-world",
+  "type": "news",
+  "title": "Psilocybin Outside the Lab",
+  "hook": "Oregon legalized supervised psilocybin without requiring a diagnosis. The first real-world data from thousands of sessions looks promising — and it isn't a clinical trial.",
+  "key_points": [
+    "Oregon was the first U.S. state to create a legal, regulated psilocybin services industry.",
+    "Thousands of people have since taken psilocybin under supervision, no medical diagnosis required.",
+    "A real-world study of the program reports promising outcomes for PTSD, depression, and anxiety.",
+    "This is observational data from people who chose to participate — not a randomized controlled trial.",
+    "That design can't rule out expectation effects, so it complements rather than replaces trial evidence."
+  ],
+  "content_html": "\u003cp\u003eOregon did something no state had done before: it built a legal, regulated industry for supervised psilocybin use, open to adults without requiring a diagnosis or a prescription. Thousands of people have now been through it, and NPR reports that the first real-world study of the program shows promising results for PTSD, depression, and anxiety.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe reason this matters is that almost everything we know about psychedelics as treatment comes from tightly controlled trials with screened volunteers. Oregon is the opposite setting — people walk in because they want to — so it answers a different question: what happens when this is simply available?\u003c/p\u003e\n\u003cp\u003eThe tradeoff is evidence strength. Because participants chose to take part and weren't randomized against a comparison group, the study can't separate the drug's effect from the effect of expecting help and paying for it. Encouraging real-world numbers and rigorous trial evidence are different currencies; Oregon supplies the first, and the trials still have to supply the second.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Will Stone"
+    ],
+    "url": "https://npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
+    "published_at": "2026-08-19",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "mental-health",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_202e96",
+      "slug": "psilocybin-brain-flexibility",
+      "type": "news",
+      "title": "One Psilocybin Dose, a Month of Brain Change",
+      "hook": "A single dose of psilocybin left measurable changes in brain activity lasting up to a month — and the people whose brains got more flexible reported more insight and better wellbeing.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "card_ab46b0",
+      "slug": "getting-help-for-mental-health",
+      "type": "concept",
+      "title": "Getting Help for Mental Health",
+      "hook": "Mental health treatment works for most people — and the hardest part is usually just starting. Here's how to take the first step.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_3360fb",
+      "slug": "open-label-placebo-effect",
+      "type": "news",
+      "title": "The Placebo That Worked Even When People Knew",
+      "hook": "Older adults who knew their pills were fake still improved on memory, fitness, and stress — a hint that the placebo effect doesn't need the lie.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bc047d#0",
+      "format": "flip",
+      "prompt": "What makes Oregon's psilocybin program different from a clinical trial?",
+      "back_html": "\u003cp\u003eIt's \u003cstrong\u003enonmedical\u003c/strong\u003e: supervised sessions open to people without a diagnosis, who chose to\ncome. So the data is observational, not randomized.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bc047d#1",
+      "format": "quiz",
+      "prompt": "Why should promising results from Oregon's program be read with caution?",
+      "choices": [
+        {
+          "text": "Participants self-selected and weren't randomized, so expectation effects can't be ruled out",
+          "correct": true
+        },
+        {
+          "text": "The sessions were unsupervised, so doses are unknown",
+          "correct": false
+        },
+        {
+          "text": "Psilocybin has never been studied for depression before",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eReal-world data shows what happens in practice, but without randomization you can't separate\nthe drug's effect from the effect of hoping and choosing to be there.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bc047d#2",
+      "format": "flip",
+      "prompt": "Which conditions did the Oregon real-world data look at?",
+      "back_html": "\u003cp\u003ePTSD, depression, and anxiety — the conditions psilocybin trials have most often targeted,\nnow observed in a legal, nonmedical setting.\u003c/p\u003e"
+    }
+  ]
+}

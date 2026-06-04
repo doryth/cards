@@ -1,0 +1,101 @@
+{
+  "id": "card_13b9d2",
+  "slug": "the-respiratory-system",
+  "type": "concept",
+  "title": "The Respiratory System",
+  "hook": "With every breath, your lungs trade carbon dioxide for fresh oxygen — the gas swap that keeps every cell in your body running.",
+  "key_points": [
+    "The respiratory system brings in oxygen and removes carbon dioxide.",
+    "Air travels down the windpipe into the lungs' branching airways.",
+    "Gas exchange happens in tiny air sacs called alveoli.",
+    "Oxygen passes into the blood while carbon dioxide passes out to be exhaled."
+  ],
+  "content_html": "\u003cp\u003eBreathing is so automatic you rarely notice it, but each breath drives one of the body's most vital trades. The respiratory system pulls in air, extracts the oxygen your cells need to release energy, and gets rid of carbon dioxide, the waste gas they produce. Without this constant exchange, cells would suffocate within minutes.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAir enters through your nose and mouth, flows down the windpipe (trachea), and branches into ever-smaller tubes inside the lungs, ending at millions of tiny air sacs called alveoli. Their walls are extraordinarily thin and wrapped in blood vessels, so oxygen slips easily into the bloodstream while carbon dioxide passes out to be exhaled. The diaphragm, a dome of muscle beneath the lungs, drives the bellows action: it flattens to pull air in and relaxes to push it out. As NIH MedlinePlus describes, this teamwork between airways, alveoli, and muscle keeps oxygen flowing to every corner of the body.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/ency/anatomyvideos/000016.htm",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "human-body"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_630b44",
+      "slug": "circulatory-system",
+      "type": "concept",
+      "title": "The Circulatory System",
+      "hook": "Your heart pumps blood through roughly 60,000 miles of vessels, delivering oxygen and fuel to every cell and hauling waste away — about once a minute.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e553ec",
+      "slug": "cellular-respiration",
+      "type": "concept",
+      "title": "Cellular Respiration",
+      "hook": "Every cell in your body slowly 'burns' sugar with oxygen to release energy — the same chemistry as photosynthesis, run in reverse.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_13b9d2#0",
+      "format": "flip",
+      "prompt": "What is the main job of the respiratory system?",
+      "back_html": "\u003cp\u003eTo bring \u003cstrong\u003eoxygen\u003c/strong\u003e into the body and carry \u003cstrong\u003ecarbon dioxide\u003c/strong\u003e out — the gas\nexchange that supplies cells with the oxygen they need and clears their waste\ngas.\u003c/p\u003e"
+    },
+    {
+      "id": "card_13b9d2#1",
+      "format": "quiz",
+      "prompt": "Where in the lungs does gas exchange actually happen?",
+      "choices": [
+        {
+          "text": "In tiny air sacs called alveoli",
+          "correct": true
+        },
+        {
+          "text": "In the windpipe",
+          "correct": false
+        },
+        {
+          "text": "In the nose",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe lungs end in millions of microscopic sacs called alveoli, whose thin walls\nsit right against blood vessels — the perfect place for oxygen and carbon\ndioxide to swap.\u003c/p\u003e"
+    },
+    {
+      "id": "card_13b9d2#2",
+      "format": "quiz",
+      "prompt": "What does the blood pick up at the alveoli?",
+      "choices": [
+        {
+          "text": "Oxygen, while releasing carbon dioxide to be exhaled",
+          "correct": true
+        },
+        {
+          "text": "Carbon dioxide, while releasing oxygen",
+          "correct": false
+        },
+        {
+          "text": "Neither — the blood just passes through",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAt the alveoli, oxygen crosses into the blood and carbon dioxide crosses out, so\nblood leaves the lungs oxygen-rich and you breathe the carbon dioxide away.\u003c/p\u003e"
+    }
+  ]
+}

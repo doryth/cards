@@ -1,0 +1,120 @@
+{
+  "id": "card_732da9",
+  "slug": "tighter-limits-on-mirror-neutrons",
+  "type": "paper",
+  "title": "Hunting Neutrons That Vanish Into a Dark Sector",
+  "hook": "If a neutron could turn into an invisible sterile twin, baryon number would not be conserved and dark matter would gain a suspect. Oak Ridge just pushed that limit ten times tighter.",
+  "key_points": [
+    "A hypothetical n to n-prime transformation would convert a neutron into a sterile partner, violating baryon number conservation.",
+    "The search used an intense cold neutron beam from Oak Ridge's High Flux Isotope Reactor.",
+    "A 6.6 tesla superconducting magnet supplied a strong field gradient to drive a non-adiabatic transition.",
+    "A thin cadmium wafer at the magnet's centre absorbed ordinary neutrons, so only converted ones could pass.",
+    "A helium-3 detector 20 metres downstream saw no signal above background.",
+    "The null result improves the vacuum transformation probability limit by an order of magnitude over mass splittings from 0.1 to 1000 neV."
+  ],
+  "content_html": "\u003cp\u003eThe Standard Model conserves baryon number: the tally of quarks-minus-antiquarks in the universe never changes. Nobody knows why, and several extensions of the Standard Model quietly break it. One especially clean test is whether a neutron can turn into a \u0026quot;sterile\u0026quot; neutron — a partner particle living in a dark sector that our detectors cannot see. Watch a neutron beam closely enough and you would notice neutrons going missing.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA collaboration led from Oak Ridge National Laboratory ran that experiment with an intense cold neutron beam from the High Flux Isotope Reactor. The theoretical model they tested has two knobs: a tiny mass difference between the ordinary and sterile interaction states, and a vacuum mixing angle. Because a magnetic field shifts the neutron's energy, a strong field gradient can drive the mixing non-adiabatically — so the beam passed through a 6.6 tesla superconducting magnet, with a thin cadmium wafer at its centre to absorb every ordinary neutron. Anything reaching the helium-3 detector 20 metres downstream would have had to spend part of the journey invisible.\u003c/p\u003e\n\u003cp\u003eNothing did: no signal above background. Written as a limit, that improves the bound on the vacuum transformation probability by an order of magnitude across mass splittings from 0.1 to 1000 neV. Null results like this are the everyday texture of the field — each one narrows where a hidden sector could still be hiding.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "James M. Rogers",
+      "Leah J. Broussard",
+      "Christopher B. Crawford",
+      "Yuri Kamyshkov",
+      "David Milstead",
+      "Alexander Saunders"
+    ],
+    "url": "https://arxiv.org/abs/2608.21120",
+    "published_at": "2026-08-21",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "atomic-nuclear"
+  ],
+  "tags": [
+    "paper",
+    "benchmark"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_37dae0",
+      "slug": "tracking-the-elusive-neutrino",
+      "type": "news",
+      "title": "Catching the Ghost Particle",
+      "hook": "Trillions of neutrinos stream through your body every second, yet they almost never touch anything. To catch even a few, physicists build some of the most audacious detectors ever conceived.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2512e3",
+      "slug": "first-directional-dark-matter-limits",
+      "type": "paper",
+      "title": "A Dark Matter Detector That Asks Which Way the Hit Came From",
+      "hook": "Neutrons and dark matter can leave identical-looking recoils. MIMAC's answer: reconstruct the direction of each recoil and check whether it points where dark matter should come from.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-26"
+    },
+    {
+      "id": "card_46f944",
+      "slug": "antimatter",
+      "type": "concept",
+      "title": "Antimatter",
+      "hook": "Every particle has a mirror twin with opposite charge, and when the two meet they vanish in a flash of pure energy — yet the universe is almost entirely matter, and nobody fully knows why.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_732da9#0",
+      "format": "flip",
+      "prompt": "Why would a neutron turning into a sterile neutron be such a big deal?",
+      "back_html": "\u003cp\u003eIt would violate \u003cstrong\u003ebaryon number conservation\u003c/strong\u003e — a symmetry the Standard Model respects —\nand point to a hidden sector that could contain dark matter.\u003c/p\u003e"
+    },
+    {
+      "id": "card_732da9#1",
+      "format": "quiz",
+      "prompt": "What was the cadmium wafer inside the magnet for?",
+      "choices": [
+        {
+          "text": "To absorb ordinary neutrons, so only ones that had converted to the sterile state could continue downstream",
+          "correct": true
+        },
+        {
+          "text": "To slow the neutrons down so the transformation had more time to occur",
+          "correct": false
+        },
+        {
+          "text": "To shield the detector from the magnet's stray field",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt is a blocking-and-regeneration design: the wafer removes the normal beam, so any neutron\narriving at the far detector must have spent part of its trip in the invisible state.\u003c/p\u003e"
+    },
+    {
+      "id": "card_732da9#2",
+      "format": "flip",
+      "prompt": "What does the experiment report, and what does a null result buy?",
+      "back_html": "\u003cp\u003eNo signal above background in the helium-3 detector — which tightens the \u003cstrong\u003elower limit\u003c/strong\u003e on\nthe vacuum transformation probability by about an order of magnitude.\u003c/p\u003e"
+    }
+  ]
+}

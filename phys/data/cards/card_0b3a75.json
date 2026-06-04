@@ -1,0 +1,94 @@
+{
+  "id": "card_0b3a75",
+  "slug": "dimensional-analysis-as-gauge-theory",
+  "type": "paper",
+  "title": "Changing units is a symmetry — and that makes it a gauge theory",
+  "hook": "Switching from metres to feet is a symmetry you can choose freely at every point. Take that seriously, argues one physicist, and dimensional analysis becomes gauge theory.",
+  "key_points": [
+    "Dimensional analysis — checking that units balance — is recast as a gauge theory, with unit changes as gauge transformations.",
+    "On that reading, the everyday rules of 'quantity calculus' fall out of Lie group and representation theory.",
+    "The interpretation is argued to be strongest when units vary from place to place rather than staying fixed.",
+    "Stevens's classification of measurement scales becomes a matter of choosing different gauge groups.",
+    "The Buckingham-Pi theorem gets rephrased so it applies to gauge theories too.",
+    "Counting the number of dimensionless Pi groups turns into a known problem in invariant theory."
+  ],
+  "content_html": "\u003cp\u003eEvery physics student learns to check their units, and most never think about it again. Benjamin Muntz argues that the habit hides real structure: dimensional analysis, he suggests, can appropriately be thought of as a gauge theory. The intuition is that your choice of units is arbitrary — nothing physical changes when you switch from metres to feet — and an arbitrary, freely redefinable choice that leaves physics invariant is precisely what a gauge symmetry is.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eFollow the idea through and the familiar machinery of \u0026quot;quantity calculus\u0026quot; — the ordinary rules for multiplying, dividing and comparing dimensional quantities — emerges naturally from properties of Lie groups, Lie algebras and representation theory. Muntz argues the gauge interpretation is strongest for non-constant units, where the choice of scale can vary from place to place rather than being fixed once globally. He also shows how Stevens's classification of scales of measurement can be understood as picking different gauge groups, and reinterprets the Buckingham-Pi theorem in a form that applies to typical gauge theories as well, so that counting the number of dimensionless Pi groups becomes a well-known problem of invariant theory. It is a perspective paper rather than a new result — but it is the kind of reframing that makes a routine tool look considerably less routine.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Benjamin Muntz"
+    ],
+    "url": "https://arxiv.org/abs/2607.21695",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0b3a75#0",
+      "format": "flip",
+      "prompt": "In this framing, what plays the role of a gauge transformation?",
+      "back_html": "\u003cp\u003eA change of units. Because you can choose your units freely — and, in the strongest version\nof the argument, differently at each point — unit changes behave like gauge freedom.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0b3a75#1",
+      "format": "quiz",
+      "prompt": "What happens to the Buckingham-Pi theorem under this reinterpretation?",
+      "choices": [
+        {
+          "text": "It is rephrased to apply to gauge theories too, with counting Pi groups becoming an invariant-theory problem",
+          "correct": true
+        },
+        {
+          "text": "It is shown to be false outside of classical mechanics",
+          "correct": false
+        },
+        {
+          "text": "It becomes unnecessary, since gauge theories have no dimensionless groups",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMuntz reinterprets the theorem so it also covers typical gauge theories, and counting the\nnumber of Pi groups becomes a well-known problem of invariant theory.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0b3a75#2",
+      "format": "flip",
+      "prompt": "When is the gauge-theory interpretation of units claimed to be strongest?",
+      "back_html": "\u003cp\u003eFor non-constant units — when the choice of unit is allowed to vary from place to place\nrather than being fixed globally.\u003c/p\u003e"
+    }
+  ]
+}

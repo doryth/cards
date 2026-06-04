@@ -1,0 +1,111 @@
+{
+  "id": "card_102f69",
+  "slug": "what-ai-cant-do",
+  "type": "concept",
+  "title": "What AI Can't Do",
+  "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+  "key_points": [
+    "No real understanding: it predicts language, it doesn't know what words mean.",
+    "No live knowledge: it only knows what it was trained on, up to a cutoff date.",
+    "No reliable common sense or math unless it's given tools to help.",
+    "No accountability or judgment — it can't truly take responsibility for a decision."
+  ],
+  "content_html": "\u003cp\u003eA useful way to respect a tool is to know where it stops working. Modern AI is genuinely dazzling at language tasks, which fools us into assuming it's competent everywhere — and then it confidently fails at something trivial. The mismatch makes sense once you remember what's under the hood. It \u003cstrong\u003epredicts plausible language; it doesn't understand meaning.\u003c/strong\u003e That's why it can draft a legal-sounding paragraph yet bungle a simple logic puzzle, or count the letters in a word incorrectly. There's no inner model of the world, just patterns in text.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA few hard limits follow from that. It has \u003cstrong\u003eno live knowledge\u003c/strong\u003e — a model is frozen at a training cutoff, so it doesn't inherently know what happened last week unless it's been hooked up to live search. Its \u003cstrong\u003ecommon sense and arithmetic are unreliable\u003c/strong\u003e on their own; it can assert that something obviously impossible is fine, because nothing in it checks against reality. And crucially, it has \u003cstrong\u003eno judgment or accountability\u003c/strong\u003e: it can't weigh consequences, can't truly take responsibility, and can't care whether it's right. These aren't temporary bugs to be patched away next year — they're consequences of how the technology works. Knowing them turns you from someone who's either over-trusting or dismissive into someone who uses AI for exactly what it's good at and quietly handles the rest.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-limits"
+  ],
+  "tags": [
+    "foundational",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dcc196",
+      "slug": "how-llms-work",
+      "type": "concept",
+      "title": "How a Language Model Works",
+      "hook": "A chatbot isn't reading and thinking — it's running the world's most sophisticated autocomplete, picking each next word from probabilities learned across billions of sentences.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a8178f",
+      "slug": "kids-outlearn-ai-language",
+      "type": "news",
+      "title": "Kids Outlearn AI — and Nobody Knows Why",
+      "hook": "A toddler masters a language from a few years of overheard chatter. A chatbot needs a large fraction of the written internet. Nobody can fully explain the gap.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-24"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_102f69#0",
+      "format": "quiz",
+      "prompt": "Why might a chatbot get a simple everyday question wrong?",
+      "choices": [
+        {
+          "text": "It predicts plausible language and lacks real understanding and common sense",
+          "correct": true
+        },
+        {
+          "text": "It's tired and needs to recharge",
+          "correct": false
+        },
+        {
+          "text": "It only knows advanced topics, not simple ones",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe model matches patterns rather than understanding meaning, so it can ace\nhard-sounding tasks yet stumble on basic reasoning a child handles easily.\u003c/p\u003e"
+    },
+    {
+      "id": "card_102f69#1",
+      "format": "flip",
+      "prompt": "Why might an AI not know about something that happened last week?",
+      "back_html": "\u003cp\u003eIts knowledge is frozen at a training cutoff. Unless it's been given live\nweb access, it simply has no information about recent events.\u003c/p\u003e"
+    }
+  ]
+}

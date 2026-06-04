@@ -1,0 +1,111 @@
+{
+  "id": "card_b20eb9",
+  "slug": "ancient-origins-of-politics",
+  "type": "concept",
+  "title": "The Ancient Origins of Politics",
+  "hook": "The words we still use — politics, democracy, republic — were coined in ancient Greece and Rome, where the first experiments in self-rule were run.",
+  "key_points": [
+    "'Politics' comes from the Greek polis, the self-governing city-state.",
+    "Athens pioneered direct democracy: citizens themselves debating and voting on laws.",
+    "Rome developed the republic — elected magistrates and a senate, with power deliberately divided.",
+    "Both excluded most people (women, slaves, foreigners), yet shaped every later idea of self-rule."
+  ],
+  "content_html": "\u003cp\u003eMuch of the vocabulary of modern politics was minted in the ancient Mediterranean. The very word \u0026quot;politics\u0026quot; derives from the Greek \u003cem\u003epolis\u003c/em\u003e, the small, self-governing city-state that was the basic political unit of the Greek world. It was in these cities — Athens above all — that humans first ran sustained experiments in governing themselves rather than being ruled by a king or a god-emperor. Athenian democracy was direct: eligible citizens gathered in assembly to debate and vote on laws and policies themselves, and many offices were even filled by lottery on the theory that ordinary citizens could and should govern.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eRome took a different path that proved just as influential. Rather than direct rule by an assembly, the Roman republic distributed power among elected magistrates, a powerful senate, and popular assemblies, with offices held for limited terms and authority deliberately split so that no one person could dominate — an early ancestor of the separation of powers and the idea of a \u0026quot;republic\u0026quot; as government by elected representatives rather than a monarch. Encyclopaedia Britannica notes that both systems were narrow by modern standards: citizenship excluded women, the enslaved, and foreigners, so \u0026quot;self-rule\u0026quot; applied to a minority. Yet their importance is hard to overstate. The Greek idea that the people could rule themselves, and the Roman idea that power should be elected, limited, and divided, became the raw materials that later thinkers and revolutions reworked into modern democracy.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/polis",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "history-and-theory"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_51131a",
+      "slug": "what-is-democracy",
+      "type": "concept",
+      "title": "What Democracy Means",
+      "hook": "Rule by the people: a system where political power ultimately traces back to citizens, usually through regular, free elections.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_49bcf4",
+      "slug": "the-history-of-democracy",
+      "type": "concept",
+      "title": "The History of Democracy",
+      "hook": "Democracy isn't a permanent gift — it's a hard-won, on-and-off achievement that nearly vanished for two thousand years before its modern comeback.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4431fb",
+      "slug": "monarchy-republic-and-regime-types",
+      "type": "concept",
+      "title": "Monarchies, Republics \u0026 Regime Types",
+      "hook": "Is the head of state a queen or a president? That old question — monarchy or republic — turns out to matter less than whether real power is elected and accountable.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b20eb9#0",
+      "format": "flip",
+      "prompt": "Where does the word 'politics' come from?",
+      "back_html": "\u003cp\u003eThe Greek \u003cstrong\u003epolis\u003c/strong\u003e — the self-governing city-state — whose affairs were\n\u0026quot;ta politika,\u0026quot; the things concerning the polis.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b20eb9#1",
+      "format": "quiz",
+      "prompt": "What form of government did ancient Athens pioneer?",
+      "choices": [
+        {
+          "text": "Direct democracy — citizens themselves debating and voting on laws",
+          "correct": true
+        },
+        {
+          "text": "Absolute hereditary monarchy",
+          "correct": false
+        },
+        {
+          "text": "Rule by a single elected president",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAthens let its citizens participate directly in lawmaking, the original\nmodel of direct democracy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b20eb9#2",
+      "format": "quiz",
+      "prompt": "What was distinctive about the Roman republic's design?",
+      "choices": [
+        {
+          "text": "Power was divided among elected magistrates and a senate",
+          "correct": true
+        },
+        {
+          "text": "One emperor held all authority from the start",
+          "correct": false
+        },
+        {
+          "text": "There were no elections of any kind",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRome spread authority across elected officials and the senate, an early\nmodel of dividing and limiting power.\u003c/p\u003e"
+    }
+  ]
+}

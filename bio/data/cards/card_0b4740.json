@@ -1,0 +1,102 @@
+{
+  "id": "card_0b4740",
+  "slug": "h5n1-bird-flu-in-cows",
+  "type": "news",
+  "title": "Why Bird Flu Hid in Cows' Udders",
+  "hook": "Bird flu hit dairy cows in a strange way — striking udders, not lungs. The reason: the receptors H5N1 latches onto are concentrated in mammary tissue, a clue to how it jumps and spreads.",
+  "key_points": [
+    "H5N1 bird flu infected dairy cows through the udder rather than the lungs.",
+    "The virus's preferred receptors turned out to be concentrated in mammary tissue.",
+    "Where those receptors sit helps explain the unusual, milk-borne infection pattern.",
+    "The insight could help predict future bird-flu jumps between species.",
+    "It may also help spot unusual infections early, before they spread widely."
+  ],
+  "content_html": "\u003cp\u003eWhen H5N1 bird flu spread through dairy cattle, it behaved oddly: instead of attacking the lungs, as respiratory flu usually does, it concentrated in the udder and turned up in milk. A new study reported via ScienceDaily explains the puzzle.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eViruses break into cells by latching onto specific molecular receptors on the cell surface — and a virus can only infect tissues where its preferred receptors are present. The researchers found that the receptors H5N1 favors are concentrated in cows' mammary tissue. That single fact accounts for the strange pattern: the virus homes in on the udder because that's where it can get a grip. Beyond solving one mystery, the work has a practical payoff. Knowing which receptors a flu strain prefers, and where those receptors sit in different animals, gives scientists a way to anticipate which species the virus might jump to next — and to recognize unusual infections early, before they have a chance to spread widely.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260620100315.htm",
+    "published_at": "2026-06-23",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "microbiology",
+    "immune-system"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-25",
+  "date": "2026-06-23",
+  "related": [
+    {
+      "id": "card_f1976d",
+      "slug": "how-infections-spread",
+      "type": "concept",
+      "title": "How Infections Spread",
+      "hook": "Germs can't fly to a new host on their own — they hitch rides on coughs, hands, food, water, and insects. Break the ride, and you break the chain of infection.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8510f0",
+      "slug": "viruses-living-or-not",
+      "type": "concept",
+      "title": "Are Viruses Alive?",
+      "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0b4740#0",
+      "format": "quiz",
+      "prompt": "Why did H5N1 infect cows' udders instead of their lungs?",
+      "choices": [
+        {
+          "text": "The receptors the virus latches onto are concentrated in mammary tissue",
+          "correct": true
+        },
+        {
+          "text": "Cows don't have lungs the virus can infect",
+          "correct": false
+        },
+        {
+          "text": "The virus can only survive in the fat of milk",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers found the virus's preferred receptors are concentrated in the udder, so the\ninfection centered there rather than in the lungs.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0b4740#1",
+      "format": "flip",
+      "prompt": "How could this receptor insight be useful going forward?",
+      "back_html": "\u003cp\u003eIt could help scientists predict which species bird flu might jump to next, and flag\nunusual infections before they spread widely.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0b4740#2",
+      "format": "quiz",
+      "prompt": "What general rule about viruses does this finding illustrate?",
+      "choices": [
+        {
+          "text": "Where a virus's target receptors sit shapes which tissues it infects",
+          "correct": true
+        },
+        {
+          "text": "Viruses infect every tissue in the body equally",
+          "correct": false
+        },
+        {
+          "text": "Receptors play no role in where a virus takes hold",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA virus enters cells by binding specific receptors, so the distribution of those\nreceptors determines which tissues it can infect.\u003c/p\u003e"
+    }
+  ]
+}

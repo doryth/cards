@@ -1,0 +1,129 @@
+{
+  "id": "card_069d19",
+  "slug": "prediction-market-insider-trading-case",
+  "type": "news",
+  "title": "Betting on What the President Will Say — From Inside the Room",
+  "hook": "Prediction markets let anyone bet on politics. A White House staffer allegedly used his own front-row seat to Trump's speeches to place winning bets on Trump's own words.",
+  "key_points": [
+    "The Commodity Futures Trading Commission (CFTC), which regulates prediction markets, is investigating a White House teleprompter operator for suspected insider trading.",
+    "The employee traded on Kalshi's 'mention markets' — contracts that pay out based on which words or phrases a public figure will say in a speech.",
+    "Kalshi's own surveillance systems flagged the unusual betting pattern; investigators then found the trader was a federal employee with direct advance knowledge of the speech text.",
+    "The trades reportedly generated over $90,000 in profit, since frozen; the employee was placed on unpaid leave, and someone else ran the teleprompter for the next address.",
+    "It's the first known case of a White House staffer investigated for this kind of prediction-market insider trading — months after White House staff had already been warned in a memo that betting on nonpublic government information is a criminal offense."
+  ],
+  "content_html": "\u003cp\u003ePrediction markets are supposed to work because no single trader has an unfair edge over the rest — but that assumption breaks down fast when one trader has literally seen the president's next speech before he delivers it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's Bobby Allyn reported that the Commodity Futures Trading Commission is investigating a White House teleprompter operator over trades on Kalshi's \u0026quot;mention markets,\u0026quot; where users bet on which words or phrases a public figure will say. Kalshi's own surveillance systems flagged the unusual betting pattern; when the platform looked into it, investigators found the account belonged to a federal employee with direct advance access to the speech text. The trades reportedly netted more than $90,000 in profit, which has since been frozen, and the employee was placed on unpaid administrative leave while someone else operated the teleprompter for the next address. It's the first known case of its kind — a White House staffer allegedly using privileged access for personal profit on a betting market — and it comes just months after White House staff were formally warned that trading on nonpublic government information is a criminal offense. (This card describes a specific U.S. federal case; oversight of prediction markets and insider-trading rules vary by jurisdiction.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Bobby Allyn"
+    ],
+    "url": "https://npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
+    "published_at": "2026-07-16",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "media-civil-society",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_bd6dda",
+      "slug": "prediction-markets-and-politics",
+      "type": "concept",
+      "title": "Prediction Markets in Politics",
+      "hook": "Let people bet real money on who wins, and the prices start to look like odds — a crowd-sourced forecast. But betting on politics invites its own kind of trouble.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_44f315",
+      "slug": "political-corruption",
+      "type": "concept",
+      "title": "Political Corruption",
+      "hook": "Corruption is the abuse of entrusted power for private gain — and it quietly drains a society, eroding trust, fairness, and the resources meant for everyone.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_bd6dda",
+      "slug": "prediction-markets-and-politics",
+      "type": "concept",
+      "title": "Prediction Markets in Politics",
+      "hook": "Let people bet real money on who wins, and the prices start to look like odds — a crowd-sourced forecast. But betting on politics invites its own kind of trouble.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-16"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_069d19#0",
+      "format": "flip",
+      "prompt": "What made this White House staffer's prediction-market trades different from an ordinary bettor's?",
+      "back_html": "\u003cp\u003eAs the \u003cstrong\u003eteleprompter operator\u003c/strong\u003e, he had advance, nonpublic knowledge\nof exactly what words the president would say — the kind of edge\ninsider-trading rules exist to prevent.\u003c/p\u003e"
+    },
+    {
+      "id": "card_069d19#1",
+      "format": "quiz",
+      "prompt": "Who first flagged the unusual trading pattern that led to this investigation?",
+      "choices": [
+        {
+          "text": "Kalshi's own internal surveillance systems",
+          "correct": true
+        },
+        {
+          "text": "A tip from a rival prediction-market platform",
+          "correct": false
+        },
+        {
+          "text": "An anonymous whistleblower inside the White House",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer NPR, the platform's surveillance systems caught the unusual\nbetting pattern before regulators or the White House got involved.\u003c/p\u003e"
+    },
+    {
+      "id": "card_069d19#2",
+      "format": "quiz",
+      "prompt": "Why is this case notable beyond the individual involved?",
+      "choices": [
+        {
+          "text": "It's the first known instance of a White House staffer investigated for prediction-market insider trading",
+          "correct": true
+        },
+        {
+          "text": "It's the first time any prediction market has ever been investigated by regulators",
+          "correct": false
+        },
+        {
+          "text": "It proves all prediction markets are illegal under U.S. law",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe novelty is the position, not the market — a sitting White House\nemployee allegedly used privileged access for personal profit.\u003c/p\u003e"
+    }
+  ]
+}

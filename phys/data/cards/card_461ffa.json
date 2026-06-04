@@ -1,0 +1,101 @@
+{
+  "id": "card_461ffa",
+  "slug": "cosmic-microwave-background",
+  "type": "concept",
+  "title": "The Cosmic Microwave Background",
+  "hook": "The oldest light we can see is a faint glow filling all of space — released when the infant universe first cooled enough to become transparent, about 380,000 years after the Big Bang.",
+  "key_points": [
+    "The cosmic microwave background is faint radiation filling all of space.",
+    "It's leftover light from when the young universe first became transparent.",
+    "That happened about 380,000 years after the Big Bang.",
+    "Its tiny temperature ripples are strong evidence for the Big Bang."
+  ],
+  "content_html": "\u003cp\u003eFor its first few hundred thousand years the universe was so hot that light couldn't travel far without scattering off charged particles — it was effectively foggy. Then, about 380,000 years after the Big Bang, it cooled enough for atoms to form and the fog to clear. The light released at that moment has been streaming across the cosmos ever since.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat ancient light is the cosmic microwave background, and it fills the entire sky as a faint, almost perfectly uniform glow. It is the oldest light we can detect — a snapshot of the universe as a baby. The \u0026quot;almost\u0026quot; matters: it carries tiny temperature ripples, the seeds from which galaxies later grew, and those ripples match what the Big Bang model predicts. Wikipedia explains how this glow was discovered and why it stands among the strongest evidence for the Big Bang.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_06b9c7",
+      "slug": "the-big-bang",
+      "type": "concept",
+      "title": "The Big Bang",
+      "hook": "About 13.8 billion years ago the universe began hot and dense and has been expanding ever since — but it wasn't an explosion into empty space. Space itself stretched.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_461ffa#0",
+      "format": "flip",
+      "prompt": "What is the cosmic microwave background?",
+      "back_html": "\u003cp\u003eFaint radiation filling all of space — the \u003cstrong\u003eleftover glow\u003c/strong\u003e from when the\nyoung universe first cooled enough to become transparent.\u003c/p\u003e"
+    },
+    {
+      "id": "card_461ffa#1",
+      "format": "quiz",
+      "prompt": "When was the cosmic microwave background released?",
+      "choices": [
+        {
+          "text": "About 380,000 years after the Big Bang",
+          "correct": true
+        },
+        {
+          "text": "At the very instant of the Big Bang",
+          "correct": false
+        },
+        {
+          "text": "Only a few hundred years ago",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt dates to when the universe had cooled enough, roughly 380,000 years in, for\nlight to travel freely for the first time.\u003c/p\u003e"
+    },
+    {
+      "id": "card_461ffa#2",
+      "format": "quiz",
+      "prompt": "Why is the cosmic microwave background important?",
+      "choices": [
+        {
+          "text": "Its tiny temperature ripples are strong evidence for the Big Bang",
+          "correct": true
+        },
+        {
+          "text": "It is the brightest light source in the night sky",
+          "correct": false
+        },
+        {
+          "text": "It proves the universe is not expanding",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe faint, nearly uniform glow with its slight ripples matches what the Big\nBang model predicts, making it a key piece of evidence.\u003c/p\u003e"
+    }
+  ]
+}

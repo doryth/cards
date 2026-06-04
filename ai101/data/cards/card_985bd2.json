@@ -1,0 +1,108 @@
+{
+  "id": "card_985bd2",
+  "slug": "anthropic-authors-settlement-approved",
+  "type": "news",
+  "title": "A Judge Approves Anthropic's $1.5B Payout to Authors",
+  "hook": "A court signed off on Anthropic paying authors $1.5 billion — about $3,000 a book — for training its AI on their work. The rare case where the copyright fight ended in a check.",
+  "key_points": [
+    "A federal judge approved Anthropic's $1.5 billion class-action settlement with authors.",
+    "The suit accused Anthropic of training its AI models on copyrighted books.",
+    "The Verge reports authors get roughly $3,000 for each book covered by the deal.",
+    "Only about 350 authors opted out, per Ars Technica — most stayed in.",
+    "The judge said the deal offers authors 'meaningful relief' for the alleged infringement."
+  ],
+  "content_html": "\u003cp\u003eMost of the fights over AI and copyright are still grinding through the courts. This one ended with a number. A federal judge has approved Anthropic's $1.5 billion settlement with a class of authors who accused the company of training its AI models on their copyrighted books, offering — as The Verge reports, citing an earlier Reuters report — around $3,000 for each book covered by the deal.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe judge, Araceli Martínez-Olguín, wrote that the settlement provides authors \u0026quot;meaningful relief.\u0026quot; Ars Technica reported that only about 350 authors opted out of the deal, meaning the vast majority chose to take the payout rather than press their own claims. For a general reader, the useful idea here isn't the dollar figure — it's what the case is \u003cem\u003eabout\u003c/em\u003e. Modern AI models learn by ingesting enormous amounts of text, and a lot of that text is copyrighted work that the AI companies didn't pay for. Authors, artists, and news organizations have argued that amounts to using their work without permission or compensation. Courts haven't settled the broad question of whether training on copyrighted material is legal, so most of these disputes are still open. What makes the Anthropic case notable is that it converted that abstract argument into an actual check — a signal that \u0026quot;we trained on your book\u0026quot; can carry a price tag, even if the law itself is still being written.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+    "published_at": "2026-07-21",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-23",
+  "date": "2026-07-21",
+  "related": [
+    {
+      "id": "card_9882eb",
+      "slug": "openai-nyt-copyright-logs",
+      "type": "news",
+      "title": "OpenAI's Copyright Fight Takes a Turn Over Missing Logs",
+      "hook": "In its copyright fight with news organizations, OpenAI reportedly claimed it couldn't search its training data — while allegedly hiding and deleting billions of ChatGPT logs. That gap could cost it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c36b83",
+      "slug": "music-ai-training-database",
+      "type": "news",
+      "title": "See the Music That Trained AI",
+      "hook": "Ever wonder if your favorite song helped train an AI? The Atlantic dug up four music datasets used to train AI models — two with millions of tracks — and made them searchable by anyone.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-20"
+    },
+    {
+      "id": "card_39e1e7",
+      "slug": "artist-sues-ai-meme-generator",
+      "type": "news",
+      "title": "An Artist Sues an AI Meme App — Over Its Outputs, Not Its Training",
+      "hook": "Most AI copyright fights argue about what a model learned from. This one is simpler: an artist says his comic was sold as a searchable ad template — a much easier case to make.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-27"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_985bd2#0",
+      "format": "quiz",
+      "prompt": "What did authors accuse Anthropic of doing, leading to the $1.5B settlement?",
+      "choices": [
+        {
+          "text": "Training its AI models on their copyrighted books",
+          "correct": true
+        },
+        {
+          "text": "Copying another company's chatbot design",
+          "correct": false
+        },
+        {
+          "text": "Selling authors' personal data to advertisers",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe class action claimed Anthropic used copyrighted books to train its\nmodels. The approved settlement pays authors roughly $3,000 per book.\u003c/p\u003e"
+    },
+    {
+      "id": "card_985bd2#1",
+      "format": "flip",
+      "prompt": "Why does this settlement matter for the wider AI-and-copyright fight?",
+      "back_html": "\u003cp\u003eMost AI-training copyright cases are still unresolved. This one ended in a\nconcrete payout — a rare, real-money answer to 'who gets paid when AI trains\non your work.'\u003c/p\u003e"
+    }
+  ]
+}

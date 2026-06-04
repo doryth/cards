@@ -1,0 +1,112 @@
+{
+  "id": "card_a212b1",
+  "slug": "webb-new-universe-puzzle",
+  "type": "news",
+  "title": "Why Does Webb Keep Finding Things That Shouldn't Exist?",
+  "hook": "JWST keeps spotting early black holes and galaxies that are too big, too bright, or too early to fit standard models — and cosmologists are racing to figure out which of many new theories is right.",
+  "key_points": [
+    "JWST has observed early black holes and galaxies that current models didn't predict.",
+    "These objects look more massive or more evolved than theory says the young universe allows.",
+    "Astrophysicists have proposed many competing explanations, from revised formation models to tweaks in cosmology.",
+    "No explanation is confirmed yet — the open question is which idea survives further data."
+  ],
+  "content_html": "\u003cp\u003eSince it switched on, the James Webb Space Telescope has peered deeper into the early universe than any telescope before it — and found things that don't add up. It keeps spotting black holes and galaxies that look too massive, too bright, or too mature for how young the universe was when their light left them.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Quanta Magazine's Jay Bennett reports, astrophysicists have responded with a wave of competing ideas: maybe early black holes grew faster than assumed, maybe young galaxies formed stars far more efficiently than expected, or maybe some of the tension traces back to how cosmologists measure distance and time. None of these explanations has won out yet — the current work is sorting through which pieces are real physical effects, which are observational artifacts, and which point to gaps in the standard cosmological model itself.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Jay Bennett"
+    ],
+    "url": "https://quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702",
+    "published_at": "2026-07-02",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-06",
+  "date": "2026-07-02",
+  "related": [
+    {
+      "id": "card_06b9c7",
+      "slug": "the-big-bang",
+      "type": "concept",
+      "title": "The Big Bang",
+      "hook": "About 13.8 billion years ago the universe began hot and dense and has been expanding ever since — but it wasn't an explosion into empty space. Space itself stretched.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_461ffa",
+      "slug": "cosmic-microwave-background",
+      "type": "concept",
+      "title": "The Cosmic Microwave Background",
+      "hook": "The oldest light we can see is a faint glow filling all of space — released when the infant universe first cooled enough to become transparent, about 380,000 years after the Big Bang.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a212b1#0",
+      "format": "flip",
+      "prompt": "What has JWST observed that current models can't fully explain?",
+      "back_html": "\u003cp\u003eEarly black holes and galaxies that look too massive, bright, or evolved for how\nyoung the universe was when their light was emitted.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a212b1#1",
+      "format": "quiz",
+      "prompt": "How have astrophysicists responded to Webb's puzzling early-universe finds?",
+      "choices": [
+        {
+          "text": "By proposing multiple competing explanations — from faster black hole growth to revised cosmology — none yet confirmed",
+          "correct": true
+        },
+        {
+          "text": "By concluding the standard model of cosmology is fully disproven",
+          "correct": false
+        },
+        {
+          "text": "By dismissing the observations as instrument error",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers have floated a wealth of new theories, but none has won out — the\nobservations aren't being dismissed, nor has the whole model collapsed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a212b1#2",
+      "format": "flip",
+      "prompt": "Is the Webb early-universe puzzle already solved?",
+      "back_html": "\u003cp\u003eNo — multiple theories compete, and astrophysicists are still working out\nwhich one (or combination) matches the data.\u003c/p\u003e"
+    }
+  ]
+}

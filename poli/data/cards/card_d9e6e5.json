@@ -1,0 +1,136 @@
+{
+  "id": "card_d9e6e5",
+  "slug": "the-911-call-as-a-public-record",
+  "type": "news",
+  "title": "The Side Door Into a Closed Facility",
+  "hook": "Journalists can't get inside an immigration detention camp. But when the camp dials 911, the call lands in a county system — where public records law still applies.",
+  "key_points": [
+    "ProPublica obtained more than 160 emergency calls from Camp East Montana, a detention facility on Fort Bliss in El Paso, Texas.",
+    "The calls were released under public records requests, not from inside access — journalists are largely kept out of the facility.",
+    "They document detainees in crisis: suicide attempts, overdoses, untreated infections, and on Nov. 2 a COVID-19 patient whose nurse said 'we don't have any oxygen.'",
+    "Three men died there between December 2025 and mid-January 2026; a medical examiner ruled one death a homicide.",
+    "In one October case an outside family member, not the facility, called 911 three times over untreated kidney stones.",
+    "The lesson generalizes: when a closed institution relies on outside public services, those services' records become an accountability channel."
+  ],
+  "content_html": "\u003cp\u003eCamp East Montana, an immigration detention facility on the Fort Bliss army base outside El Paso, is close to invisible from the outside: journalists are largely kept out, and the Department of Homeland Security, which runs it, has said it provides comprehensive medical services. ProPublica's Perla Trevizo nonetheless reported on conditions there in detail — by going around the facility rather than into it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe route was the local emergency system. More than 160 calls to 911 from or about the camp were obtained through public records requests, and they document a pattern that internal reporting would not: a detainee in severe pain from a swallowed object on September 12; three calls in October from an outside family member about untreated kidney stones; a woman with COVID-19 on November 2 whose nurse told the dispatcher \u0026quot;we don't have any oxygen\u0026quot;; an intentional overdose in February. Three men died at the facility between December 2025 and mid-January 2026, one death ruled a homicide by the medical examiner.\u003c/p\u003e\n\u003cp\u003eThe transferable idea is about where accountability information actually lives. A closed institution controls its own records and its own visitors, but it cannot operate in isolation — it depends on county ambulances, municipal dispatchers, local hospitals and courts, all of them bound by ordinary transparency law. Oversight of the facility may be thin; oversight of the systems it leans on is not. That asymmetry is often the only door left open.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Perla Trevizo"
+    ],
+    "url": "https://propublica.org/article/911-calls-camp-east-montana-texas-detention",
+    "published_at": "2026-08-28",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption",
+    "human-rights"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_4df9ee",
+      "slug": "detention-conditions-as-pressure",
+      "type": "news",
+      "title": "When Detention Conditions Become a Pressure Tactic",
+      "hook": "Immigration detention is supposed to hold people while their case is decided — not persuade them to give up on it. Reporting from inside a Texas facility raises exactly that question.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_a9ea7f",
+      "slug": "oversight-gaps-in-contracted-custody",
+      "type": "news",
+      "title": "When the State Contracts Out Custody, Oversight Doesn't Follow",
+      "hook": "Governments can delegate the job of locking someone up. What often fails to travel with the contract is the duty to open the records.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "card_8b4e22",
+      "slug": "outsourcing-detention",
+      "type": "news",
+      "title": "When Detention Is a Revenue Line",
+      "hook": "Contract out a coercive government function and you create a company whose earnings rise with enforcement — and whose shareholders now have a stake in how the policy goes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-08"
+    },
+    {
+      "id": "card_5fee45",
+      "slug": "when-a-records-request-goes-unanswered",
+      "type": "news",
+      "title": "The Weak Point of Transparency Law: Silence",
+      "hook": "A records law doesn't have to be repealed to stop working. An agency can simply not answer — and the only remedy left is a lawsuit most requesters can't afford.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_4e3cf6",
+      "slug": "freedom-of-information",
+      "type": "concept",
+      "title": "Freedom of Information",
+      "hook": "You can't hold power to account for what you can't see. Freedom of information laws pry open the workings of government so citizens can actually check it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_4e3cf6",
+      "slug": "freedom-of-information",
+      "type": "concept",
+      "title": "Freedom of Information",
+      "hook": "You can't hold power to account for what you can't see. Freedom of information laws pry open the workings of government so citizens can actually check it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_d9e6e5#0",
+      "format": "flip",
+      "prompt": "How can records law reach inside an institution that refuses press access?",
+      "back_html": "\u003cp\u003eThrough its contacts with outside public agencies. A facility that calls\ncounty 911 creates records held by that county — obtainable even when the\nfacility itself discloses nothing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d9e6e5#1",
+      "format": "quiz",
+      "prompt": "What does a facility's own 911 call indicate about its internal medical capacity?",
+      "choices": [
+        {
+          "text": "Its on-site care could not handle the emergency without outside help",
+          "correct": true
+        },
+        {
+          "text": "That state law requires all detainee illnesses be reported to 911",
+          "correct": false
+        },
+        {
+          "text": "That the detainee had requested to be taken to a private hospital",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCalling the public emergency system is an admission that in-house medical\nservices were insufficient — which is why the pattern of calls is evidence.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d9e6e5#2",
+      "format": "flip",
+      "prompt": "Why is an outside family member calling 911 for a detainee especially telling?",
+      "back_html": "\u003cp\u003eIt means the internal channels — requesting care, filing a grievance — were\nnot producing a response, so someone with no access to the facility became\nthe escalation route.\u003c/p\u003e"
+    }
+  ]
+}

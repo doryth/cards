@@ -1,0 +1,119 @@
+{
+  "id": "card_610868",
+  "slug": "eminent-domain-and-data-centers",
+  "type": "news",
+  "title": "Taking Your Land for Someone Else's Server Farm",
+  "hook": "The Fifth Amendment lets the government take private land for 'public use' with just compensation. Does a power line built to feed one company's data center count?",
+  "key_points": [
+    "Eminent domain is the government's power to take private property without the owner's consent, provided it's for a 'public use' and the owner receives 'just compensation' — both Fifth Amendment requirements.",
+    "Courts have long let utility companies exercise eminent domain to build transmission lines that improve power-grid reliability for in-state customers, treating that as a valid public use.",
+    "A 1984 Mississippi Supreme Court case rejected a utility's condemnation when the line would run into Louisiana without benefiting any Mississippi customers — public use has to actually reach the public paying the price.",
+    "The unresolved question: does a transmission line built specifically to serve one private data center still count as 'public use,' or has the benefit shrunk down to a single private customer?",
+    "Landowners may have a real legal argument if they can show a line serves a private facility rather than the broader grid — the same doctrine cuts both ways depending on who it actually benefits."
+  ],
+  "content_html": "\u003cp\u003eUtilities have used eminent domain to string transmission lines across private land for generations, on the theory that a more reliable power grid serves everyone. That logic gets shakier when the line in question exists to serve one company's data center.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWriting in The Conversation, law professor Aaron Walayat lays out the doctrine: the Fifth Amendment lets government — and utilities acting under delegated state authority — take private property for a \u0026quot;public use,\u0026quot; provided the owner gets \u0026quot;just compensation.\u0026quot; Courts have generally accepted grid-reliability transmission lines as public use, but the line has limits: a 1984 Mississippi Supreme Court case struck down a condemnation for a line that ran into Louisiana without benefiting any Mississippi customers, on the theory that a taking has to actually serve the public paying its cost. That precedent is exactly what's now being tested by AI-driven data center growth: if a transmission line is built specifically to power one company's server farm, is that still a public use, or has the beneficiary narrowed down to a single private customer? Landowners fighting a taking may have real legal ground to stand on if they can show that's the case — the same doctrine that lets utilities take land can also block them, depending on who actually benefits. (This card describes U.S. federal and state eminent domain doctrine specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Aaron Walayat, Assistant Professor of Law, University of Dayton"
+    ],
+    "url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+    "published_at": "2026-07-16",
+    "license": "© The Conversation (CC BY-ND)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties",
+    "public-policy-economy"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_610868#0",
+      "format": "flip",
+      "prompt": "What two conditions does the Fifth Amendment require before the government (or a utility acting under its authority) can take private land?",
+      "back_html": "\u003cp\u003eThe taking must be for a \u003cstrong\u003e\u0026quot;public use\u0026quot;\u003c/strong\u003e, and the owner must\nreceive \u003cstrong\u003e\u0026quot;just compensation\u0026quot;\u003c/strong\u003e in return.\u003c/p\u003e"
+    },
+    {
+      "id": "card_610868#1",
+      "format": "quiz",
+      "prompt": "Why did a 1984 Mississippi Supreme Court case reject a utility's attempt to condemn land for a transmission line?",
+      "choices": [
+        {
+          "text": "The line ran into Louisiana without benefiting any Mississippi customers, so it wasn't a genuine public use there",
+          "correct": true
+        },
+        {
+          "text": "The utility had failed to offer the landowner any compensation at all",
+          "correct": false
+        },
+        {
+          "text": "Transmission lines can never legally qualify as public use",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePublic use has to actually reach the public bearing the cost — a\nline with no in-state benefit failed that test.\u003c/p\u003e"
+    },
+    {
+      "id": "card_610868#2",
+      "format": "quiz",
+      "prompt": "What's the unresolved legal question when a transmission line is built specifically to serve one private data center?",
+      "choices": [
+        {
+          "text": "Whether the benefit has shrunk to a single private customer rather than a genuine public use",
+          "correct": true
+        },
+        {
+          "text": "Whether data centers are legally classified as public utilities themselves",
+          "correct": false
+        },
+        {
+          "text": "Whether eminent domain applies only to residential, not commercial, land",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe doctrine hinges on who actually benefits — a line serving one\ncompany's server farm strains the traditional public-use rationale.\u003c/p\u003e"
+    }
+  ]
+}

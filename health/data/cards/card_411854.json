@@ -1,0 +1,99 @@
+{
+  "id": "card_411854",
+  "slug": "childhood-stress-epigenetic-scar",
+  "type": "news",
+  "title": "How Early Stress Leaves a Mark Inside Brain Cells",
+  "hook": "Early-life stress may physically change how DNA is packaged in the brain, leaving stress genes primed to fire more easily years later. In mice, blocking that repackaging prevented adult anxiety.",
+  "key_points": [
+    "Early-life stress altered how DNA is packaged inside brain cells, not the DNA sequence itself.",
+    "The repackaging left stress-related genes primed to switch on more easily.",
+    "That priming persisted into adulthood, long after the stress ended.",
+    "Stressed mice showed heightened anxiety and stress sensitivity as adults.",
+    "Blocking the packaging change prevented those adult effects.",
+    "It offers a physical mechanism for why early adversity shows up decades later."
+  ],
+  "content_html": "\u003cp\u003eThe link between childhood adversity and adult mental health is one of the most replicated findings in the field, and one of the least mechanically explained. This mouse work proposes a physical answer: early-life stress changes how DNA is packaged inside brain cells, leaving stress-related genes easier to switch on. The sequence is untouched — what changes is the threshold.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat framing matters. \u0026quot;Primed\u0026quot; is not \u0026quot;damaged\u0026quot;: the genes work normally, they just fire on a lighter trigger, which is a plausible way for an experience at age three to still be shaping reactions at thirty. The stressed mice grew into adults with heightened anxiety and stress sensitivity, and when the researchers blocked the packaging change, those adult effects didn't appear — which is the step that turns a correlation into a candidate cause.\u003c/p\u003e\n\u003cp\u003eThe honest limits: this is mice, and the intervention was applied in the lab, not in a clinic. But the direction is encouraging in a way the older \u0026quot;early damage is permanent\u0026quot; story wasn't. If the effect runs through a maintained biological process rather than a one-time injury, it's something that can in principle be interrupted — and it's consistent with what already works, since therapy and stable relationships also shift how readily the stress system fires.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260823094151.htm",
+    "published_at": "2026-08-26",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "stress-resilience",
+    "mental-health"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_12f601",
+      "slug": "what-stress-does-to-your-body",
+      "type": "concept",
+      "title": "What Stress Does to Your Body",
+      "hook": "A jolt of stress is useful — it sharpens you for a real threat. The problem is when the alarm never switches off, and the body pays for staying on high alert.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6b5a0c",
+      "slug": "building-everyday-resilience",
+      "type": "concept",
+      "title": "Building Everyday Resilience",
+      "hook": "Resilience isn't a personality you're born with — it's a set of habits and connections you can build, the way you build a muscle.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_92cdfa",
+      "slug": "recognizing-depression-and-anxiety",
+      "type": "concept",
+      "title": "Recognizing Depression and Anxiety",
+      "hook": "Depression and anxiety are among the most common — and most treatable — health conditions. Knowing the signs is the first step to getting help that works.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_411854#0",
+      "format": "flip",
+      "prompt": "What kind of change did early-life stress cause in these brain cells?",
+      "back_html": "\u003cp\u003eAn \u003cstrong\u003eepigenetic\u003c/strong\u003e one: how DNA is packaged, not the sequence itself. Stress-related genes\nwere left primed to activate more easily years later.\u003c/p\u003e"
+    },
+    {
+      "id": "card_411854#1",
+      "format": "quiz",
+      "prompt": "Which result argues the packaging change is a cause, not just a correlate?",
+      "choices": [
+        {
+          "text": "Blocking the change prevented the heightened adult anxiety",
+          "correct": true
+        },
+        {
+          "text": "Stressed mice had more packaging changes than unstressed mice",
+          "correct": false
+        },
+        {
+          "text": "The changes appeared in several brain regions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eObserving a change alongside an outcome is correlation. \u003cstrong\u003ePreventing the outcome by\nblocking the change\u003c/strong\u003e is what makes the causal claim.\u003c/p\u003e"
+    },
+    {
+      "id": "card_411854#2",
+      "format": "flip",
+      "prompt": "Why is 'primed' a better word here than 'damaged'?",
+      "back_html": "\u003cp\u003eThe genes still work normally — they're just easier to switch on. It's a shifted\nthreshold for the stress response, not a broken gene.\u003c/p\u003e"
+    }
+  ]
+}

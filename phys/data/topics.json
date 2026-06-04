@@ -1,0 +1,241 @@
+{
+  "version": "2026-09-03.0ee3c035",
+  "topics": [
+    {
+      "id": "mechanics",
+      "title": "Mechanics",
+      "slug": "mechanics",
+      "order": 10,
+      "blurb": "How and why things move — the physics you feel every day."
+    },
+    {
+      "id": "motion-forces",
+      "title": "Motion \u0026 Forces",
+      "slug": "motion-forces",
+      "parent": "mechanics",
+      "order": 10,
+      "card_order": "learning-path",
+      "blurb": "Newton's laws and why nothing changes its motion without a push.",
+      "related_topic_ids": [
+        "energy-work",
+        "heat-thermo"
+      ]
+    },
+    {
+      "id": "energy-work",
+      "title": "Energy \u0026 Work",
+      "slug": "energy-work",
+      "parent": "mechanics",
+      "order": 11,
+      "card_order": "learning-path",
+      "blurb": "The currency of physics — what energy is and why it can never be destroyed.",
+      "related_topic_ids": [
+        "motion-forces",
+        "heat-thermo"
+      ]
+    },
+    {
+      "id": "momentum-collisions",
+      "title": "Momentum \u0026 Collisions",
+      "slug": "momentum-collisions",
+      "parent": "mechanics",
+      "order": 12,
+      "card_order": "learning-path",
+      "blurb": "Why a loaded truck is so hard to stop — and what stays fixed when things crash.",
+      "related_topic_ids": [
+        "motion-forces",
+        "energy-work"
+      ]
+    },
+    {
+      "id": "rotational-motion",
+      "title": "Spin \u0026 Rotation",
+      "slug": "rotational-motion",
+      "parent": "mechanics",
+      "order": 13,
+      "card_order": "learning-path",
+      "blurb": "Torque, spin, and balance — the rules behind anything that turns.",
+      "related_topic_ids": [
+        "motion-forces",
+        "momentum-collisions"
+      ]
+    },
+    {
+      "id": "gravity-orbits",
+      "title": "Gravity \u0026 Orbits",
+      "slug": "gravity-orbits",
+      "parent": "mechanics",
+      "order": 14,
+      "card_order": "learning-path",
+      "blurb": "The force that holds you down and swings the planets around the Sun.",
+      "related_topic_ids": [
+        "motion-forces",
+        "astrophysics"
+      ]
+    },
+    {
+      "id": "fluids-pressure",
+      "title": "Fluids \u0026 Pressure",
+      "slug": "fluids-pressure",
+      "parent": "mechanics",
+      "order": 15,
+      "card_order": "learning-path",
+      "blurb": "Why things float, why your ears pop, and how a wing lifts a plane.",
+      "related_topic_ids": [
+        "motion-forces",
+        "energy-work"
+      ]
+    },
+    {
+      "id": "waves-heat-light",
+      "title": "Waves, Heat \u0026 Light",
+      "slug": "waves-heat-light",
+      "order": 20,
+      "blurb": "Vibrations, temperature, and the nature of light."
+    },
+    {
+      "id": "waves-sound",
+      "title": "Waves \u0026 Sound",
+      "slug": "waves-sound",
+      "parent": "waves-heat-light",
+      "order": 20,
+      "card_order": "learning-path",
+      "blurb": "How disturbances carry energy without carrying stuff — from ripples to music.",
+      "related_topic_ids": [
+        "light-optics",
+        "heat-thermo"
+      ]
+    },
+    {
+      "id": "heat-thermo",
+      "title": "Heat \u0026 Thermodynamics",
+      "slug": "heat-thermo",
+      "parent": "waves-heat-light",
+      "order": 21,
+      "card_order": "learning-path",
+      "blurb": "Temperature, heat flow, and the one-way arrow of the universe.",
+      "related_topic_ids": [
+        "energy-work",
+        "waves-sound"
+      ]
+    },
+    {
+      "id": "light-optics",
+      "title": "Light \u0026 Optics",
+      "slug": "light-optics",
+      "parent": "waves-heat-light",
+      "order": 22,
+      "card_order": "learning-path",
+      "blurb": "How light bends, bounces, and lets you see — and what it really is.",
+      "related_topic_ids": [
+        "waves-sound",
+        "modern-physics"
+      ]
+    },
+    {
+      "id": "electricity-magnetism",
+      "title": "Electricity \u0026 Magnetism",
+      "slug": "electricity-magnetism",
+      "parent": "fields-modern",
+      "order": 30,
+      "card_order": "learning-path",
+      "blurb": "Charges, currents, and the deep link between electricity and magnetism.",
+      "related_topic_ids": [
+        "energy-work",
+        "light-optics"
+      ]
+    },
+    {
+      "id": "fields-modern",
+      "title": "Fields \u0026 Modern Physics",
+      "slug": "fields-modern",
+      "order": 30,
+      "blurb": "The invisible forces and the strange physics of the very fast and very small."
+    },
+    {
+      "id": "modern-physics",
+      "title": "Modern Physics",
+      "slug": "modern-physics",
+      "parent": "fields-modern",
+      "order": 31,
+      "card_order": "learning-path",
+      "blurb": "Relativity and quantum basics — where everyday intuition breaks down.",
+      "related_topic_ids": [
+        "light-optics",
+        "electricity-magnetism"
+      ]
+    },
+    {
+      "id": "atomic-nuclear",
+      "title": "Atoms \u0026 the Nucleus",
+      "slug": "atomic-nuclear",
+      "parent": "fields-modern",
+      "order": 32,
+      "card_order": "learning-path",
+      "blurb": "Inside the atom — and the immense energy locked in its nucleus.",
+      "related_topic_ids": [
+        "modern-physics",
+        "particle-physics"
+      ]
+    },
+    {
+      "id": "particle-physics",
+      "title": "Particles \u0026 Forces",
+      "slug": "particle-physics",
+      "parent": "fields-modern",
+      "order": 33,
+      "card_order": "learning-path",
+      "blurb": "The smallest building blocks of matter and the forces that bind them.",
+      "related_topic_ids": [
+        "atomic-nuclear",
+        "modern-physics"
+      ]
+    },
+    {
+      "id": "materials-tech",
+      "title": "Materials \u0026 Technology",
+      "slug": "materials-tech",
+      "parent": "fields-modern",
+      "order": 34,
+      "card_order": "learning-path",
+      "blurb": "The quantum physics inside the chips, magnets, and machines you use every day.",
+      "related_topic_ids": [
+        "electricity-magnetism",
+        "modern-physics"
+      ]
+    },
+    {
+      "id": "astrophysics",
+      "title": "Stars \u0026 Black Holes",
+      "slug": "astrophysics",
+      "parent": "cosmos",
+      "order": 40,
+      "card_order": "learning-path",
+      "blurb": "How stars live and die — and the extreme objects they leave behind.",
+      "related_topic_ids": [
+        "gravity-orbits",
+        "cosmology"
+      ]
+    },
+    {
+      "id": "cosmos",
+      "title": "The Cosmos",
+      "slug": "cosmos",
+      "order": 40,
+      "blurb": "From the life of stars to the birth and fate of the whole universe."
+    },
+    {
+      "id": "cosmology",
+      "title": "The Universe at Large",
+      "slug": "cosmology",
+      "parent": "cosmos",
+      "order": 41,
+      "card_order": "learning-path",
+      "blurb": "The Big Bang, the expanding universe, and the dark stuff we can't see.",
+      "related_topic_ids": [
+        "astrophysics",
+        "modern-physics"
+      ]
+    }
+  ]
+}

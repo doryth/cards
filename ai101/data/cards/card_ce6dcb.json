@@ -1,0 +1,87 @@
+{
+  "id": "card_ce6dcb",
+  "slug": "distributed-ai-data-center-homes",
+  "type": "news",
+  "title": "Would You Host a Piece of an AI Data Center in Your Garage?",
+  "hook": "Instead of building one giant data center, a solar and home-battery company wants to pay homeowners to host small AI compute units — turning thousands of houses into one distributed data center.",
+  "key_points": [
+    "The Verge reports Sunrun, a solar and home-energy-storage company, is piloting 'distributed AI compute.'",
+    "Instead of one large facility, it places numerous small compute nodes inside participating homes.",
+    "Homeowners are paid to host the hardware, similar to how some already host solar or battery equipment.",
+    "It's a genuinely different approach to AI's data-center footprint — spreading it out instead of concentrating it in one place."
+  ],
+  "content_html": "\u003cp\u003eEvery AI data center story so far has been about one big building — its land, its power draw, its water, and the neighbors pushing back. The Verge reports a different approach: Sunrun, a solar and home-energy-storage company, is piloting \u0026quot;distributed AI compute,\u0026quot; which places numerous small compute units inside participating homes rather than building a single large facility.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe pitch to homeowners is straightforward, similar to how some already get paid to host solar panels or home batteries: let a small compute node sit in your garage or utility closet, and get compensated for it. For a company already in the home-energy business, it's a natural extension — pairing your existing home battery and solar setup with a bit of AI compute demand. Whether this scales to matter much for the broader AI data-center footprint is an open question, but it's a genuinely different answer to a problem the industry has mostly tried to solve by building bigger: instead of concentrating AI's power and space needs in one place a community can organize against, spread it thin enough that no single site draws attention.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Stevie Bonifield"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+    "published_at": "2026-07-10",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-energy",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_199fae",
+      "slug": "data-center-backlash",
+      "type": "news",
+      "title": "Communities Are Pushing Back on AI Data Centers",
+      "hook": "The warehouses that power AI need land, power, and water — and neighbors are starting to say no. New York just signed the nation's first statewide data center ban into law.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_debb47",
+      "slug": "data-centers-flex-the-grid",
+      "type": "news",
+      "title": "A Fix for AI's Power Crunch: Flexible Data Centers",
+      "hook": "AI's data centers are straining electric grids. One promising fix: build them to flex — easing off power when the grid is stressed, in exchange for getting connected far sooner.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ce6dcb#0",
+      "format": "quiz",
+      "prompt": "How is Sunrun's 'distributed AI compute' pilot different from a typical AI data center?",
+      "choices": [
+        {
+          "text": "It spreads small compute units across many homes instead of one large facility",
+          "correct": true
+        },
+        {
+          "text": "It uses no electricity at all",
+          "correct": false
+        },
+        {
+          "text": "It only operates inside Sunrun's own corporate offices",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRather than one massive building, the model places numerous small compute\nnodes inside participating homes — spreading the footprint out, not concentrating it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ce6dcb#1",
+      "format": "flip",
+      "prompt": "Why might a company try this instead of building a traditional data center?",
+      "back_html": "\u003cp\u003eTraditional data centers face land, power-grid, and community pushback (see the\ndata center backlash) — a distributed model sidesteps some of that friction.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "card_4bc8b8",
+  "slug": "ai-price-war",
+  "type": "news",
+  "title": "A Price War Is Making Top AI Cheaper",
+  "hook": "OpenAI and Anthropic are cutting prices as cheaper Chinese models win users. Competition, not generosity, is what pushes good AI within reach of ordinary budgets.",
+  "key_points": [
+    "Ars Technica reports US labs released cheaper models under pressure from Chinese rivals.",
+    "The trigger is competition: capable low-cost models make premium pricing hard to defend.",
+    "For everyday users this shows up as more free tiers and cheaper paid plans.",
+    "Price is not quality — a cheaper model can be plenty for writing, summarizing, and Q\u0026A.",
+    "Shop the way you would for any service: try the free tier before you subscribe."
+  ],
+  "content_html": "\u003cp\u003eThe two best-known American AI labs, OpenAI and Anthropic, have been cutting prices — and Ars Technica reports the reason is competition rather than charity. Chinese rivals have been shipping capable models at far lower prices, and once a good-enough model is cheap, charging a premium for the frontier gets harder.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is ordinary market behavior arriving in a market that had felt immune to it. For you, the effect is practical: more generous free tiers, cheaper paid plans, and less reason to lock yourself into a subscription before you know you need one. The habit worth keeping is the same as for any service — start on the free tier, notice whether you actually hit its limits, and only then pay. A model's price tag says more about the company's position in this fight than about whether it can help you draft an email.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jamie John"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+    "published_at": "2026-08-14",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "choosing-tools",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "open-source"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_b49602",
+      "slug": "free-vs-paid-ai",
+      "type": "concept",
+      "title": "Free vs Paid Tools",
+      "hook": "The free tier is enough for most people most of the time. Paid plans mostly buy you the smarter model, higher limits, and stronger privacy — useful only if you'll actually use them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d3e1b8",
+      "slug": "china-open-model-gap",
+      "type": "news",
+      "title": "China's Free-to-Download Models Are Closing the Gap",
+      "hook": "A Chinese lab's openly downloadable model reportedly rivals the top US models at some security tasks — a sign the distance between open AI and the frontier is shrinking fast.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "card_c143fe",
+      "slug": "why-china-gives-away-models",
+      "type": "news",
+      "title": "Why China Gives Away Its Best AI Models",
+      "hook": "Moonshot's Kimi K3 reportedly matches top US systems at a fraction of the cost — and you can just download it. Giving the model away isn't charity; it's strategy.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-27"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4bc8b8#0",
+      "format": "quiz",
+      "prompt": "According to the report, what pushed OpenAI and Anthropic to cut prices?",
+      "choices": [
+        {
+          "text": "Competition from cheaper Chinese models gaining ground",
+          "correct": true
+        },
+        {
+          "text": "A new law capping what AI companies may charge",
+          "correct": false
+        },
+        {
+          "text": "A drop in the number of people using chatbots",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe price cuts followed competitive pressure — capable low-cost rivals make\npremium pricing hard to sustain.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4bc8b8#1",
+      "format": "flip",
+      "prompt": "Why shouldn't you assume the most expensive AI plan is the one you need?",
+      "back_html": "\u003cp\u003ePrice tracks market position, not your use case. For writing, summarizing, and\neveryday questions, a cheap or free tier is often enough — try it first.\u003c/p\u003e"
+    }
+  ]
+}

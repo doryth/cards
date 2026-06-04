@@ -1,0 +1,103 @@
+{
+  "id": "card_9b9353",
+  "slug": "light-sails-hit-relativistic-drag",
+  "type": "news",
+  "title": "Light Sails Hit a Relativistic Speed Limit",
+  "hook": "Laser-driven sails are our best idea for reaching another star. New work says relativity turns the light itself into drag once the sail passes roughly 75% of light speed.",
+  "key_points": [
+    "A light sail accelerates by reflecting photons — momentum transfer with no fuel on board.",
+    "As the sail approaches light speed, the incoming light is redshifted and the push weakens.",
+    "The new twist: photons scattered off the sail can start acting as drag rather than thrust.",
+    "The turnover is estimated at around 75% of the speed of light.",
+    "That caps the cruise speed of laser-driven interstellar missions, lengthening travel times."
+  ],
+  "content_html": "\u003cp\u003eA light sail is the most credible interstellar propulsion scheme we have: leave the power plant\nat home, point an enormous laser at a gossamer mirror, and let photon momentum do the pushing for\nyears on end. In principle the sail can coast up to a large fraction of light speed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch, according to NASA-reported work covered by ScienceDaily, is that relativity eventually\nturns the beam against you. Two effects compound: the faster you go, the more the incoming laser\nlight is redshifted in your frame and the weaker its push — and, more surprisingly, light\nscattered off the sail can begin to remove momentum instead of adding it. The researchers put the\ncrossover at roughly 75% of the speed of light, where scattering becomes an effective drag. That\ndoes not rule out interstellar sails, but it sets a practical ceiling on cruise speed, and so on\nhow short a trip to the nearest stars could ever be.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260831015157.htm",
+    "published_at": "2026-09-02"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_987298",
+      "slug": "special-relativity-basics",
+      "type": "concept",
+      "title": "Special Relativity, Gently",
+      "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_45c4fe",
+      "slug": "e-equals-mc-squared",
+      "type": "concept",
+      "title": "E = mc²: Mass Is Energy",
+      "hook": "The most famous equation in physics says mass and energy are the same thing. Because the speed of light squared is a colossal number, a tiny bit of mass holds a staggering amount of energy.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_983cfd",
+      "slug": "why-we-might-miss-alien-life",
+      "type": "news",
+      "title": "We Might Already Be Overlooking Signs of Alien Life",
+      "hook": "It's not just that we haven't found alien life — researchers warn we might be looking right at evidence of it and not recognizing it, because we mostly search for signs that look like Earth's own.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9b9353#0",
+      "format": "flip",
+      "prompt": "How does a light sail accelerate without carrying fuel?",
+      "back_html": "\u003cp\u003ePhotons carry momentum. Reflecting a powerful laser beam off the sail transfers that\nmomentum to the spacecraft, so the propellant stays behind on the ground.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9b9353#1",
+      "format": "quiz",
+      "prompt": "According to the study, what happens to a light sail near 75% of light speed?",
+      "choices": [
+        {
+          "text": "Scattered photons begin to act as drag, working against the thrust",
+          "correct": true
+        },
+        {
+          "text": "The sail's mass becomes infinite and it stops instantly",
+          "correct": false
+        },
+        {
+          "text": "The laser beam reverses direction",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRelativistic effects mean light scattered off the sail can subtract momentum rather than\nadd it, so beyond roughly 75% c the beam starts fighting the acceleration it created.\u003c/p\u003e"
+    }
+  ]
+}

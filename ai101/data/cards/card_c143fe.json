@@ -1,0 +1,118 @@
+{
+  "id": "card_c143fe",
+  "slug": "why-china-gives-away-models",
+  "type": "news",
+  "title": "Why China Gives Away Its Best AI Models",
+  "hook": "Moonshot's Kimi K3 reportedly matches top US systems at a fraction of the cost — and you can just download it. Giving the model away isn't charity; it's strategy.",
+  "key_points": [
+    "Chinese labs increasingly release 'open-weight' models: the trained model is free to download and run.",
+    "Moonshot AI's Kimi K3 reportedly beats some leading US systems at far lower cost.",
+    "Free, capable models undercut the subscription and API revenue US labs are counting on.",
+    "Wide adoption also makes a country's models the default global infrastructure — influence without export controls.",
+    "The Verge reports Silicon Valley spent the week on 'red alert' digesting the release."
+  ],
+  "content_html": "\u003cp\u003eThere's an obvious question buried in the news that Chinese labs keep releasing world-class AI models for free: why would anyone give away something that cost a fortune to build? The Verge's answer is that it isn't generosity — it's one of the sharpest competitive moves available.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAn \u0026quot;open-weight\u0026quot; model is one whose trained parameters are published, so anyone can download it and run it themselves instead of renting access from a company. When a free model is good enough, the business model of the labs charging for access starts to wobble — and Moonshot AI's Kimi K3, reportedly matching some of the best US systems at a fraction of the cost, is exactly that kind of pressure. The second payoff is subtler: models that everyone builds on become infrastructure, and infrastructure is influence you don't need export controls to project. The upside for the rest of us is real — cheaper, more private, more independent AI that doesn't require anyone's permission to run. The complication is that the same openness makes the technology impossible for anyone, including its makers, to recall.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Robert Hart"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "published_at": "2026-07-27",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "open-source"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-07-27",
+  "related": [
+    {
+      "id": "card_9e7082",
+      "slug": "kimi-k3-qwen-close-gap",
+      "type": "news",
+      "title": "China Delivers a One-Two Punch to America's AI Dominance",
+      "hook": "Two Chinese labs released frontier-rivaling models within days of each other — one now reportedly the largest open-weight model ever — at prices well below their US competitors.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "card_d3e1b8",
+      "slug": "china-open-model-gap",
+      "type": "news",
+      "title": "China's Free-to-Download Models Are Closing the Gap",
+      "hook": "A Chinese lab's openly downloadable model reportedly rivals the top US models at some security tasks — a sign the distance between open AI and the frontier is shrinking fast.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c143fe#0",
+      "format": "quiz",
+      "prompt": "Why would a lab give away a model it spent enormous sums to train?",
+      "choices": [
+        {
+          "text": "Free capable models undercut rivals' paid business and spread its technology as the default",
+          "correct": true
+        },
+        {
+          "text": "Open-weight models are cheaper to train than closed ones",
+          "correct": false
+        },
+        {
+          "text": "Regulators require all models to be free",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eReleasing weights is competitive strategy: it erodes the subscription revenue\nclosed labs depend on, while making your model the base others build on.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c143fe#1",
+      "format": "flip",
+      "prompt": "What does 'open-weight' mean, in plain terms?",
+      "back_html": "\u003cp\u003eThe trained model itself is published, so anyone can download it and run it on\ntheir own machines — unlike closed models you can only rent through a company's\nservice.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c143fe#2",
+      "format": "quiz",
+      "prompt": "What reportedly put Silicon Valley on 'red alert' this week?",
+      "choices": [
+        {
+          "text": "Moonshot AI's Kimi K3, said to rival top US models at a fraction of the cost",
+          "correct": true
+        },
+        {
+          "text": "A US ban on training new models",
+          "correct": false
+        },
+        {
+          "text": "The shutdown of a major cloud provider",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Verge describes US firms scrambling to digest Kimi K3's arrival — a Chinese\nmodel claimed to beat some of the best US systems far more cheaply.\u003c/p\u003e"
+    }
+  ]
+}

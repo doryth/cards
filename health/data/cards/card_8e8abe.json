@@ -1,0 +1,98 @@
+{
+  "id": "card_8e8abe",
+  "slug": "sleep-apnea-pill-ad109",
+  "type": "news",
+  "title": "A Nightly Pill Cut Sleep Apnea Events by 44% in a Phase 3 Trial",
+  "hook": "CPAP works — for the people who can tolerate it. AD109, a once-nightly pill that strengthens the muscles holding the airway open, cut breathing interruptions by about 44% in a major trial.",
+  "key_points": [
+    "AD109 is taken once nightly as a pill, not worn as a mask.",
+    "In a phase 3 trial it cut breathing interruptions by roughly 44%, and improved oxygen levels and overall disease severity.",
+    "It works by strengthening the muscles that keep the upper airway open during sleep — the mechanism CPAP addresses with air pressure.",
+    "The clearest use case is people who cannot tolerate CPAP, a large share of those prescribed it.",
+    "A 44% reduction is a meaningful improvement, not elimination; CPAP remains the more complete treatment for many."
+  ],
+  "content_html": "\u003cp\u003eObstructive sleep apnea has an effective treatment and a compliance problem. CPAP holds the airway open with pressurized air and works well, but a large fraction of people prescribed one stop using it — and untreated apnea keeps taxing the heart and wrecking daytime function.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, a once-nightly pill called AD109 cut breathing interruptions by about 44% in a major phase 3 trial, while also improving oxygen levels and overall disease severity. Rather than forcing the airway open from outside, the drug targets the muscles responsible for keeping it open, addressing the collapse at its source.\u003c/p\u003e\n\u003cp\u003eRead the number carefully: a 44% reduction is a real improvement but not elimination, so for someone tolerating CPAP well this isn't obviously a trade up. The group it could change things for is the people who have tried CPAP, couldn't live with it, and are currently getting no treatment at all. If that's you — or if you snore heavily and wake unrefreshed and have never been evaluated — the useful next step is a sleep assessment, since a new option only helps once you have the diagnosis.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260831015203.htm",
+    "published_at": "2026-09-01",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "sleep",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-01",
+  "related": [
+    {
+      "id": "card_3543c8",
+      "slug": "when-sleep-problems-need-help",
+      "type": "concept",
+      "title": "When Sleep Problems Need Help",
+      "hook": "Better sleep habits fix a lot — but not everything. Loud snoring with gasping, or weeks of being unable to sleep, are signals to see a doctor, not push through.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_366490",
+      "slug": "why-sleep-matters",
+      "type": "concept",
+      "title": "Why Sleep Matters",
+      "hook": "Sleep isn't downtime — it's when your brain consolidates memory and your body repairs itself. Skimp on it for long and the bill comes due in your health.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_34073f",
+      "slug": "building-better-sleep-habits",
+      "type": "concept",
+      "title": "Building Better Sleep Habits",
+      "hook": "Good sleep is mostly built in the hours before bed. A handful of simple habits — collectively called sleep hygiene — do more than any gadget.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8e8abe#0",
+      "format": "quiz",
+      "prompt": "How does AD109 reduce sleep apnea events?",
+      "choices": [
+        {
+          "text": "By strengthening the muscles that keep the airway open during sleep",
+          "correct": true
+        },
+        {
+          "text": "By deepening sleep so breathing pauses go unnoticed",
+          "correct": false
+        },
+        {
+          "text": "By delivering pressurized air through a mask",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe drug targets the upper-airway muscles directly. CPAP solves the same collapse problem\nmechanically, with pressurized air.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8e8abe#1",
+      "format": "flip",
+      "prompt": "Who is this pill most clearly aimed at?",
+      "back_html": "\u003cp\u003ePeople who \u003cstrong\u003ecan't tolerate CPAP\u003c/strong\u003e. A 44% reduction in breathing interruptions is substantial\nbut not complete, so it reads as an option for those currently going untreated rather than a\nreplacement for a mask that someone is already using successfully.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8e8abe#2",
+      "format": "flip",
+      "prompt": "Besides breathing interruptions, what else improved in the trial?",
+      "back_html": "\u003cp\u003eOxygen levels and overall measures of disease severity. Those matter because the downstream\nharms of apnea — cardiovascular strain, daytime exhaustion — track how much oxygen you're\nlosing through the night, not just the event count.\u003c/p\u003e"
+    }
+  ]
+}

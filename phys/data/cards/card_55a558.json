@@ -1,0 +1,130 @@
+{
+  "id": "card_55a558",
+  "slug": "ghost-information",
+  "type": "paper",
+  "title": "Ghost Information: Quantum Data You Can Never Get Back",
+  "hook": "Lose part of a quantum system and you can often reconstruct what was there. Some correlations, though, leave no trace on anything you can still touch — and no amount of effort recovers them.",
+  "key_points": [
+    "Recovering quantum information after losing a subsystem is a central task in quantum computing.",
+    "The authors identify 'ghost information': correlations in the global state with no imprint on any accessible subsystem.",
+    "They prove a universal error floor no recovery map can beat, however much resource you invest.",
+    "Sampling cost shows a phase transition — bounded with a spectral gap, divergent without one.",
+    "Together the floor and the transition sort all multipartite states into four classes.",
+    "Conditional mutual information, the usual diagnostic, turns out to be irrelevant to recoverability."
+  ],
+  "content_html": "\u003cp\u003eQuantum information is fragile, so a lot of the field is about repair: a subsystem is lost or damaged, and you try to reconstruct the original state from what remains. Sometimes that works beautifully. Yuan Liu, Linhan Lin and Ke-Mi Xu ask why it sometimes cannot work at all — and trace the failure to something they call ghost information.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eGhost information is correlation that genuinely exists in the global state but leaves no trace on any subsystem you can still access. Once it's gone there is nothing left to read, and the authors turn that intuition into an algebraic identification plus a scalar measure of how much ghost information a state carries. From it they prove a universal error floor: no virtual recovery map can get below it, no matter how much resource you invest. They also find a second, independent obstacle — a spectral phase transition in the \u003cem\u003ecost\u003c/em\u003e of recovery. When the underlying linear map has a gap in its spectrum, sampling cost stays bounded; in the gapless regime it diverges with a universal exponent. Together the floor and the transition sort every multipartite state into one of four classes. The sharpest claim is a negative one: conditional mutual information, the entropic quantity the field normally reaches for when asking whether a state is recoverable, turns out to be fundamentally irrelevant here. One practical consequence they draw out is a detection threshold for loss-tolerant quantum metrology — a sensitivity limit set not by noise, but by information that was never there to begin with.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Yuan Liu",
+      "Linhan Lin",
+      "Ke-Mi Xu"
+    ],
+    "url": "https://arxiv.org/abs/2607.21240",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b1fdb9",
+      "slug": "quantum-proofs-more-powerful",
+      "type": "news",
+      "title": "Quantum Proofs Really Are More Powerful Than Classical Ones",
+      "hook": "For 20+ years it was open whether a 'quantum-shaped' proof gives a quantum computer more power than checking an ordinary one. Researchers just found strong evidence that it does.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "card_251b1c",
+      "slug": "unclonable-encryption",
+      "type": "paper",
+      "title": "Encryption a Thief Can't Even Copy",
+      "hook": "Classical ciphertext can be stolen now and cracked later. Quantum ciphertext can't be duplicated at all — and this construction gets that guarantee with no unproven assumptions.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_55a558#0",
+      "format": "quiz",
+      "prompt": "What is 'ghost information' as defined in this work?",
+      "choices": [
+        {
+          "text": "Correlations in the global state that leave no trace on any accessible subsystem",
+          "correct": true
+        },
+        {
+          "text": "Information destroyed by measuring a qubit too often",
+          "correct": false
+        },
+        {
+          "text": "Classical noise that mimics entanglement in an experiment",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt's the algebraic origin of irrecoverability: correlations genuinely present in the whole state\nbut invisible to anything you can still access after the loss.\u003c/p\u003e"
+    },
+    {
+      "id": "card_55a558#1",
+      "format": "flip",
+      "prompt": "Why can't more resources overcome the universal error floor?",
+      "back_html": "\u003cp\u003eBecause the missing correlations leave \u003cstrong\u003eno imprint on any accessible subsystem\u003c/strong\u003e — there is\nnothing left to read. The floor is structural, not a matter of effort or sampling.\u003c/p\u003e"
+    },
+    {
+      "id": "card_55a558#2",
+      "format": "quiz",
+      "prompt": "What surprising thing do the authors say about conditional mutual information?",
+      "choices": [
+        {
+          "text": "It is fundamentally irrelevant to virtual recoverability",
+          "correct": true
+        },
+        {
+          "text": "It exactly equals the amount of ghost information",
+          "correct": false
+        },
+        {
+          "text": "It always predicts whether a state can be recovered",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eConditional mutual information is the standard entropic diagnostic for recoverability, and the\npaper argues it simply doesn't govern the virtual-recovery question.\u003c/p\u003e"
+    }
+  ]
+}

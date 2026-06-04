@@ -1,0 +1,122 @@
+{
+  "id": "card_94e772",
+  "slug": "technology-and-democracy",
+  "type": "concept",
+  "title": "Technology \u0026 Democracy",
+  "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+  "key_points": [
+    "Digital technology lowers barriers to organizing, informing, and participating.",
+    "It also enables disinformation, manipulation, and surveillance at scale.",
+    "A few large platforms now shape what billions see, raising questions of power and accountability.",
+    "The net effect on democracy is contested — the same tools empower citizens and those who'd undermine them."
+  ],
+  "content_html": "\u003cp\u003eWhen digital technology and especially social media arrived, many hoped it would be a boon for democracy — and in important ways it was. It dramatically lowered the barriers to participating in public life: anyone could publish, organize, and reach an audience without owning a printing press or a broadcast license. Movements could mobilize quickly, citizens could access information and document abuses, and voices long shut out of mainstream media could be heard. These are real democratic gains, and they have not gone away.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBut the same features that empower citizens also empower those who would manipulate them, and the picture has darkened considerably. The very openness and speed that spread genuine information also spread disinformation and propaganda faster than ever, while algorithms designed to maximize engagement can amplify outrage and deepen division. As discussed under surveillance, these technologies also enable monitoring at vast scale. Encyclopaedia Britannica notes a further structural concern: a small number of large platforms now mediate how billions of people get news and discuss politics, giving private companies enormous influence over public debate — what is seen, what is suppressed, what spreads — with limited transparency or accountability. The honest conclusion is that technology's net effect on democracy is genuinely contested and probably not fixed: the same tools that help citizens inform themselves and hold power to account also help bad actors deceive, surveil, and divide. Which tendency prevails depends less on the technology itself than on the rules, norms, and design choices societies build around it — making the governance of digital technology one of the defining political questions of the age.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/technology/social-media",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "technology-and-politics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_cbef24",
+      "slug": "surveillance-and-privacy",
+      "type": "concept",
+      "title": "Surveillance \u0026 Privacy",
+      "hook": "Technology lets states and companies watch people at a scale once unimaginable — putting the old right to be left alone on a collision course with security and profit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c16f42",
+      "slug": "disinformation-and-propaganda",
+      "type": "concept",
+      "title": "Disinformation \u0026 Propaganda",
+      "hook": "Democracy depends on citizens being informed — so deliberately polluting what they know is a direct attack on it. That's the threat of propaganda and disinformation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b3bd44",
+      "slug": "free-press-and-democracy",
+      "type": "concept",
+      "title": "The Free Press \u0026 Democracy",
+      "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_c16f42",
+      "slug": "disinformation-and-propaganda",
+      "type": "concept",
+      "title": "Disinformation \u0026 Propaganda",
+      "hook": "Democracy depends on citizens being informed — so deliberately polluting what they know is a direct attack on it. That's the threat of propaganda and disinformation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_94e772#0",
+      "format": "flip",
+      "prompt": "What is the double-edged effect of digital technology on democracy?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003esame tools\u003c/strong\u003e that lower barriers to organizing and informing also\nenable disinformation, manipulation, and surveillance at scale.\u003c/p\u003e"
+    },
+    {
+      "id": "card_94e772#1",
+      "format": "quiz",
+      "prompt": "Why does the dominance of a few large platforms raise democratic concerns?",
+      "choices": [
+        {
+          "text": "They shape what billions of people see, concentrating power without clear accountability",
+          "correct": true
+        },
+        {
+          "text": "They are required to be government-owned",
+          "correct": false
+        },
+        {
+          "text": "They have no influence on public debate",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen a handful of companies control the channels of public information,\ntheir choices carry political weight that is hard to hold to account.\u003c/p\u003e"
+    },
+    {
+      "id": "card_94e772#2",
+      "format": "quiz",
+      "prompt": "How can digital technology strengthen democratic participation?",
+      "choices": [
+        {
+          "text": "By lowering barriers to organizing, informing, and taking part",
+          "correct": true
+        },
+        {
+          "text": "By making it impossible to share information",
+          "correct": false
+        },
+        {
+          "text": "By banning all political speech",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCheap, fast communication lets citizens organize, access information, and\nparticipate more easily than before.\u003c/p\u003e"
+    }
+  ]
+}

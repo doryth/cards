@@ -1,0 +1,101 @@
+{
+  "id": "card_043084",
+  "slug": "common-descent",
+  "type": "concept",
+  "title": "The Tree of Life",
+  "hook": "Humans, mushrooms, and oak trees share an ancestor if you go back far enough — all life on Earth branches from a single common root.",
+  "key_points": [
+    "Common descent: all living things trace back to shared ancestors.",
+    "Species form when populations split and diverge over many generations.",
+    "Evidence comes from fossils, anatomy, and shared DNA across species.",
+    "The closer two species' DNA, the more recently they shared an ancestor."
+  ],
+  "content_html": "\u003cp\u003eEvolution doesn't just tweak individual species — it connects all of them. The principle of common descent says that every living thing on Earth traces back to shared ancestors, and ultimately to a single ancestral population billions of years ago. As groups become isolated and diverge over many generations, one lineage splits into two, then more, branching like a tree. The result is the \u0026quot;tree of life,\u0026quot; with every species a twig on some larger limb.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThree independent lines of evidence point the same way. Fossils record forms that no longer exist and capture transitions between groups. Anatomy reveals deep similarities — the same arrangement of bones in a human arm, a bat wing, and a whale flipper. And DNA seals it: the more two species' genetic codes resemble each other, the more recently they shared an ancestor. A common point of confusion: humans didn't descend from modern chimpanzees. Rather, we and chimps are cousins, both branching from an ancestor that's no longer around. UC Berkeley's Understanding Evolution site shows how scientists read these branching relationships.\u003c/p\u003e",
+  "source": {
+    "name": "Understanding Evolution (UC Berkeley)",
+    "url": "https://evolution.berkeley.edu/the-history-of-life-looking-at-the-patterns/understanding-phylogenies/",
+    "license": "© UC Museum of Paleontology (educational use)"
+  },
+  "topic_ids": [
+    "evolution"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_89dd5d",
+      "slug": "natural-selection",
+      "type": "concept",
+      "title": "Natural Selection",
+      "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_043084#0",
+      "format": "flip",
+      "prompt": "What does 'common descent' mean?",
+      "back_html": "\u003cp\u003eThat all living things share \u003cstrong\u003ecommon ancestors\u003c/strong\u003e — trace any two species back\nfar enough and their lineages meet. Life forms one connected tree.\u003c/p\u003e"
+    },
+    {
+      "id": "card_043084#1",
+      "format": "quiz",
+      "prompt": "Which is strong evidence that two species share a recent common ancestor?",
+      "choices": [
+        {
+          "text": "Their DNA sequences are very similar",
+          "correct": true
+        },
+        {
+          "text": "They live in the same place today",
+          "correct": false
+        },
+        {
+          "text": "They are roughly the same size",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGenetic similarity is a powerful clue — the closer two species' DNA, the more\nrecently their lineages diverged. Habitat and size are not reliable signals.\u003c/p\u003e"
+    },
+    {
+      "id": "card_043084#2",
+      "format": "quiz",
+      "prompt": "Did humans evolve directly from modern chimpanzees?",
+      "choices": [
+        {
+          "text": "No — humans and chimps share a common ancestor, but neither came from the other",
+          "correct": true
+        },
+        {
+          "text": "Yes — chimps gradually turned into humans",
+          "correct": false
+        },
+        {
+          "text": "No — humans and chimps are unrelated",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eModern chimps are our cousins, not our ancestors. Both lineages descend from a\nshared ancestor that lived millions of years ago.\u003c/p\u003e"
+    }
+  ]
+}

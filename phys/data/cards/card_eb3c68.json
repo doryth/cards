@@ -1,0 +1,98 @@
+{
+  "id": "card_eb3c68",
+  "slug": "making-quantum-time-flow-backward",
+  "type": "news",
+  "title": "Physicists Made a Quantum System's Arrow of Time Run Backward",
+  "hook": "By carefully steering quantum measurements, researchers made a system behave as if time were flowing in reverse — and found they could harvest energy from the trick itself.",
+  "key_points": [
+    "Researchers developed quantum control techniques that make a system appear to evolve backward in time.",
+    "The method works by precisely managing how and when quantum measurements are made.",
+    "The same technique can extract energy from the measurement process itself.",
+    "Potential applications include more capable quantum computers and quantum batteries."
+  ],
+  "content_html": "\u003cp\u003eThe universe has a clear arrow of time — the second law of thermodynamics says disorder only grows, never spontaneously reverses. But at the quantum scale, that arrow may be more negotiable than it looks.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, physicists have devised quantum control techniques that make a system's evolution look as though it's running backward, by carefully managing when and how quantum measurements are taken. The trick isn't just a curiosity: the same control can be used to extract energy from the measurement process, hinting at future quantum batteries or more capable quantum computers. It's a controlled effect on a single quantum system, not a repeal of the second law for the universe at large — but it shows physicists have surprisingly fine-grained control over a system's apparent arrow of time.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260625014802.htm",
+    "published_at": "2026-07-03",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-06",
+  "date": "2026-07-03",
+  "related": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_eb3c68#0",
+      "format": "flip",
+      "prompt": "How did researchers make a quantum system appear to run backward in time?",
+      "back_html": "\u003cp\u003eBy precisely controlling \u003cstrong\u003ewhen and how quantum measurements\u003c/strong\u003e are made\non the system.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eb3c68#1",
+      "format": "quiz",
+      "prompt": "What extra capability did the same technique enable?",
+      "choices": [
+        {
+          "text": "Extracting energy from the measurement process itself",
+          "correct": true
+        },
+        {
+          "text": "Traveling backward through actual physical time",
+          "correct": false
+        },
+        {
+          "text": "Violating the second law of thermodynamics for the whole universe",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThis is a controlled quantum-measurement effect on one system, not literal\ntime travel or a universal violation of the second law.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eb3c68#2",
+      "format": "flip",
+      "prompt": "What future technologies might this technique feed into?",
+      "back_html": "\u003cp\u003eMore powerful \u003cstrong\u003equantum computers\u003c/strong\u003e and \u003cstrong\u003equantum batteries\u003c/strong\u003e, according\nto the researchers.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "card_89ecd5",
+  "slug": "regulatory-capture",
+  "type": "news",
+  "title": "Regulatory Capture",
+  "hook": "Who protects a city's drinking water when the industry that put it at risk is also the one the regulator was built to serve? That's the problem political scientists call regulatory capture.",
+  "key_points": [
+    "Regulatory capture is when an agency meant to police an industry starts serving that industry's interests instead.",
+    "It often happens gradually: regulators depend on the industry for expertise, jobs, and political support.",
+    "Agencies that both promote an industry and police its pollution face a built-in conflict of interest.",
+    "A 2026 ProPublica investigation examined an Oklahoma city forced to appeal to oil-and-gas regulators over pollution those regulators had allowed.",
+    "The usual remedy reformers push: separate the promoting and policing functions, or add independent outside oversight."
+  ],
+  "content_html": "\u003cp\u003eRegulation only works if the regulator is actually willing to say no to the industry it oversees. Political scientists have a name for what happens when that stops being true: regulatory capture — an agency created to police an industry gradually comes to serve that industry's interests instead, often because it depends on the industry for technical expertise, career pipelines, and political cover.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Nick Bowlin and Al Shaw report on a case study of the problem: an Oklahoma city that had to appeal to the same oil-and-gas regulators who had allowed the pollution risk to its drinking water in the first place, in hopes of getting protection from it. Capture is rarely a single corrupt act; it's usually structural, built into agencies whose job combines promoting an industry's growth with policing its harms — a dual mandate that quietly tilts toward the industry over time. The standard reform response is to separate those roles, or to add independent oversight — inspectors general, outside audits, courts — that doesn't share the regulator's day-to-day relationship with the industry it's meant to check.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Nick Bowlin",
+      "Al Shaw"
+    ],
+    "url": "https://propublica.org/article/enid-oklahoma-oil-gas-pollution-water-protections",
+    "published_at": "2026-06-30",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_44f315",
+      "slug": "political-corruption",
+      "type": "concept",
+      "title": "Political Corruption",
+      "hook": "Corruption is the abuse of entrusted power for private gain — and it quietly drains a society, eroding trust, fairness, and the resources meant for everyone.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c978c5",
+      "slug": "markets-regulation-mixed-economy",
+      "type": "concept",
+      "title": "Markets, Regulation \u0026 the Mixed Economy",
+      "hook": "Pure free market or full state control? Almost every country picks neither — they run a mixed economy, and where they draw the line is one of politics' great arguments.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_89ecd5#0",
+      "format": "flip",
+      "prompt": "What is 'regulatory capture'?",
+      "back_html": "\u003cp\u003eWhen an agency created to police an industry comes instead to serve\nthat industry's interests — often because it depends on the industry\nfor expertise and political support.\u003c/p\u003e"
+    },
+    {
+      "id": "card_89ecd5#1",
+      "format": "quiz",
+      "prompt": "Why are agencies with a dual mandate (promoting an industry AND policing its harms) especially prone to capture?",
+      "choices": [
+        {
+          "text": "The dual role creates a built-in conflict of interest that can tilt the agency toward the industry",
+          "correct": true
+        },
+        {
+          "text": "Dual-mandate agencies are required by law to favor industry",
+          "correct": false
+        },
+        {
+          "text": "Having two jobs makes an agency more independent",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePromoting growth and policing harm pull in different directions, and\nover time the promotion side can quietly win out.\u003c/p\u003e"
+    },
+    {
+      "id": "card_89ecd5#2",
+      "format": "quiz",
+      "prompt": "What reform do observers typically propose to counter regulatory capture?",
+      "choices": [
+        {
+          "text": "Separate the promoting and policing functions, or add independent outside oversight",
+          "correct": true
+        },
+        {
+          "text": "Eliminate the regulator and let the industry self-report",
+          "correct": false
+        },
+        {
+          "text": "Merge the regulator fully into the industry it oversees",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSplitting roles or adding oversight that doesn't share the regulator's\nclose relationship with industry helps counteract the drift toward\ncapture.\u003c/p\u003e"
+    }
+  ]
+}

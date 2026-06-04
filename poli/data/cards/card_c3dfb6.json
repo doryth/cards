@@ -1,0 +1,129 @@
+{
+  "id": "card_c3dfb6",
+  "slug": "why-primary-polls-are-hardest",
+  "type": "news",
+  "title": "Why Primary Polls Are the Hardest Polls",
+  "hook": "General-election polling has a stable anchor: party. Primaries strip that anchor away, which is why the same pollsters who do fine in November can miss badly in a primary.",
+  "key_points": [
+    "In a primary every candidate shares the voter's party label, so the strongest predictor of a vote is unavailable.",
+    "Turnout is low and volatile, making the pollster's 'likely voter' model the biggest source of error.",
+    "Primary voters decide late, so a poll taken days before the vote can be stale by election day.",
+    "Individual races are polled rarely and cheaply, so there are fewer surveys to average out any one poll's noise.",
+    "The usable habits: read averages rather than single polls, treat the margin of error as a floor, and follow the trend rather than the number."
+  ],
+  "content_html": "\u003cp\u003ePrimary season fills the news with polls, and NPR's Danielle Kurtzleben put the natural question to G. Elliott Morris of the data-driven outlet Strength In Numbers: can they be trusted? The honest answer is that primary polls are the hardest kind to get right, and for reasons worth understanding rather than just worrying about.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eStart with what a general-election poll has going for it: nearly everyone has a party, party predicts the vote, and the pollster can lean on that structure. A primary deletes it. Every candidate carries the same party label, so voters are choosing on much softer cues — name recognition, a recent ad, an endorsement — and many of them decide in the final days, after the polling is done. Then comes turnout. General elections draw a large, fairly stable electorate; primaries draw a small and unpredictable one, which means the pollster's hardest judgement is not who people prefer but \u003cem\u003ewhich\u003c/em\u003e people will actually show up. That \u0026quot;likely voter\u0026quot; screen is where much of the published disagreement between polls comes from. Finally, individual primaries are polled sparsely and often cheaply, so there are fewer surveys to average, and one noisy result can define the narrative. None of this makes polls useless — they remain the only systematic measure of opinion between elections. It does argue for reading them the way analysts do: use averages rather than any single poll, treat the stated margin of error as a floor rather than a ceiling, and watch the direction of movement rather than the decimal point.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Danielle Kurtzleben"
+    ],
+    "url": "https://npr.org/2026/08/16/nx-s1-5929568/polls-everywhere-in-primary-season-can-they-be-trusted",
+    "published_at": "2026-08-16",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "media-civil-society",
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-16",
+  "related": [
+    {
+      "id": "card_0d397a",
+      "slug": "public-opinion-and-polling",
+      "type": "concept",
+      "title": "Public Opinion \u0026 Polling",
+      "hook": "What 'the people' think shapes what governments do — but measuring it is trickier than it looks, and a bad poll can mislead as easily as a good one informs.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bd6dda",
+      "slug": "prediction-markets-and-politics",
+      "type": "concept",
+      "title": "Prediction Markets in Politics",
+      "hook": "Let people bet real money on who wins, and the prices start to look like odds — a crowd-sourced forecast. But betting on politics invites its own kind of trouble.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "card_1d904c",
+      "slug": "why-primaries-go-to-a-runoff",
+      "type": "news",
+      "title": "Why Some Primaries Need a Second Round",
+      "hook": "Win 34 percent of a crowded primary and in some states you're the nominee. In others, you go to a runoff — a rule that quietly reshapes which candidates survive.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-11"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_0d397a",
+      "slug": "public-opinion-and-polling",
+      "type": "concept",
+      "title": "Public Opinion \u0026 Polling",
+      "hook": "What 'the people' think shapes what governments do — but measuring it is trickier than it looks, and a bad poll can mislead as easily as a good one informs.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_c3dfb6#0",
+      "format": "flip",
+      "prompt": "Why is a primary harder to poll than a general election?",
+      "back_html": "\u003cp\u003eEveryone in the race shares the voter's \u003cstrong\u003eparty label\u003c/strong\u003e, so the single\nstrongest predictor of how someone votes is unavailable — and turnout is\nlow and volatile on top of it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c3dfb6#1",
+      "format": "quiz",
+      "prompt": "Which pollster decision is the biggest source of error in a primary poll?",
+      "choices": [
+        {
+          "text": "The 'likely voter' model — guessing which few people will actually turn out",
+          "correct": true
+        },
+        {
+          "text": "The colour scheme used in the published chart",
+          "correct": false
+        },
+        {
+          "text": "Whether the poll is released on a weekday or weekend",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePrimary turnout is low and unpredictable, so who counts as a likely voter\ncan move the headline number more than anything else.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c3dfb6#2",
+      "format": "quiz",
+      "prompt": "What is the best habit for reading primary polls?",
+      "choices": [
+        {
+          "text": "Follow averages and trends, and treat the margin of error as a floor",
+          "correct": true
+        },
+        {
+          "text": "Trust the single most recent poll as the truth",
+          "correct": false
+        },
+        {
+          "text": "Ignore any poll that disagrees with your preferred candidate",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAveraging cancels individual polls' noise, and real-world error typically\nexceeds the stated margin, which covers sampling error only.\u003c/p\u003e"
+    }
+  ]
+}

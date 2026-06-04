@@ -1,0 +1,109 @@
+{
+  "id": "card_9ababf",
+  "slug": "quantum-speedups-need-structure-or-depth",
+  "type": "paper",
+  "title": "Why Quantum Speedups Need Structure",
+  "hook": "A long-standing conjecture says quantum computers can't beat classical ones on unstructured problems. It's now settled for parallel algorithms — and depth is the deciding resource.",
+  "key_points": [
+    "The conjecture: any t-query quantum algorithm can be simulated on most inputs by a classical algorithm using poly(t) queries.",
+    "The authors prove it for parallel algorithms: a t-query, d-round quantum algorithm is classically simulable with t^O(d^2) queries.",
+    "Consequence: on unstructured problems, a superpolynomial speedup needs circuits of superconstant depth.",
+    "An exponential speedup needs polynomial depth — the quantum advantage has to be bought with sequential rounds.",
+    "By contrast, most known speedups on structured problems come from highly parallel, low-depth algorithms."
+  ],
+  "content_html": "\u003cp\u003eOne of the awkward open questions in quantum computing is how \u003cem\u003egeneral\u003c/em\u003e quantum advantage is. Shor's algorithm exploits the hidden periodic structure of factoring; Grover's search, which needs no structure, gives only a quadratic gain. Complexity theorists have long conjectured this is no accident: for unstructured problems, any t-query quantum algorithm should be classically simulable on most inputs with poly(t) queries.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eGuy Blanc, Jordan Docter, Carmen Strassle and Li-Yang Tan settle the conjecture for parallel quantum algorithms. They show that a t-query algorithm running in d rounds can be simulated on most inputs with t^O(d²) classical queries. Read as a lower bound, that says the depth d is what buys the advantage: a superpolynomial speedup on an unstructured problem requires superconstant depth, and an exponential one requires polynomial depth. The authors note the tension with practice — most known speedups on \u003cem\u003estructured\u003c/em\u003e problems are highly parallel and shallow — and report that their techniques also bear on the long-standing question of BPP versus BQP relative to a random oracle.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Guy Blanc",
+      "Jordan Docter",
+      "Carmen Strassle",
+      "Li-Yang Tan"
+    ],
+    "url": "https://arxiv.org/abs/2608.19158",
+    "published_at": "2026-08-19",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b1fdb9",
+      "slug": "quantum-proofs-more-powerful",
+      "type": "news",
+      "title": "Quantum Proofs Really Are More Powerful Than Classical Ones",
+      "hook": "For 20+ years it was open whether a 'quantum-shaped' proof gives a quantum computer more power than checking an ordinary one. Researchers just found strong evidence that it does.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "card_cf6284",
+      "slug": "laptop-beats-77-qubit-chemistry-run",
+      "type": "paper",
+      "title": "A Laptop Redoes a 77-Qubit Chemistry Experiment in Under a Minute",
+      "hook": "One of the largest quantum-chemistry runs ever took 77 qubits and a supercomputer's worth of post-processing. A new classical algorithm reproduces it on a laptop — and does better.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9ababf#0",
+      "format": "flip",
+      "prompt": "What does 'structure' buy a quantum algorithm?",
+      "back_html": "\u003cp\u003eStructure in the problem is what makes a large speedup possible at all. On \u003cstrong\u003eunstructured\u003c/strong\u003e\nproblems, the authors show a low-depth quantum algorithm can be simulated classically —\nso any big speedup must come from either problem structure or circuit depth.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9ababf#1",
+      "format": "quiz",
+      "prompt": "According to this result, what does an exponential quantum speedup on an unstructured problem require?",
+      "choices": [
+        {
+          "text": "Circuits of polynomial depth — many sequential rounds",
+          "correct": true
+        },
+        {
+          "text": "Exponentially many qubits but only constant depth",
+          "correct": false
+        },
+        {
+          "text": "Nothing special; shallow parallel circuits suffice",
+          "correct": false
+        },
+        {
+          "text": "Perfect, error-free gates",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTheir simulation of a t-query, d-round algorithm costs t^O(d²) classical queries, so\nconstant depth can't give a superpolynomial gap and exponential gaps need polynomial depth.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9ababf#2",
+      "format": "flip",
+      "prompt": "How does this contrast with known quantum speedups in practice?",
+      "back_html": "\u003cp\u003eMost known speedups are on \u003cstrong\u003estructured\u003c/strong\u003e problems and are achieved by highly parallel,\n\u003cstrong\u003elow-depth\u003c/strong\u003e algorithms — precisely the regime the theorem rules out for unstructured ones.\u003c/p\u003e"
+    }
+  ]
+}

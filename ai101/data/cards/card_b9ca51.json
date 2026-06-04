@@ -1,0 +1,118 @@
+{
+  "id": "card_b9ca51",
+  "slug": "ai-reshaping-mathematics",
+  "type": "news",
+  "title": "Even Mathematicians Are Rethinking the Job",
+  "hook": "A Fields Medalist tells The Verge he's spent the past year 'soul searching' about his field's future — a snapshot of how AI unsettles even the most deliberate professions.",
+  "key_points": [
+    "Oxford mathematician and Fields Medalist James Maynard describes a year of soul searching about the field.",
+    "The Verge frames mathematics as a traditionally slow-moving discipline now hurrying to adapt.",
+    "Math is unusually exposed: proofs are symbolic, and correctness can be checked.",
+    "Verification is the anchor — a machine-written proof is a claim until humans check it.",
+    "The pattern generalizes: AI arrives first where work is formal, textual, and checkable."
+  ],
+  "content_html": "\u003cp\u003eJames Maynard, an Oxford professor and Fields Medal winner, told The Verge he's spent much of the past year \u0026quot;soul searching\u0026quot; about the future of his field. The piece describes mathematics — a discipline that usually moves on a scale of decades — scrambling to work out what AI means for it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMath is a revealing early case rather than a special one. Its output is symbolic text, and crucially, correctness can be checked: a proof either holds up under scrutiny or it doesn't. That combination is exactly where AI systems land first, and it's why generated proofs have already produced striking results.\u003c/p\u003e\n\u003cp\u003eIt's also why the profession isn't simply being replaced. A machine-written proof is a claim until mathematicians verify it step by step — and as generation gets cheaper, verification becomes the scarce, valuable work. That's the part worth carrying into your own field: the tasks under pressure are the formal, text-shaped, checkable ones, and the human role tends to shift from producing the draft to judging whether the draft is right.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Robert Hart"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+    "published_at": "2026-08-11",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-and-jobs",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "reasoning"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_fbeec2",
+      "slug": "ai-solves-math-problem",
+      "type": "news",
+      "title": "An AI Cracked an 80-Year-Old Math Problem",
+      "hook": "An OpenAI model produced a solution to a famous math problem that had stumped people for about 80 years — a real milestone, with some important fine print.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "card_b4f14c",
+      "slug": "ai-and-jobs",
+      "type": "concept",
+      "title": "AI \u0026 Jobs",
+      "hook": "AI is less likely to take your whole job than to take certain tasks within it. The pattern through history: tools reshape work faster than they erase it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b50ff8",
+      "slug": "future-proofing-your-career",
+      "type": "concept",
+      "title": "Future-Proofing Your Career",
+      "hook": "You won't be replaced by AI so much as by a person who uses it well. The hedge isn't out-typing the machine — it's getting fluent with it while doubling down on what's stubbornly human.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b9ca51#0",
+      "format": "quiz",
+      "prompt": "Why is mathematics an unusually early test case for AI changing a profession?",
+      "choices": [
+        {
+          "text": "Its work is symbolic and its answers can be checked, so machine output is verifiable",
+          "correct": true
+        },
+        {
+          "text": "Mathematicians were the first to adopt computers",
+          "correct": false
+        },
+        {
+          "text": "Math requires no creativity, only calculation",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI lands earliest where the output is formal text and there's a way to confirm\nwhether it's right — which is exactly the shape of a proof.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b9ca51#1",
+      "format": "flip",
+      "prompt": "What keeps a machine-generated proof from settling a question on its own?",
+      "back_html": "\u003cp\u003eIt's a claim until human mathematicians verify each step. Verification is what\nconverts generated output into an accepted result.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b9ca51#2",
+      "format": "quiz",
+      "prompt": "What's the transferable lesson for other kinds of work?",
+      "choices": [
+        {
+          "text": "Formal, text-based, checkable work feels AI pressure first — and judgment shifts toward verifying",
+          "correct": true
+        },
+        {
+          "text": "Every profession will be automated at the same pace",
+          "correct": false
+        },
+        {
+          "text": "Only manual labor is safe from AI",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAs generation gets cheap, the scarce human skill moves toward deciding whether\nwhat was generated is actually correct and worth using.\u003c/p\u003e"
+    }
+  ]
+}

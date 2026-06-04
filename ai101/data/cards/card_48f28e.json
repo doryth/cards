@@ -1,0 +1,111 @@
+{
+  "id": "card_48f28e",
+  "slug": "ai-photo-editing",
+  "type": "concept",
+  "title": "AI Photo Editing",
+  "hook": "Your phone already uses AI to retouch every photo — and now a sentence can remove a stranger, swap a sky, or 'unblur' a face. Powerful for fixing pictures, slippery for trusting them.",
+  "key_points": [
+    "AI editing can erase objects, extend backgrounds, fix lighting, and sharpen photos.",
+    "Much of it is built into phone cameras and free apps — no skill needed.",
+    "The line between 'editing' and 'fabricating' a photo is blurrier than ever.",
+    "Edited photos can mislead; this is the everyday cousin of deepfakes."
+  ],
+  "content_html": "\u003cp\u003ePhoto editing used to mean hours in expensive software and real skill. AI has collapsed that into a sentence. Modern tools — many of them free, and increasingly built straight into your phone's camera app — let you remove a photobombing stranger, erase a power line, replace a dull sky with a sunset, extend a cropped background, fix bad lighting, or even sharpen a blurry, badly-focused shot after the fact. You don't edit pixel by pixel; you describe what you want, and the AI generates the change so seamlessly it looks like it was always there. For anyone who's ever wished they could fix a once-in-a-lifetime photo, it's genuinely delightful.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt also quietly dissolves something we used to take for granted: that a photograph is a record of what happened. When erasing or inventing parts of an image takes seconds and leaves no obvious trace, the line between \u003cem\u003eenhancing\u003c/em\u003e a photo and \u003cem\u003efabricating\u003c/em\u003e one gets very thin. A removed person, an added object, a \u0026quot;cleaned up\u0026quot; scene — small edits can change what a picture appears to prove. This is the everyday, low-drama cousin of deepfakes: not a fake video of a president, but the ordinary photo that's been quietly altered. None of this means avoid the tools — they're useful and fun. It means carrying the same updated instinct everywhere: a photo is no longer automatic evidence, and how much you trust an image should depend on where it came from and who's vouching for it, not on how real it looks.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-images"
+  ],
+  "tags": [
+    "generative",
+    "vision"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aa1028",
+      "slug": "ai-images-and-art",
+      "type": "concept",
+      "title": "AI Images, Art \u0026 Video",
+      "hook": "Type a sentence, get a picture. Image generators learned the link between words and visuals from billions of captioned images — which is also why artists are raising hard questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fb7581",
+      "slug": "adobe-ai-assistants",
+      "type": "news",
+      "title": "AI Assistants Move Into Photoshop and Premiere",
+      "hook": "The chatbot is moving into the software you already use: Adobe is putting AI assistants inside Photoshop, Premiere, and the rest of Creative Cloud — so you edit by describing what you want.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-18"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_aa1028",
+      "slug": "ai-images-and-art",
+      "type": "concept",
+      "title": "AI Images, Art \u0026 Video",
+      "hook": "Type a sentence, get a picture. Image generators learned the link between words and visuals from billions of captioned images — which is also why artists are raising hard questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_48f28e#0",
+      "format": "quiz",
+      "prompt": "What can AI photo-editing tools now do from a simple request?",
+      "choices": [
+        {
+          "text": "Remove objects or people, replace backgrounds, and fix lighting or blur",
+          "correct": true
+        },
+        {
+          "text": "Only crop and rotate, nothing more",
+          "correct": false
+        },
+        {
+          "text": "Only work on professional cameras",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eModern AI editors can add, remove, and transform parts of a photo from a\ntext request — and much of it is built right into ordinary phone apps.\u003c/p\u003e"
+    },
+    {
+      "id": "card_48f28e#1",
+      "format": "flip",
+      "prompt": "Why does easy AI editing blur the line on photo trust?",
+      "back_html": "\u003cp\u003eWhen anyone can convincingly alter a photo in seconds, an image is no longer\nreliable evidence — it's the everyday cousin of deepfakes.\u003c/p\u003e"
+    }
+  ]
+}

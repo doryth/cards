@@ -1,0 +1,128 @@
+{
+  "id": "card_8dd047",
+  "slug": "hollow-parties-and-insurgent-capture",
+  "type": "news",
+  "title": "Why Outsiders Keep Capturing 'Establishment' Parties",
+  "hook": "Modern parties look powerful on television and weak up close — most have little real control over who runs under their banner. That gap is what lets outsider candidates walk in and take over.",
+  "key_points": [
+    "Parties historically vetted candidates through insiders and organizations before voters ever saw a ballot; primary elections shifted that gatekeeping to voters directly.",
+    "Today's national and state parties mostly can't block a well-funded, well-known outsider from winning their own primary, however unconventional the candidate.",
+    "Political scientists describe this as 'hollowing out': parties keep their brand and fundraising infrastructure but lose much of their power to actually pick their own standard-bearers.",
+    "A 2026 Conversation analysis of Maine Senate candidate Graham Platner's campaign collapse — following a rape allegation — argued his rise showed the same insurgent-capture pattern seen elsewhere across the spectrum.",
+    "The vulnerability isn't partisan: any party with weak internal gatekeeping is open to capture by an outsider who builds a following the party itself never vetted."
+  ],
+  "content_html": "\u003cp\u003ePolitical parties look, from the outside, like disciplined organizations that control their own brand. Up close, modern American parties are often much weaker than that image suggests — many have little real ability to stop a well-known outsider from winning their nomination, however unconventional that candidate turns out to be.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePolitical scientist Nicholas Jacobs, writing in The Conversation, points to the 2026 collapse of Graham Platner's Maine Senate campaign — which imploded after a rape allegation — as a case study in that structural weakness, drawing parallels to how populist outsiders have captured party nominations elsewhere. The mechanism predates any single candidate: shifting candidate selection from party insiders to primary voters removed the vetting step parties once used to filter who got on the ballot in the first place. What's left is a party that keeps its name, money, and infrastructure but often can't do much to stop an outsider with a following the party itself never chose from winning its nomination outright — a vulnerability that runs across the political spectrum, not just one side of it. (This card describes U.S. party structure specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Nicholas Jacobs"
+    ],
+    "url": "https://theconversation.com/graham-platners-campaign-implosion-highlights-the-hollowness-of-americas-political-parties-and-how-they-can-be-hijacked-by-insurgents-287111",
+    "published_at": "2026-07-08",
+    "license": "© The Conversation (CC BY-ND)"
+  },
+  "topic_ids": [
+    "parties-and-ideologies"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-08",
+  "related": [
+    {
+      "id": "card_47b520",
+      "slug": "party-systems",
+      "type": "concept",
+      "title": "Political Parties \u0026 Party Systems",
+      "hook": "Parties are how scattered voters become an organized choice. Whether a country has two big ones or a dozen shapes how its whole politics feels.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_01b1af",
+      "slug": "populism",
+      "type": "concept",
+      "title": "Populism",
+      "hook": "Populism isn't a single program — it's a style that splits society into two camps: a virtuous 'people' against a corrupt 'elite,' with the populist speaking for the people.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_782334",
+      "slug": "ideological-sorting",
+      "type": "news",
+      "title": "Why America Sorts Itself",
+      "hook": "Red places get redder and blue places get bluer. Is it because people move to match their politics — or is politics just one reason among many?",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_47b520",
+      "slug": "party-systems",
+      "type": "concept",
+      "title": "Political Parties \u0026 Party Systems",
+      "hook": "Parties are how scattered voters become an organized choice. Whether a country has two big ones or a dozen shapes how its whole politics feels.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_8dd047#0",
+      "format": "flip",
+      "prompt": "What does it mean for a political party to be 'hollowed out'?",
+      "back_html": "\u003cp\u003eIt keeps its brand, fundraising, and infrastructure, but loses much of\nits real power to control who actually runs and wins under its name.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8dd047#1",
+      "format": "quiz",
+      "prompt": "What structural shift made it easier for outsider candidates to capture a major party's nomination?",
+      "choices": [
+        {
+          "text": "Moving candidate selection from party insiders to voters directly, via primary elections",
+          "correct": true
+        },
+        {
+          "text": "Requiring every candidate to be personally approved by the national party chair",
+          "correct": false
+        },
+        {
+          "text": "Eliminating primary elections entirely in favor of party conventions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePrimaries handed the nominating decision to voters, removing the\ninsider vetting step that used to filter candidates before the ballot.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8dd047#2",
+      "format": "quiz",
+      "prompt": "Is vulnerability to insurgent capture a problem specific to one party?",
+      "choices": [
+        {
+          "text": "No — any party with weak internal gatekeeping can be captured by an outsider, regardless of ideology",
+          "correct": true
+        },
+        {
+          "text": "Yes — only parties on one side of the political spectrum face this risk",
+          "correct": false
+        },
+        {
+          "text": "No — modern parties are fully immune to outsider takeovers",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe underlying mechanism is structural, not ideological: it's about\nhow much real control a party retains over its own nomination process.\u003c/p\u003e"
+    }
+  ]
+}

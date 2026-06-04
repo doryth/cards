@@ -1,0 +1,95 @@
+{
+  "id": "card_4b011a",
+  "slug": "alphafold-safer-gene-editing",
+  "type": "news",
+  "title": "AI Helps Redesign Gene Editors to Make Fewer Mistakes",
+  "hook": "Researchers used AlphaFold to work out which parts of a gene-editing protein cause it to cut the wrong DNA — then redesigned those parts. AI as a lab instrument, not a chatbot.",
+  "key_points": [
+    "A team used Google DeepMind's AlphaFold to redesign gene-editing proteins to be safer, per Ars Technica.",
+    "AlphaFold predicts a protein's 3D shape — the thing that determines what it does.",
+    "It helped identify which parts of the protein enable editing mistakes.",
+    "Gene-editing errors mean cutting DNA at the wrong place, a core safety problem in the field.",
+    "Knowing which part causes the errors is what makes a targeted redesign possible.",
+    "This is AI as a scientific tool: narrow, checkable, and validated in a lab."
+  ],
+  "content_html": "\u003cp\u003eNot all useful AI is a chatbot. Ars Technica reports that a research team used AlphaFold — Google DeepMind's protein-structure prediction system — to redesign gene-editing proteins so they make fewer mistakes.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA little background makes the result land. Proteins are molecular machines, and what a protein does depends almost entirely on the intricate 3D shape it folds into. Predicting that shape from a protein's ingredient list was one of biology's great unsolved problems for fifty years, and AlphaFold largely cracked it. Gene editors like CRISPR are themselves proteins, guided to a specific spot in DNA to make a cut. Their central safety problem is that they sometimes cut in the wrong place — an \u0026quot;off-target\u0026quot; edit, which in a medical setting is exactly the kind of error you cannot take back.\u003c/p\u003e\n\u003cp\u003eWhat AlphaFold contributed, per Ars, was pinpointing which parts of the editing protein enable those mistakes. That's the hard part: once you know which piece is responsible, redesigning it becomes an engineering problem instead of a guessing game. It's worth noticing the shape of this success. The AI didn't \u0026quot;understand\u0026quot; biology or invent a therapy — it did one narrow, well-defined job extremely well, and human researchers tested the results at the bench. That combination, rather than anything conversational, is where AI has been quietly changing science.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "John Timmer"
+    ],
+    "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer",
+    "published_at": "2026-07-24",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-healthcare",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_eb781a",
+      "slug": "ai-in-healthcare",
+      "type": "concept",
+      "title": "AI in Healthcare",
+      "hook": "AI can spot a tumor on a scan faster than a tired radiologist and flag patterns no one would catch by eye. It's a powerful assistant to doctors — not a replacement for one.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_63018c",
+      "slug": "claude-science-launch",
+      "type": "news",
+      "title": "Anthropic Launches Claude Science, an AI Lab Assistant for Researchers",
+      "hook": "Anthropic's new Claude Science autonomously runs experiments for researchers — the same 'give it a goal, let it work' approach behind Claude Code, now aimed at biology and chemistry.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4b011a#0",
+      "format": "quiz",
+      "prompt": "What does AlphaFold actually predict?",
+      "choices": [
+        {
+          "text": "The three-dimensional shape a protein folds into",
+          "correct": true
+        },
+        {
+          "text": "Which diseases a patient will develop",
+          "correct": false
+        },
+        {
+          "text": "The best wording for a research paper",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAlphaFold predicts protein structure — the 3D shape that largely determines what a\nprotein does. That's why it's useful for redesigning one.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4b011a#1",
+      "format": "flip",
+      "prompt": "How did AI help make gene editing safer here?",
+      "back_html": "\u003cp\u003eIt helped identify which parts of the gene-editing protein enable mistakes, so\nresearchers could redesign those specific parts rather than guess.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4b011a#2",
+      "format": "flip",
+      "prompt": "How is this kind of AI different from a chatbot?",
+      "back_html": "\u003cp\u003eIt does one narrow, checkable job — predicting structure — and its output gets\ntested in a lab. A chatbot's fluent answer carries no such verification.\u003c/p\u003e"
+    }
+  ]
+}

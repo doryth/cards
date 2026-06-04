@@ -1,0 +1,99 @@
+{
+  "id": "card_645288",
+  "slug": "apoe2-protects-neurons",
+  "type": "news",
+  "title": "APOE2: The Alzheimer's Gene Variant That Protects You",
+  "hook": "Everyone knows APOE4 raises Alzheimer's risk. Its rare cousin APOE2 does the opposite — and researchers just watched why: those neurons take less DNA damage and repair it faster.",
+  "key_points": [
+    "The APOE gene comes in three common forms — APOE2, APOE3, APOE4 — differing by only two amino acids.",
+    "APOE4 is the strongest known genetic risk factor for late-onset Alzheimer's; APOE2 is repeatedly linked to longer life and lower dementia risk.",
+    "In lab-grown human neurons, APOE2 cells accumulated less DNA damage than the other variants.",
+    "RNA sequencing showed APOE2 neurons strongly switch on DNA repair and damage-response pathways.",
+    "After radiation or chemotherapy stress, APOE2 neurons showed fewer cellular-aging markers, including p16 and CRYAB.",
+    "Published in Aging Cell by the Buck Institute, using human stem-cell-derived neurons and mice carrying human APOE variants."
+  ],
+  "content_html": "\u003cp\u003eIf you've heard of one Alzheimer's gene, it's APOE4 — the strongest known genetic risk factor for late-onset Alzheimer's, the kind that typically appears after 65. Less discussed is that the same gene comes in three common forms, APOE2, APOE3 and APOE4, differing by only two amino acids, and that the rare APOE2 version runs the other way: population studies keep linking it to longer life and lower dementia risk. A team at the Buck Institute for Research on Aging set out to find the cellular reason, and reported it in Aging Cell.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWorking with human induced pluripotent stem cells coaxed into two kinds of neurons, plus hippocampal tissue from older mice engineered to carry human APOE variants, the researchers found APOE2 neurons accumulated less DNA damage than their APOE3 and APOE4 counterparts. RNA sequencing pointed at the mechanism: APOE2 neurons strongly activated pathways for DNA repair and damage response. And when the cells were deliberately stressed with radiation or chemotherapy, APOE2 neurons showed lower levels of senescence markers — including p16 and CRYAB — the molecular signatures of cells that have given up dividing and started leaking inflammatory signals. As senior author Lisa M. Ellerby put it: \u0026quot;Our work shows that APOE2 neurons are better at preventing and repairing DNA damage, and they resist the cellular aging program that drives so much of late-life decline.\u0026quot;\u003c/p\u003e\n\u003cp\u003eThe practical hope isn't that you can acquire APOE2 — you either inherited it or you didn't. It's that understanding the trick opens a target. Most Alzheimer's drug development has aimed at amyloid or at lipid handling; this points instead at DNA repair and cellular senescence, and at the possibility of giving APOE4 carriers a pharmacological version of the protection APOE2 carriers were born with.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260723084856.htm",
+    "published_at": "2026-07-24",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "healthy-aging",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_d7624e",
+      "slug": "what-triggers-alzheimers",
+      "type": "news",
+      "title": "Maybe Plaques Aren't the Whole Story",
+      "hook": "New research suggests Alzheimer's may start not with plaques themselves, but with amyloid beta interfering with tau — the protein that keeps neurons running.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_2ead17",
+      "slug": "keeping-your-brain-healthy",
+      "type": "concept",
+      "title": "Keeping Your Brain Healthy",
+      "hook": "No pill prevents dementia, but the habits that protect your heart turn out to protect your brain too.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_a0a7c6",
+      "slug": "superagers-genes-dont-explain",
+      "type": "news",
+      "title": "SuperAgers' Memories Are Extraordinary. Their Genes Are Not.",
+      "hook": "People in their 80s with the memory of a 50-year-old were expected to have lucky DNA. They don't — their Alzheimer's risk genes look like everyone else's, which points the search back at life itself.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_645288#0",
+      "format": "quiz",
+      "prompt": "How do the three common APOE variants relate to Alzheimer's risk?",
+      "choices": [
+        {
+          "text": "APOE4 raises risk the most of any known gene; APOE2 is linked to lower dementia risk and longer life",
+          "correct": true
+        },
+        {
+          "text": "All three variants carry identical risk",
+          "correct": false
+        },
+        {
+          "text": "APOE2 raises risk and APOE4 is protective",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAPOE4 is the strongest known genetic risk factor for late-onset Alzheimer's. APOE2, the\nrare variant, has repeatedly been linked in population studies to longer life and reduced\ndementia risk — despite the three forms differing by only two amino acids.\u003c/p\u003e"
+    },
+    {
+      "id": "card_645288#1",
+      "format": "flip",
+      "prompt": "What did APOE2 neurons do differently in the lab?",
+      "back_html": "\u003cp\u003eTwo things: they \u003cstrong\u003eaccumulated less DNA damage\u003c/strong\u003e to begin with, and they \u003cstrong\u003eswitched on\nDNA repair and damage-response pathways\u003c/strong\u003e more strongly — so they also recovered faster\nafter being stressed with radiation or chemotherapy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_645288#2",
+      "format": "flip",
+      "prompt": "Why does this finding matter for people who carry the risky APOE4 variant?",
+      "back_html": "\u003cp\u003eIf researchers can work out \u003cem\u003ehow\u003c/em\u003e APOE2 protects cells, they might mimic those defenses\nwith a drug — a therapeutic direction aimed at DNA repair and cellular aging rather than\nthe usual amyloid and lipid targets.\u003c/p\u003e"
+    }
+  ]
+}

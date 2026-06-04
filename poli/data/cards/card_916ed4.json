@@ -1,0 +1,129 @@
+{
+  "id": "card_916ed4",
+  "slug": "congressional-incapacity-and-disclosure",
+  "type": "news",
+  "title": "There's No 25th Amendment for Congress",
+  "hook": "When a president is incapacitated, the Constitution has a formal fix: the 25th Amendment. When a senator is hospitalized for weeks with no details given, there isn't one.",
+  "key_points": [
+    "The 25th Amendment lets the vice president and Cabinet formally declare a president unable to serve, temporarily transferring power.",
+    "No equivalent constitutional mechanism exists for Congress — a senator or representative can remain in office through a long illness with no formal disclosure required.",
+    "A chamber can expel its own member, but only by a two-thirds vote, and that power has historically been used for misconduct, not health.",
+    "In 2026, Sen. Mitch McConnell's weeks-long hospitalization renewed calls for more transparency about lawmakers' health, following earlier cases of prolonged, undisclosed absences.",
+    "Absent a constitutional requirement, whatever disclosure happens depends on the choices of the lawmaker, their office, and their party."
+  ],
+  "content_html": "\u003cp\u003eThe Constitution anticipated that a president might become unable to do the job, and built a formal process for it: the 25th Amendment lets the vice president and Cabinet declare the president incapacitated and temporarily hand off power. Congress never got an equivalent.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat gap became visible again in 2026, when Sen. Mitch McConnell was hospitalized for nearly four weeks with scant public detail, NPR's Sam Gringlas reported — not the first time in recent memory a member of Congress has been absent for an extended stretch without much explanation. A chamber can expel one of its own members, but only with a two-thirds vote, a threshold and a tool historically reserved for misconduct rather than illness. Short of that, nothing in the Constitution requires a senator or representative to disclose a health condition or step aside — whatever transparency exists is a matter of individual, office, or party choice, not law. (This card describes the U.S. Congress specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Sam Gringlas"
+    ],
+    "url": "https://npr.org/2026/07/10/nx-s1-5885905/as-sen-mitch-mcconnell-remains-hospitalized-calls-for-transparency-grow",
+    "published_at": "2026-07-10",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_63346f",
+      "slug": "the-legislature",
+      "type": "concept",
+      "title": "The Legislature",
+      "hook": "The branch that makes the law is also where a society argues out loud — the legislature turns competing interests into binding rules through debate and votes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_015396",
+      "slug": "checks-and-balances",
+      "type": "concept",
+      "title": "Checks and Balances",
+      "hook": "Separating power isn't enough — each branch also gets tools to limit the others, so power keeps power in check.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_63346f",
+      "slug": "the-legislature",
+      "type": "concept",
+      "title": "The Legislature",
+      "hook": "The branch that makes the law is also where a society argues out loud — the legislature turns competing interests into binding rules through debate and votes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_916ed4#0",
+      "format": "flip",
+      "prompt": "What does the 25th Amendment do, and why doesn't it help with an incapacitated member of Congress?",
+      "back_html": "\u003cp\u003eIt lets the vice president and Cabinet formally declare a president\nunable to serve. It applies only to the presidency — Congress has no\nconstitutional equivalent for its own members.\u003c/p\u003e"
+    },
+    {
+      "id": "card_916ed4#1",
+      "format": "quiz",
+      "prompt": "How can a chamber of Congress remove one of its own incapacitated or absent members?",
+      "choices": [
+        {
+          "text": "Only by a two-thirds expulsion vote, a power historically used for misconduct rather than health",
+          "correct": true
+        },
+        {
+          "text": "A simple majority vote of the full chamber, for any reason",
+          "correct": false
+        },
+        {
+          "text": "The president can remove them directly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eExpulsion is the formal mechanism, but its high threshold and\nhistorical use make it a poor fit for handling illness or incapacity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_916ed4#2",
+      "format": "quiz",
+      "prompt": "What determines how much a lawmaker discloses about a serious health issue?",
+      "choices": [
+        {
+          "text": "Their own choice, and that of their office and party — there's no constitutional disclosure requirement",
+          "correct": true
+        },
+        {
+          "text": "A binding federal transparency law requiring full medical disclosure",
+          "correct": false
+        },
+        {
+          "text": "Automatic disclosure triggered after a fixed number of missed votes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUnlike the presidency's 25th Amendment process, Congress has no formal\nrule forcing disclosure — it depends entirely on individual choices.\u003c/p\u003e"
+    }
+  ]
+}

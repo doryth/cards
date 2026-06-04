@@ -1,0 +1,114 @@
+{
+  "id": "card_c8ec35",
+  "slug": "lhcb-cpt-lorentz-test-bs-mesons",
+  "type": "paper",
+  "title": "Using B Mesons as a Compass for Broken Symmetry",
+  "hook": "If space had a preferred direction, particles would decay slightly differently depending on which way the Earth was pointing. LHCb looked, using Bs mesons as the needle, and found nothing.",
+  "key_points": [
+    "CPT symmetry — swapping charge, mirroring space, reversing time — is a bedrock prediction of quantum field theory.",
+    "Losing CPT would also mean losing Lorentz invariance, so a violation would point at a preferred direction in space.",
+    "LHCb studied interference in Bs mesons decaying to Ds-pi, using 6 inverse femtobarns of 13 TeV collisions from 2015-2018.",
+    "Because the Earth rotates, a preferred cosmic direction would make the decay rate vary over the sidereal day.",
+    "Interpreted in the Standard Model Extension, the results reach sensitivity to the Lorentz-violating parameter at the 10^-14 GeV level.",
+    "The CPT-violating parameter comes out consistent with zero: Re(z) = 0.018 +/- 0.016 +/- 0.003."
+  ],
+  "content_html": "\u003cp\u003eSome symmetries in physics are approximate and some are supposed to be exact. CPT — swap every particle for its antiparticle, mirror space, and run time backwards — is in the second category: quantum field theory says the combined operation must leave physics unchanged. So it is worth checking, hard, and LHCb has just checked it about as hard as anyone has in this particular system.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe measurement uses interference in Bs mesons decaying to a Ds meson and a pion, drawn from 6 inverse femtobarns of proton-proton collisions at 13 TeV recorded between 2015 and 2018. The trick is that CPT violation is tightly tied to Lorentz-invariance violation: if CPT breaks, spacetime has a preferred direction, and the Earth's daily rotation would sweep the detector's orientation relative to it, so the measured decay behaviour would wobble over the sidereal day. Interpreting the results in the Standard Model Extension — the standard bookkeeping framework for such effects — LHCb reaches sensitivity to the Lorentz-violating parameter at the level of 10^-14 GeV. Without assuming any Lorentz violation, the CPT-violating parameter z in the Bs system comes out as Re(z) = 0.018 +/- 0.016 +/- 0.003 and Im(z) = 0.003 +/- 0.004 +/- 0.002, both compatible with zero. These are the most precise CPT constraints yet in this system. A null result, but the kind that costs a lot of collisions to earn.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "LHCb collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2609.02475",
+    "published_at": "2026-09-02",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_6bbb28",
+      "slug": "lhcb-cp-violation-b-to-kpipi",
+      "type": "paper",
+      "title": "Six New Ways Matter and Antimatter Disagree",
+      "hook": "LHCb re-analysed a single B-meson decay and found six separate signatures of matter–antimatter asymmetry — including the first ever seen in a spin-3 resonance.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_987298",
+      "slug": "special-relativity-basics",
+      "type": "concept",
+      "title": "Special Relativity, Gently",
+      "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_732da9",
+      "slug": "tighter-limits-on-mirror-neutrons",
+      "type": "paper",
+      "title": "Hunting Neutrons That Vanish Into a Dark Sector",
+      "hook": "If a neutron could turn into an invisible sterile twin, baryon number would not be conserved and dark matter would gain a suspect. Oak Ridge just pushed that limit ten times tighter.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-21"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c8ec35#0",
+      "format": "flip",
+      "prompt": "What are the three operations combined in CPT symmetry?",
+      "back_html": "\u003cp\u003eCharge conjugation (swap particles for antiparticles), parity (mirror space), and time\nreversal. Quantum field theory predicts the combination is an exact symmetry.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c8ec35#1",
+      "format": "quiz",
+      "prompt": "Why does testing CPT also test Lorentz invariance?",
+      "choices": [
+        {
+          "text": "The two are linked, so a CPT violation would imply a preferred direction in space",
+          "correct": true
+        },
+        {
+          "text": "Because CPT is another name for Lorentz invariance",
+          "correct": false
+        },
+        {
+          "text": "Because both only apply to mesons",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn quantum field theory the two symmetries are tied together, which is why LHCb interprets\nthe same measurement in the Standard Model Extension framework for Lorentz violation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c8ec35#2",
+      "format": "flip",
+      "prompt": "How does the Earth's rotation help this search?",
+      "back_html": "\u003cp\u003eIf space had a preferred direction, the detector's orientation relative to it would sweep\nthrough the sidereal day, making the measured decay behaviour vary with time of day.\u003c/p\u003e"
+    }
+  ]
+}

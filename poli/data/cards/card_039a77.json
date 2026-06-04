@@ -1,0 +1,126 @@
+{
+  "id": "card_039a77",
+  "slug": "deepfakes-that-borrow-a-format",
+  "type": "news",
+  "title": "The Deepfake That Doesn't Have to Fool You Twice",
+  "hook": "The most effective synthetic video isn't the most realistic one. It's the one that looks like something you already scroll past every day — a talk-show clip about yesterday's news.",
+  "key_points": [
+    "AI-generated clips of late-night hosts like Jimmy Kimmel and Jon Stewart are spreading, some drawing hundreds of thousands of views.",
+    "They are cheap to make: a host sits still and talks to camera, and hours of clean voice recordings exist to clone.",
+    "Dartmouth's Hany Farid described the recipe as a single image plus fifteen seconds of voice plus a script.",
+    "The camouflage is format, not fidelity — real clips like these fill feeds daily, so a fake one inherits their built-in context and trust.",
+    "Platforms require AI labels and offer takedowns, but volume defeats them: NPR found unlabeled fakes still up weeks and months after posting.",
+    "Legal remedies are thin — copyright covers works, not synthetic doubles; the federal TAKE IT DOWN Act reaches only intimate deepfakes."
+  ],
+  "content_html": "\u003cp\u003eThe intuition about deepfakes is that danger scales with realism. The talk-show fakes now spreading on social media suggest something else matters more: fitting an existing habit. NPR's Chloe Veltman reports on AI-generated clips of Jimmy Kimmel and Jon Stewart commenting on the day's political news, some drawing hundreds of thousands of views and comments from people who plainly take them as real.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo things make the genre work. Technically, it is cheap — a host normally sits or stands and talks straight to camera, and years of recorded monologues make voice cloning easy. Dartmouth computer scientist Hany Farid described the whole production as one image, fifteen seconds of voice, a script, go. Socially, it is camouflaged: as LateNighter's Jed Rosenzweig put it, a Kimmel thumbnail attached to yesterday's news \u0026quot;has to look like one more Jimmy Kimmel clip in a feed that's already filled with Jimmy Kimmel clips.\u0026quot; The tells — odd gestures, writing that doesn't sound like a live monologue — only show up if you are looking.\u003c/p\u003e\n\u003cp\u003eThe governance gap is the durable lesson. TikTok, Google and Meta told NPR they require AI disclosure and offer takedown routes, but NPR found unlabeled fakes still online weeks and months later. Intellectual property litigator Louis Tompros describes the law as having a gap here: copyright addresses unauthorized use of creative works, not unauthorized synthetic versions of people. Some states protect voice and likeness, and the federal TAKE IT DOWN Act criminalizes intimate deepfakes — but political commentary put in someone else's mouth mostly falls outside both.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Chloe Veltman"
+    ],
+    "url": "https://npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
+    "published_at": "2026-08-30",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "technology-and-politics",
+    "media-civil-society"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-30",
+  "related": [
+    {
+      "id": "card_c16f42",
+      "slug": "disinformation-and-propaganda",
+      "type": "concept",
+      "title": "Disinformation \u0026 Propaganda",
+      "hook": "Democracy depends on citizens being informed — so deliberately polluting what they know is a direct attack on it. That's the threat of propaganda and disinformation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_21c32c",
+      "slug": "ai-text-messages-and-campaigns",
+      "type": "news",
+      "title": "When a 'Candidate' Texting You Is Actually a Bot",
+      "hook": "Campaigns have always texted voters. Now some of those texts are AI-generated conversations trained to sound like the candidate — personalized, responsive, and not always clearly labeled.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "card_78d994",
+      "slug": "media-and-conspiracy-belief",
+      "type": "blog",
+      "title": "Media \u0026 Conspiracy Belief",
+      "hook": "Does what you watch shape what you believe? Researchers report that viewing one partisan cable outlet is associated with greater belief in a debunked conspiracy idea.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-02"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_c16f42",
+      "slug": "disinformation-and-propaganda",
+      "type": "concept",
+      "title": "Disinformation \u0026 Propaganda",
+      "hook": "Democracy depends on citizens being informed — so deliberately polluting what they know is a direct attack on it. That's the threat of propaganda and disinformation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_039a77#0",
+      "format": "quiz",
+      "prompt": "Why are late-night hosts unusually easy targets for convincing deepfakes?",
+      "choices": [
+        {
+          "text": "They sit still talking to camera, and abundant clean audio exists to clone their voices",
+          "correct": true
+        },
+        {
+          "text": "Their shows are not protected by copyright law",
+          "correct": false
+        },
+        {
+          "text": "Streaming platforms publish the raw video files used to train models",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA static talking-head shot is the simplest thing to animate, and years of\nrecorded monologues supply high-quality voice samples.\u003c/p\u003e"
+    },
+    {
+      "id": "card_039a77#1",
+      "format": "flip",
+      "prompt": "What does it mean to say a fake video is camouflaged by its format?",
+      "back_html": "\u003cp\u003eIt imitates content the viewer already sees constantly — a host commenting\non yesterday's news — so it borrows the trust and context of the genuine\nclips surrounding it in the feed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_039a77#2",
+      "format": "flip",
+      "prompt": "Why don't existing U.S. laws squarely address this kind of deepfake?",
+      "back_html": "\u003cp\u003eCopyright protects creative works, not a person's synthetic double. The\nfederal TAKE IT DOWN Act covers non-consensual intimate deepfakes; a few\nstates protect voice and likeness, leaving commentary fakes largely uncovered.\u003c/p\u003e"
+    }
+  ]
+}

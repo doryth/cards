@@ -1,0 +1,100 @@
+{
+  "id": "card_140092",
+  "slug": "why-plants-run-the-planet",
+  "type": "concept",
+  "title": "Why Plants Run the Planet",
+  "hook": "Nearly every breath you take and every meal you eat traces back to plants — they make the oxygen, anchor the food chain, and lock away carbon for the whole biosphere.",
+  "key_points": [
+    "Plants release the oxygen most animals breathe, as a byproduct of photosynthesis.",
+    "They form the base of nearly all food chains, feeding herbivores and beyond.",
+    "Plants pull carbon dioxide from the air, storing carbon and slowing warming.",
+    "Roots hold soil in place and plants help regulate water cycles and climate.",
+    "Without plants converting sunlight into food, most land ecosystems would collapse."
+  ],
+  "content_html": "\u003cp\u003eIt's hard to overstate how much the living world leans on plants. Through photosynthesis, they take sunlight, water, and carbon dioxide and turn them into food — and they release oxygen as a byproduct, supplying most of the air animals breathe. Because plants make their own food, they sit at the base of almost every food chain: the energy in a wolf, a hawk, or you originally came from a plant catching sunlight. Remove plants and the entire structure above them starves.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePlants also quietly run planetary systems. By pulling carbon dioxide out of the atmosphere and storing the carbon in leaves, wood, and roots, forests and grasslands act as a natural brake on climate change. Their roots hold soil together against erosion, and by moving water from ground to air they help drive rainfall and regulate local climate. In ecological terms, plants are the primary producers — the organisms that convert raw sunlight into usable energy for everyone else. As Khan Academy's introduction to photosynthesis makes clear, this single chemical trick is the engine behind oxygen, food, and a livable climate alike.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants/the-light-dependent-reactions-of-photosynthesis/a/intro-to-photosynthesis",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "plants"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_4be834",
+      "slug": "photosynthesis",
+      "type": "concept",
+      "title": "Photosynthesis",
+      "hook": "Plants pull carbon dioxide from the air and water from the soil, and using only sunlight, build sugar — releasing the oxygen you're breathing right now.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aa2c1d",
+      "slug": "how-plants-are-built",
+      "type": "concept",
+      "title": "How a Plant Is Built",
+      "hook": "Most plants are made of three working parts — roots that drink, stems that lift, and leaves that catch sunlight — and together they turn dirt and light into a living thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_140092#0",
+      "format": "flip",
+      "prompt": "Why are plants the foundation of most food chains?",
+      "back_html": "\u003cp\u003ePlants make their own food from sunlight, so they're the \u003cstrong\u003eprimary producers\u003c/strong\u003e.\nHerbivores eat plants, predators eat herbivores — nearly all that energy starts with plants.\u003c/p\u003e"
+    },
+    {
+      "id": "card_140092#1",
+      "format": "quiz",
+      "prompt": "Where does most of the oxygen animals breathe come from?",
+      "choices": [
+        {
+          "text": "Plants and other photosynthesizers release it as a byproduct",
+          "correct": true
+        },
+        {
+          "text": "It is produced inside animal lungs",
+          "correct": false
+        },
+        {
+          "text": "It seeps out of rocks in the ground",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePhotosynthesis splits water and gives off oxygen as waste. That oxygen, built up\nover billions of years, is what most living things now breathe.\u003c/p\u003e"
+    },
+    {
+      "id": "card_140092#2",
+      "format": "quiz",
+      "prompt": "How do plants help slow climate change?",
+      "choices": [
+        {
+          "text": "They absorb carbon dioxide from the air and store the carbon",
+          "correct": true
+        },
+        {
+          "text": "They radiate heat back into space",
+          "correct": false
+        },
+        {
+          "text": "They produce extra carbon dioxide",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDuring photosynthesis plants pull CO2 out of the air and lock the carbon into their\ntissues, acting as a natural brake on the buildup of this warming gas.\u003c/p\u003e"
+    }
+  ]
+}

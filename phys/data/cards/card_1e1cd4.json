@@ -1,0 +1,95 @@
+{
+  "id": "card_1e1cd4",
+  "slug": "light-programmable-superconductor",
+  "type": "paper",
+  "title": "Phase coherence control of a programmable high-Tc superconductor created by light",
+  "hook": "For 50+ years physicists chased superconductivity switched on by light — now a laser can write it, dial its temperature up or down, and erase it again, like a dimmer switch.",
+  "key_points": [
+    "The quest for light-induced superconductivity has run over 50 years without direct proof it could be created and controlled.",
+    "Physicists made a 'light-programmable superconducting' (LiPS) state at an aluminum-silicon interface with femtosecond laser pulses.",
+    "Tailored light-pulse sequences raise or erase the superconducting critical temperature (1.8-8.5 K) at will.",
+    "The effect comes from light controlling a moiré-like superlattice of lattice-mismatch dislocations at the interface.",
+    "The state behaves as effectively two-dimensional, showing vortex pinning and creep under a magnetic field.",
+    "It points toward light-'written' superconducting circuits and tunable quantum-processor components."
+  ],
+  "content_html": "\u003cp\u003ePhysicists have chased the idea of switching superconductivity on with light for more than fifty years, but no one had directly shown a zero-resistance state that light could both create and fully control — until now. A team has built exactly that: a superconductor you can dial up, down, or erase with tailored laser pulses, like a dimmer switch.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eViktoria Yursa, Igor Vaskivskyi, Dragan Mihailovic, and colleagues created the effect — dubbed LiPS, for light-programmable superconductivity — at an aluminum-silicon interface using femtosecond laser pulses. The superconducting critical temperature, tunable between 1.8 and 8.5 Kelvin, can be raised or erased just by changing the light-pulse sequence. The team traces the effect to light controlling a moiré-like pattern of tiny lattice-mismatch dislocations that naturally form where aluminum meets silicon, visible under high-resolution electron microscopy. Under a magnetic field, the material behaves like an effectively two-dimensional superconductor. The authors say the demonstration opens a path toward locally \u0026quot;writing\u0026quot; superconducting circuits or tuning quantum processors with light.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Viktoria Yursa",
+      "Igor Vaskivskyi",
+      "Dragan Mihailovic"
+    ],
+    "url": "https://arxiv.org/abs/2607.14567",
+    "published_at": "2026-07-16",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d37946",
+      "slug": "ai-superconductor-discovery",
+      "type": "news",
+      "title": "AI Just Helped Find Two New Superconductors",
+      "hook": "Machine learning helped physicists find two new superconductors and sketch a faster route toward physics' biggest prize in the field: a superconductor that works at room temperature.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1e1cd4#0",
+      "format": "flip",
+      "prompt": "What is new about the 'light-programmable superconducting' (LiPS) state reported here?",
+      "back_html": "\u003cp\u003eIt's the first zero-resistance state whose critical temperature can be both created and fully\ncontrolled — raised or erased at will — using tailored laser pulses.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1e1cd4#1",
+      "format": "quiz",
+      "prompt": "What causes the LiPS effect, according to the researchers?",
+      "choices": [
+        {
+          "text": "Light controlling a moiré-like superlattice of lattice-mismatch dislocations at the interface",
+          "correct": true
+        },
+        {
+          "text": "A chemical reaction between the aluminum and silicon atoms",
+          "correct": false
+        },
+        {
+          "text": "Cooling the material to near absolute zero",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe dislocation superlattice that naturally forms between the aluminum and silicon lattices is\nwhat light pulses tune to switch superconductivity on or off.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1e1cd4#2",
+      "format": "flip",
+      "prompt": "How is the LiPS state's critical temperature controlled?",
+      "back_html": "\u003cp\u003eBy applying different tailored sequences of femtosecond laser pulses — it can be raised or\nerased at will, across a range of 1.8 to 8.5 Kelvin.\u003c/p\u003e"
+    }
+  ]
+}

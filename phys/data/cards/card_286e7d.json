@@ -1,0 +1,103 @@
+{
+  "id": "card_286e7d",
+  "slug": "quantum-hydrogen-trapping-in-iron",
+  "type": "paper",
+  "title": "Quantum Hydrogen Is What Cracks Steel",
+  "hook": "Hydrogen makes steel brittle. It is also light enough that room-temperature quantum effects matter — and those effects turn out to strongly boost where hydrogen collects.",
+  "key_points": [
+    "Hydrogen embrittlement depends on how hydrogen diffuses and gets trapped at defects in iron.",
+    "Hydrogen is the lightest solute in metals, so nuclear quantum effects change its behaviour even at room temperature.",
+    "Treating those effects explicitly is expensive, which has kept large simulations classical.",
+    "The trick: relabel an existing machine-learning potential's training data with quantum mean forces from path-integral molecular dynamics at 300 K — no new DFT needed.",
+    "The corrected potential shows quantum effects markedly enhance hydrogen segregation at general grain boundaries, matching experimental trends better.",
+    "The mechanism is selective quantum stabilisation of open, anisotropically soft local environments."
+  ],
+  "content_html": "\u003cp\u003eHydrogen embrittlement is an expensive, unglamorous problem: hydrogen seeps into steel, collects at defects, and the metal cracks. Predicting it means tracking where individual hydrogen atoms diffuse and get trapped — at vacancies, dislocations, surfaces, and the grain boundaries between crystal domains. Machine-learned interatomic potentials have made those simulations big enough to be realistic. They have also, until now, treated hydrogen nuclei as classical points.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat's a real approximation, because hydrogen is the lightest solute a metal can host, light enough that its nucleus behaves quantum mechanically at room temperature. Handling that properly means path-integral molecular dynamics, which is far too costly to run at scale. Kazuma Ito's shortcut is to correct the potential rather than the simulation: take an existing Fe–H potential built on the atomic cluster expansion, and relabel the very configurations that gave it its transferability with quantum mean forces computed from centroid-constrained path-integral dynamics at 300 K. No additional density-functional calculations are needed, and the result is a nuclear-quantum-corrected potential that costs the same to run as the classical parent.\u003c/p\u003e\n\u003cp\u003eWith it, grand-canonical Monte Carlo and molecular dynamics show that quantum effects markedly increase hydrogen segregation at general grain boundaries, moving trapping behaviour closer to what experiments see. The mechanism Ito identifies is selective: quantum motion stabilises hydrogen preferentially in open, anisotropically soft local environments — which is exactly what a messy grain boundary provides.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Kazuma Ito"
+    ],
+    "url": "https://arxiv.org/abs/2608.16652",
+    "published_at": "2026-08-17",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-20",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_90926c",
+      "slug": "parity-labels-keep-materials-ai-honest",
+      "type": "paper",
+      "title": "One Design Bit Decides If Your Materials AI Talks Nonsense",
+      "hook": "Symmetry forces some material properties to be exactly zero. Whether a machine-learning model can respect that is fixed before training — by whether its features track parity.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_a17911",
+      "slug": "why-gold-never-tarnishes",
+      "type": "news",
+      "title": "Gold's Secret Self-Defense Against Tarnishing",
+      "hook": "Gold jewelry stays bright for centuries, and it turns out gold's surface atoms are actively rearranging themselves to keep oxygen from ever getting a grip.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "card_3ad16a",
+      "slug": "states-of-matter",
+      "type": "concept",
+      "title": "States of Matter",
+      "hook": "Solid, liquid, gas, plasma — the difference is how tightly particles are bound. Add heat and matter changes state, but during the change the temperature holds still.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_286e7d#0",
+      "format": "quiz",
+      "prompt": "Why do nuclear quantum effects matter for hydrogen in iron even at room temperature?",
+      "choices": [
+        {
+          "text": "Hydrogen is the lightest solute in metals, so its nucleus behaves quantum mechanically at ordinary temperatures",
+          "correct": true
+        },
+        {
+          "text": "Iron's magnetism amplifies quantum effects in any solute",
+          "correct": false
+        },
+        {
+          "text": "Grain boundaries are cold spots inside the metal",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eQuantum behaviour of a nucleus scales with how light it is. Hydrogen is light enough that\nzero-point motion and tunnelling shift its diffusion and trapping at 300 K.\u003c/p\u003e"
+    },
+    {
+      "id": "card_286e7d#1",
+      "format": "flip",
+      "prompt": "How did the author add quantum corrections without new first-principles calculations?",
+      "back_html": "\u003cp\u003eBy \u003cstrong\u003erelabelling\u003c/strong\u003e the existing machine-learning potential's training configurations with\nquantum mean forces from centroid-constrained path-integral molecular dynamics at 300 K —\nreusing the configurational space, not recomputing it with DFT.\u003c/p\u003e"
+    },
+    {
+      "id": "card_286e7d#2",
+      "format": "flip",
+      "prompt": "What did the quantum-corrected potential change about hydrogen segregation?",
+      "back_html": "\u003cp\u003eNuclear quantum effects \u003cstrong\u003emarkedly enhance\u003c/strong\u003e segregation at general grain boundaries,\nbringing trapping behaviour into closer agreement with experiment. The cause is selective\nquantum stabilisation of open, anisotropically soft local environments.\u003c/p\u003e"
+    }
+  ]
+}

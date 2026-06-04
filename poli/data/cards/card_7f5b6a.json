@@ -1,0 +1,121 @@
+{
+  "id": "card_7f5b6a",
+  "slug": "statute-vs-common-law",
+  "type": "concept",
+  "title": "Statute Law vs Common Law",
+  "hook": "Not all law is written by legislators. Some of it is built up, case by case, by judges — and these two sources of law work very differently.",
+  "key_points": [
+    "Statute law is enacted by a legislature: written, deliberate rules passed as legislation.",
+    "Common law is judge-made, accumulating through decisions in individual cases over time.",
+    "Precedent ('stare decisis') means courts generally follow earlier rulings, giving common law consistency.",
+    "Where they conflict, statute usually prevails — legislatures can override or codify judge-made rules."
+  ],
+  "content_html": "\u003cp\u003eWhen we picture law being \u0026quot;made,\u0026quot; we usually imagine a legislature passing a bill. That produces statute law — written, deliberate rules enacted through the legislative process. But in many countries a second, older source runs alongside it: common law, built not by legislators but by judges deciding individual cases. Over centuries, the accumulated reasoning of courts becomes a body of law in its own right, covering areas legislators never explicitly addressed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat gives judge-made law consistency is precedent — the principle of \u003cem\u003estare decisis\u003c/em\u003e, \u0026quot;let the decision stand\u0026quot; — under which courts generally follow earlier rulings on similar questions. This lets the law develop incrementally while staying predictable: like cases are decided alike. Encyclopaedia Britannica notes that common-law systems, which spread from England to much of the English-speaking world, contrast with civil-law systems built primarily around comprehensive written codes. In practice the two sources interact constantly. Legislatures can codify a judge-made rule into statute, or override one they dislike, and courts in turn interpret statutes whose wording is unclear. Where the two genuinely conflict, statute usually prevails, reflecting the principle that the elected legislature has the final say over the content of the law.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/common-law",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "how-laws-are-made"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_5bd59a",
+      "slug": "how-a-bill-becomes-law",
+      "type": "concept",
+      "title": "How a Bill Becomes a Law",
+      "hook": "An idea becomes binding law only after a journey: drafting, committee review, debate, votes, and final approval.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf95a8",
+      "slug": "what-is-a-constitution",
+      "type": "concept",
+      "title": "What a Constitution Is",
+      "hook": "The rulebook above the rules: a constitution sets out how a government is structured and the limits on its power.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4d0797",
+      "slug": "when-congress-overrides-the-court",
+      "type": "blog",
+      "title": "When Congress Overrides the Court",
+      "hook": "A high court's ruling isn't always the last word. When judges interpret a statute, the legislature can often just rewrite the law — unless the decision rests on the constitution itself.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7f5b6a#0",
+      "format": "flip",
+      "prompt": "What's the difference between statute law and common law?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eStatute law\u003c/strong\u003e is written and enacted by a legislature; \u003cstrong\u003ecommon law\u003c/strong\u003e\nis judge-made, built up case by case through court decisions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7f5b6a#1",
+      "format": "quiz",
+      "prompt": "What does the principle of precedent (stare decisis) mean?",
+      "choices": [
+        {
+          "text": "Courts generally follow earlier rulings on similar questions",
+          "correct": true
+        },
+        {
+          "text": "Every case must be decided by a national referendum",
+          "correct": false
+        },
+        {
+          "text": "Judges may ignore all past decisions at will",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eStare decisis — \u0026quot;let the decision stand\u0026quot; — gives common law consistency\nby binding courts to follow established precedent.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7f5b6a#2",
+      "format": "quiz",
+      "prompt": "When statute and common law conflict, which usually prevails?",
+      "choices": [
+        {
+          "text": "Statute — legislatures can override or codify judge-made rules",
+          "correct": true
+        },
+        {
+          "text": "Common law always overrides legislation",
+          "correct": false
+        },
+        {
+          "text": "Whichever is older",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA legislature can change the law by statute, overriding or restating\ncommon-law rules; statute generally takes priority.\u003c/p\u003e"
+    }
+  ]
+}

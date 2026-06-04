@@ -1,0 +1,122 @@
+{
+  "id": "card_4e3cf6",
+  "slug": "freedom-of-information",
+  "type": "concept",
+  "title": "Freedom of Information",
+  "hook": "You can't hold power to account for what you can't see. Freedom of information laws pry open the workings of government so citizens can actually check it.",
+  "key_points": [
+    "Freedom of information (FOI) is the public's right to access records held by government.",
+    "It rests on the principle that official information belongs to the public, with limited exceptions.",
+    "Transparency deters wrongdoing and enables real oversight and informed debate.",
+    "Exceptions (security, privacy) exist but can be misused to hide embarrassment."
+  ],
+  "content_html": "\u003cp\u003eAccountability depends on information: citizens, journalists, and watchdogs can only scrutinize what government actually does if they can find out what it is doing. Freedom of information (FOI) turns that requirement into a right — the legally recognized ability of the public to request and receive records held by public bodies. Its underlying principle is a quiet but powerful reversal of old assumptions about official secrecy: government information is presumed to belong to the public it serves, and should be open by default, with secrecy the exception that must be justified rather than the norm.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEncyclopaedia Britannica notes that freedom-of-information laws have spread widely as a tool of open and accountable government. Their value is practical. Transparency deters wrongdoing — officials behave differently when they know their decisions and spending can be examined — and it supplies the raw material for genuine oversight and informed public debate, complementing a free press and formal watchdog institutions. FOI is, in effect, the supply line for accountability. Of course, not all information can be open: legitimate exceptions protect things like national security, ongoing investigations, and personal privacy. But these exceptions are also the system's weak point, because they can be stretched. A government reluctant to be embarrassed may invoke \u0026quot;security\u0026quot; or \u0026quot;confidentiality\u0026quot; to withhold information that is merely inconvenient rather than genuinely sensitive. The ongoing challenge of FOI is therefore to keep the presumption of openness strong and the exceptions narrow and well-policed — so that secrecy protects the public interest rather than shielding power from scrutiny.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/freedom-of-information",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_44f315",
+      "slug": "political-corruption",
+      "type": "concept",
+      "title": "Political Corruption",
+      "hook": "Corruption is the abuse of entrusted power for private gain — and it quietly drains a society, eroding trust, fairness, and the resources meant for everyone.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b3bd44",
+      "slug": "free-press-and-democracy",
+      "type": "concept",
+      "title": "The Free Press \u0026 Democracy",
+      "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_4e3cf6#0",
+      "format": "flip",
+      "prompt": "What is freedom of information (FOI)?",
+      "back_html": "\u003cp\u003eThe public's \u003cstrong\u003eright to access records held by government\u003c/strong\u003e, on the\nprinciple that official information belongs to the public.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4e3cf6#1",
+      "format": "quiz",
+      "prompt": "Why does transparency support accountability?",
+      "choices": [
+        {
+          "text": "You can only hold power to account for actions you can actually see",
+          "correct": true
+        },
+        {
+          "text": "Because secrecy makes oversight easier",
+          "correct": false
+        },
+        {
+          "text": "Because it replaces the need for elections",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAccess to information lets citizens, journalists, and watchdogs detect\nand challenge wrongdoing — the foundation of oversight.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4e3cf6#2",
+      "format": "quiz",
+      "prompt": "What is the risk with FOI exceptions like 'national security'?",
+      "choices": [
+        {
+          "text": "Legitimate exceptions can be stretched to hide mere embarrassment",
+          "correct": true
+        },
+        {
+          "text": "They make all information public automatically",
+          "correct": false
+        },
+        {
+          "text": "They have never been used",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSome secrecy is justified, but broad or vague exceptions can be abused to\nconceal misconduct rather than protect genuine interests.\u003c/p\u003e"
+    }
+  ]
+}

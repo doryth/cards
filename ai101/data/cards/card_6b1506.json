@@ -1,0 +1,106 @@
+{
+  "id": "card_6b1506",
+  "slug": "ai-jargon-decoded",
+  "type": "concept",
+  "title": "AI Jargon, Decoded",
+  "hook": "Model, algorithm, LLM, GPT, training, parameters — the words get thrown around like everyone agrees what they mean. Here's the plain-English version.",
+  "key_points": [
+    "A model is the trained thing that makes predictions; an algorithm is the recipe used to build it.",
+    "An LLM (large language model) is an AI trained on huge amounts of text to predict words.",
+    "GPT just means a particular family of LLMs — the 'G-P-T' is technical plumbing.",
+    "'Training' is the learning phase; 'parameters' are the dials it tunes — billions of them."
+  ],
+  "content_html": "\u003cp\u003eA lot of AI conversation is really just vocabulary you haven't been handed yet. Strip the mystique and most of the words are simple. A \u003cstrong\u003emodel\u003c/strong\u003e is the trained thing that does the work — it takes an input and produces a prediction. An \u003cstrong\u003ealgorithm\u003c/strong\u003e is the method used to \u003cem\u003ecreate\u003c/em\u003e that model; think recipe (algorithm) versus the finished dish (model). \u003cstrong\u003eTraining\u003c/strong\u003e is the learning phase where the model improves by example, and \u003cstrong\u003eparameters\u003c/strong\u003e are the internal dials it adjusts along the way — today's big models have billions of them.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe brand names are less mysterious than they sound, too. An \u003cstrong\u003eLLM\u003c/strong\u003e — large language model — is just an AI trained on a huge amount of text whose core trick is predicting the next word; it's the engine inside chatbots. \u003cstrong\u003eGPT\u003c/strong\u003e refers to a specific family of these models, and the letters stand for technical design choices you don't need to memorize. You'll also hear \u003cstrong\u003egenerative\u003c/strong\u003e (AI that creates content), \u003cstrong\u003eprompt\u003c/strong\u003e (what you type in), \u003cstrong\u003etoken\u003c/strong\u003e (the chunks of text a model reads, roughly word-pieces), and \u003cstrong\u003einference\u003c/strong\u003e (the model actually running to answer you, as opposed to being trained). None of it requires a computer-science degree — it's a small glossary doing a lot of intimidating.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-jargon"
+  ],
+  "tags": [
+    "foundational",
+    "tutorial"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dcc196",
+      "slug": "how-llms-work",
+      "type": "concept",
+      "title": "How a Language Model Works",
+      "hook": "A chatbot isn't reading and thinking — it's running the world's most sophisticated autocomplete, picking each next word from probabilities learned across billions of sentences.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6b1506#0",
+      "format": "flip",
+      "prompt": "What's the difference between a 'model' and an 'algorithm'?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003ealgorithm\u003c/strong\u003e is the recipe/method for learning; the \u003cstrong\u003emodel\u003c/strong\u003e is the\ntrained result that recipe produces and that actually makes predictions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6b1506#1",
+      "format": "quiz",
+      "prompt": "What does 'LLM' stand for, in plain terms?",
+      "choices": [
+        {
+          "text": "Large language model — AI trained on lots of text to predict words",
+          "correct": true
+        },
+        {
+          "text": "Logical learning machine — a robot that reasons",
+          "correct": false
+        },
+        {
+          "text": "Low-level memory — a type of computer chip",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn LLM is a large language model: trained on enormous amounts of text, it\nworks by predicting likely next words. Chatbots are built on LLMs.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6b1506#2",
+      "format": "flip",
+      "prompt": "What are a model's 'parameters'?",
+      "back_html": "\u003cp\u003eThe internal dials the model tunes during training — modern models have\nbillions of them. More parameters can mean more capability, at higher cost.\u003c/p\u003e"
+    }
+  ]
+}

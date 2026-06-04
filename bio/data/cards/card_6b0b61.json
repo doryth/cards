@@ -1,0 +1,104 @@
+{
+  "id": "card_6b0b61",
+  "slug": "sound-localization-slow-dynamics",
+  "type": "paper",
+  "title": "How the Brain Times Sound to the Microsecond — Without a Stopwatch",
+  "hook": "Locating a sound relies on timing differences between your ears smaller than a millionth of a second — using neurons that individually react far slower than that. A new model explains how.",
+  "key_points": [
+    "Sound localization depends on interaural time differences (ITDs) as small as a few microseconds.",
+    "The classic 1948 Jeffress model assumed the brain uses precise wiring: fixed delay lines feeding coincidence-detector neurons.",
+    "A new model shows the same microsecond precision can emerge from a network settling into a stable equilibrium, on much slower neural timescales.",
+    "No finely-tuned delay circuitry is required — the population's collective dynamics do the work.",
+    "The model still reproduces known physiological patterns, like how 'best' delays vary with sound frequency."
+  ],
+  "content_html": "\u003cp\u003eYour brain can tell that a sound reached your left ear a few millionths of a second before your right — and use that gap to pinpoint where the sound came from. The puzzle is that the neurons doing this respond far more sluggishly than that. A new modeling paper offers an explanation.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe textbook explanation, proposed by Jeffress in 1948, imagined the brain wiring up literal delay lines: signals from each ear travel down neural pathways of carefully staggered lengths, and a \u0026quot;coincidence detector\u0026quot; neuron fires when two signals arrive at exactly the same moment — implicitly measuring the time difference. This new work proposes something different: interaural time is instead represented as a stable equilibrium point in the collective activity of a neural population, shaped by excitatory and inhibitory interactions across frequency channels. Despite relying on slow-moving population dynamics rather than exact timing circuitry, the resulting system still locates the equilibrium with microsecond precision, and reproduces real physiological patterns — such as how a neuron's preferred time delay shifts with sound frequency — without needing any finely tuned wiring at all.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv (q-bio.NC)",
+    "authors": [
+      "Toshio Irino"
+    ],
+    "url": "https://arxiv.org/abs/2607.03890",
+    "published_at": "2026-07-04",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-13",
+  "date": "2026-07-04",
+  "related": [
+    {
+      "id": "card_bb8f8a",
+      "slug": "the-senses",
+      "type": "concept",
+      "title": "The Senses",
+      "hook": "Light, sound, chemicals, and pressure can't enter your brain directly — your senses translate all of them into the one language your neurons understand: electrical signals.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_945f3f",
+      "slug": "neurons-and-signals",
+      "type": "concept",
+      "title": "Neurons and Signals",
+      "hook": "Your every thought, twitch, and feeling rides on tiny electrical pulses fired by neurons — and leaps the gaps between them as bursts of chemicals.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6b0b61#0",
+      "format": "flip",
+      "prompt": "Why is precise sound localization a puzzle for neuroscience?",
+      "back_html": "\u003cp\u003eIt requires sensitivity to timing differences between the ears of just a few\n\u003cstrong\u003emicroseconds\u003c/strong\u003e — yet the neurons involved individually respond on much slower,\nsluggish timescales.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6b0b61#1",
+      "format": "quiz",
+      "prompt": "What did the classic 1948 Jeffress model propose to explain this precision?",
+      "choices": [
+        {
+          "text": "Fixed-length neural 'delay lines' feeding coincidence-detector neurons",
+          "correct": true
+        },
+        {
+          "text": "A single neuron that directly measures the sound's travel time",
+          "correct": false
+        },
+        {
+          "text": "The eardrums physically synchronizing before any neural processing",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eJeffress proposed precise wiring: neurons tuned to detect coincidences after\nsignals traveled along delay lines of different fixed lengths.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6b0b61#2",
+      "format": "quiz",
+      "prompt": "What's the key idea in this new alternative model?",
+      "choices": [
+        {
+          "text": "Microsecond precision emerges from a network settling toward a stable equilibrium, without needing exact delay circuitry",
+          "correct": true
+        },
+        {
+          "text": "Each ear counts individual sound wave cycles and compares totals",
+          "correct": false
+        },
+        {
+          "text": "The brain ignores timing and localizes sound purely from loudness",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInstead of precise wiring, excitatory and inhibitory interactions across the\nneural population drive a slow dynamical system toward an equilibrium that\nencodes the estimated time difference — reproducing microsecond precision.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "card_81a9b2",
+  "slug": "wandering-black-hole-shreds-a-star",
+  "type": "news",
+  "title": "A Star's Violent Death Exposed a Black Hole in the Wrong Place",
+  "hook": "A supermassive black hole was caught 30,000 light-years off-centre in its galaxy — it only gave itself away by tearing apart a passing star.",
+  "key_points": [
+    "Supermassive black holes normally sit at galactic centres; this one lurks about 30,000 light-years out, the first dormant one found so far from a core.",
+    "It revealed itself by shredding a star that wandered too close — a tidal disruption event, which briefly outshone the whole host galaxy in ultraviolet.",
+    "NASA's Swift observatory caught the flare; the debris glow implies a black hole roughly a million times the Sun's mass.",
+    "Two explanations fit: it is the leftover core of a smaller galaxy swallowed long ago, or it was flung outward during a chaotic three-body encounter.",
+    "Dormant black holes are otherwise invisible, so tidal disruption flares are one of the few ways to count them."
+  ],
+  "content_html": "\u003cp\u003eSupermassive black holes are supposed to sit at the hearts of galaxies. This one doesn't. Astronomers found a black hole about a million times the Sun's mass sitting roughly 30,000 light-years from its galaxy's centre — the first dormant black hole ever caught that far out — and it only revealed itself by ripping apart a star that strayed too close.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eQuiet black holes emit essentially nothing, so they are effectively invisible. The exception is a tidal disruption event: when a star passes near enough, the difference in gravitational pull across the star exceeds what holds it together, and the star is pulled into a stream of gas that spirals in and glows ferociously. NASA's Swift observatory, which watches for such ultraviolet flares, caught this one briefly outshining its entire host galaxy — and the light curve let researchers weigh the black hole. Its position off in the galactic suburbs is the puzzle. One possibility is that it is the leftover core of a smaller galaxy that merged in long ago and hasn't yet sunk to the centre. Another is that it was kicked outward during a chaotic encounter among several black holes. Either way, the find suggests galaxies may host more of these hidden wanderers than anyone has counted, and that flares like this are the way to find them.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260805082457.htm",
+    "published_at": "2026-08-06"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "gravity-orbits"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-06",
+  "related": [
+    {
+      "id": "card_45fd41",
+      "slug": "black-hole-shreds-white-dwarf",
+      "type": "news",
+      "title": "A Black Hole Caught Shredding a White Dwarf",
+      "hook": "The Einstein Probe may have caught a long-sought 'missing link' black hole tearing apart a dense white dwarf star — and devouring it in a burst of X-ray flashes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_81a9b2#0",
+      "format": "flip",
+      "prompt": "How can astronomers spot a black hole that isn't actively feeding?",
+      "back_html": "\u003cp\u003eWait for it to eat something. When a star wanders too close, tidal forces\nshred it and the debris flares brightly — a \u003cstrong\u003etidal disruption event\u003c/strong\u003e — which\nis one of the few ways a dormant black hole betrays its position.\u003c/p\u003e"
+    },
+    {
+      "id": "card_81a9b2#1",
+      "format": "quiz",
+      "prompt": "What made this black hole's location surprising?",
+      "choices": [
+        {
+          "text": "It sits roughly 30,000 light-years from its galaxy's centre instead of at the core",
+          "correct": true
+        },
+        {
+          "text": "It sits outside its galaxy entirely, in intergalactic space",
+          "correct": false
+        },
+        {
+          "text": "It is orbiting inside a globular cluster in the Milky Way",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSupermassive black holes are expected at galactic centres. This one is far\noff-centre — the first dormant supermassive black hole found at such a distance\nfrom a core.\u003c/p\u003e"
+    },
+    {
+      "id": "card_81a9b2#2",
+      "format": "flip",
+      "prompt": "What two origin stories do astronomers offer for an off-centre supermassive black hole?",
+      "back_html": "\u003cp\u003eEither it is the surviving nucleus of a smaller galaxy that was \u003cstrong\u003eswallowed\u003c/strong\u003e\nby the larger one, or it was \u003cstrong\u003eejected outward\u003c/strong\u003e during a chaotic gravitational\nencounter between black holes.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "card_ef50ad",
+  "slug": "meta-glasses-recording-limit",
+  "type": "news",
+  "title": "Cover the Light, and the Glasses Stop Recording",
+  "hook": "Meta's AI glasses will no longer record when the little privacy LED is blocked — closing the loophole that let a wearer film you with no visible sign at all.",
+  "key_points": [
+    "Ars Technica reported on August 28, 2026 that Meta limited nonconsensual recording on its AI glasses.",
+    "The fix: the glasses stop recording when a user covers up the safety light that signals capture.",
+    "That LED is the only cue bystanders get — tape over it and recording looked like ordinary glasses.",
+    "Ars notes privacy risks remain; a hardware indicator is a norm, not an enforcement mechanism.",
+    "Practical habit: in public, assume any camera-glasses wearer may be recording you."
+  ],
+  "content_html": "\u003cp\u003eMeta's AI glasses have a small LED that lights up while they're recording. It's the entire consent mechanism: with a phone you can see someone raise it, but with glasses the light is the only tell. On August 28, 2026, Ars Technica reported that Meta closed the obvious hole — cover the light with tape or a finger and the glasses now stop recording rather than filming invisibly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt's a real improvement and a narrow one. Ars's framing is that the glasses got \u0026quot;slightly less creepy\u0026quot; while privacy risks remain, which is about right: an indicator light asks a stranger to notice a small LED on someone's face across a room, and the fix only addresses deliberately blocking it.\u003c/p\u003e\n\u003cp\u003eThe transferable lesson is about where privacy protections actually live. A social norm (\u0026quot;you can tell when you're on camera\u0026quot;) only holds while the hardware enforces it, and hardware can be worked around. The practical habit for everyday life is the unglamorous one: in public, assume anyone wearing camera glasses might be recording, the same way you'd assume a security camera is on.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
+    "published_at": "2026-08-28",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_cbfbeb",
+      "slug": "meta-glasses-detection-apps",
+      "type": "news",
+      "title": "Apps That Spot Camera Glasses — Imperfectly",
+      "hook": "As Meta's AI glasses get more capable, a wave of free apps promises to tell you when someone nearby is wearing a pair. Ars found they don't reliably work.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-21"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_95563d",
+      "slug": "facial-recognition-and-surveillance",
+      "type": "concept",
+      "title": "Facial Recognition",
+      "hook": "The same AI that unlocks your phone can pick your face out of a crowd. It's convenient at your fingertips and unsettling at a city's scale — and it makes mistakes, unevenly.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ef50ad#0",
+      "format": "flip",
+      "prompt": "What is the privacy LED on camera glasses for?",
+      "back_html": "\u003cp\u003eIt's the only signal bystanders get that they're being recorded — a visible\ncue standing in for the obvious gesture of raising a phone.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ef50ad#1",
+      "format": "quiz",
+      "prompt": "What loophole did Meta's change close?",
+      "choices": [
+        {
+          "text": "Covering the indicator light let someone record with no visible sign",
+          "correct": true
+        },
+        {
+          "text": "The glasses uploaded video without Wi-Fi",
+          "correct": false
+        },
+        {
+          "text": "Anyone could view another wearer's recordings",
+          "correct": false
+        },
+        {
+          "text": "The glasses recorded audio even when powered off",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTape over the LED and recording looked identical to just wearing glasses.\nNow the glasses refuse to record when the light is blocked.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ef50ad#2",
+      "format": "flip",
+      "prompt": "Why is a privacy indicator a weak protection on its own?",
+      "back_html": "\u003cp\u003eIt depends on bystanders noticing a small light and on the wearer not defeating\nit. Ars notes real privacy risks remain even after the fix.\u003c/p\u003e"
+    }
+  ]
+}

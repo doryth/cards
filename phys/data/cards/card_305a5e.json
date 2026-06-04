@@ -1,0 +1,132 @@
+{
+  "id": "card_305a5e",
+  "slug": "the-standard-model",
+  "type": "concept",
+  "title": "The Standard Model",
+  "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+  "key_points": [
+    "It catalogs the fundamental particles: quarks, leptons, and force-carriers.",
+    "Quarks make protons and neutrons; leptons include the electron.",
+    "It describes three of the four forces: electromagnetic, weak, and strong.",
+    "It is one of the best-tested theories ever, but leaves out gravity and dark matter."
+  ],
+  "content_html": "\u003cp\u003eThe Standard Model is physics' master catalog of what the universe is made of and how its pieces interact. On the matter side it lists two families: quarks, which clump together to form the protons and neutrons in every nucleus, and leptons, which include the familiar electron. On the force side it describes the particles that carry interactions, covering three of nature's four fundamental forces — electromagnetic, weak, and strong.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat makes it remarkable is its accuracy: predictions from the Standard Model have matched experiments to many decimal places, making it one of the most rigorously confirmed theories in all of science. Yet it is knowingly incomplete. It says nothing about gravity, offers no explanation for dark matter, and can't account for why the universe is made of matter rather than antimatter. Physicists treat it as a triumph and a launchpad — the best map we have, with its edges clearly marked. Wikipedia lays out the full particle roster and the model's known limits.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Standard_Model",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "foundational",
+    "landmark"
+  ],
+  "importance": 5,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ab5171",
+      "slug": "the-higgs-boson",
+      "type": "concept",
+      "title": "The Higgs Boson",
+      "hook": "An invisible field fills all of space, and the harder a particle drags through it, the more mass it has. Finding the ripple that proved it took 50 years and the world's biggest machine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_28ad49",
+      "slug": "juno-neutrino-first-results",
+      "type": "news",
+      "title": "JUNO's First Look at Shape-Shifting Neutrinos",
+      "hook": "A giant detector buried under China caught neutrinos changing identity mid-flight — and in just 59 days made one of the sharpest measurements yet of the ghost particle's habits.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "card_3206bb",
+      "slug": "how-many-elementary-particles",
+      "type": "news",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "hook": "Count the Standard Model's particles and you might say 17 — but tweak the rules and the tally climbs past 900, with one rigorous answer that isn't even a whole number.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-15"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_305a5e#0",
+      "format": "flip",
+      "prompt": "What are the two main families of matter particles in the Standard Model?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eQuarks\u003c/strong\u003e, which combine to form protons and neutrons, and \u003cstrong\u003eleptons\u003c/strong\u003e,\na family that includes the electron.\u003c/p\u003e"
+    },
+    {
+      "id": "card_305a5e#1",
+      "format": "quiz",
+      "prompt": "Which of the four fundamental forces does the Standard Model NOT include?",
+      "choices": [
+        {
+          "text": "Gravity",
+          "correct": true
+        },
+        {
+          "text": "The strong force",
+          "correct": false
+        },
+        {
+          "text": "The weak force",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Standard Model covers the electromagnetic, weak, and strong forces,\nbut gravity sits outside it — a major open gap.\u003c/p\u003e"
+    },
+    {
+      "id": "card_305a5e#2",
+      "format": "quiz",
+      "prompt": "What are protons and neutrons made of, according to the Standard Model?",
+      "choices": [
+        {
+          "text": "Quarks",
+          "correct": true
+        },
+        {
+          "text": "Electrons",
+          "correct": false
+        },
+        {
+          "text": "Photons",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProtons and neutrons are each built from three quarks bound together by the\nstrong force.\u003c/p\u003e"
+    }
+  ]
+}

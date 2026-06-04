@@ -1,0 +1,114 @@
+{
+  "id": "card_280f4b",
+  "slug": "crispr-shreds-cancer-cells",
+  "type": "news",
+  "title": "CRISPR That Shreds Cancer Cells From the Inside",
+  "hook": "A new CRISPR enzyme reads a cell for a cancer's tell-tale mutation, then chops up all the DNA inside only those cells — a way to attack 'undruggable' tumors.",
+  "key_points": [
+    "An enzyme called Cas12a2 is programmed with a guide RNA to spot a cancer-specific signal, like mutant p53.",
+    "On a match, it goes into 'chromatin shredding' — slicing all the cell's genetic material, which kills it.",
+    "Cells without the cancer signal are left untouched, so healthy tissue is spared.",
+    "It targets p53, a tumor suppressor mutated in roughly half of all cancers and long deemed 'undruggable'.",
+    "Shown in mouse models of lung and liver tumors; getting it into cancer cells is the main hurdle left.",
+    "Reported in Nature by the Innovative Genomics Institute, UCSF, and Gladstone — still preclinical."
+  ],
+  "content_html": "\u003cp\u003eMost cancer drugs try to block a protein that a tumor over-uses. But many of the deadliest cancers are driven by the \u003cem\u003eloss\u003c/em\u003e of a protective gene — most famously \u003cstrong\u003ep53\u003c/strong\u003e, mutated in roughly half of all cancers — and you can't block a guardian that's already broken. That has made such cancers \u0026quot;undruggable.\u0026quot; A new approach, reported in \u003cem\u003eNature\u003c/em\u003e by the Innovative Genomics Institute, UCSF, and Gladstone, flips the strategy: instead of fixing the broken protein, it uses the mutation as a target to destroy the cell.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe tool is \u003cstrong\u003eCas12a2\u003c/strong\u003e, a CRISPR enzyme with an unusual trick. Programmed with a guide RNA that recognizes a cancer-specific signal — such as the mutant p53 transcript — it stays quiet in normal cells. But when it detects that signal inside a cell, it switches into \u0026quot;chromatin shredding\u0026quot;: it indiscriminately chops up all the genetic material in that cell, triggering its death. Because the trigger is the cancer signature itself, healthy cells without the mutation are spared. The team demonstrated the effect in mouse models of lung and liver tumors, and notes the guide RNA is easily reprogrammed for other cancer signals. It remains preclinical — no human trials yet — and, as with all CRISPR therapies, efficiently delivering the system into cancer cells is the major unsolved problem.\u003c/p\u003e",
+  "source": {
+    "name": "Innovative Genomics Institute",
+    "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells",
+    "published_at": "2026-06-12",
+    "license": "© Innovative Genomics Institute"
+  },
+  "topic_ids": [
+    "biotechnology",
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-15",
+  "date": "2026-06-12",
+  "related": [
+    {
+      "id": "card_9fc450",
+      "slug": "crispr-gene-editing",
+      "type": "concept",
+      "title": "CRISPR: Molecular Scissors for DNA",
+      "hook": "Borrowed from a bacterial immune system, CRISPR lets scientists find a precise spot in the genome and cut it — turning gene editing into something almost routine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2657f3",
+      "slug": "gene-therapy",
+      "type": "concept",
+      "title": "Gene Therapy",
+      "hook": "Instead of treating symptoms, gene therapy goes after the root cause — fixing, replacing, or silencing a faulty gene inside a patient's own cells.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_9fc450",
+      "slug": "crispr-gene-editing",
+      "type": "concept",
+      "title": "CRISPR: Molecular Scissors for DNA",
+      "hook": "Borrowed from a bacterial immune system, CRISPR lets scientists find a precise spot in the genome and cut it — turning gene editing into something almost routine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_280f4b#0",
+      "format": "flip",
+      "prompt": "How does the new Cas12a2 technique kill a cancer cell but spare healthy ones?",
+      "back_html": "\u003cp\u003eIt only activates when it detects a cancer-specific signal (such as mutant p53),\nthen shreds all of that cell's DNA. Cells without the signal are left untouched.\u003c/p\u003e"
+    },
+    {
+      "id": "card_280f4b#1",
+      "format": "quiz",
+      "prompt": "Why has the p53 tumor suppressor been called 'undruggable'?",
+      "choices": [
+        {
+          "text": "Its problem is a lost or broken protective protein — there's nothing for a typical drug to block",
+          "correct": true
+        },
+        {
+          "text": "It is buried too deep in the cell for any molecule to reach",
+          "correct": false
+        },
+        {
+          "text": "It mutates so fast that no treatment can keep up",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMost drugs work by blocking an overactive protein. p53's failure is the opposite —\na guardian gene that's missing or broken — so there's no target to switch off. The\nnew approach sidesteps this by detecting the mutation rather than fixing the protein.\u003c/p\u003e"
+    },
+    {
+      "id": "card_280f4b#2",
+      "format": "quiz",
+      "prompt": "What stage is this cancer-shredding technique at?",
+      "choices": [
+        {
+          "text": "Preclinical — demonstrated in mouse models of lung and liver tumors",
+          "correct": true
+        },
+        {
+          "text": "Already an approved treatment given to patients",
+          "correct": false
+        },
+        {
+          "text": "Only simulated in a computer, never in living cells",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers showed it works in mouse tumor models. It is not yet in human trials,\nand delivering it efficiently into cancer cells remains the key challenge.\u003c/p\u003e"
+    }
+  ]
+}

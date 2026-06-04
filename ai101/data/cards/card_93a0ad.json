@@ -1,0 +1,114 @@
+{
+  "id": "card_93a0ad",
+  "slug": "ai-groupthink-problem",
+  "type": "news",
+  "title": "Why Every Chatbot Gives You the Same 'Random' Number",
+  "hook": "Ask any major chatbot for a random number between 1 and 10, and you'll almost always get 7. It's a small window into a bigger problem: AI models trained the same way tend to think alike.",
+  "key_points": [
+    "Ask Claude, ChatGPT, or Gemini for 'a random number between 1 and 10' and the answer is overwhelmingly 7.",
+    "A study asking 25 different LLMs to write a metaphor about time got mostly variations of 'time is a river' or 'time is a weaver.'",
+    "The cause: most LLMs are trained in similar ways on similar data, so they converge on the same likely answers.",
+    "Simply cranking up 'randomness' (temperature) doesn't fix it — it just makes replies incoherent.",
+    "One startup's fix: add unpredictability only at specific words, not the whole reply, to stay varied and coherent."
+  ],
+  "content_html": "\u003cp\u003eTry this: ask your chatbot of choice for a random number between 1 and 10. You'll almost certainly get 7. Ask again and you'll likely get 3 or 4, then 8 or 9 — a narrow, predictable range dressed up as randomness. MIT Technology Review calls this \u0026quot;groupthink,\u0026quot; and the number game is just the most shareable example of something researchers have measured more rigorously: when 25 different LLMs were each asked 50 times to write a metaphor about time, most of the answers boiled down to \u0026quot;time is a river\u0026quot; or \u0026quot;time is a weaver.\u0026quot;\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe cause isn't a bug in any one model — it's that most large language models are trained in similar ways, on similar data, to do similar tasks, so they tend to converge on the same statistically likely answers. The obvious fix, turning up the model's \u0026quot;temperature\u0026quot; (its randomness setting), doesn't really work: crank it up globally and replies start to fall apart into nonsense, trading groupthink for incoherence. One attempted solution, from the Australian startup Springboards, targets the problem more precisely: its tool, built on an open-source model, only injects extra unpredictability at specific points in a response — like the moment just before naming a travel destination — rather than throughout. The result, the company claims, is answers that are both more varied and still make sense. For everyday users, the underlying lesson is a useful corrective to how capable these tools feel: convincing, fluent answers aren't the same as original ones, and a model's \u0026quot;creativity\u0026quot; is often narrower than it appears.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Will Douglas Heaven"
+    ],
+    "url": "https://technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out",
+    "published_at": "2026-07-01",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "generative-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-06",
+  "date": "2026-07-01",
+  "related": [
+    {
+      "id": "card_dcc196",
+      "slug": "how-llms-work",
+      "type": "concept",
+      "title": "How a Language Model Works",
+      "hook": "A chatbot isn't reading and thinking — it's running the world's most sophisticated autocomplete, picking each next word from probabilities learned across billions of sentences.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_93a0ad#0",
+      "format": "quiz",
+      "prompt": "If you ask a chatbot for 'a random number between 1 and 10,' what will you most likely get?",
+      "choices": [
+        {
+          "text": "7 — nearly every major chatbot defaults to it",
+          "correct": true
+        },
+        {
+          "text": "A genuinely random number each time",
+          "correct": false
+        },
+        {
+          "text": "0, since that's the simplest number",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDespite being asked for randomness, major LLMs overwhelmingly answer \u0026quot;7,\u0026quot;\nrevealing how predictable their \u0026quot;random\u0026quot; outputs really are.\u003c/p\u003e"
+    },
+    {
+      "id": "card_93a0ad#1",
+      "format": "flip",
+      "prompt": "Why do different chatbots (Claude, ChatGPT, Gemini) converge on similar answers?",
+      "back_html": "\u003cp\u003eThey're trained in similar ways on similar data to do similar tasks, so they\ntend to land on the same high-probability answers.\u003c/p\u003e"
+    },
+    {
+      "id": "card_93a0ad#2",
+      "format": "quiz",
+      "prompt": "Why can't you just fix this by cranking up the model's 'randomness' (temperature)?",
+      "choices": [
+        {
+          "text": "Turning up randomness broadly makes replies incoherent, not just more varied",
+          "correct": true
+        },
+        {
+          "text": "Chatbots don't have a randomness setting",
+          "correct": false
+        },
+        {
+          "text": "It would make the model too slow to use",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTemperature is a blunt tool — pushed too high across the board, it trades\npredictable answers for garbled, incoherent ones rather than useful variety.\u003c/p\u003e"
+    },
+    {
+      "id": "card_93a0ad#3",
+      "format": "flip",
+      "prompt": "How did one startup's fix (Flint) try to solve this?",
+      "back_html": "\u003cp\u003eInstead of adding randomness everywhere, it targets specific points in a\nreply — like just before naming a destination — so the rest stays coherent.\u003c/p\u003e"
+    }
+  ]
+}

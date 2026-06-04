@@ -1,0 +1,94 @@
+{
+  "id": "card_87ddb7",
+  "slug": "entangled-photons-could-upgrade-pet-scans",
+  "type": "paper",
+  "title": "The Photons in Your PET Scan Are Quantum Entangled",
+  "hook": "Every PET scan relies on annihilation photons that happen to be quantum entangled. A research roadmap lays out how medicine might finally start using that entanglement.",
+  "key_points": [
+    "In a PET scan, a positron and an electron annihilate and produce two photons that fly off in opposite directions — and those photons are quantum entangled in their polarization.",
+    "Standard clinical PET scanners don't use or measure that entanglement at all today.",
+    "Researchers are developing detectors that measure the photons' Compton scattering to access their entanglement and reduce false coincidence signals in reconstructed images.",
+    "Longer-term goals include using the degree of entanglement itself as a diagnostic biomarker for tissue health, and even imaging pH inside the body — though clinical translation remains an open question."
+  ],
+  "content_html": "\u003cp\u003ePositron Emission Tomography (PET) is a workhorse of modern medical imaging, built on a simple physical event: a positron meets an electron, they annihilate, and the collision produces two photons flying off in opposite directions. What clinical scanners don't currently use is a subtler fact about those photons — their polarizations are quantum entangled.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA large international collaboration led by Paweł Moskal lays out a roadmap for changing that. By building detectors that measure how the annihilation photons Compton-scatter off electrons, researchers can access information encoded in their entanglement — first as a way to suppress random false-coincidence signals and sharpen standard PET reconstructions. Further out, the team is exploring whether the degree of entanglement surviving in the photons (which decoheres as they pass through tissue) could serve as a diagnostic biomarker for tissue pathology or oxygenation, or even enable a new method for imaging pH inside the body. Whether entanglement-based PET can make the leap from research detectors to clinical practice remains genuinely open — the roadmap is explicitly an invitation for more scientists to help find out.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Paweł Moskal",
+      "Zdenka Kuncic",
+      "Taiga Yamaya"
+    ],
+    "url": "https://arxiv.org/abs/2607.12182",
+    "published_at": "2026-07-13",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "atomic-nuclear",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-13",
+  "related": [
+    {
+      "id": "card_a1831a",
+      "slug": "radioactivity",
+      "type": "concept",
+      "title": "Radioactivity and Half-Life",
+      "hook": "You can't predict when a single unstable atom will decay, yet a huge sample decays on a clock so precise we use it to date rocks billions of years old.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_87ddb7#0",
+      "format": "flip",
+      "prompt": "Where does quantum entanglement show up in an everyday PET scan?",
+      "back_html": "\u003cp\u003eWhen a positron and electron annihilate inside the body, the two photons they\nproduce fly off in opposite directions and are \u003cstrong\u003equantum entangled\u003c/strong\u003e in their\npolarization.\u003c/p\u003e"
+    },
+    {
+      "id": "card_87ddb7#1",
+      "format": "quiz",
+      "prompt": "Do current clinical PET scanners use this entanglement?",
+      "choices": [
+        {
+          "text": "No — standard clinical PET does not access or measure the photons' entanglement today",
+          "correct": true
+        },
+        {
+          "text": "Yes, all modern PET scanners already rely on measuring entanglement",
+          "correct": false
+        },
+        {
+          "text": "PET scans don't actually involve any entangled photons",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe entanglement is a real physical property of the annihilation photons, but\nit isn't accessed by today's clinical scanners — this roadmap outlines how\nfuture ones might.\u003c/p\u003e"
+    },
+    {
+      "id": "card_87ddb7#2",
+      "format": "flip",
+      "prompt": "Beyond sharper images, what other future use is proposed for the entanglement itself?",
+      "back_html": "\u003cp\u003eUsing the \u003cstrong\u003edegree of entanglement\u003c/strong\u003e (how much it decoheres passing through\ntissue) as a diagnostic biomarker for tissue pathology or oxygenation, and\npotentially for imaging pH inside the body.\u003c/p\u003e"
+    }
+  ]
+}

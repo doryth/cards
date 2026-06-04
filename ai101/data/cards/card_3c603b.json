@@ -1,0 +1,117 @@
+{
+  "id": "card_3c603b",
+  "slug": "opus-5-token-efficiency",
+  "type": "news",
+  "title": "The New Model Is Cheaper, Not Smarter",
+  "hook": "Anthropic's Opus 5 competes on cost per answer rather than raw brainpower — a sign the AI race is shifting. For most everyday tasks, the cheap option is already good enough.",
+  "key_points": [
+    "Anthropic released Claude Opus 5, saying it 'comes close to the capabilities of Claude Fable 5 in many domains.'",
+    "Ars Technica's read: the release is about token efficiency, not a capability leap.",
+    "'Tokens' are the chunks of text a model reads and writes — they're what you're billed for.",
+    "Same answer using fewer tokens means a cheaper answer, not a smarter one.",
+    "Ars's takeaway for users: models improve fast, but cheaper options are often good enough.",
+    "Practical upshot: try the free or cheap tier first, and only pay up if it actually falls short."
+  ],
+  "content_html": "\u003cp\u003eAnthropic released a new flagship model, Claude Opus 5, saying it \u0026quot;comes close to the capabilities of Claude Fable 5 in many domains.\u0026quot; Ars Technica's reading of the launch is the interesting bit: the headline improvement isn't that the model is dramatically smarter, it's that it's more \u003cem\u003etoken efficient\u003c/em\u003e.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA token is just a chunk of text — roughly a short word or piece of one — and it's the unit AI companies count when they bill for a model's reading and writing. So \u0026quot;token efficiency\u0026quot; translates to something very ordinary: the same job, for less money. That's a different kind of progress than a capability leap, and it says something about where the industry is. When the frontier stops moving in giant jumps, competition shifts to price, speed, and running costs.\u003c/p\u003e\n\u003cp\u003eFor anyone just choosing a tool, Ars draws the practical conclusion: models are improving quickly, but the cheaper options are often good enough. Most everyday asks — summarizing, drafting, explaining, brainstorming — don't need the most expensive model on the menu. Start at the free or low tier, notice whether it actually falls short on your real work, and upgrade only then. Paying for the flagship because it's the flagship is how you spend money on capability you never use.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Samuel Axon"
+    ],
+    "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
+    "published_at": "2026-07-24",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "choosing-tools",
+    "chatbots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency",
+    "inference"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_b49602",
+      "slug": "free-vs-paid-ai",
+      "type": "concept",
+      "title": "Free vs Paid Tools",
+      "hook": "The free tier is enough for most people most of the time. Paid plans mostly buy you the smarter model, higher limits, and stronger privacy — useful only if you'll actually use them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_42f5a2",
+      "slug": "which-chatbot-to-use",
+      "type": "concept",
+      "title": "Which Chatbot Should I Use?",
+      "hook": "ChatGPT, Claude, Gemini, Copilot, Meta AI — they're more alike than different. The honest answer to 'which is best' is: the one you'll actually open, plus a second to cross-check.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4a5acd",
+      "slug": "google-negative-cash-flow",
+      "type": "news",
+      "title": "Google Just Burned More Cash Than It Took In",
+      "hook": "Alphabet posted its first-ever negative cash flow quarter, and the reason is AI spending. When one of the most profitable companies on earth goes cash-negative, the bill is real.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3c603b#0",
+      "format": "flip",
+      "prompt": "In AI tools, what is a 'token' and why should you care?",
+      "back_html": "\u003cp\u003eA token is a chunk of text the model reads or writes. It's the unit you're billed\nby, so fewer tokens for the same answer means a cheaper answer.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3c603b#1",
+      "format": "quiz",
+      "prompt": "According to Ars Technica, what was the main story of Anthropic's Opus 5 release?",
+      "choices": [
+        {
+          "text": "Token efficiency — a cheaper answer, not a big capability leap",
+          "correct": true
+        },
+        {
+          "text": "A dramatic jump past every other model on the market",
+          "correct": false
+        },
+        {
+          "text": "The first AI model that never makes mistakes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eArs framed the release as being about token efficiency rather than a capability\nleap: the model does comparable work while costing less to run.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3c603b#2",
+      "format": "flip",
+      "prompt": "What's the practical advice for picking an AI tool if cheaper models keep improving?",
+      "back_html": "\u003cp\u003eStart with the free or cheap option. Ars's point is that cheaper models are often\ngood enough — pay for the premium tier only when the cheap one visibly falls short.\u003c/p\u003e"
+    }
+  ]
+}

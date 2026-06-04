@@ -1,0 +1,102 @@
+{
+  "id": "card_2f5c1c",
+  "slug": "common-cold-in-children",
+  "type": "concept",
+  "title": "The Common Cold in Children",
+  "hook": "Young kids catch a lot of colds — that's normal. Colds are viral, so antibiotics won't help; comfort care does, and OTC cough-and-cold medicines aren't safe for little ones.",
+  "key_points": [
+    "Colds are caused by viruses, so antibiotics don't help — they only treat bacteria.",
+    "Supportive care is the treatment: extra rest, plenty of fluids, saline nose drops, and a humidifier.",
+    "Don't give over-the-counter cough or cold medicines to children under 4 — risk of dangerous side effects.",
+    "Call the doctor for trouble breathing, an earache, a fever beyond a few days, or any fever in a baby under 3 months."
+  ],
+  "content_html": "\u003cp\u003eIf it feels like your young child is always coming down with something, that's actually expected — little ones catch many colds a year as their immune systems meet new viruses, especially in childcare. And because colds are caused by viruses, antibiotics don't help; the American Academy of Pediatrics notes antibiotics only fight bacteria and have no effect on the viruses behind colds and flu.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThere's no cure for a cold, so the goal is comfort while the body does its work: extra rest, plenty of fluids, saline (salt water) nose drops, and a humidifier to ease congestion. (Honey can help a cough — but only for children over one year, never younger.) Importantly, the AAP says over-the-counter cough and cold medicines should NOT be given to children under 4 because of the risk of dangerous side effects. Call your doctor if your child has trouble breathing, an earache, a fever that lasts beyond a few days or returns, or — at any time — if a baby under three months has a fever. This is general educational information; check with your pediatrician about your child.\u003c/p\u003e",
+  "source": {
+    "name": "HealthyChildren.org (AAP)",
+    "url": "https://www.healthychildren.org/English/health-issues/conditions/flu/Pages/caring-for-Your-childs-cold-or-flu.aspx",
+    "license": "© American Academy of Pediatrics"
+  },
+  "topic_ids": [
+    "illness-care",
+    "health-safety"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a0edf4",
+      "slug": "when-to-call-the-doctor",
+      "type": "concept",
+      "title": "When to Call the Doctor — Red Flags",
+      "hook": "Most childhood illnesses are mild, but a handful of signs mean don't wait and watch — get medical help right away. Knowing them takes the guesswork out of a scary moment.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6a8236",
+      "slug": "fever-basics",
+      "type": "concept",
+      "title": "Fever Basics for Parents",
+      "hook": "A fever is a sign the body is fighting infection, not a disease itself — how your child looks and acts often matters more than the exact number on the thermometer.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2f5c1c#0",
+      "format": "quiz",
+      "prompt": "Why don't antibiotics help with a common cold?",
+      "choices": [
+        {
+          "text": "Colds are caused by viruses, and antibiotics only treat bacteria",
+          "correct": true
+        },
+        {
+          "text": "The dose for children is too small to work",
+          "correct": false
+        },
+        {
+          "text": "Antibiotics work, but only after a week of symptoms",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eColds are viral infections. Antibiotics have no effect on viruses — they only\nfight bacteria — so they won't cure a cold.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2f5c1c#1",
+      "format": "flip",
+      "prompt": "Should you give an over-the-counter cough or cold medicine to a 2-year-old?",
+      "back_html": "\u003cp\u003eNo. The AAP says OTC cough and cold medicines should \u003cstrong\u003enot\u003c/strong\u003e be given to children\n\u003cstrong\u003eunder 4 years\u003c/strong\u003e because of the risk of dangerous side effects. Use comfort care instead.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2f5c1c#2",
+      "format": "quiz",
+      "prompt": "What's the right approach to caring for a child's cold?",
+      "choices": [
+        {
+          "text": "Supportive care — extra rest, fluids, saline drops, a humidifier",
+          "correct": true
+        },
+        {
+          "text": "A course of antibiotics to clear it faster",
+          "correct": false
+        },
+        {
+          "text": "Withholding fluids until the runny nose stops",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eColds have no cure, so the focus is comfort: rest, fluids, saline nose drops,\nand a humidifier to ease congestion while the body fights the virus.\u003c/p\u003e"
+    }
+  ]
+}

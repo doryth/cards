@@ -1,0 +1,99 @@
+{
+  "id": "card_5acd3d",
+  "slug": "caring-for-a-cold-or-flu-at-home",
+  "type": "concept",
+  "title": "Caring for a Cold or Flu at Home",
+  "hook": "Most colds and flu run their course on their own. Good home care is about comfort and rest — and knowing the handful of red flags that mean it's time to get checked.",
+  "key_points": [
+    "Rest and drink plenty of fluids while your body fights the virus.",
+    "Over-the-counter remedies can ease fever, aches, and congestion.",
+    "Antibiotics don't work on viruses like colds and flu.",
+    "See a doctor for trouble breathing, chest pain, or symptoms that worsen."
+  ],
+  "content_html": "\u003cp\u003eColds and flu are caused by viruses, and for most healthy adults they clear up on their own within a week or two. Home care can't cure them faster, but it can make you a lot more comfortable while your immune system does the work.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe NHS advice for self-care is reassuringly low-tech: rest, stay well hydrated, and use over-the-counter remedies to ease symptoms like fever, body aches, sore throat, and a blocked nose. Crucially, antibiotics target bacteria and do nothing for viral illnesses like the common cold or flu — taking them when they aren't needed only fuels antibiotic resistance. What matters most is recognizing when self-care isn't enough. The NHS flags warning signs such as difficulty breathing, chest pain, symptoms that persist or worsen rather than improving, or being in a higher-risk group. If any of those apply, contact your provider or a health advice line rather than waiting it out.\u003c/p\u003e",
+  "source": {
+    "name": "NHS (UK)",
+    "url": "https://www.nhs.uk/conditions/common-cold/",
+    "license": "© Crown copyright (NHS, Open Government Licence v3.0)"
+  },
+  "topic_ids": [
+    "common-illness"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-05",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_1e126a",
+      "slug": "cold-flu-or-covid",
+      "type": "concept",
+      "title": "Cold, Flu, or COVID?",
+      "hook": "They share a lot of symptoms, but colds, flu, and COVID-19 differ in how fast they hit and how hard — and telling them apart can change what you do next.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2a9b89",
+      "slug": "when-a-symptom-needs-a-doctor",
+      "type": "concept",
+      "title": "When a Symptom Needs a Doctor",
+      "hook": "Most everyday symptoms pass on their own. The skill worth having is recognizing the red flags that mean don't wait — call for help now.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3a556a",
+      "slug": "antibiotics-use-them-right",
+      "type": "concept",
+      "title": "Antibiotics: Use Them Right",
+      "hook": "Antibiotics are miracle drugs against bacteria — and useless against viruses like colds and flu. Using them when they won't help fuels a genuinely dangerous problem.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2af5da",
+      "slug": "using-pain-relievers-safely",
+      "type": "concept",
+      "title": "Using Pain Relievers Safely",
+      "hook": "The pain relievers in your medicine cabinet are safe used right — and surprisingly risky used wrong. Knowing the two main types and their limits is the whole game.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5acd3d#0",
+      "format": "quiz",
+      "prompt": "Why won't antibiotics help an ordinary cold or flu?",
+      "choices": [
+        {
+          "text": "Colds and flu are caused by viruses, which antibiotics don't treat",
+          "correct": true
+        },
+        {
+          "text": "Antibiotics only work if started within an hour of symptoms",
+          "correct": false
+        },
+        {
+          "text": "Antibiotics are only for children, not adults",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAntibiotics act on bacteria, not viruses. Colds and flu are viral, so\nantibiotics don't help and using them needlessly contributes to resistance.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5acd3d#1",
+      "format": "flip",
+      "prompt": "What are the basics of caring for a cold or flu at home?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eRest\u003c/strong\u003e and \u003cstrong\u003edrink plenty of fluids\u003c/strong\u003e while the virus runs its course, and\nuse over-the-counter remedies for fever, aches, and congestion if needed.\nSeek care if you have trouble breathing, chest pain, or symptoms that get\nworse instead of better.\u003c/p\u003e"
+    }
+  ]
+}

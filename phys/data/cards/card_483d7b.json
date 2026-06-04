@@ -1,0 +1,136 @@
+{
+  "id": "card_483d7b",
+  "slug": "expansion-outruns-light",
+  "type": "news",
+  "title": "The Universe Outruns Light — Without Breaking Einstein",
+  "hook": "Galaxies far enough away recede from us faster than light, and relativity is fine with it. The catch: accelerating expansion is slowly emptying our sky.",
+  "key_points": [
+    "Cosmic expansion lets distant galaxies move away from us faster than light.",
+    "Nothing is racing through space — space itself is stretching, so no speed limit is broken.",
+    "We still see their ancient light: it left when those galaxies were far closer to us.",
+    "Accelerating expansion will push nearly everything beyond our Local Group out of view.",
+    "Far-future astronomers would inherit a sky that looks almost empty."
+  ],
+  "content_html": "\u003cp\u003eSome galaxies are receding from us faster than light. That sounds like a flat violation of Einstein, and it isn't: relativity limits how fast anything can travel \u003cem\u003ethrough\u003c/em\u003e space, and those galaxies aren't traveling anywhere. Space itself is stretching between us and them, and stretching has no speed limit.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe stranger part, as this ScienceDaily report lays out, is that we can still see galaxies that now outrun light. The photons reaching our telescopes tonight left when those galaxies were far closer, so what we observe is a snapshot of their distant past rather than their present. But the arrangement is temporary. Because the expansion is accelerating, more and more of the sky is being carried past the point where its light can ever reach us. Eventually almost everything outside our own gravitationally bound Local Group will slip out of view, leaving future astronomers with a universe that looks nearly empty — and very hard to figure out.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260724061444.htm",
+    "published_at": "2026-07-25",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-25",
+  "related": [
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ab4608",
+      "slug": "the-fate-of-the-universe",
+      "type": "concept",
+      "title": "How Will the Universe End?",
+      "hook": "The universe began with a Big Bang — but how does the story end? With dark energy speeding up the expansion, the leading answer is a long, cold fade into darkness.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_987298",
+      "slug": "special-relativity-basics",
+      "type": "concept",
+      "title": "Special Relativity, Gently",
+      "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0ac579",
+      "slug": "hubble-tension",
+      "type": "paper",
+      "title": "The Hubble Tension: Cosmology's Stubborn Crisis",
+      "hook": "Two trustworthy ways of measuring how fast the universe expands keep disagreeing — and a decade of cross-checks has only hardened the gap into a genuine crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_483d7b#0",
+      "format": "quiz",
+      "prompt": "Why doesn't faster-than-light recession of distant galaxies violate relativity?",
+      "choices": [
+        {
+          "text": "They aren't moving through space — the space between us is stretching",
+          "correct": true
+        },
+        {
+          "text": "Relativity's speed limit only applies to massless particles",
+          "correct": false
+        },
+        {
+          "text": "The galaxies are so far away the limit no longer applies",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRelativity caps how fast anything can move \u003cem\u003ethrough\u003c/em\u003e space past you. Cosmic expansion\nstretches space itself, so the recession speed it produces has no such ceiling.\u003c/p\u003e"
+    },
+    {
+      "id": "card_483d7b#1",
+      "format": "flip",
+      "prompt": "If a galaxy now recedes faster than light, how can we still see it?",
+      "back_html": "\u003cp\u003eThe light we're receiving left long ago, when that galaxy was \u003cstrong\u003emuch closer\u003c/strong\u003e to us.\nWe see its ancient past, not the galaxy as it is today.\u003c/p\u003e"
+    },
+    {
+      "id": "card_483d7b#2",
+      "format": "quiz",
+      "prompt": "What does accelerating expansion imply for the far-future night sky?",
+      "choices": [
+        {
+          "text": "Nearly everything outside our Local Group drifts out of sight",
+          "correct": true
+        },
+        {
+          "text": "Galaxies crowd together as the universe contracts",
+          "correct": false
+        },
+        {
+          "text": "The sky brightens as more distant light finally arrives",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAs expansion accelerates, galaxies beyond our gravitationally bound Local Group are\ncarried out of view — leaving a universe that looks almost empty from the inside.\u003c/p\u003e"
+    }
+  ]
+}

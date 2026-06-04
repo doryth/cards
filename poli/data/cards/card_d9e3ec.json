@@ -1,0 +1,140 @@
+{
+  "id": "card_d9e3ec",
+  "slug": "clearly-established-law-and-qualified-immunity",
+  "type": "news",
+  "title": "\"Clearly Established\" Law and Qualified Immunity",
+  "hook": "A right you hold on paper can be unenforceable in court: officials escape damages unless a prior ruling already said, in nearly identical facts, that what they did was illegal.",
+  "key_points": [
+    "Qualified immunity shields government officials from personal damages suits over constitutional violations.",
+    "The shield falls only if the official violated 'clearly established' law — a judge-made threshold.",
+    "In practice courts often demand a prior case with closely similar facts before a right counts as established.",
+    "That creates a circularity: if courts never reach the merits, novel violations never become 'established'.",
+    "The doctrine sits at the intersection of rights and remedies — a right without a remedy binds little.",
+    "SCOTUSblog contributor Daniel Harawa argues the standard has become the Court's own recurring problem."
+  ],
+  "content_html": "\u003cp\u003eQualified immunity is the judge-made rule that a government official sued for violating someone's constitutional rights cannot be held personally liable in damages unless the right was \u0026quot;clearly established\u0026quot; at the time. The idea is to give officials fair warning: nobody should pay out of pocket for crossing a line no court had yet drawn.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe difficulty is in how strictly that phrase gets read. Courts frequently ask whether an earlier decision addressed closely similar facts, which means genuinely novel misconduct can go unremedied simply because no prior case looked quite like it. Worse, because a court can grant immunity without ever deciding whether the conduct was unconstitutional, no new precedent is created — so the same right stays perpetually un-established. Writing for SCOTUSblog on August 24, 2026, Daniel Harawa argues this \u0026quot;clearly established\u0026quot; inquiry has become a recurring problem for the Supreme Court itself. The underlying civics point is broader than any one case: rights and remedies are separate questions, and a right nobody can practically enforce constrains the state far less than it appears to on paper. This card describes U.S. constitutional litigation specifically.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Daniel Harawa"
+    ],
+    "url": "https://scotusblog.com/2026/08/the-courts-clearly-established-problem",
+    "published_at": "2026-08-24",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-24",
+  "related": [
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_766f74",
+      "slug": "rule-of-law",
+      "type": "concept",
+      "title": "The Rule of Law",
+      "hook": "The principle that everyone — including those in power — is bound by the same publicly known laws, applied equally.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a0fc6f",
+      "slug": "doj-civil-rights-investigations-of-local-police",
+      "type": "news",
+      "title": "When a Gun-Permit Decision Becomes a Federal Civil Rights Case",
+      "hook": "A city police department can revoke a concealed-carry license for 'good cause.' Who that standard gets applied to is what can turn it into a federal civil rights investigation.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-07"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_d9e3ec#0",
+      "format": "flip",
+      "prompt": "What does the \"clearly established\" requirement do in a qualified immunity case?",
+      "back_html": "\u003cp\u003eIt decides whether an official loses immunity. A plaintiff must show the\nright violated was \u003cstrong\u003ealready clearly established\u003c/strong\u003e in law at the time —\notherwise the official cannot be held personally liable in damages.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d9e3ec#1",
+      "format": "quiz",
+      "prompt": "Why do critics call the \"clearly established\" standard circular?",
+      "choices": [
+        {
+          "text": "Rights only become established through rulings on the merits, which immunity lets courts skip",
+          "correct": true
+        },
+        {
+          "text": "It applies only to laws passed after the alleged violation",
+          "correct": false
+        },
+        {
+          "text": "It requires the legislature to re-enact each right every session",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIf courts grant immunity without deciding whether conduct was\nunconstitutional, no precedent is created — so the next similar case\nstill has no \u0026quot;clearly established\u0026quot; rule to point to.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d9e3ec#2",
+      "format": "quiz",
+      "prompt": "Which civics idea does this doctrine most directly illustrate?",
+      "choices": [
+        {
+          "text": "A right matters only as much as the remedy available to enforce it",
+          "correct": true
+        },
+        {
+          "text": "Constitutional rights apply only to federal, never state, officials",
+          "correct": false
+        },
+        {
+          "text": "Courts may not review the actions of executive officials at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe dispute is not over whether the right exists but over whether an\ninjured person can actually sue — the gap between rights and remedies.\u003c/p\u003e"
+    }
+  ]
+}

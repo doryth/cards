@@ -1,0 +1,117 @@
+{
+  "id": "card_a8178f",
+  "slug": "kids-outlearn-ai-language",
+  "type": "news",
+  "title": "Kids Outlearn AI — and Nobody Knows Why",
+  "hook": "A toddler masters a language from a few years of overheard chatter. A chatbot needs a large fraction of the written internet. Nobody can fully explain the gap.",
+  "key_points": [
+    "For all of human history, only one thing could learn a language to full fluency: a child.",
+    "Four years after ChatGPT, machines can do it too — but by a wildly different route.",
+    "Children learn from a trickle of messy, in-person speech; LLMs need vast text corpora.",
+    "MIT Technology Review reports researchers still can't explain why kids are so much more efficient.",
+    "The gap is a clue that human learning uses something today's models don't have."
+  ],
+  "content_html": "\u003cp\u003eFor as long as people have talked to each other, exactly one thing in the world could learn a human language to perfect fluency: a human child. As MIT Technology Review's Elise Cutts puts it, four short years after ChatGPT there are now two. But the two get there by wildly different routes — and the mismatch is one of the more interesting open puzzles in AI.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA child picks up a language from a comparatively tiny amount of input: fragmentary, error-filled, in-person chatter, spread over a few years, alongside learning to walk and eat with a spoon. A large language model needs a staggering volume of written text — far more words than any person could read in a lifetime. Both arrive at fluency; only one of them is remotely efficient about it.\u003c/p\u003e\n\u003cp\u003eCutts reports that researchers still can't fully explain the gap. That's worth sitting with, because it cuts against a common assumption: that because AI now does something only humans could do, it must be doing it \u003cem\u003ethe way\u003c/em\u003e humans do. The efficiency difference suggests children bring something to the task — built-in structure, embodied experience, social feedback, or some combination — that scaling up text prediction doesn't replicate. It's also a reminder that \u0026quot;human-level performance\u0026quot; and \u0026quot;human-like learning\u0026quot; are separate claims, and only the first one is settled.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Elise Cutts"
+    ],
+    "url": "https://technologyreview.com/2026/08/24/1141740/kids-machines-language-learning",
+    "published_at": "2026-08-24",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "how-ai-learns",
+    "ai-limits",
+    "ai-news"
+  ],
+  "tags": [
+    "foundational",
+    "training",
+    "nlp"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-24",
+  "date": "2026-08-24",
+  "related": [
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf6769",
+      "slug": "world-models-promise-and-limits",
+      "type": "news",
+      "title": "Can AI Learn to Simulate the Real World?",
+      "hook": "The next AI frontier isn't just predicting the next word — it's building an internal 'world model' that predicts what happens next in reality. Experts say it's promising, and still very unproven.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a8178f#0",
+      "format": "quiz",
+      "prompt": "What's the biggest difference between how a child and an LLM learn language?",
+      "choices": [
+        {
+          "text": "The child learns fluently from a tiny amount of everyday speech; the model needs enormous amounts of text",
+          "correct": true
+        },
+        {
+          "text": "The child memorizes a dictionary first, the model doesn't",
+          "correct": false
+        },
+        {
+          "text": "The model learns from speech, the child learns from writing",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth end up fluent, but a child gets there on a trickle of messy, in-person\nconversation, while a language model needs a vast written corpus.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a8178f#1",
+      "format": "flip",
+      "prompt": "Why do researchers find children's language learning interesting for AI?",
+      "back_html": "\u003cp\u003eKids reach fluency on far less data than any model needs — a hint that human\nlearning relies on something today's AI doesn't have.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a8178f#2",
+      "format": "flip",
+      "prompt": "Does an AI matching a human skill mean it learned the way humans do?",
+      "back_html": "\u003cp\u003eNo. Same outcome, very different route — language models arrive at fluency by\na method nothing in nature uses.\u003c/p\u003e"
+    }
+  ]
+}

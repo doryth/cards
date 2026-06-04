@@ -1,0 +1,100 @@
+{
+  "id": "card_1e9398",
+  "slug": "acids-bases-and-ph",
+  "type": "concept",
+  "title": "Acids, Bases, and pH",
+  "hook": "The pH scale measures how acidic or basic a solution is — and living cells must keep it within a narrow range to survive.",
+  "key_points": [
+    "pH measures the concentration of hydrogen ions in a solution.",
+    "The scale runs from 0 (most acidic) to 14 (most basic), with 7 as neutral.",
+    "Acids release hydrogen ions; bases accept them or release hydroxide ions.",
+    "The scale is logarithmic: each step is a tenfold change in acidity.",
+    "Cells use buffers to hold pH steady, because enzymes only work in a narrow range."
+  ],
+  "content_html": "\u003cp\u003eThe pH scale tells you how acidic or basic a watery solution is, based on how many hydrogen ions are floating around in it. It runs from 0 to 14: low numbers are acidic, high numbers are basic, and 7 — the pH of pure water — is neutral. Acids dump extra hydrogen ions into solution, while bases soak them up. For living things, this balance is not optional.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe scale is logarithmic, meaning each whole-number step represents a tenfold change in hydrogen-ion concentration: a pH of 5 is ten times more acidic than 6, and a hundred times more acidic than 7. That sensitivity matters because the proteins and enzymes that drive a cell's chemistry only fold and function within a narrow pH range. Human blood, for instance, is held tightly near pH 7.4. To resist swings, cells and bodies rely on buffers — chemical pairs that absorb or release hydrogen ions to keep pH steady. Khan Academy's article on acids, bases, pH, and buffers explains how these systems protect life's chemistry.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/water-acids-and-bases/acids-bases-and-ph/a/acids-bases-ph-and-bufffers",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "molecules-of-life"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_53fd95",
+      "slug": "water-and-life",
+      "type": "concept",
+      "title": "Water and Life",
+      "hook": "Life is built around a single small molecule — water. Its odd properties make it the stage on which almost all of biology happens.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_56a3a0",
+      "slug": "the-molecules-of-life",
+      "type": "concept",
+      "title": "The Molecules of Life",
+      "hook": "Almost everything in a living cell is built from just four families of large molecules — carbohydrates, lipids, proteins, and nucleic acids.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1e9398#0",
+      "format": "flip",
+      "prompt": "What does pH measure, and what is the neutral value?",
+      "back_html": "\u003cp\u003epH measures the concentration of \u003cstrong\u003ehydrogen ions\u003c/strong\u003e in a solution. A value of\n\u003cstrong\u003e7\u003c/strong\u003e is neutral; below 7 is acidic, above 7 is basic.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1e9398#1",
+      "format": "quiz",
+      "prompt": "A solution of pH 4 is how much more acidic than a solution of pH 6?",
+      "choices": [
+        {
+          "text": "100 times more acidic",
+          "correct": true
+        },
+        {
+          "text": "2 times more acidic",
+          "correct": false
+        },
+        {
+          "text": "Exactly the same",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe pH scale is logarithmic, so each unit is a tenfold change. Two units (6 to 4)\nmeans 10 × 10 = 100 times more acidic.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1e9398#2",
+      "format": "quiz",
+      "prompt": "Why is keeping pH stable so important for cells?",
+      "choices": [
+        {
+          "text": "Enzymes only function within a narrow pH range",
+          "correct": true
+        },
+        {
+          "text": "pH determines a cell's color",
+          "correct": false
+        },
+        {
+          "text": "Cells need acidity to glow in the dark",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMost enzymes — the proteins that run a cell's chemistry — only work properly\nwithin a narrow pH window, so cells use buffers to hold it steady.\u003c/p\u003e"
+    }
+  ]
+}

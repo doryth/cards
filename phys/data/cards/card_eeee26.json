@@ -1,0 +1,89 @@
+{
+  "id": "card_eeee26",
+  "slug": "why-that-eclipse-looked-golden",
+  "type": "news",
+  "title": "Why That Eclipse Looked Golden",
+  "hook": "Spain's total solar eclipse showed a gold corona instead of the usual pearly white. The Sun wasn't different — the air in front of it was.",
+  "key_points": [
+    "Observers in Spain saw the Sun's corona glowing gold rather than its usual silvery white.",
+    "The Sun was near setting, so its light crossed a much longer path of atmosphere.",
+    "Smoke from nearby wildfires filtered out even more of the blue light.",
+    "With blue stripped away, what remained read as gold — plus a bright pink prominence."
+  ],
+  "content_html": "\u003cp\u003eThe corona — the Sun's faint outer atmosphere, visible only when the Moon blocks the disk — is normally described as pearly white. During Spain's total solar eclipse, observers instead saw it glowing gold. Nothing unusual was happening to the Sun; the difference was entirely in the air between it and the viewers.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo filters stacked up. The eclipse happened with the Sun low in the sky, so its light took a long, slanted path through the atmosphere — the same geometry that turns ordinary sunsets red by scattering blue light out of the beam. On top of that, smoke from nearby wildfires added aerosols that removed still more of the short wavelengths. What survived the trip was dominated by the warmer end of the spectrum, so the corona read as gold. A bright pink solar prominence, a loop of hot gas arcing off the Sun's edge, punctuated the view. Reported by ScienceDaily, 20 August 2026.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260820002432.htm",
+    "published_at": "2026-08-20",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "light-optics",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-20",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_d0578d",
+      "slug": "why-the-sky-is-blue",
+      "type": "concept",
+      "title": "Why the Sky Is Blue",
+      "hook": "Sunlight is white, yet the sky is blue and sunsets are red. The reason is that air scatters blue light far more than red — and the rest follows.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80e637",
+      "slug": "electromagnetic-spectrum",
+      "type": "concept",
+      "title": "The Electromagnetic Spectrum",
+      "hook": "Radio, microwaves, the warmth of sunlight, the colors you see, and a hospital X-ray are all the same thing — electromagnetic waves, differing only in wavelength.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_eeee26#0",
+      "format": "flip",
+      "prompt": "Why did the eclipse corona look gold instead of white?",
+      "back_html": "\u003cp\u003eBlue light was stripped out of the beam — the low Sun meant a long path through\nair, and wildfire smoke removed still more blue. What got through looked gold.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eeee26#1",
+      "format": "quiz",
+      "prompt": "Why does a low Sun lose more of its blue light than a high one?",
+      "choices": [
+        {
+          "text": "Its light travels through a longer path of atmosphere",
+          "correct": true
+        },
+        {
+          "text": "The Sun emits less blue light in the evening",
+          "correct": false
+        },
+        {
+          "text": "The Moon absorbs the blue light during an eclipse",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNear the horizon, sunlight crosses far more air, so more of the blue gets\nscattered away before it reaches you. The Sun's own output doesn't change.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eeee26#2",
+      "format": "flip",
+      "prompt": "Besides the golden corona, what else stood out during this eclipse?",
+      "back_html": "\u003cp\u003eA bright pink solar prominence — a loop of glowing gas standing off the Sun's edge.\u003c/p\u003e"
+    }
+  ]
+}

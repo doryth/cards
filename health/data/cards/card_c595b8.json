@@ -1,0 +1,85 @@
+{
+  "id": "card_c595b8",
+  "slug": "fentanyl-test-strip-funding",
+  "type": "news",
+  "title": "Drug Checking Strips Lose Federal Funding",
+  "hook": "Test strips let someone check street drugs for hidden fentanyl before using. Federal officials say grant money can no longer buy them — and overdose workers are alarmed.",
+  "key_points": [
+    "Test strips detect dangerous adulterants — notably fentanyl — hidden in street drugs.",
+    "Trump administration officials said federal grants can't be used to distribute them.",
+    "Addiction and overdose-prevention groups warn the change will cost lives.",
+    "Most overdose deaths now involve fentanyl mixed into other drugs without the user's knowledge.",
+    "Drug checking is a harm-reduction tool: it doesn't treat addiction, it prevents deaths."
+  ],
+  "content_html": "\u003cp\u003eFentanyl test strips are a small piece of paper that turns a guess into information: dip it, and you learn whether the drug in front of you contains fentanyl. Federal officials have now said grant money can no longer be used to hand them out.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs NPR reports, addiction and overdose-prevention groups reacted with alarm. The strips sit squarely in the harm-reduction tradition — they make no attempt to treat addiction, and they don't pretend to. Their goal is narrower and more immediate: keep someone alive tonight, on the logic that a person who survives can enter treatment later and a person who doesn't, can't.\u003c/p\u003e\n\u003cp\u003eThe rationale matters because of how the overdose crisis actually kills. The large majority of overdose deaths now involve fentanyl that was mixed into another drug without the user's knowledge, at doses potent enough that the mistake is often unrecoverable. Critics of distribution argue that supplying the strips signals tolerance of drug use; the groups losing the funding argue that the alternative is people using blind.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Scott Maucione"
+    ],
+    "url": "https://npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+    "published_at": "2026-08-08",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "substance-use",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-08",
+  "related": [
+    {
+      "id": "card_c223da",
+      "slug": "understanding-addiction",
+      "type": "concept",
+      "title": "Understanding Addiction",
+      "hook": "Addiction isn't a lack of willpower or a moral failing — it's a treatable medical condition that changes how the brain works. And like other chronic illnesses, it responds to treatment.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_b9c029",
+      "slug": "experimental-fentanyl-vaccine",
+      "type": "news",
+      "title": "An Experimental Vaccine Against Fentanyl Overdose",
+      "hook": "Scripps researchers are testing a vaccine that trains the immune system to grab fentanyl in the bloodstream before it reaches the brain — and to recognize a broad range of its deadliest variants.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c595b8#0",
+      "format": "flip",
+      "prompt": "What problem do drug checking strips solve?",
+      "back_html": "\u003cp\u003eThey let someone test street drugs for dangerous hidden additives — above all\nfentanyl — before using. Most overdose deaths now involve fentanyl mixed into\nanother drug without the user knowing it's there.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c595b8#1",
+      "format": "quiz",
+      "prompt": "What does 'harm reduction' mean in the context of test strips?",
+      "choices": [
+        {
+          "text": "Preventing deaths among people who are still using, rather than treating addiction",
+          "correct": true
+        },
+        {
+          "text": "A form of addiction treatment that replaces one drug with another",
+          "correct": false
+        },
+        {
+          "text": "Legal penalties designed to discourage drug use",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTest strips don't treat addiction at all. They aim at a narrower goal: keeping\nsomeone alive through an episode of use, on the reasoning that a person who\nsurvives can still enter treatment later.\u003c/p\u003e"
+    }
+  ]
+}

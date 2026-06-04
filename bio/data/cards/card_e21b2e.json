@@ -1,0 +1,109 @@
+{
+  "id": "card_e21b2e",
+  "slug": "the-cambrian-explosion",
+  "type": "concept",
+  "title": "The Cambrian Explosion",
+  "hook": "Around 540 million years ago, after billions of years of mostly microbes, animal life suddenly diversified into a riot of body plans — most major groups appearing in a geological blink.",
+  "key_points": [
+    "The Cambrian explosion was a rapid burst of animal diversity ~540 million years ago.",
+    "Most major animal body plans (phyla) we see today first appear in this window.",
+    "Hard parts like shells and exoskeletons emerged, leaving a rich fossil record.",
+    "Likely triggers include rising oxygen, new genes, and the arms race of predators and prey."
+  ],
+  "content_html": "\u003cp\u003eFor most of Earth's history, life stayed small and simple — single cells, then modest soft-bodied creatures. Then, roughly 540 million years ago at the dawn of the Cambrian Period, the fossil record seems to erupt. Over a span that's brief by geological standards, animals diversified into an astonishing range of forms, and nearly all the major body plans — the basic architectures behind today's arthropods, mollusks, worms, and our own chordate lineage — make their first appearance.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePart of what makes the Cambrian so visible is the evolution of hard parts: shells, spikes, and exoskeletons that fossilize far better than soft tissue, so we suddenly have a much clearer window onto what was alive. As Encyclopaedia Britannica recounts, biologists still debate what set off this burst, but the leading candidates combine forces: a rise in atmospheric and ocean oxygen that could support active animal bodies, new genetic toolkits for building complex shapes, and an evolutionary arms race as the first real predators and their prey pushed each other to evolve eyes, armor, and speed. The result was the foundation of the animal kingdom we still live among today.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/Cambrian-Period",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "origin-of-life"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_71676e",
+      "slug": "the-history-of-life",
+      "type": "concept",
+      "title": "The History of Life",
+      "hook": "Life is about 3.5 billion years old, but for most of that time it was just microbes. Animals, plants, and us are latecomers crowded into the most recent slice of deep time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e0f432",
+      "slug": "mass-extinctions",
+      "type": "concept",
+      "title": "Mass Extinctions",
+      "hook": "Five times in the past half-billion years, life on Earth was nearly wiped out. Each catastrophe reset the course of evolution — and the asteroid that killed the dinosaurs was only the most famous.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_409a86",
+      "slug": "sex-and-early-animal-evolution",
+      "type": "news",
+      "title": "Did Sex Jump-Start Evolution?",
+      "hook": "Earth's first animals barely changed for ages. A study argues the switch from cloning to sex is what finally set evolution — and biodiversity — racing.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-10"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e21b2e#0",
+      "format": "flip",
+      "prompt": "What was the Cambrian explosion?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003erapid burst of animal diversity\u003c/strong\u003e about 540 million years ago, when most of\nthe major animal body plans alive today first appeared in the fossil record.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e21b2e#1",
+      "format": "quiz",
+      "prompt": "Why does the Cambrian leave such a rich fossil record compared to earlier life?",
+      "choices": [
+        {
+          "text": "Animals evolved hard parts like shells and exoskeletons, which fossilize well",
+          "correct": true
+        },
+        {
+          "text": "There were far more total organisms than at any time since",
+          "correct": false
+        },
+        {
+          "text": "Rocks only began forming in the Cambrian",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSoft bodies rarely fossilize. The Cambrian's new hard parts — shells, exoskeletons,\nteeth — preserved readily, so we suddenly see far more of what was living.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e21b2e#2",
+      "format": "quiz",
+      "prompt": "Which is a leading proposed trigger for the Cambrian explosion?",
+      "choices": [
+        {
+          "text": "Rising oxygen levels and a predator-prey arms race",
+          "correct": true
+        },
+        {
+          "text": "Humans introducing new species",
+          "correct": false
+        },
+        {
+          "text": "The Sun briefly switching off",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eScientists point to environmental and biological changes — more oxygen, new\ndevelopmental genes, and the pressure of new predators and prey co-evolving.\u003c/p\u003e"
+    }
+  ]
+}

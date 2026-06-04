@@ -1,0 +1,114 @@
+{
+  "id": "card_673c6a",
+  "slug": "strain-switches-on-altermagnetism",
+  "type": "news",
+  "title": "Stretching a Film Switches On a New Kind of Magnetism",
+  "hook": "Ruthenium dioxide looks stubbornly nonmagnetic. Shave it down to a few atomic layers and stretch it, and its electrons start behaving like an altermagnet.",
+  "key_points": [
+    "Ruthenium dioxide normally shows no magnetism at all in bulk form.",
+    "Grown as an ultrathin film only a few atomic layers thick and held under strain, it changed behavior.",
+    "Its electrons then showed patterns consistent with altermagnetism, a recently proposed magnetic state.",
+    "Strain and thickness act as switches — the same material can be coaxed into a different magnetic phase.",
+    "Altermagnets are candidates for faster, lower-power electronics, so a switchable one is valuable."
+  ],
+  "content_html": "\u003cp\u003eRuthenium dioxide is, by all appearances, a nonmagnetic material — a bulk crystal of it shows no magnetism worth speaking of. So it was a surprise when researchers reported, as covered by ScienceDaily, that shaving the material down to an ultrathin film only a few atomic layers thick and then straining it caused its electrons to arrange themselves in patterns consistent with altermagnetism.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAltermagnetism is a recently proposed magnetic state that sits alongside the two classic families — ferromagnets, whose atomic spins line up into a field you can feel, and antiferromagnets, whose spins alternate and cancel. What makes altermagnets attractive is that they seem to borrow useful electronic properties from ordinary magnets while keeping the speed and robustness of antiferromagnets, which is why they keep coming up in discussions of faster, lower-power electronics.\u003c/p\u003e\n\u003cp\u003eThe appeal of this particular result is less \u0026quot;new material\u0026quot; than \u0026quot;new switch\u0026quot;: thickness and mechanical strain became the dials that decide which magnetic phase the electrons settle into. If that control holds up under further study, it turns a hard-to-find state into something a device engineer could deliberately turn on.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260826055454.htm",
+    "published_at": "2026-08-27",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_c00178",
+      "slug": "altermagnets-a-new-class-of-magnet",
+      "type": "news",
+      "title": "Altermagnets: A Third Kind of Magnet",
+      "hook": "For a century, magnets came in two flavors. A new class called altermagnets blends the best of both — and a flaw in a diamond could be the tool that finally spots them.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "card_5fb13c",
+      "slug": "light-controlled-magnetism-2d-materials",
+      "type": "news",
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "hook": "In materials just atoms thick, light doesn't just illuminate anymore — it can directly flip magnetic behavior, a step toward memory and quantum devices run purely on light.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_b123c0",
+      "slug": "semiconductors-and-transistors",
+      "type": "concept",
+      "title": "Semiconductors and the Transistor",
+      "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_673c6a#0",
+      "format": "quiz",
+      "prompt": "What two conditions were needed to see altermagnetic behavior in ruthenium dioxide?",
+      "choices": [
+        {
+          "text": "An ultrathin film a few atomic layers thick, held under strain",
+          "correct": true
+        },
+        {
+          "text": "Cooling the bulk crystal to absolute zero",
+          "correct": false
+        },
+        {
+          "text": "Doping the crystal with iron atoms",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe material was grown just a few atomic layers thick and placed under\nstrain. Neither the bulk crystal nor a thick film shows this behavior.\u003c/p\u003e"
+    },
+    {
+      "id": "card_673c6a#1",
+      "format": "flip",
+      "prompt": "Why is it surprising that ruthenium dioxide showed signs of altermagnetism?",
+      "back_html": "\u003cp\u003eBecause in its ordinary bulk form the material \u003cstrong\u003eappears nonmagnetic\u003c/strong\u003e —\nthe magnetic behavior was not there to begin with, it had to be switched on.\u003c/p\u003e"
+    },
+    {
+      "id": "card_673c6a#2",
+      "format": "quiz",
+      "prompt": "What made this result interesting for future electronics?",
+      "choices": [
+        {
+          "text": "Altermagnets are promising for advanced, efficient electronics — and here the state could be induced on demand",
+          "correct": true
+        },
+        {
+          "text": "The film conducted electricity with zero resistance at room temperature",
+          "correct": false
+        },
+        {
+          "text": "It proved altermagnetism is impossible in thin films",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAltermagnetism is a sought-after state for next-generation devices; being\nable to turn it on with thickness and strain gives engineers a control knob.\u003c/p\u003e"
+    }
+  ]
+}

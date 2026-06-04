@@ -1,0 +1,83 @@
+{
+  "id": "card_5b4e06",
+  "slug": "tiny-whirlpools-on-the-sun",
+  "type": "news",
+  "title": "The Sun Is Covered in Whirlpools Too Small to See Until Now",
+  "hook": "Astronomers found plasma vortices on the Sun just 20 kilometres across — small enough to have hidden in plain sight, and possibly the engines behind its smallest flares.",
+  "key_points": [
+    "The newly resolved vortices swirl across the solar surface at scales down to about 20 km — tiny by solar standards, where one pixel used to cover far more.",
+    "Because plasma carries magnetic field lines with it, a spinning vortex twists those lines and stores energy in the twist.",
+    "Released, that stored energy could power nanoflares — the smallest solar eruptions, long suspected of heating the Sun's outer atmosphere.",
+    "The vortices may also spread magnetic field through the solar atmosphere far faster than current models predict.",
+    "Seeing them at all required pushing solar telescopes to their resolution limit, so nobody knows yet how many there are."
+  ],
+  "content_html": "\u003cp\u003eLook closely enough at the Sun and its surface turns out to be stippled with whirlpools. Researchers have resolved plasma vortices as small as about 20 kilometres across — a scale that previous observations simply smeared out — and they may matter far more than their size suggests.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe Sun's surface is not gas but plasma: charged particles that are effectively glued to magnetic field lines. When plasma spins, it winds those lines up, and a twisted magnetic field is a loaded spring. That makes these vortices a plausible power source for nanoflares, the smallest and most numerous solar eruptions, which have long been a leading candidate for the puzzle of why the Sun's outer atmosphere is hundreds of times hotter than its surface. The researchers also suggest the vortices could shuffle magnetic field through the atmosphere much faster than existing models allow — a hint that solar models are missing a whole layer of small-scale machinery. Since the vortices sit right at the edge of what today's solar telescopes can resolve, the ones we can see are probably the large end of the population.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260807035142.htm",
+    "published_at": "2026-08-08"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "electricity-magnetism"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-08",
+  "related": [
+    {
+      "id": "card_5086ca",
+      "slug": "solar-cycle-switch-off-prediction",
+      "type": "news",
+      "title": "The Sun's 'Switch-Off' Signal That Forecasts the Next Cycle",
+      "hook": "Partway through the Sun's 11-year cycle, a 'switch-off' moment shuts down its most violent storms — and the sunspots left over forecast the next cycle's strength years in advance.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-21"
+    },
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5b4e06#0",
+      "format": "flip",
+      "prompt": "Why does a swirling patch of solar plasma store energy?",
+      "back_html": "\u003cp\u003ePlasma drags magnetic field lines along with it, so a vortex \u003cstrong\u003etwists\u003c/strong\u003e the\nfield. Energy goes into that twist, and can later be released — potentially as\na small flare.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5b4e06#1",
+      "format": "quiz",
+      "prompt": "What solar phenomenon might these tiny vortices help explain?",
+      "choices": [
+        {
+          "text": "Nanoflares — the smallest solar eruptions",
+          "correct": true
+        },
+        {
+          "text": "The 11-year sunspot cycle",
+          "correct": false
+        },
+        {
+          "text": "The Sun's overall energy output from fusion",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTwisted magnetic fields from the vortices could supply the energy released in\nnanoflares, and may also spread magnetic field through the solar atmosphere\nfaster than models predict.\u003c/p\u003e"
+    }
+  ]
+}

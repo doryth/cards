@@ -1,0 +1,88 @@
+{
+  "id": "card_ac2d8c",
+  "slug": "gallium-covalent-bonds-return",
+  "type": "news",
+  "title": "A 150-Year-Old Gallium Mystery, Solved",
+  "hook": "Gallium melts in your hand — and for 30 years scientists assumed its atomic bonds vanish for good once it does. New research found those bonds actually come back at higher temperatures.",
+  "key_points": [
+    "Gallium melts at roughly body temperature, unusually low for a metal, and no one fully understood why.",
+    "For 30 years the field assumed gallium's covalent atomic bonds disappear permanently once it melts.",
+    "New work found those bonds unexpectedly reappear when the liquid is heated even further.",
+    "The reforming bonds may explain gallium's low melting point via entropy, and could inform semiconductors and liquid-metal engineering."
+  ],
+  "content_html": "\u003cp\u003eGallium is famous for a party trick: it's solid at room temperature but melts in your hand, one of the lowest melting points of any metal. For thirty years, the explanation researchers relied on was that gallium's covalent atomic bonds — the same kind of bond that holds a diamond together — vanish for good the moment the metal turns liquid.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNew research led by Dr. Steph Lambie (Max Planck Institute), Professor Nicola Gaston (University of Auckland), and Dr. Krista Steenbergen (Victoria University of Wellington) shows that assumption was wrong: those covalent bonds don't stay gone. Heat liquid gallium further, and the bonds unexpectedly re-form. \u0026quot;Thirty years of literature on the structure of liquid gallium has had a fundamental assumption that is evidently not true,\u0026quot; Gaston said. The team proposes that this on-again, off-again bonding — via its effect on entropy — is what gives gallium its oddly low melting point in the first place. Beyond settling a long-standing puzzle, the finding could feed into new semiconductor materials, nanotechnology, and the engineering of liquid metals. Published in \u003cem\u003eMaterials Horizons\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260707054119.htm",
+    "published_at": "2026-07-09",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-09",
+  "related": [
+    {
+      "id": "card_3ad16a",
+      "slug": "states-of-matter",
+      "type": "concept",
+      "title": "States of Matter",
+      "hook": "Solid, liquid, gas, plasma — the difference is how tightly particles are bound. Add heat and matter changes state, but during the change the temperature holds still.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_07a017",
+      "slug": "metal-film-thickness-controls-electrons",
+      "type": "news",
+      "title": "A Few Atoms Thinner, a Whole New Metal",
+      "hook": "Shave a metal film by just a couple of nanometers and its electronic behavior can change dramatically — a surprising new dial for tuning materials.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-06"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ac2d8c#0",
+      "format": "flip",
+      "prompt": "What did scientists wrongly assume about gallium's atomic bonds for 30 years?",
+      "back_html": "\u003cp\u003eThat gallium's \u003cstrong\u003ecovalent bonds disappear for good\u003c/strong\u003e once the metal melts, never to\nre-form as the liquid gets hotter.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ac2d8c#1",
+      "format": "quiz",
+      "prompt": "What did the new research actually find?",
+      "choices": [
+        {
+          "text": "Gallium's covalent bonds re-form when the liquid is heated to even higher temperatures",
+          "correct": true
+        },
+        {
+          "text": "Gallium never forms covalent bonds at any temperature",
+          "correct": false
+        },
+        {
+          "text": "Gallium stops melting once it gets hot enough",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe bonds don't just persist — they were believed gone after melting, but reappear at\nstill-higher temperatures, contradicting three decades of accepted theory.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ac2d8c#2",
+      "format": "flip",
+      "prompt": "Why does this finding matter beyond just gallium chemistry?",
+      "back_html": "\u003cp\u003eIt could reshape research into \u003cstrong\u003esemiconductors, nanotechnology, and liquid-metal\nengineering\u003c/strong\u003e, since gallium's unusual bonding underlies several of its practical uses.\u003c/p\u003e"
+    }
+  ]
+}

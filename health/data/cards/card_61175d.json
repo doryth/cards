@@ -1,0 +1,81 @@
+{
+  "id": "card_61175d",
+  "slug": "fried-potatoes-and-diabetes",
+  "type": "news",
+  "title": "French Fries, Not Potatoes, Tied to Diabetes",
+  "hook": "A 40-year study of 200,000+ people linked eating french fries about 3 times a week to higher type 2 diabetes risk — while boiled, baked, or mashed potatoes were not.",
+  "key_points": [
+    "Large study tracked more than 205,000 people for nearly 40 years — it shows links, not cause and effect.",
+    "Eating fries about three times a week was tied to a 20% higher risk of type 2 diabetes.",
+    "Baked, boiled, or mashed potatoes showed no significant increase in risk.",
+    "Swapping potatoes for whole grains lowered risk; swapping for white rice raised it."
+  ],
+  "content_html": "\u003cp\u003eIt may be the fries, not the potato. A large study tracking more than 205,000 people for nearly 40 years found that eating french fries about three times a week was linked to a 20% higher risk of developing type 2 diabetes — while baked, boiled, or mashed potatoes showed no significant increase. Because this is observational research, it points to an association rather than proving the fries themselves are to blame.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe contrast is the interesting part. According to ScienceDaily, plain potatoes prepared without deep-frying didn't carry the same risk signal, which suggests the issue may lie more in how the potato is cooked — and what comes with frying — than in the vegetable itself.\u003c/p\u003e\n\u003cp\u003eThe study also looked at swaps. Replacing potatoes with whole grains was associated with lower diabetes risk, while swapping them for white rice went the other way. That fits a broader pattern in nutrition research where whole grains tend to look favorable. As always with this kind of study, the findings describe links across a large population, not a guarantee for any one person — but cutting back on fries in favor of whole grains is a low-risk, sensible move.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260603015218.htm",
+    "published_at": "2026-06-03",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "nutrition",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-05",
+  "date": "2026-06-03",
+  "related": [
+    {
+      "id": "card_bcf692",
+      "slug": "preventing-type-2-diabetes",
+      "type": "concept",
+      "title": "Preventing Type 2 Diabetes",
+      "hook": "Type 2 diabetes often arrives slowly, with a warning stage called prediabetes — and at that stage, modest lifestyle changes can stop or delay it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0d01b9",
+      "slug": "cutting-down-on-added-sugar",
+      "type": "concept",
+      "title": "Cutting Down on Added Sugar",
+      "hook": "It's not the sugar in an apple that's the problem — it's the added sugar hiding in drinks, sauces, and 'healthy' snacks, adding empty calories you never asked for.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_61175d#0",
+      "format": "quiz",
+      "prompt": "Which form of potato was tied to higher type 2 diabetes risk in the study?",
+      "choices": [
+        {
+          "text": "French fries",
+          "correct": true
+        },
+        {
+          "text": "Boiled potatoes",
+          "correct": false
+        },
+        {
+          "text": "Baked potatoes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEating fries about three times a week was linked to a 20% higher risk, while baked,\nboiled, or mashed potatoes showed no significant increase — it's the frying, not the potato.\u003c/p\u003e"
+    },
+    {
+      "id": "card_61175d#1",
+      "format": "flip",
+      "prompt": "Why is this potato study about associations rather than proof?",
+      "back_html": "\u003cp\u003eIt's an \u003cstrong\u003eobservational\u003c/strong\u003e study that followed people's eating habits over decades.\nIt can show that fries were \u003cem\u003elinked\u003c/em\u003e to higher diabetes risk, but it can't prove the\nfries themselves caused it — diet and lifestyle differ in many ways.\u003c/p\u003e"
+    }
+  ]
+}

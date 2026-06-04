@@ -1,0 +1,123 @@
+{
+  "id": "card_50048a",
+  "slug": "pilot-wave-theory",
+  "type": "paper",
+  "title": "The Quantum Theory Where Particles Have Positions",
+  "hook": "Pilot-wave theory takes the radical step of saying particles always have definite positions, guided by the wave function. It reproduces all of quantum mechanics — at a price.",
+  "key_points": [
+    "De Broglie–Bohm theory is the most influential hidden-variable reading of quantum mechanics.",
+    "Particles have definite trajectories at all times; the wave function acts as a guiding field.",
+    "It reproduces standard quantum predictions, including the Born rule for probabilities, which it derives rather than postulates.",
+    "The price is explicit nonlocality and awkward extensions to spin and relativistic settings.",
+    "This review examines the theory's main formulations and argues about whether it is really simpler than textbook quantum mechanics."
+  ],
+  "content_html": "\u003cp\u003eStandard quantum mechanics says a particle has no definite position until you measure it. Pilot-wave theory, worked out by Louis de Broglie and later David Bohm, refuses that: particles always have positions and follow trajectories, and the wave function is a real field that guides them. Run the double-slit experiment and each electron really does go through one slit — the guiding wave, passing through both, is what steers it into the interference pattern.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAndrea Oldofredi's review walks through the theory's main formulations and the questions they raise: where the Born rule for probabilities comes from (here something to be derived, not assumed), what the wave function actually \u003cem\u003eis\u003c/em\u003e, how spin fits into a picture built on positions, and how far the approach can be pushed beyond non-relativistic quantum mechanics. Oldofredi also weighs the frequent claim that pilot-wave theory is conceptually simpler than the textbook version — it eliminates measurement collapse, but it buys that with an unavoidable, explicit nonlocality. The theory matters less as a likely replacement than as a proof of concept: quantum predictions do not \u003cem\u003eforce\u003c/em\u003e you to give up definite reality, they only make it expensive.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Andrea Oldofredi"
+    ],
+    "url": "https://arxiv.org/abs/2608.18829",
+    "published_at": "2026-08-19",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fbcad2",
+      "slug": "classical-probability-double-slit",
+      "type": "paper",
+      "title": "Can Classical Probability Alone Explain the Double-Slit Pattern?",
+      "hook": "The double-slit interference pattern is physics' go-to symbol of quantum weirdness. A theoretical study shows classical probability alone can reproduce it, given the right ingredients.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_50048a#0",
+      "format": "flip",
+      "prompt": "What is the central claim of de Broglie–Bohm pilot-wave theory?",
+      "back_html": "\u003cp\u003eParticles have \u003cstrong\u003edefinite positions and trajectories at all times\u003c/strong\u003e; the wave function\nis a real guiding field that steers them. Nothing \u0026quot;collapses.\u0026quot;\u003c/p\u003e"
+    },
+    {
+      "id": "card_50048a#1",
+      "format": "quiz",
+      "prompt": "How does pilot-wave theory treat the Born rule for quantum probabilities?",
+      "choices": [
+        {
+          "text": "It derives the rule rather than postulating it",
+          "correct": true
+        },
+        {
+          "text": "It rejects the rule and predicts different probabilities",
+          "correct": false
+        },
+        {
+          "text": "It postulates the rule exactly as standard quantum mechanics does",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause the particle trajectories are definite, the statistics of measurement outcomes\nbecome something to explain — and the origin of the Born rule is one of the theory's\nmain topics.\u003c/p\u003e"
+    },
+    {
+      "id": "card_50048a#2",
+      "format": "flip",
+      "prompt": "What does pilot-wave theory pay for restoring definite trajectories?",
+      "back_html": "\u003cp\u003eExplicit \u003cstrong\u003enonlocality\u003c/strong\u003e, plus awkwardness in handling \u003cstrong\u003espin\u003c/strong\u003e and in extending beyond\nnon-relativistic quantum mechanics.\u003c/p\u003e"
+    }
+  ]
+}

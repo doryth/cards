@@ -1,0 +1,82 @@
+{
+  "id": "card_fc1b77",
+  "slug": "why-female-immunity-differs",
+  "type": "news",
+  "title": "Why Female Immunity Runs Hotter",
+  "hook": "Women get autoimmune diseases like lupus far more often than men. Over 1,000 genetic switches behave differently in male and female immune cells — a stronger defense that can misfire.",
+  "key_points": [
+    "More than 1,000 genetic switches act differently in male versus female immune cells.",
+    "Female immune systems appear genetically tuned for stronger inflammatory responses.",
+    "That tuning is a real advantage against infection.",
+    "The same setting may make dangerous immune misfires more likely.",
+    "It helps explain why autoimmune diseases such as lupus hit women much harder."
+  ],
+  "content_html": "\u003cp\u003eAutoimmune diseases are strikingly lopsided by sex: lupus, for instance, is diagnosed in women far more often than in men. New work reported by ScienceDaily suggests the reason is written into how immune cells read their own genes.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers found that more than 1,000 genetic switches — the regulatory elements that decide which genes get turned up or down — behave differently in male and female immune cells. The pattern points one direction: female immune systems appear genetically tuned toward stronger inflammatory responses.\u003c/p\u003e\n\u003cp\u003eThat is a double-edged setting. A harder-hitting immune response is a genuine advantage against infection, which is part of why it likely evolved. But the same aggressiveness raises the odds of a misfire, where the system attacks the body's own tissue. Framing autoimmunity as the cost of a well-armed defense, rather than a random malfunction, gives researchers a much more specific place to look for treatments.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260819041239.htm",
+    "published_at": "2026-08-20",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "womens-health"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_e7377c",
+      "slug": "foamy-cells-and-ms",
+      "type": "news",
+      "title": "The 'Foamy' Brain Cells Linked to Aggressive MS",
+      "hook": "Why does multiple sclerosis race ahead in some people and stay quiet in others? Brain tissue from severe cases reveals fat-stuffed immune cells that may flip from repair mode to relentless damage.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_cbbdb2",
+      "slug": "adhd-in-women",
+      "type": "news",
+      "title": "ADHD Looks Different in Women — and Gets Missed for Decades",
+      "hook": "Girls with ADHD look distracted rather than disruptive, so diagnosis often waits until adulthood. The cost isn't just lost years — one UK study found women with ADHD die nearly nine years earlier.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fc1b77#0",
+      "format": "flip",
+      "prompt": "What did researchers find differs between male and female immune cells?",
+      "back_html": "\u003cp\u003eMore than \u003cstrong\u003e1,000 genetic switches\u003c/strong\u003e behave differently — leaving female immune\nsystems tuned for stronger inflammatory responses.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fc1b77#1",
+      "format": "quiz",
+      "prompt": "Why might a stronger inflammatory response also be a liability?",
+      "choices": [
+        {
+          "text": "The same aggressive response can misfire against the body's own tissue",
+          "correct": true
+        },
+        {
+          "text": "It uses up the immune system's fixed lifetime supply of antibodies",
+          "correct": false
+        },
+        {
+          "text": "It blocks vaccines from working at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA defense tuned to react hard is better at clearing infections but more prone to\nturning on the body — which is what autoimmune disease is.\u003c/p\u003e"
+    }
+  ]
+}

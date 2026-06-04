@@ -1,0 +1,101 @@
+{
+  "id": "card_53fd95",
+  "slug": "water-and-life",
+  "type": "concept",
+  "title": "Water and Life",
+  "hook": "Life is built around a single small molecule — water. Its odd properties make it the stage on which almost all of biology happens.",
+  "key_points": [
+    "Water molecules are polar, with slightly positive and negative ends that attract each other.",
+    "Those attractions, called hydrogen bonds, give water its surprising strength and stickiness.",
+    "Water dissolves a huge range of substances, making it the medium for the cell's chemistry.",
+    "It resists temperature swings and is denser as a liquid than as ice, shielding life from extremes."
+  ],
+  "content_html": "\u003cp\u003eWater is so ordinary we forget it is strange. Most molecules its size are gases at room temperature, yet water is a liquid that life cannot do without. The secret is its shape: two hydrogen atoms perched on an oxygen, with the charge spread unevenly. That polarity makes water molecules stick to each other and to almost everything else.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Khan Academy explains, water's slightly negative oxygen and slightly positive hydrogens let neighboring molecules form \u003cstrong\u003ehydrogen bonds\u003c/strong\u003e — weak attractions that constantly break and reform. This single feature cascades into water's life-friendly traits: it dissolves salts, sugars, and many other molecules so the cell's chemistry can unfold in solution; it soaks up heat without boiling away, buffering organisms against temperature swings; and because ice is less dense than liquid water, it floats, letting lakes freeze on top while life survives below. Take away these properties and the watery interior every cell depends on would simply not exist.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/water-acids-and-bases/hydrogen-bonding-in-water/a/water-as-a-solvent",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "molecules-of-life"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_56a3a0",
+      "slug": "the-molecules-of-life",
+      "type": "concept",
+      "title": "The Molecules of Life",
+      "hook": "Almost everything in a living cell is built from just four families of large molecules — carbohydrates, lipids, proteins, and nucleic acids.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_14dba3",
+      "slug": "cell-membrane-and-transport",
+      "type": "concept",
+      "title": "The Cell Membrane: Gatekeeper of the Cell",
+      "hook": "A flexible, oily film just two molecules thick decides what enters and leaves every cell — and it pulls off some of that traffic for free.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_53fd95#0",
+      "format": "flip",
+      "prompt": "Why is water described as a polar molecule?",
+      "back_html": "\u003cp\u003eIts electrons sit closer to the oxygen atom, leaving the oxygen end slightly\n\u003cstrong\u003enegative\u003c/strong\u003e and the hydrogen ends slightly \u003cstrong\u003epositive\u003c/strong\u003e. This uneven charge\nlets water molecules cling to one another and to other substances.\u003c/p\u003e"
+    },
+    {
+      "id": "card_53fd95#1",
+      "format": "quiz",
+      "prompt": "What kind of bond forms between neighboring water molecules?",
+      "choices": [
+        {
+          "text": "Hydrogen bonds",
+          "correct": true
+        },
+        {
+          "text": "Permanent metallic bonds",
+          "correct": false
+        },
+        {
+          "text": "No bonds — water molecules ignore each other",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe slightly positive hydrogen of one molecule is attracted to the slightly\nnegative oxygen of another, forming a \u003cstrong\u003ehydrogen bond\u003c/strong\u003e. These weak, temporary\nlinks explain much of water's unusual behavior.\u003c/p\u003e"
+    },
+    {
+      "id": "card_53fd95#2",
+      "format": "quiz",
+      "prompt": "Why is water often called the 'universal solvent' of life?",
+      "choices": [
+        {
+          "text": "Its polarity lets it dissolve many substances, so chemistry can happen in it",
+          "correct": true
+        },
+        {
+          "text": "It is the only liquid that exists on Earth",
+          "correct": false
+        },
+        {
+          "text": "It chemically destroys anything placed in it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause water is polar, it surrounds and pulls apart many charged or polar\nmolecules, dissolving them. That makes water the \u003cstrong\u003emedium\u003c/strong\u003e in which most of\nthe cell's reactions take place.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "card_10daf5",
+  "slug": "black-hole-energy-extraction-in-the-lab",
+  "type": "news",
+  "title": "Physicists Recreated a Black Hole's Energy-Extraction Trick",
+  "hook": "Roger Penrose showed a spinning black hole can hand energy to whatever passes through it. Physicists just reproduced that effect on a lab bench — no black hole, nothing spinning, required.",
+  "key_points": [
+    "The Penrose process: a particle entering a rotating black hole's ergosphere can split, with one fragment escaping carrying more energy than it entered with.",
+    "Yakov Zel'dovich predicted waves could gain energy from rotation the same way — an effect never directly observed for black holes.",
+    "Researchers built a stationary ring of electronic resonators whose properties were synchronously adjusted to mimic ultrafast rotation, without any physical spinning.",
+    "Waves with the right rotational character were amplified by the setup, reproducing the Penrose-Zel'dovich effect in the lab for the first time."
+  ],
+  "content_html": "\u003cp\u003eIn the 1970s, Roger Penrose showed that a rotating black hole isn't just a one-way trap — under the right conditions, it can actually hand energy to something passing through it. A particle entering the black hole's ergosphere can split, with one fragment falling in while the other escapes carrying away more energy than it started with. Physicist Yakov Zel'dovich later predicted waves could gain energy from rotation the same way, but no one had directly observed the effect for anything resembling a black hole.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team at the CUNY Graduate Center's Advanced Science Research Center, led by Andrea Alù with lead author Hadiseh Nasari, built a way to test it without a black hole at all. Their device is a ring of electronic resonators, physically stationary, whose properties are rapidly adjusted in a precisely synchronized sequence — creating traveling electromagnetic patterns that make waves behave as though the system were spinning at extraordinary speed, with no actual mechanical motion involved. When waves with the right rotational characteristics hit the setup, they came out amplified, extracting energy from the system exactly as the Penrose-Zel'dovich effect predicts. The result turns a decades-old piece of black hole theory into a controllable lab experiment, with potential spinoffs in wireless communications, optics, and photonics. Published in \u003cem\u003eNature\u003c/em\u003e as \u0026quot;Observation of Floquet rotational super-radiance.\u0026quot;\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260711010120.htm",
+    "published_at": "2026-07-12",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-12",
+  "related": [
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a9dd8c",
+      "slug": "gravastar-instead-of-black-hole",
+      "type": "news",
+      "title": "What If a Dying Star Made a Universe, Not a Black Hole?",
+      "hook": "A new theoretical study floats a wild alternative to the black hole: a collapsing star might birth a tiny dark-energy-filled universe inside itself, halting the crush before a singularity forms.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-14"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_10daf5#0",
+      "format": "flip",
+      "prompt": "What is the Penrose process?",
+      "back_html": "\u003cp\u003eA theoretical mechanism where a particle entering a rotating black hole's \u003cstrong\u003eergosphere\u003c/strong\u003e\nsplits in two; one fragment falls in while the other escapes with more energy than the\noriginal particle had — extracting energy from the black hole's spin.\u003c/p\u003e"
+    },
+    {
+      "id": "card_10daf5#1",
+      "format": "quiz",
+      "prompt": "How did researchers recreate this effect without an actual spinning object?",
+      "choices": [
+        {
+          "text": "By synchronously adjusting the properties of a ring of stationary electronic resonators to mimic ultrafast rotation",
+          "correct": true
+        },
+        {
+          "text": "By physically spinning a small dense metal disk at extreme speed",
+          "correct": false
+        },
+        {
+          "text": "By simulating the effect purely in software, with no physical device",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe device stayed physically still; rapidly and synchronously varying the resonators'\nproperties created traveling patterns that waves experienced as if the system were\nspinning extremely fast.\u003c/p\u003e"
+    },
+    {
+      "id": "card_10daf5#2",
+      "format": "flip",
+      "prompt": "What happened when waves with the right characteristics hit this engineered 'rotating' system?",
+      "back_html": "\u003cp\u003eThey were \u003cstrong\u003eamplified\u003c/strong\u003e, extracting energy from the system — reproducing the\nPenrose-Zel'dovich effect predicted for spinning black holes, but on a lab bench.\u003c/p\u003e"
+    }
+  ]
+}

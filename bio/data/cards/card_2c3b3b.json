@@ -1,0 +1,110 @@
+{
+  "id": "card_2c3b3b",
+  "slug": "the-liver",
+  "type": "concept",
+  "title": "The Liver",
+  "hook": "The liver is the body's chemical plant — it filters toxins, makes bile, stores fuel, and runs hundreds of jobs no other organ can.",
+  "key_points": [
+    "The liver is the largest internal organ and performs over 500 distinct functions.",
+    "It detoxifies the blood, breaking down drugs, alcohol, and metabolic waste.",
+    "It produces bile, which the gut needs to digest and absorb fats.",
+    "It stores energy as glycogen and releases glucose to keep blood sugar steady.",
+    "It can regenerate, regrowing to full size from a fraction of its tissue."
+  ],
+  "content_html": "\u003cp\u003eThe liver is the body's chemical plant — the largest internal organ and one of the busiest, running an estimated 500-plus jobs. Blood from the gut flows through it first, so it can strip out toxins, break down drugs and alcohol, and process the nutrients you just absorbed before they reach the rest of the body.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Encyclopaedia Britannica describes, the liver wears many hats at once. It manufactures bile, which the small intestine needs to digest fats. It acts as a fuel bank, storing surplus sugar as glycogen and releasing glucose when blood sugar dips, helping the body hold a steady internal balance. It builds blood proteins, stores certain vitamins and iron, and neutralizes ammonia and other waste so the kidneys can flush it out. Remarkably, the liver can also regenerate, regrowing to full size from a fraction of its tissue — a property that makes living-donor liver transplants possible.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/liver",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "human-body"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_3d61f3",
+      "slug": "the-digestive-system",
+      "type": "concept",
+      "title": "The Digestive System",
+      "hook": "From the first bite to the final absorption, your digestive tract is a one-way assembly line that turns food into fuel your cells can use.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b9b75e",
+      "slug": "what-blood-does",
+      "type": "concept",
+      "title": "What Blood Does",
+      "hook": "Blood looks like a single red liquid, but it's really a fleet of specialized parts — each cell type and the fluid itself carrying out a different life-sustaining job.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82a753",
+      "slug": "homeostasis",
+      "type": "concept",
+      "title": "Homeostasis: Staying Balanced",
+      "hook": "Your body works hard to keep its inside world steady — temperature, water, blood sugar — no matter what's happening outside. That balancing act is homeostasis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2c3b3b#0",
+      "format": "flip",
+      "prompt": "Why is the liver called the body's chemical plant?",
+      "back_html": "\u003cp\u003eBecause it runs \u003cstrong\u003ehundreds of chemical jobs\u003c/strong\u003e — detoxifying the blood, making\nbile, storing energy, and building proteins — all in one organ.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2c3b3b#1",
+      "format": "quiz",
+      "prompt": "What does the liver produce to help digest fats?",
+      "choices": [
+        {
+          "text": "Bile",
+          "correct": true
+        },
+        {
+          "text": "Insulin",
+          "correct": false
+        },
+        {
+          "text": "Saliva",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe liver makes \u003cstrong\u003ebile\u003c/strong\u003e, which is stored in the gallbladder and released into\nthe gut to break large fat droplets into smaller ones the body can absorb.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2c3b3b#2",
+      "format": "quiz",
+      "prompt": "What unusual ability sets the liver apart from most organs?",
+      "choices": [
+        {
+          "text": "It can regenerate, regrowing from a fraction of itself",
+          "correct": true
+        },
+        {
+          "text": "It can beat on its own without nerves",
+          "correct": false
+        },
+        {
+          "text": "It works without any blood supply",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe liver is remarkably \u003cstrong\u003eregenerative\u003c/strong\u003e — even after losing much of its mass,\nthe remaining tissue can grow back to a functional size.\u003c/p\u003e"
+    }
+  ]
+}

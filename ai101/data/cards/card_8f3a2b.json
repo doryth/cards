@@ -1,0 +1,97 @@
+{
+  "id": "card_8f3a2b",
+  "slug": "claude-fable-cheaper-agents",
+  "type": "news",
+  "title": "An AI Lab Ships a Model to Fix Customer Complaints, Not Benchmarks",
+  "hook": "Anthropic's Claude Fable 5.1 is pitched on price, data retention, and fewer needless refusals — the three things customers kept griping about.",
+  "key_points": [
+    "Anthropic launched Claude Fable 5.1 and Mythos 5.1, per The Verge.",
+    "The company claims Fable 5.1 is around 25 percent cheaper than Fable 5 typically, and up to 45 percent cheaper for complex agentic tasks.",
+    "Anthropic frames the release as answering customer criticism of price, data retention, and 'overzealous safeguards'.",
+    "'Overzealous safeguards' means over-refusal: a model declining harmless requests it misreads as risky.",
+    "Agentic work is expensive because an agent loops — many model calls per task, not one.",
+    "These are the vendor's own claims; independent benchmarks are not part of the announcement."
+  ],
+  "content_html": "\u003cp\u003eAnthropic released Claude Fable 5.1 and Mythos 5.1, and the pitch is unusually plain about who it's aimed at. Rather than leading with benchmark scores, the company framed the models as a response to three things customers had been complaining about: price, data retention, and what The Verge summarizes as \u0026quot;overzealous safeguards.\u0026quot; Anthropic says Fable 5.1 performs better than Fable 5 while costing roughly 25 percent less in typical use, and up to 45 percent less on complex agentic tasks.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo bits of jargon are worth unpacking. \u0026quot;Overzealous safeguards\u0026quot; is over-refusal — the model declining a perfectly innocent request because a safety filter misread it. It's a real and widely-reported annoyance, and it's notable that a lab now treats fixing it as a headline feature rather than a quiet patch.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Agentic tasks\u0026quot; explains why the second discount is larger than the first. When AI acts as an agent — planning, calling tools, checking its own work — a single task can trigger dozens of model calls in a loop. Costs that look trivial per message become the dominant expense at that scale, which is why labs advertise agentic pricing separately.\u003c/p\u003e\n\u003cp\u003eThe usual caveat applies: every number here is Anthropic's. Treat vendor claims as a direction of travel, not a verdict.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Stevie Bonifield"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "published_at": "2026-09-01",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "chatbots",
+    "ai-agents",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-09-01",
+  "related": [
+    {
+      "id": "card_04d4e5",
+      "slug": "gemini-flash-release-treadmill",
+      "type": "news",
+      "title": "Three Model Releases in Six Weeks, All Named Almost the Same",
+      "hook": "Google shipped Gemini 3.8 Flash weeks after 3.7. The naming churn hides a real question: which version are you actually talking to?",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-09-02"
+    },
+    {
+      "id": "card_42f5a2",
+      "slug": "which-chatbot-to-use",
+      "type": "concept",
+      "title": "Which Chatbot Should I Use?",
+      "hook": "ChatGPT, Claude, Gemini, Copilot, Meta AI — they're more alike than different. The honest answer to 'which is best' is: the one you'll actually open, plus a second to cross-check.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8f3a2b#0",
+      "format": "flip",
+      "prompt": "Why is 'agentic' work so much more expensive than a single chat reply?",
+      "back_html": "\u003cp\u003eAn agent loops — planning, calling tools, checking its work — so one task can mean\ndozens of model calls. Small per-call savings compound fast.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8f3a2b#1",
+      "format": "quiz",
+      "prompt": "What does a lab mean when it says it fixed 'overzealous safeguards'?",
+      "choices": [
+        {
+          "text": "The model was refusing harmless requests it misread as risky",
+          "correct": true
+        },
+        {
+          "text": "The model was leaking private training data",
+          "correct": false
+        },
+        {
+          "text": "The model was too slow because of extra safety checks",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOver-refusal is the failure mode where a safety filter fires on benign requests.\nIt frustrates users without preventing any actual harm.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8f3a2b#2",
+      "format": "flip",
+      "prompt": "What should you keep in mind about the 25–45 percent savings figures?",
+      "back_html": "\u003cp\u003eThey come from Anthropic's own announcement. Vendor-reported numbers are a claim,\nnot an independent measurement — useful directionally, not as proof.\u003c/p\u003e"
+    }
+  ]
+}

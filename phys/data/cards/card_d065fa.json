@@ -1,0 +1,93 @@
+{
+  "id": "card_d065fa",
+  "slug": "the-wigner-angle",
+  "type": "paper",
+  "title": "Two speed boosts don't make a bigger boost — they make a rotation",
+  "hook": "Combine two Lorentz boosts in different directions and relativity hands you back a boost plus an unexpected twist. That twist is the Wigner angle, and it's notoriously awkward to compute.",
+  "key_points": [
+    "Two Lorentz boosts in different directions do not compose into a single boost — you get a boost plus a rotation.",
+    "That extra rotation is the Wigner angle; it has no Newtonian counterpart and vanishes only for boosts along one line.",
+    "Finding the combined boost's energy and direction is straightforward; extracting the Wigner angle is the hard part.",
+    "The article reviews three routes to the same formula: vector, matrix and spinor derivations.",
+    "All three agree, as they must — the point is that the right viewpoint makes a fiddly problem easy."
+  ],
+  "content_html": "\u003cp\u003eHere is a fact about special relativity that catches almost everyone off guard the first time. Take two Lorentz boosts — changes of velocity — in different directions and apply them one after the other. In Newtonian physics you would simply add the velocities and be done. In relativity you do not get another pure boost: you get a boost \u003cem\u003eand\u003c/em\u003e a rotation. That leftover rotation is called the Wigner angle, and it is a purely relativistic effect with no classical counterpart.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eC. J. McKinstrie and M. V. Kozlov set out to make the calculation less painful. Working in time plus two space dimensions, where Lorentz transformations consist of boosts, rotations and their combinations, they note that finding the energy and direction of the combined boost is straightforward — it is the Wigner angle that is stubborn. Their article reviews three separate derivations of formulas for it: a vector derivation, a matrix derivation and a spinor derivation, discussing the mathematics and physics behind each. The three routes look nothing alike but produce equivalent results, as they must. The broader moral the authors draw is a familiar one in physics: the problem is only hard until you look at it the right way. (The same geometric effect is the well-known origin of Thomas precession, though that lies outside this article's scope.)\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "C. J. McKinstrie",
+      "M. V. Kozlov"
+    ],
+    "url": "https://arxiv.org/abs/2607.21724",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_987298",
+      "slug": "special-relativity-basics",
+      "type": "concept",
+      "title": "Special Relativity, Gently",
+      "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_45c4fe",
+      "slug": "e-equals-mc-squared",
+      "type": "concept",
+      "title": "E = mc²: Mass Is Energy",
+      "hook": "The most famous equation in physics says mass and energy are the same thing. Because the speed of light squared is a colossal number, a tiny bit of mass holds a staggering amount of energy.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d065fa#0",
+      "format": "flip",
+      "prompt": "What is the Wigner angle?",
+      "back_html": "\u003cp\u003eThe rotation angle you're left with when two Lorentz boosts in different directions are\ncombined — the result is a boost \u003cem\u003efollowed by\u003c/em\u003e a rotation, not just another boost.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d065fa#1",
+      "format": "quiz",
+      "prompt": "What happens when you combine two Lorentz boosts in different directions?",
+      "choices": [
+        {
+          "text": "You get a boost followed by a rotation",
+          "correct": true
+        },
+        {
+          "text": "You always get a single, larger boost in an intermediate direction",
+          "correct": false
+        },
+        {
+          "text": "You get a rotation only, with no net boost",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn general the composition of two non-parallel boosts is not a boost. The leftover rotation\nis the Wigner angle — a purely relativistic effect with no Newtonian analogue.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d065fa#2",
+      "format": "flip",
+      "prompt": "Which part of the composition is hard to calculate, and which is easy?",
+      "back_html": "\u003cp\u003eDetermining the combined boost's energy and direction is straightforward; determining the\nWigner angle is the difficult part.\u003c/p\u003e"
+    }
+  ]
+}

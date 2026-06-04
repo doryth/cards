@@ -1,0 +1,129 @@
+{
+  "id": "card_1cbc0b",
+  "slug": "state-ai-law-and-federal-preemption",
+  "type": "news",
+  "title": "States Are Writing AI Law First — and Federal Preemption Looms Over All of It",
+  "hook": "With no comprehensive federal AI law yet, states have become the testing ground for regulating artificial intelligence. That leaves every state AI law exposed to a preemption fight.",
+  "key_points": [
+    "In the absence of a comprehensive federal AI statute, states have moved first — passing their own rules on AI discrimination, transparency, and disclosure.",
+    "Colorado passed one of the first state laws targeting AI-driven discrimination, then narrowed it to a lighter transparency requirement after pushback over compliance costs.",
+    "Even the weakened version may still face a federal preemption challenge, since federal agencies can argue a patchwork of state AI rules conflicts with national policy.",
+    "This is the same tension the Constitution's Supremacy Clause creates whenever federal and state law overlap: states can act first, but a later or more assertive federal move can override them.",
+    "Until Congress or federal regulators settle on one national AI framework, every state AI law is written knowing a federal challenge could unmake it."
+  ],
+  "content_html": "\u003cp\u003eWith Congress yet to pass a comprehensive AI law, states have stepped into the gap — writing their own rules on AI-driven discrimination, disclosure, and transparency well before Washington does. That leaves every one of those laws sitting on unstable ground.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eColorado was among the first states to target AI discrimination directly, but business pushback over compliance costs led it to narrow the law into a lighter transparency requirement, according to The Conversation's Stefani Langehennig. Even that weakened version may not be safe: federal agencies can still argue that a patchwork of differing state AI rules conflicts with a coherent national approach, opening a preemption fight regardless of how the state law is written. It's the Supremacy Clause dynamic playing out in a brand-new policy area — states can move first on AI, but a more assertive federal stance later can still override what they've built, as it can with any state law federal authorities decide to contest. (This card describes U.S. federal-state dynamics specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Stefani Langehennig"
+    ],
+    "url": "https://theconversation.com/why-colorado-replaced-its-ai-discrimination-law-with-a-transparency-requirement-that-the-feds-might-challenge-anyway-286517",
+    "published_at": "2026-07-09",
+    "license": "© The Conversation (CC BY-ND)"
+  },
+  "topic_ids": [
+    "technology-and-politics",
+    "federalism-levels"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-09",
+  "related": [
+    {
+      "id": "card_edb3f3",
+      "slug": "federal-preemption",
+      "type": "news",
+      "title": "When Federal Law Overrides the States",
+      "hook": "Who decides what warning goes on a bottle of weed killer — a state jury or the federal government? The answer turns on a quiet but powerful rule called preemption.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c978c5",
+      "slug": "markets-regulation-mixed-economy",
+      "type": "concept",
+      "title": "Markets, Regulation \u0026 the Mixed Economy",
+      "hook": "Pure free market or full state control? Almost every country picks neither — they run a mixed economy, and where they draw the line is one of politics' great arguments.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_edb3f3",
+      "slug": "federal-preemption",
+      "type": "news",
+      "title": "When Federal Law Overrides the States",
+      "hook": "Who decides what warning goes on a bottle of weed killer — a state jury or the federal government? The answer turns on a quiet but powerful rule called preemption.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_1cbc0b#0",
+      "format": "flip",
+      "prompt": "Why have states, rather than Congress, been the first movers on AI regulation?",
+      "back_html": "\u003cp\u003eThere is no comprehensive federal AI statute yet, leaving states to\npass their own rules on things like AI-driven discrimination and\ndisclosure in the meantime.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1cbc0b#1",
+      "format": "quiz",
+      "prompt": "What happened to Colorado's AI discrimination law in 2026?",
+      "choices": [
+        {
+          "text": "It was narrowed into a lighter transparency requirement after pushback over compliance costs",
+          "correct": true
+        },
+        {
+          "text": "It was struck down by the state supreme court",
+          "correct": false
+        },
+        {
+          "text": "It was expanded to cover every industry without exception",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eColorado weakened its original AI discrimination law into a\ntransparency requirement rather than repealing it outright.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1cbc0b#2",
+      "format": "quiz",
+      "prompt": "Why might even Colorado's weakened AI transparency law still face a federal challenge?",
+      "choices": [
+        {
+          "text": "Federal agencies can argue a patchwork of state AI rules conflicts with national policy, triggering a preemption fight",
+          "correct": true
+        },
+        {
+          "text": "State laws automatically expire once a federal agency mentions the topic",
+          "correct": false
+        },
+        {
+          "text": "Colorado's law violates a specific existing federal AI statute",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePreemption challenges don't require an existing conflicting statute —\nonly an argument that state law obstructs federal policy or objectives.\u003c/p\u003e"
+    }
+  ]
+}

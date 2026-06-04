@@ -1,0 +1,90 @@
+{
+  "id": "card_3f3416",
+  "slug": "siri-ai-arrives",
+  "type": "news",
+  "title": "Siri Gets Rebuilt as a Real Assistant",
+  "hook": "After years of promises, Apple unveiled 'Siri AI' — an 'entirely new version' that's more conversational and can handle messy tasks, like turning a flyer into calendar events. It's now in public beta.",
+  "key_points": [
+    "Apple calls Siri AI 'an entirely new version of Siri' — more conversational and capable.",
+    "It can chain real tasks, like reading a flyer or email and adding events to your calendar.",
+    "It uses a two-tier model: lighter work on-device, heavier work powered partly by Google.",
+    "Apple says it deliberately made Siri non-sycophantic — it 'knows when to shut up.'",
+    "The Verge reports the feature reached the public iOS 27 beta in July, moving from promise to something people can actually try.",
+    "Voice assistants are being rebuilt on modern language models — a broad industry shift."
+  ],
+  "content_html": "\u003cp\u003eFor years the gap between what Siri promised and what it delivered was a running joke. At its developer conference, Apple tried to close it, unveiling what it calls \u0026quot;Siri AI\u0026quot; — described as \u0026quot;an entirely new version of Siri\u0026quot; that's more conversational, more personalized, and genuinely more capable. Early hands-on impressions point at the kind of thing people actually want: the new Siri can take a poorly formatted flyer or an email and turn it into calendar events in one shot, rather than choking on anything outside a rigid script.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe bigger story isn't Apple specifically — it's the pattern. The old generation of voice assistants (Siri, Alexa, the original Google Assistant) were essentially command-matchers: say the magic phrase, get the canned action. Plugging a modern language model underneath turns them into something that can understand loosely-phrased requests, hold a back-and-forth, and string together multi-step tasks. Apple's version, according to The Verge, runs on a two-tier setup — lighter requests handled on your device, heavier ones sent to the cloud and powered partly by Google's models — with the features rolling out later in the year. One deliberate design choice stands out: Apple's Craig Federighi said the new Siri won't be sycophantic the way some chatbots are — it \u0026quot;knows when to shut up\u0026quot; rather than flattering you or padding every reply. That's a small but telling counter to a common complaint about AI assistants, which often agree too eagerly. As with any assistant that can \u003cem\u003eact\u003c/em\u003e on your behalf, the trade-offs are convenience versus what it can see and do, so it's worth knowing what it's permitted to access.\u003c/p\u003e\n\u003cp\u003eThe gap between announcement and reality closed fast. The Verge reported that the iOS 27 public beta arrived in July, and an early hands-on found the AI features already changing how the reviewer used their phone day to day — a sign this moved past keynote promises into something people can actually test. The direction is clear: talking to a capable AI is becoming a normal way to get things done, not a party trick.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Dominic Preston"
+    ],
+    "url": "https://theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+    "published_at": "2026-06-08",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "voice-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "speech",
+    "agent"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-11",
+  "date": "2026-06-08",
+  "related": [
+    {
+      "id": "card_2646c3",
+      "slug": "talking-with-your-voice",
+      "type": "concept",
+      "title": "Voice Assistants",
+      "hook": "Siri and Alexa could set a timer; the new voice AIs can hold a real conversation. Talking is becoming a normal way to use AI — handy, natural, and always a little bit listening.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ba06cb",
+      "slug": "apple-private-cloud-ai",
+      "type": "news",
+      "title": "Can Cloud AI Be Private? Apple's Bet",
+      "hook": "Apple's pitch for its AI is privacy: small models run on your device, and bigger ones run in the cloud — even on Google's servers — in a way Apple says gives the host no access to your data.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3f3416#0",
+      "format": "quiz",
+      "prompt": "What kind of task is the new Siri AI meant to handle that old Siri couldn't?",
+      "choices": [
+        {
+          "text": "Reading a flyer or email and adding the events to your calendar",
+          "correct": true
+        },
+        {
+          "text": "Only setting timers and reading the weather",
+          "correct": false
+        },
+        {
+          "text": "Nothing new — it's the same Siri with a new name",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eReviewers note the new Siri can do messy, multi-step jobs like turning a\npoorly formatted flyer or email into calendar entries — beyond rigid commands.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3f3416#1",
+      "format": "flip",
+      "prompt": "Why is the 'new Siri' part of a bigger trend?",
+      "back_html": "\u003cp\u003eVoice assistants are being rebuilt on modern language models, turning narrow\ncommand-takers into conversational helpers — a shift happening across the industry.\u003c/p\u003e"
+    }
+  ]
+}

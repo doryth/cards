@@ -1,0 +1,90 @@
+{
+  "id": "card_fda1b0",
+  "slug": "genome-not-a-blueprint",
+  "type": "blog",
+  "title": "The Genome Isn't a Blueprint",
+  "hook": "We love to call DNA the 'code of life,' but a Quanta essay argues the genome is a tangled, 3D physical object — and that messiness may trip up the AI now trying to read it.",
+  "key_points": [
+    "Calling DNA a 'blueprint' or 'algorithm' implies the sequence alone determines the organism.",
+    "In reality the genome is a physical molecule, folded in 3D, whose shape shapes what genes do.",
+    "Every cell holds the same DNA, yet a neuron and a skin cell behave nothing alike.",
+    "Which genes switch on depends on context: cell type, folding, and the machinery around them.",
+    "Writer Philip Ball argues this tangled physicality may confound AI built to 'decode' genomes."
+  ],
+  "content_html": "\u003cp\u003eIt's tempting to think of DNA as software: a string of letters that, if only we could read it well enough, would spell out an organism. In Quanta Magazine, science writer Philip Ball argues that picture is misleading — and that the genome's tangled physical nature may frustrate the AI models now being pointed at it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA \u0026quot;blueprint\u0026quot; or \u0026quot;algorithm\u0026quot; implies the sequence alone holds the answer. But the same DNA sits in every cell of your body, yet a neuron and a skin cell behave nothing alike. What differs is how the genome is \u003cem\u003eused\u003c/em\u003e: which stretches are folded close together, which are silenced, and which proteins and signals surround them at a given moment. The DNA molecule is a physical object — looped, packed, and constantly read and rearranged in three dimensions — not a clean line of code. Ball's point, as laid out in Quanta, is that this context-dependent physicality is exactly what's hard to learn from raw sequence data, the kind of input AI systems handle best. Powerful pattern-finders may still miss the biology that lives in the genome's shape and surroundings rather than its letters. The piece is a reminder that the \u0026quot;genome as code\u0026quot; metaphor, useful as it is, can quietly mislead.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Philip Ball"
+    ],
+    "url": "https://quantamagazine.org/why-the-human-genomes-tangled-physicality-may-confound-ai-20260618",
+    "published_at": "2026-06-18",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-22",
+  "date": "2026-06-18",
+  "related": [
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3c048e",
+      "slug": "epigenetics",
+      "type": "concept",
+      "title": "Epigenetics: Switching Genes On and Off",
+      "hook": "Two cells can carry identical DNA yet behave completely differently — because chemical tags decide which genes are switched on, without touching the code itself.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fda1b0#0",
+      "format": "flip",
+      "prompt": "Why does the essay say the genome is not really a 'blueprint' or 'algorithm'?",
+      "back_html": "\u003cp\u003eBecause the sequence alone doesn't determine the organism. The same DNA sits in every\ncell, yet cells differ — what matters is how the genome is folded, regulated, and used\nin 3D context.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fda1b0#1",
+      "format": "quiz",
+      "prompt": "According to the Quanta piece, why might AI struggle to 'decode' the human genome?",
+      "choices": [
+        {
+          "text": "Much of the biology lives in the genome's 3D structure and context, not the sequence text",
+          "correct": true
+        },
+        {
+          "text": "There isn't enough DNA sequence data available to train on",
+          "correct": false
+        },
+        {
+          "text": "AI can't process a four-letter alphabet",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI excels at sequence text, but a lot of biology lives in the genome's folding,\nregulation, and surroundings — its physicality — which raw sequence doesn't capture.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fda1b0#2",
+      "format": "flip",
+      "prompt": "If every cell has the same DNA, why do a neuron and a skin cell differ?",
+      "back_html": "\u003cp\u003eBecause they \u003cem\u003euse\u003c/em\u003e the genome differently — different genes are switched on or off\ndepending on cell type, how the DNA is folded, and the molecular context around it.\u003c/p\u003e"
+    }
+  ]
+}

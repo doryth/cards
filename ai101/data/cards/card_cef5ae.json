@@ -1,0 +1,102 @@
+{
+  "id": "card_cef5ae",
+  "slug": "breaking-language-barriers",
+  "type": "concept",
+  "title": "Breaking Language Barriers",
+  "hook": "AI translation has gone from comically bad to genuinely useful — text, speech, even live signs through your camera. Good enough to travel and connect; not yet good enough for the contract.",
+  "key_points": [
+    "Modern AI translates text, speech, and camera images near-instantly, dozens of languages.",
+    "Great for travel, menus, chatting, and getting the gist of foreign content.",
+    "It still misses idioms, tone, and context — and can be confidently wrong.",
+    "For legal, medical, or high-stakes wording, use a professional human translator."
+  ],
+  "content_html": "\u003cp\u003eIf you last tried machine translation a decade ago and laughed at the results, it's worth another look — this is one of AI's clearest success stories. Modern translation apps handle text, spoken conversation, and even live camera views (point your phone at a foreign menu or street sign and watch the words transform) across dozens of languages, near-instantly. For a traveler, it's close to magic: you can navigate a country, order food, and have a halting but real conversation with someone who shares no language with you. It also unlocks a planet's worth of articles, videos, and voices that used to be closed off.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe honest limits matter, though, because the fluency hides them. AI translation gets the \u003cem\u003egist\u003c/em\u003e reliably but still stumbles on idioms (\u0026quot;it's raining cats and dogs\u0026quot;), tone, humor, and cultural context — and, like all generative AI, it can produce a smooth translation that's simply wrong, with no signal that it erred. That's fine when you're decoding a menu and the worst case is a surprising dish. It's not fine for anything where precise wording carries weight: legal contracts, medical instructions, immigration paperwork, or sensitive negotiations, where a subtle slip can do real damage. There, a professional human translator who understands both languages \u003cem\u003eand\u003c/em\u003e the context is still essential. The rule of thumb: AI translation is brilliant for connection and comprehension, and not yet trustworthy for consequence.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Machine translation",
+    "url": "https://en.wikipedia.org/wiki/Machine_translation",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "ai-translation"
+  ],
+  "tags": [
+    "generative",
+    "nlp"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2646c3",
+      "slug": "talking-with-your-voice",
+      "type": "concept",
+      "title": "Voice Assistants",
+      "hook": "Siri and Alexa could set a timer; the new voice AIs can hold a real conversation. Talking is becoming a normal way to use AI — handy, natural, and always a little bit listening.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_146cc4",
+      "slug": "ai-and-accessibility",
+      "type": "concept",
+      "title": "AI \u0026 Accessibility",
+      "hook": "For people with disabilities, AI is often life-changing: apps that describe the world to blind users, caption speech for deaf users, or give a synthetic voice back to someone who lost theirs.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4a4a6c",
+      "slug": "live-voice-translation",
+      "type": "news",
+      "title": "AI Now Translates Your Voice, Live",
+      "hook": "Google's Gemini 3.5 Live Translate turns one spoken language into another almost in real time — and tries to keep your tone, pacing, and pitch, so it still sounds like you.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cef5ae#0",
+      "format": "quiz",
+      "prompt": "Where does AI translation still fall short?",
+      "choices": [
+        {
+          "text": "Idioms, tone, and context — and it can be confidently wrong",
+          "correct": true
+        },
+        {
+          "text": "Translating common travel phrases",
+          "correct": false
+        },
+        {
+          "text": "Reading text from a photo",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt's excellent for the gist and everyday use, but nuance, idiom, and tone\nstill trip it up — and errors look as fluent as correct translations.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cef5ae#1",
+      "format": "flip",
+      "prompt": "When should you use a human translator instead of AI?",
+      "back_html": "\u003cp\u003eFor high-stakes wording — legal contracts, medical instructions, official\ndocuments — where a subtle mistranslation could cause real harm.\u003c/p\u003e"
+    }
+  ]
+}

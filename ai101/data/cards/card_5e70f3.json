@@ -1,0 +1,88 @@
+{
+  "id": "card_5e70f3",
+  "slug": "linkedin-ai-slop-button",
+  "type": "news",
+  "title": "A Million People Pressed 'Seems Like AI Slop'",
+  "hook": "LinkedIn gave users a button to flag posts as AI slop. Over a million clicks later, it's a rare public measure of how tired people are of machine-written filler.",
+  "key_points": [
+    "LinkedIn announced a 'Seems like AI slop' report option on July 30, 2026.",
+    "Chief product officer Hari Srinivasan said over a million people have clicked it.",
+    "The button sits in the three-dot menu on a post, like any other report action.",
+    "Crowd flags are a signal, not proof — people can only guess whether a post was AI-written.",
+    "It shows platforms now treat 'too much AI content' as a feed-quality problem, not just a labeling one."
+  ],
+  "content_html": "\u003cp\u003eOn July 30, 2026, LinkedIn quietly added a \u0026quot;Seems like AI slop\u0026quot; option to the report menu on posts. Three weeks later, chief product officer Hari Srinivasan said more than a million people had used it — a striking number for a feature buried behind a three-dot menu.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt's worth being precise about what that number is. The button records suspicion: a reader thought a post looked machine-generated. Nobody, including LinkedIn, can tell from the text alone whether it was. What the count really documents is fatigue — enough of it that a major professional network now treats \u0026quot;too much AI filler\u0026quot; as a feed-quality problem worth instrumenting, alongside the labeling and watermarking efforts elsewhere. The Verge has the details.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jay Peters"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "published_at": "2026-08-21",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 2,
+  "difficulty": "intro",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_03fe8f",
+      "slug": "ai-detectors-distrust",
+      "type": "news",
+      "title": "AI Detectors Are Making Everyone Suspicious of Everyone",
+      "hook": "Tools that claim to spot AI writing are unreliable enough to flag honest work — and the damage isn't just false accusations. It's that nobody trusts anything anymore.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5e70f3#0",
+      "format": "flip",
+      "prompt": "What does LinkedIn's 'Seems like AI slop' button actually measure?",
+      "back_html": "\u003cp\u003eReader suspicion, not fact — it records that over a million people \u003cem\u003ethought\u003c/em\u003e\na post looked machine-written, which is a signal rather than proof.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5e70f3#1",
+      "format": "quiz",
+      "prompt": "Why is a crowd-sourced 'AI slop' flag a weak way to identify AI-written text?",
+      "choices": [
+        {
+          "text": "People are guessing from style, and human-written filler can read the same way",
+          "correct": true
+        },
+        {
+          "text": "Only verified accounts are allowed to use the button",
+          "correct": false
+        },
+        {
+          "text": "The button deletes the post immediately, so nothing can be checked",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe flag captures how a post reads to readers. Since bland human writing and\nAI writing look alike, the signal reflects perception more than origin.\u003c/p\u003e"
+    }
+  ]
+}

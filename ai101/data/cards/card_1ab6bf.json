@@ -1,0 +1,104 @@
+{
+  "id": "card_1ab6bf",
+  "slug": "ai-cheating-in-person-final",
+  "type": "news",
+  "title": "A Professor Suspected AI Cheating — Then Scores Fell 50%",
+  "hook": "When a Brown University professor, suspecting AI-written homework, switched to an in-person final, class scores dropped roughly in half — a stark hint at what students may not be learning.",
+  "key_points": [
+    "Ars Technica reports a Brown University professor, suspecting AI cheating, ordered an in-person final exam.",
+    "Scores fell about 50% compared to the take-home work AI could have assisted with.",
+    "The professor warned unchecked AI use in coursework risks 'a failed society.'",
+    "The gap is a concrete signal: work done well with AI help isn't proof the underlying skill was learned."
+  ],
+  "content_html": "\u003cp\u003eA Brown University professor, suspecting students were leaning on AI for take-home coursework, made a blunt call: require an in-person final exam, no AI available. According to Ars Technica, the result was stark — class scores fell by roughly 50% compared to earlier work.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA single class's before-and-after isn't a controlled study, but the size of the drop is exactly the kind of concrete evidence that's been missing from the broader debate over AI and cheating. It's easy to suspect over-reliance in the abstract; it's harder to ignore a 50-point swing in the same students on the same material once the AI is taken away. The professor's warning, as reported, was blunt too: unchecked AI use in coursework risks producing \u0026quot;a failed society\u0026quot; — people who can produce polished output without the underlying understanding it's supposed to represent. The practical lesson isn't that AI has no place in learning; it's that looking capable \u003cem\u003ewith\u003c/em\u003e AI and actually knowing the material are different things, and the gap between them only shows up when you take the tool away.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Nate Anderson"
+    ],
+    "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university",
+    "published_at": "2026-07-08",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "over-reliance",
+    "ai-and-kids",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-08",
+  "related": [
+    {
+      "id": "card_eb9c92",
+      "slug": "over-relying-on-ai",
+      "type": "concept",
+      "title": "Over-Relying on AI",
+      "hook": "The subtle risk isn't that AI fails — it's that it usually works, so you stop checking. Trusting a confident machine over your own judgment is its own kind of mistake.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_df602c",
+      "slug": "ai-kids-and-school",
+      "type": "concept",
+      "title": "AI, Kids \u0026 School",
+      "hook": "Banning AI is like banning calculators — futile and beside the point. The real job is teaching kids to use it honestly, to learn with it, and to know when it's lying.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af049a",
+      "slug": "using-ai-responsibly",
+      "type": "concept",
+      "title": "Using AI Responsibly",
+      "hook": "The point of AI literacy isn't to use AI for everything — it's to use it well: check its work, be honest that you used it, and know the moments to put it down.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1ab6bf#0",
+      "format": "quiz",
+      "prompt": "What happened when the Brown University professor switched to an in-person final?",
+      "choices": [
+        {
+          "text": "Class scores fell by roughly 50% compared to earlier take-home work",
+          "correct": true
+        },
+        {
+          "text": "Scores stayed exactly the same",
+          "correct": false
+        },
+        {
+          "text": "Every student refused to take the exam",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe steep score drop, once AI assistance was removed by requiring in-person\nwork, suggests a real gap between earlier grades and demonstrated understanding.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1ab6bf#1",
+      "format": "flip",
+      "prompt": "Why is a 50% score drop more convincing than just suspecting cheating?",
+      "back_html": "\u003cp\u003eIt's a concrete before-and-after comparison — the same students, the same\nsubject, but no AI available — that makes the suspected skill gap measurable.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1ab6bf#2",
+      "format": "flip",
+      "prompt": "What's the deeper lesson beyond this one class?",
+      "back_html": "\u003cp\u003eTurning in AI-assisted work that looks good is not the same as having learned\nthe material — the two can quietly come apart until something forces a check.\u003c/p\u003e"
+    }
+  ]
+}

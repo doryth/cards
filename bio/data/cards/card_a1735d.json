@@ -1,0 +1,125 @@
+{
+  "id": "card_a1735d",
+  "slug": "how-photosynthesis-evolved",
+  "type": "news",
+  "title": "The Long Road to Photosynthesis",
+  "hook": "Turning sunlight into food is one of biology's most intricate inventions. Ancient cyanobacteria are revealing what an early step on the road to it looked like.",
+  "key_points": [
+    "Photosynthesis converts light into chemical energy and underpins most life on Earth.",
+    "Cyanobacteria were the first microbes to perform oxygen-producing photosynthesis.",
+    "Their oxygen output eventually transformed Earth's atmosphere, enabling complex life.",
+    "An ancient cyanobacterial lineage hints at an intermediate stage in how it evolved."
+  ],
+  "content_html": "\u003cp\u003ePhotosynthesis — turning sunlight into the chemical energy that feeds most life on Earth — is one of biology's most complex inventions. A study of an unusually ancient lineage of cyanobacteria is helping biologists reconstruct what an early step on the long road to it looked like.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Quanta Magazine's Carrie Arnold reports, cyanobacteria were the microbes that first mastered oxygen-producing (oxygenic) photosynthesis — the process whose waste oxygen eventually flooded Earth's atmosphere and made complex life possible. The machinery is so intricate that how it first arose has long been a puzzle. Lineages that branched off early in cyanobacterial history act like living clues, hinting at simpler precursors that came before the full system was assembled. The work offers a window into how one of life's most consequential capabilities was pieced together, step by step, over deep time.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Carrie Arnold"
+    ],
+    "url": "https://quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610",
+    "published_at": "2026-06-10",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "origin-of-life",
+    "energy-in-life"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-11",
+  "date": "2026-06-10",
+  "related": [
+    {
+      "id": "card_4be834",
+      "slug": "photosynthesis",
+      "type": "concept",
+      "title": "Photosynthesis",
+      "hook": "Plants pull carbon dioxide from the air and water from the soil, and using only sunlight, build sugar — releasing the oxygen you're breathing right now.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6980cd",
+      "slug": "endosymbiosis",
+      "type": "concept",
+      "title": "Endosymbiosis",
+      "hook": "Your cells run on power plants that were once free-living bacteria. Billions of years ago, one cell swallowed another — and never let go.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_be717b",
+      "slug": "how-life-began",
+      "type": "concept",
+      "title": "How Life Began",
+      "hook": "Before the first living thing, there was only chemistry. Abiogenesis is the idea — and active research — into how plain molecules on early Earth crossed the line into life.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_4be834",
+      "slug": "photosynthesis",
+      "type": "concept",
+      "title": "Photosynthesis",
+      "hook": "Plants pull carbon dioxide from the air and water from the soil, and using only sunlight, build sugar — releasing the oxygen you're breathing right now.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a1735d#0",
+      "format": "flip",
+      "prompt": "Which microbes first evolved oxygen-producing photosynthesis?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eCyanobacteria\u003c/strong\u003e — and the oxygen they released eventually transformed Earth's\natmosphere, paving the way for complex life.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a1735d#1",
+      "format": "quiz",
+      "prompt": "Why are ancient cyanobacterial lineages useful for studying how photosynthesis began?",
+      "choices": [
+        {
+          "text": "Branching off early, they can reveal simpler, intermediate forms of the machinery",
+          "correct": true
+        },
+        {
+          "text": "They are the only bacteria that still photosynthesize today",
+          "correct": false
+        },
+        {
+          "text": "They contain fossilized sunlight from the early Earth",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLineages that split off early act like living clues, hinting at the precursors of\nphotosynthesis's otherwise dauntingly complex machinery.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a1735d#2",
+      "format": "quiz",
+      "prompt": "Why was the rise of oxygen-producing photosynthesis so consequential?",
+      "choices": [
+        {
+          "text": "It eventually filled Earth's atmosphere with oxygen, enabling complex life",
+          "correct": true
+        },
+        {
+          "text": "It cooled the Sun to a survivable temperature",
+          "correct": false
+        },
+        {
+          "text": "It created the first strands of DNA",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBefore cyanobacteria, Earth's air held little free oxygen. Their photosynthesis\nflooded the atmosphere with it over deep time, a prerequisite for complex life.\u003c/p\u003e"
+    }
+  ]
+}

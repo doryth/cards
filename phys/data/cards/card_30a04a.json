@@ -1,0 +1,82 @@
+{
+  "id": "card_30a04a",
+  "slug": "black-hole-laws-get-a-dynamical-upgrade",
+  "type": "news",
+  "title": "Hawking's Black Hole Laws Get a Real-World Upgrade",
+  "hook": "Hawking's famous black hole laws only strictly work for black holes frozen in perfect equilibrium. A new framework extends them to real black holes that merge, grow, and evaporate.",
+  "key_points": [
+    "Hawking's original black hole thermodynamics assumed equilibrium — black holes that aren't changing over time.",
+    "For real, dynamical black holes, using the event horizon as the entropy measure fails because event horizons depend on the black hole's entire future history.",
+    "Physicists led by Abhay Ashtekar at Penn State define a 'dynamical horizon' from the black hole's properties at a single moment instead, avoiding that future-dependence problem.",
+    "The generalized laws should help interpret black hole mergers seen by gravitational-wave observatories like LIGO-Virgo-KAGRA, and evaporating black holes in quantum theory."
+  ],
+  "content_html": "\u003cp\u003eStephen Hawking's black hole laws — the discovery that black holes have entropy and temperature, obeying their own version of thermodynamics — are foundational to modern physics. But they were built for an idealized case: black holes in equilibrium, unchanging over time. Real black holes are never that still — they merge, grow by swallowing matter, and (in principle) slowly evaporate.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trouble is technical but important: Hawking's framework measures entropy using the event horizon, and an event horizon's location depends on everything that will ever fall into the black hole in the future — information that isn't available while the black hole is actively changing. Physicist Abhay Ashtekar and colleagues at Penn State sidestep this by defining a \u0026quot;dynamical horizon\u0026quot; instead, built entirely from the black hole's properties at one instant, with no dependence on its future. That lets them write generalized thermodynamic laws that hold for genuinely dynamical black holes, not just idealized static ones — a framework the researchers expect to sharpen how physicists interpret real black hole mergers caught by gravitational-wave observatories like LIGO-Virgo-KAGRA, and how evaporation is understood in quantum theory.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "authors": [
+      "Abhay Ashtekar"
+    ],
+    "url": "https://sciencedaily.com/releases/2026/07/260713000757.htm",
+    "published_at": "2026-07-13",
+    "license": "© ScienceDaily"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "cosmology"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-16",
+  "date": "2026-07-13",
+  "related": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_30a04a#0",
+      "format": "flip",
+      "prompt": "Why don't Hawking's original black hole laws work for a black hole that's actively merging or evaporating?",
+      "back_html": "\u003cp\u003eThey rely on measuring entropy via the \u003cstrong\u003eevent horizon\u003c/strong\u003e, but an event horizon\ndepends on the black hole's entire future history — unusable for something\nactively changing right now.\u003c/p\u003e"
+    },
+    {
+      "id": "card_30a04a#1",
+      "format": "quiz",
+      "prompt": "What does the new 'dynamical horizon' concept do differently?",
+      "choices": [
+        {
+          "text": "It's defined using the black hole's properties at a single moment in time, not its future",
+          "correct": true
+        },
+        {
+          "text": "It ignores gravity entirely and only tracks the black hole's mass",
+          "correct": false
+        },
+        {
+          "text": "It requires the black hole to first settle into equilibrium before any measurement",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBy anchoring the horizon to what's happening right now rather than to future\nevents, the framework can describe genuinely dynamical black holes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_30a04a#2",
+      "format": "flip",
+      "prompt": "Where could this generalized black hole thermodynamics matter most?",
+      "back_html": "\u003cp\u003eInterpreting real black hole \u003cstrong\u003emergers\u003c/strong\u003e detected by gravitational-wave\nobservatories like LIGO-Virgo-KAGRA, and describing \u003cstrong\u003eevaporating\u003c/strong\u003e black holes\nin quantum theory — both far from Hawking's original equilibrium assumption.\u003c/p\u003e"
+    }
+  ]
+}

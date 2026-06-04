@@ -1,0 +1,93 @@
+{
+  "id": "card_5aa8ad",
+  "slug": "psyche-mars-gravity-assist",
+  "type": "news",
+  "title": "Psyche Stole Speed From Mars on Its Way to a Metal Asteroid",
+  "hook": "NASA's Psyche flew past Mars not to study it but to borrow its motion — the gravity-assist trick that lets a spacecraft gain speed for free.",
+  "key_points": [
+    "In a gravity assist, a spacecraft swings close to a planet and leaves on a new heading, gaining speed relative to the Sun while the planet loses an imperceptible amount.",
+    "Psyche used the Mars flyby to boost itself toward its 2029 arrival at the metal-rich asteroid Psyche.",
+    "The team treated the pass as a rehearsal, exercising the cameras, magnetometer, and particle detectors on a real target.",
+    "The magnetometer sampled Mars' magnetic environment, and the instruments picked up neutrons coming off the planet.",
+    "It also imaged the two small Martian moons, Phobos and Deimos, plus unusual views of Mars itself."
+  ],
+  "content_html": "\u003cp\u003eNASA's Psyche spacecraft swung past Mars, and the point was not Mars. The flyby was a gravity assist: by falling toward a moving planet and slingshotting away on a new heading, a spacecraft leaves faster than it arrived — measured against the Sun — without burning fuel to do it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe bookkeeping is the neat part. Relative to Mars, the spacecraft leaves at the same speed it came in; it is only the direction that changes. But Mars is itself hurtling around the Sun, and the redirection converts some of that planetary motion into spacecraft speed. Momentum is conserved, so Mars is slowed — by an amount far too small to matter for a body that massive. Psyche used the boost to set up its 2029 arrival at the metal-rich asteroid that shares its name, and the team took the opportunity to rehearse: the cameras, magnetometer, and particle instruments were all run against a real target, capturing unusual views of Mars, spotting the small moons Phobos and Deimos, sampling the planet's magnetic environment, and detecting neutrons streaming off its surface.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260727214612.htm",
+    "published_at": "2026-07-28"
+  },
+  "topic_ids": [
+    "gravity-orbits",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 2,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-07-28",
+  "related": [
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_024cfd",
+      "slug": "lucy-asteroid-donaldjohanson",
+      "type": "news",
+      "title": "A Wobbling, Peanut-Shaped Asteroid Reshaped by Sunlight",
+      "hook": "NASA's Lucy found that asteroid Donaldjohanson is a peanut-shaped relic of an ancient collision — slowly reshaped by sunlight, and still carrying traces of old water.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5aa8ad#0",
+      "format": "flip",
+      "prompt": "What does a spacecraft actually gain from a gravity assist, and who pays for it?",
+      "back_html": "\u003cp\u003eIt gains \u003cstrong\u003espeed relative to the Sun\u003c/strong\u003e and a new heading. The energy comes out\nof the planet's own orbital motion — a change far too small for the planet to\nnotice.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5aa8ad#1",
+      "format": "quiz",
+      "prompt": "Why did Psyche fly past Mars?",
+      "choices": [
+        {
+          "text": "To use Mars' gravity to speed itself toward its asteroid target",
+          "correct": true
+        },
+        {
+          "text": "To deliver a lander to the Martian surface",
+          "correct": false
+        },
+        {
+          "text": "Because its asteroid target orbits Mars",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe flyby was a gravity assist en route to the metal-rich asteroid Psyche in\n2029; the team also used the pass to test its cameras, magnetometer, and\nparticle detectors.\u003c/p\u003e"
+    }
+  ]
+}

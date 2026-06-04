@@ -1,0 +1,114 @@
+{
+  "id": "card_3070ad",
+  "slug": "frb-121102-white-dwarf-merger",
+  "type": "paper",
+  "title": "The Famous Repeating Radio Burst May Not Be a Magnetar After All",
+  "hook": "FRB 121102's engine is only about 60 years old and far too powerful for magnetic decay. The gas around it looks nothing like supernova debris — pointing instead at a white dwarf merger.",
+  "key_points": [
+    "FRB 121102 was the first fast radio burst known to repeat, and sits beside a bright persistent radio source.",
+    "That radio source holds more than 10^49.5 erg of relativistic plasma and appears only about 60 years old, implying a power above 10^40 erg/s.",
+    "If a neutron star drives it, the budget favors rotational energy - roughly a 10-millisecond spin - rather than magnetar-style magnetic decay.",
+    "The surrounding cold plasma expands at only a few hundred km/s, far too slow for ordinary supernova ejecta.",
+    "The authors argue a white dwarf binary merger fits: slow mass ejection first, then a fast-spinning neutron star forming about 1000 years later."
+  ],
+  "content_html": "\u003cp\u003eFRB 121102 is the celebrity of fast radio bursts: the first one seen to repeat, and one of the few with a bright, steady radio glow sitting right next to it. That persistent source is the best handle anyone has on what actually powers the bursts, and the usual suspect has been a magnetar — a young neutron star with an extraordinarily strong magnetic field, born in a recent supernova.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEli Waxman, Eran Ofek and Doron Kushnir (Weizmann Institute) combine the burst's slowly changing dispersion measure with older radio observations to squeeze the engine's books. The relativistic plasma carries more than 10^49.5 erg and looks only about 60 years old, so whatever drives it must supply over 10^40 erg per second. For a neutron star, that favors tapping rotational energy — consistent with a roughly 10-millisecond spin and a fairly ordinary 10^12.5 G field — rather than magnetic energy decay. Accretion, they note, could also do the job.\u003c/p\u003e\n\u003cp\u003eThe more awkward number is the cold gas confining that bubble. Its expansion speed is capped at a few hundred kilometers per second, an order of magnitude too slow for typical supernova ejecta, and it must have been ejected more than a thousand years before the relativistic emission switched on. The authors' preferred story is a white dwarf binary merger: a fraction of a solar mass drifts off slowly during and after the merger, and only after about a thousand years of cooling does the remnant collapse into the fast-spinning neutron star that lights up the bursts. If it holds, the most-studied repeating burst in the sky has a different origin story than the field's default.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Eli Waxman",
+      "Eran O. Ofek",
+      "Doron Kushnir"
+    ],
+    "url": "https://arxiv.org/abs/2608.26567",
+    "published_at": "2026-08-27",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_9d6f94",
+      "slug": "fast-radio-bursts-track-star-formation",
+      "type": "paper",
+      "title": "Fast Radio Bursts Follow Star Formation Almost Instantly",
+      "hook": "Mysterious millisecond flashes from across the universe closely track where new stars are being born — with almost no time lag, ruling out one of the leading theories of what causes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "card_230f1d",
+      "slug": "magnetar-birth-caught-chirping",
+      "type": "news",
+      "title": "Astronomers Caught a Magnetar Being Born",
+      "hook": "A supernova's light curve started 'chirping' — bumps in brightness arriving closer and closer together — the birth cry of one of the universe's most extreme objects: a magnetar.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bc9454",
+      "slug": "long-period-radio-transients",
+      "type": "news",
+      "title": "Cracking the Long-Period Radio Transient Mystery",
+      "hook": "Some cosmic signals pulse every hour or so — far too slow for the usual suspects. Astronomers traced one to a white dwarf feeding off its companion star.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3070ad#0",
+      "format": "flip",
+      "prompt": "What evidence argues against a magnetar powering FRB 121102?",
+      "back_html": "\u003cp\u003eThe persistent radio source needs more than 10^40 erg/s sustained over roughly 60 years.\nThat energy budget points to a neutron star's rotation — a spin of about 10 milliseconds —\nrather than the decay of a magnetar's magnetic field.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3070ad#1",
+      "format": "quiz",
+      "prompt": "Why does the surrounding gas rule out ordinary supernova ejecta?",
+      "choices": [
+        {
+          "text": "It expands at only a few hundred km/s, far slower than typical supernova debris",
+          "correct": true
+        },
+        {
+          "text": "It contains no hydrogen at all, which supernovae always produce",
+          "correct": false
+        },
+        {
+          "text": "It is expanding faster than light, which supernova ejecta cannot do",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSupernova ejecta race outward at thousands of km/s. The cold plasma confining the\nrelativistic bubble here creeps along at a few hundred, and must have been shed more than\na thousand years before the radio emission began.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3070ad#2",
+      "format": "flip",
+      "prompt": "How does a white dwarf binary merger explain both observations?",
+      "back_html": "\u003cp\u003eThe merger sheds a fraction of a solar mass slowly, producing the sluggish cold plasma;\nthen, after roughly a thousand years of thermal evolution, the remnant collapses into a\nrapidly rotating neutron star that powers the burst source.\u003c/p\u003e"
+    }
+  ]
+}

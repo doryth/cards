@@ -1,0 +1,101 @@
+{
+  "id": "card_477fab",
+  "slug": "the-animal-kingdom",
+  "type": "concept",
+  "title": "The Animal Kingdom",
+  "hook": "Sponges, spiders, sharks, and squirrels look nothing alike — yet all are animals, sharing a few deep traits that set them apart from plants, fungi, and microbes.",
+  "key_points": [
+    "Animals are multicellular organisms that get energy by eating other living things.",
+    "Unlike plants, animals can't make their own food and most can move on their own.",
+    "Their cells have no rigid cell wall, allowing flexible, often muscular bodies.",
+    "The kingdom ranges from simple sponges to insects, fish, birds, and mammals."
+  ],
+  "content_html": "\u003cp\u003eThe animal kingdom is one of the great branches of life, and it's startlingly diverse: a motionless sponge on the seafloor and a sprinting cheetah are both animals. What unites them isn't appearance but a handful of shared traits that separate animals from plants, fungi, and microbes.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEvery animal is multicellular and, crucially, a consumer — it cannot make its own food the way plants do, so it must eat other living things to get energy and building materials. Animal cells lack the rigid cell wall found in plants, which is part of why animal bodies can be flexible and muscular, and why most animals can move under their own power. From there the kingdom fans out enormously: simple sponges and jellyfish, then worms, insects, and molluscs, on up to fish, amphibians, reptiles, birds, and mammals. Encyclopaedia Britannica's entry on the animal surveys what defines the group and how its major branches relate.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/animal/animal",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "animals"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_660dd5",
+      "slug": "vertebrates-and-invertebrates",
+      "type": "concept",
+      "title": "Vertebrates and Invertebrates",
+      "hook": "The animal kingdom splits along one simple line: do you have a backbone or not? The vast majority of animals don't.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9fa649",
+      "slug": "kingdoms-of-life",
+      "type": "concept",
+      "title": "The Kingdoms of Life",
+      "hook": "One step below the domains, life sorts into kingdoms — animals, plants, fungi, and assorted microbes — each a different way of making a living on Earth.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_477fab#0",
+      "format": "quiz",
+      "prompt": "How do animals get their energy?",
+      "choices": [
+        {
+          "text": "By eating other living things",
+          "correct": true
+        },
+        {
+          "text": "By making their own food from sunlight",
+          "correct": false
+        },
+        {
+          "text": "By absorbing minerals from rock",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUnlike plants, animals can't make their own food. They are consumers — they get\nenergy and nutrients by eating other organisms.\u003c/p\u003e"
+    },
+    {
+      "id": "card_477fab#1",
+      "format": "flip",
+      "prompt": "Name two traits that most animals share.",
+      "back_html": "\u003cp\u003eAnimals are \u003cstrong\u003emulticellular\u003c/strong\u003e and get energy by \u003cstrong\u003eeating other organisms\u003c/strong\u003e. Most can\nalso \u003cstrong\u003emove on their own\u003c/strong\u003e, and their cells lack the rigid cell wall that plants have.\u003c/p\u003e"
+    },
+    {
+      "id": "card_477fab#2",
+      "format": "quiz",
+      "prompt": "Which of these is NOT an animal?",
+      "choices": [
+        {
+          "text": "An oak tree",
+          "correct": true
+        },
+        {
+          "text": "A sponge",
+          "correct": false
+        },
+        {
+          "text": "A spider",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn oak tree is a plant — it makes its own food and has cell walls. Sponges and spiders,\ndespite looking very different, are both animals.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "card_29694c",
+  "slug": "harvestmen-citizen-science-parental-care",
+  "type": "news",
+  "title": "Spider-Like Harvestmen Reveal How Parental Care Evolved — Thanks to Citizen Scientists",
+  "hook": "Photos uploaded by amateur naturalists just solved a long-standing puzzle about how fatherhood evolved in one strange arachnid group.",
+  "key_points": [
+    "Harvestmen (spider-like arachnids, not true spiders) show unusually varied parental care — some species guard eggs as mothers, others as fathers.",
+    "Researchers mined thousands of public photos and observations from the citizen-science platform iNaturalist to study this at a scale no single lab study could match.",
+    "The project more than doubled the known cases of egg-guarding behavior in harvestmen, completed in just days using crowdsourced data.",
+    "Maternal and paternal care turned out to have followed different evolutionary paths, rather than one simply being a variant of the other.",
+    "The study doubles as a case study in citizen science's growing power to answer questions that would otherwise take years of fieldwork."
+  ],
+  "content_html": "\u003cp\u003eHarvestmen — leggy arachnids often mistaken for spiders — turn out to be unusually flexible about who does the parenting: in some species mothers guard the eggs, in others it's the fathers. Figuring out how that split evolved took an unlikely research team: thousands of amateur nature photographers.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers mined the citizen-science platform iNaturalist for photos and field notes of harvestmen guarding eggs, more than doubling the number of documented egg-guarding cases in a matter of days — a scale of data collection that would have taken a conventional field study years to match. Sorting through those observations revealed that maternal and paternal egg-guarding didn't evolve as two versions of the same behavior; they followed distinct evolutionary paths, arising independently in different lineages. Beyond the harvestmen result itself, the project is a demonstration of how crowdsourced, publicly contributed data can answer evolutionary questions that professional fieldwork alone struggles to resolve.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260712011737.htm",
+    "published_at": "2026-07-12",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "evolution",
+    "animals"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-12",
+  "related": [
+    {
+      "id": "card_89dd5d",
+      "slug": "natural-selection",
+      "type": "concept",
+      "title": "Natural Selection",
+      "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9e052d",
+      "slug": "how-animals-behave",
+      "type": "concept",
+      "title": "How Animals Behave",
+      "hook": "A spider spins a perfect web without a lesson, while a crow figures out a new trick by trial and error — two sides of how animals act in the world.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_29694c#0",
+      "format": "flip",
+      "prompt": "How did researchers gather enough data to study egg-guarding behavior in harvestmen?",
+      "back_html": "\u003cp\u003eThey mined public photos and field observations from the citizen-science\nplatform iNaturalist, more than doubling known egg-guarding cases in just\ndays.\u003c/p\u003e"
+    },
+    {
+      "id": "card_29694c#1",
+      "format": "quiz",
+      "prompt": "What did the study find about how maternal vs. paternal care evolved in harvestmen?",
+      "choices": [
+        {
+          "text": "They followed different evolutionary paths, rather than one being a variant of the other",
+          "correct": true
+        },
+        {
+          "text": "Paternal care evolved first in every lineage studied",
+          "correct": false
+        },
+        {
+          "text": "All harvestmen species show identical parental care patterns",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSorting through the crowdsourced observations showed maternal and paternal\negg-guarding arose independently along distinct evolutionary paths, not as\ntwo versions of one behavior.\u003c/p\u003e"
+    },
+    {
+      "id": "card_29694c#2",
+      "format": "flip",
+      "prompt": "What does this study demonstrate about citizen science as a research tool?",
+      "back_html": "\u003cp\u003eThat crowdsourced public observations can answer evolutionary questions at a\nscale and speed traditional fieldwork alone would struggle to match.\u003c/p\u003e"
+    }
+  ]
+}

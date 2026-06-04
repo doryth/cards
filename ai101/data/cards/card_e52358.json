@@ -1,0 +1,116 @@
+{
+  "id": "card_e52358",
+  "slug": "epa-data-center-public-input",
+  "type": "news",
+  "title": "A Rule That Could Cut Neighbors Out of Data Center Decisions",
+  "hook": "AI companies need somewhere to put the warehouses. A proposed EPA rule would let states decide how much public input there is on new data centers — including none at all.",
+  "key_points": [
+    "AI firms want far more data centers; the bottleneck is increasingly local permission.",
+    "A Trump EPA rule would let states decide how much — if any — public input is required.",
+    "Reported by Molly Taft for Wired, republished by Ars Technica.",
+    "Public comment is how neighbors raise power, water, noise, and land concerns.",
+    "It cuts against a wave of local pushback, including New York's statewide moratorium.",
+    "The fight over AI's physical footprint is being settled in permitting rules, not headlines."
+  ],
+  "content_html": "\u003cp\u003eThe AI boom has a physical form, and it's a very large building that draws a lot of electricity and water. Ars Technica, republishing reporting by Molly Taft for Wired, describes a proposed Trump administration EPA rule that would let states decide how much public input there can be on new data centers — including, potentially, none.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePublic comment is the unglamorous mechanism by which people who live near a proposed project get to raise objections: what it will do to the local grid, how much water it will draw, what it sounds like, whether electricity bills go up. Removing or shrinking that step doesn't settle those questions — it just means fewer people get to ask them before construction starts.\u003c/p\u003e\n\u003cp\u003eThe timing is what makes this notable. Local resistance has become one of the few real brakes on data center growth, to the point that New York enacted a statewide moratorium on large new builds. A federal rule that trims public input pushes hard in the opposite direction. It's a good illustration of where technology policy actually gets decided: not in dramatic debates about superintelligence, but in permitting procedure that almost nobody reads.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Molly Taft"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say",
+    "published_at": "2026-07-24",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-energy",
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_199fae",
+      "slug": "data-center-backlash",
+      "type": "news",
+      "title": "Communities Are Pushing Back on AI Data Centers",
+      "hook": "The warehouses that power AI need land, power, and water — and neighbors are starting to say no. New York just signed the nation's first statewide data center ban into law.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_969523",
+      "slug": "ai-energy-and-water",
+      "type": "concept",
+      "title": "AI's Energy \u0026 Water",
+      "hook": "Every chatbot reply runs in a warehouse of power-hungry computers somewhere. AI's convenience has a real physical footprint — in electricity, water for cooling, and carbon.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f2da86",
+      "slug": "google-electricity-use-2025",
+      "type": "news",
+      "title": "Google's AI Buildout Drove a 37% Jump in Electricity Use",
+      "hook": "Google's own numbers show its electricity use jumped 37% in 2025, driven largely by the data centers behind its AI push — a concrete figure in the debate over AI's energy footprint.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e52358#0",
+      "format": "quiz",
+      "prompt": "What would the proposed EPA rule change about data center approvals?",
+      "choices": [
+        {
+          "text": "Let states decide how much — if any — public input is required",
+          "correct": true
+        },
+        {
+          "text": "Ban new data centers in every US state",
+          "correct": false
+        },
+        {
+          "text": "Require AI companies to power data centers with solar only",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe rule would hand states the call on public comment, up to and including\nrequiring none — reducing the say neighbors have in the process.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e52358#1",
+      "format": "flip",
+      "prompt": "Why does a dull-sounding permitting rule matter for AI?",
+      "back_html": "\u003cp\u003eAI's growth depends on physically building data centers, and local permission is the\nmain brake. Change who gets a say and you change how fast they go up.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e52358#2",
+      "format": "flip",
+      "prompt": "What do neighbors typically raise during public comment on a data center?",
+      "back_html": "\u003cp\u003eStrain on the local power grid and water supply, plus noise, land use, and the\nworry that electricity costs rise for everyone nearby.\u003c/p\u003e"
+    }
+  ]
+}

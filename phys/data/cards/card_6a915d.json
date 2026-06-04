@@ -1,0 +1,110 @@
+{
+  "id": "card_6a915d",
+  "slug": "roman-telescope-launches",
+  "type": "news",
+  "title": "Roman Is Off the Pad",
+  "hook": "NASA's Roman Space Telescope is on its way to L2, a million miles out. Its trick is speed: it surveys the sky roughly a thousand times faster than Hubble, at about 1.4 terabytes a day.",
+  "key_points": [
+    "Roman has launched on a million-mile cruise to the Sun-Earth L2 point.",
+    "Survey speed is roughly 1,000 times Hubble's, at comparable sharpness.",
+    "It will stream about 1.4 terabytes of data per day back to Earth.",
+    "Core science: dark matter, dark energy, and finding distant exoplanets.",
+    "Wide, fast surveys are how you test dark energy — you need millions of galaxies, not deep stares.",
+    "At that survey rate, the mission is expected to turn up phenomena nobody planned for."
+  ],
+  "content_html": "\u003cp\u003eThe Nancy Grace Roman Space Telescope has launched, beginning a million-mile trip to the L2 point\nbeyond Earth's night side. It carries a Hubble-class mirror, but its design goal is not depth —\nit is coverage. Roman can survey huge swathes of sky roughly a thousand times faster than Hubble,\nfirehosing about 1.4 terabytes of data back to Earth each day.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat speed is what the mission's headline science needs. Dark energy and dark matter are measured\nstatistically: you map how millions of galaxies are distributed and weakly lensed, and read the\nexpansion history off the pattern. A telescope that stares deeply at one small patch cannot do\nthat; one that maps continent-sized areas of sky can. The same survey data will also catch\nexoplanets by microlensing, including worlds on wide orbits that other techniques miss. As\nScienceDaily notes, an instrument that scans this much sky this fast is also the kind that turns\nup things nobody was looking for.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260831035213.htm",
+    "published_at": "2026-08-31"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-08-31",
+  "related": [
+    {
+      "id": "card_d401d7",
+      "slug": "roman-telescope-cleared-for-launch",
+      "type": "news",
+      "title": "NASA's Roman Telescope Is Cleared to Launch",
+      "hook": "Hubble sees deep; Roman is built to see wide. NASA has cleared its next flagship observatory for a late-August launch to map cosmic expansion across huge swathes of sky.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1d07ca",
+      "slug": "is-dark-energy-evolving",
+      "type": "paper",
+      "title": "Is Dark Energy Changing Over Time?",
+      "hook": "For decades dark energy looked like a constant. New galaxy-survey data hints it may evolve — and that would shift even our measured value of the cosmic expansion rate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6a915d#0",
+      "format": "quiz",
+      "prompt": "What is Roman's main advantage over Hubble?",
+      "choices": [
+        {
+          "text": "It surveys the sky roughly a thousand times faster at similar sharpness",
+          "correct": true
+        },
+        {
+          "text": "It sees much fainter objects in a single long exposure",
+          "correct": false
+        },
+        {
+          "text": "It observes gamma rays instead of infrared light",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRoman trades nothing in resolution but covers enormously more sky per hour — about 1,000x\nHubble's survey speed — which is what dark energy studies need.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6a915d#1",
+      "format": "flip",
+      "prompt": "Why does testing dark energy require a wide survey rather than a deep one?",
+      "back_html": "\u003cp\u003eYou need statistics on millions of galaxies to measure how the expansion rate changed over\ncosmic time; a few very deep stares at small patches cannot deliver that.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6a915d#2",
+      "format": "flip",
+      "prompt": "Where is Roman headed, and roughly how far is that?",
+      "back_html": "\u003cp\u003eThe Sun-Earth L2 point, about a million miles from Earth — the same gravitational parking\nspot used by JWST.\u003c/p\u003e"
+    }
+  ]
+}

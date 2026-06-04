@@ -1,0 +1,102 @@
+{
+  "id": "card_054c3d",
+  "slug": "warren-health-data-bill",
+  "type": "news",
+  "title": "A Bill Would Stop AI Chatbots From Selling Your Health Data",
+  "hook": "Millions now tell chatbots about their symptoms and meds. A revived Senate bill would ban selling that health and location data to brokers — and back it with $1 billion in FTC enforcement.",
+  "key_points": [
+    "Sen. Elizabeth Warren and Rep. Mary Gay Scanlon reintroduced the Health and Location Data Protection Act.",
+    "It would ban selling Americans' health and location data to data brokers, including data shared with AI chatbots.",
+    "The bill responds to services like ChatGPT Health and Claude for Healthcare encouraging medical uploads.",
+    "It would give the FTC $1 billion over 10 years to enforce the ban.",
+    "An earlier version of the bill died in a prior Congress; this update targets the AI era specifically."
+  ],
+  "content_html": "\u003cp\u003eIt's easy to forget that typing a symptom into a chatbot creates a data trail. The Verge reports that Senator Elizabeth Warren and Representative Mary Gay Scanlon are reintroducing the Health and Location Data Protection Act, aiming to ban the sale of Americans' health and location information to data brokers — explicitly including information people share with AI chatbots like ChatGPT or Claude.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe timing tracks a real shift: OpenAI launched ChatGPT Health and Anthropic launched Claude for Healthcare, both encouraging users to bring medical records and symptoms into a chat window. That's convenient, but it also creates exactly the kind of sensitive data trove privacy advocates worry about — information that, once collected, could be sold or repurposed in ways users never agreed to. The bill would put teeth behind the ban with $1 billion over ten years for FTC enforcement. An earlier version of this proposal died in a previous Congress, and this revival is explicitly framed around the AI moment — a sign that as AI health tools go mainstream, so does the push to regulate what happens to what you tell them.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Hayden Field"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+    "published_at": "2026-06-29",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d1c9e8",
+      "slug": "asking-ai-about-health",
+      "type": "concept",
+      "title": "Asking AI About Health",
+      "hook": "AI beats frantic late-night symptom-googling for calm, readable explanations — and makes a great prep tool for a doctor's visit. What it can't do is examine you or diagnose you.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_054c3d#0",
+      "format": "quiz",
+      "prompt": "What would the Health and Location Data Protection Act ban?",
+      "choices": [
+        {
+          "text": "Selling Americans' health and location data to data brokers, including data shared with AI chatbots",
+          "correct": true
+        },
+        {
+          "text": "Using AI chatbots for any health-related question",
+          "correct": false
+        },
+        {
+          "text": "Storing any user data at all, for any purpose",
+          "correct": false
+        },
+        {
+          "text": "Building AI healthcare tools like ChatGPT Health",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe bill targets the sale of sensitive health and location data to brokers —\nit doesn't ban AI health tools, just selling what you share with them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_054c3d#1",
+      "format": "flip",
+      "prompt": "Why did lawmakers say this bill needed an update for the AI era?",
+      "back_html": "\u003cp\u003eServices like ChatGPT Health and Claude for Healthcare now encourage people\nto upload medical details, creating a new pool of sensitive data to protect.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "card_ba06cb",
+  "slug": "apple-private-cloud-ai",
+  "type": "news",
+  "title": "Can Cloud AI Be Private? Apple's Bet",
+  "hook": "Apple's pitch for its AI is privacy: small models run on your device, and bigger ones run in the cloud — even on Google's servers — in a way Apple says gives the host no access to your data.",
+  "key_points": [
+    "Apple runs simple AI tasks on your device and harder ones in the cloud.",
+    "Some larger models run on Google's servers, but Apple says Google gets no access to your data.",
+    "The approach, 'Private Cloud Compute,' aims to process data without the provider seeing it.",
+    "Apple is betting privacy is its edge — a claim worth understanding, not just trusting."
+  ],
+  "content_html": "\u003cp\u003eA reasonable question about any AI feature is: where does my data actually go? Apple's answer is its main selling point. As Ars Technica reports, Apple handles lighter AI tasks right on your device, and sends heavier ones to the cloud — including, notably, to models running on Google's servers. The twist is Apple's claim that even then, the company hosting the hardware gets no access to what you send. Apple is positioning privacy, not raw capability, as the reason to choose its AI.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe idea behind this is sometimes called \u0026quot;Private Cloud Compute\u0026quot;: designing the cloud step so your data is processed and then gone, without the provider — or even Apple — being able to read it. It's a genuinely interesting answer to a real tension. On-device AI is the most private, but phones and laptops can only run smaller models; the most capable AI lives in big data centers. Apple's bet is that you can get cloud-scale AI without cloud-scale exposure. Whether the engineering fully lives up to the promise is something security researchers will keep probing — and that's the healthy stance for you, too. The takeaway isn't \u0026quot;trust Apple\u0026quot; or \u0026quot;distrust Apple,\u0026quot; but to understand the trade-off every AI assistant makes between \u003cem\u003ehow powerful\u003c/em\u003e it is and \u003cem\u003ehow much it sees\u003c/em\u003e, and to treat strong privacy claims as something companies should have to prove.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Andrew Cunningham"
+    ],
+    "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers",
+    "published_at": "2026-06-09",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "inference"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-11",
+  "date": "2026-06-09",
+  "related": [
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_98e80e",
+      "slug": "google-search-history-ai-training",
+      "type": "news",
+      "title": "Google Will Save Your Searches to Train AI",
+      "hook": "Google is adding a setting that saves the photos, audio, and video you use to search — Lens snaps, voice queries, Translate clips — and that data can help train its AI. Worth a look.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "card_3f3416",
+      "slug": "siri-ai-arrives",
+      "type": "news",
+      "title": "Siri Gets Rebuilt as a Real Assistant",
+      "hook": "After years of promises, Apple unveiled 'Siri AI' — an 'entirely new version' that's more conversational and can handle messy tasks, like turning a flyer into calendar events. It's now in public beta.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ba06cb#0",
+      "format": "quiz",
+      "prompt": "How does Apple split the AI work behind its features?",
+      "choices": [
+        {
+          "text": "Simple tasks run on your device; harder ones run in the cloud",
+          "correct": true
+        },
+        {
+          "text": "Everything always runs on Apple's own servers",
+          "correct": false
+        },
+        {
+          "text": "Everything runs on your device, never the cloud",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eApple keeps lighter AI on the device and sends heavier tasks to the cloud —\nincluding, per Ars Technica, models running on Google's servers.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ba06cb#1",
+      "format": "flip",
+      "prompt": "What is Apple claiming when it says cloud AI can still be private?",
+      "back_html": "\u003cp\u003eThat tasks can be processed in the cloud — even on a partner's servers like\nGoogle's — in a way that gives the host no access to your personal data.\u003c/p\u003e"
+    }
+  ]
+}

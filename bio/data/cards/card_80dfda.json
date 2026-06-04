@@ -1,0 +1,111 @@
+{
+  "id": "card_80dfda",
+  "slug": "mountain-lions-suburban-trophic-cascade",
+  "type": "news",
+  "title": "Mountain Lions Reshaped a Tiny Suburban Preserve",
+  "hook": "When mountain lions started visiting a small preserve near San Francisco, deer backed off, plants recovered, and smaller predators shifted — trophic cascades aren't just for remote wilderness.",
+  "key_points": [
+    "Mountain lions began frequenting a small preserve south of San Francisco.",
+    "Deer activity dropped, and browsed plants recovered as a result.",
+    "Smaller predators — coyotes, bobcats, foxes — shifted their behavior too.",
+    "A top predator's effects rippled down the food web: a classic 'trophic cascade.'",
+    "It shows cascades can unfold in small, suburban preserves, not only vast wild lands."
+  ],
+  "content_html": "\u003cp\u003eA small nature preserve south of San Francisco got an unexpected makeover when mountain lions started showing up. According to a study covered by ScienceDaily, their presence rippled all the way down the food web.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWith lions around, deer activity dropped, and the plants they had been browsing began to recover. Other predators — coyotes, bobcats, and foxes — shifted their behavior in response too. This top-down chain reaction is a \u0026quot;trophic cascade\u0026quot;: a predator changes the behavior or numbers of its prey, which in turn changes the plants and animals further down. The notable part is the setting. Trophic cascades are usually told as stories of vast wild landscapes, but here one played out in a small, suburban-edge preserve — a reminder that even pockets of protected land near cities can be reshaped when a top predator returns. (For a cautionary counterpoint on how strong these effects really are, see the reanalysis of Yellowstone's wolves.)\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260620100424.htm",
+    "published_at": "2026-06-27",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "ecology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-29",
+  "date": "2026-06-27",
+  "related": [
+    {
+      "id": "card_519fe2",
+      "slug": "keystone-species",
+      "type": "concept",
+      "title": "Keystone Species",
+      "hook": "Some species pull more than their weight. Remove them, and an entire ecosystem can unravel — even when they were never the most abundant thing around.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0ac6b2",
+      "slug": "yellowstone-wolves-trophic-cascade-questioned",
+      "type": "news",
+      "title": "Did Yellowstone's Wolves Really Reshape the Park?",
+      "hook": "The famous story that returning wolves transformed Yellowstone is under fire: a reanalysis says the original study's methods overstated the effect, and willows never surged park-wide.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-14"
+    },
+    {
+      "id": "card_05f960",
+      "slug": "food-chains-and-webs",
+      "type": "concept",
+      "title": "Food Chains \u0026 Energy Flow",
+      "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_80dfda#0",
+      "format": "flip",
+      "prompt": "What is a 'trophic cascade'?",
+      "back_html": "\u003cp\u003eWhen a top predator's presence ripples down the food web — here, mountain lions cut\ndeer activity, which let browsed plants recover and shifted smaller predators too.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80dfda#1",
+      "format": "quiz",
+      "prompt": "What was surprising about where this trophic cascade happened?",
+      "choices": [
+        {
+          "text": "It unfolded in a small suburban preserve, not just remote wilderness",
+          "correct": true
+        },
+        {
+          "text": "It happened in the open ocean",
+          "correct": false
+        },
+        {
+          "text": "It required removing all the deer first",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTrophic cascades are often associated with vast wild areas; this study showed the same\ntop-down ripple effect in a small preserve near a major city.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80dfda#2",
+      "format": "quiz",
+      "prompt": "After mountain lions arrived, what happened to the plants — and why?",
+      "choices": [
+        {
+          "text": "Plants recovered, because deer reduced their activity and browsing",
+          "correct": true
+        },
+        {
+          "text": "Plants died off, because lions ate the plants directly",
+          "correct": false
+        },
+        {
+          "text": "Nothing changed for the plants at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePredators don't eat plants, but by changing where and how much deer browse, they\nindirectly let vegetation rebound — the heart of a trophic cascade.\u003c/p\u003e"
+    }
+  ]
+}

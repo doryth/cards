@@ -1,0 +1,109 @@
+{
+  "id": "card_b4c5c5",
+  "slug": "betelgeuse-hidden-companion",
+  "type": "news",
+  "title": "Betelgeuse Has a Partner After All",
+  "hook": "A century of suspicion, finally imaged: astronomers have their clearest picture yet of the star hiding in Betelgeuse's glare — and it's heavier than anyone expected.",
+  "key_points": [
+    "Betelgeuse is a red supergiant so large and so bright that anything orbiting close to it is drowned in its light.",
+    "Astronomers have now captured the clearest image yet of a long-suspected companion star, a search that ran for roughly a century.",
+    "The companion looks surprisingly massive, which changes what kind of object it can be and how it formed alongside Betelgeuse.",
+    "A close companion offers a natural explanation for Betelgeuse's long-puzzling swings in brightness.",
+    "It may also shape how Betelgeuse eventually explodes — supernovae in binaries can look quite different from solitary ones."
+  ],
+  "content_html": "\u003cp\u003eBetelgeuse, the red shoulder of Orion, is one of the most-watched stars in the sky, and for about a century astronomers have suspected it isn't alone. The problem was always visibility: the supergiant is so vast and so luminous that a nearby companion sits buried in its glare. Astronomers now report their clearest image yet of that hidden partner — and it appears surprisingly massive.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe find matters for two reasons. First, Betelgeuse's brightness has long wobbled in ways that stubbornly resist explanation — including the \u0026quot;Great Dimming\u0026quot; that briefly had people wondering whether it was about to explode. A close companion is exactly the kind of thing that can drive such variability. Second, having a partner can change how a massive star dies: mass exchange and orbital dynamics in a binary leave their mark on the resulting supernova. Reported by ScienceDaily on 27 August 2026; details and the imaging data are in the source.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260827010514.htm",
+    "published_at": "2026-08-27",
+    "license": "ScienceDaily (press summary)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_53e8da",
+      "slug": "magnetic-fields-binary-star-formation",
+      "type": "news",
+      "title": "Magnetic Brakes for Newborn Stars",
+      "hook": "Half the stars in the sky come in pairs, but making them is tricky. Simulations suggest magnetic fields act as a brake that lets two protostars spiral together.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_da7a11",
+      "slug": "supernova-reveals-stars-hidden-layers",
+      "type": "news",
+      "title": "A Supernova That Peeled Back a Star's Layers",
+      "hook": "A rare supernova exposed material from one of the deepest layers of a dying star — a direct look inside the element factory hidden in massive stars.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-27"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b4c5c5#0",
+      "format": "flip",
+      "prompt": "Why did it take about a century to image Betelgeuse's companion?",
+      "back_html": "\u003cp\u003eBetelgeuse is an enormous, extremely bright red supergiant. Anything orbiting nearby is\nlost in its glare, so the companion had to be inferred long before it could be seen.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b4c5c5#1",
+      "format": "quiz",
+      "prompt": "Which long-standing Betelgeuse puzzle does a close companion help explain?",
+      "choices": [
+        {
+          "text": "Its irregular swings in brightness",
+          "correct": true
+        },
+        {
+          "text": "Why it is redder than other supergiants",
+          "correct": false
+        },
+        {
+          "text": "Why it emits no detectable gravitational waves",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBetelgeuse's brightness variability has puzzled observers for decades; a close orbiting\ncompanion gives that variability a natural mechanism.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b4c5c5#2",
+      "format": "flip",
+      "prompt": "Beyond brightness, what else could the companion affect?",
+      "back_html": "\u003cp\u003eBetelgeuse's eventual \u003cstrong\u003esupernova\u003c/strong\u003e. A star that explodes with a close companion can\nbehave — and look — quite differently from one that dies alone.\u003c/p\u003e"
+    }
+  ]
+}

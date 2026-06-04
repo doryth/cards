@@ -1,0 +1,119 @@
+{
+  "id": "card_d7d1dd",
+  "slug": "genome-models-design-viruses",
+  "type": "news",
+  "title": "AI Designed Viruses That Don't Exist in Nature",
+  "hook": "Researchers used genome models — a chatbot's idea, trained on DNA instead of text — to design bacteria-killing viruses unlike anything in nature. Promising medicine, and an obvious dual-use problem.",
+  "key_points": [
+    "Ars Technica reports large genome models were used to design new viruses.",
+    "The designs are genetically distant from natural versions of a bacteria-killing virus.",
+    "Genome models predict the next piece of DNA the way a chatbot predicts the next word.",
+    "Bacteria-killing viruses (phages) are a real hope against antibiotic-resistant infections.",
+    "The same capability is why labs treat biological design as a top-tier safety risk."
+  ],
+  "content_html": "\u003cp\u003eResearchers have used large genome models to design new viruses that kill bacteria, and Ars Technica reports the results are genetically distant from the natural versions — not tweaks, but new designs. The models work on the same principle as a chatbot: trained on enormous amounts of DNA rather than text, they learn what sequences plausibly follow which, and can generate ones nobody has seen.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe upside is real and specific. Viruses that infect bacteria, called phages, are one of the more promising answers to antibiotic-resistant infections, and being able to design them rather than hunt for them in sewage samples is a genuine expansion of the toolkit. The problem is that you cannot build a system that designs novel viruses for good purposes without building a system that designs novel viruses. This is what \u0026quot;dual-use\u0026quot; means, and it is the reason biological design sits at the top of nearly every AI lab's list of dangerous capabilities — the same week's news elsewhere has companies asking legislators for tighter rules on exactly this. Worth keeping the risk in proportion, though: designing a sequence on a computer is not the same as making it in a lab, and much of the current safety effort focuses on the physical chokepoints — the companies that synthesize DNA to order and the labs that can culture it — precisely because those are easier to watch than a model's output.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "John Timmer"
+    ],
+    "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses",
+    "published_at": "2026-08-06",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-healthcare",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "generative"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-06",
+  "related": [
+    {
+      "id": "card_578ae3",
+      "slug": "ai-bioweapon-safeguards",
+      "type": "news",
+      "title": "AI Rivals Unite to Guard Against AI-Aided Bioweapons",
+      "hook": "Fierce competitors in AI set their rivalries aside to ask Congress for tougher rules — so their own tools can't be used to help build biological weapons.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4b011a",
+      "slug": "alphafold-safer-gene-editing",
+      "type": "news",
+      "title": "AI Helps Redesign Gene Editors to Make Fewer Mistakes",
+      "hook": "Researchers used AlphaFold to work out which parts of a gene-editing protein cause it to cut the wrong DNA — then redesigned those parts. AI as a lab instrument, not a chatbot.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_eb781a",
+      "slug": "ai-in-healthcare",
+      "type": "concept",
+      "title": "AI in Healthcare",
+      "hook": "AI can spot a tumor on a scan faster than a tired radiologist and flag patterns no one would catch by eye. It's a powerful assistant to doctors — not a replacement for one.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d7d1dd#0",
+      "format": "flip",
+      "prompt": "What is a 'large genome model'?",
+      "back_html": "\u003cp\u003eThe same architecture idea as a chatbot, trained on DNA sequences instead of text:\nit learns the statistical patterns of genomes and can generate plausible new ones.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d7d1dd#1",
+      "format": "quiz",
+      "prompt": "Why is designing bacteria-killing viruses medically interesting?",
+      "choices": [
+        {
+          "text": "They could treat infections that no longer respond to antibiotics",
+          "correct": true
+        },
+        {
+          "text": "They replace vaccines entirely",
+          "correct": false
+        },
+        {
+          "text": "They make bacteria grow faster for research",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePhage therapy is a live hope against antibiotic-resistant bacteria, and being able\nto design new phages widens the options.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d7d1dd#2",
+      "format": "quiz",
+      "prompt": "What does 'dual-use' mean in this story?",
+      "choices": [
+        {
+          "text": "The same ability to design useful organisms could design harmful ones",
+          "correct": true
+        },
+        {
+          "text": "The model can be run on two kinds of computer",
+          "correct": false
+        },
+        {
+          "text": "The research was funded by two governments",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYou can't have a tool that designs novel viruses for medicine without it also being\na tool that designs novel viruses, full stop — which is why biology is treated as a\ntop-tier AI safety concern.\u003c/p\u003e"
+    }
+  ]
+}

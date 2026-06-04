@@ -1,0 +1,128 @@
+{
+  "id": "card_80777d",
+  "slug": "bill-becomes-law-without-signature",
+  "type": "news",
+  "title": "A President Can Let a Bill Become Law by Doing Nothing",
+  "hook": "Signing isn't the only way a bill becomes law — sometimes doing nothing at all has the exact same effect.",
+  "key_points": [
+    "Under Article I of the U.S. Constitution, a president has 10 days (excluding Sundays) to act on a bill Congress has passed.",
+    "If the president neither signs nor vetoes it within that window, and Congress is still in session, the bill becomes law automatically — with no signature at all.",
+    "That's different from a 'pocket veto': if Congress adjourns during the 10 days, preventing the bill's return, an unsigned bill dies instead of becoming law.",
+    "In 2026, a president who objected to a housing bill let the 10-day clock run out rather than veto it, letting it become law at midnight without his signature, per NPR.",
+    "Choosing silence over a veto can be a deliberate signal: registering disapproval without taking the political responsibility of a formal veto."
+  ],
+  "content_html": "\u003cp\u003eMost civics lessons stop at \u0026quot;the president signs the bill.\u0026quot; The Constitution actually gives a president three options once Congress passes a bill: sign it, veto it, or do nothing. Article I gives the president 10 days, Sundays excepted, to act — and what happens if that window closes without a signature depends entirely on whether Congress is still in session.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIf Congress is in session, silence isn't a veto — the bill becomes law anyway, with the same legal force as if the president had signed it. Only if Congress adjourns during that window, cutting off the chance to return the bill, does inaction kill it instead: a \u0026quot;pocket veto.\u0026quot; NPR's Stephan Bisaha reported that in 2026, President Trump let a major housing bill become law at midnight without his signature rather than veto it outright, after saying he wanted Congress to pass a separate voter ID bill first. The distinction matters beyond this one bill: letting a bill become law through silence lets a president register disapproval on the record while avoiding the more direct political act of a formal veto — but legally, the result is identical either way. (This card describes the U.S. presentment process specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Stephan Bisaha"
+    ],
+    "url": "https://npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature",
+    "published_at": "2026-07-10",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "how-laws-are-made"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_5bd59a",
+      "slug": "how-a-bill-becomes-law",
+      "type": "concept",
+      "title": "How a Bill Becomes a Law",
+      "hook": "An idea becomes binding law only after a journey: drafting, committee review, debate, votes, and final approval.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_015396",
+      "slug": "checks-and-balances",
+      "type": "concept",
+      "title": "Checks and Balances",
+      "hook": "Separating power isn't enough — each branch also gets tools to limit the others, so power keeps power in check.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4d0797",
+      "slug": "when-congress-overrides-the-court",
+      "type": "blog",
+      "title": "When Congress Overrides the Court",
+      "hook": "A high court's ruling isn't always the last word. When judges interpret a statute, the legislature can often just rewrite the law — unless the decision rests on the constitution itself.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5bd59a",
+      "slug": "how-a-bill-becomes-law",
+      "type": "concept",
+      "title": "How a Bill Becomes a Law",
+      "hook": "An idea becomes binding law only after a journey: drafting, committee review, debate, votes, and final approval.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_80777d#0",
+      "format": "flip",
+      "prompt": "What happens if a U.S. president neither signs nor vetoes a bill within 10 days, and Congress is still in session?",
+      "back_html": "\u003cp\u003eIt becomes law automatically, with no presidential signature at all —\nthe Constitution treats inaction as passage under these conditions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80777d#1",
+      "format": "quiz",
+      "prompt": "How does a 'pocket veto' differ from a bill simply becoming law without a signature?",
+      "choices": [
+        {
+          "text": "A pocket veto happens when Congress adjourns during the 10-day window, so an unsigned bill dies instead of becoming law",
+          "correct": true
+        },
+        {
+          "text": "A pocket veto is just another name for the same automatic-passage rule",
+          "correct": false
+        },
+        {
+          "text": "A pocket veto requires a two-thirds vote of Congress",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe outcome flips entirely on whether Congress is in session: in\nsession, inaction means the bill becomes law; adjourned, inaction\nkills it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80777d#2",
+      "format": "quiz",
+      "prompt": "Why might a president let a bill become law without signing it, rather than vetoing it?",
+      "choices": [
+        {
+          "text": "To register disapproval without taking the formal political responsibility of a veto",
+          "correct": true
+        },
+        {
+          "text": "Because unsigned bills carry less legal weight than signed ones",
+          "correct": false
+        },
+        {
+          "text": "Because a veto is no longer a constitutional option once a bill passes both chambers",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOnce law, a bill passed this way carries identical legal force to one\nthe president signed — the choice not to sign is symbolic, not legal.\u003c/p\u003e"
+    }
+  ]
+}

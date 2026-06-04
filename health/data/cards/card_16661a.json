@@ -1,0 +1,79 @@
+{
+  "id": "card_16661a",
+  "slug": "preventing-stis",
+  "type": "concept",
+  "title": "Preventing STIs",
+  "hook": "Sexually transmitted infections are common and often symptomless — which is exactly why prevention and testing, not just treatment, are what keep you and your partners healthy.",
+  "key_points": [
+    "Many STIs cause no symptoms, so people can spread them without knowing.",
+    "Condoms, used correctly, greatly reduce the risk of many STIs.",
+    "Vaccines prevent some infections, including HPV and hepatitis B.",
+    "Regular testing, and open conversations with partners, are core to prevention."
+  ],
+  "content_html": "\u003cp\u003eSexually transmitted infections are far more common than most people assume, and many cause no symptoms at all. That combination is why the CDC frames sexual health around prevention and testing rather than waiting for something to go wrong.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe CDC's prevention guidance rests on a few layers. Barrier methods — condoms used correctly and consistently — substantially lower the risk of many STIs. Vaccines prevent some of the most consequential infections, including HPV (which can cause several cancers) and hepatitis B. Because a large share of STIs are silent, regular testing is essential: it catches infections that would otherwise go untreated and unknowingly passed on, and many STIs are curable or manageable once found. The CDC also emphasizes honest conversations with partners about testing and status, and notes that for HIV specifically, prevention now includes highly effective medication (PrEP). The throughline is that sexual health is something you manage proactively, the same way you would any other part of your health.\u003c/p\u003e",
+  "source": {
+    "name": "U.S. Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/sti/prevention/index.html",
+    "license": "Public domain (U.S. CDC)"
+  },
+  "topic_ids": [
+    "sexual-health"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ed447c",
+      "slug": "contraception-options",
+      "type": "concept",
+      "title": "Contraception Options",
+      "hook": "There's no single 'best' contraception — only the one that fits your body, your life, and your plans. Knowing the main types helps you choose well.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d8a0ad",
+      "slug": "vaccines-adults-still-need",
+      "type": "concept",
+      "title": "Vaccines Adults Still Need",
+      "hook": "Vaccination isn't just a childhood checklist. Protection from some shots fades, new ones are recommended with age, and a few need regular boosters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_16661a#0",
+      "format": "quiz",
+      "prompt": "Why is regular STI testing important even if you feel fine?",
+      "choices": [
+        {
+          "text": "Many STIs have no symptoms but can still be transmitted and cause harm",
+          "correct": true
+        },
+        {
+          "text": "Testing is only for people with symptoms",
+          "correct": false
+        },
+        {
+          "text": "STIs always cause obvious symptoms",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe CDC notes many STIs are asymptomatic, so people can carry and pass them on\nunknowingly — making routine testing key to catching and treating them early.\u003c/p\u003e"
+    },
+    {
+      "id": "card_16661a#1",
+      "format": "flip",
+      "prompt": "Name prevention tools the CDC highlights for STIs.",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eCondoms\u003c/strong\u003e used correctly, \u003cstrong\u003evaccines\u003c/strong\u003e (HPV, hepatitis B), \u003cstrong\u003eregular testing\u003c/strong\u003e,\nand open communication with partners. For HIV, prevention also includes PrEP.\u003c/p\u003e"
+    }
+  ]
+}

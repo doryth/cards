@@ -1,0 +1,99 @@
+{
+  "id": "card_a9a451",
+  "slug": "vaccines",
+  "type": "concept",
+  "title": "Vaccines",
+  "hook": "A vaccine is a training session for your immune system — it learns to beat a dangerous pathogen using a harmless preview, so the real fight is already half-won.",
+  "key_points": [
+    "A vaccine teaches the immune system to recognize a specific pathogen without causing the disease.",
+    "It uses a safe stand-in — a weakened, inactivated, or partial form of the pathogen, or instructions to make one of its pieces.",
+    "In response, the body builds antibodies and memory cells targeting that pathogen.",
+    "If the real pathogen shows up later, the primed immune system fights it off fast — often before you get sick."
+  ],
+  "content_html": "\u003cp\u003eA vaccine works by teaching your immune system a lesson ahead of time. Instead of waiting for a dangerous pathogen to attack and learning the hard way, your body gets a safe preview — and builds defenses before the real threat ever arrives.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trick is showing the immune system something that looks like the pathogen but can't cause the disease: a weakened or inactivated version, a harmless piece of it, or instructions for your own cells to make one of its proteins. The adaptive immune system responds as if to a real infection — producing antibodies and, importantly, memory cells that linger. If the actual pathogen turns up later, those memory cells recognize it instantly and mount a fast, powerful response, often stopping the infection before symptoms appear. As the U.S. CDC explains, this is why vaccines can prevent diseases that once killed or disabled millions — they put your immunity a step ahead.\u003c/p\u003e",
+  "source": {
+    "name": "U.S. CDC",
+    "url": "https://www.cdc.gov/vaccines/basics/explaining-how-vaccines-work.html",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "immune-system"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b56025",
+      "slug": "how-immunity-works",
+      "type": "concept",
+      "title": "How Immunity Works",
+      "hook": "Your body fights invaders on two fronts: a fast, general first response that hits anything foreign, and a slower, custom-built defense that learns and remembers each specific enemy.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1976d",
+      "slug": "how-infections-spread",
+      "type": "concept",
+      "title": "How Infections Spread",
+      "hook": "Germs can't fly to a new host on their own — they hitch rides on coughs, hands, food, water, and insects. Break the ride, and you break the chain of infection.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a9a451#0",
+      "format": "flip",
+      "prompt": "In one sentence, how does a vaccine protect you?",
+      "back_html": "\u003cp\u003eIt \u003cstrong\u003etrains your immune system in advance\u003c/strong\u003e — using a safe version or piece of\na pathogen — so it can recognize and defeat the real thing quickly later.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a9a451#1",
+      "format": "quiz",
+      "prompt": "Why doesn't a vaccine usually make you sick with the disease it protects against?",
+      "choices": [
+        {
+          "text": "It uses a weakened, inactivated, or partial form that can't cause the full disease",
+          "correct": true
+        },
+        {
+          "text": "It replaces your immune system with a stronger artificial one",
+          "correct": false
+        },
+        {
+          "text": "It coats your cells in a protective chemical shield",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVaccines present a safe stand-in for the pathogen — enough for the immune\nsystem to learn from, but not enough to cause the actual illness.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a9a451#2",
+      "format": "quiz",
+      "prompt": "What does the immune system build in response to a vaccine?",
+      "choices": [
+        {
+          "text": "Antibodies and memory cells targeting that specific pathogen",
+          "correct": true
+        },
+        {
+          "text": "New red blood cells to carry more oxygen",
+          "correct": false
+        },
+        {
+          "text": "A thicker layer of skin to block germs",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVaccination drives the adaptive immune system to make antibodies and lasting\nmemory cells, so a future encounter triggers a fast, strong defense.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "card_3248ca",
+  "slug": "cracking-pancreatic-cancer",
+  "type": "news",
+  "title": "A Drug for 'Undruggable' Pancreatic Cancer",
+  "hook": "A new drug, daraxonrasib, hits a KRAS mutation long thought 'undruggable' and nearly doubled survival in a trial of advanced pancreatic cancer — a hard-to-treat disease.",
+  "key_points": [
+    "Pancreatic cancer is among the deadliest cancers, with few effective treatments.",
+    "Most pancreatic tumors are driven by mutations in a protein called KRAS, long considered impossible to target with drugs.",
+    "In a clinical trial, the drug daraxonrasib roughly doubled survival in advanced disease.",
+    "Researchers reported it cut the risk of death by about 60% — a notable but early result for this cancer."
+  ],
+  "content_html": "\u003cp\u003eFor decades, pancreatic cancer has been one of the most lethal cancers, with few treatments that meaningfully extend life. A new drug called daraxonrasib targets a mutation in KRAS — the protein that fuels most pancreatic tumors and that many scientists once considered \u0026quot;undruggable.\u0026quot; In a major clinical trial, researchers reported that the treatment nearly doubled survival for patients with advanced disease and reduced the risk of death by about 60%.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eKRAS sits at the center of the problem. As ScienceDaily explains, mutations in this protein drive the majority of pancreatic tumors, but its smooth structure long defied drugmakers trying to block it. Daraxonrasib is part of a newer generation of drugs designed specifically to grab that target.\u003c/p\u003e\n\u003cp\u003eThe trial result is genuinely encouraging for a cancer where progress has been slow. It's worth keeping perspective: \u0026quot;nearly doubling\u0026quot; survival in advanced pancreatic cancer can still mean a matter of months, not a cure, and trial findings need confirmation and regulatory review before the drug becomes widely available. Even so, finally hitting a target once thought out of reach is a notable scientific milestone.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260604044247.htm",
+    "published_at": "2026-06-04",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-05",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_54df72",
+      "slug": "pancreatic-cancer-self-destruct",
+      "type": "news",
+      "title": "Making Pancreatic Cancer Cells Self-Destruct",
+      "hook": "Instead of blocking cancer signals, an experimental compound cranks them into overdrive until pancreatic cancer cells destroy themselves — and blocked over 90% of tumor cell migration in lab tests.",
+      "importance": 2,
+      "difficulty": "intro",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_5b80f6",
+      "slug": "fda-approves-pancreatic-cancer-drug",
+      "type": "news",
+      "title": "FDA Approves a Landmark Pancreatic Cancer Drug",
+      "hook": "U.S. regulators have cleared a first-of-its-kind drug for pancreatic cancer that blocks the protein fueling the vast majority of these tumors — a rare win in the deadliest common cancer.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-27"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3248ca#0",
+      "format": "flip",
+      "prompt": "Why was the KRAS mutation called 'undruggable' for so long?",
+      "back_html": "\u003cp\u003eKRAS is the mutated protein driving most pancreatic tumors, but its shape made it\nextremely hard for drugs to grab onto. Daraxonrasib is a new drug designed to target\nit — something many scientists once thought couldn't be done.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3248ca#1",
+      "format": "quiz",
+      "prompt": "What did the trial of daraxonrasib find in advanced pancreatic cancer?",
+      "choices": [
+        {
+          "text": "It nearly doubled survival and cut risk of death by about 60%",
+          "correct": true
+        },
+        {
+          "text": "It cured the disease in all patients",
+          "correct": false
+        },
+        {
+          "text": "It had no measurable effect on survival",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers reported the drug nearly doubled survival and reduced the risk of death\nby roughly 60% in advanced disease — a meaningful gain for a historically lethal cancer.\u003c/p\u003e"
+    }
+  ]
+}

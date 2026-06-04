@@ -1,0 +1,102 @@
+{
+  "id": "card_6c6e41",
+  "slug": "where-ai-learns-from",
+  "type": "concept",
+  "title": "Where AI Learns From",
+  "hook": "An AI is a mirror of its training data — and most big models learned from a giant scrape of the public internet. That explains both their broad knowledge and their inherited flaws.",
+  "key_points": [
+    "Most large models are trained on huge swaths of public web text, books, and images.",
+    "The data is the source of both their breadth and their biases and gaps.",
+    "Much was used without creators' consent — the root of ongoing copyright fights.",
+    "Garbage in, garbage out: errors and prejudices in the data show up in the output."
+  ],
+  "content_html": "\u003cp\u003eIf you want to understand why an AI behaves the way it does, the most revealing question is: what did it read? A model has no knowledge of its own — everything it \u0026quot;knows\u0026quot; comes from the examples it was trained on, so the training data quietly determines its character. And for today's biggest models, that data is staggering in scale: enormous portions of the public internet (web pages, forums, articles), large collections of digitized books, code, and billions of images. That breadth is exactly why a single chatbot can discuss medieval history, debug a spreadsheet, and suggest a marinade — it has, in a sense, skimmed a huge slice of everything humans have written down.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBut \u0026quot;it learned from the internet\u0026quot; carries baggage worth naming. The web is full of errors, outdated information, and human prejudice, and \u003cstrong\u003ea model absorbs all of it\u003c/strong\u003e — garbage in, garbage out — which is the deep reason AI can be biased or factually wrong. The data also has uneven coverage: topics, languages, and perspectives that are abundant online are represented well, while others are thin or missing, creating blind spots. And there's the consent problem: most of this material — including the work of authors, artists, and coders — was scraped \u003cem\u003ewithout asking\u003c/em\u003e, which is the root of the major copyright lawsuits now working through the courts. Companies increasingly try to filter the worst content and add cleaner or licensed data, but the basic truth holds: an AI is a reflection of what it was fed. Knowing that turns a lot of AI's mysteries — its brilliance, its bias, its gaps, its legal troubles — into a single, understandable story about its diet.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "how-ai-learns"
+  ],
+  "tags": [
+    "foundational",
+    "dataset",
+    "training"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_58c33d",
+      "slug": "ai-bias",
+      "type": "concept",
+      "title": "Bias \u0026 Fairness",
+      "hook": "AI learns from data made by people, so it inherits our patterns — including the unfair ones. A model trained on a biased past will confidently recommend a biased future.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_6c6e41#0",
+      "format": "quiz",
+      "prompt": "Where did most large AI models get their knowledge?",
+      "choices": [
+        {
+          "text": "From training on enormous amounts of public internet text, books, and images",
+          "correct": true
+        },
+        {
+          "text": "From a carefully fact-checked encyclopedia only",
+          "correct": false
+        },
+        {
+          "text": "From being programmed with facts by hand",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBig models learn from a massive scrape of the web and other sources — which\ngives them breadth, but also passes along the web's errors and biases.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6c6e41#1",
+      "format": "flip",
+      "prompt": "Why does 'where AI learns from' matter so much?",
+      "back_html": "\u003cp\u003eA model mirrors its data. Its breadth, blind spots, biases, and the copyright\ndisputes around it all trace back to what it was trained on.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "card_b644fb",
+  "slug": "energy-ipos-ai-boom",
+  "type": "news",
+  "title": "AI's Power Hunger Just Created a New Class of Billion-Dollar IPOs",
+  "hook": "AI data centers need electricity above all else — and that need alone just fueled the biggest wave of energy company IPOs since 1999, with investors betting on power, not chips.",
+  "key_points": [
+    "Energy IPOs raised $12.6 billion in the first half of 2026 — the most since 1999.",
+    "That's nearly triple the $4.3 billion energy firms raised across all of 2025.",
+    "Power has to be generated near the data center, making power companies hard to route around.",
+    "Geothermal firm Fervo Energy jumped 35% on its first trading day; Forgent Power Solutions raised $1.51 billion.",
+    "Nearly two-thirds of newly listed energy companies have since fallen below their IPO price."
+  ],
+  "content_html": "\u003cp\u003eChips and chatbots get the AI headlines, but AI data centers live or die on something much older: electricity. That need alone just triggered the biggest wave of energy-company IPOs in over two decades. Ars Technica reports energy IPOs raised $12.6 billion in the first half of 2026 — the most since 1999, and nearly triple the $4.3 billion energy firms raised across all of 2025.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe logic is straightforward: unlike a chip or a cloud contract, electricity has to be generated close to where a data center actually sits, which makes power companies one of the few genuinely defensible links in the AI supply chain — you can't just route around your local grid. That's drawn real enthusiasm: geothermal firm Fervo Energy jumped 35% on its first day of trading, and Forgent Power Solutions raised $1.51 billion, one of the largest energy listings in recent memory. But the rush hasn't meant guaranteed returns — nearly two-thirds of newly listed energy companies have since fallen below their IPO price, a sign that slapping an \u0026quot;AI-energy\u0026quot; label on a stock doesn't automatically win sustained investor confidence. It's a useful data point for the bigger AI-energy story: the technology's electricity appetite is now large enough to reshape an entire industry's financing, well before anyone agrees on whether that appetite is sustainable.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Martha Muir"
+    ],
+    "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom",
+    "published_at": "2026-07-16",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-energy",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_199fae",
+      "slug": "data-center-backlash",
+      "type": "news",
+      "title": "Communities Are Pushing Back on AI Data Centers",
+      "hook": "The warehouses that power AI need land, power, and water — and neighbors are starting to say no. New York just signed the nation's first statewide data center ban into law.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_f2da86",
+      "slug": "google-electricity-use-2025",
+      "type": "news",
+      "title": "Google's AI Buildout Drove a 37% Jump in Electricity Use",
+      "hook": "Google's own numbers show its electricity use jumped 37% in 2025, driven largely by the data centers behind its AI push — a concrete figure in the debate over AI's energy footprint.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b644fb#0",
+      "format": "quiz",
+      "prompt": "Why are so many energy companies going public right now?",
+      "choices": [
+        {
+          "text": "Investors want exposure to the electricity AI data centers desperately need",
+          "correct": true
+        },
+        {
+          "text": "AI chips are cheaper to make than ever",
+          "correct": false
+        },
+        {
+          "text": "Governments are requiring all utilities to go public",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eData centers need enormous, reliable local power. Investors are betting on\nthe companies that supply that electricity, not just the AI companies themselves.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b644fb#1",
+      "format": "flip",
+      "prompt": "How big was the energy-IPO surge, in scale?",
+      "back_html": "\u003cp\u003e$12.6 billion raised in just the first half of 2026 — the most since 1999,\nand nearly triple all of 2025's $4.3 billion total.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b644fb#2",
+      "format": "flip",
+      "prompt": "Does an 'AI-energy' IPO label guarantee a good investment?",
+      "back_html": "\u003cp\u003eNo — despite the historic fundraising, nearly two-thirds of newly listed\nenergy companies have since traded below their IPO price.\u003c/p\u003e"
+    }
+  ]
+}

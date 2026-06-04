@@ -1,0 +1,71 @@
+{
+  "id": "card_54df72",
+  "slug": "pancreatic-cancer-self-destruct",
+  "type": "news",
+  "title": "Making Pancreatic Cancer Cells Self-Destruct",
+  "hook": "Instead of blocking cancer signals, an experimental compound cranks them into overdrive until pancreatic cancer cells destroy themselves — and blocked over 90% of tumor cell migration in lab tests.",
+  "key_points": [
+    "Pancreatic cancer remains one of the hardest cancers to treat effectively.",
+    "Researchers tested experimental PCAI compounds against pancreatic cancer cells in the lab.",
+    "Rather than suppressing cancer-driving signals, the compounds hyperactivate them until the cells self-destruct.",
+    "The leading compound blocked over 90% of cancer cell migration, hinting it could limit tumor spread.",
+    "This is early lab (cell-based) work, not a clinical trial."
+  ],
+  "content_html": "\u003cp\u003ePancreatic cancer remains one of the deadliest cancers, with few treatments that meaningfully change its course. A new line of research takes an unusual approach: instead of trying to shut down the signals that let cancer cells grow and spread, it turns those signals up until the cells collapse under their own overactivity.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, researchers tested experimental compounds called PCAIs against pancreatic cancer cells. Rather than suppressing cancer-driving pathways — the usual strategy — the compounds hyperactivated them, pushing the cells past a threshold where they essentially self-destruct. One leading compound blocked more than 90% of cancer cell migration in these tests, a signal that it could help prevent tumors from spreading.\u003c/p\u003e\n\u003cp\u003eIt's worth keeping the results in context: this is lab work on cancer cells, not a clinical trial in patients. Many promising compounds at this stage never make it to the clinic. Still, a genuinely different mechanism for attacking a cancer this stubborn is worth watching.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260622091512.htm",
+    "published_at": "2026-06-29",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 2,
+  "difficulty": "intro",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_3248ca",
+      "slug": "cracking-pancreatic-cancer",
+      "type": "news",
+      "title": "A Drug for 'Undruggable' Pancreatic Cancer",
+      "hook": "A new drug, daraxonrasib, hits a KRAS mutation long thought 'undruggable' and nearly doubled survival in a trial of advanced pancreatic cancer — a hard-to-treat disease.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_54df72#0",
+      "format": "flip",
+      "prompt": "What's unusual about how the new PCAI compounds attack pancreatic cancer cells?",
+      "back_html": "\u003cp\u003eInstead of \u003cstrong\u003eblocking\u003c/strong\u003e the signaling pathways that drive the cancer, they\n\u003cstrong\u003ehyperactivate\u003c/strong\u003e them — overloading the cells until they self-destruct.\u003c/p\u003e"
+    },
+    {
+      "id": "card_54df72#1",
+      "format": "quiz",
+      "prompt": "How far along is this pancreatic cancer research?",
+      "choices": [
+        {
+          "text": "Early lab studies on cancer cells, not yet a clinical trial",
+          "correct": true
+        },
+        {
+          "text": "An FDA-approved treatment already in use",
+          "correct": false
+        },
+        {
+          "text": "A large human clinical trial with survival results",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe results so far come from testing compounds against cancer cells in the lab —\nencouraging, but well before the clinical-trial stage.\u003c/p\u003e"
+    }
+  ]
+}

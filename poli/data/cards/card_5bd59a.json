@@ -1,0 +1,121 @@
+{
+  "id": "card_5bd59a",
+  "slug": "how-a-bill-becomes-law",
+  "type": "concept",
+  "title": "How a Bill Becomes a Law",
+  "hook": "An idea becomes binding law only after a journey: drafting, committee review, debate, votes, and final approval.",
+  "key_points": [
+    "A proposed law is called a bill; it must be approved before it takes effect.",
+    "Bills are typically introduced, examined in committee, debated, and voted on by the legislature.",
+    "In bicameral systems both chambers usually must agree on the same text.",
+    "A head of state or government often gives final assent before the bill becomes law."
+  ],
+  "content_html": "\u003cp\u003eTurning an idea into a law is a deliberately multi-step process. The proposal starts as a bill — a draft of the rule someone wants to enact. Before it can take effect, it generally has to be formally introduced in the legislature, examined and refined by a committee of members, debated by the wider body, and then approved by a vote. Each step is a chance to amend, improve, or reject the proposal.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn many countries the legislature has two chambers (a bicameral system), and the same text usually has to clear both before it can advance. After the legislature agrees, a final step often remains: a head of state or government formally assents to the bill, at which point it becomes law. Details differ widely — the example process described by USA.gov is the United States', but the general shape (draft, committee, debate, vote, assent) recurs across democracies. The many stages reflect the checks-and-balances idea: making law is meant to be careful and contestable, not quick.\u003c/p\u003e",
+  "source": {
+    "name": "USA.gov — How Laws Are Made",
+    "url": "https://www.usa.gov/how-laws-made",
+    "license": "© USA.gov (U.S. government public information)"
+  },
+  "topic_ids": [
+    "how-laws-are-made"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_015396",
+      "slug": "checks-and-balances",
+      "type": "concept",
+      "title": "Checks and Balances",
+      "hook": "Separating power isn't enough — each branch also gets tools to limit the others, so power keeps power in check.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf95a8",
+      "slug": "what-is-a-constitution",
+      "type": "concept",
+      "title": "What a Constitution Is",
+      "hook": "The rulebook above the rules: a constitution sets out how a government is structured and the limits on its power.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_63346f",
+      "slug": "the-legislature",
+      "type": "concept",
+      "title": "The Legislature",
+      "hook": "The branch that makes the law is also where a society argues out loud — the legislature turns competing interests into binding rules through debate and votes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5bd59a#0",
+      "format": "flip",
+      "prompt": "What is a 'bill'?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003eproposed law\u003c/strong\u003e that has been introduced but not yet approved — it\nbecomes law only after passing the required steps.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5bd59a#1",
+      "format": "quiz",
+      "prompt": "In a bicameral legislature, what is usually required for a bill to pass?",
+      "choices": [
+        {
+          "text": "Both chambers agree on the same text",
+          "correct": true
+        },
+        {
+          "text": "Only one chamber needs to vote on it",
+          "correct": false
+        },
+        {
+          "text": "A single official can enact it alone",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith two chambers, both typically must approve the same version before\na bill can move toward becoming law.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5bd59a#2",
+      "format": "quiz",
+      "prompt": "What commonly happens to a bill before the full legislature debates it?",
+      "choices": [
+        {
+          "text": "It is examined and refined in a committee",
+          "correct": true
+        },
+        {
+          "text": "It automatically becomes law on introduction",
+          "correct": false
+        },
+        {
+          "text": "It is sent to voters in a national referendum",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCommittees study and amend bills first; most never become law without\npassing through this stage, debate, and votes.\u003c/p\u003e"
+    }
+  ]
+}

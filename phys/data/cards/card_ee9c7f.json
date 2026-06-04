@@ -1,0 +1,63 @@
+{
+  "id": "card_ee9c7f",
+  "slug": "chemistry-without-quantum-computers",
+  "type": "news",
+  "title": "A Chemistry Question Solved Without a Quantum Computer",
+  "hook": "Many assumed only a quantum computer could crack certain chemistry problems. A result decades in the making shows an ordinary computer can do it after all.",
+  "key_points": [
+    "A key question in quantum chemistry was long thought to need a quantum computer.",
+    "Researchers showed ordinary 'classical' computers can answer it, decades in the making.",
+    "It probes which quantum problems are genuinely hard for normal machines — and which aren't.",
+    "The finding narrows, rather than erases, the cases where quantum computers should help."
+  ],
+  "content_html": "\u003cp\u003eSimulating molecules is one of the headline promises of quantum computing: nature is quantum, so the thinking goes that you may need a quantum machine to model it. Reporting in Quanta Magazine, Kevin Hartnett describes a result, decades in the making, that pushes back on that assumption for one important question in quantum chemistry. Mathematicians and physicists showed that an ordinary \u0026quot;classical\u0026quot; computer — the kind in your laptop — can answer it, no quantum hardware required.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe deeper value isn't the single answer but the mapmaking. A central goal of the field is to figure out exactly which problems are genuinely hard for classical computers and which only seemed that way. Each result like this redraws that boundary, showing some quantum-flavored tasks are more tractable than expected. That doesn't undercut quantum computing — it sharpens the picture of where it should offer a real advantage, by ruling out a case where it isn't needed.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Kevin Hartnett"
+    ],
+    "url": "https://quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529",
+    "published_at": "2026-05-29",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "atomic-nuclear"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-05-29",
+  "related": [],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ee9c7f#0",
+      "format": "flip",
+      "prompt": "What surprised researchers about the quantum-chemistry question in this result?",
+      "back_html": "\u003cp\u003eAn \u003cstrong\u003eordinary classical computer\u003c/strong\u003e can answer it, even though many had\nassumed the problem would require a quantum computer.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ee9c7f#1",
+      "format": "quiz",
+      "prompt": "What does this result tell us about quantum computers and chemistry?",
+      "choices": [
+        {
+          "text": "It narrows which chemistry problems truly need a quantum computer",
+          "correct": true
+        },
+        {
+          "text": "It proves quantum computers can never help with chemistry",
+          "correct": false
+        },
+        {
+          "text": "It shows all chemistry is easy for classical computers",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe work shows one important question doesn't need quantum hardware,\nsharpening — not eliminating — the cases where quantum machines may help.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "card_53e8da",
+  "slug": "magnetic-fields-binary-star-formation",
+  "type": "news",
+  "title": "Magnetic Brakes for Newborn Stars",
+  "hook": "Half the stars in the sky come in pairs, but making them is tricky. Simulations suggest magnetic fields act as a brake that lets two protostars spiral together.",
+  "key_points": [
+    "Binary star systems are common, yet how they form so readily has been hard to explain.",
+    "New supercomputer simulations spotlight magnetic fields around newborn stars.",
+    "The fields strip away angular momentum — acting like a cosmic brake.",
+    "With less spin to fling them apart, two forming protostars can spiral closer instead of drifting away.",
+    "It's a concrete mechanism for assembling tight stellar pairs."
+  ],
+  "content_html": "\u003cp\u003eStars love company — roughly half of sun-like stars have at least one stellar partner. But the\nphysics of building a close pair is awkward: a collapsing, spinning cloud of gas carries lots of\nangular momentum, which tends to fling material outward and resist pulling two newborn stars\ntightly together.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNew supercomputer simulations, summarized by ScienceDaily, point to magnetic fields as the\nmissing ingredient. The fields threading the gas around newborn stars act like a cosmic brake,\nstripping away angular momentum from the system. With less spin pushing things apart, two\nstill-forming protostars can spiral toward each other instead of drifting away — offering a clean\nmechanism for how binary systems come together as quickly and commonly as we observe them.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260605023355.htm",
+    "published_at": "2026-06-05",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-08",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7ed11f",
+      "slug": "giant-planet-spins",
+      "type": "news",
+      "title": "Why Some Giant Planets Spin Faster Than 'Failed Stars'",
+      "hook": "Astronomers clocked the spins of dozens of distant worlds and found a surprise: lightweight giant planets can twirl faster than the much heavier brown dwarfs — so mass isn't the whole story.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_53e8da#0",
+      "format": "quiz",
+      "prompt": "In the simulations, how do magnetic fields help two protostars form a tight binary?",
+      "choices": [
+        {
+          "text": "They strip away angular momentum, letting the protostars spiral closer",
+          "correct": true
+        },
+        {
+          "text": "They add angular momentum, flinging the protostars apart",
+          "correct": false
+        },
+        {
+          "text": "They fuse the two protostars into one",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMagnetic fields act like a brake, carrying off angular momentum. With less spin pushing them\napart, the still-forming stars can spiral together rather than drift away.\u003c/p\u003e"
+    },
+    {
+      "id": "card_53e8da#1",
+      "format": "flip",
+      "prompt": "Why does removing angular momentum favor binary star formation?",
+      "back_html": "\u003cp\u003eExcess spin tends to fling forming stars apart. Bleeding off angular momentum lets two\nprotostars settle closer together into a bound pair instead of drifting away.\u003c/p\u003e"
+    }
+  ]
+}

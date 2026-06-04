@@ -1,0 +1,117 @@
+{
+  "id": "card_9e4b0c",
+  "slug": "fisa-section-702",
+  "type": "concept",
+  "title": "FISA Section 702",
+  "hook": "The law behind much of America's foreign-intelligence collection — powerful enough to feed most of the president's daily brief, yet it expires unless Congress keeps renewing it.",
+  "key_points": [
+    "Section 702 authorizes warrantless surveillance of non-U.S. persons abroad to gather foreign intelligence.",
+    "The government says it supplies a large share of the president's daily intelligence briefing.",
+    "It carries a sunset clause — the authority lapses unless Congress periodically reauthorizes it.",
+    "Critics focus on 'incidental' collection of Americans' communications and querying that data without a warrant.",
+    "Oversight runs through the secret FISA Court, the executive, and congressional intelligence committees."
+  ],
+  "content_html": "\u003cp\u003eSection 702 of the Foreign Intelligence Surveillance Act lets U.S. intelligence agencies collect the communications of non-Americans who are reasonably believed to be outside the United States, without an individual warrant, in order to gather foreign intelligence. The government describes it as one of its most valuable tools: per NPR, officials say more than 60% of the president's daily intelligence briefing draws on information collected under 702. Unlike most permanent laws, the authority comes with a \u0026quot;sunset\u0026quot; — it expires on a set date unless Congress votes to renew it, which forces a periodic public debate over its scope.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe central civil-liberties concern is \u0026quot;incidental\u0026quot; collection. When a foreign target communicates with someone in the United States, that American's messages can be swept up too — and agencies have at times searched the collected data for Americans' communications without a warrant, which critics call a \u0026quot;backdoor search.\u0026quot; Defenders argue 702 is essential for detecting threats and is bounded by rules and oversight: the secret Foreign Intelligence Surveillance Court approves the targeting procedures, and congressional intelligence committees and the executive branch monitor its use. The recurring fight over reauthorization — which NPR notes Congress has repeatedly struggled to resolve before deadlines — is a concrete example of the broader democratic balancing act between national security and individual privacy.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Eric McDaniel"
+    ],
+    "url": "https://npr.org/2026/06/12/nx-s1-5856291/fisa-702-surveillance-expiration-bill-pulte",
+    "published_at": "2026-06-12",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties",
+    "technology-and-politics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-15",
+  "date": "2026-06-12",
+  "related": [
+    {
+      "id": "card_cbef24",
+      "slug": "surveillance-and-privacy",
+      "type": "concept",
+      "title": "Surveillance \u0026 Privacy",
+      "hook": "Technology lets states and companies watch people at a scale once unimaginable — putting the old right to be left alone on a collision course with security and profit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9e4b0c#0",
+      "format": "flip",
+      "prompt": "Whose communications does FISA Section 702 target, and does it require an individual warrant?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eNon-U.S. persons\u003c/strong\u003e reasonably believed to be located \u003cstrong\u003eabroad\u003c/strong\u003e, to\ngather foreign intelligence — collected \u003cstrong\u003ewithout an individual warrant\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9e4b0c#1",
+      "format": "quiz",
+      "prompt": "Why must Congress periodically revisit Section 702?",
+      "choices": [
+        {
+          "text": "It has a sunset clause and expires unless reauthorized",
+          "correct": true
+        },
+        {
+          "text": "The Supreme Court must approve it every year",
+          "correct": false
+        },
+        {
+          "text": "It automatically doubles in scope unless cancelled",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authority lapses on a set date unless Congress renews it, which forces\na recurring public debate over its scope.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9e4b0c#2",
+      "format": "quiz",
+      "prompt": "What is the main civil-liberties objection to Section 702?",
+      "choices": [
+        {
+          "text": "It 'incidentally' collects Americans' communications, which can be searched without a warrant",
+          "correct": true
+        },
+        {
+          "text": "It lets foreign governments read U.S. mail",
+          "correct": false
+        },
+        {
+          "text": "It bans the use of encryption",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen Americans communicate with foreign targets their messages can be\nswept up, and querying that data without a warrant draws the strongest\ncriticism.\u003c/p\u003e"
+    }
+  ]
+}

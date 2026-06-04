@@ -1,0 +1,89 @@
+{
+  "id": "card_3a556a",
+  "slug": "antibiotics-use-them-right",
+  "type": "concept",
+  "title": "Antibiotics: Use Them Right",
+  "hook": "Antibiotics are miracle drugs against bacteria — and useless against viruses like colds and flu. Using them when they won't help fuels a genuinely dangerous problem.",
+  "key_points": [
+    "Antibiotics treat bacterial infections; they do nothing for viruses like colds, flu, or most sore throats.",
+    "Taking them when they're not needed drives antibiotic resistance.",
+    "Resistant bacteria make once-routine infections harder, sometimes impossible, to treat.",
+    "Take antibiotics exactly as prescribed, and never share or save leftovers."
+  ],
+  "content_html": "\u003cp\u003eAntibiotics transformed medicine, turning once-deadly infections into minor episodes. But they have a strict job description — and using them outside it is quietly eroding their power.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe CDC is blunt on the core point: antibiotics work only against bacteria, not viruses. That means they do nothing for colds, flu, most coughs, and many sore throats and sinus infections, which are usually viral. Taking antibiotics when they aren't needed won't speed recovery, can cause side effects, and — most importantly — accelerates antibiotic resistance. Resistance happens when bacteria adapt to survive the drugs designed to kill them, and the CDC warns it's one of the most pressing public-health threats: as more bacteria become resistant, infections that were once easily cured become harder, costlier, and sometimes impossible to treat. The practical guidance follows from this: only take antibiotics prescribed for you, take them exactly as directed, and never share them or save leftovers for next time. Protecting these drugs keeps them working when you truly need them.\u003c/p\u003e",
+  "source": {
+    "name": "U.S. Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/antibiotic-use/about/index.html",
+    "license": "Public domain (U.S. CDC)"
+  },
+  "topic_ids": [
+    "medication-safety"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_12a631",
+      "slug": "taking-medicines-safely",
+      "type": "concept",
+      "title": "Taking Medicines Safely",
+      "hook": "Medicines help only when used right. Most medication mishaps are preventable with a few habits — reading the label, knowing your list, and asking questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1e126a",
+      "slug": "cold-flu-or-covid",
+      "type": "concept",
+      "title": "Cold, Flu, or COVID?",
+      "hook": "They share a lot of symptoms, but colds, flu, and COVID-19 differ in how fast they hit and how hard — and telling them apart can change what you do next.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a3e570",
+      "slug": "reviving-antibiotics-with-adjuvants",
+      "type": "news",
+      "title": "Rescuing an Antibiotic Superbugs Had Beaten",
+      "hook": "Rather than invent a new antibiotic, scientists paired an old one with a small 'helper' molecule that disables the bug's resistance — reviving a drug that resistant bacteria had shrugged off.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-22"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3a556a#0",
+      "format": "quiz",
+      "prompt": "Will antibiotics help a common cold or the flu?",
+      "choices": [
+        {
+          "text": "No — those are viral, and antibiotics only work on bacteria",
+          "correct": true
+        },
+        {
+          "text": "Yes, antibiotics cure any infection",
+          "correct": false
+        },
+        {
+          "text": "Only if taken on the first day",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eColds and flu are caused by viruses, which antibiotics can't touch. Using\nantibiotics for them doesn't help and contributes to resistance.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3a556a#1",
+      "format": "flip",
+      "prompt": "What is antibiotic resistance, and why is it dangerous?",
+      "back_html": "\u003cp\u003eWhen bacteria evolve to survive the drugs meant to kill them. It makes once-\nroutine infections \u003cstrong\u003eharder or impossible to treat\u003c/strong\u003e — a major public-health\nthreat driven partly by overuse.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "card_bd6dda",
+  "slug": "prediction-markets-and-politics",
+  "type": "concept",
+  "title": "Prediction Markets in Politics",
+  "hook": "Let people bet real money on who wins, and the prices start to look like odds — a crowd-sourced forecast. But betting on politics invites its own kind of trouble.",
+  "key_points": [
+    "Prediction markets let people trade contracts that pay out if an event — say, an election win — happens.",
+    "Prices behave like probabilities, aggregating dispersed information into a single live forecast.",
+    "Supporters see them as a sharper signal than polls; the price updates the moment new information arrives.",
+    "Critics warn of insider trading, manipulation, and conflicts of interest — like campaign staff betting on their own candidate.",
+    "That's not just theoretical: in 2026, platform Kalshi said it had blocked dozens of trades from campaign insiders, but NPR found at least one that slipped through."
+  ],
+  "content_html": "\u003cp\u003eA prediction market is a place to bet on what will happen: traders buy and sell contracts that pay out if some event occurs — a candidate wins, a bill passes — and the going price of that contract behaves like a probability. If shares paying $1 on a win trade at 60 cents, the market is collectively betting on roughly 60% odds. The appeal is that prices pull together scraps of information held by many different people into a single number that updates the instant news breaks, which some argue makes markets a sharper forecast than a poll taken days earlier.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWriting in The Conversation, political scientists Matt Motta and Robert Ralston caution that turning politics into a betting game carries real risks. Markets reward private information, which shades into insider trading; they can be manipulated by anyone willing to move the price; and they create conflicts of interest — the authors point to campaign staff wagering on their own candidate's performance. That's already showing up in practice: NPR reported in 2026 that the platform Kalshi says it has blocked \u0026quot;dozens\u0026quot; of trades placed by campaign insiders, but reporters found at least one such trade that still slipped through its safeguards — evidence that policing this kind of conflict of interest is harder than a platform's own rules might suggest. As these markets grow, the open question is how to keep the useful forecasting signal while limiting the unethical and unregulated bets that come with making a game out of elections.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Matt Motta",
+      "Robert Ralston"
+    ],
+    "url": "https://theconversation.com/prediction-markets-are-opening-many-new-opportunities-for-unregulated-insider-trading-and-unethical-bets-in-the-name-of-making-a-game-out-of-politics-284057",
+    "published_at": "2026-06-16",
+    "license": "© The Conversation (CC BY-ND)"
+  },
+  "topic_ids": [
+    "media-civil-society",
+    "technology-and-politics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-18",
+  "date": "2026-06-16",
+  "related": [
+    {
+      "id": "card_0d397a",
+      "slug": "public-opinion-and-polling",
+      "type": "concept",
+      "title": "Public Opinion \u0026 Polling",
+      "hook": "What 'the people' think shapes what governments do — but measuring it is trickier than it looks, and a bad poll can mislead as easily as a good one informs.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c978c5",
+      "slug": "markets-regulation-mixed-economy",
+      "type": "concept",
+      "title": "Markets, Regulation \u0026 the Mixed Economy",
+      "hook": "Pure free market or full state control? Almost every country picks neither — they run a mixed economy, and where they draw the line is one of politics' great arguments.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3a7307",
+      "slug": "who-regulates-election-betting",
+      "type": "news",
+      "title": "Who Gets to Regulate Betting on Elections?",
+      "hook": "Wisconsin says you can't bet on an election you vote in — a law from 1849. The biggest prediction market calls that 'voter suppression.' Underneath sits a bigger question: which government decides?",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-27"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bd6dda#0",
+      "format": "flip",
+      "prompt": "Why is the price of a political prediction-market contract read as a probability?",
+      "back_html": "\u003cp\u003eThe contract pays out if the event happens, so traders bid its price\ntoward the odds they collectively assign — aggregating their information.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bd6dda#1",
+      "format": "quiz",
+      "prompt": "What advantage do supporters claim prediction markets have over traditional polls?",
+      "choices": [
+        {
+          "text": "Prices update instantly as new information arrives, giving a live forecast",
+          "correct": true
+        },
+        {
+          "text": "They are guaranteed to be correct",
+          "correct": false
+        },
+        {
+          "text": "They survey a larger random sample of voters",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMarkets re-price the moment news breaks, whereas a poll is a snapshot\nthat takes time to field — the live updating is the claimed edge.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bd6dda#2",
+      "format": "quiz",
+      "prompt": "Which concern do critics raise about betting on politics?",
+      "choices": [
+        {
+          "text": "Insider trading and conflicts of interest, such as campaign staff betting on their own candidate",
+          "correct": true
+        },
+        {
+          "text": "Markets make polling completely illegal",
+          "correct": false
+        },
+        {
+          "text": "They prevent anyone from discussing elections",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause real money is at stake, people with private information or a stake\nin the outcome can profit or distort the signal — the article's core worry.\u003c/p\u003e"
+    }
+  ]
+}

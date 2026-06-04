@@ -1,0 +1,105 @@
+{
+  "id": "card_7aac41",
+  "slug": "viruses-and-aging",
+  "type": "paper",
+  "title": "Viruses as Age-Distorters",
+  "hook": "Could an infection leave you biologically older? In flies, the worse a virus was, the more it sped up aging — and the effect lingered after the virus was gone.",
+  "key_points": [
+    "Researchers used 'aging clocks' — gene-activity signatures — to gauge biological age in infected flies.",
+    "Every harmful viral infection accelerated aging, scaling with the virus's severity.",
+    "The acceleration persisted even after the virus had been cleared.",
+    "A bacterial symbiont, Wolbachia, blunted the effect; the pattern also held in roundworms."
+  ],
+  "content_html": "\u003cp\u003eCould catching a virus leave you biologically older? A study in fruit flies found that the worse a gut-virus infection was, the more it accelerated aging — and that the effect lingered even after the virus was gone.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWriting in Science Advances, González and colleagues infected flies with four enteric (gut) RNA viruses spanning a range of severity, then read \u0026quot;aging clocks\u0026quot; — gene-activity signatures that track biological age — to measure the damage. Every harmful infection sped up aging, and the more lethal the virus, the bigger the jump. The pattern held whether flies were infected by mouth or systemically, and showed up in roundworms too, where a harmless virus barely moved the clock. Notably, the animals stayed biologically older even after clearing the infection, while a common bacterial symbiont, Wolbachia, softened the blow. The authors propose that viruses act as \u0026quot;age-distorters,\u0026quot; linking infection severity to lasting effects on health. The work is in invertebrates, so whether it carries over to humans remains an open question — but it offers a concrete way to think about how an infection might leave a lasting mark.\u003c/p\u003e",
+  "source": {
+    "name": "Science Advances",
+    "authors": [
+      "González R",
+      "Castelló-Sanjuán M",
+      "Saleh MC"
+    ],
+    "url": "https://doi.org/10.1126/sciadv.aec1735",
+    "published_at": "2026-06-05",
+    "license": "Science Advances (open access)"
+  },
+  "topic_ids": [
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-11",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_8510f0",
+      "slug": "viruses-living-or-not",
+      "type": "concept",
+      "title": "Are Viruses Alive?",
+      "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1976d",
+      "slug": "how-infections-spread",
+      "type": "concept",
+      "title": "How Infections Spread",
+      "hook": "Germs can't fly to a new host on their own — they hitch rides on coughs, hands, food, water, and insects. Break the ride, and you break the chain of infection.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7aac41#0",
+      "format": "flip",
+      "prompt": "What did researchers mean by calling viruses 'age-distorters'?",
+      "back_html": "\u003cp\u003eInfections accelerated biological aging \u003cstrong\u003ein proportion to their severity\u003c/strong\u003e, and\nthe effect lasted even after the virus was cleared.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7aac41#1",
+      "format": "quiz",
+      "prompt": "How did a virus's severity relate to aging in this study?",
+      "choices": [
+        {
+          "text": "The more pathogenic the virus, the more it accelerated aging",
+          "correct": true
+        },
+        {
+          "text": "All infections aged the host by exactly the same amount",
+          "correct": false
+        },
+        {
+          "text": "Only the mildest infections accelerated aging",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAcross four gut viruses of differing severity, the magnitude of aging acceleration\ntracked how pathogenic each virus was.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7aac41#2",
+      "format": "quiz",
+      "prompt": "What is an 'aging clock' as used here?",
+      "choices": [
+        {
+          "text": "A gene-activity signature that estimates an organism's biological age",
+          "correct": true
+        },
+        {
+          "text": "A literal clock implanted in the fly",
+          "correct": false
+        },
+        {
+          "text": "The fixed number of times any cell can divide",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe team read transcriptomic 'aging clocks' — patterns of gene activity that\ncorrelate with biological age — to measure the toll of each infection.\u003c/p\u003e"
+    }
+  ]
+}

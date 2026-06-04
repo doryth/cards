@@ -1,0 +1,99 @@
+{
+  "id": "card_9b9689",
+  "slug": "plant-senses-and-tropisms",
+  "type": "concept",
+  "title": "How Plants Sense \u0026 Move",
+  "hook": "Plants can't walk, but they aren't passive — they sense light, gravity, and touch, and grow toward what they need in slow, deliberate motion.",
+  "key_points": [
+    "A tropism is growth bending toward or away from a stimulus.",
+    "Phototropism: shoots grow toward light to capture more sunlight.",
+    "Gravitropism: roots grow down and shoots grow up, sensing gravity.",
+    "Hormones like auxin redistribute to make one side grow faster, bending the plant."
+  ],
+  "content_html": "\u003cp\u003eRooted in place, plants might look like they do nothing — but they're constantly sensing their surroundings and responding. The key responses are tropisms: directional growth toward or away from something in the environment. A shoot leaning toward a sunny window is phototropism; a root turning downward into the soil is gravitropism. Even touch matters, as climbing vines coil around a support.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trick behind tropisms is uneven growth, orchestrated by plant hormones — especially auxin. When light hits a shoot from one side, auxin gathers on the shaded side and tells those cells to elongate faster. The faster-growing side pushes the tip over until it points at the light. The same hormone logic, reading gravity instead of light, sends roots down and stems up even in total darkness. As Encyclopaedia Britannica explains, these slow, growth-based movements are how a stationary organism still manages to chase sunlight, find water, and grip a trellis — no muscles or nerves required.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/tropism",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "plants"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aa2c1d",
+      "slug": "how-plants-are-built",
+      "type": "concept",
+      "title": "How a Plant Is Built",
+      "hook": "Most plants are made of three working parts — roots that drink, stems that lift, and leaves that catch sunlight — and together they turn dirt and light into a living thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bd46a",
+      "slug": "seeds-and-germination",
+      "type": "concept",
+      "title": "Seeds \u0026 Germination",
+      "hook": "A seed is a tiny plant on pause — a packed embryo with a lunch box of food, waiting for the right moment to wake up and push into the world.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9b9689#0",
+      "format": "flip",
+      "prompt": "What is a tropism?",
+      "back_html": "\u003cp\u003eA plant's \u003cstrong\u003egrowth response toward or away from a stimulus\u003c/strong\u003e — such as light,\ngravity, or touch. The plant grows in a direction rather than moving as a whole.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9b9689#1",
+      "format": "quiz",
+      "prompt": "A houseplant on a windowsill bends toward the window. What is this?",
+      "choices": [
+        {
+          "text": "Phototropism — growth toward light",
+          "correct": true
+        },
+        {
+          "text": "Gravitropism — growth in response to gravity",
+          "correct": false
+        },
+        {
+          "text": "The plant physically walking toward the glass",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBending toward a light source is phototropism. The shaded side grows faster,\ntipping the shoot toward the light.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9b9689#2",
+      "format": "quiz",
+      "prompt": "What lets one side of a stem grow faster than the other, causing it to bend?",
+      "choices": [
+        {
+          "text": "A plant hormone, auxin, building up on one side",
+          "correct": true
+        },
+        {
+          "text": "Tiny muscles inside the stem",
+          "correct": false
+        },
+        {
+          "text": "The plant deciding to lean, like an animal",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAuxin collects on the shaded or lower side and speeds growth there, so the stem\ncurves. Plants bend by growing unevenly, not by flexing muscles.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "card_d510aa",
+  "slug": "enforcement-by-request",
+  "type": "news",
+  "title": "Deregulation Without Repealing Anything",
+  "hook": "You do not need to repeal a consumer protection law to switch it off. Stop investigating, ask companies nicely, and take their word for it — the statute stays on the books, unenforced.",
+  "key_points": [
+    "Most regulatory statutes leave enforcement to agency discretion, so how vigorously a rule is applied is a policy choice made by whoever runs the agency.",
+    "That makes non-enforcement a form of deregulation that requires no vote and leaves the law formally intact.",
+    "Per ProPublica, the CFPB under acting director Russell Vought shifted from investigation to a collaborative, deregulatory posture after efforts to dismantle the bureau in court failed.",
+    "ProPublica reports the bureau brought one enforcement action resulting in a $1 civil penalty, and dismissed or resolved dozens of cases from prior administrations.",
+    "Capacity shapes the shift as much as intent: policy attorneys reportedly fell from 40-50 to 5, and examiners had three weeks for reviews instead of eight.",
+    "In the Bilt case, ProPublica reports officials met executives, accepted assurances, and issued a positive press release without opening an investigation; months later roughly 1,900 customers got false debt-collection notices."
+  ],
+  "content_html": "\u003cp\u003eThere are two ways to end a regulation. One is to repeal it, which requires a legislature and a public argument. The other is to leave it in place and stop enforcing it, which requires only the people running the agency.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Andy Kroll reports that after court efforts to dismantle the Consumer Financial Protection Bureau failed, the administration changed it from within: acting director Russell Vought moved the bureau toward what it framed as a collaborative, deregulatory approach. By ProPublica's count the bureau brought a single enforcement action, yielding a $1 civil penalty, while dismissing or resolving dozens of inherited cases. Capacity moved in the same direction — policy attorneys reportedly dropped from 40-50 to five, and examiners were given three weeks for reviews that previously took eight, with staff leaning on companies' own findings rather than primary data. The fintech company Bilt shows what that looks like in practice: after customers reported late, doubled or missing rent payments in February 2026, ProPublica reports the bureau met with executives, accepted their assurances and put out a press release saying the firm appeared back on track, without opening an investigation; in late July, nearly 1,900 customers received false debt-collection notices that damaged their credit. The transferable idea is that enforcement discretion is a policy lever in its own right. When you want to know how strong a consumer or environmental protection actually is, the statute tells you less than the enforcement statistics do. (This card describes U.S. federal financial regulation specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Andy Kroll"
+    ],
+    "url": "https://propublica.org/article/bilt-cfpb-russell-vought-trump-consumer-protection-fintech",
+    "published_at": "2026-08-31",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption",
+    "public-policy-economy"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-08-31",
+  "related": [
+    {
+      "id": "card_89ecd5",
+      "slug": "regulatory-capture",
+      "type": "news",
+      "title": "Regulatory Capture",
+      "hook": "Who protects a city's drinking water when the industry that put it at risk is also the one the regulator was built to serve? That's the problem political scientists call regulatory capture.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_549c34",
+      "slug": "self-regulation-and-the-jurisdiction-gap",
+      "type": "news",
+      "title": "Self-Regulation and the Jurisdiction Gap",
+      "hook": "When a private body governs an activity but sits outside every regulator's remit, weak rules stop being a flaw and start being a competitive advantage.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-13"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c978c5",
+      "slug": "markets-regulation-mixed-economy",
+      "type": "concept",
+      "title": "Markets, Regulation \u0026 the Mixed Economy",
+      "hook": "Pure free market or full state control? Almost every country picks neither — they run a mixed economy, and where they draw the line is one of politics' great arguments.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_d510aa#0",
+      "format": "flip",
+      "prompt": "How can an agency effectively deregulate without any law being changed?",
+      "back_html": "\u003cp\u003eBy exercising enforcement discretion — declining to investigate, penalize\nor litigate. The statute stays on the books while its practical force\ndisappears, and no legislative vote is needed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d510aa#1",
+      "format": "quiz",
+      "prompt": "Why does staffing matter to whether a regulatory law has real force?",
+      "choices": [
+        {
+          "text": "Investigations require people and time; cutting attorneys and shortening reviews reduces what can be enforced",
+          "correct": true
+        },
+        {
+          "text": "Statutes automatically expire when agency headcount falls",
+          "correct": false
+        },
+        {
+          "text": "Courts void regulations issued by understaffed agencies",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProPublica reports policy attorneys falling from 40-50 to 5 and examiner\nreviews shrinking from eight weeks to three — capacity is enforcement.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d510aa#2",
+      "format": "quiz",
+      "prompt": "In the Bilt episode, what did the CFPB do after customers reported rent-payment failures?",
+      "choices": [
+        {
+          "text": "Met with executives, accepted their assurances and issued a positive press release without opening an investigation",
+          "correct": true
+        },
+        {
+          "text": "Opened a formal investigation and issued a consent decree",
+          "correct": false
+        },
+        {
+          "text": "Referred the matter to the Supreme Court",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTaking a company's own account at face value, rather than subpoenaing\nrecords or auditing systems, is what supervision-by-request looks like.\u003c/p\u003e"
+    }
+  ]
+}

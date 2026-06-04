@@ -1,0 +1,96 @@
+{
+  "id": "card_3c8403",
+  "slug": "majorana-parity-qubit-coherent-control",
+  "type": "paper",
+  "title": "First-Ever Coherent Control of a Majorana Qubit",
+  "hook": "Majorana zero modes promise qubits that resist noise almost by design. A Delft-led team just demonstrated the first coherent control of one, a step toward fault-tolerant quantum computers.",
+  "key_points": [
+    "Majorana zero modes can encode qubit information non-locally, in a way that should become exponentially more resistant to noise the farther apart the modes are — 'topological protection.'",
+    "The team built two-site 'Kitaev chains' from quantum dots and superconducting nanowires, each hosting a pair of Majorana-like modes.",
+    "Coupling two of these chains together, they observed coherent oscillations in the qubit's fermion parity — direct evidence of controllable quantum behavior, not just a static signature.",
+    "This is the first time researchers have achieved coherent, time-domain control of a Majorana-based qubit, not just detected the modes in electrical measurements."
+  ],
+  "content_html": "\u003cp\u003eOrdinary qubits are fragile: they lose their delicate quantum state after brushing against almost any stray noise. Majorana zero modes offer a different strategy — encode the qubit's information non-locally, split across two well-separated points, so that local noise simply can't reach all of it at once. In principle, the protection grows exponentially stronger the farther apart those points are.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team led by Francesco Zatelli, Bart Roovers, and Nick van Loo, working in Leo Kouwenhoven's group, built minimal two-site \u0026quot;Kitaev chains\u0026quot; — quantum dots linked through superconducting nanowires — each hosting a pair of so-called \u0026quot;poor man's Majoranas\u0026quot; at its ends. By coherently coupling two of these chains, the team could observe oscillations in the system's fermion parity that matched theoretical predictions for genuine Majorana zero modes, with oscillation frequency and coherence depending systematically on how strongly the chains were coupled. Earlier experiments had only spotted Majorana-like signatures in static electrical measurements; this is the first demonstration of actually controlling one coherently over time — establishing the first working Majorana qubit and a concrete step toward the topologically protected quantum computers researchers have chased for over a decade.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Francesco Zatelli",
+      "Bart Roovers",
+      "Nick van Loo",
+      "Leo P. Kouwenhoven"
+    ],
+    "url": "https://arxiv.org/abs/2607.09511",
+    "published_at": "2026-07-10",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "materials-tech"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-16",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3c8403#0",
+      "format": "flip",
+      "prompt": "Why are Majorana zero modes attractive for building qubits?",
+      "back_html": "\u003cp\u003eThey encode information non-locally, so the qubit should become exponentially\n\u003cstrong\u003emore resistant to noise\u003c/strong\u003e the farther apart the two modes are — called\ntopological protection.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3c8403#1",
+      "format": "quiz",
+      "prompt": "What did the researchers achieve for the first time in this experiment?",
+      "choices": [
+        {
+          "text": "Coherent, time-domain control of a Majorana-based qubit, seen as oscillations in its fermion parity",
+          "correct": true
+        },
+        {
+          "text": "The first-ever electrical detection of any Majorana-like signal",
+          "correct": false
+        },
+        {
+          "text": "A fully fault-tolerant quantum computer running real algorithms",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEarlier work had detected Majorana-like modes in static transport measurements;\nthis result is the first to coherently control one over time.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3c8403#2",
+      "format": "flip",
+      "prompt": "How did the team build the platform hosting the Majorana modes?",
+      "back_html": "\u003cp\u003eBy engineering \u003cstrong\u003eKitaev chains\u003c/strong\u003e — arrays of quantum dots coupled through\nsuperconducting nanowires — with just two sites each, then coherently coupling\ntwo such chains together.\u003c/p\u003e"
+    }
+  ]
+}

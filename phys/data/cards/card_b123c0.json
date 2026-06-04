@@ -1,0 +1,132 @@
+{
+  "id": "card_b123c0",
+  "slug": "semiconductors-and-transistors",
+  "type": "concept",
+  "title": "Semiconductors and the Transistor",
+  "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+  "key_points": [
+    "A semiconductor like silicon conducts electricity only sometimes — between conductor and insulator.",
+    "Adding trace impurities ('doping') precisely tunes how and when it conducts.",
+    "A transistor uses this to act as a switch: a small voltage controls a larger current.",
+    "Billions of transistors switching on and off encode the 1s and 0s of computing."
+  ],
+  "content_html": "\u003cp\u003eMaterials usually fall into two camps: conductors like copper that let electricity flow, and insulators like glass that block it. Semiconductors — silicon above all — sit in between, conducting only under the right conditions. That in-between nature is exactly what makes them the most important materials of the modern age, because their conductivity can be precisely controlled. By adding minute traces of other elements, a process called doping, engineers dial in how a piece of silicon carries current.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eCombine doped regions cleverly and you get a transistor: a switch with no moving parts, in which a small voltage on one terminal turns the current between two others on or off. That simple controllable switch is the atom of computing. String billions of them together on a fingernail-sized chip and you can represent and manipulate information as patterns of on and off — the 1s and 0s of everything digital. Since the transistor's invention at Bell Labs in 1947, engineers have shrunk them relentlessly, packing ever more onto each chip, which is why phones now outclass the room-sized computers of decades past. Wikipedia covers how transistors are built and how they switch.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Transistor",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2b87f5",
+      "slug": "electric-charge-and-current",
+      "type": "concept",
+      "title": "Electric Charge \u0026 Current",
+      "hook": "Everything electrical comes down to charge — and an electric current is simply charge on the move.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2a4c51",
+      "slug": "circuits-and-ohms-law",
+      "type": "concept",
+      "title": "Circuits and Ohm's Law",
+      "hook": "Three quantities run every circuit — voltage, current, and resistance — and one tidy rule ties them together: voltage equals current times resistance.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c00178",
+      "slug": "altermagnets-a-new-class-of-magnet",
+      "type": "news",
+      "title": "Altermagnets: A Third Kind of Magnet",
+      "hook": "For a century, magnets came in two flavors. A new class called altermagnets blends the best of both — and a flaw in a diamond could be the tool that finally spots them.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_2a4c51",
+      "slug": "circuits-and-ohms-law",
+      "type": "concept",
+      "title": "Circuits and Ohm's Law",
+      "hook": "Three quantities run every circuit — voltage, current, and resistance — and one tidy rule ties them together: voltage equals current times resistance.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_b123c0#0",
+      "format": "flip",
+      "prompt": "What makes a semiconductor different from a normal conductor or insulator?",
+      "back_html": "\u003cp\u003eIt conducts electricity only \u003cstrong\u003esometimes\u003c/strong\u003e — in between the two extremes — and\nthat conductivity can be precisely controlled, which is what makes it so useful.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b123c0#1",
+      "format": "quiz",
+      "prompt": "What is the basic job of a transistor in a computer chip?",
+      "choices": [
+        {
+          "text": "Act as a switch where a small voltage turns a larger current on or off",
+          "correct": true
+        },
+        {
+          "text": "Store electricity like a tiny battery",
+          "correct": false
+        },
+        {
+          "text": "Convert heat directly into light",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA transistor lets one signal control another, switching between on and off —\nthe physical embodiment of the 1s and 0s computers run on.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b123c0#2",
+      "format": "quiz",
+      "prompt": "Why is 'doping' silicon with trace impurities so important?",
+      "choices": [
+        {
+          "text": "It tunes exactly how and when the silicon conducts, enabling transistors",
+          "correct": true
+        },
+        {
+          "text": "It makes the silicon physically harder",
+          "correct": false
+        },
+        {
+          "text": "It changes the silicon's color for labeling",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAdding tiny amounts of other elements controls the supply of mobile charges,\nwhich is how engineers build the switching behavior of a transistor.\u003c/p\u003e"
+    }
+  ]
+}

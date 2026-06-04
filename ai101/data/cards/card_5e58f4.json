@@ -1,0 +1,89 @@
+{
+  "id": "card_5e58f4",
+  "slug": "what-happens-to-truth",
+  "type": "concept",
+  "title": "What Happens to Truth?",
+  "hook": "When anything can be faked and the internet floods with synthetic everything, the danger isn't just believing lies — it's the 'liar's dividend,' where real evidence gets dismissed as fake too.",
+  "key_points": [
+    "Cheap, convincing fakes erode the default trust we place in photos, audio, and video.",
+    "The 'liar's dividend': real wrongdoing can be waved away as 'probably AI'.",
+    "A flood of synthetic content makes finding reliable signal harder, not just riskier.",
+    "Trust shifts from the artifact to the source — provenance becomes everything."
+  ],
+  "content_html": "\u003cp\u003eThe deepest question AI raises for everyday life isn't about any single fake — it's what happens to \u003cem\u003etruth itself\u003c/em\u003e when fakery becomes cheap, convincing, and endless. For a century, a photograph or a recording carried a kind of automatic credibility: seeing was believing. AI is dissolving that default. Once people internalize that any image, voice, or video \u003cem\u003emight\u003c/em\u003e be synthetic, the comfortable shortcut of trusting our eyes stops working, and every piece of evidence carries a question mark.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe first-order worry — people believing convincing lies — is real but almost obvious. The subtler and more corrosive effect is the \u003cstrong\u003e\u0026quot;liar's dividend.\u0026quot;\u003c/strong\u003e When everyone knows realistic fakes exist, the genuinely guilty gain a powerful escape hatch: caught on tape, they can simply claim the tape is AI. Real evidence of real wrongdoing can be shrugged off as \u0026quot;probably fake,\u0026quot; and doubt becomes a weapon. Layer on the sheer \u003cem\u003evolume\u003c/em\u003e — a flood of synthetic articles, images, reviews, and comments — and the problem isn't only that lies spread; it's that reliable signal gets buried in noise, and a tired public retreats into either gullibility or blanket cynicism. Neither is healthy for a society that has to make decisions together. There's no tidy fix, but the direction is clear: trust has to migrate from the \u003cem\u003eartifact\u003c/em\u003e to the \u003cem\u003esource\u003c/em\u003e. Provenance — who is vouching for this, what's their track record, is it independently confirmed — becomes the thing that matters, and technologies to certify where content came from are part of the response. For individuals, the takeaway is a mindset: hold your beliefs about online media a little more loosely, anchor to sources you've earned reason to trust, and resist the lazy slide into believing everything \u003cem\u003eor\u003c/em\u003e nothing.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-and-truth"
+  ],
+  "tags": [
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82f0f6",
+      "slug": "ai-and-the-news",
+      "type": "concept",
+      "title": "AI \u0026 the News",
+      "hook": "AI now writes news, fakes whole 'outlets,' and powers the feed deciding what you see. Staying informed increasingly means knowing how the sausage is made — and who made it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5e58f4#0",
+      "format": "quiz",
+      "prompt": "What is the 'liar's dividend'?",
+      "choices": [
+        {
+          "text": "When real evidence can be dismissed as fake because fakes are now plausible",
+          "correct": true
+        },
+        {
+          "text": "Money earned by selling AI tools",
+          "correct": false
+        },
+        {
+          "text": "A discount for telling the truth",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOnce everyone knows convincing fakes exist, the guilty can dismiss genuine\naudio or video of themselves as 'just AI' — doubt itself becomes a shield.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5e58f4#1",
+      "format": "flip",
+      "prompt": "As fakes get better, where does trust have to move?",
+      "back_html": "\u003cp\u003eFrom the artifact to the source — we increasingly judge a photo or claim by\n\u003cem\u003ewho\u003c/em\u003e provides it and whether it's confirmed, not by how real it looks.\u003c/p\u003e"
+    }
+  ]
+}

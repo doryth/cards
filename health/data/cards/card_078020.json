@@ -1,0 +1,81 @@
+{
+  "id": "card_078020",
+  "slug": "old-muscle-stem-cells-tradeoff",
+  "type": "news",
+  "title": "Why Aging Muscles Heal More Slowly",
+  "hook": "A protein that builds up in older muscle stem cells acts like a brake on repair — but the same protein also helps those cells survive the stresses of aging.",
+  "key_points": [
+    "UCLA researchers found a protein called NDRG1 builds up in aging muscle stem cells.",
+    "NDRG1 acts like a brake, slowing the cells' ability to jump into repair mode after injury.",
+    "The same protein helps those aging cells survive longer and stick around.",
+    "It's a tradeoff: slower repair in exchange for the cells' own survival, not a simple flaw to fix."
+  ],
+  "content_html": "\u003cp\u003eOlder muscles take longer to bounce back after an injury or hard workout, and UCLA researchers say they've found part of the reason why. As ScienceDaily reports, a protein called NDRG1 builds up in aging muscle stem cells and acts like a brake, slowing their ability to jump into repair mode.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe twist is that NDRG1 isn't simply a flaw to engineer away. The same protein also helps those older cells survive the accumulated stresses of aging, letting them stick around longer than they otherwise would. That tradeoff — slower repair in exchange for longer survival — is a useful reminder that aging biology rarely comes down to a single \u0026quot;bad\u0026quot; molecule; it's often a balance that evolved for a reason, which makes it trickier (and more interesting) to intervene on safely.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260622014315.htm",
+    "published_at": "2026-07-03",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "healthy-aging",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-06",
+  "date": "2026-07-03",
+  "related": [
+    {
+      "id": "card_a41d55",
+      "slug": "staying-strong-as-you-age",
+      "type": "concept",
+      "title": "Staying Strong as You Age",
+      "hook": "The decline we associate with old age is partly the result of doing less. Staying active — in four distinct ways — keeps you independent far longer.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_44a617",
+      "slug": "aging-isnt-all-decline",
+      "type": "news",
+      "title": "Aging Isn't Only Decline",
+      "hook": "A long-term Yale study found nearly half of adults over 65 actually improved — physically, mentally, or both — and a more positive view of aging tracked with those gains.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-21"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_078020#0",
+      "format": "flip",
+      "prompt": "What does the protein NDRG1 do in aging muscle stem cells?",
+      "back_html": "\u003cp\u003eIt builds up over time and acts like a \u003cstrong\u003ebrake\u003c/strong\u003e, slowing how quickly the cells jump\ninto repair mode after an injury — one reason older muscles heal more slowly.\u003c/p\u003e"
+    },
+    {
+      "id": "card_078020#1",
+      "format": "quiz",
+      "prompt": "Why can't researchers simply remove NDRG1 to speed up muscle repair in older adults?",
+      "choices": [
+        {
+          "text": "The same protein also helps those aging cells survive longer",
+          "correct": true
+        },
+        {
+          "text": "NDRG1 has no other known function",
+          "correct": false
+        },
+        {
+          "text": "Removing it would make muscles heal instantly with no downside",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNDRG1 is a tradeoff, not a simple flaw: it slows repair, but it also helps aging muscle\nstem cells survive the stresses of getting older, so simply blocking it isn't a free win.\u003c/p\u003e"
+    }
+  ]
+}

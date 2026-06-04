@@ -1,0 +1,99 @@
+{
+  "id": "card_d9795d",
+  "slug": "nutrient-cycles",
+  "type": "concept",
+  "title": "Nutrient Cycles",
+  "hook": "The carbon in your breath, the nitrogen in your DNA, the water in your blood — all of it has cycled through living things and the planet countless times. Nothing is used up; everything is recycled.",
+  "key_points": [
+    "Matter is recycled through ecosystems in loops called biogeochemical cycles.",
+    "The carbon cycle moves carbon between air, living things, oceans, and rocks.",
+    "The nitrogen cycle relies on bacteria to make atmospheric nitrogen usable for life.",
+    "The water cycle moves water through evaporation, rain, rivers, and organisms."
+  ],
+  "content_html": "\u003cp\u003eEcosystems run on two currencies: energy and matter. Energy flows through and is lost as heat, so it has to be resupplied constantly by the sun. Matter is different — it's recycled. The same atoms of carbon, nitrogen, oxygen, and hydrogen are used again and again, passing from air to plant to animal to soil and back. Ecologists call these loops biogeochemical cycles, and they're what keep finite supplies of vital elements perpetually in circulation.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTake three of the big ones, as Khan Academy lays them out. In the carbon cycle, plants pull carbon dioxide from the air during photosynthesis, animals eat the plants, and respiration and decay release the carbon back — with some locked away for ages in oceans and rock. The nitrogen cycle has a twist: nitrogen gas makes up most of the air, but living things can't use it directly, so specialized bacteria \u0026quot;fix\u0026quot; it into usable compounds, making them quiet linchpins of nearly all life. The water cycle drives evaporation, rainfall, and the flow of rivers, and threads through every organism that drinks or transpires. These cycles interlock, and disrupting one — say, by burning fossil carbon faster than it can be reabsorbed — ripples through the rest.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/ecology/biogeochemical-cycles/a/biogeochemical-cycles",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "ecology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a13f41",
+      "slug": "ecosystems-and-interdependence",
+      "type": "concept",
+      "title": "Ecosystems \u0026 Interdependence",
+      "hook": "An ecosystem is a community of living things plus their environment, all so tangled together that pulling one thread can shake the whole web.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_05f960",
+      "slug": "food-chains-and-webs",
+      "type": "concept",
+      "title": "Food Chains \u0026 Energy Flow",
+      "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d9795d#0",
+      "format": "quiz",
+      "prompt": "Unlike energy, which flows through and leaves an ecosystem, what happens to matter like carbon and nitrogen?",
+      "choices": [
+        {
+          "text": "It is recycled, cycling repeatedly through living and non-living parts",
+          "correct": true
+        },
+        {
+          "text": "It is destroyed and must be created anew each year",
+          "correct": false
+        },
+        {
+          "text": "It escapes into space and never returns",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEnergy flows one way and is lost as heat, but \u003cstrong\u003ematter cycles\u003c/strong\u003e. Atoms of carbon,\nnitrogen, and water are used over and over in biogeochemical cycles.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d9795d#1",
+      "format": "quiz",
+      "prompt": "Plants can't use nitrogen straight from the air. What makes atmospheric nitrogen usable for life?",
+      "choices": [
+        {
+          "text": "Bacteria that 'fix' nitrogen into compounds plants can absorb",
+          "correct": true
+        },
+        {
+          "text": "Sunlight breaking nitrogen apart in leaves",
+          "correct": false
+        },
+        {
+          "text": "Plants inhaling nitrogen gas through their roots",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMost life can't use inert nitrogen gas (N₂). \u003cstrong\u003eNitrogen-fixing bacteria\u003c/strong\u003e convert\nit into forms like ammonia that plants can take up — a critical step in the cycle.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d9795d#2",
+      "format": "flip",
+      "prompt": "Name three major nutrient cycles that move matter through ecosystems.",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003ecarbon cycle\u003c/strong\u003e, the \u003cstrong\u003enitrogen cycle\u003c/strong\u003e, and the \u003cstrong\u003ewater cycle\u003c/strong\u003e — each\nmoving a key substance between the atmosphere, living things, and the Earth.\u003c/p\u003e"
+    }
+  ]
+}

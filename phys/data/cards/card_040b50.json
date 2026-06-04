@@ -1,0 +1,90 @@
+{
+  "id": "card_040b50",
+  "slug": "starlink-maps-the-thermosphere",
+  "type": "news",
+  "title": "1,200 Satellites Turned Into One Giant Air Gauge",
+  "hook": "The thin air 500 km up is nearly impossible to measure and it decides where satellites drift. Researchers read it off the orbits of the Starlink fleet itself.",
+  "key_points": [
+    "At 500 km altitude there is still enough gas to drag on a satellite, slowly changing its orbit.",
+    "That layer, the upper thermosphere, is notoriously hard to observe directly — too high for balloons, too thin for most instruments.",
+    "Researchers inverted the problem: drag alters orbits measurably, so orbital data reveals the density that caused it.",
+    "Using orbital data from roughly 1,200 Starlink satellites, they reconstructed how density changed at about 500 km.",
+    "Better density maps mean better satellite tracking, and fewer collisions in increasingly crowded orbits."
+  ],
+  "content_html": "\u003cp\u003eSpace is not empty where satellites live. At about 500 kilometres up there is still a whisper of gas, and over months it drags on anything orbiting there, quietly reshaping the orbit. That whisper — the upper thermosphere — is one of the hardest parts of the atmosphere to measure. It is far above balloons, and far too thin for the instruments that work lower down.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trick, in work reported via ScienceDaily, is to stop treating drag as a nuisance and treat it as a signal. If you know how a satellite's orbit is changing, and you know its shape and mass, you can invert the calculation and recover the density of the gas that must have been pushing on it. Do this for one satellite and you get a noisy point measurement; do it for roughly 1,200 Starlink satellites spread around the planet and you get a reconstruction of how density varies and changes at that altitude. The payoff is operational as much as scientific: drag uncertainty is a large part of why predicting a satellite's future position is hard, so sharper density maps mean sharper tracking and better odds of avoiding collisions in orbits that are filling up fast.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260812015212.htm",
+    "published_at": "2026-08-12",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "gravity-orbits",
+    "fluids-pressure"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e40f9b",
+      "slug": "atmospheric-pressure",
+      "type": "concept",
+      "title": "Atmospheric Pressure",
+      "hook": "Air has weight, and the whole column of it above you presses down — about 101 kPa at sea level. That push is what makes straws and suction cups work.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_040b50#0",
+      "format": "flip",
+      "prompt": "How can a satellite's orbit be used to measure air density?",
+      "back_html": "\u003cp\u003eResidual gas \u003cstrong\u003edrags\u003c/strong\u003e on the satellite and changes its orbit; measure the orbital\nchange precisely and you can infer the density that produced it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_040b50#1",
+      "format": "quiz",
+      "prompt": "Why is the upper thermosphere so hard to study directly?",
+      "choices": [
+        {
+          "text": "It is far too high for balloons yet far too thin for most instruments to sample",
+          "correct": true
+        },
+        {
+          "text": "Its temperature is too low for detectors to operate",
+          "correct": false
+        },
+        {
+          "text": "Earth's magnetic field blocks measurements at that altitude",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAround 500 km the gas is extremely tenuous but not absent — which is exactly why\nsatellite drag makes a better probe than a direct sensor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_040b50#2",
+      "format": "flip",
+      "prompt": "What practical problem does a better density map help solve?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eSatellite tracking and collision avoidance\u003c/strong\u003e — drag drives where a satellite\nactually ends up, and low orbits are getting crowded.\u003c/p\u003e"
+    }
+  ]
+}

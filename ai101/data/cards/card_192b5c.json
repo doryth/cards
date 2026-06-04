@@ -1,0 +1,105 @@
+{
+  "id": "card_192b5c",
+  "slug": "defenders-embrace-prompt-injection",
+  "type": "news",
+  "title": "Now Defenders Are Using Prompt Injection, Too",
+  "hook": "Prompt injection usually means tricking an AI agent into doing something bad. Security teams found a twist: feed a hacking agent so much fake noise it gives up and shuts itself down.",
+  "key_points": [
+    "Prompt injection — feeding an AI text designed to hijack its behavior — is normally an attack.",
+    "Ars Technica reports defenders are now turning the same trick against attacking AI agents.",
+    "The technique, 'context bombing,' floods a hacking agent with junk until it stalls or quits.",
+    "It works because agents don't 'know' what's real; they react to whatever text they're fed.",
+    "It's a cat-and-mouse fix, not a cure — the same trick could eventually be defended against, too."
+  ],
+  "content_html": "\u003cp\u003ePrompt injection usually shows up in this deck as a threat: feed an AI agent cleverly worded text and it follows instructions it never should have. Ars Technica reports that security defenders have started turning that same weapon around — using it \u003cem\u003eagainst\u003c/em\u003e AI agents that attackers deploy to automate hacking.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe technique, dubbed \u0026quot;context bombing,\u0026quot; works by flooding an attacking agent with enormous amounts of fake or irrelevant text once it's detected inside a system. Because an AI agent has no independent way to tell real information from noise — it just processes whatever's in front of it — burying it in junk can make it stall, get confused, or effectively shut itself down before it finishes doing damage. It's a clever bit of jujitsu: the same vulnerability that makes agents exploitable (they trust their input) becomes the tool used to stop them. The catch, as with most security tricks, is that it's not a permanent fix — it's a fresh move in an ongoing back-and-forth between attackers and defenders, and attacking agents can eventually be hardened against it too. The bigger lesson holds regardless: an AI agent's \u0026quot;judgment\u0026quot; is really just a reaction to whatever text it's fed, for better or worse.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Dan Goodin"
+    ],
+    "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too",
+    "published_at": "2026-07-13",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-agents",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-16",
+  "date": "2026-07-13",
+  "related": [
+    {
+      "id": "card_e0c338",
+      "slug": "ai-browser-guardrail-bypass",
+      "type": "news",
+      "title": "The Trick That Fools AI Browsers Into Ignoring Their Own Rules",
+      "hook": "Telling an AI browser agent something as absurd as '2 + 2 = 5' can be enough to unlock forbidden instructions — a new attack shows how easily an agent's sense of reality can be hijacked.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_6e744d",
+      "slug": "meta-ai-agent-hijacked",
+      "type": "news",
+      "title": "Hackers Talked Meta's AI Into Handing Over Accounts",
+      "hook": "Attackers stole Instagram accounts not by cracking passwords, but by asking Meta's support AI to relink them — proof that an AI agent with real permissions can be talked into real harm.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_192b5c#0",
+      "format": "quiz",
+      "prompt": "What is 'context bombing,' as described by Ars Technica?",
+      "choices": [
+        {
+          "text": "Flooding an attacking AI agent with fake noise until it stalls or shuts down",
+          "correct": true
+        },
+        {
+          "text": "A way to make an AI agent run faster",
+          "correct": false
+        },
+        {
+          "text": "A method for training AI on more data",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDefenders overwhelm a hacking agent's context with junk text so it can no\nlonger tell what's real, causing it to stall out or quit before doing harm.\u003c/p\u003e"
+    },
+    {
+      "id": "card_192b5c#1",
+      "format": "flip",
+      "prompt": "Why does 'context bombing' work on an AI agent at all?",
+      "back_html": "\u003cp\u003eAn agent has no independent sense of what's true — it just reacts to whatever\ntext is put in front of it, so overwhelming that text can derail it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_192b5c#2",
+      "format": "flip",
+      "prompt": "Is context bombing a permanent fix against AI-powered attacks?",
+      "back_html": "\u003cp\u003eNo — it's one move in an ongoing back-and-forth. Attackers can adapt, so this\nis a current tactic, not a settled solution.\u003c/p\u003e"
+    }
+  ]
+}

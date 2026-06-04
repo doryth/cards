@@ -1,0 +1,99 @@
+{
+  "id": "card_1a992a",
+  "slug": "coloring-the-black-hole-image",
+  "type": "paper",
+  "title": "The Black Hole Photo Wasn't Really a Photo",
+  "hook": "The iconic orange ring of the first black hole image wasn't captured — it was built from noisy data through countless judgment calls, and the real evidence is that reasonable choices all agree.",
+  "key_points": [
+    "In 2019 the Event Horizon Telescope released the first image of a black hole's shadow.",
+    "The underlying radio data was extremely noisy and sparse, allowing countless plausible renderings.",
+    "At every stage — including color — researchers had to choose one approach or average several.",
+    "The paper studies both 'epistemic' (valid evidence) and 'aesthetic' (visual appeal) choices made.",
+    "Different reasonable processing choices largely converge on a similar ring shape.",
+    "The authors argue that convergence, not the single famous image, is the real scientific evidence."
+  ],
+  "content_html": "\u003cp\u003eIn 2019, the Event Horizon Telescope Collaboration released the now-iconic image of a black hole's shadow — a fuzzy orange ring that became an instant scientific icon. But according to a new paper on the making of that image, the picture wasn't so much captured as constructed: the underlying radio data was so noisy and sparse that countless different renderings were equally plausible.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe authors — Rodrigo Ochigame, Emilie Skulberg, and Jeroen van Dongen — trace the choices researchers made at every stage of turning that data into a picture, including color, distinguishing \u0026quot;epistemic\u0026quot; choices (what counts as valid evidence) from \u0026quot;aesthetic\u0026quot; ones (what looks convincing). They recreate what the image would have looked like under different reasonable processing choices. Their conclusion: the single famous image isn't really the most valuable output. What matters is that many different reasonable choices converge on a similar ring — that convergence, not any one rendering, is what should count as the real result.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Rodrigo Ochigame",
+      "Emilie Skulberg",
+      "Jeroen van Dongen"
+    ],
+    "url": "https://arxiv.org/abs/2607.14928",
+    "published_at": "2026-07-16",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1a992a#0",
+      "format": "flip",
+      "prompt": "Why could the black hole image have looked different under different choices?",
+      "back_html": "\u003cp\u003eThe underlying radio data was extremely noisy and sparse, so countless plausible\nrenderings existed — researchers had to choose an approach at each stage.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1a992a#1",
+      "format": "quiz",
+      "prompt": "What two kinds of choices does the paper distinguish in image-making?",
+      "choices": [
+        {
+          "text": "Epistemic choices (what counts as valid evidence) and aesthetic choices (what looks convincing)",
+          "correct": true
+        },
+        {
+          "text": "Radio choices and optical choices",
+          "correct": false
+        },
+        {
+          "text": "Choices made by AI versus choices made by humans",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors examine both epistemic choices (validity of evidence) and aesthetic\nchoices (visual appeal) at each processing stage, including color.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1a992a#2",
+      "format": "quiz",
+      "prompt": "What do the authors say is the real evidence from the EHT image?",
+      "choices": [
+        {
+          "text": "That many different reasonable processing choices converge on a similar ring shape",
+          "correct": true
+        },
+        {
+          "text": "The exact orange color chosen for the final image",
+          "correct": false
+        },
+        {
+          "text": "That only one processing method was scientifically valid",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThat many different reasonable processing choices converge on a similar ring\nshape — not the single famous rendering.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "card_5d200f",
+  "slug": "quantum-computers-have-six-degrees-of-separation",
+  "type": "paper",
+  "title": "A Quantum Computer's States Form a Small World",
+  "hook": "Map the states of a quantum register as a social network and you get the same structure as human society — most states about nine handshakes apart, with a sudden tipping point into chaos.",
+  "key_points": [
+    "The authors treat each state of a quantum register as a node, linked when residual two-body interactions between qubits couple them.",
+    "The resulting network shows small-world properties: the most probable 'Erdős number' between any two states is about 9, echoing Milgram's six degrees of separation.",
+    "Applying the Åberg criterion — keeping only interactions stronger than the local energy spacing — yields a sparser effective network.",
+    "Above a critical coupling strength that effective network percolates, forming a giant component spanning nearly the whole register space.",
+    "The percolation threshold closely matches the known onset of quantum chaos and dynamical thermalization, which previously required expensive exact diagonalization.",
+    "Because the network approach is cheap, it reaches registers of up to 30 qubits."
+  ],
+  "content_html": "\u003cp\u003eStanley Milgram's famous experiment suggested any two people are about six handshakes apart. That \u0026quot;small-world\u0026quot; structure — short paths despite sparse connections — turns up in surprisingly many networks. This paper finds it inside a quantum computer.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eS. J. da Silva Junior, D. L. Shepelyansky and J. Lages build a network whose nodes are the states of a quantum register and whose edges are the residual two-body interactions that inevitably couple qubits together. The network is small-world: the most probable \u0026quot;Erdős number\u0026quot; between two register states is about 9. They then apply the Åberg criterion, keeping only interactions stronger than the local energy spacing, to construct a sparser effective network. Above a critical coupling strength that network percolates — a giant connected component suddenly spans nearly the entire register space. The interesting part is what this threshold corresponds to: it closely tracks the onset of quantum chaos and dynamical thermalization, the regime where a register stops behaving like a controlled computer and starts scrambling. Establishing that boundary previously demanded expensive exact diagonalization; the network method is cheap enough to push out to 30 qubits.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "S. J. da Silva Junior",
+      "D. L. Shepelyansky",
+      "J. Lages"
+    ],
+    "url": "https://arxiv.org/abs/2608.13855",
+    "published_at": "2026-08-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_028872",
+      "slug": "coulomb-blockade-qubit-decoherence",
+      "type": "paper",
+      "title": "The Tiny Metal Islands Quietly Breaking Quantum Computers",
+      "hook": "Quantum computers lose their fragile quantum states partly due to a decoherence source nobody had pinned down: stray metal islands from chip manufacturing acting like microscopic traffic jams.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_869b2e",
+      "slug": "quantum-computers-colder-not-always-better",
+      "type": "paper",
+      "title": "For Quantum Computers, Colder Isn't Always Better",
+      "hook": "The instinct is to chase ever-lower temperatures for quantum chips. A new study of real silicon qubits finds a 'sweet spot' instead, since cooling itself has a cost.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5d200f#0",
+      "format": "flip",
+      "prompt": "What are the nodes and edges of the network studied here?",
+      "back_html": "\u003cp\u003eNodes are the \u003cstrong\u003estates of a quantum register\u003c/strong\u003e; edges connect states coupled by residual\ntwo-body interactions between qubits.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5d200f#1",
+      "format": "quiz",
+      "prompt": "What does the percolation of the effective (Åberg) network coincide with?",
+      "choices": [
+        {
+          "text": "The onset of quantum chaos and dynamical thermalization in the register",
+          "correct": true
+        },
+        {
+          "text": "The point where the quantum computer achieves error correction",
+          "correct": false
+        },
+        {
+          "text": "The moment all qubits decohere completely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAbove a critical coupling strength a giant component spans nearly the whole register\nspace, and that threshold matches the chaos onset previously established by costly exact\ndiagonalization.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5d200f#2",
+      "format": "flip",
+      "prompt": "Why is the network approach practically useful?",
+      "back_html": "\u003cp\u003eIt is far cheaper than exact diagonalization, so it extends the accessible system size to\nregisters of up to \u003cstrong\u003e30 qubits\u003c/strong\u003e while still locating the chaos threshold.\u003c/p\u003e"
+    }
+  ]
+}

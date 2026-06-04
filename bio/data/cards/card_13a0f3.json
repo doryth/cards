@@ -1,0 +1,112 @@
+{
+  "id": "card_13a0f3",
+  "slug": "ancient-deep-sea-chemosynthesis",
+  "type": "news",
+  "title": "Signs of Ancient Life Where Sunlight Never Reached",
+  "hook": "Wrinkly fossil patterns usually made by sunlit microbial mats turned up in ancient deep-sea rocks — pointing to microbes that lived on chemistry, not light, far more widely than thought.",
+  "key_points": [
+    "Researchers found wrinkle-patterned structures in ancient seafloor rocks in Morocco.",
+    "Such patterns usually form under microbial mats in shallow, sunlit water.",
+    "But these rocks formed hundreds of feet down, in total darkness.",
+    "The likely makers: chemosynthetic microbes that live on chemical energy, not sunlight.",
+    "Deep-ocean microbial ecosystems may have been far more widespread than once believed."
+  ],
+  "content_html": "\u003cp\u003eSome microbes don't need the sun at all. A discovery covered by ScienceDaily, in ancient seafloor rocks from Morocco, suggests that life thriving on pure chemistry was more widespread in the deep past than anyone expected.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eGeologists found mysterious wrinkle patterns in the rocks — the kind of structures normally left behind by microbial mats in shallow, sunlit water. The puzzle: these rocks formed hundreds of feet below the surface, in darkness, where photosynthesis is impossible. The best explanation is chemosynthesis: microbes that build their food from chemical energy (from minerals and dissolved compounds) rather than light. Finding their fingerprints so deep hints that dark, chemistry-powered microbial ecosystems may have been far more common in the ancient ocean than the textbook picture of sunlit, surface-bound early life suggests — and it broadens where scientists look for life's earliest footholds, on Earth and beyond.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260621111234.htm",
+    "published_at": "2026-06-26",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "microbiology",
+    "origin-of-life"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-29",
+  "date": "2026-06-26",
+  "related": [
+    {
+      "id": "card_1e2ee2",
+      "slug": "extremophiles",
+      "type": "concept",
+      "title": "Extremophiles: Life at the Edge",
+      "hook": "In boiling vents, frozen rock, acid pools, and brine that would pickle anything else, microbes don't just survive the extremes — they need them to live.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_be717b",
+      "slug": "how-life-began",
+      "type": "concept",
+      "title": "How Life Began",
+      "hook": "Before the first living thing, there was only chemistry. Abiogenesis is the idea — and active research — into how plain molecules on early Earth crossed the line into life.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_13a0f3#0",
+      "format": "flip",
+      "prompt": "What is chemosynthesis, and why is it key to this discovery?",
+      "back_html": "\u003cp\u003eBuilding food from chemical energy instead of sunlight. In darkness hundreds of feet\ndeep, chemosynthetic microbes — not photosynthesizers — likely made the wrinkle patterns.\u003c/p\u003e"
+    },
+    {
+      "id": "card_13a0f3#1",
+      "format": "quiz",
+      "prompt": "Why were the wrinkle patterns in the Moroccan rocks so surprising?",
+      "choices": [
+        {
+          "text": "They usually form under sunlit microbial mats, but these rocks formed deep in the dark",
+          "correct": true
+        },
+        {
+          "text": "They were made of solid gold",
+          "correct": false
+        },
+        {
+          "text": "They could only have been made by fish",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe structures are normally linked to shallow, sunlit microbial mats — finding them in\ndeep, dark seafloor rocks points to microbes powered by chemistry rather than light.\u003c/p\u003e"
+    },
+    {
+      "id": "card_13a0f3#2",
+      "format": "quiz",
+      "prompt": "What does the find suggest about early deep-ocean life?",
+      "choices": [
+        {
+          "text": "Microbial ecosystems in the dark deep sea may have been more widespread than thought",
+          "correct": true
+        },
+        {
+          "text": "Life has never existed below sunlit waters",
+          "correct": false
+        },
+        {
+          "text": "All early life depended entirely on sunlight",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEvidence of chemosynthetic mats far below the surface widens where and how early\nmicrobial life could have thrived — not just in sunlit shallows.\u003c/p\u003e"
+    }
+  ]
+}

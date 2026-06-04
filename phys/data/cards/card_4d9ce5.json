@@ -1,0 +1,71 @@
+{
+  "id": "card_4d9ce5",
+  "slug": "meteorite-that-killed-dinosaurs",
+  "type": "news",
+  "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
+  "hook": "The asteroid that ended the dinosaurs' long reign turns out to be an exceptionally rare type of space rock — and its chemistry rewrites how it actually killed them.",
+  "key_points": [
+    "The dinosaur-killing asteroid was likely an exceptionally rare CO chondrite, from a distant part of the solar system.",
+    "Its unusual chemistry points to planet-cooling dust and debris as the deadliest factor.",
+    "That shifts blame away from sulfur inside the asteroid, the previous leading suspect."
+  ],
+  "content_html": "\u003cp\u003eAccording to a ScienceDaily report, the asteroid that wiped out the dinosaurs 66 million years ago was likely an exceptionally rare type of meteorite called a CO chondrite, originating from a distant region of the solar system.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIts unusual chemistry suggests that planet-cooling dust and debris thrown into the atmosphere, rather than sulfur locked inside the asteroid, delivered the deadliest blow — reshaping how scientists think the impact triggered a global die-off.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260718010142.htm",
+    "published_at": "2026-07-19",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-19",
+  "related": [
+    {
+      "id": "card_024cfd",
+      "slug": "lucy-asteroid-donaldjohanson",
+      "type": "news",
+      "title": "A Wobbling, Peanut-Shaped Asteroid Reshaped by Sunlight",
+      "hook": "NASA's Lucy found that asteroid Donaldjohanson is a peanut-shaped relic of an ancient collision — slowly reshaped by sunlight, and still carrying traces of old water.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4d9ce5#0",
+      "format": "flip",
+      "prompt": "What kind of space rock was the dinosaur-killing asteroid?",
+      "back_html": "\u003cp\u003eAn exceptionally rare \u003cstrong\u003eCO chondrite\u003c/strong\u003e from a distant region of the\nsolar system.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4d9ce5#1",
+      "format": "quiz",
+      "prompt": "What does the asteroid's chemistry suggest caused the deadliest damage?",
+      "choices": [
+        {
+          "text": "Planet-cooling dust and debris thrown into the sky",
+          "correct": true
+        },
+        {
+          "text": "Sulfur locked inside the asteroid",
+          "correct": false
+        },
+        {
+          "text": "A shockwave of pure heat",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe unusual chemistry points to dust and debris blasted into the sky,\nnot sulfur, as the deadliest blow.\u003c/p\u003e"
+    }
+  ]
+}

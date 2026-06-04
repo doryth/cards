@@ -1,0 +1,109 @@
+{
+  "id": "card_d50d41",
+  "slug": "animal-adaptations",
+  "type": "concept",
+  "title": "Animal Adaptations",
+  "hook": "A camel's hump, a chameleon's color, a polar bear's fat — these aren't accidents. Each is a trait shaped over generations to fit a particular way of life.",
+  "key_points": [
+    "An adaptation is an inherited trait that helps an organism survive and reproduce in its environment.",
+    "Adaptations arise over many generations through natural selection.",
+    "They can be physical (body parts) or behavioral (things an animal does).",
+    "Adaptations fit an animal to its niche — its particular role and place in an ecosystem."
+  ],
+  "content_html": "\u003cp\u003eLook closely at any animal and you'll find its body and habits seem tailored to where it lives. A camel stores fat in its hump for the desert, a polar bear carries a thick insulating layer for the Arctic, a chameleon shifts color to hide. These fitting features are adaptations.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAn adaptation is an inherited trait that improves an animal's chances of surviving and reproducing in its environment. It isn't something an individual chooses or grows on demand; it emerges over many generations through natural selection, as the traits that help most become more common in a population. Adaptations come in two flavors: physical ones, like a hawk's sharp talons or gills for breathing underwater, and behavioral ones, like birds migrating ahead of winter or wolves hunting in packs. Together they fit each animal to its niche — its particular role and place within an ecosystem. Encyclopaedia Britannica's article on adaptation explains how these traits arise and why they match animals so neatly to their surroundings.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/adaptation-biology-and-physiology",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "animals"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_477fab",
+      "slug": "the-animal-kingdom",
+      "type": "concept",
+      "title": "The Animal Kingdom",
+      "hook": "Sponges, spiders, sharks, and squirrels look nothing alike — yet all are animals, sharing a few deep traits that set them apart from plants, fungi, and microbes.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9e052d",
+      "slug": "how-animals-behave",
+      "type": "concept",
+      "title": "How Animals Behave",
+      "hook": "A spider spins a perfect web without a lesson, while a crow figures out a new trick by trial and error — two sides of how animals act in the world.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_05f960",
+      "slug": "food-chains-and-webs",
+      "type": "concept",
+      "title": "Food Chains \u0026 Energy Flow",
+      "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d50d41#0",
+      "format": "flip",
+      "prompt": "What is an adaptation?",
+      "back_html": "\u003cp\u003eAn \u003cstrong\u003einherited trait\u003c/strong\u003e that helps an organism survive and reproduce in its environment.\nIt can be physical (a body part) or behavioral (something the animal does).\u003c/p\u003e"
+    },
+    {
+      "id": "card_d50d41#1",
+      "format": "quiz",
+      "prompt": "How do adaptations come about?",
+      "choices": [
+        {
+          "text": "Over many generations through natural selection",
+          "correct": true
+        },
+        {
+          "text": "An animal decides to grow them within its own lifetime",
+          "correct": false
+        },
+        {
+          "text": "They appear instantly whenever the weather changes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAdaptations aren't chosen by an individual. Helpful inherited traits make survival and\nreproduction more likely, so they become more common over many generations.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d50d41#2",
+      "format": "quiz",
+      "prompt": "Which of these is a behavioral adaptation rather than a physical one?",
+      "choices": [
+        {
+          "text": "Birds migrating south for the winter",
+          "correct": true
+        },
+        {
+          "text": "A polar bear's thick layer of fat",
+          "correct": false
+        },
+        {
+          "text": "A chameleon's color-changing skin",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMigration is something the animal does — a behavioral adaptation. Body fat and\ncolor-changing skin are physical traits.\u003c/p\u003e"
+    }
+  ]
+}

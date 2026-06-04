@@ -1,0 +1,99 @@
+{
+  "id": "card_3531cc",
+  "slug": "guiding-heat-like-light",
+  "type": "news",
+  "title": "Steering Heat in Beams, at Room Temperature",
+  "hook": "Heat normally spreads out in every direction. In the right crystal it travels in focused rays instead — and now it does so without extreme cooling.",
+  "key_points": [
+    "In ordinary solids, heat diffuses: vibrations scatter constantly, so warmth blurs outward in all directions.",
+    "If vibrations can travel far between collisions, they behave more like a beam — directional, wave-like heat flow.",
+    "That regime previously demanded cryogenic temperatures, because thermal scattering wipes it out when things get warm.",
+    "The team demonstrated focused, ray-like heat transport through a crystal at room temperature.",
+    "The application is thermal routing: steering heat around delicate regions of chips and quantum devices instead of merely dumping it."
+  ],
+  "content_html": "\u003cp\u003eHeat is the physics of things going in every direction at once. The vibrations that carry it through a solid scatter off each other and off imperfections within nanometres, so warmth diffuses outward as a blur. UCLA researchers report that in the right crystal, at room temperature, it doesn't have to: heat can travel in focused, wave-like rays.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe distinction is how far a vibration gets between collisions. When that distance is short compared with the sample, you get diffusion — heat sloshing outward, describable by a single conductivity number. When it is long, the vibrations retain their direction and heat behaves like a beam that can be aimed and focused, much as light is. Physicists have seen this regime before, but generally only after cooling a sample hard, because warmth means more scattering and scattering destroys the effect. Achieving it at room temperature is what makes it engineering-relevant. Modern chips and quantum devices are limited less by total heat than by heat in the wrong place, and a material that lets designers route thermal energy around a sensitive qubit or transistor — rather than merely conducting it away in bulk — would be a genuinely new tool.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260805082506.htm",
+    "published_at": "2026-08-07"
+  },
+  "topic_ids": [
+    "heat-thermo",
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-07",
+  "related": [
+    {
+      "id": "card_52d8f2",
+      "slug": "heat-transfer",
+      "type": "concept",
+      "title": "Three Ways Heat Moves",
+      "hook": "Heat travels three ways: conduction through contact, convection by circulating fluid, and radiation across empty space. Most warming you feel mixes all three.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_53b5e1",
+      "slug": "programmable-heat-material",
+      "type": "news",
+      "title": "A Material That Remembers How It Radiates Heat",
+      "hook": "Most materials just leak heat the same way forever. This one can be switched between heat-radiating modes with a magnetic field — and it keeps its setting even after the field is gone.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_eb9e3e",
+      "slug": "electric-field-boosts-heat-flow",
+      "type": "news",
+      "title": "An Electric Field Trick That Nearly Triples Heat Flow",
+      "hook": "Zap a ceramic crystal with an electric field and heat suddenly flows through it almost three times faster in one direction — a jump far beyond anything researchers expected.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-11"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3531cc#0",
+      "format": "flip",
+      "prompt": "Why does heat normally spread in all directions rather than travelling as a beam?",
+      "back_html": "\u003cp\u003eThe vibrations carrying heat \u003cstrong\u003escatter\u003c/strong\u003e constantly off each other and off\ndefects, randomising their direction after a very short distance — diffusion\nrather than a ray.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3531cc#1",
+      "format": "quiz",
+      "prompt": "What was the notable part of this demonstration?",
+      "choices": [
+        {
+          "text": "Directional, ray-like heat flow at room temperature rather than only under cryogenic cooling",
+          "correct": true
+        },
+        {
+          "text": "Heat travelling faster than the speed of sound in the crystal",
+          "correct": false
+        },
+        {
+          "text": "A material that conducts no heat at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWave-like, focused heat transport had needed very low temperatures, because\nthermal scattering destroys it when a material warms up. The team achieved it at\nroom temperature.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3531cc#2",
+      "format": "flip",
+      "prompt": "Why would engineers want to steer heat rather than just remove it?",
+      "back_html": "\u003cp\u003eTo \u003cstrong\u003eroute\u003c/strong\u003e it — guiding heat around temperature-sensitive parts of\nnext-generation chips and quantum devices instead of letting it soak everything\nnearby.\u003c/p\u003e"
+    }
+  ]
+}

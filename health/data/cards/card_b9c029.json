@@ -1,0 +1,82 @@
+{
+  "id": "card_b9c029",
+  "slug": "experimental-fentanyl-vaccine",
+  "type": "news",
+  "title": "An Experimental Vaccine Against Fentanyl Overdose",
+  "hook": "Scripps researchers are testing a vaccine that trains the immune system to grab fentanyl in the bloodstream before it reaches the brain — and to recognize a broad range of its deadliest variants.",
+  "key_points": [
+    "An experimental vaccine from Scripps Research aims to prevent fentanyl overdoses.",
+    "It trains the immune system to bind the drug in the blood, blocking it from reaching the brain.",
+    "Unlike narrow approaches, it targets a broad range of fentanyl-related designer drugs.",
+    "That breadth could cover some of the most dangerous fentanyl variants.",
+    "It's early-stage research — a potential new tool, not an available treatment yet."
+  ],
+  "content_html": "\u003cp\u003eThe fentanyl crisis is driven by a drug so potent that tiny amounts can be fatal, and by a steady stream of new chemical variants that evade existing defenses. Researchers at Scripps Research are testing a different kind of countermeasure: a vaccine aimed at stopping fentanyl before it can do harm.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, the experimental vaccine trains the immune system to recognize and bind fentanyl while it's still in the bloodstream — keeping it from crossing into the brain, where it triggers the respiratory depression that makes overdoses deadly. What sets the approach apart is breadth: rather than targeting only fentanyl itself, it's designed to recognize a wide range of fentanyl-related designer drugs, including some of the most dangerous variants that keep appearing.\u003c/p\u003e\n\u003cp\u003eThis is early-stage research, not a treatment available today, and a vaccine wouldn't replace overdose-reversal tools like naloxone or the broader work of addiction care. But as a preventive concept — immunizing the body against a drug's effects — it's a striking addition to the toolkit being built against the overdose epidemic.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260612032029.htm",
+    "published_at": "2026-06-13",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "substance-use",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-15",
+  "date": "2026-06-13",
+  "related": [
+    {
+      "id": "card_c223da",
+      "slug": "understanding-addiction",
+      "type": "concept",
+      "title": "Understanding Addiction",
+      "hook": "Addiction isn't a lack of willpower or a moral failing — it's a treatable medical condition that changes how the brain works. And like other chronic illnesses, it responds to treatment.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_a7a3cf",
+      "slug": "quitting-smoking",
+      "type": "concept",
+      "title": "Quitting Smoking",
+      "hook": "Your body starts repairing itself within hours of your last cigarette. Quitting is hard and relapse is common — but the right support roughly doubles your odds of success.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b9c029#0",
+      "format": "flip",
+      "prompt": "How is an anti-fentanyl vaccine meant to prevent overdose?",
+      "back_html": "\u003cp\u003eIt trains the immune system to \u003cstrong\u003ebind fentanyl in the bloodstream\u003c/strong\u003e so the drug\ncan't reach the brain. Stopping it before it crosses into the brain blunts its\ndangerous effects.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b9c029#1",
+      "format": "quiz",
+      "prompt": "What makes this experimental vaccine's approach notable?",
+      "choices": [
+        {
+          "text": "It targets a broad range of fentanyl-related drugs, not just one molecule",
+          "correct": true
+        },
+        {
+          "text": "It cures existing addiction instantly",
+          "correct": false
+        },
+        {
+          "text": "It is already FDA-approved and on the market",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRather than targeting only fentanyl itself, the vaccine is designed to recognize a\nbroad range of related designer drugs — including some of the most dangerous\nvariants. It's still early-stage research.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "card_dced21",
+  "slug": "the-power-of-dissent",
+  "type": "concept",
+  "title": "The Power of a Dissent",
+  "hook": "A dissenting judge loses the case — but a sharp dissent can outlive the majority, persuading future courts or pushing lawmakers to rewrite the rule.",
+  "key_points": [
+    "A dissent is a written opinion by judges who disagree with the majority; it does not change the ruling.",
+    "Dissents lay out the losing argument on the record, where later courts can revisit and adopt it.",
+    "A forceful dissent can prompt a legislature to pass a statute that overrides the majority's reading.",
+    "So a dissent is less a complaint than a long game — an appeal to the future."
+  ],
+  "content_html": "\u003cp\u003eWhen a court splits, the judges in the minority can file a \u003cem\u003edissent\u003c/em\u003e — a written opinion explaining why they would have decided the case differently. It changes nothing about the result: the majority opinion is the law, and the dissenters have lost. So why bother writing one?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA SCOTUSblog essay by Anastasia Boden highlights the long game a dissent can play. Because it lays out the losing argument fully and on the record, a dissent becomes a resource for the future. Later courts, facing a similar question, can reach back and adopt the dissent's reasoning. And legislatures can respond directly: when a majority reads a statute in a way lawmakers dislike, a clear dissent can hand them the blueprint for a new law that overrides the ruling — the dissent that becomes a statute. Seen this way, a dissent is not just a protest but a bet that time, and other decision-makers, will come around.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Anastasia Boden"
+    ],
+    "url": "https://scotusblog.com/2026/06/the-dissent-that-became-a-statute",
+    "published_at": "2026-06-15",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers",
+    "how-laws-are-made"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-18",
+  "date": "2026-06-15",
+  "related": [
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7f5b6a",
+      "slug": "statute-vs-common-law",
+      "type": "concept",
+      "title": "Statute Law vs Common Law",
+      "hook": "Not all law is written by legislators. Some of it is built up, case by case, by judges — and these two sources of law work very differently.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ed31c1",
+      "slug": "how-precedent-erodes",
+      "type": "concept",
+      "title": "How Precedent Erodes",
+      "hook": "Courts rarely kill an old ruling outright. More often it dies slowly — narrowed, distinguished, and ignored until little is left.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "card_ee032b",
+      "slug": "dissents-not-created-equal",
+      "type": "blog",
+      "title": "Not All Dissents Are Created Equal",
+      "hook": "Dissent tallies treat a one-line 'I would deny' the same as a fully reasoned opinion. One scholar sorted 386 of them on the emergency docket — and found about half were just bare votes.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_dced21#0",
+      "format": "flip",
+      "prompt": "Does a dissenting opinion change the outcome of the case?",
+      "back_html": "\u003cp\u003eNo. The majority opinion decides the case; a dissent records the\ndisagreement but carries no binding force at the time.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dced21#1",
+      "format": "quiz",
+      "prompt": "How can a dissent end up shaping the law despite losing the case?",
+      "choices": [
+        {
+          "text": "It can persuade a future court or prompt lawmakers to pass a corrective statute",
+          "correct": true
+        },
+        {
+          "text": "It automatically becomes binding after one year",
+          "correct": false
+        },
+        {
+          "text": "It forces an immediate re-vote by the same court",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA dissent's influence is delayed: later judges may adopt its reasoning,\nor a legislature may write its position into statute.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dced21#2",
+      "format": "quiz",
+      "prompt": "Why describe a well-crafted dissent as 'an appeal to the future'?",
+      "choices": [
+        {
+          "text": "It preserves the losing argument for later courts and lawmakers to act on",
+          "correct": true
+        },
+        {
+          "text": "It delays the current ruling until a future date",
+          "correct": false
+        },
+        {
+          "text": "It is only read by historians, never by judges",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe dissent puts a fully reasoned alternative on the record, betting that\ntime and later decision-makers will vindicate it.\u003c/p\u003e"
+    }
+  ]
+}

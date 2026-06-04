@@ -1,0 +1,101 @@
+{
+  "id": "card_a13f1f",
+  "slug": "what-is-momentum",
+  "type": "concept",
+  "title": "Momentum: The Quantity of Motion",
+  "hook": "A slow freight train and a fast bullet are both brutally hard to stop. Momentum captures why: it's mass times velocity, the real measure of moving 'oomph'.",
+  "key_points": [
+    "Momentum is mass times velocity — the 'quantity of motion' an object carries.",
+    "Heavy or fast objects have lots of it and are hard to stop or deflect.",
+    "Changing momentum takes a force applied over time, called impulse.",
+    "Impulse is the truest statement of Newton's second law: force changes momentum."
+  ],
+  "content_html": "\u003cp\u003eMomentum is a measure of how much motion an object has — formally, its mass multiplied by its velocity. It's why a slow-moving truck and a speeding bullet are both hard to stop: the truck has huge mass, the bullet has huge speed, and either way the product is large. Momentum has direction, too, pointing the way the object moves.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTo change an object's momentum you have to apply a force, and the longer that force acts, the bigger the change. That product of force and time is called impulse, and it's actually how Newton originally framed his second law: force is the rate at which momentum changes. This is the physics behind crumple zones and airbags — they don't reduce how much your momentum must change in a crash, but by stretching the collision over more time they shrink the force you feel. Wikipedia traces the definition of momentum and its link to impulse and Newton's laws.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Momentum",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "momentum-collisions"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d32c83",
+      "slug": "newtons-three-laws",
+      "type": "concept",
+      "title": "Newton's Three Laws of Motion",
+      "hook": "Three short rules — inertia, F=ma, and action-reaction — quietly govern almost everything that moves around you.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3776ab",
+      "slug": "conservation-of-momentum",
+      "type": "concept",
+      "title": "Conservation of Momentum",
+      "hook": "Fire a gun and it kicks back; push off a friend on skates and you both glide apart. Total momentum never changes unless an outside force interferes.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a13f1f#0",
+      "format": "flip",
+      "prompt": "How is momentum defined?",
+      "back_html": "\u003cp\u003eMomentum is an object's \u003cstrong\u003emass times its velocity\u003c/strong\u003e. It measures how much\nmotion an object has and how hard it is to stop.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a13f1f#1",
+      "format": "quiz",
+      "prompt": "Why does a car airbag reduce injury in a crash?",
+      "choices": [
+        {
+          "text": "It stretches the stop over more time, so the force needed to change your momentum is smaller",
+          "correct": true
+        },
+        {
+          "text": "It removes your momentum instantly",
+          "correct": false
+        },
+        {
+          "text": "It adds momentum to cancel yours out",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe same change in momentum spread over a longer time means a gentler force —\nthat's impulse, force times time.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a13f1f#2",
+      "format": "quiz",
+      "prompt": "Which has more momentum: a heavy truck creeping along, or a light pebble at the same slow speed?",
+      "choices": [
+        {
+          "text": "The truck — more mass means more momentum at the same velocity",
+          "correct": true
+        },
+        {
+          "text": "The pebble, because it's easier to throw",
+          "correct": false
+        },
+        {
+          "text": "They have equal momentum at equal speed",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMomentum is mass times velocity, so for the same speed the heavier object\ncarries far more momentum.\u003c/p\u003e"
+    }
+  ]
+}

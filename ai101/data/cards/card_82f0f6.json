@@ -1,0 +1,89 @@
+{
+  "id": "card_82f0f6",
+  "slug": "ai-and-the-news",
+  "type": "concept",
+  "title": "AI \u0026 the News",
+  "hook": "AI now writes news, fakes whole 'outlets,' and powers the feed deciding what you see. Staying informed increasingly means knowing how the sausage is made — and who made it.",
+  "key_points": [
+    "Real outlets use AI for drafts and summaries; quality ones keep human editors.",
+    "Fake AI 'news sites' churn out cheap, ad-driven, often false content at scale.",
+    "Algorithms (also AI) decide what's in your feed — optimized for clicks, not truth.",
+    "Lean on known, accountable outlets; be wary of unfamiliar sites and viral posts."
+  ],
+  "content_html": "\u003cp\u003eKeeping up with the news has always meant trusting \u003cem\u003esomebody\u003c/em\u003e to gather and check facts for you. AI complicates that trust in three layers, and it's worth seeing all of them. The first is in legitimate newsrooms, where AI is increasingly used to draft routine stories, summarize documents, and translate coverage. Used well — with human editors verifying and taking responsibility — this can free journalists for deeper work. Used carelessly, it introduces errors and hallucinations into outlets people trust, which is why the quality of the \u003cem\u003eoutlet's\u003c/em\u003e editorial standards matters more than ever.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe second layer is more sinister: AI makes it cheap and fast to spin up entire \u003cstrong\u003efake news websites\u003c/strong\u003e — official-looking, plausibly named, churning out a flood of low-quality or outright false articles purely to harvest clicks and ad revenue, or to push a political agenda. These \u0026quot;content farms\u0026quot; have multiplied because the marginal cost of a fake article is now nearly zero. The third layer is the one most people forget: the \u003cstrong\u003ealgorithm\u003c/strong\u003e that curates your social feed is itself AI, and it's optimized to maximize your engagement, not your understanding. It learns what makes you click, react, and stay — which often means showing you the outrageous, the confirming, and the emotionally charged rather than the accurate or the important. Put together, the response isn't despair, it's discernment: rely on a few established outlets with real editorial accountability and a track record; be skeptical of unfamiliar sites and sensational viral posts; check a surprising story against multiple independent sources; and stay aware that your feed is a curated product, not a neutral window on the world.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-and-news"
+  ],
+  "tags": [
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_429377",
+      "slug": "ai-and-elections",
+      "type": "concept",
+      "title": "AI, Elections \u0026 Democracy",
+      "hook": "AI lets anyone fake a candidate's voice, flood feeds with tailored propaganda, and impersonate officials — cheaply, at scale. The antidote is slower, more skeptical habits, not better eyesight.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_82f0f6#0",
+      "format": "quiz",
+      "prompt": "What's a major AI-driven risk to news?",
+      "choices": [
+        {
+          "text": "Fake 'news sites' that mass-produce cheap, often false articles for ad money",
+          "correct": true
+        },
+        {
+          "text": "Newspapers becoming too accurate",
+          "correct": false
+        },
+        {
+          "text": "AI refusing to discuss current events",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI makes it trivial to spin up fake outlets pumping out low-quality or false\nstories at scale, designed to attract clicks and ad revenue.\u003c/p\u003e"
+    },
+    {
+      "id": "card_82f0f6#1",
+      "format": "flip",
+      "prompt": "Besides writing articles, how does AI shape the news you see?",
+      "back_html": "\u003cp\u003eRecommendation algorithms — themselves AI — decide what appears in your feed,\noptimized to maximize engagement rather than to keep you accurately informed.\u003c/p\u003e"
+    }
+  ]
+}

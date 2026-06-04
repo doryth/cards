@@ -1,0 +1,122 @@
+{
+  "id": "card_d18019",
+  "slug": "bose-einstein-condensate",
+  "type": "news",
+  "title": "The Fifth State of Matter, Made in Space",
+  "hook": "Chill a gas to a hair above absolute zero and its atoms stop acting like a crowd and merge into one quantum entity. In orbit, weightlessness lets that strange state last even longer.",
+  "key_points": [
+    "A Bose-Einstein condensate forms when atoms are cooled to near absolute zero and merge into one shared quantum state.",
+    "Often called a 'fifth state of matter,' it lets quantum behavior show up at a scale you could almost see.",
+    "NASA's Cold Atom Lab makes these condensates aboard the International Space Station.",
+    "In microgravity the ultra-cold cloud doesn't fall away, so it can be held and studied far longer than on Earth."
+  ],
+  "content_html": "\u003cp\u003eMatter usually comes in the familiar trio of solid, liquid, and gas — plus plasma, the charged gas inside stars and neon signs. But there's a fifth state that only appears in the deep cold. Cool a dilute gas of atoms to within a fraction of a degree of absolute zero and something remarkable happens: the atoms stop behaving as separate particles and condense into a single, shared quantum state, a Bose-Einstein condensate. It is one of the few places where the rules of quantum mechanics play out at a scale large enough to almost see.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eScienceDaily reports that NASA's upgraded Cold Atom Lab is making these exotic clouds aboard the International Space Station, turning the orbiting outpost into a quantum-physics frontier. The reason to do it in orbit is gravity — or the lack of it. On Earth, a cloud of ultra-cold atoms quickly falls under its own weight, cutting short the time researchers have to watch it. In the microgravity of the station, the same cloud can hover in place, letting scientists chill it further and observe its delicate quantum behavior for far longer. The payoff, NASA suggests, ranges from sharper tests of fundamental physics to future quantum technologies for use in space and back on Earth.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260622091507.htm",
+    "published_at": "2026-06-23",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-25",
+  "date": "2026-06-23",
+  "related": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1044b3",
+      "slug": "fractional-fermi-sea",
+      "type": "news",
+      "title": "Physicists Force Atoms Into a Brand-New Quantum State",
+      "hook": "By yanking a line of ultracold atoms between opposite kinds of interaction, physicists drove them into a state matter isn't supposed to reach — breaking the standard rulebook for 1D quantum systems.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d18019#0",
+      "format": "quiz",
+      "prompt": "What happens to atoms in a Bose-Einstein condensate?",
+      "choices": [
+        {
+          "text": "Cooled near absolute zero, they merge into a single shared quantum state",
+          "correct": true
+        },
+        {
+          "text": "They speed up and break apart into smaller particles",
+          "correct": false
+        },
+        {
+          "text": "They heat up and turn into an ordinary gas",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNear absolute zero the atoms lose their individual identities and behave as\none quantum entity — the defining feature of a condensate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d18019#1",
+      "format": "flip",
+      "prompt": "Why does NASA make Bose-Einstein condensates on the space station instead of on the ground?",
+      "back_html": "\u003cp\u003eIn \u003cstrong\u003emicrogravity\u003c/strong\u003e the ultra-cold atom cloud doesn't fall away under\ngravity, so it can be held in place and studied for far longer than is\npossible in an Earth-bound lab.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d18019#2",
+      "format": "quiz",
+      "prompt": "Why is a Bose-Einstein condensate scientifically interesting?",
+      "choices": [
+        {
+          "text": "It makes quantum behavior visible at a large, almost tangible scale",
+          "correct": true
+        },
+        {
+          "text": "It is the hottest state of matter ever created",
+          "correct": false
+        },
+        {
+          "text": "It is the only form of matter that has mass",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eQuantum effects are usually hidden at the scale of single particles. A\ncondensate lets a whole cloud of atoms act as one quantum object.\u003c/p\u003e"
+    }
+  ]
+}

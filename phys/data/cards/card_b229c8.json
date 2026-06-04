@@ -1,0 +1,90 @@
+{
+  "id": "card_b229c8",
+  "slug": "platon-3d-particle-camera",
+  "type": "news",
+  "title": "Scientists built a camera that can track invisible particles in 3D",
+  "hook": "A new detector called PLATON swaps millions of wired-together sensor parts for one solid light-emitting block, read out by a camera and AI — and it may sharpen medical scans too.",
+  "key_points": [
+    "PLATON is a new particle detector that could replace millions of tiny detector components.",
+    "It uses a single block of light-producing material instead of wiring together separate elements.",
+    "A light-field camera and highly sensitive photon sensors capture the light it emits.",
+    "AI reconstructs particle paths from that data in fast, detailed 3D.",
+    "Simulations suggest it could match or beat today's best detectors while being far easier to scale.",
+    "The same technology may also lead to sharper PET medical scans."
+  ],
+  "content_html": "\u003cp\u003eAccording to a ScienceDaily report, scientists have built a new particle detector called PLATON that could replace millions of tiny detector components with a single block of light-producing material. A light-field camera and highly sensitive photon sensors capture the light it emits, and AI reconstructs particle paths in fast, detailed 3D.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSimulations suggest PLATON could match or surpass today's best particle detectors while being far easier to scale, since it swaps a tangle of wired components for one solid block. Researchers say the same approach may also lead to sharper PET scans in medicine.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260716023610.htm",
+    "published_at": "2026-07-17",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_37dae0",
+      "slug": "tracking-the-elusive-neutrino",
+      "type": "news",
+      "title": "Catching the Ghost Particle",
+      "hook": "Trillions of neutrinos stream through your body every second, yet they almost never touch anything. To catch even a few, physicists build some of the most audacious detectors ever conceived.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_f6f54b",
+      "slug": "laser-driven-muon-beam-radiography",
+      "type": "paper",
+      "title": "A Single Laser Shot Now Images Through 15 Meters of Lead",
+      "hook": "Muon imaging usually means waiting hours for enough cosmic-ray muons to trickle through. A laser-driven muon beam just did the same job — through a truck and a building wall — in a single shot.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b229c8#0",
+      "format": "flip",
+      "prompt": "What does PLATON replace millions of tiny detector components with?",
+      "back_html": "\u003cp\u003eA single \u003cstrong\u003eblock of light-producing material\u003c/strong\u003e, read out by a\nlight-field camera and photon sensors.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b229c8#1",
+      "format": "quiz",
+      "prompt": "How does PLATON turn raw light data into particle tracks?",
+      "choices": [
+        {
+          "text": "AI reconstructs particle paths in fast, detailed 3D",
+          "correct": true
+        },
+        {
+          "text": "A technician traces the paths by hand",
+          "correct": false
+        },
+        {
+          "text": "It only counts total light, with no path information",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePLATON pairs a light-field camera and photon sensors with AI, which\nreconstructs each particle's path in detailed 3D.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b229c8#2",
+      "format": "flip",
+      "prompt": "Besides particle physics, where might PLATON's technology help?",
+      "back_html": "\u003cp\u003eIt may lead to \u003cstrong\u003esharper PET scans\u003c/strong\u003e in medical imaging.\u003c/p\u003e"
+    }
+  ]
+}

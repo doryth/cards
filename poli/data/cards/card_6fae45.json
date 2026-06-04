@@ -1,0 +1,133 @@
+{
+  "id": "card_6fae45",
+  "slug": "statewide-data-center-pause",
+  "type": "news",
+  "title": "When a Governor Pauses an Entire Industry by Executive Order",
+  "hook": "Data-center fights used to be decided lot by lot, in local zoning meetings. In 2026 a governor skipped that entirely and paused the whole industry statewide.",
+  "key_points": [
+    "Most fights over where to build a data center happen locally — zoning boards, city councils, public hearings.",
+    "In July 2026, New York Gov. Kathy Hochul signed an order pausing new large data-center construction statewide for up to a year — the first statewide pause of its kind in the country.",
+    "Because it's an executive order rather than a law, a governor can act unilaterally and immediately, without waiting on the legislature.",
+    "The move shows a second lever besides local zoning: a state's chief executive can act at a scale no single town or county can match.",
+    "It also shows the limits of that lever — an executive order can pause construction quickly, but is generally easier for a future governor to reverse than a statute would be."
+  ],
+  "content_html": "\u003cp\u003eData-center fights usually play out block by block: a company proposes a site, and the decision gets fought over in a local zoning board or city council meeting. In July 2026, New York's governor showed there's a second, much bigger lever available — and pulled it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's Samuel King reported that Gov. Kathy Hochul signed an executive order pausing new large data-center construction across the entire state for up to a year, the first statewide pause of its kind in the country. Because it's an executive order rather than legislation, Hochul could act unilaterally and immediately, without waiting for the state legislature to pass a bill — the same kind of authority that lets governors respond fast to emergencies. That speed comes with a trade-off familiar from other executive actions: a pause issued this way is generally easier for a future governor to simply rescind than a statute passed by the legislature would be. Either way, it's a reminder that the fight over where (and whether) to build the infrastructure behind the AI boom isn't confined to town halls — it can just as easily be decided from the governor's desk. (This card describes a U.S. state-level executive action specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Samuel King"
+    ],
+    "url": "https://npr.org/2026/07/14/nx-s1-5893396/gov-hochul-orders-a-pause-on-data-centers-in-new-york-for-up-to-a-year",
+    "published_at": "2026-07-14",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "technology-and-politics",
+    "federalism-levels"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_3b0a4b",
+      "slug": "local-democracy-and-data-centers",
+      "type": "blog",
+      "title": "Who Decides Where the Data Center Goes?",
+      "hook": "A data center brings jobs and tax revenue — and noise, pollution, and higher power bills. Deciding whether to host one is a stress test for local democracy.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_3e760d",
+      "slug": "the-executive",
+      "type": "concept",
+      "title": "The Executive",
+      "hook": "Laws don't enforce themselves. The executive is the branch that runs the state day to day — carrying out the law, commanding the bureaucracy, and acting in a crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_edb3f3",
+      "slug": "federal-preemption",
+      "type": "news",
+      "title": "When Federal Law Overrides the States",
+      "hook": "Who decides what warning goes on a bottle of weed killer — a state jury or the federal government? The answer turns on a quiet but powerful rule called preemption.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_3b0a4b",
+      "slug": "local-democracy-and-data-centers",
+      "type": "blog",
+      "title": "Who Decides Where the Data Center Goes?",
+      "hook": "A data center brings jobs and tax revenue — and noise, pollution, and higher power bills. Deciding whether to host one is a stress test for local democracy.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_6fae45#0",
+      "format": "flip",
+      "prompt": "What did New York Gov. Kathy Hochul's July 2026 order do?",
+      "back_html": "\u003cp\u003eIt \u003cstrong\u003epaused new large data-center construction statewide for up to a\nyear\u003c/strong\u003e — the first statewide pause of its kind in the U.S.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6fae45#1",
+      "format": "quiz",
+      "prompt": "Why could Hochul act on data centers immediately, without passing a new law?",
+      "choices": [
+        {
+          "text": "She used an executive order, which a governor can issue unilaterally within their existing authority",
+          "correct": true
+        },
+        {
+          "text": "New York's legislature had already passed the exact same measure",
+          "correct": false
+        },
+        {
+          "text": "Federal law required every state to issue an identical pause",
+          "correct": false
+        },
+        {
+          "text": "Data centers are automatically illegal without a special permit",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn executive order lets a governor act fast and alone; it doesn't\nrequire legislative votes, which is also why it's generally easier\nfor a successor to undo.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6fae45#2",
+      "format": "quiz",
+      "prompt": "How does a statewide executive pause differ from the usual local zoning fight over a data center?",
+      "choices": [
+        {
+          "text": "It acts at a much larger scale and speed than any single town or county's zoning process could reach",
+          "correct": true
+        },
+        {
+          "text": "It has no legal effect until every town separately adopts it",
+          "correct": false
+        },
+        {
+          "text": "It permanently bans data centers, unlike zoning decisions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLocal zoning battles are fought lot by lot; a governor's statewide order\ncan freeze an entire industry's construction across the state at once.\u003c/p\u003e"
+    }
+  ]
+}

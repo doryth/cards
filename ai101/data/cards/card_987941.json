@@ -1,0 +1,98 @@
+{
+  "id": "card_987941",
+  "slug": "ai-electricity-bill-pledge",
+  "type": "news",
+  "title": "Utilities Pledge to Keep AI From Raising Your Power Bill",
+  "hook": "Worried the AI boom will show up on your electric bill? Nearly 200 utilities and data center firms signed a pledge to shield regular customers from the cost. A promise, not yet a guarantee.",
+  "key_points": [
+    "Nearly 200 utilities and data center developers signed a 'ratepayer protection pledge.'",
+    "The Verge, citing the Wall Street Journal, reports it aims to spare consumers from AI's power costs.",
+    "AI data centers draw huge amounts of electricity, straining grids and raising prices.",
+    "The pledge is voluntary — a promise to do 'something,' not a binding rule.",
+    "It's a response to public backlash over who pays for the AI buildout: companies or households."
+  ],
+  "content_html": "\u003cp\u003eThe AI you use lives in data centers, and those data centers run on electricity — a lot of it. As that demand piles onto the same power grids that heat and light everyone's homes, a worry has gone mainstream: will the AI boom push up \u003cem\u003emy\u003c/em\u003e electricity bill? In response, The Verge reports (citing the Wall Street Journal) that nearly 200 of the largest US utilities and data center developers have signed a \u0026quot;ratepayer protection pledge\u0026quot; meant to keep those costs off ordinary customers' bills.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe mechanism worth understanding is simple. Electricity prices on a shared grid rise when demand outpaces supply, and AI data centers are enormous, fast-growing new customers. If a utility builds expensive new power capacity mainly to serve those data centers, the question becomes: who pays for it — the tech companies driving the demand, or the households who happen to share the grid? The pledge is an attempt to answer \u0026quot;not the households.\u0026quot; But it's worth reading with a clear eye: this is a \u003cem\u003evoluntary\u003c/em\u003e commitment, a promise to do something rather than a law that forces anyone to. Whether bills actually stay flat will depend on how it's enforced and what regulators require. For a general reader, the durable point isn't the pledge itself — it's the realization that \u0026quot;the cloud\u0026quot; has a physical, metered cost, and that as AI scales up, ordinary people and giant tech firms are increasingly drawing from the same wall socket.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+    "published_at": "2026-07-22",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-energy",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-23",
+  "date": "2026-07-22",
+  "related": [
+    {
+      "id": "card_199fae",
+      "slug": "data-center-backlash",
+      "type": "news",
+      "title": "Communities Are Pushing Back on AI Data Centers",
+      "hook": "The warehouses that power AI need land, power, and water — and neighbors are starting to say no. New York just signed the nation's first statewide data center ban into law.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_f2da86",
+      "slug": "google-electricity-use-2025",
+      "type": "news",
+      "title": "Google's AI Buildout Drove a 37% Jump in Electricity Use",
+      "hook": "Google's own numbers show its electricity use jumped 37% in 2025, driven largely by the data centers behind its AI push — a concrete figure in the debate over AI's energy footprint.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "card_969523",
+      "slug": "ai-energy-and-water",
+      "type": "concept",
+      "title": "AI's Energy \u0026 Water",
+      "hook": "Every chatbot reply runs in a warehouse of power-hungry computers somewhere. AI's convenience has a real physical footprint — in electricity, water for cooling, and carbon.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_987941#0",
+      "format": "quiz",
+      "prompt": "Why might the AI boom show up on an ordinary household's electricity bill?",
+      "choices": [
+        {
+          "text": "AI data centers draw huge amounts of power, straining grids and pushing prices up",
+          "correct": true
+        },
+        {
+          "text": "AI chatbots are installed directly in home electricity meters",
+          "correct": false
+        },
+        {
+          "text": "Using a chatbot charges your utility account per message",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe demand comes from the data centers running AI, not from your own use.\nThat surge in demand can raise costs for everyone on the same grid.\u003c/p\u003e"
+    },
+    {
+      "id": "card_987941#1",
+      "format": "flip",
+      "prompt": "What is the 'ratepayer protection pledge,' and what's its main limitation?",
+      "back_html": "\u003cp\u003eA voluntary promise by ~200 utilities and data center firms to shield regular\ncustomers from AI-driven electricity costs. It's a pledge, not a binding\nrule — so it's a promise to try, not a guarantee.\u003c/p\u003e"
+    }
+  ]
+}

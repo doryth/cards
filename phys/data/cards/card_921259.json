@@ -1,0 +1,131 @@
+{
+  "id": "card_921259",
+  "slug": "black-holes",
+  "type": "concept",
+  "title": "Black Holes",
+  "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+  "key_points": [
+    "Gravity near a black hole is so strong that not even light can escape it.",
+    "The event horizon is the point of no return surrounding a black hole.",
+    "Many form when the cores of massive stars collapse at the end of their lives.",
+    "General relativity describes them as extreme bends in spacetime; we've now imaged two."
+  ],
+  "content_html": "\u003cp\u003eA black hole is a region where matter has been squeezed so tightly that its gravity overwhelms everything nearby. Get close enough and the escape speed exceeds the speed of light, which means light itself can't get out. The boundary marking that point of no return is the event horizon — cross it and there's no coming back.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMany black holes are the corpses of massive stars whose cores collapsed when they ran out of fuel. Einstein's general relativity describes them not as cosmic vacuum cleaners but as places where spacetime is bent to an extreme, and its predictions have held up remarkably well. We can't see a black hole directly, but we can see its effects: in recent years telescopes captured glowing rings of hot gas circling two of them. Wikipedia covers how they form, what the event horizon means, and how we found them.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Black_hole",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a9dd8c",
+      "slug": "gravastar-instead-of-black-hole",
+      "type": "news",
+      "title": "What If a Dying Star Made a Universe, Not a Black Hole?",
+      "hook": "A new theoretical study floats a wild alternative to the black hole: a collapsing star might birth a tiny dark-energy-filled universe inside itself, halting the crush before a singularity forms.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-14"
+    },
+    {
+      "id": "card_449648",
+      "slug": "black-hole-winds-quench-galaxies",
+      "type": "news",
+      "title": "Black Hole Winds Starve Their Own Galaxies",
+      "hook": "Why do the biggest galaxies hold far fewer stars than expected? New X-ray data caught a supermassive black hole blasting out winds that sweep away the gas stars need to form.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "card_45fd41",
+      "slug": "black-hole-shreds-white-dwarf",
+      "type": "news",
+      "title": "A Black Hole Caught Shredding a White Dwarf",
+      "hook": "The Einstein Probe may have caught a long-sought 'missing link' black hole tearing apart a dense white dwarf star — and devouring it in a burst of X-ray flashes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_921259#0",
+      "format": "flip",
+      "prompt": "What is the event horizon of a black hole?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003epoint of no return\u003c/strong\u003e — the boundary beyond which nothing, not even\nlight, can escape the black hole's gravity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_921259#1",
+      "format": "quiz",
+      "prompt": "How do many black holes form?",
+      "choices": [
+        {
+          "text": "The core of a massive star collapses at the end of its life",
+          "correct": true
+        },
+        {
+          "text": "Two ordinary planets merge together",
+          "correct": false
+        },
+        {
+          "text": "Light slows down and condenses into matter",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen a sufficiently massive star runs out of fuel, its core can collapse so\nfar that it becomes a black hole.\u003c/p\u003e"
+    },
+    {
+      "id": "card_921259#2",
+      "format": "quiz",
+      "prompt": "Which theory describes black holes?",
+      "choices": [
+        {
+          "text": "General relativity, as extreme bends in spacetime",
+          "correct": true
+        },
+        {
+          "text": "Special relativity, which forbids them entirely",
+          "correct": false
+        },
+        {
+          "text": "Newton's laws, with no role for gravity",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGeneral relativity casts gravity as curved spacetime, and a black hole is\nthat curvature taken to an extreme.\u003c/p\u003e"
+    }
+  ]
+}

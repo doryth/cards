@@ -1,0 +1,125 @@
+{
+  "id": "card_37dae0",
+  "slug": "tracking-the-elusive-neutrino",
+  "type": "news",
+  "title": "Catching the Ghost Particle",
+  "hook": "Trillions of neutrinos stream through your body every second, yet they almost never touch anything. To catch even a few, physicists build some of the most audacious detectors ever conceived.",
+  "key_points": [
+    "Neutrinos are tiny, neutral particles that interact only through the weak force and gravity — so they pass through ordinary matter almost untouched.",
+    "Their reluctance to interact makes them nearly impossible to stop or steer; you can only wait for a rare chance collision.",
+    "Detectors fight the odds with sheer scale: huge volumes of water or ice, buried deep to block other particles.",
+    "A neutrino that does hit an atom produces a faint flash of light that sensors can register."
+  ],
+  "content_html": "\u003cp\u003eNeutrinos are among the most abundant particles in the universe — trillions pour through your body every second — and yet they are maddeningly hard to study. They carry no electric charge and feel only the weak nuclear force and gravity, so they slip through ordinary matter as if it weren't there. A neutrino could cross light-years of solid lead with a good chance of never touching a single atom.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat ghostliness is exactly what makes them so hard to catch, and Quanta Magazine's Simon Frantz surveys the audacious lengths physicists go to. Since you can't stop or steer a neutrino, the only strategy is to wait for a rare chance collision — and to stack the odds by building detectors of staggering size, from tanks holding thousands of tons of water to instruments embedded in a cubic kilometer of Antarctic ice. They are buried deep underground or under ice to screen out the constant rain of other particles. When a neutrino finally does strike an atom, it releases a faint flicker of light that ringed sensors record, turning a near-invisible particle into a single, precious data point.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Simon Frantz"
+    ],
+    "url": "https://quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624",
+    "published_at": "2026-06-24",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-25",
+  "date": "2026-06-24",
+  "related": [
+    {
+      "id": "card_28ad49",
+      "slug": "juno-neutrino-first-results",
+      "type": "news",
+      "title": "JUNO's First Look at Shape-Shifting Neutrinos",
+      "hook": "A giant detector buried under China caught neutrinos changing identity mid-flight — and in just 59 days made one of the sharpest measurements yet of the ghost particle's habits.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "card_3e5004",
+      "slug": "starburst-neutrino-factory",
+      "type": "news",
+      "title": "A Galaxy That Makes Neutrinos Without a Black Hole",
+      "hook": "Astronomers expected a feeding black hole behind a flood of cosmic neutrinos. Instead they found furious star formation — hinting dusty starburst galaxies seed the high-energy neutrino sky.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_37dae0#0",
+      "format": "quiz",
+      "prompt": "Why are neutrinos so hard to detect?",
+      "choices": [
+        {
+          "text": "They interact only through the weak force and gravity, so they pass through matter almost untouched",
+          "correct": true
+        },
+        {
+          "text": "They move faster than light and outrun any detector",
+          "correct": false
+        },
+        {
+          "text": "They carry a strong electric charge that repels every sensor",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNeutrinos ignore the electromagnetic and strong forces, so almost nothing\nstops them — most sail straight through the Earth without a trace.\u003c/p\u003e"
+    },
+    {
+      "id": "card_37dae0#1",
+      "format": "flip",
+      "prompt": "How do physicists overcome a neutrino's reluctance to interact?",
+      "back_html": "\u003cp\u003eWith \u003cstrong\u003escale\u003c/strong\u003e. Detectors use enormous volumes of water or ice and bury\nthem deep underground, so that out of the flood of neutrinos passing\nthrough, a few rare collisions get caught.\u003c/p\u003e"
+    },
+    {
+      "id": "card_37dae0#2",
+      "format": "quiz",
+      "prompt": "What does a detector actually register when a neutrino interacts?",
+      "choices": [
+        {
+          "text": "A faint flash of light produced when it hits an atom",
+          "correct": true
+        },
+        {
+          "text": "The neutrino itself coming to a complete stop",
+          "correct": false
+        },
+        {
+          "text": "A loud acoustic boom inside the detector",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA neutrino can't be seen directly. A rare collision with an atom kicks out\ncharged particles whose faint light the surrounding sensors pick up.\u003c/p\u003e"
+    }
+  ]
+}

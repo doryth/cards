@@ -1,0 +1,112 @@
+{
+  "id": "card_a4b53c",
+  "slug": "schrodinger-cat-from-quantum-parts",
+  "type": "news",
+  "title": "A Schrödinger's Cat Built From Quantum Parts",
+  "hook": "Cat states usually superpose two near-classical blobs of motion. Oxford built one from purely quantum ingredients — and could sculpt the superposition into almost any shape.",
+  "key_points": [
+    "A 'Schrödinger's cat' state puts a single oscillator in two opposite states of motion at once.",
+    "Earlier cat states used coherent states — the most classical-like quantum motion — as building blocks.",
+    "Oxford built one from highly nonclassical components, with quantum uncertainty arranged differently.",
+    "They used one trapped ion, entangling its internal state with its motion, then a mid-circuit measurement.",
+    "Lead author Sebastian Saner: the trick can 'sculpt the quantum superposition into almost any shape.'",
+    "Such states may resist errors better and simplify quantum error correction."
+  ],
+  "content_html": "\u003cp\u003eA Schrödinger's cat state is the lab version of the famous thought experiment: instead of a cat that's both alive and dead, physicists put an oscillator into two opposite states of motion at the same time. Oxford researchers have now built a new kind of cat state — and the twist is in the ingredients.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs summarized by ScienceDaily, earlier cat states were stitched together from \u003cem\u003ecoherent states\u003c/em\u003e, the quantum motion that behaves most like an ordinary swinging pendulum. The Oxford team, working with a single trapped ion, instead used components that are themselves \u0026quot;highly nonclassical,\u0026quot; with quantum uncertainty distributed differently across each part. They engineered interactions that entangled the ion's internal state with its motion, then used a mid-circuit measurement to collapse it into the target superposition. Lead author Dr. Sebastian Saner said the approach \u0026quot;gave us a tool to sculpt the quantum superposition into almost any shape.\u0026quot; Published in \u003cem\u003ePhysical Review X\u003c/em\u003e, the work matters beyond novelty: such states may be more resistant to errors and support simpler, more effective error-correction strategies — a possible route to sturdier quantum computers.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260614011848.htm",
+    "published_at": "2026-06-15",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-18",
+  "date": "2026-06-15",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_629c25",
+      "slug": "simple-recipe-for-entangled-states",
+      "type": "news",
+      "title": "A Simpler Recipe for Entangled Atoms",
+      "hook": "Highly entangled quantum states usually demand elaborate hardware. A team found you can coax atoms into them by gently nudging their energy levels instead.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-06"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a4b53c#0",
+      "format": "flip",
+      "prompt": "What is the Schrödinger's cat state in this experiment?",
+      "back_html": "\u003cp\u003eThe motion of a single trapped ion placed in a superposition of two states at once — here,\ntwo wave packets moving in opposite directions simultaneously.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a4b53c#1",
+      "format": "quiz",
+      "prompt": "What was novel about Oxford's cat state?",
+      "choices": [
+        {
+          "text": "Its building blocks were themselves highly nonclassical, not the usual near-classical coherent states",
+          "correct": true
+        },
+        {
+          "text": "It was the first Schrödinger's cat state ever created",
+          "correct": false
+        },
+        {
+          "text": "It involved an actual living cat",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePrevious cat states superposed coherent (classical-like) states; Oxford superposed highly\nquantum components, which let them shape the resulting state much more freely.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a4b53c#2",
+      "format": "quiz",
+      "prompt": "Why might these states matter for quantum computing?",
+      "choices": [
+        {
+          "text": "They may resist errors better and support simpler error-correction strategies",
+          "correct": true
+        },
+        {
+          "text": "They let qubits send information faster than light",
+          "correct": false
+        },
+        {
+          "text": "They remove the need for any error correction at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe team reports the new states may be more error-resistant and enable simpler, more effective\nerror correction than conventional binary qubits.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "card_c0a9cd",
+  "slug": "why-texas-dominates-the-supreme-courts-docket",
+  "type": "news",
+  "title": "Why Texas Dominates the Supreme Court's Docket",
+  "hook": "Of the 35 cases with individual litigants the Supreme Court heard this term, five centered on Texans — more than double any other state. It's not Texas law that's unusual; it's the plumbing above it.",
+  "key_points": [
+    "5 of 35 argued cases involving individual litigants in the 2025-26 term centered on Texans — the next-closest state had only 2.",
+    "Texas is the second-most populous state (~32 million people) and has the largest prison population, both of which generate more litigation.",
+    "State leaders have pursued high-profile legal fights, adding more cases to the pipeline.",
+    "The 5th Circuit, which covers Texas, sent 11 cases to the Court this term — more than any other circuit — and was reversed in 8 of them.",
+    "That high reversal rate reflects an ideological gap: the 5th Circuit skews notably more conservative than the Supreme Court itself."
+  ],
+  "content_html": "\u003cp\u003eEvery Supreme Court term, a handful of states supply a disproportionate share of the cases that get argued — and this term, Texas ran away with it. Of 35 argued cases involving individual litigants, five centered on Texans; no other state had more than two, SCOTUSblog's Kelsey Dallas reports.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe edge isn't a quirk of Texas law — it's structural. Texas is the country's second-most populous state, with roughly 32 million residents, and holds the largest prison population of any state, both of which mechanically generate more lawsuits and appeals. State leadership, including Attorney General Ken Paxton, has also pursued a string of high-profile legal fights that tend to escalate. But the biggest factor is geography: Texas sits in the 5th U.S. Circuit Court of Appeals, which sent 11 cases to the Supreme Court this term — more than any other circuit — and saw 8 of them reversed. That lopsided reversal rate tracks an ideological gap: the 5th Circuit is notably more conservative than the Supreme Court as a whole, so its rulings draw the Court's attention and often don't survive review. (U.S.-specific; the general lesson — that lower-court composition shapes which cases a top court ends up hearing — applies wherever an appellate tier sits between trial courts and a final one.)\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Kelsey Dallas"
+    ],
+    "url": "https://scotusblog.com/2026/07/when-it-comes-to-getting-the-supreme-courts-attention-does-one-state-have-an-edge",
+    "published_at": "2026-07-20",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-20",
+  "related": [
+    {
+      "id": "card_7da30b",
+      "slug": "how-the-supreme-court-decides",
+      "type": "blog",
+      "title": "How the Supreme Court Decides a Case",
+      "hook": "A top court hears only a sliver of the cases that beg for its attention — and the path from petition to ruling runs through written briefs, a public argument, and a vote taken in secret.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ad4830",
+      "slug": "the-shadow-docket",
+      "type": "news",
+      "title": "The Supreme Court's 'Shadow Docket'",
+      "hook": "Most Supreme Court rulings today aren't fully-argued opinions — they're fast, often unsigned orders with little explanation. In the term ending October 2025, those quietly became the majority.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7da30b",
+      "slug": "how-the-supreme-court-decides",
+      "type": "blog",
+      "title": "How the Supreme Court Decides a Case",
+      "hook": "A top court hears only a sliver of the cases that beg for its attention — and the path from petition to ruling runs through written briefs, a public argument, and a vote taken in secret.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_c0a9cd#0",
+      "format": "flip",
+      "prompt": "Why did Texas-related cases dominate the Supreme Court's 2025-26 docket?",
+      "back_html": "\u003cp\u003eA mix of size (Texas's large population and prison system generate more\nlitigation), litigious state leadership, and sitting within the 5th\nCircuit — which sent more cases to the Court than any other circuit.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c0a9cd#1",
+      "format": "quiz",
+      "prompt": "What happened to the 5th Circuit's decisions when the Supreme Court reviewed them this term?",
+      "choices": [
+        {
+          "text": "The Court reversed 8 of the 11 cases it took from the 5th Circuit",
+          "correct": true
+        },
+        {
+          "text": "The Court upheld every 5th Circuit decision it reviewed",
+          "correct": false
+        },
+        {
+          "text": "The 5th Circuit sent the fewest cases of any circuit",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe 5th Circuit sent 11 cases — the most of any circuit — and 8 of\nthose were reversed, a notably high rate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c0a9cd#2",
+      "format": "flip",
+      "prompt": "Why does a circuit's high reversal rate at the Supreme Court often reflect more than case quality?",
+      "back_html": "\u003cp\u003eIt can reflect an ideological gap between that circuit and the Supreme\nCourt — the 5th Circuit leans notably more conservative than the\nCourt, making its rulings more likely to be overturned.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "card_49bcf4",
+  "slug": "the-history-of-democracy",
+  "type": "concept",
+  "title": "The History of Democracy",
+  "hook": "Democracy isn't a permanent gift — it's a hard-won, on-and-off achievement that nearly vanished for two thousand years before its modern comeback.",
+  "key_points": [
+    "Democracy emerged in ancient Greece, then faded for centuries under empires and monarchies.",
+    "Modern representative democracy grew from the 17th–18th centuries onward.",
+    "The franchise widened slowly — beyond property, then to women, then across racial barriers.",
+    "Its spread has come in 'waves,' with real reversals — democracy can be lost as well as won."
+  ],
+  "content_html": "\u003cp\u003eIt is tempting to treat democracy as the natural, default state of things, but history tells a more sobering story: for most of recorded time, most people were ruled by someone they did not choose. The democratic experiments of ancient Greece were remarkable precisely because they were exceptions, and after them genuine self-rule largely faded for some two thousand years, as empires, kingdoms, and aristocracies dominated. Democracy, in other words, is not a permanent possession but a recurring and fragile achievement.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eModern democracy is largely a creation of the last few centuries. From the 1600s and 1700s onward, ideas about consent, rights, and representation — together with revolutions and reform movements — gave rise to representative democracy, in which citizens elect officials to govern rather than ruling directly. Even then it began narrow: early electorates were typically limited to property-owning men, and the franchise widened only gradually and through sustained struggle — dropping property requirements, extending the vote to women, and dismantling racial restrictions, often a century or more apart. Encyclopaedia Britannica describes democracy's spread as occurring in \u0026quot;waves,\u0026quot; each followed by partial reversals in which democracies slid back toward authoritarian rule. That pattern carries the central lesson of this history: democracy is something built and rebuilt, never guaranteed, and the question of whether it advances or retreats is answered anew in every era.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/democracy/History-of-democracy",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "history-and-theory"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_51131a",
+      "slug": "what-is-democracy",
+      "type": "concept",
+      "title": "What Democracy Means",
+      "hook": "Rule by the people: a system where political power ultimately traces back to citizens, usually through regular, free elections.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b20eb9",
+      "slug": "ancient-origins-of-politics",
+      "type": "concept",
+      "title": "The Ancient Origins of Politics",
+      "hook": "The words we still use — politics, democracy, republic — were coined in ancient Greece and Rome, where the first experiments in self-rule were run.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e455ef",
+      "slug": "democratic-backsliding",
+      "type": "concept",
+      "title": "Democratic Backsliding",
+      "hook": "Democracies rarely die in a single coup anymore. More often they erode — legally, gradually, step by step — until little is left but the shell of elections.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_b20eb9",
+      "slug": "ancient-origins-of-politics",
+      "type": "concept",
+      "title": "The Ancient Origins of Politics",
+      "hook": "The words we still use — politics, democracy, republic — were coined in ancient Greece and Rome, where the first experiments in self-rule were run.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_49bcf4#0",
+      "format": "flip",
+      "prompt": "Is the spread of democracy a steady, one-way process?",
+      "back_html": "\u003cp\u003eNo — it has come in \u003cstrong\u003ewaves with real reversals\u003c/strong\u003e. Democracy can be lost\nas well as won, and has retreated in many places and eras.\u003c/p\u003e"
+    },
+    {
+      "id": "card_49bcf4#1",
+      "format": "quiz",
+      "prompt": "What happened to democracy after the ancient Greek experiments?",
+      "choices": [
+        {
+          "text": "It largely faded for centuries under empires and monarchies",
+          "correct": true
+        },
+        {
+          "text": "It spread continuously and never disappeared",
+          "correct": false
+        },
+        {
+          "text": "It was immediately adopted worldwide",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDemocratic self-rule was rare for roughly two millennia before modern\nrepresentative democracy emerged.\u003c/p\u003e"
+    },
+    {
+      "id": "card_49bcf4#2",
+      "format": "quiz",
+      "prompt": "How did the right to vote change as modern democracies developed?",
+      "choices": [
+        {
+          "text": "It widened gradually — beyond property, then to women, then across racial barriers",
+          "correct": true
+        },
+        {
+          "text": "It was universal from the very first elections",
+          "correct": false
+        },
+        {
+          "text": "It narrowed steadily over time",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEarly electorates were small and propertied; the franchise expanded\nthrough long struggles over decades and centuries.\u003c/p\u003e"
+    }
+  ]
+}

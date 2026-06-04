@@ -1,0 +1,104 @@
+{
+  "id": "card_7f81b0",
+  "slug": "cosmic-bulk-flow-mostly-behaves",
+  "type": "paper",
+  "title": "Galaxies Are Streaming a Bit Too Fast in One Patch of Sky",
+  "hook": "Whole regions of the universe drift together in 'bulk flows'. A new survey audit finds them broadly consistent with standard cosmology — except for one stubborn shell 400 million light-years out.",
+  "key_points": [
+    "Bulk flow is the shared streaming motion of galaxies in a region, driven by the gravity of large-scale structure — a direct test of how much structure there is.",
+    "Nusser and Tully fit monopole and dipole moments to Cosmicflows-4 in non-overlapping radial shells, comparing each against a Planck 2018 ΛCDM prediction.",
+    "Across six shells out to 300 h⁻¹ Mpc, the full sample is broadly consistent, with dipole and joint deviations of 2.29σ and 2.36σ.",
+    "The sharpest anomaly sits at 120–160 h⁻¹ Mpc, where the dipole reaches 628 ± 82 km/s — a 3.40σ deviation.",
+    "The signal depends strongly on which catalogs are included: dropping 6dFGS lowers the outer-shell deviation to 1.56σ, dropping supernovae raises it to 3.77σ."
+  ],
+  "content_html": "\u003cp\u003eGalaxies do not just ride the cosmic expansion; they also drift, in large coherent streams, pulled by the gravity of the structure around them. Measuring that \u0026quot;bulk flow\u0026quot; is one of the more direct ways to check whether the universe has as much clumpy structure as the standard ΛCDM model says it should. Claims of anomalously fast flows have surfaced repeatedly, and just as often faded once survey systematics were handled carefully.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAdi Nusser and Brent Tully take the Cosmicflows-4 compilation and its constituent catalogs and fit monopole and dipole moments in non-overlapping radial shells, using a log-distance radial-velocity estimator. Crucially, each sample is compared against a Planck 2018 ΛCDM prediction computed for that sample's actual positions, statistical weights, and covariances — not against a generic expectation. Across six shells out to 300 h⁻¹ Mpc the full sample looks fine, with dipole and joint deviations of 2.29σ and 2.36σ. The exception is a shell at 120–160 h⁻¹ Mpc, where the dipole reaches 628 ± 82 km/s and the deviation hits 3.40σ, concentrated toward negative supergalactic X. But the authors show the effect is sensitive to which surveys go into the mix: removing 6dFGS softens it to 1.56σ, removing the supernova sample sharpens it to 3.77σ. That spread is itself the headline — the data are not yet decisive enough to call it new physics.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Adi Nusser",
+      "Brent Tully"
+    ],
+    "url": "https://arxiv.org/abs/2608.14265",
+    "published_at": "2026-08-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_18636c",
+      "slug": "cosmic-dipole-anomaly",
+      "type": "news",
+      "title": "Is the Universe Actually Lopsided?",
+      "hook": "Cosmology's standard model assumes the universe looks the same in every direction on the largest scales. A contested analysis argues the distribution of distant galaxies quietly fails that test.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_0ac579",
+      "slug": "hubble-tension",
+      "type": "paper",
+      "title": "The Hubble Tension: Cosmology's Stubborn Crisis",
+      "hook": "Two trustworthy ways of measuring how fast the universe expands keep disagreeing — and a decade of cross-checks has only hardened the gap into a genuine crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7f81b0#0",
+      "format": "flip",
+      "prompt": "What is a cosmic 'bulk flow', and why is it a test of cosmology?",
+      "back_html": "\u003cp\u003eThe shared streaming motion of galaxies in a region, pulled by the gravity of surrounding\nlarge-scale structure. Its size tells you how much structure there is — so it can be\nchecked directly against a ΛCDM prediction.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7f81b0#1",
+      "format": "quiz",
+      "prompt": "What did Nusser and Tully find across the six radial shells they analysed?",
+      "choices": [
+        {
+          "text": "Broad consistency with ΛCDM, with one localised 3.40σ excess at 120–160 h⁻¹ Mpc",
+          "correct": true
+        },
+        {
+          "text": "A uniform, highly significant excess in every shell",
+          "correct": false
+        },
+        {
+          "text": "Bulk flows far smaller than ΛCDM predicts everywhere",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe All Individual sample gave dipole and joint deviations of 2.29σ and 2.36σ overall —\nunremarkable — while the strongest localised feature reached 628 ± 82 km/s at\n120–160 h⁻¹ Mpc.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7f81b0#2",
+      "format": "flip",
+      "prompt": "Why should you be cautious about the anomalous shell?",
+      "back_html": "\u003cp\u003eThe result swings with catalog choice: removing 6dFGS drops the outer-shell deviation to\n\u003cstrong\u003e1.56σ\u003c/strong\u003e, while removing the supernova sample pushes it to \u003cstrong\u003e3.77σ\u003c/strong\u003e. Survey selection,\nnot new physics, may be doing the work.\u003c/p\u003e"
+    }
+  ]
+}

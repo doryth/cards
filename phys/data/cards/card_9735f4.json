@@ -1,0 +1,133 @@
+{
+  "id": "card_9735f4",
+  "slug": "general-relativity",
+  "type": "concept",
+  "title": "General Relativity: Gravity Is Geometry",
+  "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+  "key_points": [
+    "Einstein's 1915 theory recasts gravity as the curvature of spacetime, not a force.",
+    "Mass and energy bend spacetime; that curvature tells objects how to move.",
+    "It predicts starlight bending around the Sun and time running slower in gravity.",
+    "Your GPS corrects for this time effect; the theory also predicts black holes."
+  ],
+  "content_html": "\u003cp\u003eNewton described gravity as a force reaching across space, and it works beautifully for everyday purposes. But in 1915 Einstein offered a deeper picture: gravity isn't a force at all. Mass and energy warp the fabric of spacetime around them, and what we feel as gravity is just objects following the natural paths through that warped geometry. As the famous summary goes, matter tells spacetime how to curve, and spacetime tells matter how to move.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis reframing makes predictions Newton's theory cannot. Light passing a massive object gets deflected, an effect first confirmed by observing starlight bending around the Sun during an eclipse. Clocks run slightly slower where gravity is stronger — a real effect that GPS satellites must correct for to stay accurate. Push the curvature to an extreme and you get a black hole, a region where spacetime folds in on itself. Wikipedia walks through the theory's core idea and its confirmed predictions.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/General_relativity",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational",
+    "landmark"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_987298",
+      "slug": "special-relativity-basics",
+      "type": "concept",
+      "title": "Special Relativity, Gently",
+      "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_987298",
+      "slug": "special-relativity-basics",
+      "type": "concept",
+      "title": "Special Relativity, Gently",
+      "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_9735f4#0",
+      "format": "flip",
+      "prompt": "In general relativity, what is gravity?",
+      "back_html": "\u003cp\u003eNot a force, but the \u003cstrong\u003ecurvature of spacetime\u003c/strong\u003e caused by mass and energy.\nMatter bends spacetime, and that curvature tells matter how to move.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9735f4#1",
+      "format": "quiz",
+      "prompt": "What does general relativity say mass and energy do to spacetime?",
+      "choices": [
+        {
+          "text": "They curve it, and the curvature guides how objects move",
+          "correct": true
+        },
+        {
+          "text": "They have no effect on spacetime",
+          "correct": false
+        },
+        {
+          "text": "They speed up the flow of time everywhere",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMass and energy curve spacetime; objects then follow the straightest paths\nthrough that curved geometry, which we experience as gravity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9735f4#2",
+      "format": "quiz",
+      "prompt": "Which everyday technology must correct for general-relativistic time effects?",
+      "choices": [
+        {
+          "text": "GPS satellite navigation",
+          "correct": true
+        },
+        {
+          "text": "AM radio broadcasting",
+          "correct": false
+        },
+        {
+          "text": "Ordinary household wiring",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eClocks on GPS satellites tick at a slightly different rate due to weaker\ngravity at altitude; without correcting for it, positions would drift badly.\u003c/p\u003e"
+    }
+  ]
+}

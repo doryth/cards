@@ -1,0 +1,115 @@
+{
+  "id": "card_b6a30b",
+  "slug": "radiologists-not-replaced",
+  "type": "news",
+  "title": "The Job AI Was Supposed to Have Eliminated by Now",
+  "hook": "A decade ago a pioneering AI researcher said to stop training radiologists — the machines would take over. They didn't. The job changed instead, and that pattern is the lesson.",
+  "key_points": [
+    "A prominent AI figure predicted computers would replace human radiologists; Ars Technica reports it hasn't happened.",
+    "Reading a scan is only part of the job — consultation, correlation with history, and accountability aren't automated.",
+    "AI tools do reshape the work: triaging urgent cases, flagging findings, changing what a radiologist spends the day on.",
+    "A confident forecast from a leading expert is still a forecast, not evidence.",
+    "The realistic pattern across skilled fields so far: tasks get absorbed, roles get redefined."
+  ],
+  "content_html": "\u003cp\u003eAround the mid-2010s, one of the field's most influential AI researchers offered a memorably blunt piece of advice: stop training radiologists, because computers would be reading the scans within a few years. As Ars Technica revisits the prediction, the striking thing is how thoroughly it missed — radiology is still a profession, still hiring, still central to hospital medicine.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat doesn't mean the AI didn't work. Image-reading models genuinely are good, and they are steadily changing what the job looks like: triaging the urgent study to the top of the queue, flagging a nodule for a second look, handling the volume that would otherwise pile up. What the prediction got wrong was the job itself. Reading the image is one task inside a role that also involves knowing the patient's history, talking to the referring physician, sitting with genuine ambiguity, and signing your name to a call someone will act on. Automate the first task and you reshape the day; you don't delete the person.\u003c/p\u003e\n\u003cp\u003eIt's worth keeping this case in your pocket as a calibration tool. When you next hear a confident claim that a specific profession is finished within three years, notice that this exact claim has already been made, by someone with every reason to know, about a job that turned out to be a bundle of tasks rather than a single one. The safe bet isn't \u0026quot;nothing changes\u0026quot; — it's that the work gets redefined faster than the headcount disappears.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Lola Butcher"
+    ],
+    "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs",
+    "published_at": "2026-08-25",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-healthcare",
+    "ai-and-jobs",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_eb781a",
+      "slug": "ai-in-healthcare",
+      "type": "concept",
+      "title": "AI in Healthcare",
+      "hook": "AI can spot a tumor on a scan faster than a tired radiologist and flag patterns no one would catch by eye. It's a powerful assistant to doctors — not a replacement for one.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b4f14c",
+      "slug": "ai-and-jobs",
+      "type": "concept",
+      "title": "AI \u0026 Jobs",
+      "hook": "AI is less likely to take your whole job than to take certain tasks within it. The pattern through history: tools reshape work faster than they erase it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5b14a",
+      "slug": "workers-not-automating-away",
+      "type": "news",
+      "title": "15 Million Real AI Chats Say Your Job Is Mostly Fine",
+      "hook": "Google looked at how people actually use AI at work — 15 million interactions — and found that for most jobs, most tasks are simply untouched. The hype is running ahead of the data.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b6a30b#0",
+      "format": "quiz",
+      "prompt": "What actually happened to radiology after AI was predicted to replace it?",
+      "choices": [
+        {
+          "text": "The role persisted but the day-to-day work started shifting",
+          "correct": true
+        },
+        {
+          "text": "Radiologists were largely replaced, as predicted",
+          "correct": false
+        },
+        {
+          "text": "AI turned out to be useless for reading medical images",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth extremes are wrong. AI reads images usefully and is changing what the job\ninvolves — but the profession is still here, because the job is more than image-reading.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b6a30b#1",
+      "format": "flip",
+      "prompt": "Why is 'AI can read a scan' not the same as 'AI can be a radiologist'?",
+      "back_html": "\u003cp\u003eThe role also involves correlating findings with a patient's history, consulting\nwith other doctors, handling ambiguity, and being accountable for the call.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b6a30b#2",
+      "format": "flip",
+      "prompt": "What does this story suggest about confident predictions from AI experts?",
+      "back_html": "\u003cp\u003eExpertise in building AI doesn't confer expertise in how an entire profession\nabsorbs it. Treat even a leading researcher's timeline as a forecast to check, not a fact.\u003c/p\u003e"
+    }
+  ]
+}

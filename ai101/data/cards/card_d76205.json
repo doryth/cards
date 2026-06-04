@@ -1,0 +1,103 @@
+{
+  "id": "card_d76205",
+  "slug": "compute-as-asset-class",
+  "type": "news",
+  "title": "Wall Street Wants to Turn Computing Power Into an Asset Class",
+  "hook": "Six of the biggest names in finance are working with Nvidia on $500 billion of financing built around GPUs — treating compute like real estate or oil.",
+  "key_points": [
+    "The Verge reports Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are working with Nvidia on ~$500 billion in financing.",
+    "The idea: make 'compute' — GPU capacity — a tradable asset class you can borrow against.",
+    "That requires the collateral to hold value, which chips historically don't: newer generations make older ones far less valuable.",
+    "It ties AI's boom to the debt markets, so a slowdown wouldn't stay inside tech.",
+    "When financial engineering arrives to keep an expansion going, that's a signal about the underlying economics."
+  ],
+  "content_html": "\u003cp\u003eApollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are reportedly working with Nvidia to assemble roughly $500 billion in financing — an effort, The Verge writes, to turn compute into an asset class. In plain terms: make GPU computing capacity into something lenders will value, finance, and trade the way they do office towers or pipelines.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe appeal is obvious. AI build-outs need more money than even the largest tech companies generate, and the debt markets are where that kind of money lives. The problem is what's backing the loans. Real estate and energy infrastructure hold value for decades; graphics chips are famously the opposite, losing much of their worth each time a faster generation arrives. Elizabeth Lopatto's skepticism in the piece centers on that mismatch.\u003c/p\u003e\n\u003cp\u003eYou don't need a view on the deal to take the lesson. When an expansion starts needing novel financial structures to keep going, that says something about the economics underneath — and it means a disappointing AI year would be felt well beyond the tech industry. The Verge has the argument in full.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Elizabeth Lopatto"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+    "published_at": "2026-08-19",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-hype",
+    "ai-news"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_9868db",
+      "slug": "openai-losing-billions",
+      "type": "news",
+      "title": "The Leading AI Company Is Losing Billions a Year",
+      "hook": "Leaked, audited financials reportedly show OpenAI bleeding billions of dollars a year. Its revenue is growing fast — but the cost of building AI is growing faster.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "card_4a5acd",
+      "slug": "google-negative-cash-flow",
+      "type": "news",
+      "title": "Google Just Burned More Cash Than It Took In",
+      "hook": "Alphabet posted its first-ever negative cash flow quarter, and the reason is AI spending. When one of the most profitable companies on earth goes cash-negative, the bill is real.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_b644fb",
+      "slug": "energy-ipos-ai-boom",
+      "type": "news",
+      "title": "AI's Power Hunger Just Created a New Class of Billion-Dollar IPOs",
+      "hook": "AI data centers need electricity above all else — and that need alone just fueled the biggest wave of energy company IPOs since 1999, with investors betting on power, not chips.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d76205#0",
+      "format": "quiz",
+      "prompt": "What does 'making compute an asset class' mean in this deal?",
+      "choices": [
+        {
+          "text": "Treating GPU computing capacity as collateral you can finance and trade, like property",
+          "correct": true
+        },
+        {
+          "text": "Giving away computing power for free to researchers",
+          "correct": false
+        },
+        {
+          "text": "Letting the public buy shares in individual chips at retail",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe financing packages GPU capacity as an asset lenders will value and lend\nagainst — the same trick applied to real estate or energy infrastructure.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d76205#1",
+      "format": "flip",
+      "prompt": "Why are the reporter and skeptics uneasy about GPUs as collateral?",
+      "back_html": "\u003cp\u003eChips depreciate fast. Each new generation makes the last far less valuable, so\nthe thing backing the loans may not hold its worth the way property does.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d76205#2",
+      "format": "flip",
+      "prompt": "Why should a non-investor care about how AI data centers get financed?",
+      "back_html": "\u003cp\u003eDebt spreads the risk outward. If AI demand disappoints, the losses land on\nlenders and pension-scale investors, not just the tech companies.\u003c/p\u003e"
+    }
+  ]
+}

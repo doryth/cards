@@ -1,0 +1,83 @@
+{
+  "id": "card_f39d4d",
+  "slug": "moonquakes-reveal-lunar-water",
+  "type": "news",
+  "title": "Listening for Moonquakes to Find the Moon's Hidden Ice",
+  "hook": "Buried lunar ice can't be seen from orbit — but it changes how seismic waves bend and bounce, so a moonquake could map it for you.",
+  "key_points": [
+    "Seismic waves travel at different speeds through ice, rock, and dry regolith, so their arrival times encode what they passed through.",
+    "Ice also reflects waves at the boundary where it meets rock, producing echoes that betray a buried deposit's depth.",
+    "Moonquakes provide the shaking for free — no drilling required over the wide areas orbital instruments can only guess at.",
+    "Finding accessible water matters practically: it means drinking water, breathable oxygen, and hydrogen rocket fuel for crews.",
+    "Lunar ice is also a science target, since its chemistry carries clues about where Earth's own oceans came from."
+  ],
+  "content_html": "\u003cp\u003eThere is water ice on the Moon, but the useful question is where, and how deep. Orbital instruments can only sense the top layer, so researchers have proposed a different probe: the Moon's own quakes. Vibrations passing through the crust behave differently in ice than in dry rock, which turns every moonquake into a free survey.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe physics is the same trick geologists use on Earth to map oil, faults, and aquifers. A seismic wave's speed depends on the material carrying it, so arrival times encode composition along the path. And at any sharp boundary — say, where an ice layer meets rock — part of the wave reflects back, producing an echo whose delay says how deep the boundary lies. Applied to the Moon, this could turn scattered natural tremors into maps of subsurface deposits across areas nobody will drill anytime soon. The payoff runs two ways: crews would gain a local source of water, oxygen, and rocket propellant, and researchers would gain samples whose chemistry may say something about how Earth got its own oceans.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260802223420.htm",
+    "published_at": "2026-08-03"
+  },
+  "topic_ids": [
+    "waves-sound",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-03",
+  "related": [
+    {
+      "id": "card_eefe71",
+      "slug": "what-is-a-wave",
+      "type": "concept",
+      "title": "What Is a Wave?",
+      "hook": "A wave moves energy from place to place without moving the stuff it travels through — the water bobs, but the wave races on.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af8914",
+      "slug": "reflection-and-refraction",
+      "type": "concept",
+      "title": "Reflection \u0026 Refraction",
+      "hook": "A straw looks bent in a glass of water — not because the straw bends, but because light does when it changes speed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f39d4d#0",
+      "format": "flip",
+      "prompt": "How can a seismic wave reveal ice buried under the lunar surface?",
+      "back_html": "\u003cp\u003eWaves change speed depending on the material they cross, and partly \u003cstrong\u003ereflect\u003c/strong\u003e\nat the boundary between ice and rock. Both the altered travel time and the echo\nreveal a hidden deposit and its depth.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f39d4d#1",
+      "format": "quiz",
+      "prompt": "Why is finding accessible lunar ice a practical priority, not just a scientific one?",
+      "choices": [
+        {
+          "text": "It supplies drinking water, oxygen, and hydrogen for rocket fuel",
+          "correct": true
+        },
+        {
+          "text": "It would let astronauts generate artificial gravity",
+          "correct": false
+        },
+        {
+          "text": "It is needed to shield the Moon from solar flares",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWater on site means a crew doesn't have to haul it from Earth — and splitting\nit yields breathable oxygen plus hydrogen that can be burned as propellant.\u003c/p\u003e"
+    }
+  ]
+}

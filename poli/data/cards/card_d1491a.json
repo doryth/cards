@@ -1,0 +1,106 @@
+{
+  "id": "card_d1491a",
+  "slug": "assisted-outpatient-treatment-service-gaps",
+  "type": "news",
+  "title": "A Court Can Order Treatment. It Can't Order the Appointment to Exist.",
+  "hook": "A county can now court-order outpatient mental health treatment — but of 279 Medicaid providers listed, a study found only 34 had open appointments. Legal authority alone doesn't deliver a service.",
+  "key_points": [
+    "Allegheny County's assisted outpatient treatment (AOT) program lets a court order up to 90 days of mental health treatment as an alternative to involuntary hospitalization.",
+    "A University of Pittsburgh study found that of 279 Medicaid mental health providers listed as accepting patients, only 34 had available appointments, and over half of patient calls went unreturned.",
+    "Patients seeking care averaged 28 days to find an appointment, then another 19 days waiting for it.",
+    "The author's conclusion: court-ordered treatment can only help if the county also fixes the underlying shortage of mental health providers and services."
+  ],
+  "content_html": "\u003cp\u003eAllegheny County's new assisted outpatient treatment (AOT) program lets a court order up to 90 days of mental health treatment for people with serious illness, as a \u0026quot;step down\u0026quot; from hospitalization, a \u0026quot;step up\u0026quot; before a crisis, or a \u0026quot;step over\u0026quot; from the criminal justice system. But a court order is only as good as the care behind it — and a University of Pittsburgh study found that care is hard to find: of 279 Medicaid mental health providers listed as accepting patients, only 34 actually had open appointments, and more than half of patient calls went unreturned. Patients who did get through averaged 28 days to find an appointment, then another 19 days waiting for it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWriting in The Conversation, Chatham University's Erica Maloney argues the program's fate rests less on the legal mechanism than on whether the county closes this service gap. Her point generalizes beyond mental health: a court or legislature can authorize an intervention, but authorization is not delivery — without funded, staffed, accessible services on the other end, a court-ordered mandate can end up ordering treatment that, in practice, doesn't exist to receive.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Erica Maloney, Assistant Professor of Social Work, Chatham University"
+    ],
+    "url": "https://theconversation.com/what-allegheny-countys-new-court-ordered-mental-health-treatment-program-can-and-cant-do-280112",
+    "published_at": "2026-07-20"
+  },
+  "topic_ids": [
+    "public-policy-economy"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 2,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-20",
+  "related": [
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_d1491a#0",
+      "format": "flip",
+      "prompt": "What did a University of Pittsburgh study find about Medicaid mental health providers listed as available in Allegheny County?",
+      "back_html": "\u003cp\u003eOf 279 providers listed as accepting patients, only \u003cstrong\u003e34 had actual open\nappointments\u003c/strong\u003e, and more than half of patient calls went unreturned.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d1491a#1",
+      "format": "quiz",
+      "prompt": "What is the author's core argument about Allegheny County's court-ordered outpatient treatment program?",
+      "choices": [
+        {
+          "text": "A court order can't help unless the underlying shortage of mental health services and providers is also fixed",
+          "correct": true
+        },
+        {
+          "text": "Court orders alone are always sufficient to guarantee treatment",
+          "correct": false
+        },
+        {
+          "text": "The program has no effect on patients at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe article's central point is that legal authority to mandate\ntreatment cannot substitute for actually funded, accessible services.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d1491a#2",
+      "format": "quiz",
+      "prompt": "This case illustrates a general pattern in public policy: which stage of the policy cycle can undermine even a well-designed law?",
+      "choices": [
+        {
+          "text": "Implementation — delivery through under-resourced services",
+          "correct": true
+        },
+        {
+          "text": "Naming the bill",
+          "correct": false
+        },
+        {
+          "text": "The vote to adopt the law",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAs with the broader implementation-gap idea, a legally sound program can\nstill fail if the agencies and providers meant to carry it out lack the\ncapacity to do so.\u003c/p\u003e"
+    }
+  ]
+}

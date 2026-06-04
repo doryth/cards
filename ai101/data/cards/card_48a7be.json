@@ -1,0 +1,110 @@
+{
+  "id": "card_48a7be",
+  "slug": "hassabis-global-ai-watchdog",
+  "type": "news",
+  "title": "A Top AI Lab Leader Wants a Global AI Watchdog",
+  "hook": "Demis Hassabis, who runs Google DeepMind, says the world needs an international body with real power to hit the brakes on frontier AI — and argues the US should lead it.",
+  "key_points": [
+    "The Verge reports Google DeepMind CEO Demis Hassabis called for a global AI watchdog.",
+    "He wants it to have the power to intervene if frontier AI models become too dangerous.",
+    "Hassabis argues the US, not a neutral body, should lead the effort given its economic position.",
+    "It's notable that this call comes from a lab leader, not just outside critics or regulators.",
+    "It joins a broader, unsettled debate over who — if anyone — should have that kind of authority."
+  ],
+  "content_html": "\u003cp\u003eCalls for AI regulation usually come from outside the industry — academics, journalists, lawmakers. The Verge reports a notable exception: Demis Hassabis, CEO of Google DeepMind, is himself arguing the world needs a global AI watchdog with genuine teeth.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn a blog post, Hassabis said this body should have the power to actually intervene — not just issue reports — if frontier AI models start to look dangerous enough to warrant it. He also staked out a specific, debatable position on \u003cem\u003ewho\u003c/em\u003e should run it: rather than a fully neutral international body, he argued the US should lead, citing the country's economic position as reason enough to set the global standard. That combination — a major lab's own chief executive asking for outside limits on the technology his company builds — is worth sitting with. It could reflect genuine concern about where the field is heading; it could also be a savvy way to shape the \u003cem\u003erules\u003c/em\u003e before someone else writes them. Either read is consistent with a broader pattern in AI regulation: the loudest voices calling for guardrails are often the ones with the most to gain from designing them. The underlying question — who gets to decide when an AI model has become too risky, and what \u0026quot;too risky\u0026quot; even means — remains as unsettled as ever.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Robert Hart"
+    ],
+    "url": "https://theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+    "published_at": "2026-07-14",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dc90db",
+      "slug": "will-ai-take-over",
+      "type": "concept",
+      "title": "Will AI Take Over?",
+      "hook": "The Terminator scenario — AI 'waking up' and turning on us — isn't what serious researchers worry about. Their real concerns are more mundane and more immediate.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_48a7be#0",
+      "format": "quiz",
+      "prompt": "What did Google DeepMind's CEO Demis Hassabis propose, per The Verge?",
+      "choices": [
+        {
+          "text": "A global watchdog with real power to intervene if frontier AI grows too dangerous",
+          "correct": true
+        },
+        {
+          "text": "Banning all AI research worldwide",
+          "correct": false
+        },
+        {
+          "text": "Letting each company self-regulate with no outside oversight",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHassabis called for an international body empowered to actually act — not just\nadvise — if the most advanced AI models pose serious risks.\u003c/p\u003e"
+    },
+    {
+      "id": "card_48a7be#1",
+      "format": "flip",
+      "prompt": "Why is it notable that this proposal came from Hassabis specifically?",
+      "back_html": "\u003cp\u003eHe runs one of the labs building the very frontier models being discussed —\na case for outside oversight coming from inside the industry, not just critics.\u003c/p\u003e"
+    }
+  ]
+}

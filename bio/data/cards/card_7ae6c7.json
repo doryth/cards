@@ -1,0 +1,97 @@
+{
+  "id": "card_7ae6c7",
+  "slug": "emotional-order-and-childrens-memory",
+  "type": "paper",
+  "title": "Why What You Remember Depends on What Came Right Before It",
+  "hook": "In a study of children's memory, whether a toy was recalled correctly depended not just on its own emotional charge, but on the emotions of the toys shown right before and after it.",
+  "key_points": [
+    "Children were shown sequences of toys with different emotional charge, then tested on recall.",
+    "Correct recall of a toy depended on its own emotional valence and on its neighbors' valence in the sequence.",
+    "Standard memory models acknowledge that order matters but predicted the results poorly.",
+    "A new order-sensitive math model (inspired by, but not identical to, quantum-cognition methods) fit the data far better, reaching nearly 78% accuracy.",
+    "The results suggest emotional memories aren't stored independently — nearby memories interact with each other."
+  ],
+  "content_html": "\u003cp\u003eShow a child a sequence of toys — some happy, some sad, some neutral — and ask them to recall it later. You'd expect a toy's own emotional pull to matter. A new study found something less obvious: it also matters what the \u003cem\u003eother\u003c/em\u003e toys around it felt like.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers tracked how accurately children recalled each toy in an emotionally mixed sequence and found that correct recall depended on a toy's own valence and on the valence of the toys shown immediately before and after it — evidence that emotional memories for neighboring items are entangled rather than filed away separately. Standard psychological models of memory acknowledge that order affects recall, but fit the actual data poorly. A different approach — a tensor-network model built to capture how nearby items' valence interacts, drawing loosely on math used in quantum-inspired cognition research — fit dramatically better, reaching close to 78% accuracy. The authors are careful to note this isn't a claim that quantum physics happens in a child's brain; rather, quantum-inspired math turns out to be a good language for describing how order-dependent, interacting memories behave.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Henry Groves",
+      "Lucia F. Jackson",
+      "Barbara-Anne Robertson",
+      "Jonte R. Hance"
+    ],
+    "url": "https://arxiv.org/abs/2606.28470",
+    "published_at": "2026-06-26",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-26",
+  "related": [
+    {
+      "id": "card_c65348",
+      "slug": "memory-and-learning",
+      "type": "concept",
+      "title": "Memory and Learning",
+      "hook": "Every memory you hold is a pattern of connections between neurons — and learning is, quite literally, your brain rewiring itself to make those connections stronger.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7ae6c7#0",
+      "format": "flip",
+      "prompt": "In the study, what determined whether a child correctly recalled a given toy?",
+      "back_html": "\u003cp\u003eNot just that toy's own emotional charge — also the emotional charge of the toys shown\n\u003cstrong\u003eright before and after it\u003c/strong\u003e in the sequence. Memory for one item was tangled up with\nmemory for its neighbors.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7ae6c7#1",
+      "format": "quiz",
+      "prompt": "How did a new order-sensitive math model compare to standard memory models at predicting the children's recall?",
+      "choices": [
+        {
+          "text": "It fit far better, reaching much higher accuracy than the standard model",
+          "correct": true
+        },
+        {
+          "text": "Both models predicted the results equally well",
+          "correct": false
+        },
+        {
+          "text": "The standard model fit better because it ignored emotional valence entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eStandard psychological models confirmed order matters but predicted accuracy was low.\nA tensor-network model built to account for valence interactions reached about 78% accuracy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7ae6c7#2",
+      "format": "quiz",
+      "prompt": "What do the results suggest about how emotional memories are stored in the brain?",
+      "choices": [
+        {
+          "text": "They aren't stored independently — memory for nearby items interacts",
+          "correct": true
+        },
+        {
+          "text": "Emotional memories are stored in total isolation from one another",
+          "correct": false
+        },
+        {
+          "text": "Only the very last item shown is ever remembered",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause a toy's recall accuracy shifted with its neighbors' emotional charge, the memory\ntrace for one item appears entangled with the traces for items around it in the sequence.\u003c/p\u003e"
+    }
+  ]
+}

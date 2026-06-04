@@ -1,0 +1,101 @@
+{
+  "id": "card_70a274",
+  "slug": "rye-pollen-secalosides-cancer",
+  "type": "news",
+  "title": "A 30-Year Molecular Mystery, Solved by Building the Molecule From Scratch",
+  "hook": "Two rye pollen molecules showed promise against tumors decades ago, but no one could pin down their exact 3D shape — until chemists built them atom by atom in the lab.",
+  "key_points": [
+    "Two unusual compounds in rye pollen, secalosides A and B, showed tumor-slowing activity in animals when discovered nearly 30 years ago.",
+    "Their exact 3D molecular structure stayed unresolved because standard techniques couldn't distinguish between two possible mirror-image arrangements.",
+    "Chemists solved it through total synthesis — building the molecules from scratch, including an unusually strained 10-membered ring core.",
+    "With the confirmed structure in hand, researchers can now investigate exactly how the molecules interact with the immune system and which parts drive their cancer-fighting effects."
+  ],
+  "content_html": "\u003cp\u003eNearly 30 years ago, two unusual molecules pulled from rye pollen — secalosides A and B — showed a tantalizing ability to slow tumor growth in animals. Then the trail went cold: nobody could pin down their exact 3D shape.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe sticking point was structural ambiguity — the molecules could plausibly have either of two mirror-image arrangements, a distinction with real consequences for how they'd interact with biology. Chemists finally cracked it not by studying the natural molecule harder, but by building it themselves: using total synthesis, they assembled a larger, flexible ring first, then triggered a reaction that converted it into the rare, highly strained 10-membered ring at the molecule's core, matching it against the real compound to confirm which structure was correct. With that blueprint finally in hand, researchers can move to the next question — how the molecule interacts with the immune system, and exactly which part of it is doing the cancer-fighting work — the foundation any future drug based on it would need.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260625014838.htm",
+    "published_at": "2026-07-06",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "molecules-of-life",
+    "biotechnology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_280170",
+      "slug": "proteins-the-workhorses",
+      "type": "concept",
+      "title": "Proteins: The Cell's Workhorses",
+      "hook": "Strings of amino acids fold into intricate shapes that become almost every working machine in the cell — from enzymes to muscle.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ba0985",
+      "slug": "what-is-biotechnology",
+      "type": "concept",
+      "title": "What Is Biotechnology?",
+      "hook": "From cheese and beer to insulin and vaccines, biotechnology puts living things — or their molecular parts — to work making products we need.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_70a274#0",
+      "format": "flip",
+      "prompt": "Why did it take almost 30 years to pin down the structure of secalosides A and B?",
+      "back_html": "\u003cp\u003eStandard techniques couldn't distinguish between two possible \u003cstrong\u003emirror-image\u003c/strong\u003e\n3D arrangements of the molecules — a distinction that matters enormously for\nhow a molecule interacts with biology.\u003c/p\u003e"
+    },
+    {
+      "id": "card_70a274#1",
+      "format": "quiz",
+      "prompt": "How did chemists finally determine the molecules' true structure?",
+      "choices": [
+        {
+          "text": "By synthesizing the molecules from scratch in the lab, atom by atom (total synthesis)",
+          "correct": true
+        },
+        {
+          "text": "By sequencing the rye plant's genome",
+          "correct": false
+        },
+        {
+          "text": "By comparing them to a database of known cancer drugs",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTotal synthesis let researchers build the molecule step by step, including its\nrare, highly strained 10-membered ring core, resolving which 3D arrangement was\ncorrect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_70a274#2",
+      "format": "quiz",
+      "prompt": "Why does knowing the exact structure matter for cancer research?",
+      "choices": [
+        {
+          "text": "It lets researchers pinpoint which part of the molecule produces the cancer-fighting effect",
+          "correct": true
+        },
+        {
+          "text": "It proves the molecule cures cancer in humans",
+          "correct": false
+        },
+        {
+          "text": "It allows the molecule to be extracted more cheaply from rye plants",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith the confirmed 3D structure, scientists can now study exactly how the\nmolecule interacts with the immune system and isolate the active piece\nresponsible for its effect — the necessary next step before drug development.\u003c/p\u003e"
+    }
+  ]
+}

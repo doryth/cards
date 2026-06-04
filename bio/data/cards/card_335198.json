@@ -1,0 +1,101 @@
+{
+  "id": "card_335198",
+  "slug": "sulfoxaflor-pesticide-bumblebee-reproduction",
+  "type": "news",
+  "title": "A 'Safer' Pesticide May Be Quietly Sabotaging Bumblebee Reproduction",
+  "hook": "Sulfoxaflor was designed to spare bees while killing crop pests. Low doses of it are instead altering gene activity in bumblebee ovaries — with signs of fewer offspring to come.",
+  "key_points": [
+    "Sulfoxaflor is a next-generation insecticide introduced in 2013, targeting sap-feeding pests like aphids on crops such as soybeans and corn.",
+    "Even at low doses, sulfoxaflor exposure alters gene activity in bumblebees, with the largest changes appearing in ovarian tissue.",
+    "The changes point to interference with reproductive processes, and exposed bees show reduced offspring production.",
+    "About a third of the world's food production depends on pollinators, making pollinator-safe pest control a high-stakes balancing act."
+  ],
+  "content_html": "\u003cp\u003eSulfoxaflor was supposed to be the more pollinator-friendly answer to crop pests: a next-generation insecticide, introduced in 2013, aimed at sap-feeders like aphids while going easier on bees. New research suggests it isn't as gentle as intended.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEven at low doses, researchers found that sulfoxaflor exposure alters gene activity throughout bumblebees, with the largest changes concentrated in ovarian tissue — a strong signal of interference with reproductive processes. Exposed bees went on to produce fewer offspring, a slow-building effect that wouldn't show up as an obvious poisoning but could still erode colony numbers over time. As one researcher put it, if bees aren't producing enough offspring, pollination itself will decline — and with roughly a third of the world's food production depending on pollinators, the tension between controlling crop pests and protecting the insects that make much of our food possible remains far from solved.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260709160630.htm",
+    "published_at": "2026-07-10",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "ecology",
+    "animals"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_634f82",
+      "slug": "bumblebee-heavy-metal-accumulation",
+      "type": "news",
+      "title": "Bumblebees Soak Up Far More Toxic Metal Than Honeybees — Even in the Same Field",
+      "hook": "Foraging in identical patches of flowers, bumblebees pick up two to seven times more toxic heavy metals than honeybees. The gap comes down to biology and lifestyle, not location.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_6d3edb",
+      "slug": "bees-no-refuge-from-heat",
+      "type": "news",
+      "title": "Some Bees Have Nowhere to Hide From Heat",
+      "hook": "A big study of Australian native bees found that where a bee nests — in plant stems versus underground — may decide whether it survives a warming world.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-18"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_335198#0",
+      "format": "flip",
+      "prompt": "What did researchers find sulfoxaflor does to bumblebees at low doses?",
+      "back_html": "\u003cp\u003eIt alters \u003cstrong\u003egene activity\u003c/strong\u003e, especially in \u003cstrong\u003eovarian tissue\u003c/strong\u003e — pointing to\ninterference with reproduction — and exposed bees produce fewer offspring.\u003c/p\u003e"
+    },
+    {
+      "id": "card_335198#1",
+      "format": "quiz",
+      "prompt": "Why was sulfoxaflor designed and introduced in the first place?",
+      "choices": [
+        {
+          "text": "As a next-generation insecticide targeting sap-feeding crop pests like aphids, intended to be gentler on bees",
+          "correct": true
+        },
+        {
+          "text": "As a treatment to boost bee reproduction on farms",
+          "correct": false
+        },
+        {
+          "text": "As a replacement fertilizer for soybean and corn fields",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSulfoxaflor was introduced in 2013 to control sap-feeding pests on crops, with\nthe intent of being a safer option for pollinators than older pesticide classes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_335198#2",
+      "format": "quiz",
+      "prompt": "Why does reduced bumblebee reproduction from pesticide exposure matter beyond the bees themselves?",
+      "choices": [
+        {
+          "text": "About a third of the world's food production relies on pollinators like bumblebees",
+          "correct": true
+        },
+        {
+          "text": "Bumblebees are the only pollinator species that exist",
+          "correct": false
+        },
+        {
+          "text": "It only affects wild bumblebee populations, not agriculture",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause roughly a third of global food production depends on pollinators,\nanything that reduces bee reproduction and colony growth carries consequences\nwell beyond the insects themselves.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "card_4830ed",
+  "slug": "ai-scams",
+  "type": "concept",
+  "title": "AI Scams \u0026 Staying Safe",
+  "hook": "AI didn't invent scams — it just made them cheaper, faster, and far more convincing. The good news: the habits that beat them haven't changed.",
+  "key_points": [
+    "AI writes flawless phishing messages and clones voices from seconds of audio.",
+    "A panicked call in a loved one's voice is a known AI scam — verify first.",
+    "Urgency and secrecy are red flags, no matter how real the message sounds.",
+    "Hang up and call back on a known number; agree a family 'safe word'."
+  ],
+  "content_html": "\u003cp\u003eThe uncomfortable truth about AI and scams is that the technology supercharges what already worked. The clumsy phishing email full of typos? AI now writes it in flawless, personalized language. The fake \u0026quot;it's me, I'm in trouble\u0026quot; call? AI can clone a convincing version of someone's voice from just a few seconds of audio pulled off social media. Scams feel more real than ever because, on the surface, they are.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHere's the reassuring part: the \u003cem\u003edefenses\u003c/em\u003e haven't changed, because scams still rely on the same human triggers — \u003cstrong\u003eurgency\u003c/strong\u003e (\u0026quot;act now or else\u0026quot;) and \u003cstrong\u003esecrecy\u003c/strong\u003e (\u0026quot;don't tell anyone\u0026quot;). Those two pressures are the real red flags, no matter how polished or familiar the message sounds. A voice you recognize is no longer proof of anything, so the single most effective habit is to verify through a separate channel: hang up and call the person back on the number you already have. Agree on a family \u0026quot;safe word\u0026quot; for emergencies. Never share codes or passwords, and slow down — a legitimate request can always wait for you to check. The technology got smarter; staying safe is still mostly about not being rushed.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-scams"
+  ],
+  "tags": [
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_02b5d6",
+      "slug": "google-sues-ai-scam-network",
+      "type": "news",
+      "title": "Google Sues a Network That Used Its Own AI to Run Scams",
+      "hook": "Criminals used Google's Gemini to mass-produce scam websites and target hundreds of thousands of people. Now Google is suing them — a glimpse of how AI supercharges fraud, and the pushback.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-12"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4830ed#0",
+      "format": "quiz",
+      "prompt": "You get a panicked call in a family member's voice asking for money fast. What's the safest move?",
+      "choices": [
+        {
+          "text": "Hang up and call them back on their known number",
+          "correct": true
+        },
+        {
+          "text": "Send the money immediately since you recognize the voice",
+          "correct": false
+        },
+        {
+          "text": "Stay on the line and follow the caller's instructions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI can clone a voice from seconds of audio. The voice proves nothing —\nverify through a separate, trusted channel before acting.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4830ed#1",
+      "format": "flip",
+      "prompt": "What two signals flag a likely scam, AI-made or not?",
+      "back_html": "\u003cp\u003ePressure to act with \u003cstrong\u003eurgency\u003c/strong\u003e and to keep it \u003cstrong\u003esecret\u003c/strong\u003e. Legitimate\nrequests survive you slowing down and checking.\u003c/p\u003e"
+    }
+  ]
+}

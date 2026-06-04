@@ -1,0 +1,114 @@
+{
+  "id": "card_5f5078",
+  "slug": "synthetic-cell-grows-and-divides",
+  "type": "news",
+  "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
+  "hook": "Scientists assembled a cell entirely from non-living parts — and watched it grow and split in two, blurring the line between chemistry and life.",
+  "key_points": [
+    "Researchers built a synthetic cell from non-living molecular components, not by modifying an existing living cell.",
+    "The synthetic cell grew and divided — a combination of lifelike behaviors no earlier from-scratch cell had shown together.",
+    "It's a proof of concept that nonliving materials can be assembled into something that behaves like it's alive.",
+    "The result sharpens, rather than settles, the debate over exactly where the line between chemistry and life sits."
+  ],
+  "content_html": "\u003cp\u003eFor decades, building a living cell from scratch — not editing one, assembling one — has been a benchmark synthetic biology could point to but never quite reach. A team has now cleared a version of that bar: a cell built entirely from non-living molecular components that both grows and divides, as Quanta Magazine reports.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEarlier synthetic-cell projects managed pieces of the puzzle — a working membrane, a metabolism, a genome that could be read — but rarely growth and division together in one system built from the ground up. Combining them is significant because dividing is one of the clearest hallmarks of life: a cell that can't reliably copy and split itself isn't going far. The team frames the result as a proof of concept, not a finished synthetic organism — it doesn't settle whether their creation counts as \u0026quot;alive,\u0026quot; but it does show that the ingredients of life can be assembled into something that behaves like it, one lifelike capability at a time. Similar work on a synthetic cell has also been described as the basis for a new public-benefit corporation aiming to share the technology with other researchers.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Yasemin Saplakoglu"
+    ],
+    "url": "https://quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701",
+    "published_at": "2026-07-01",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "biotechnology",
+    "the-cell"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-06",
+  "date": "2026-07-01",
+  "related": [
+    {
+      "id": "card_a18add",
+      "slug": "synthetic-biology",
+      "type": "concept",
+      "title": "Synthetic Biology",
+      "hook": "If genetic engineering edits life's existing code, synthetic biology aims to engineer it from the ground up — designing new biological parts and even whole systems.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d14f9d",
+      "slug": "what-is-a-cell",
+      "type": "concept",
+      "title": "What Is a Cell?",
+      "hook": "Every living thing — from a bacterium to a blue whale — is built from cells, the smallest unit that can call itself alive.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_be717b",
+      "slug": "how-life-began",
+      "type": "concept",
+      "title": "How Life Began",
+      "hook": "Before the first living thing, there was only chemistry. Abiogenesis is the idea — and active research — into how plain molecules on early Earth crossed the line into life.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5f5078#0",
+      "format": "flip",
+      "prompt": "What makes this synthetic cell different from earlier attempts?",
+      "back_html": "\u003cp\u003eIt was built entirely from \u003cstrong\u003enon-living molecular parts\u003c/strong\u003e, yet it both \u003cstrong\u003egrew\nand divided\u003c/strong\u003e — the first from-scratch cell to combine those lifelike behaviors.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5f5078#1",
+      "format": "quiz",
+      "prompt": "What does this result demonstrate as a proof of concept?",
+      "choices": [
+        {
+          "text": "That nonliving materials can be assembled into something that behaves like it's alive",
+          "correct": true
+        },
+        {
+          "text": "That all existing cells are actually non-living",
+          "correct": false
+        },
+        {
+          "text": "That living cells can no longer divide",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe achievement shows it's possible to bring nonliving matter to a state that\ngrows and divides, without starting from an already-living cell.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5f5078#2",
+      "format": "quiz",
+      "prompt": "Which existing question does this discovery bear most directly on?",
+      "choices": [
+        {
+          "text": "Where the line between non-living chemistry and life actually sits",
+          "correct": true
+        },
+        {
+          "text": "How many chromosomes humans have",
+          "correct": false
+        },
+        {
+          "text": "Whether antibiotics work against viruses",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBy getting nonliving components to grow and divide, the work sharpens the\nlong-running debate over what should count as \u0026quot;alive.\u0026quot;\u003c/p\u003e"
+    }
+  ]
+}

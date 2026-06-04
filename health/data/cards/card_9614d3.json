@@ -1,0 +1,93 @@
+{
+  "id": "card_9614d3",
+  "slug": "ultrasound-patch-for-rem-sleep",
+  "type": "news",
+  "title": "A Wearable Patch That Nudges You Into REM Sleep",
+  "hook": "A wearable ultrasound patch got 28 people into REM sleep 43 minutes sooner and kept them there about 16 minutes longer — no drugs, no surgery.",
+  "key_points": [
+    "The device is a wearable patch delivering low-intensity ultrasound.",
+    "In 28 participants it shortened time to REM sleep by 43 minutes.",
+    "It extended REM by roughly 16 minutes.",
+    "Researchers also saw signs of improved stress regulation.",
+    "Brain circuits tied to emotion showed changes as well.",
+    "It's a small early study — 28 people is a pilot, not proof."
+  ],
+  "content_html": "\u003cp\u003eMost sleep interventions are behavioural or pharmacological. This one is a patch you wear.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, a wearable device delivering low-intensity ultrasound produced sizable changes in sleep architecture in a study of 28 participants: they reached REM sleep 43 minutes sooner and stayed in it about 16 minutes longer than without the device. Researchers also reported signs of better stress regulation and changes in brain circuits associated with emotion — consistent with REM's suspected role in processing emotional memory.\u003c/p\u003e\n\u003cp\u003eTwo things to hold in mind. The effect sizes are large enough to be genuinely interesting, and the sample is small enough that they might not survive a bigger trial; sleep studies are notoriously prone to shrinking when replicated. And a drug-free, surgery-free way to shift sleep stages would matter well beyond insomnia, given how tightly REM disruption tracks with depression, PTSD, and anxiety. That's the case for taking it seriously — and for waiting for the larger trials before buying anything.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260806050709.htm",
+    "published_at": "2026-08-07",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "sleep",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-07",
+  "related": [
+    {
+      "id": "card_366490",
+      "slug": "why-sleep-matters",
+      "type": "concept",
+      "title": "Why Sleep Matters",
+      "hook": "Sleep isn't downtime — it's when your brain consolidates memory and your body repairs itself. Skimp on it for long and the bill comes due in your health.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_34073f",
+      "slug": "building-better-sleep-habits",
+      "type": "concept",
+      "title": "Building Better Sleep Habits",
+      "hook": "Good sleep is mostly built in the hours before bed. A handful of simple habits — collectively called sleep hygiene — do more than any gadget.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f27ae3",
+      "slug": "deep-sleep-circuit-growth-hormone",
+      "type": "news",
+      "title": "The Brain Circuit That Ties Deep Sleep to Growth Hormone",
+      "hook": "Scientists mapped the brain circuit linking deep sleep to growth hormone — a feedback loop that helps explain why poor sleep hits muscle repair, fat metabolism, and brain function at once.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9614d3#0",
+      "format": "flip",
+      "prompt": "What did the ultrasound patch do to participants' REM sleep?",
+      "back_html": "\u003cp\u003eIt shortened the time to reach REM by 43 minutes and extended time spent in it\nby about 16 minutes — in a study of 28 people, without drugs or surgery.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9614d3#1",
+      "format": "quiz",
+      "prompt": "Why should this result be treated cautiously?",
+      "choices": [
+        {
+          "text": "It's a 28-person pilot study, far too small to establish real-world benefit",
+          "correct": true
+        },
+        {
+          "text": "Because REM sleep isn't important for health",
+          "correct": false
+        },
+        {
+          "text": "Because ultrasound cannot penetrate the skull at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe effect sizes are striking, but 28 participants is a pilot. Sleep research is\nespecially prone to small-study effects, so confirmation in larger trials is\nwhat would make this meaningful.\u003c/p\u003e"
+    }
+  ]
+}

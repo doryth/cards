@@ -1,0 +1,109 @@
+{
+  "id": "card_d401d7",
+  "slug": "roman-telescope-cleared-for-launch",
+  "type": "news",
+  "title": "NASA's Roman Telescope Is Cleared to Launch",
+  "hook": "Hubble sees deep; Roman is built to see wide. NASA has cleared its next flagship observatory for a late-August launch to map cosmic expansion across huge swathes of sky.",
+  "key_points": [
+    "NASA reports the Nancy Grace Roman Space Telescope has passed its final pre-launch review.",
+    "Liftoff is targeted for August 30 aboard a SpaceX Falcon Heavy.",
+    "Its science goals: cosmic expansion, the history of the universe, and distant exoplanets.",
+    "Roman's edge is survey speed — a very wide field of view at space-telescope sharpness.",
+    "Wide surveys are how you test dark energy: you need millions of galaxies, not a few deep stares."
+  ],
+  "content_html": "\u003cp\u003eNASA's Nancy Grace Roman Space Telescope has been cleared for final launch preparations, with\nliftoff targeted for August 30 aboard a SpaceX Falcon Heavy. It is the agency's next big\nastrophysics observatory, and its mission is to probe how the universe is expanding, how it got\nto look the way it does, and what distant planetary systems are made of.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eRoman's distinguishing feature isn't depth — it's width. Hubble and JWST are built to stare hard\nat small patches of sky; Roman is built to sweep across large ones at comparable sharpness. That\nmatters because the biggest open questions in cosmology are statistical. Whether dark energy is a\ntrue constant or something that evolves, and how dark matter is laid out across the cosmic web,\nare questions you answer by measuring the positions, shapes and distances of enormous numbers of\ngalaxies at once. The same wide, repeated imaging also catches brief microlensing flickers — the\ntell-tale brightening when one star drifts in front of another and a planet's gravity nudges the\nlight — which is how Roman is expected to add to the exoplanet census. Launch dates slip, so treat\nAugust 30 as a target rather than a promise.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260823094140.htm",
+    "published_at": "2026-08-24"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-24",
+  "date": "2026-08-24",
+  "related": [
+    {
+      "id": "card_1d07ca",
+      "slug": "is-dark-energy-evolving",
+      "type": "paper",
+      "title": "Is Dark Energy Changing Over Time?",
+      "hook": "For decades dark energy looked like a constant. New galaxy-survey data hints it may evolve — and that would shift even our measured value of the cosmic expansion rate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_402dc8",
+      "slug": "cosmic-acceleration-confirmed",
+      "type": "news",
+      "title": "Dark Energy Survives a Major Challenge",
+      "hook": "A bold claim said the universe's accelerating expansion was an illusion. Astronomers checked the math, found the mistakes — and cosmic acceleration came out as strong as ever.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d401d7#0",
+      "format": "quiz",
+      "prompt": "What capability sets Roman apart from Hubble?",
+      "choices": [
+        {
+          "text": "A far wider field of view, so it can survey large areas of sky quickly",
+          "correct": true
+        },
+        {
+          "text": "Much sharper images of single objects than any telescope before it",
+          "correct": false
+        },
+        {
+          "text": "The ability to observe from the ground as well as from orbit",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRoman is a survey instrument. Its advantage is breadth of sky per exposure, not a deeper stare\nat one target — which is what dark-energy cosmology needs.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d401d7#1",
+      "format": "flip",
+      "prompt": "Why does studying dark energy require a wide-field survey telescope?",
+      "back_html": "\u003cp\u003eDark energy is measured statistically — from how millions of galaxies are distributed and how\nfast they recede. That demands mapping huge areas of sky, not observing a handful of targets.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d401d7#2",
+      "format": "flip",
+      "prompt": "What are Roman's headline science targets?",
+      "back_html": "\u003cp\u003eCosmic expansion, the history of the universe, and distant exoplanets — one observatory aimed\nat both the largest scales and individual worlds.\u003c/p\u003e"
+    }
+  ]
+}

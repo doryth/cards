@@ -1,0 +1,118 @@
+{
+  "id": "card_853e23",
+  "slug": "starless-galaxy-cloud-9",
+  "type": "paper",
+  "title": "A Galaxy With No Stars At All?",
+  "hook": "Cloud-9 moves like a galaxy but shows no starlight. The deepest images yet — ten times deeper than before — still find nothing, strengthening the case for a galaxy made almost purely of dark matter.",
+  "key_points": [
+    "Cloud-9 is a candidate dark galaxy: a gas cloud that behaves as though it sits in a dark matter halo.",
+    "HiPERCAM on the Gran Telescopio Canarias reached surface brightness limits of 31.4 and 31.0 mag/arcsec-squared.",
+    "That is roughly ten times deeper than previous imaging of the same field.",
+    "No stellar emission appears in the central region, about 1.3 by 1.3 kiloparsecs across.",
+    "Assuming an old, metal-poor population, the total stellar mass is under 16,000 solar masses.",
+    "Integrated-light limits complement earlier star-count limits, using an independent method."
+  ],
+  "content_html": "\u003cp\u003eGalaxies are usually found by their light. That makes a \u0026quot;dark galaxy\u0026quot; — a cloud of gas held together by a dark matter halo that never lit up — both a natural prediction of structure formation and a nightmare to confirm. You cannot detect it; you can only fail to detect stars in it, ever more convincingly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIgnacio Trujillo and colleagues went after Cloud-9, the best-known candidate, with HiPERCAM on the 10.4-metre Gran Telescopio Canarias. Their images reach surface-brightness limits of 31.4 mag/arcsec-squared in g and 31.0 in r — roughly ten times deeper than previous work on the field — and find no stellar emission at all across the central arcminute, about 1.3 kiloparsecs on a side.\u003c/p\u003e\n\u003cp\u003eTranslated into mass, and assuming any stars present would be old and metal-poor, that means a stellar surface density no greater than about 0.01 solar masses per square parsec and a total stellar mass under 16,000 solar masses. The result matters partly because of the method: earlier limits came from counting individual resolved stars, while this one comes from integrated light. Two techniques with different failure modes now agree, which is how a candidate slowly turns into a confirmed one.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Ignacio Trujillo",
+      "Ignacio Ruiz Cejudo",
+      "Sergio Guerra Arencibia",
+      "Mireia Montes"
+    ],
+    "url": "https://arxiv.org/abs/2608.20911",
+    "published_at": "2026-08-21",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper",
+    "benchmark"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3dea3c",
+      "slug": "merging-clusters-probe-dark-matter",
+      "type": "paper",
+      "title": "Cluster Collisions as Dark Matter Labs",
+      "hook": "Smash two galaxy clusters together and the gas gets stuck while the dark matter sails through. How far it sails is a direct measurement of whether dark matter interacts with itself.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "card_b3f9f3",
+      "slug": "supermagnified-stars-dark-matter-clumps",
+      "type": "paper",
+      "title": "A Single Star, Magnified a Thousandfold, Maps Invisible Dark Matter",
+      "hook": "Gravity can magnify one ordinary star a thousandfold — and the flicker pattern as it drifts behind a galaxy cluster's lens encodes clues about dark matter clumps invisible any other way.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "card_07b52b",
+      "slug": "jwst-hidden-faint-stars-early-galaxies",
+      "type": "news",
+      "title": "Early Galaxies May Be Hiding Most of Their Mass in Faint Stars",
+      "hook": "JWST finds far more small, dim stars in massive early galaxies than expected — enough to make some of them three to four times heavier than we thought, and even harder to explain.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-22"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_853e23#0",
+      "format": "flip",
+      "prompt": "What would a starless galaxy be, and why does it matter?",
+      "back_html": "\u003cp\u003eA gas cloud sitting in its own \u003cstrong\u003edark matter halo\u003c/strong\u003e that never managed to form stars. It\nwould be a dark matter structure you can weigh without any starlight confusing the picture.\u003c/p\u003e"
+    },
+    {
+      "id": "card_853e23#1",
+      "format": "quiz",
+      "prompt": "Why is this non-detection stronger evidence than earlier searches?",
+      "choices": [
+        {
+          "text": "The images go about ten times deeper in surface brightness, and use integrated light rather than resolved star counts",
+          "correct": true
+        },
+        {
+          "text": "It used a space telescope instead of a ground-based one",
+          "correct": false
+        },
+        {
+          "text": "It measured the cloud's rotation rather than its brightness",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDepth plus an independent method: integrated light and resolved-star counts fail in\ndifferent ways, so agreement between them is more convincing than either alone.\u003c/p\u003e"
+    },
+    {
+      "id": "card_853e23#2",
+      "format": "flip",
+      "prompt": "What does a surface-brightness limit like 31 mag/arcsec-squared actually buy you?",
+      "back_html": "\u003cp\u003eIt converts into a cap on \u003cstrong\u003estellar mass\u003c/strong\u003e — here under about 16,000 solar masses for an\nold, metal-poor population. Fainter limit, tighter cap on hidden stars.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "card_146cc4",
+  "slug": "ai-and-accessibility",
+  "type": "concept",
+  "title": "AI \u0026 Accessibility",
+  "hook": "For people with disabilities, AI is often life-changing: apps that describe the world to blind users, caption speech for deaf users, or give a synthetic voice back to someone who lost theirs.",
+  "key_points": [
+    "Vision: AI describes scenes, reads text aloud, and identifies objects and faces.",
+    "Hearing: live captions and transcription make speech accessible in real time.",
+    "Speech \u0026 mobility: voice control and AI-generated voices restore communication.",
+    "A reminder that AI's impact isn't all risk — for many, it's genuine independence."
+  ],
+  "content_html": "\u003cp\u003eAmid all the warnings, it's worth pausing on a part of the AI story that's almost unambiguously good: assistive technology. For people with disabilities, the same underlying advances that power chatbots and image generators have produced tools that genuinely change daily life — not as gimmicks, but as independence. A blind or low-vision person can point a phone at their surroundings and hear them described in detail, have any printed text or label read aloud instantly, or get help identifying products, currency, and even friends' faces. What once required another person's help can now be self-served.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe same pattern repeats across other needs. For deaf and hard-of-hearing people, AI generates \u003cstrong\u003elive captions\u003c/strong\u003e and real-time transcription, making meetings, lectures, videos, and casual conversations accessible on the spot. For people with limited mobility, \u003cstrong\u003evoice control\u003c/strong\u003e turns spoken words into commands for phones, homes, and computers. And for those who've lost the ability to speak — through illness or injury — AI can generate a natural-sounding \u003cstrong\u003esynthetic voice\u003c/strong\u003e, sometimes recreated from old recordings of their own. Translation tools extend all of this across languages. None of this means the broader concerns about AI don't matter; they do. But a balanced picture has to include this: for a great many people, AI is not an abstract debate about the future — it's a tool that gives back a measure of independence today.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-accessibility"
+  ],
+  "tags": [
+    "foundational",
+    "speech"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2646c3",
+      "slug": "talking-with-your-voice",
+      "type": "concept",
+      "title": "Voice Assistants",
+      "hook": "Siri and Alexa could set a timer; the new voice AIs can hold a real conversation. Talking is becoming a normal way to use AI — handy, natural, and always a little bit listening.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cef5ae",
+      "slug": "breaking-language-barriers",
+      "type": "concept",
+      "title": "Breaking Language Barriers",
+      "hook": "AI translation has gone from comically bad to genuinely useful — text, speech, even live signs through your camera. Good enough to travel and connect; not yet good enough for the contract.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af34d5",
+      "slug": "ai-in-everyday-tools",
+      "type": "concept",
+      "title": "AI in Everyday Tools",
+      "hook": "You've used AI for years without calling it that — every time your phone unlocks with your face, your maps reroute around traffic, or your inbox filters spam.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_146cc4#0",
+      "format": "quiz",
+      "prompt": "How is AI used as assistive technology?",
+      "choices": [
+        {
+          "text": "Describing scenes for blind users, captioning speech for deaf users, and generating voices",
+          "correct": true
+        },
+        {
+          "text": "Only for entertainment and games",
+          "correct": false
+        },
+        {
+          "text": "It has no accessibility uses",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI powers real assistive tools — visual description, live captioning,\nvoice control, and synthetic voices — that expand independence for many people.\u003c/p\u003e"
+    },
+    {
+      "id": "card_146cc4#1",
+      "format": "flip",
+      "prompt": "Why is accessibility an important part of the AI story?",
+      "back_html": "\u003cp\u003eIt's a reminder that AI's impact isn't only risk and hype — for people with\ndisabilities, these tools can deliver real, everyday independence.\u003c/p\u003e"
+    }
+  ]
+}

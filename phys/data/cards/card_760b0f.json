@@ -1,0 +1,101 @@
+{
+  "id": "card_760b0f",
+  "slug": "the-expanding-universe",
+  "type": "concept",
+  "title": "The Expanding Universe",
+  "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+  "key_points": [
+    "Hubble found distant galaxies are receding, faster the farther away they are.",
+    "Space itself is stretching, carrying galaxies apart from one another.",
+    "Their light is stretched to longer, redder wavelengths — called redshift.",
+    "Running the expansion backward points to the Big Bang."
+  ],
+  "content_html": "\u003cp\u003eIn the 1920s Edwin Hubble noticed something startling: nearly every distant galaxy is moving away from us, and the more distant it is, the faster it goes. The natural reading isn't that we sit at the center of a cosmic stampede. Instead, space itself is expanding, and that expansion carries the galaxies apart from one another.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWe measure this through redshift. As light from a receding galaxy crosses the stretching space between us, its waves get stretched too, shifting toward the longer, redder end of the spectrum — and the bigger the shift, the faster the recession. Play the expansion in reverse and everything converges toward a hot, dense beginning, which is exactly what the Big Bang describes. Wikipedia explains how the expansion was discovered and what redshift reveals about it.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Expansion_of_the_universe",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_06b9c7",
+      "slug": "the-big-bang",
+      "type": "concept",
+      "title": "The Big Bang",
+      "hook": "About 13.8 billion years ago the universe began hot and dense and has been expanding ever since — but it wasn't an explosion into empty space. Space itself stretched.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_760b0f#0",
+      "format": "flip",
+      "prompt": "What did Edwin Hubble discover about distant galaxies?",
+      "back_html": "\u003cp\u003eThey are \u003cstrong\u003erushing away\u003c/strong\u003e from us, and the farther a galaxy is, the faster it\nrecedes — a sign the universe is expanding.\u003c/p\u003e"
+    },
+    {
+      "id": "card_760b0f#1",
+      "format": "quiz",
+      "prompt": "Why are galaxies moving apart?",
+      "choices": [
+        {
+          "text": "Space itself is stretching, carrying galaxies along with it",
+          "correct": true
+        },
+        {
+          "text": "Galaxies are flying through static, unchanging space",
+          "correct": false
+        },
+        {
+          "text": "They are being pushed by starlight",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGalaxies aren't speeding through space so much as being carried apart by the\nexpansion of space itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_760b0f#2",
+      "format": "quiz",
+      "prompt": "What is redshift?",
+      "choices": [
+        {
+          "text": "Light from receding galaxies stretched to longer, redder wavelengths",
+          "correct": true
+        },
+        {
+          "text": "Galaxies literally glowing red from heat",
+          "correct": false
+        },
+        {
+          "text": "A reddening caused by Earth's atmosphere",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAs space stretches, the light traveling through it stretches too, shifting\ntoward the red end of the spectrum.\u003c/p\u003e"
+    }
+  ]
+}

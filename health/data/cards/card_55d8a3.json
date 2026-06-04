@@ -1,0 +1,109 @@
+{
+  "id": "card_55d8a3",
+  "slug": "ai-predicts-vaccine-response",
+  "type": "news",
+  "title": "Your Immune System May Signal How Well a Vaccine Will Work",
+  "hook": "Analyzing antibody patterns in 4,000+ people, researchers found a state of 'immune readiness' that separated strong vaccine responders from weak ones — before the shot.",
+  "key_points": [
+    "Machine learning was applied to antibody patterns from more than 4,000 people.",
+    "The models found pre-vaccination signatures that distinguished strong from weak responders.",
+    "The signal came from baseline immune state, not from the vaccine itself.",
+    "Some healthy people responded poorly; some immunosuppressed people responded strongly.",
+    "That mismatch undercuts the assumption that health status alone predicts vaccine response.",
+    "Potential use: timing shots, choosing doses, or flagging who needs a booster."
+  ],
+  "content_html": "\u003cp\u003eTwo people get the same vaccine and end up with very different protection. Researchers looking at antibody patterns in more than 4,000 people report that some of that difference is legible \u003cem\u003ebefore\u003c/em\u003e the injection: machine-learning models picked out a baseline signature — the authors call it immune readiness — that separated strong responders from weak ones.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe most useful part of the finding is where it breaks the expected pattern. Clinicians reasonably assume that healthy people mount good responses and immunosuppressed people mount poor ones. In this data, some apparently healthy participants responded weakly, and some immunosuppressed participants responded strongly. If a measured signature beats a category label, that's an argument for measuring.\u003c/p\u003e\n\u003cp\u003eThe plausible payoff is personalization: deciding when to vaccinate someone, whether to adjust the dose, and who actually needs an additional booster instead of getting one on a schedule. None of that is clinical practice yet — this is a pattern-finding study reported via ScienceDaily, and predictive signatures often shrink when tested prospectively. For now the practical advice is unchanged: get the shots recommended for you, on schedule.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260820202842.htm",
+    "published_at": "2026-08-21",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "vaccines",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_d8a0ad",
+      "slug": "vaccines-adults-still-need",
+      "type": "concept",
+      "title": "Vaccines Adults Still Need",
+      "hook": "Vaccination isn't just a childhood checklist. Protection from some shots fades, new ones are recommended with age, and a few need regular boosters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_23816f",
+      "slug": "spermidine-vaccine-response",
+      "type": "news",
+      "title": "A Food Compound That May Boost Older Adults' Vaccines",
+      "hook": "Vaccines protect older adults less well because aging immune systems respond weakly. A small pilot found a compound from wheat germ, mushrooms, and aged cheese helped the weakest responders most.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "card_9bbd5f",
+      "slug": "flu-and-seasonal-shots",
+      "type": "concept",
+      "title": "Flu and Seasonal Shots",
+      "hook": "Some vaccines are a yearly habit, not a one-time event — because the viruses change, or immunity fades, and a fresh shot keeps protection current each season.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_71db63",
+      "slug": "ai-universal-coronavirus-vaccine",
+      "type": "news",
+      "title": "An AI-Designed 'Universal' Coronavirus Vaccine",
+      "hook": "A vaccine designed with AI to target a whole virus family — not one strain — passed its first human trial safely and triggered immunity against SARS-CoV-2, SARS, and pandemic-risk bat viruses.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_55d8a3#0",
+      "format": "flip",
+      "prompt": "What is 'immune readiness' in this study?",
+      "back_html": "\u003cp\u003eA pattern in someone's \u003cstrong\u003ebaseline antibody profile — before vaccination\u003c/strong\u003e — that\npredicted how strongly they'd respond to the shot.\u003c/p\u003e"
+    },
+    {
+      "id": "card_55d8a3#1",
+      "format": "quiz",
+      "prompt": "What was the surprising part of the results?",
+      "choices": [
+        {
+          "text": "Some healthy people responded weakly while some immunosuppressed people responded strongly",
+          "correct": true
+        },
+        {
+          "text": "Vaccine response was identical across everyone tested",
+          "correct": false
+        },
+        {
+          "text": "Only age predicted response",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResponse didn't track neatly with apparent health status — which is why a measurable\nimmune signature could be more useful than assumptions based on medical category.\u003c/p\u003e"
+    },
+    {
+      "id": "card_55d8a3#2",
+      "format": "flip",
+      "prompt": "What could this be used for if it holds up?",
+      "back_html": "\u003cp\u003ePersonalizing vaccination — \u003cstrong\u003etiming\u003c/strong\u003e a shot, adjusting \u003cstrong\u003edose\u003c/strong\u003e, or identifying\nwho genuinely needs an extra booster rather than guessing from health status.\u003c/p\u003e"
+    }
+  ]
+}

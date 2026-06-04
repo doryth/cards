@@ -1,0 +1,122 @@
+{
+  "id": "card_c00178",
+  "slug": "altermagnets-a-new-class-of-magnet",
+  "type": "news",
+  "title": "Altermagnets: A Third Kind of Magnet",
+  "hook": "For a century, magnets came in two flavors. A new class called altermagnets blends the best of both — and a flaw in a diamond could be the tool that finally spots them.",
+  "key_points": [
+    "Altermagnets are a newly recognized class of magnetic material, discovered only a few years ago.",
+    "They appear to combine the speed and efficiency of antiferromagnets with some useful electronic properties of ordinary magnets.",
+    "That mix makes them promising candidates for faster, more efficient next-generation electronics.",
+    "A proposed quantum-sensing method uses a defect in diamond as an exquisitely sensitive probe to identify them."
+  ],
+  "content_html": "\u003cp\u003eFor most of the history of magnetism, materials sorted into two camps. Ferromagnets are the familiar kind — the bar magnets and fridge magnets whose atomic \u0026quot;spins\u0026quot; line up to produce a magnetic field you can feel. Antiferromagnets have spins that alternate and cancel out, leaving no external field; they are fast and robust but harder to work with. Altermagnets, a class recognized only a few years ago, are a genuine third option.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to ScienceDaily, altermagnets appear to combine the speed and efficiency of antiferromagnets with some of the useful electronic properties of traditional magnets — a pairing that doesn't normally occur together, and one that makes them promising building blocks for faster, lower-power electronics. The catch is that their unusual nature also makes them hard to identify. The new work proposes a way around that using a tiny defect in diamond: such atomic flaws behave as exquisitely sensitive quantum sensors, and the researchers argue one could serve as a probe to pin down altermagnetism in candidate materials, helping turn a young idea into a practical technology.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260621060304.htm",
+    "published_at": "2026-06-23",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-25",
+  "date": "2026-06-23",
+  "related": [
+    {
+      "id": "card_673c6a",
+      "slug": "strain-switches-on-altermagnetism",
+      "type": "news",
+      "title": "Stretching a Film Switches On a New Kind of Magnetism",
+      "hook": "Ruthenium dioxide looks stubbornly nonmagnetic. Shave it down to a few atomic layers and stretch it, and its electrons start behaving like an altermagnet.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-27"
+    },
+    {
+      "id": "card_b123c0",
+      "slug": "semiconductors-and-transistors",
+      "type": "concept",
+      "title": "Semiconductors and the Transistor",
+      "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_07a017",
+      "slug": "metal-film-thickness-controls-electrons",
+      "type": "news",
+      "title": "A Few Atoms Thinner, a Whole New Metal",
+      "hook": "Shave a metal film by just a couple of nanometers and its electronic behavior can change dramatically — a surprising new dial for tuning materials.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-06"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c00178#0",
+      "format": "quiz",
+      "prompt": "What makes altermagnets appealing for next-generation electronics?",
+      "choices": [
+        {
+          "text": "They blend the speed and efficiency of antiferromagnets with useful electronic properties of ordinary magnets",
+          "correct": true
+        },
+        {
+          "text": "They are the only materials that can be magnetized at all",
+          "correct": false
+        },
+        {
+          "text": "They conduct electricity with zero resistance at room temperature",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAltermagnets are pitched as a best-of-both-worlds material — combining\ntraits of antiferromagnets and traditional magnets that don't usually\ncome together.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c00178#1",
+      "format": "flip",
+      "prompt": "What tool does the proposed technique use to detect altermagnets?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003edefect in diamond\u003c/strong\u003e — a tiny atomic flaw that acts as an extremely\nsensitive quantum sensor, making these hard-to-spot magnets easier to\nidentify.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c00178#2",
+      "format": "quiz",
+      "prompt": "How established are altermagnets as a class of material?",
+      "choices": [
+        {
+          "text": "They were recognized only a few years ago — a recent addition to physics",
+          "correct": true
+        },
+        {
+          "text": "They have been the standard magnet in industry for over a century",
+          "correct": false
+        },
+        {
+          "text": "They were predicted by Newton and confirmed in the 1800s",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAltermagnets are among physics' newest material classes, identified only\nrecently, which is part of why detecting them reliably is still a challenge.\u003c/p\u003e"
+    }
+  ]
+}

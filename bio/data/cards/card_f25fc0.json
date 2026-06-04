@@ -1,0 +1,109 @@
+{
+  "id": "card_f25fc0",
+  "slug": "vitamins-and-minerals",
+  "type": "concept",
+  "title": "Vitamins and Minerals",
+  "hook": "Needed in only tiny amounts, vitamins and minerals are the micronutrients that quietly run reactions your body can't manage without.",
+  "key_points": [
+    "Vitamins and minerals are micronutrients — needed in small amounts, but essential.",
+    "Vitamins are made by living things; minerals come from rocks, soil, and water.",
+    "They help enzymes work, build bone, carry oxygen, and protect cells.",
+    "A varied diet usually supplies all the micronutrients the body needs."
+  ],
+  "content_html": "\u003cp\u003eMost of what you eat is macronutrients — carbohydrates, proteins, and fats — needed in large quantities. Vitamins and minerals are different: the body requires only tiny amounts, which is why they're called micronutrients. But small does not mean optional. These nutrients keep essential reactions and structures working, and going short on them causes real disease.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs MedlinePlus explains, vitamins are organic compounds made by living things (like vitamin C in citrus or vitamin D from sunlight on skin), while minerals are inorganic elements that come from the earth — calcium, iron, potassium, and more — entering the food chain through soil and water. Each has a specific job: calcium builds bone, iron lets red blood cells carry oxygen, vitamin C helps repair tissue, and many vitamins act as helpers that enzymes need to function. For most people, eating a varied diet across the food groups supplies the full set without supplements.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/vitamins.html",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "nutrition-health"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ec190a",
+      "slug": "nutrition-and-diet",
+      "type": "concept",
+      "title": "Nutrition and Diet",
+      "hook": "Your body runs on food, but not all food does the same job — different food groups supply the fuel, building blocks, and protection your cells need.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_324518",
+      "slug": "bones-and-muscles",
+      "type": "concept",
+      "title": "Bones and Muscles",
+      "hook": "Your skeleton is the frame and your muscles are the engines — together they let you stand, move, and protect the soft organs inside you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1ffae",
+      "slug": "diet-and-disease",
+      "type": "concept",
+      "title": "Diet and Disease",
+      "hook": "What you eat over years quietly shapes your odds of heart disease, type 2 diabetes, and more — diet is one of the strongest levers on long-term health.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f25fc0#0",
+      "format": "flip",
+      "prompt": "Why are vitamins and minerals called micronutrients?",
+      "back_html": "\u003cp\u003eBecause the body needs them in only \u003cstrong\u003esmall amounts\u003c/strong\u003e — yet they are essential,\nenabling reactions and structures the body can't build or run without them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f25fc0#1",
+      "format": "quiz",
+      "prompt": "What is a key difference between vitamins and minerals?",
+      "choices": [
+        {
+          "text": "Vitamins are made by living things; minerals come from rocks, soil, and water",
+          "correct": true
+        },
+        {
+          "text": "Vitamins are needed in huge amounts; minerals are not needed at all",
+          "correct": false
+        },
+        {
+          "text": "Minerals are only found in vitamins",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVitamins are organic compounds produced by plants and animals, while minerals\nare inorganic elements that enter the food chain from the earth and water.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f25fc0#2",
+      "format": "quiz",
+      "prompt": "Which job does the mineral iron perform in the body?",
+      "choices": [
+        {
+          "text": "Helping red blood cells carry oxygen",
+          "correct": true
+        },
+        {
+          "text": "Hardening tooth enamel by itself",
+          "correct": false
+        },
+        {
+          "text": "Replacing the need for protein",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIron is a core part of hemoglobin, the molecule in red blood cells that binds\nand transports oxygen. Too little iron causes anemia.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "card_ad2266",
+  "slug": "ghz-gravitational-wave-detector",
+  "type": "paper",
+  "title": "A Sapphire Cube Built to Hear the Big Bang's Echo",
+  "hook": "Cosmic reheating right after the Big Bang should have produced gravitational waves at frequencies no detector has ever reached — a new proposal aims a sapphire cube of sensors right at that band.",
+  "key_points": [
+    "Cosmic 'reheating' after the Big Bang should have produced GWs peaked near a few GHz.",
+    "No detector reaches GHz today — the best top out at MHz, where the signal is tiny.",
+    "The same GHz band could carry the merger 'chirp' of light primordial black holes (PBHs).",
+    "Finding such a PBH merger would be strong evidence PBHs make up part of dark matter.",
+    "Proposed design: ~1,000 ultra-pure sapphire cubes read out by single-phonon sensors.",
+    "Splitting the detector into many cubes helps reject noise via coincidence checks."
+  ],
+  "content_html": "\u003cp\u003eCosmic inflation was followed by a violent \u0026quot;reheating\u0026quot; phase that, according to theory, should have rung the universe like a bell — producing gravitational waves peaked at frequencies around a few gigahertz. That band has never been probed: the best existing GHz-capable experiments, which rely on strong magnetic fields, only reach the megahertz range, where the predicted signal strain is a minuscule 10⁻³⁰. A new arXiv paper by Juan Garcia-Bellido proposes a solid-state detector purpose-built to listen in this untouched window.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe design: roughly 1,000 ultra-pure sapphire cubes, each 10 centimeters on a side, wired with cryogenic sensors sensitive to a single quantum of vibration — a single phonon. Splitting the detector into many small cubes helps isolate heat and reject noise, since a genuine signal should register in several cubes at once. The same GHz window could also carry the merger \u0026quot;chirp\u0026quot; of light primordial black holes — leftover black holes from the early universe, small enough that catching one merging would be strong evidence they make up part of dark matter. The paper argues the same array could hunt for both signals at once: a steady cosmic hum via slow, patient listening, and a one-off chirp via a fast, wide-band search.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Juan Garcia-Bellido"
+    ],
+    "url": "https://arxiv.org/abs/2607.13741",
+    "published_at": "2026-07-15",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-15",
+  "related": [
+    {
+      "id": "card_321661",
+      "slug": "gravitational-waves-via-laser-spectroscopy",
+      "type": "paper",
+      "title": "Hunting Gravitational Waves Without a LIGO-Style Detector",
+      "hook": "LIGO can't see gravitational waves above a few kHz. Physicists just used precision laser spectroscopy instead, setting the first-ever limits across a huge, previously unexplored frequency range.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_3c0997",
+      "slug": "ligo-signal-primordial-black-holes-dark-matter",
+      "type": "news",
+      "title": "Could This Odd LIGO Signal Be the Missing Dark Matter?",
+      "hook": "An unusual gravitational-wave signal has revived a long-shot idea: that primordial black holes born moments after the Big Bang could be the universe's missing dark matter.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ad2266#0",
+      "format": "flip",
+      "prompt": "What gravitational-wave signal is this detector designed to catch?",
+      "back_html": "\u003cp\u003eTwo things in the same GHz band: the Big Bang's reheating-era gravitational-wave\nbackground, and the merger chirp of light primordial black holes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ad2266#1",
+      "format": "quiz",
+      "prompt": "Why hasn't the GHz gravitational-wave band been explored before?",
+      "choices": [
+        {
+          "text": "Existing magnetic-field detectors only reach MHz, and the predicted GHz signal is extremely faint",
+          "correct": true
+        },
+        {
+          "text": "Gravitational waves cannot physically exist at GHz frequencies",
+          "correct": false
+        },
+        {
+          "text": "GHz waves are blocked entirely by Earth's atmosphere",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eToday's best GHz-capable experiments use strong magnetic fields but only reach MHz;\nthe expected GHz strain is about 10⁻³⁰.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ad2266#2",
+      "format": "quiz",
+      "prompt": "What would detecting a light primordial black hole merger in this band prove?",
+      "choices": [
+        {
+          "text": "Strong evidence that primordial black holes make up part of dark matter",
+          "correct": true
+        },
+        {
+          "text": "That black holes can only form from dying stars",
+          "correct": false
+        },
+        {
+          "text": "That gravitational waves travel faster than light",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe paper notes light PBHs are necessarily sub-solar-mass, so finding one merging\nwould be strong evidence PBHs are a dark matter component.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ad2266#3",
+      "format": "flip",
+      "prompt": "What does the proposed detector actually look like?",
+      "back_html": "\u003cp\u003eAbout 1,000 ultra-pure sapphire cubes (10 cm each) forming a cubic-metre detector,\nread out by cryogenic single-phonon sensors.\u003c/p\u003e"
+    }
+  ]
+}

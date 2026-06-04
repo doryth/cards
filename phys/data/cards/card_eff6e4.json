@@ -1,0 +1,91 @@
+{
+  "id": "card_eff6e4",
+  "slug": "heat-vs-temperature",
+  "type": "concept",
+  "title": "Heat vs. Temperature",
+  "hook": "A sparkler can hit thousands of degrees yet barely burn you — because temperature and heat are not the same thing.",
+  "key_points": [
+    "Temperature measures the average kinetic energy of particles in a substance.",
+    "Heat is the total thermal energy that flows from a hotter object to a cooler one.",
+    "A small spark can be very hot yet carry little heat because it has so few particles.",
+    "Heat always flows from high temperature to low until both reach the same temperature."
+  ],
+  "content_html": "\u003cp\u003eIt's easy to treat \u0026quot;hot\u0026quot; and \u0026quot;lots of heat\u0026quot; as the same, but physics separates them. Temperature measures the average kinetic energy of the particles in a substance — how fast they jiggle on average. Heat is the total thermal energy that moves from one object to another because of a temperature difference.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe distinction explains a famous puzzle: a firework sparkler can reach thousands of degrees, yet touching one of its sparks usually doesn't hurt. Each spark is genuinely at high temperature, but it contains so few particles that the total heat it can transfer to your skin is tiny. By contrast, a pot of warm water at a far lower temperature holds enormous total heat. Whenever two objects touch, heat flows from the hotter to the cooler one until they reach a common temperature — never the other way on its own. Britannica details how heat, temperature, and thermal energy relate.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/heat",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "heat-thermo"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_eff6e4#0",
+      "format": "flip",
+      "prompt": "How do temperature and heat differ?",
+      "back_html": "\u003cp\u003eTemperature is the \u003cstrong\u003eaverage\u003c/strong\u003e kinetic energy of particles; heat is the\n\u003cstrong\u003etotal\u003c/strong\u003e thermal energy that flows between objects at different temperatures.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eff6e4#1",
+      "format": "quiz",
+      "prompt": "Why can a very hot spark land on your skin without badly burning you?",
+      "choices": [
+        {
+          "text": "It is high-temperature but carries very little total heat",
+          "correct": true
+        },
+        {
+          "text": "Sparks are actually cold despite looking hot",
+          "correct": false
+        },
+        {
+          "text": "Skin reflects all heat from sparks",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA spark has few particles, so even at high temperature it transfers only a\ntiny amount of heat to you.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eff6e4#2",
+      "format": "quiz",
+      "prompt": "Which way does heat flow on its own?",
+      "choices": [
+        {
+          "text": "From the hotter object to the cooler one",
+          "correct": true
+        },
+        {
+          "text": "From the cooler object to the hotter one",
+          "correct": false
+        },
+        {
+          "text": "Equally in both directions at all times",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHeat spontaneously flows from high temperature to low until the two reach\nthe same temperature.\u003c/p\u003e"
+    }
+  ]
+}

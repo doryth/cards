@@ -1,0 +1,2912 @@
+{
+  "version": "2026-07-16.4100cd5f",
+  "lanes": [
+    {
+      "topic": "the-cell",
+      "title": "The Cell",
+      "order": 10,
+      "related": [
+        "molecules-of-life",
+        "dna-genetics"
+      ],
+      "cards": [
+        {
+          "id": "card_574828",
+          "slug": "cell-organelles",
+          "type": "concept",
+          "title": "The Cell's Tiny Organs",
+          "hook": "Inside a single cell sits a whole working city — a control room, power plants, factories, and shipping lanes, each a structure called an organelle.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_d14f9d",
+          "slug": "what-is-a-cell",
+          "type": "concept",
+          "title": "What Is a Cell?",
+          "hook": "Every living thing — from a bacterium to a blue whale — is built from cells, the smallest unit that can call itself alive.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_d56522",
+          "slug": "prokaryote-vs-eukaryote",
+          "type": "concept",
+          "title": "Two Kinds of Cells",
+          "hook": "All cells fall into two camps: simple prokaryotes with no nucleus, and complex eukaryotes that pack their DNA into a sealed control room.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_40e9dd",
+          "slug": "hair-growth-pulling-motor",
+          "type": "news",
+          "title": "Textbooks Say Hair Is Pushed Out. New Imaging Says It's Pulled Up.",
+          "hook": "The standard model of hair growth has cells at the follicle's base dividing and pushing the shaft upward, conveyor-belt style. Live 3D imaging reveals a hidden cellular 'motor' pulling it instead.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-07"
+        },
+        {
+          "id": "card_5f5078",
+          "slug": "synthetic-cell-grows-and-divides",
+          "type": "news",
+          "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
+          "hook": "Scientists assembled a cell entirely from non-living parts — and watched it grow and split in two, blurring the line between chemistry and life.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-01"
+        },
+        {
+          "id": "card_692cb3",
+          "slug": "mitotic-spindle-self-repair",
+          "type": "blog",
+          "title": "What Breaks a Cell's Ribs Can Make It Stronger",
+          "hook": "The mitotic spindle has to yank chromosomes apart with real physical force, over and over, without failing — a new study shows it does this by getting stronger exactly where it's stressed.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-29"
+        },
+        {
+          "id": "card_bae407",
+          "slug": "cell-division-mitosis",
+          "type": "concept",
+          "title": "Mitosis: One Cell Becomes Two",
+          "hook": "Right now, millions of your cells are copying their DNA and splitting in two — the everyday process that lets you grow, heal, and replace worn-out cells.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_14dba3",
+          "slug": "cell-membrane-and-transport",
+          "type": "concept",
+          "title": "The Cell Membrane: Gatekeeper of the Cell",
+          "hook": "A flexible, oily film just two molecules thick decides what enters and leaves every cell — and it pulls off some of that traffic for free.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_20ed50",
+          "slug": "cancer-when-cells-divide-wrong",
+          "type": "concept",
+          "title": "Cancer: When Cells Divide Wrong",
+          "hook": "Cancer is cell division gone unchecked — a cell ignores the body's stop signals, multiplies relentlessly, and crowds out healthy tissue.",
+          "importance": 5,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_f0fbb5",
+          "slug": "stem-cells",
+          "type": "concept",
+          "title": "Stem Cells: The Body's Blank Slates",
+          "hook": "Some cells haven't decided what to be yet — they can become muscle, nerve, or blood, and that flexibility makes them a frontier of medicine.",
+          "importance": 4,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "topic": "molecules-of-life",
+      "title": "Molecules of Life",
+      "order": 11,
+      "related": [
+        "the-cell",
+        "energy-in-life"
+      ],
+      "cards": [
+        {
+          "id": "card_56a3a0",
+          "slug": "the-molecules-of-life",
+          "type": "concept",
+          "title": "The Molecules of Life",
+          "hook": "Almost everything in a living cell is built from just four families of large molecules — carbohydrates, lipids, proteins, and nucleic acids.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_53fd95",
+          "slug": "water-and-life",
+          "type": "concept",
+          "title": "Water and Life",
+          "hook": "Life is built around a single small molecule — water. Its odd properties make it the stage on which almost all of biology happens.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_99197a",
+          "slug": "nucleic-acids-dna-and-rna",
+          "type": "concept",
+          "title": "Nucleic Acids: DNA and RNA",
+          "hook": "DNA and RNA are the cell's information molecules — long chains of nucleotides that store the instructions for building and running every living thing.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_280170",
+          "slug": "proteins-the-workhorses",
+          "type": "concept",
+          "title": "Proteins: The Cell's Workhorses",
+          "hook": "Strings of amino acids fold into intricate shapes that become almost every working machine in the cell — from enzymes to muscle.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_f45650",
+          "slug": "resurrected-ancient-nitrogenase",
+          "type": "news",
+          "title": "Scientists Resurrected a 3.2-Billion-Year-Old Enzyme",
+          "hook": "Instead of reading rocks and fossils, researchers rebuilt an ancient version of the enzyme that makes nitrogen usable for life — and brought it back to work in the lab.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-07"
+        },
+        {
+          "id": "card_1e9398",
+          "slug": "acids-bases-and-ph",
+          "type": "concept",
+          "title": "Acids, Bases, and pH",
+          "hook": "The pH scale measures how acidic or basic a solution is — and living cells must keep it within a narrow range to survive.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_c81364",
+          "slug": "carbohydrates-and-fats",
+          "type": "concept",
+          "title": "Carbohydrates and Fats: Fuel and Storage",
+          "hook": "Sugars give cells quick energy; fats pack energy away for the long haul. Two molecule families, two strategies for powering life.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_70a274",
+          "slug": "rye-pollen-secalosides-cancer",
+          "type": "news",
+          "title": "A 30-Year Molecular Mystery, Solved by Building the Molecule From Scratch",
+          "hook": "Two rye pollen molecules showed promise against tumors decades ago, but no one could pin down their exact 3D shape — until chemists built them atom by atom in the lab.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-06"
+        }
+      ]
+    },
+    {
+      "topic": "dna-genetics",
+      "title": "DNA \u0026 Genetics",
+      "order": 12,
+      "related": [
+        "the-cell",
+        "evolution"
+      ],
+      "cards": [
+        {
+          "id": "card_1bc8aa",
+          "slug": "what-is-dna",
+          "type": "concept",
+          "title": "What Is DNA?",
+          "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_dec393",
+          "slug": "mendelian-inheritance",
+          "type": "concept",
+          "title": "Mendelian Inheritance",
+          "hook": "A 19th-century monk breeding pea plants worked out the hidden rules of heredity — why a trait can skip a generation and reappear in your grandchild.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_88ba5a",
+          "slug": "from-dna-to-protein",
+          "type": "concept",
+          "title": "From DNA to Protein: The Central Dogma",
+          "hook": "Your DNA is a recipe book locked in the nucleus — so the cell copies a single recipe to RNA, carries it out, and reads it to build a protein.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_32fc26",
+          "slug": "codeine-cyp2d6-metabolism",
+          "type": "concept",
+          "title": "The Same Painkiller Dose Can Do Nothing — Or Cause an Overdose",
+          "hook": "Codeine only relieves pain after your liver converts it into morphine. One gene decides whether that conversion barely happens, or happens so fast it can be fatal.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "card_c24d8c",
+          "slug": "her2-erbb2-targeted-therapy",
+          "type": "concept",
+          "title": "The Gene Test That Decides Which Breast Cancer Drug You Get",
+          "hook": "One in five breast cancers is driven by an overactive gene called ERBB2 (HER2) — and a genetic test of the tumor, not the patient, now decides whether a targeted antibody drug will work.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "card_26b71f",
+          "slug": "affinage-llm-gene-annotation",
+          "type": "news",
+          "title": "An AI Pipeline Just Annotated Nearly Every Human Gene",
+          "hook": "For thousands of human genes, the official record of what they actually do was empty or a stub. An AI that reads the primary literature just filled in the gaps for 19,293 of them.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-02"
+        },
+        {
+          "id": "card_fda1b0",
+          "slug": "genome-not-a-blueprint",
+          "type": "blog",
+          "title": "The Genome Isn't a Blueprint",
+          "hook": "We love to call DNA the 'code of life,' but a Quanta essay argues the genome is a tangled, 3D physical object — and that messiness may trip up the AI now trying to read it.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-18"
+        },
+        {
+          "id": "card_ca37f9",
+          "slug": "genetics-and-drug-approval",
+          "type": "paper",
+          "title": "Why Drug Hunters Start With Genetics",
+          "hook": "Across 26,000+ drug programs, targets backed by human genetic evidence were about three times likelier to win approval — but genetics alone still can't pick a winner.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-12"
+        },
+        {
+          "id": "card_ec1fac",
+          "slug": "epigenetic-inheritance",
+          "type": "news",
+          "title": "Inheritance That Breaks Mendel's Rules",
+          "hook": "Mendel said you inherit a clean copy of each gene from each parent. A mouse study reports traits passed down by chemical DNA marks that break those rules.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-01"
+        },
+        {
+          "id": "card_5feff4",
+          "slug": "blood-types-and-inheritance",
+          "type": "concept",
+          "title": "Blood Types and Inheritance",
+          "hook": "Your ABO blood type is a real, everyday example of inherited alleles — three gene versions combining to make four possible types.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_a0b243",
+          "slug": "chromosomes-and-meiosis",
+          "type": "concept",
+          "title": "Chromosomes and Meiosis",
+          "hook": "Your DNA is packed into 46 bundles called chromosomes — and a special kind of cell division halves that number so sperm and egg can combine without doubling up.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_82d3b1",
+          "slug": "genes-and-traits",
+          "type": "concept",
+          "title": "How Genes Become Traits",
+          "hook": "You inherit two copies of every gene — one from each parent — and the way those copies interact helps decide everything from eye color to blood type.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_cb9097",
+          "slug": "gmos-and-genetic-engineering",
+          "type": "concept",
+          "title": "GMOs and Genetic Engineering",
+          "hook": "By deliberately rewriting an organism's DNA, scientists can make bacteria brew human insulin or crops resist pests — traits nature never handed them.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_80bbc5",
+          "slug": "mutations",
+          "type": "concept",
+          "title": "Mutations: When DNA Changes",
+          "hook": "Every time a cell copies its DNA, tiny typos can slip in — most do nothing at all, a few cause disease, and rare ones fuel evolution.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_8167ad",
+          "slug": "melodic-molecular-evolution",
+          "type": "paper",
+          "title": "What 40,000 Irish Tunes Reveal About How Evolution Works",
+          "hook": "A new method aligns folk melodies the way biologists align proteins — and finds that music evolves under strikingly different rules than genes do.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_e37437",
+          "slug": "abacavir-hla-hypersensitivity",
+          "type": "concept",
+          "title": "The Gene Test That Prevents a Deadly Drug Reaction",
+          "hook": "One HIV drug can trigger a severe, sometimes fatal allergic reaction — but only in people carrying one specific immune gene variant. A simple DNA test now screens it out before treatment starts.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "card_901df7",
+          "slug": "transposon-clocks-strawberry-genome",
+          "type": "news",
+          "title": "DNA Time Stamps Trace the Strawberry's Origins",
+          "hook": "Jumping bits of DNA leave traces that pile up over time. Researchers read them like time stamps to show the strawberry's genome was built by merging several ancient genomes.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-19"
+        },
+        {
+          "id": "card_817bf0",
+          "slug": "warfarin-pharmacogenomics",
+          "type": "concept",
+          "title": "Why One Drug Dose Doesn't Fit All",
+          "hook": "The blood thinner warfarin can need up to a 20-fold different dose from person to person — and about half of that swing is written into two of your genes.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-16"
+        },
+        {
+          "id": "card_9fc450",
+          "slug": "crispr-gene-editing",
+          "type": "concept",
+          "title": "CRISPR: Molecular Scissors for DNA",
+          "hook": "Borrowed from a bacterial immune system, CRISPR lets scientists find a precise spot in the genome and cut it — turning gene editing into something almost routine.",
+          "importance": 4,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_3c048e",
+          "slug": "epigenetics",
+          "type": "concept",
+          "title": "Epigenetics: Switching Genes On and Off",
+          "hook": "Two cells can carry identical DNA yet behave completely differently — because chemical tags decide which genes are switched on, without touching the code itself.",
+          "importance": 3,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_280f4b",
+          "slug": "crispr-shreds-cancer-cells",
+          "type": "news",
+          "title": "CRISPR That Shreds Cancer Cells From the Inside",
+          "hook": "A new CRISPR enzyme reads a cell for a cancer's tell-tale mutation, then chops up all the DNA inside only those cells — a way to attack 'undruggable' tumors.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-12"
+        }
+      ]
+    },
+    {
+      "topic": "microbiology",
+      "title": "Microbiology",
+      "order": 13,
+      "related": [
+        "the-cell",
+        "immune-system"
+      ],
+      "cards": [
+        {
+          "id": "card_d56522",
+          "slug": "prokaryote-vs-eukaryote",
+          "type": "concept",
+          "title": "Two Kinds of Cells",
+          "hook": "All cells fall into two camps: simple prokaryotes with no nucleus, and complex eukaryotes that pack their DNA into a sealed control room.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_90eb50",
+          "slug": "what-are-bacteria",
+          "type": "concept",
+          "title": "What Are Bacteria?",
+          "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_36ca73",
+          "slug": "cyclospora-parasite-outbreak",
+          "type": "news",
+          "title": "A Foodborne Parasite Outbreak Has Grown to Thousands of Cases",
+          "hook": "A microscopic parasite that spreads through contaminated produce has now reached 1,645 confirmed cases across the U.S. — with over 5,100 more pending and the source still unconfirmed.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-09"
+        },
+        {
+          "id": "card_e44f1a",
+          "slug": "fish-gut-microbes-and-the-ocean",
+          "type": "news",
+          "title": "The Microbes in Fish That Help Shape the Ocean",
+          "hook": "The chalky mineral fish release into the sea helps store carbon — and it turns out the fish don't make it alone. Bacteria in their guts are partners in the process.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-05-31"
+        },
+        {
+          "id": "card_f3ef92",
+          "slug": "what-are-fungi",
+          "type": "concept",
+          "title": "What Are Fungi?",
+          "hook": "Mushrooms, molds, and yeast belong to their own kingdom — not plants, not animals — and they make their living by digesting the world around them.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_3815e1",
+          "slug": "what-are-protists",
+          "type": "concept",
+          "title": "What Are Protists?",
+          "hook": "Amoebas, pond algae, and the wriggling paramecium all land in one messy group — protists, biology's catch-all for eukaryotes that aren't plants, animals, or fungi.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_b02aab",
+          "slug": "antibiotics-and-resistance",
+          "type": "concept",
+          "title": "Antibiotics and Resistance",
+          "hook": "Antibiotics are among medicine's greatest tools — but every time we use one, the surviving bacteria get a chance to learn how to beat it.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_0bb90d",
+          "slug": "frog-immunity-chytrid-fungus-survivors",
+          "type": "news",
+          "title": "Scientists Solved Why Some Frogs Survive a Fungus That's Wiped Out Amphibians Worldwide",
+          "hook": "A fungus has driven amphibian populations to collapse across the globe — but some frogs bounce back, and researchers just found out how.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_d3aef9",
+          "slug": "soil-warming-experiment-hidden-carbon",
+          "type": "news",
+          "title": "A 37-Year Soil Experiment Revealed a Hidden Climate Threat",
+          "hook": "The world's longest-running soil warming experiment just found that warming can unlock carbon scientists thought was safely locked away underground.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_16a3ee",
+          "slug": "ebola-outbreak-drc-therapy-trial",
+          "type": "news",
+          "title": "A Clinical Trial Races to Find an Ebola Treatment Mid-Outbreak",
+          "hook": "The Bundibugyo Ebola outbreak in the DRC has surged past 2,000 cases and 750 deaths — and 80% of new infections can't be traced to a known source, even as health workers strike over unpaid wages.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "card_d7cfdb",
+          "slug": "marburg-outbreak-uganda",
+          "type": "news",
+          "title": "A Second Deadly Virus Surfaces in Uganda's Ebola Zone",
+          "hook": "Uganda has confirmed Marburg virus cases in the same western region already fighting one of the largest Ebola outbreaks on record — two close viral relatives, at once, in one place.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-30"
+        },
+        {
+          "id": "card_61ffd8",
+          "slug": "bat-virus-spillover-mutation",
+          "type": "news",
+          "title": "How One Mutation Can Turn a Bat Virus Into a Human Threat",
+          "hook": "A single amino-acid change can flip how a coronavirus behaves across species — whether the immune system fights back or gets suppressed. A clue to how animal viruses leap to people.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "card_0b4740",
+          "slug": "h5n1-bird-flu-in-cows",
+          "type": "news",
+          "title": "Why Bird Flu Hid in Cows' Udders",
+          "hook": "Bird flu hit dairy cows in a strange way — striking udders, not lungs. The reason: the receptors H5N1 latches onto are concentrated in mammary tissue, a clue to how it jumps and spreads.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "card_b06fb7",
+          "slug": "the-human-microbiome",
+          "type": "concept",
+          "title": "The Human Microbiome",
+          "hook": "You're never alone: trillions of bacteria, fungi, and other microbes live in and on your body, and most of them are working in your favor.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_8510f0",
+          "slug": "viruses-living-or-not",
+          "type": "concept",
+          "title": "Are Viruses Alive?",
+          "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_2c3037",
+          "slug": "what-are-archaea",
+          "type": "concept",
+          "title": "What Are Archaea?",
+          "hook": "Archaea are the third domain of life — single-celled microbes that look like bacteria but are genetically a world apart, and many thrive in extreme places.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_a33ba0",
+          "slug": "bacterial-docking-domains-cancer-drugs",
+          "type": "news",
+          "title": "Bacteria Have a Natural 'Mix and Match' Trick for Making Cancer Drugs",
+          "hook": "A soil bacterium naturally makes several related anti-cancer drugs, using molecular 'docking domains' that work like an assembly line with swappable parts.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-08"
+        },
+        {
+          "id": "card_4b4a65",
+          "slug": "sea-anemone-antiviral-defense",
+          "type": "news",
+          "title": "Sea Anemones Fight Viruses With a Defense Humans Don't Have",
+          "hook": "Sea anemones turn out to have their own antiviral system that works nothing like ours — a sign that evolution found more than one way to fight off viruses.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-30"
+        },
+        {
+          "id": "card_bc7544",
+          "slug": "soil-microbes-rescue-salty-farmland",
+          "type": "news",
+          "title": "The Soil Bacteria That Help Crops Shrug Off Salt",
+          "hook": "Salty farmland usually ruins crops — but researchers found soil bacteria that help plants cope, not by blocking salt, but by making their roots physically tougher.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-28"
+        },
+        {
+          "id": "card_13a0f3",
+          "slug": "ancient-deep-sea-chemosynthesis",
+          "type": "news",
+          "title": "Signs of Ancient Life Where Sunlight Never Reached",
+          "hook": "Wrinkly fossil patterns usually made by sunlit microbial mats turned up in ancient deep-sea rocks — pointing to microbes that lived on chemistry, not light, far more widely than thought.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-26"
+        },
+        {
+          "id": "card_7aac41",
+          "slug": "viruses-and-aging",
+          "type": "paper",
+          "title": "Viruses as Age-Distorters",
+          "hook": "Could an infection leave you biologically older? In flies, the worse a virus was, the more it sped up aging — and the effect lingered after the virus was gone.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-05"
+        },
+        {
+          "id": "card_1e2ee2",
+          "slug": "extremophiles",
+          "type": "concept",
+          "title": "Extremophiles: Life at the Edge",
+          "hook": "In boiling vents, frozen rock, acid pools, and brine that would pickle anything else, microbes don't just survive the extremes — they need them to live.",
+          "importance": 3,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "topic": "energy-in-life",
+      "title": "Energy in Life",
+      "order": 20,
+      "related": [
+        "the-cell",
+        "human-body"
+      ],
+      "cards": [
+        {
+          "id": "card_4be834",
+          "slug": "photosynthesis",
+          "type": "concept",
+          "title": "Photosynthesis",
+          "hook": "Plants pull carbon dioxide from the air and water from the soil, and using only sunlight, build sugar — releasing the oxygen you're breathing right now.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_05f960",
+          "slug": "food-chains-and-webs",
+          "type": "concept",
+          "title": "Food Chains \u0026 Energy Flow",
+          "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_e553ec",
+          "slug": "cellular-respiration",
+          "type": "concept",
+          "title": "Cellular Respiration",
+          "hook": "Every cell in your body slowly 'burns' sugar with oxygen to release energy — the same chemistry as photosynthesis, run in reverse.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_0fd5e5",
+          "slug": "oak-trees-carbon-after-growth",
+          "type": "news",
+          "title": "Oak Trees Keep Pulling in Carbon Long After They Stop Growing",
+          "hook": "Climate models often assume photosynthesis and tree growth rise and fall together. Oak trees just showed that a third or more of their yearly carbon capture happens after growth has already stopped.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-09"
+        },
+        {
+          "id": "card_32c407",
+          "slug": "atp-energy-currency",
+          "type": "concept",
+          "title": "ATP: The Cell's Energy Currency",
+          "hook": "Cells don't store usable energy as sugar or fat alone — they spend it through ATP, a tiny rechargeable molecule that powers almost everything they do.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_9d1582",
+          "slug": "enzymes",
+          "type": "concept",
+          "title": "Enzymes: Life's Catalysts",
+          "hook": "The chemical reactions that keep you alive would crawl too slowly to matter — enzymes speed them up millions of times without being used up themselves.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_5dcca4",
+          "slug": "fermentation",
+          "type": "concept",
+          "title": "Fermentation: Energy Without Oxygen",
+          "hook": "When oxygen runs short, cells switch to fermentation — a quick, low-yield way to keep making energy that gives us bread, beer, and burning muscles.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_a1735d",
+          "slug": "how-photosynthesis-evolved",
+          "type": "news",
+          "title": "The Long Road to Photosynthesis",
+          "hook": "Turning sunlight into food is one of biology's most intricate inventions. Ancient cyanobacteria are revealing what an early step on the road to it looked like.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-10"
+        },
+        {
+          "id": "card_19a817",
+          "slug": "metabolism",
+          "type": "concept",
+          "title": "Metabolism",
+          "hook": "Every breath, heartbeat, and thought runs on metabolism — the vast web of chemical reactions that builds your body up and breaks your fuel down.",
+          "importance": 4,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_732b88",
+          "slug": "cells-as-thermodynamic-computers",
+          "type": "blog",
+          "title": "Your Cells Have Been Running Thermodynamic Computers for Billions of Years",
+          "hook": "Engineers are racing to build computers that exploit random thermal jitter instead of fighting it — but living cells figured out how to do that long ago.",
+          "importance": 3,
+          "difficulty": "deep",
+          "date": "2026-07-15"
+        }
+      ]
+    },
+    {
+      "topic": "human-body",
+      "title": "The Human Body",
+      "order": 21,
+      "related": [
+        "energy-in-life",
+        "nervous-system"
+      ],
+      "cards": [
+        {
+          "id": "card_630b44",
+          "slug": "circulatory-system",
+          "type": "concept",
+          "title": "The Circulatory System",
+          "hook": "Your heart pumps blood through roughly 60,000 miles of vessels, delivering oxygen and fuel to every cell and hauling waste away — about once a minute.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_04d0de",
+          "slug": "skin-the-bodys-barrier",
+          "type": "concept",
+          "title": "Skin: The Body's Barrier",
+          "hook": "Spread out, your skin would cover about two square metres — the largest organ you have, and the only one you wear on the outside.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_3d61f3",
+          "slug": "the-digestive-system",
+          "type": "concept",
+          "title": "The Digestive System",
+          "hook": "From the first bite to the final absorption, your digestive tract is a one-way assembly line that turns food into fuel your cells can use.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_13b9d2",
+          "slug": "the-respiratory-system",
+          "type": "concept",
+          "title": "The Respiratory System",
+          "hook": "With every breath, your lungs trade carbon dioxide for fresh oxygen — the gas swap that keeps every cell in your body running.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_324518",
+          "slug": "bones-and-muscles",
+          "type": "concept",
+          "title": "Bones and Muscles",
+          "hook": "Your skeleton is the frame and your muscles are the engines — together they let you stand, move, and protect the soft organs inside you.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_2c3b3b",
+          "slug": "the-liver",
+          "type": "concept",
+          "title": "The Liver",
+          "hook": "The liver is the body's chemical plant — it filters toxins, makes bile, stores fuel, and runs hundreds of jobs no other organ can.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_98c9ee",
+          "slug": "coronary-artery-disease-prevention-progress",
+          "type": "news",
+          "title": "Heart Disease Deaths Have Fallen 50% Since 1990 — Most of What's Left Is Preventable",
+          "hook": "Coronary artery disease deaths have been cut in half over three decades, but a new analysis says nearly 90% of the deaths that remain trace back to risk factors we already know how to manage.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-15"
+        },
+        {
+          "id": "card_40e9dd",
+          "slug": "hair-growth-pulling-motor",
+          "type": "news",
+          "title": "Textbooks Say Hair Is Pushed Out. New Imaging Says It's Pulled Up.",
+          "hook": "The standard model of hair growth has cells at the follicle's base dividing and pushing the shaft upward, conveyor-belt style. Live 3D imaging reveals a hidden cellular 'motor' pulling it instead.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-07"
+        },
+        {
+          "id": "card_312362",
+          "slug": "lung-transplant-stage4-cancer-ethics",
+          "type": "news",
+          "title": "Stage 4 Lung Cancer Patients Weren't Supposed to Be Transplant Candidates. A New Study Challenges That.",
+          "hook": "Doctors have long ruled out transplants for cancer that's spread. A small study of stage 4 lung cancer patients given lung transplants matched non-cancer survival rates — reopening a hard question.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-08"
+        },
+        {
+          "id": "card_82a753",
+          "slug": "homeostasis",
+          "type": "concept",
+          "title": "Homeostasis: Staying Balanced",
+          "hook": "Your body works hard to keep its inside world steady — temperature, water, blood sugar — no matter what's happening outside. That balancing act is homeostasis.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_f66335",
+          "slug": "the-kidneys-and-waste",
+          "type": "concept",
+          "title": "The Kidneys and Waste",
+          "hook": "Your two fist-sized kidneys filter your entire blood supply dozens of times a day, skimming out waste and fine-tuning exactly how much water and salt your body keeps.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_b9b75e",
+          "slug": "what-blood-does",
+          "type": "concept",
+          "title": "What Blood Does",
+          "hook": "Blood looks like a single red liquid, but it's really a fleet of specialized parts — each cell type and the fluid itself carrying out a different life-sustaining job.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "topic": "nervous-system",
+      "title": "Brain \u0026 Nervous System",
+      "order": 22,
+      "related": [
+        "human-body",
+        "immune-system"
+      ],
+      "cards": [
+        {
+          "id": "card_945f3f",
+          "slug": "neurons-and-signals",
+          "type": "concept",
+          "title": "Neurons and Signals",
+          "hook": "Your every thought, twitch, and feeling rides on tiny electrical pulses fired by neurons — and leaps the gaps between them as bursts of chemicals.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_716fe9",
+          "slug": "lifestyle-program-reduces-dementia-risk",
+          "type": "news",
+          "title": "A Structured Healthy-Habits Program Measurably Cuts Dementia Risk",
+          "hook": "A trial testing whether healthy habits can protect the aging brain found that a structured, coached program beat a self-directed one at lowering dementia risk.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-13"
+        },
+        {
+          "id": "card_dc0e65",
+          "slug": "bumble-bees-solve-puzzle",
+          "type": "news",
+          "title": "Bumble Bees Stunned Scientists by Solving a Classic Intelligence Test",
+          "hook": "No one taught them the trick, yet bumble bees found a brand-new way to reach a hidden reward — fresh evidence that insect brains are more inventive than we assumed.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-02"
+        },
+        {
+          "id": "card_f82405",
+          "slug": "can-memories-be-transferred",
+          "type": "blog",
+          "title": "Can a Memory Be Transferred — or Eaten?",
+          "hook": "In the 1960s, scientists trained flatworms, ground them up, and fed them to untrained worms — chasing the wild idea that a memory might be a molecule you could pass along.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-05"
+        },
+        {
+          "id": "card_7d67f6",
+          "slug": "sleep-and-the-brain",
+          "type": "concept",
+          "title": "Sleep and the Brain",
+          "hook": "Sleep isn't the brain switching off — it's when the brain does some of its most important work, from clearing waste to locking in memories.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_f21e0c",
+          "slug": "the-brain",
+          "type": "concept",
+          "title": "The Brain",
+          "hook": "Three pounds of folded tissue runs the whole show — thinking, balance, breathing, memory — divided into regions that each handle a different part of the job.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_f7b93c",
+          "slug": "epstein-barr-virus-multiple-sclerosis-mechanism",
+          "type": "news",
+          "title": "How a Common Virus May Trigger Multiple Sclerosis",
+          "hook": "Almost everyone catches Epstein-Barr virus at some point — a new study gets closer to explaining how, in some people, it sets off multiple sclerosis.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-15"
+        },
+        {
+          "id": "card_92c5e7",
+          "slug": "tau-targeting-drug-slows-alzheimers-decline",
+          "type": "news",
+          "title": "An Experimental Drug Targeting Tau Slowed Alzheimer's Decline in a New Trial",
+          "hook": "A tau-targeting drug from Biogen slowed cognitive decline about as much as today's approved Alzheimer's drugs — and it reduced tau itself in the brain.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_361ed2",
+          "slug": "why-are-some-people-left-handed",
+          "type": "blog",
+          "title": "Why Are Some People Left-Handed?",
+          "hook": "About 10% of humans favor their left hand — and the answer starts, surprisingly, in the spinal cord, not the brain.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-13"
+        },
+        {
+          "id": "card_a3e847",
+          "slug": "meditation-brain-signal-to-noise",
+          "type": "paper",
+          "title": "Is a 'Clear Mind' Just a Better Signal-to-Noise Ratio?",
+          "hook": "A new theory proposes that meditation's many benefits boil down to one measurable thing: raising the ratio of useful neural signal to background noise in the brain.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-29"
+        },
+        {
+          "id": "card_5ef93d",
+          "slug": "fruit-fly-connectome",
+          "type": "news",
+          "title": "Wiring Up a Whole Brain",
+          "hook": "Scientists mapped every neural connection in an adult fruit fly — and the wiring suggests complex behavior emerges from many local circuits, not one central boss.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-10"
+        },
+        {
+          "id": "card_5d8fdd",
+          "slug": "reflexes-and-the-spinal-cord",
+          "type": "concept",
+          "title": "Reflexes and the Spinal Cord",
+          "hook": "When you touch something hot, your hand jerks back before you even feel the pain — because the signal takes a shortcut through your spinal cord, skipping the brain.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_bb8f8a",
+          "slug": "the-senses",
+          "type": "concept",
+          "title": "The Senses",
+          "hook": "Light, sound, chemicals, and pressure can't enter your brain directly — your senses translate all of them into the one language your neurons understand: electrical signals.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_2fc74f",
+          "slug": "alzheimers-blood-test-diagnostics",
+          "type": "news",
+          "title": "Blood Tests Are Starting to Replace Brain Scans for Diagnosing Alzheimer's",
+          "hook": "New blood-based biomarker tests are giving doctors a faster, more detailed way to diagnose Alzheimer's — without a brain scan, spinal tap, or a specialist's yearlong wait list.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-15"
+        },
+        {
+          "id": "card_ea6171",
+          "slug": "dementia-brain-connectivity-paradox",
+          "type": "paper",
+          "title": "Dementia Doesn't Just Disconnect the Brain — Some Regions Wire Up More",
+          "hook": "Dementia is usually pictured as a brain quietly losing its connections. New imaging analysis finds a handful of regions that get more connected, not less.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "card_23f26d",
+          "slug": "great-ape-laughter-speech-origin",
+          "type": "news",
+          "title": "Great Ape Laughter Hints at the Deep Roots of Human Speech",
+          "hook": "Chimps, bonobos, gorillas, and orangutans all laugh in a shared rhythmic pattern — a clue that the vocal control behind human speech has surprisingly ancient roots.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-01"
+        },
+        {
+          "id": "card_29ef5a",
+          "slug": "chronic-stress-and-brain-resilience",
+          "type": "paper",
+          "title": "The Hidden Cost of a Stress-Proof Brain",
+          "hook": "A brain-circuit model pinpoints the single change that could explain chronic stress's toll on the prefrontal cortex — and shows that training a circuit to resist stress comes with a quiet trade-off.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-25"
+        },
+        {
+          "id": "card_7ae6c7",
+          "slug": "emotional-order-and-childrens-memory",
+          "type": "paper",
+          "title": "Why What You Remember Depends on What Came Right Before It",
+          "hook": "In a study of children's memory, whether a toy was recalled correctly depended not just on its own emotional charge, but on the emotions of the toys shown right before and after it.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-26"
+        },
+        {
+          "id": "card_916bd5",
+          "slug": "shingles-vaccine-lowers-dementia",
+          "type": "news",
+          "title": "Could a Shingles Shot Protect the Brain?",
+          "hook": "Nursing-home residents who got a shingles vaccine were 24% less likely to develop dementia, a new study found — fresh fuel for the idea that viruses and immunity shape brain aging.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-18"
+        },
+        {
+          "id": "card_c65348",
+          "slug": "memory-and-learning",
+          "type": "concept",
+          "title": "Memory and Learning",
+          "hook": "Every memory you hold is a pattern of connections between neurons — and learning is, quite literally, your brain rewiring itself to make those connections stronger.",
+          "importance": 4,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_6b0b61",
+          "slug": "sound-localization-slow-dynamics",
+          "type": "paper",
+          "title": "How the Brain Times Sound to the Microsecond — Without a Stopwatch",
+          "hook": "Locating a sound relies on timing differences between your ears smaller than a millionth of a second — using neurons that individually react far slower than that. A new model explains how.",
+          "importance": 3,
+          "difficulty": "deep",
+          "date": "2026-07-04"
+        }
+      ]
+    },
+    {
+      "topic": "immune-system",
+      "title": "Immune System \u0026 Disease",
+      "order": 23,
+      "related": [
+        "human-body",
+        "microbiology"
+      ],
+      "cards": [
+        {
+          "id": "card_b56025",
+          "slug": "how-immunity-works",
+          "type": "concept",
+          "title": "How Immunity Works",
+          "hook": "Your body fights invaders on two fronts: a fast, general first response that hits anything foreign, and a slower, custom-built defense that learns and remembers each specific enemy.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_f1976d",
+          "slug": "how-infections-spread",
+          "type": "concept",
+          "title": "How Infections Spread",
+          "hook": "Germs can't fly to a new host on their own — they hitch rides on coughs, hands, food, water, and insects. Break the ride, and you break the chain of infection.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_d0aec2",
+          "slug": "last-american-polio-iron-lung-patient",
+          "type": "news",
+          "title": "The Last American Iron Lung Patient Just Died — Marking the End of a Pre-Vaccine Era",
+          "hook": "Martha Lillard survived 73 years after polio paralyzed her at age 5, breathing every night inside an iron lung. Her death closes a chapter vaccines quietly ended.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-13"
+        },
+        {
+          "id": "card_a052f0",
+          "slug": "inflammation",
+          "type": "concept",
+          "title": "Inflammation",
+          "hook": "Redness, heat, swelling, and pain aren't the problem — they're the immune system rushing to the scene, the visible signs of defense in action.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_a9a451",
+          "slug": "vaccines",
+          "type": "concept",
+          "title": "Vaccines",
+          "hook": "A vaccine is a training session for your immune system — it learns to beat a dangerous pathogen using a harmless preview, so the real fight is already half-won.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_f7b93c",
+          "slug": "epstein-barr-virus-multiple-sclerosis-mechanism",
+          "type": "news",
+          "title": "How a Common Virus May Trigger Multiple Sclerosis",
+          "hook": "Almost everyone catches Epstein-Barr virus at some point — a new study gets closer to explaining how, in some people, it sets off multiple sclerosis.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-15"
+        },
+        {
+          "id": "card_0bb90d",
+          "slug": "frog-immunity-chytrid-fungus-survivors",
+          "type": "news",
+          "title": "Scientists Solved Why Some Frogs Survive a Fungus That's Wiped Out Amphibians Worldwide",
+          "hook": "A fungus has driven amphibian populations to collapse across the globe — but some frogs bounce back, and researchers just found out how.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_16a3ee",
+          "slug": "ebola-outbreak-drc-therapy-trial",
+          "type": "news",
+          "title": "A Clinical Trial Races to Find an Ebola Treatment Mid-Outbreak",
+          "hook": "The Bundibugyo Ebola outbreak in the DRC has surged past 2,000 cases and 750 deaths — and 80% of new infections can't be traced to a known source, even as health workers strike over unpaid wages.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "card_312362",
+          "slug": "lung-transplant-stage4-cancer-ethics",
+          "type": "news",
+          "title": "Stage 4 Lung Cancer Patients Weren't Supposed to Be Transplant Candidates. A New Study Challenges That.",
+          "hook": "Doctors have long ruled out transplants for cancer that's spread. A small study of stage 4 lung cancer patients given lung transplants matched non-cancer survival rates — reopening a hard question.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-08"
+        },
+        {
+          "id": "card_61ffd8",
+          "slug": "bat-virus-spillover-mutation",
+          "type": "news",
+          "title": "How One Mutation Can Turn a Bat Virus Into a Human Threat",
+          "hook": "A single amino-acid change can flip how a coronavirus behaves across species — whether the immune system fights back or gets suppressed. A clue to how animal viruses leap to people.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "card_0b4740",
+          "slug": "h5n1-bird-flu-in-cows",
+          "type": "news",
+          "title": "Why Bird Flu Hid in Cows' Udders",
+          "hook": "Bird flu hit dairy cows in a strange way — striking udders, not lungs. The reason: the receptors H5N1 latches onto are concentrated in mammary tissue, a clue to how it jumps and spreads.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "card_2e3e5a",
+          "slug": "antibodies-and-immune-memory",
+          "type": "concept",
+          "title": "Antibodies and Immune Memory",
+          "hook": "The first time a germ infects you, your body fights from scratch. The second time, it remembers — and crushes the invader before you ever feel sick.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_4b4a65",
+          "slug": "sea-anemone-antiviral-defense",
+          "type": "news",
+          "title": "Sea Anemones Fight Viruses With a Defense Humans Don't Have",
+          "hook": "Sea anemones turn out to have their own antiviral system that works nothing like ours — a sign that evolution found more than one way to fight off viruses.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-30"
+        },
+        {
+          "id": "card_916bd5",
+          "slug": "shingles-vaccine-lowers-dementia",
+          "type": "news",
+          "title": "Could a Shingles Shot Protect the Brain?",
+          "hook": "Nursing-home residents who got a shingles vaccine were 24% less likely to develop dementia, a new study found — fresh fuel for the idea that viruses and immunity shape brain aging.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-18"
+        },
+        {
+          "id": "card_139e7d",
+          "slug": "prions",
+          "type": "news",
+          "title": "Prions: Infection Without a Living Germ",
+          "hook": "Chronic wasting disease can spread silently from deer that look perfectly healthy — a reminder that some infections are caused not by a microbe, but by a misshapen protein.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-16"
+        },
+        {
+          "id": "card_825c87",
+          "slug": "allergies-and-autoimmunity",
+          "type": "concept",
+          "title": "Allergies and Autoimmunity",
+          "hook": "A defense system this powerful can misfire — attacking harmless pollen as if it were a plague, or turning its weapons on the very body it's meant to protect.",
+          "importance": 3,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "topic": "reproduction",
+      "title": "Reproduction \u0026 Development",
+      "order": 24,
+      "related": [
+        "human-body",
+        "dna-genetics"
+      ],
+      "cards": [
+        {
+          "id": "card_f16037",
+          "slug": "human-reproduction",
+          "type": "concept",
+          "title": "Human Reproduction",
+          "hook": "New human life begins when two specialized cells — one egg, one sperm — combine, merging half a set of genetic instructions from each parent into a brand-new whole.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_b85792",
+          "slug": "vitamin-k-shot-newborns",
+          "type": "news",
+          "title": "The Overlooked Shot That Protects Newborns From Uncontrolled Bleeding",
+          "hook": "Newborns are naturally short on a vitamin their blood needs to clot — and a growing number of parents are skipping the shot that fixes it.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_ff026e",
+          "slug": "how-queen-bees-are-made",
+          "type": "news",
+          "title": "How Queen Bees Are Really Made",
+          "hook": "Royal jelly isn't the whole secret to making a queen bee — workers build custom wax 'royal cribs,' tune the warmth and humidity, and assign whole teams to raise her.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "card_0de52e",
+          "slug": "from-embryo-to-baby",
+          "type": "concept",
+          "title": "From Embryo to Baby",
+          "hook": "A single fertilized cell becomes trillions of specialized ones in nine months — dividing, folding, and organizing itself into a heartbeat, a brain, and a body ready to be born.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_648120",
+          "slug": "hormones-and-the-endocrine-system",
+          "type": "concept",
+          "title": "Hormones and the Endocrine System",
+          "hook": "Your body runs a chemical messaging service: glands release hormones into the blood, and far-off organs read them like instructions — slow signals that shape growth, mood, and metabolism.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_209428",
+          "slug": "pregnancy-and-birth",
+          "type": "concept",
+          "title": "Pregnancy and Birth",
+          "hook": "For about nine months, a single fertilized cell grows into a baby inside the womb — nourished the whole time by a remarkable temporary organ, the placenta.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_d7e285",
+          "slug": "puberty",
+          "type": "concept",
+          "title": "Puberty",
+          "hook": "Somewhere around the start of the teenage years, a flood of hormones rewires the body, turning a child into someone capable of one day reproducing.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "topic": "biotechnology",
+      "title": "Biotechnology",
+      "order": 25,
+      "related": [
+        "dna-genetics",
+        "nutrition-health"
+      ],
+      "cards": [
+        {
+          "id": "card_ba0985",
+          "slug": "what-is-biotechnology",
+          "type": "concept",
+          "title": "What Is Biotechnology?",
+          "hook": "From cheese and beer to insulin and vaccines, biotechnology puts living things — or their molecular parts — to work making products we need.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_022270",
+          "slug": "gene-edited-crop-nutrition",
+          "type": "news",
+          "title": "Editing Lettuce to Order",
+          "hook": "Scientists switched off the gene for red pigment in lettuce — and instead of just losing color, the plant rerouted its chemistry to pile up other healthy compounds.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-15"
+        },
+        {
+          "id": "card_c24d8c",
+          "slug": "her2-erbb2-targeted-therapy",
+          "type": "concept",
+          "title": "The Gene Test That Decides Which Breast Cancer Drug You Get",
+          "hook": "One in five breast cancers is driven by an overactive gene called ERBB2 (HER2) — and a genetic test of the tumor, not the patient, now decides whether a targeted antibody drug will work.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "card_26b71f",
+          "slug": "affinage-llm-gene-annotation",
+          "type": "news",
+          "title": "An AI Pipeline Just Annotated Nearly Every Human Gene",
+          "hook": "For thousands of human genes, the official record of what they actually do was empty or a stub. An AI that reads the primary literature just filled in the gaps for 19,293 of them.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-02"
+        },
+        {
+          "id": "card_5f5078",
+          "slug": "synthetic-cell-grows-and-divides",
+          "type": "news",
+          "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
+          "hook": "Scientists assembled a cell entirely from non-living parts — and watched it grow and split in two, blurring the line between chemistry and life.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-01"
+        },
+        {
+          "id": "card_4a593e",
+          "slug": "base-editing-human-embryos",
+          "type": "news",
+          "title": "Sharper Gene Editing in Embryos — and Sharper Ethics Questions",
+          "hook": "Next-gen CRISPR 'base editors' edit DNA more precisely than the old cut-and-paste — and using them on early embryos is revealing how human development works while reigniting the ethics debate.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-25"
+        },
+        {
+          "id": "card_ca37f9",
+          "slug": "genetics-and-drug-approval",
+          "type": "paper",
+          "title": "Why Drug Hunters Start With Genetics",
+          "hook": "Across 26,000+ drug programs, targets backed by human genetic evidence were about three times likelier to win approval — but genetics alone still can't pick a winner.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-12"
+        },
+        {
+          "id": "card_280f4b",
+          "slug": "crispr-shreds-cancer-cells",
+          "type": "news",
+          "title": "CRISPR That Shreds Cancer Cells From the Inside",
+          "hook": "A new CRISPR enzyme reads a cell for a cancer's tell-tale mutation, then chops up all the DNA inside only those cells — a way to attack 'undruggable' tumors.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-12"
+        },
+        {
+          "id": "card_834c5e",
+          "slug": "cloning",
+          "type": "concept",
+          "title": "Cloning and Dolly the Sheep",
+          "hook": "A clone is a genetic copy — and in 1996, Dolly the sheep proved a whole mammal could be made from a single adult body cell.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_e0bc83",
+          "slug": "dna-sequencing-and-the-genome",
+          "type": "concept",
+          "title": "DNA Sequencing and the Genome",
+          "hook": "Sequencing reads the exact order of the letters in DNA — and the Human Genome Project read all 3 billion of ours for the first time.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_2657f3",
+          "slug": "gene-therapy",
+          "type": "concept",
+          "title": "Gene Therapy",
+          "hook": "Instead of treating symptoms, gene therapy goes after the root cause — fixing, replacing, or silencing a faulty gene inside a patient's own cells.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_2fc74f",
+          "slug": "alzheimers-blood-test-diagnostics",
+          "type": "news",
+          "title": "Blood Tests Are Starting to Replace Brain Scans for Diagnosing Alzheimer's",
+          "hook": "New blood-based biomarker tests are giving doctors a faster, more detailed way to diagnose Alzheimer's — without a brain scan, spinal tap, or a specialist's yearlong wait list.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-15"
+        },
+        {
+          "id": "card_78761d",
+          "slug": "leopard-gecko-natural-cancer-model",
+          "type": "news",
+          "title": "This Pet Gecko Could Help Scientists Unlock the Secrets of Cancer",
+          "hook": "An unusual leopard gecko that naturally grows aggressive tumors may become a rare, naturally occurring model for studying cancer.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-15"
+        },
+        {
+          "id": "card_7b44ae",
+          "slug": "pestwin-gene-drive-digital-twin",
+          "type": "paper",
+          "title": "A Digital Twin for Testing Mosquito Gene Drives Before They're Released",
+          "hook": "Before releasing a genetically engineered mosquito into the wild, scientists can now test the release strategy inside a validated computer simulation first.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-10"
+        },
+        {
+          "id": "card_a33ba0",
+          "slug": "bacterial-docking-domains-cancer-drugs",
+          "type": "news",
+          "title": "Bacteria Have a Natural 'Mix and Match' Trick for Making Cancer Drugs",
+          "hook": "A soil bacterium naturally makes several related anti-cancer drugs, using molecular 'docking domains' that work like an assembly line with swappable parts.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-08"
+        },
+        {
+          "id": "card_70a274",
+          "slug": "rye-pollen-secalosides-cancer",
+          "type": "news",
+          "title": "A 30-Year Molecular Mystery, Solved by Building the Molecule From Scratch",
+          "hook": "Two rye pollen molecules showed promise against tumors decades ago, but no one could pin down their exact 3D shape — until chemists built them atom by atom in the lab.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "card_2c31ab",
+          "slug": "ai-reads-genes-from-tissue-slides",
+          "type": "paper",
+          "title": "Reading a Tumor's Genes From an Ordinary Microscope Slide",
+          "hook": "RNA sequencing reveals which genes are active in a tumor but is expensive and rare; a new AI model predicts much of that activity from the routine stained slide every biopsy already produces.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-29"
+        },
+        {
+          "id": "card_817bf0",
+          "slug": "warfarin-pharmacogenomics",
+          "type": "concept",
+          "title": "Why One Drug Dose Doesn't Fit All",
+          "hook": "The blood thinner warfarin can need up to a 20-fold different dose from person to person — and about half of that swing is written into two of your genes.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-16"
+        },
+        {
+          "id": "card_a18add",
+          "slug": "synthetic-biology",
+          "type": "concept",
+          "title": "Synthetic Biology",
+          "hook": "If genetic engineering edits life's existing code, synthetic biology aims to engineer it from the ground up — designing new biological parts and even whole systems.",
+          "importance": 3,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "topic": "nutrition-health",
+      "title": "Nutrition \u0026 Health",
+      "order": 26,
+      "related": [
+        "human-body",
+        "biotechnology"
+      ],
+      "cards": [
+        {
+          "id": "card_ec190a",
+          "slug": "nutrition-and-diet",
+          "type": "concept",
+          "title": "Nutrition and Diet",
+          "hook": "Your body runs on food, but not all food does the same job — different food groups supply the fuel, building blocks, and protection your cells need.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_017cc0",
+          "slug": "chili-peppers-esophageal-cancer-risk",
+          "type": "news",
+          "title": "Eating Lots of Chili Peppers May Raise the Risk of One Deadly Cancer",
+          "hook": "A major review links heavy chili pepper consumption to a higher risk of esophageal cancer — though it's an association, not proof of cause.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_716fe9",
+          "slug": "lifestyle-program-reduces-dementia-risk",
+          "type": "news",
+          "title": "A Structured Healthy-Habits Program Measurably Cuts Dementia Risk",
+          "hook": "A trial testing whether healthy habits can protect the aging brain found that a structured, coached program beat a self-directed one at lowering dementia risk.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-13"
+        },
+        {
+          "id": "card_b85792",
+          "slug": "vitamin-k-shot-newborns",
+          "type": "news",
+          "title": "The Overlooked Shot That Protects Newborns From Uncontrolled Bleeding",
+          "hook": "Newborns are naturally short on a vitamin their blood needs to clot — and a growing number of parents are skipping the shot that fixes it.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_b08dc8",
+          "slug": "otc-glucose-monitor-children-cgm",
+          "type": "news",
+          "title": "A Blood Sugar Tracker for 2-Year-Olds Is Now Sold Over the Counter",
+          "hook": "Dexcom's Stelo is the first continuous glucose monitor sold over-the-counter for kids as young as 2. Doctors are split on whether that's genuinely useful, or a source of needless anxiety.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-08"
+        },
+        {
+          "id": "card_98c9ee",
+          "slug": "coronary-artery-disease-prevention-progress",
+          "type": "news",
+          "title": "Heart Disease Deaths Have Fallen 50% Since 1990 — Most of What's Left Is Preventable",
+          "hook": "Coronary artery disease deaths have been cut in half over three decades, but a new analysis says nearly 90% of the deaths that remain trace back to risk factors we already know how to manage.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-15"
+        },
+        {
+          "id": "card_f1ffae",
+          "slug": "diet-and-disease",
+          "type": "concept",
+          "title": "Diet and Disease",
+          "hook": "What you eat over years quietly shapes your odds of heart disease, type 2 diabetes, and more — diet is one of the strongest levers on long-term health.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_890fc0",
+          "slug": "exercise-and-the-body",
+          "type": "concept",
+          "title": "Exercise and the Body",
+          "hook": "Physical activity reaches far beyond muscle — it strengthens the heart, reshapes metabolism, and even sharpens the brain.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_f25fc0",
+          "slug": "vitamins-and-minerals",
+          "type": "concept",
+          "title": "Vitamins and Minerals",
+          "hook": "Needed in only tiny amounts, vitamins and minerals are the micronutrients that quietly run reactions your body can't manage without.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_40e578",
+          "slug": "how-fat-cells-develop",
+          "type": "paper",
+          "title": "Mapping How a Fat Cell Grows Up",
+          "hook": "Fat cells don't just appear — they mature through a series of transitional stages, guided by growth signals that differ depending on where the fat sits in your body.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-26"
+        }
+      ]
+    },
+    {
+      "topic": "classification",
+      "title": "Classifying Life",
+      "order": 30,
+      "related": [
+        "evolution",
+        "animals"
+      ],
+      "cards": [
+        {
+          "id": "card_e69708",
+          "slug": "the-three-domains",
+          "type": "concept",
+          "title": "The Three Domains of Life",
+          "hook": "At the very top, all life splits into just three branches — Bacteria, Archaea, and Eukarya — and your cells belong to the same one as mushrooms and oak trees.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_9fa649",
+          "slug": "kingdoms-of-life",
+          "type": "concept",
+          "title": "The Kingdoms of Life",
+          "hook": "One step below the domains, life sorts into kingdoms — animals, plants, fungi, and assorted microbes — each a different way of making a living on Earth.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_5bfd13",
+          "slug": "naming-and-classifying-species",
+          "type": "concept",
+          "title": "How Species Are Named",
+          "hook": "Every species on Earth gets a two-word Latin name — like Homo sapiens — under a tidy ranked system invented 250 years ago that scientists still use today.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_81b171",
+          "slug": "reading-evolutionary-trees",
+          "type": "concept",
+          "title": "Reading Evolutionary Trees",
+          "hook": "A phylogenetic tree is a map of evolutionary relationships — once you know how to read its branches and nodes, it tells you who is related to whom.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_23d88a",
+          "slug": "hidden-bird-species-revealed-by-dna",
+          "type": "news",
+          "title": "A Hidden Bird Species, Revealed by DNA",
+          "hook": "Two birds in Japan look nearly identical — but their DNA and songs say they're different species. The split is Japan's first new bird in 40 years, and shows how genetics keeps finding hidden life.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "card_876e40",
+          "slug": "where-do-viruses-fit",
+          "type": "concept",
+          "title": "Where Do Viruses Fit?",
+          "hook": "Viruses sit awkwardly off the tree of life — they carry genes and evolve, yet can't grow, eat, or copy themselves without hijacking a living cell.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "topic": "plants",
+      "title": "Plants",
+      "order": 31,
+      "related": [
+        "energy-in-life",
+        "ecology"
+      ],
+      "cards": [
+        {
+          "id": "card_477e5d",
+          "slug": "mycorrhizal-networks",
+          "type": "news",
+          "title": "The Fungal Internet Under Your Feet",
+          "hook": "Scientists made the first global map of the underground fungal networks that feed most plants on Earth — a living web that quietly helps lock carbon into the soil.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-15"
+        },
+        {
+          "id": "card_aa2c1d",
+          "slug": "how-plants-are-built",
+          "type": "concept",
+          "title": "How a Plant Is Built",
+          "hook": "Most plants are made of three working parts — roots that drink, stems that lift, and leaves that catch sunlight — and together they turn dirt and light into a living thing.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_1bd46a",
+          "slug": "seeds-and-germination",
+          "type": "concept",
+          "title": "Seeds \u0026 Germination",
+          "hook": "A seed is a tiny plant on pause — a packed embryo with a lunch box of food, waiting for the right moment to wake up and push into the world.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_022270",
+          "slug": "gene-edited-crop-nutrition",
+          "type": "news",
+          "title": "Editing Lettuce to Order",
+          "hook": "Scientists switched off the gene for red pigment in lettuce — and instead of just losing color, the plant rerouted its chemistry to pile up other healthy compounds.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-15"
+        },
+        {
+          "id": "card_8c2e19",
+          "slug": "carnivorous-plants",
+          "type": "concept",
+          "title": "Carnivorous Plants",
+          "hook": "A handful of plants turn the food chain upside down: instead of being eaten, they trap and digest animals to mine nutrients their soil can't provide.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_140092",
+          "slug": "why-plants-run-the-planet",
+          "type": "concept",
+          "title": "Why Plants Run the Planet",
+          "hook": "Nearly every breath you take and every meal you eat traces back to plants — they make the oxygen, anchor the food chain, and lock away carbon for the whole biosphere.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_0fd5e5",
+          "slug": "oak-trees-carbon-after-growth",
+          "type": "news",
+          "title": "Oak Trees Keep Pulling in Carbon Long After They Stop Growing",
+          "hook": "Climate models often assume photosynthesis and tree growth rise and fall together. Oak trees just showed that a third or more of their yearly carbon capture happens after growth has already stopped.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-09"
+        },
+        {
+          "id": "card_41e650",
+          "slug": "how-plants-reproduce",
+          "type": "concept",
+          "title": "How Plants Reproduce",
+          "hook": "Flowers aren't just decoration — they're how most plants have sex, trading pollen so they can pack the next generation into seeds that travel.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_bc7544",
+          "slug": "soil-microbes-rescue-salty-farmland",
+          "type": "news",
+          "title": "The Soil Bacteria That Help Crops Shrug Off Salt",
+          "hook": "Salty farmland usually ruins crops — but researchers found soil bacteria that help plants cope, not by blocking salt, but by making their roots physically tougher.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-28"
+        },
+        {
+          "id": "card_9b9689",
+          "slug": "plant-senses-and-tropisms",
+          "type": "concept",
+          "title": "How Plants Sense \u0026 Move",
+          "hook": "Plants can't walk, but they aren't passive — they sense light, gravity, and touch, and grow toward what they need in slow, deliberate motion.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "topic": "animals",
+      "title": "Animals",
+      "order": 32,
+      "related": [
+        "classification",
+        "ecology"
+      ],
+      "cards": [
+        {
+          "id": "card_d4d915",
+          "slug": "insects-the-most-successful-animals",
+          "type": "concept",
+          "title": "Insects: The Most Successful Animals",
+          "hook": "By sheer numbers and variety, insects rule the animal kingdom — more than half of all known animal species have six legs.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_477fab",
+          "slug": "the-animal-kingdom",
+          "type": "concept",
+          "title": "The Animal Kingdom",
+          "hook": "Sponges, spiders, sharks, and squirrels look nothing alike — yet all are animals, sharing a few deep traits that set them apart from plants, fungi, and microbes.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_660dd5",
+          "slug": "vertebrates-and-invertebrates",
+          "type": "concept",
+          "title": "Vertebrates and Invertebrates",
+          "hook": "The animal kingdom splits along one simple line: do you have a backbone or not? The vast majority of animals don't.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_f6cfd6",
+          "slug": "rattlesnake-venom-control-myth",
+          "type": "news",
+          "title": "Baby Rattlesnakes Aren't the Reckless Venom-Dumpers Myth Says They Are",
+          "hook": "A widespread belief holds that baby rattlesnakes can't control their venom and are more dangerous than adults. A new study says that's backwards — and traces how the myth spread for decades.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-09"
+        },
+        {
+          "id": "card_febbbc",
+          "slug": "streetlight-pillbug-death-spirals",
+          "type": "news",
+          "title": "Streetlights Are Trapping Pill Bugs in Giant Spinning Circles",
+          "hook": "Thousands of woodlice have been found marching in circular 'death spirals' under streetlights — never seen in the wild before, and a new clue to how light pollution reshapes animal behavior.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "card_dc0e65",
+          "slug": "bumble-bees-solve-puzzle",
+          "type": "news",
+          "title": "Bumble Bees Stunned Scientists by Solving a Classic Intelligence Test",
+          "hook": "No one taught them the trick, yet bumble bees found a brand-new way to reach a hidden reward — fresh evidence that insect brains are more inventive than we assumed.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-02"
+        },
+        {
+          "id": "card_aaf7c6",
+          "slug": "oviraptor-nest-incubation",
+          "type": "news",
+          "title": "Scientists Rebuilt a Dinosaur Nest to Solve a 70-Million-Year Mystery",
+          "hook": "By recreating a life-size oviraptor nest and running the heat transfer numbers, researchers figured out how these bird-like dinosaurs kept their eggs warm.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-01"
+        },
+        {
+          "id": "card_00056a",
+          "slug": "ballista-spider-trap",
+          "type": "news",
+          "title": "The Spider That Builds a Spring-Loaded Trap",
+          "hook": "A newly discovered 'ballista spider' builds a spring-powered silk trap for aggressive ants — and the ant springs the trap on itself, catapulting straight into the web.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-26"
+        },
+        {
+          "id": "card_ff026e",
+          "slug": "how-queen-bees-are-made",
+          "type": "news",
+          "title": "How Queen Bees Are Really Made",
+          "hook": "Royal jelly isn't the whole secret to making a queen bee — workers build custom wax 'royal cribs,' tune the warmth and humidity, and assign whole teams to raise her.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "card_6d3edb",
+          "slug": "bees-no-refuge-from-heat",
+          "type": "news",
+          "title": "Some Bees Have Nowhere to Hide From Heat",
+          "hook": "A big study of Australian native bees found that where a bee nests — in plant stems versus underground — may decide whether it survives a warming world.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-18"
+        },
+        {
+          "id": "card_049aec",
+          "slug": "how-different-species-talk",
+          "type": "news",
+          "title": "How Different Species Talk to Each Other",
+          "hook": "Cooperation isn't only within a species. New research finds animals of different species 'talk' to coordinate — and these cross-species signals are flexible and shaped by evolution.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-20"
+        },
+        {
+          "id": "card_6c2d37",
+          "slug": "honey-bee-flight-paths",
+          "type": "news",
+          "title": "Every Bee Flies Its Own Highway",
+          "hook": "Tracked by drone in the wild, individual honey bees turned out to follow their own personal flight paths — sometimes retracing a route to within centimeters.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-14"
+        },
+        {
+          "id": "card_229d3b",
+          "slug": "spider-disguised-as-fungus",
+          "type": "news",
+          "title": "The Spider That Pretends to Be a Fungus",
+          "hook": "A newly found Amazonian spider disguises itself as a parasitic fungus — copying not just the look but the behavior of something most predators won't touch.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-17"
+        },
+        {
+          "id": "card_01ecca",
+          "slug": "parrots-may-use-names",
+          "type": "news",
+          "title": "Parrots May Call Each Other by Name",
+          "hook": "Parrots might do more than mimic. An analysis of pet-parrot recordings suggests they use specific 'names' for particular people and animals — even ones not in the room.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-14"
+        },
+        {
+          "id": "card_657784",
+          "slug": "are-bees-and-ai-conscious",
+          "type": "news",
+          "title": "Are Bees — or ChatGPT — Conscious?",
+          "hook": "Scientists are arguing that you can't judge consciousness by behavior alone — which leaves the door open for conscious insects, but probably not today's chatbots.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-05"
+        },
+        {
+          "id": "card_b8f9c4",
+          "slug": "octopuses-use-mirrors",
+          "type": "news",
+          "title": "Octopuses Can Use Mirrors",
+          "hook": "Octopuses learned to read a mirror to find food hidden behind them — a tool-like skill once thought to belong only to mammals and birds.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-05"
+        },
+        {
+          "id": "card_cb9312",
+          "slug": "ape-social-circles",
+          "type": "news",
+          "title": "Apes Have Inner Circles Too",
+          "hook": "Chimps and bonobos build friendships much like we do — a tight inner circle of close partners surrounded by a wider ring of looser ties.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-05-31"
+        },
+        {
+          "id": "card_143de7",
+          "slug": "pigeon-magnetic-navigation",
+          "type": "news",
+          "title": "A Pigeon's Compass in Its Liver",
+          "hook": "The clue to how pigeons find their way home may be hiding in the liver: iron-packed immune cells that could act like tiny magnetic sensors.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-05-31"
+        },
+        {
+          "id": "card_f05b6e",
+          "slug": "ancient-bees-tooth-socket-nests",
+          "type": "news",
+          "title": "20,000-Year-Old Bees Turned Fossil Teeth Into Nurseries",
+          "hook": "In a cave with almost no soil for burrowing, ancient solitary bees found an unlikely nesting spot: the empty tooth sockets of mammal jawbones scattered by owls.",
+          "importance": 2,
+          "difficulty": "intro",
+          "date": "2026-07-05"
+        },
+        {
+          "id": "card_22f6e4",
+          "slug": "ancient-wolves-domestication-baltic",
+          "type": "news",
+          "title": "5,000-Year-Old Wolves on a Baltic Island Weren't There by Accident",
+          "hook": "Wolf remains on a tiny Swedish island — with no native land mammals and no way to swim there — mean humans brought them, fed them, and maybe even nursed an injured one back to health.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-05"
+        },
+        {
+          "id": "card_335198",
+          "slug": "sulfoxaflor-pesticide-bumblebee-reproduction",
+          "type": "news",
+          "title": "A 'Safer' Pesticide May Be Quietly Sabotaging Bumblebee Reproduction",
+          "hook": "Sulfoxaflor was designed to spare bees while killing crop pests. Low doses of it are instead altering gene activity in bumblebee ovaries — with signs of fewer offspring to come.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-10"
+        },
+        {
+          "id": "card_d50d41",
+          "slug": "animal-adaptations",
+          "type": "concept",
+          "title": "Animal Adaptations",
+          "hook": "A camel's hump, a chameleon's color, a polar bear's fat — these aren't accidents. Each is a trait shaped over generations to fit a particular way of life.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_d115fb",
+          "slug": "metamorphosis-and-life-cycles",
+          "type": "concept",
+          "title": "Metamorphosis and Life Cycles",
+          "hook": "A caterpillar becoming a butterfly is one of nature's great transformations — many animals reshape their bodies entirely as they grow up.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_29694c",
+          "slug": "harvestmen-citizen-science-parental-care",
+          "type": "news",
+          "title": "Spider-Like Harvestmen Reveal How Parental Care Evolved — Thanks to Citizen Scientists",
+          "hook": "Photos uploaded by amateur naturalists just solved a long-standing puzzle about how fatherhood evolved in one strange arachnid group.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-12"
+        },
+        {
+          "id": "card_78761d",
+          "slug": "leopard-gecko-natural-cancer-model",
+          "type": "news",
+          "title": "This Pet Gecko Could Help Scientists Unlock the Secrets of Cancer",
+          "hook": "An unusual leopard gecko that naturally grows aggressive tumors may become a rare, naturally occurring model for studying cancer.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-15"
+        },
+        {
+          "id": "card_634f82",
+          "slug": "bumblebee-heavy-metal-accumulation",
+          "type": "news",
+          "title": "Bumblebees Soak Up Far More Toxic Metal Than Honeybees — Even in the Same Field",
+          "hook": "Foraging in identical patches of flowers, bumblebees pick up two to seven times more toxic heavy metals than honeybees. The gap comes down to biology and lifestyle, not location.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-07"
+        },
+        {
+          "id": "card_ca5e91",
+          "slug": "happy-face-spider-convergent-evolution",
+          "type": "news",
+          "title": "A Spider in the Himalayas Independently Evolved Hawaii's Famous Smiley Face",
+          "hook": "Hawaii's iconic 'happy-face' spider was thought one of a kind. A newly found relative in the Himalayas, separated by thousands of miles and 8.5% of its DNA, evolved a near-identical smile on its own.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-09"
+        },
+        {
+          "id": "card_24c30d",
+          "slug": "butterflies-that-barely-age",
+          "type": "news",
+          "title": "The Butterfly That Barely Ages",
+          "hook": "Most animals fall apart with age. Heliconius butterflies barely do — outliving close relatives several times over with little decline, hinting that lifespan is something evolution can dial up.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-22"
+        },
+        {
+          "id": "card_f899e1",
+          "slug": "primates-evolved-in-the-cold",
+          "type": "news",
+          "title": "The First Primates May Have Started in the Cold",
+          "hook": "We picture our primate ancestors in steamy jungles. A new study suggests the earliest ones may instead have arisen in cold, dry North America — some perhaps even hibernating.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-20"
+        },
+        {
+          "id": "card_9e052d",
+          "slug": "how-animals-behave",
+          "type": "concept",
+          "title": "How Animals Behave",
+          "hook": "A spider spins a perfect web without a lesson, while a crow figures out a new trick by trial and error — two sides of how animals act in the world.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "topic": "evolution",
+      "title": "Evolution \u0026 Natural Selection",
+      "order": 40,
+      "related": [
+        "dna-genetics",
+        "ecology"
+      ],
+      "cards": [
+        {
+          "id": "card_89dd5d",
+          "slug": "natural-selection",
+          "type": "concept",
+          "title": "Natural Selection",
+          "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+          "importance": 5,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_e51fd7",
+          "slug": "four-winged-dinosaur-jian",
+          "type": "news",
+          "title": "The Four-Winged Dinosaur That Hunted Early Birds",
+          "hook": "Piles of crushed bird bones from ancient China had no obvious culprit. Meet Jian changmaensis: a four-winged, gliding cousin of Velociraptor that may have hunted Earth's earliest birds.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "card_229d3b",
+          "slug": "spider-disguised-as-fungus",
+          "type": "news",
+          "title": "The Spider That Pretends to Be a Fungus",
+          "hook": "A newly found Amazonian spider disguises itself as a parasitic fungus — copying not just the look but the behavior of something most predators won't touch.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-17"
+        },
+        {
+          "id": "card_ac13a6",
+          "slug": "permian-mass-extinction-metabolism",
+          "type": "news",
+          "title": "Why Clams Replaced Brachiopods: Metabolism Decided Earth's Worst Extinction",
+          "hook": "Brachiopods ruled the seafloor for 280 million years. One mass extinction later, clams and snails took over — and new research says the deciding factor was how fast each group's metabolism ran.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-07-12"
+        },
+        {
+          "id": "card_f9a54a",
+          "slug": "evidence-for-evolution",
+          "type": "concept",
+          "title": "The Evidence for Evolution",
+          "hook": "Fossils, DNA, shared body plans, and change we can watch happen — evolution isn't a hunch, it's a conclusion forced by many independent lines of evidence.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_361ed2",
+          "slug": "why-are-some-people-left-handed",
+          "type": "blog",
+          "title": "Why Are Some People Left-Handed?",
+          "hook": "About 10% of humans favor their left hand — and the answer starts, surprisingly, in the spinal cord, not the brain.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-13"
+        },
+        {
+          "id": "card_22f6e4",
+          "slug": "ancient-wolves-domestication-baltic",
+          "type": "news",
+          "title": "5,000-Year-Old Wolves on a Baltic Island Weren't There by Accident",
+          "hook": "Wolf remains on a tiny Swedish island — with no native land mammals and no way to swim there — mean humans brought them, fed them, and maybe even nursed an injured one back to health.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-05"
+        },
+        {
+          "id": "card_8c50b5",
+          "slug": "beyond-neutral-theory",
+          "type": "news",
+          "title": "Rethinking Neutral Evolution",
+          "hook": "A long-held idea says most genetic changes that stick around are neutral. A big new study reports beneficial mutations may be far more common than that.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-05-29"
+        },
+        {
+          "id": "card_043084",
+          "slug": "common-descent",
+          "type": "concept",
+          "title": "The Tree of Life",
+          "hook": "Humans, mushrooms, and oak trees share an ancestor if you go back far enough — all life on Earth branches from a single common root.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_75b0ad",
+          "slug": "genetic-drift",
+          "type": "concept",
+          "title": "Genetic Drift",
+          "hook": "Evolution isn't only survival of the fittest — sometimes traits spread or vanish purely by luck, especially in small populations.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_50ecfa",
+          "slug": "how-new-species-form",
+          "type": "concept",
+          "title": "How New Species Form",
+          "hook": "Split one population in two, let them drift apart long enough, and eventually they can no longer interbreed — that's speciation, the engine that fills the tree of life with branches.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_539d3b",
+          "slug": "sexual-selection",
+          "type": "concept",
+          "title": "Sexual Selection",
+          "hook": "Why does a peacock drag around a tail that makes it easy prey? Because for some traits, winning a mate matters more to evolution than simply surviving.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_b47419",
+          "slug": "chimpanzee-crystal-collecting-fascination",
+          "type": "news",
+          "title": "Why Have Humans Collected Crystals for 780,000 Years? Chimpanzees May Hold the Answer",
+          "hook": "Wild chimpanzees show a striking pull toward crystals over ordinary stones — hinting that our own ancient fascination began long before crystals had any practical use.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_29694c",
+          "slug": "harvestmen-citizen-science-parental-care",
+          "type": "news",
+          "title": "Spider-Like Harvestmen Reveal How Parental Care Evolved — Thanks to Citizen Scientists",
+          "hook": "Photos uploaded by amateur naturalists just solved a long-standing puzzle about how fatherhood evolved in one strange arachnid group.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-12"
+        },
+        {
+          "id": "card_8167ad",
+          "slug": "melodic-molecular-evolution",
+          "type": "paper",
+          "title": "What 40,000 Irish Tunes Reveal About How Evolution Works",
+          "hook": "A new method aligns folk melodies the way biologists align proteins — and finds that music evolves under strikingly different rules than genes do.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_ca5e91",
+          "slug": "happy-face-spider-convergent-evolution",
+          "type": "news",
+          "title": "A Spider in the Himalayas Independently Evolved Hawaii's Famous Smiley Face",
+          "hook": "Hawaii's iconic 'happy-face' spider was thought one of a kind. A newly found relative in the Himalayas, separated by thousands of miles and 8.5% of its DNA, evolved a near-identical smile on its own.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-09"
+        },
+        {
+          "id": "card_b6586e",
+          "slug": "earliest-primate-ancestor-colorado",
+          "type": "news",
+          "title": "Tiny Teeth Reveal Our First Primate Ancestor Spread Farther Than Thought",
+          "hook": "Fossil teeth smaller than a fingertip just pushed the known range of Purgatorius — the earliest relative of every primate, including us — hundreds of miles south.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-30"
+        },
+        {
+          "id": "card_23f26d",
+          "slug": "great-ape-laughter-speech-origin",
+          "type": "news",
+          "title": "Great Ape Laughter Hints at the Deep Roots of Human Speech",
+          "hook": "Chimps, bonobos, gorillas, and orangutans all laugh in a shared rhythmic pattern — a clue that the vocal control behind human speech has surprisingly ancient roots.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-01"
+        },
+        {
+          "id": "card_b70486",
+          "slug": "cape-leopards-shrank",
+          "type": "news",
+          "title": "Why South Africa's Leopards Shrank by Half",
+          "hook": "Cut off for 20,000 years, leopards in South Africa's Cape evolved to half normal size and became genetically distinct — yet, against expectations, they kept much of their diversity.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-24"
+        },
+        {
+          "id": "card_24c30d",
+          "slug": "butterflies-that-barely-age",
+          "type": "news",
+          "title": "The Butterfly That Barely Ages",
+          "hook": "Most animals fall apart with age. Heliconius butterflies barely do — outliving close relatives several times over with little decline, hinting that lifespan is something evolution can dial up.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-22"
+        },
+        {
+          "id": "card_23d88a",
+          "slug": "hidden-bird-species-revealed-by-dna",
+          "type": "news",
+          "title": "A Hidden Bird Species, Revealed by DNA",
+          "hook": "Two birds in Japan look nearly identical — but their DNA and songs say they're different species. The split is Japan's first new bird in 40 years, and shows how genetics keeps finding hidden life.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "card_f899e1",
+          "slug": "primates-evolved-in-the-cold",
+          "type": "news",
+          "title": "The First Primates May Have Started in the Cold",
+          "hook": "We picture our primate ancestors in steamy jungles. A new study suggests the earliest ones may instead have arisen in cold, dry North America — some perhaps even hibernating.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-20"
+        },
+        {
+          "id": "card_901df7",
+          "slug": "transposon-clocks-strawberry-genome",
+          "type": "news",
+          "title": "DNA Time Stamps Trace the Strawberry's Origins",
+          "hook": "Jumping bits of DNA leave traces that pile up over time. Researchers read them like time stamps to show the strawberry's genome was built by merging several ancient genomes.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-19"
+        },
+        {
+          "id": "card_409a86",
+          "slug": "sex-and-early-animal-evolution",
+          "type": "news",
+          "title": "Did Sex Jump-Start Evolution?",
+          "hook": "Earth's first animals barely changed for ages. A study argues the switch from cloning to sex is what finally set evolution — and biodiversity — racing.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-10"
+        },
+        {
+          "id": "card_f223e2",
+          "slug": "environment-switching-survival",
+          "type": "paper",
+          "title": "A Species That Always Loses Can Still Win — By Switching Fast Enough",
+          "hook": "A predator doomed to extinction in either of two environments can persist forever if the environment keeps flipping between them fast enough — a twist with a warning for drug-cycling strategies.",
+          "importance": 4,
+          "difficulty": "deep",
+          "date": "2026-07-05"
+        },
+        {
+          "id": "card_c0a536",
+          "slug": "convergent-evolution",
+          "type": "concept",
+          "title": "Convergent Evolution",
+          "hook": "Birds, bats, and insects all fly — yet none inherited wings from a shared flying ancestor. Similar problems can push unrelated species toward the same solution.",
+          "importance": 4,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_41a43a",
+          "slug": "human-evolution",
+          "type": "concept",
+          "title": "Human Evolution",
+          "hook": "We didn't descend from chimpanzees — we share an ancestor with them. From that branching point, our lineage walked upright, grew big brains, and spread across the planet.",
+          "importance": 4,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "topic": "ecology",
+      "title": "Ecology \u0026 Ecosystems",
+      "order": 41,
+      "related": [
+        "evolution",
+        "energy-in-life"
+      ],
+      "cards": [
+        {
+          "id": "card_477e5d",
+          "slug": "mycorrhizal-networks",
+          "type": "news",
+          "title": "The Fungal Internet Under Your Feet",
+          "hook": "Scientists made the first global map of the underground fungal networks that feed most plants on Earth — a living web that quietly helps lock carbon into the soil.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-15"
+        },
+        {
+          "id": "card_05f960",
+          "slug": "food-chains-and-webs",
+          "type": "concept",
+          "title": "Food Chains \u0026 Energy Flow",
+          "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_febbbc",
+          "slug": "streetlight-pillbug-death-spirals",
+          "type": "news",
+          "title": "Streetlights Are Trapping Pill Bugs in Giant Spinning Circles",
+          "hook": "Thousands of woodlice have been found marching in circular 'death spirals' under streetlights — never seen in the wild before, and a new clue to how light pollution reshapes animal behavior.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-06"
+        },
+        {
+          "id": "card_9354bd",
+          "slug": "goldfish-invasive-species",
+          "type": "news",
+          "title": "Why a Released Goldfish Can Wreck a Lake",
+          "hook": "Dumped pet goldfish don't just survive in the wild — they cloud the water, damage food webs, and crowd out native fish, turning a beloved pet into a destructive invasive species.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-26"
+        },
+        {
+          "id": "card_6d3edb",
+          "slug": "bees-no-refuge-from-heat",
+          "type": "news",
+          "title": "Some Bees Have Nowhere to Hide From Heat",
+          "hook": "A big study of Australian native bees found that where a bee nests — in plant stems versus underground — may decide whether it survives a warming world.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-18"
+        },
+        {
+          "id": "card_049aec",
+          "slug": "how-different-species-talk",
+          "type": "news",
+          "title": "How Different Species Talk to Each Other",
+          "hook": "Cooperation isn't only within a species. New research finds animals of different species 'talk' to coordinate — and these cross-species signals are flexible and shaped by evolution.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-20"
+        },
+        {
+          "id": "card_9f37e9",
+          "slug": "lake-browning-reshuffles-fish",
+          "type": "news",
+          "title": "As Lakes Turn Brown, the Fish Change Too",
+          "hook": "Lakes across North America and Europe are turning brown, cutting underwater visibility — and that murk is reshuffling which fish thrive: trout and bass decline while pike and walleye rise.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-21"
+        },
+        {
+          "id": "card_e44f1a",
+          "slug": "fish-gut-microbes-and-the-ocean",
+          "type": "news",
+          "title": "The Microbes in Fish That Help Shape the Ocean",
+          "hook": "The chalky mineral fish release into the sea helps store carbon — and it turns out the fish don't make it alone. Bacteria in their guts are partners in the process.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-05-31"
+        },
+        {
+          "id": "card_74ae50",
+          "slug": "biomes-of-the-world",
+          "type": "concept",
+          "title": "Biomes of the World",
+          "hook": "Deserts, rainforests, tundra, ocean — Earth sorts its life into great zones, each shaped mostly by temperature and rainfall, with similar communities appearing wherever the climate repeats.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_40b8e4",
+          "slug": "climate-change-and-life",
+          "type": "concept",
+          "title": "Climate Change and Life",
+          "hook": "A warming planet doesn't just raise the thermometer — it shifts where species live, when they breed, and which ones survive the squeeze.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_d3aef9",
+          "slug": "soil-warming-experiment-hidden-carbon",
+          "type": "news",
+          "title": "A 37-Year Soil Experiment Revealed a Hidden Climate Threat",
+          "hook": "The world's longest-running soil warming experiment just found that warming can unlock carbon scientists thought was safely locked away underground.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_f9fc6a",
+          "slug": "deep-sea-marine-snow-nutrient-leak",
+          "type": "news",
+          "title": "The Deep Ocean's 'Empty' Water Has a Secret Food Source",
+          "hook": "Deep-sea pressure acts almost like a giant juicer on sinking bits of organic matter — squeezing out nutrients that feed microbes in water once thought too starved to support much life at all.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-12"
+        },
+        {
+          "id": "card_335198",
+          "slug": "sulfoxaflor-pesticide-bumblebee-reproduction",
+          "type": "news",
+          "title": "A 'Safer' Pesticide May Be Quietly Sabotaging Bumblebee Reproduction",
+          "hook": "Sulfoxaflor was designed to spare bees while killing crop pests. Low doses of it are instead altering gene activity in bumblebee ovaries — with signs of fewer offspring to come.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-10"
+        },
+        {
+          "id": "card_0ac6b2",
+          "slug": "yellowstone-wolves-trophic-cascade-questioned",
+          "type": "news",
+          "title": "Did Yellowstone's Wolves Really Reshape the Park?",
+          "hook": "The famous story that returning wolves transformed Yellowstone is under fire: a reanalysis says the original study's methods overstated the effect, and willows never surged park-wide.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-14"
+        },
+        {
+          "id": "card_cd7fc6",
+          "slug": "biodiversity-and-conservation",
+          "type": "concept",
+          "title": "Biodiversity \u0026 Conservation",
+          "hook": "Biodiversity is the full variety of life — genes, species, and ecosystems. It cleans our water, pollinates our food, and steadies the systems we depend on, and right now it's vanishing fast.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_a13f41",
+          "slug": "ecosystems-and-interdependence",
+          "type": "concept",
+          "title": "Ecosystems \u0026 Interdependence",
+          "hook": "An ecosystem is a community of living things plus their environment, all so tangled together that pulling one thread can shake the whole web.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_519fe2",
+          "slug": "keystone-species",
+          "type": "concept",
+          "title": "Keystone Species",
+          "hook": "Some species pull more than their weight. Remove them, and an entire ecosystem can unravel — even when they were never the most abundant thing around.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_d9795d",
+          "slug": "nutrient-cycles",
+          "type": "concept",
+          "title": "Nutrient Cycles",
+          "hook": "The carbon in your breath, the nitrogen in your DNA, the water in your blood — all of it has cycled through living things and the planet countless times. Nothing is used up; everything is recycled.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_896d6c",
+          "slug": "population-dynamics",
+          "type": "concept",
+          "title": "Population Dynamics",
+          "hook": "No population grows forever. Food, space, and predators set a ceiling — and the dance between growth and limits drives booms, crashes, and balance.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_ad51fc",
+          "slug": "symbiosis",
+          "type": "concept",
+          "title": "Symbiosis",
+          "hook": "Living things rarely go it alone. From gut microbes to coral reefs, species often share their lives — sometimes helping, sometimes harming, their partners.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_4c86cf",
+          "slug": "are-humans-the-ultimate-super-predator",
+          "type": "news",
+          "title": "Are Humans Really the Ultimate Super-Predator?",
+          "hook": "Wild animals don't fear all humans equally — a 30-year review shows their alarm depends heavily on what kind of human they're facing.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-15"
+        },
+        {
+          "id": "card_634f82",
+          "slug": "bumblebee-heavy-metal-accumulation",
+          "type": "news",
+          "title": "Bumblebees Soak Up Far More Toxic Metal Than Honeybees — Even in the Same Field",
+          "hook": "Foraging in identical patches of flowers, bumblebees pick up two to seven times more toxic heavy metals than honeybees. The gap comes down to biology and lifestyle, not location.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-07"
+        },
+        {
+          "id": "card_80dfda",
+          "slug": "mountain-lions-suburban-trophic-cascade",
+          "type": "news",
+          "title": "Mountain Lions Reshaped a Tiny Suburban Preserve",
+          "hook": "When mountain lions started visiting a small preserve near San Francisco, deer backed off, plants recovered, and smaller predators shifted — trophic cascades aren't just for remote wilderness.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-27"
+        },
+        {
+          "id": "card_92ae0c",
+          "slug": "more-trees-fewer-birds",
+          "type": "news",
+          "title": "When More Trees Mean Fewer Birds",
+          "hook": "Planting trees sounds like a sure win for nature. But on Japan's wetland farms, windbreaks cut grassland-bird numbers by over 70% — what matters is the right habitat, not the tree count.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-22"
+        }
+      ]
+    },
+    {
+      "topic": "origin-of-life",
+      "title": "Origin \u0026 History of Life",
+      "order": 42,
+      "related": [
+        "evolution",
+        "classification"
+      ],
+      "cards": [
+        {
+          "id": "card_be717b",
+          "slug": "how-life-began",
+          "type": "concept",
+          "title": "How Life Began",
+          "hook": "Before the first living thing, there was only chemistry. Abiogenesis is the idea — and active research — into how plain molecules on early Earth crossed the line into life.",
+          "importance": 4,
+          "difficulty": "intro",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_8427a7",
+          "slug": "fossil-captures-t-rex-attack",
+          "type": "news",
+          "title": "This Fossil Captures the Final Moments of a T. Rex Attack",
+          "hook": "A Tyrannosaurus tooth is still embedded in its prey's skull — rare direct fossil evidence of exactly how the giant carnivore hunted.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-07-14"
+        },
+        {
+          "id": "card_e51fd7",
+          "slug": "four-winged-dinosaur-jian",
+          "type": "news",
+          "title": "The Four-Winged Dinosaur That Hunted Early Birds",
+          "hook": "Piles of crushed bird bones from ancient China had no obvious culprit. Meet Jian changmaensis: a four-winged, gliding cousin of Velociraptor that may have hunted Earth's earliest birds.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-23"
+        },
+        {
+          "id": "card_863950",
+          "slug": "t-rex-took-40-years-to-grow",
+          "type": "news",
+          "title": "T. rex Took 40 Years to Reach Full Size",
+          "hook": "We picture T. rex bulking up fast. A study of 17 fossils says the opposite: the eight-ton predator may have taken about 40 years to reach full size — a slow, decades-long build.",
+          "importance": 3,
+          "difficulty": "intro",
+          "date": "2026-06-22"
+        },
+        {
+          "id": "card_ac13a6",
+          "slug": "permian-mass-extinction-metabolism",
+          "type": "news",
+          "title": "Why Clams Replaced Brachiopods: Metabolism Decided Earth's Worst Extinction",
+          "hook": "Brachiopods ruled the seafloor for 280 million years. One mass extinction later, clams and snails took over — and new research says the deciding factor was how fast each group's metabolism ran.",
+          "importance": 5,
+          "difficulty": "core",
+          "date": "2026-07-12"
+        },
+        {
+          "id": "card_f45650",
+          "slug": "resurrected-ancient-nitrogenase",
+          "type": "news",
+          "title": "Scientists Resurrected a 3.2-Billion-Year-Old Enzyme",
+          "hook": "Instead of reading rocks and fossils, researchers rebuilt an ancient version of the enzyme that makes nitrogen usable for life — and brought it back to work in the lab.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-07"
+        },
+        {
+          "id": "card_089e6b",
+          "slug": "asteroids-sparked-life-on-earth",
+          "type": "news",
+          "title": "How Asteroids May Have Sparked Life on Earth",
+          "hook": "Ancient asteroid strikes didn't just reshape Earth's surface — new models suggest they cracked open vast underground hydrothermal systems that could have been ideal cradles for life.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-07-02"
+        },
+        {
+          "id": "card_b596f2",
+          "slug": "metabolism-first-soil",
+          "type": "news",
+          "title": "The Dirt That Kept Doing Chemistry",
+          "hook": "Sterilized soil with nothing alive in it kept running lifelike chemical reactions for six years — a clue pointing toward a 'metabolism-first' origin of life.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-01"
+        },
+        {
+          "id": "card_e21b2e",
+          "slug": "the-cambrian-explosion",
+          "type": "concept",
+          "title": "The Cambrian Explosion",
+          "hook": "Around 540 million years ago, after billions of years of mostly microbes, animal life suddenly diversified into a riot of body plans — most major groups appearing in a geological blink.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_71676e",
+          "slug": "the-history-of-life",
+          "type": "concept",
+          "title": "The History of Life",
+          "hook": "Life is about 3.5 billion years old, but for most of that time it was just microbes. Animals, plants, and us are latecomers crowded into the most recent slice of deep time.",
+          "importance": 4,
+          "difficulty": "core",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_8f525a",
+          "slug": "moon-landings-threaten-origin-of-life-clues",
+          "type": "news",
+          "title": "Future Moon Landings Could Erase Clues to How Life Began on Earth",
+          "hook": "The moon may be quietly preserving debris from early Earth — and a new wave of lunar missions risks contaminating it before scientists get a look.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-07-12"
+        },
+        {
+          "id": "card_13a0f3",
+          "slug": "ancient-deep-sea-chemosynthesis",
+          "type": "news",
+          "title": "Signs of Ancient Life Where Sunlight Never Reached",
+          "hook": "Wrinkly fossil patterns usually made by sunlit microbial mats turned up in ancient deep-sea rocks — pointing to microbes that lived on chemistry, not light, far more widely than thought.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-26"
+        },
+        {
+          "id": "card_a44797",
+          "slug": "nanozymes-origin-of-life",
+          "type": "news",
+          "title": "Did Mineral Nanoparticles Spark Life?",
+          "hook": "A new theory casts tiny mineral nanoparticles as 'nanozymes' — natural catalysts and energy processors that could have nudged Earth's lifeless chemistry toward the first life.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-10"
+        },
+        {
+          "id": "card_a1735d",
+          "slug": "how-photosynthesis-evolved",
+          "type": "news",
+          "title": "The Long Road to Photosynthesis",
+          "hook": "Turning sunlight into food is one of biology's most intricate inventions. Ancient cyanobacteria are revealing what an early step on the road to it looked like.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-10"
+        },
+        {
+          "id": "card_409a86",
+          "slug": "sex-and-early-animal-evolution",
+          "type": "news",
+          "title": "Did Sex Jump-Start Evolution?",
+          "hook": "Earth's first animals barely changed for ages. A study argues the switch from cloning to sex is what finally set evolution — and biodiversity — racing.",
+          "importance": 3,
+          "difficulty": "core",
+          "date": "2026-06-10"
+        },
+        {
+          "id": "card_6980cd",
+          "slug": "endosymbiosis",
+          "type": "concept",
+          "title": "Endosymbiosis",
+          "hook": "Your cells run on power plants that were once free-living bacteria. Billions of years ago, one cell swallowed another — and never let go.",
+          "importance": 4,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        },
+        {
+          "id": "card_7246cb",
+          "slug": "is-biological-agency-real",
+          "type": "news",
+          "title": "Does Life Have Its Own Goals — Or Just Look Like It Does?",
+          "hook": "Biologists are split on 'agency': the idea that living things set their own goals and act on them, rather than just executing genetic instructions. Real science, or a comforting story?",
+          "importance": 3,
+          "difficulty": "deep",
+          "date": "2026-07-08"
+        },
+        {
+          "id": "card_458482",
+          "slug": "searching-for-alien-civilizations-statistics",
+          "type": "news",
+          "title": "The Universe Is Probably Crowded With Life — Or Almost Empty. Not in Between.",
+          "hook": "Reworking the Drake equation, an astronomer argues the numbers point to one of two extremes: technological civilizations should be everywhere, or we're essentially alone. No comfortable middle ground.",
+          "importance": 3,
+          "difficulty": "deep",
+          "date": "2026-07-09"
+        },
+        {
+          "id": "card_e0f432",
+          "slug": "mass-extinctions",
+          "type": "concept",
+          "title": "Mass Extinctions",
+          "hook": "Five times in the past half-billion years, life on Earth was nearly wiped out. Each catastrophe reset the course of evolution — and the asteroid that killed the dinosaurs was only the most famous.",
+          "importance": 3,
+          "difficulty": "deep",
+          "date": "2026-06-04"
+        }
+      ]
+    }
+  ]
+}

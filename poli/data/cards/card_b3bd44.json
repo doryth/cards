@@ -1,0 +1,132 @@
+{
+  "id": "card_b3bd44",
+  "slug": "free-press-and-democracy",
+  "type": "concept",
+  "title": "The Free Press \u0026 Democracy",
+  "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+  "key_points": [
+    "A free press reports and scrutinizes those in power without state control of content.",
+    "It informs voters and exposes abuses — the 'watchdog' role of journalism.",
+    "Nicknamed the 'fourth estate': an informal check beyond the three branches of government.",
+    "Press freedom is fragile — pressure can come via censorship, ownership, harassment, or capture."
+  ],
+  "content_html": "\u003cp\u003eA free press is journalism that can report on and scrutinize those in power without the state dictating what it may publish. Its democratic importance follows directly from how democracy works: voters can only hold a government accountable if they know what it is doing, and elections only discipline power if the public can learn about failures, corruption, and abuses. The press is the main institution that supplies that information continuously, between elections as well as during them. This is its \u0026quot;watchdog\u0026quot; role — investigating, exposing, and forcing answers from the powerful.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe press is sometimes called the \u0026quot;fourth estate,\u0026quot; a phrase capturing the idea that it functions as an informal fourth check on power alongside the legislative, executive, and judicial branches — one accountable to readers rather than to the state. Encyclopaedia Britannica traces how hard-won and contested press freedom has been historically. It is also fragile, and the threats are not only the obvious ones. Outright censorship and the jailing of journalists are the starkest, but press freedom can erode more quietly: through concentrated ownership that narrows what gets covered, economic pressure on outlets, harassment and intimidation of reporters, or \u0026quot;media capture,\u0026quot; where ostensibly independent outlets are brought under the influence of a government or allied owners. Because a captured or cowed press can keep the appearance of freedom while losing its substance, the health of the press is one of the more telling signals of the health of a democracy.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/freedom-of-the-press",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "media-civil-society"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_e5b9a4",
+      "slug": "freedom-of-expression",
+      "type": "concept",
+      "title": "Freedom of Expression",
+      "hook": "The freedom to speak, publish, and dissent is often called the first freedom — because without it, citizens can't check power or argue their way to better decisions.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_21de42",
+      "slug": "democracy-vs-authoritarianism",
+      "type": "concept",
+      "title": "Democracy vs Authoritarianism",
+      "hook": "The deepest dividing line between regimes isn't left versus right — it's whether power can be lost. Can the people remove their rulers, or not?",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bbd2b",
+      "slug": "interest-groups-and-lobbying",
+      "type": "concept",
+      "title": "Interest Groups \u0026 Lobbying",
+      "hook": "Between elections, organized groups press their case to government every day. Lobbying is how that pressure is applied — and it's both a feature and a worry of democracy.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9d7f31",
+      "slug": "decline-of-newspaper-editorials",
+      "type": "news",
+      "title": "The Newspaper Editorial Is Disappearing",
+      "hook": "Pulitzer editorial entries fell from 101 in 1995 to 25 this year, as chains swapped local editorials for syndicated columns — leaving a hole in local accountability.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-20"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_e5b9a4",
+      "slug": "freedom-of-expression",
+      "type": "concept",
+      "title": "Freedom of Expression",
+      "hook": "The freedom to speak, publish, and dissent is often called the first freedom — because without it, citizens can't check power or argue their way to better decisions.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_b3bd44#0",
+      "format": "flip",
+      "prompt": "Why is a free press called the 'fourth estate'?",
+      "back_html": "\u003cp\u003eBecause it acts as an \u003cstrong\u003einformal fourth check on power\u003c/strong\u003e, beyond the\nlegislative, executive, and judicial branches — watching them for the public.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b3bd44#1",
+      "format": "quiz",
+      "prompt": "What is the 'watchdog' role of a free press?",
+      "choices": [
+        {
+          "text": "Informing voters and exposing abuses of power",
+          "correct": true
+        },
+        {
+          "text": "Publishing only stories the government approves",
+          "correct": false
+        },
+        {
+          "text": "Running elections and counting votes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA watchdog press investigates and reports on those in power so citizens\ncan hold them accountable.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b3bd44#2",
+      "format": "quiz",
+      "prompt": "Which of these can quietly undermine press freedom even without formal censorship?",
+      "choices": [
+        {
+          "text": "Concentrated ownership, harassment of journalists, or media capture",
+          "correct": true
+        },
+        {
+          "text": "Having too many independent newspapers",
+          "correct": false
+        },
+        {
+          "text": "Journalists asking officials questions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePress freedom can erode through ownership, intimidation, or capture, not\nonly through outright censorship.\u003c/p\u003e"
+    }
+  ]
+}

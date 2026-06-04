@@ -1,0 +1,102 @@
+{
+  "id": "card_b55b00",
+  "slug": "vitamin-d-for-babies",
+  "type": "concept",
+  "title": "Why Breastfed Babies Need Vitamin D Drops",
+  "hook": "Breast milk is nearly perfect — but it's low in vitamin D. Pediatricians recommend a daily 400 IU vitamin D supplement for every breastfed and partly breastfed baby, starting in the first days.",
+  "key_points": [
+    "The AAP recommends 400 IU of vitamin D a day for all breastfed and partly breastfed infants, beginning in the first few days of life.",
+    "Vitamin D lets the body absorb calcium; too little can cause rickets, a softening and weakening of the bones.",
+    "Formula is already fortified — a fully formula-fed baby taking about a liter (32 oz) a day usually doesn't need extra.",
+    "Sunlight isn't a safe source for babies, since infant skin should be kept out of direct sun; drops are the reliable route."
+  ],
+  "content_html": "\u003cp\u003eBreast milk gives a baby almost everything they need — but it's naturally low in one thing: vitamin D. Because of that, the AAP recommends giving all breastfed and partly breastfed babies a daily supplement of 400 IU of vitamin D, starting in the first few days of life and continuing until they're weaned onto enough vitamin-D-fortified formula or, later, milk.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eVitamin D is what lets the body absorb and use calcium to build strong bones; without enough, a baby can develop rickets, where the bones soften and weaken. Sunlight does make vitamin D in the skin, but it isn't a safe source for babies — infant skin should be kept out of direct sun — so a daily drop is the dependable route. Fully formula-fed babies are usually covered, because infant formula is fortified; once a baby is reliably taking around a liter (about 32 ounces) a day, they generally don't need a separate supplement. This is general guidance — your pediatrician can confirm the right supplement and dose for your baby.\u003c/p\u003e",
+  "source": {
+    "name": "AAP — HealthyChildren.org",
+    "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Vitamin-Iron-Supplements.aspx",
+    "license": "© American Academy of Pediatrics"
+  },
+  "topic_ids": [
+    "feeding",
+    "newborn"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_dc2ba7",
+      "slug": "breastfeeding-getting-started",
+      "type": "concept",
+      "title": "Breastfeeding: Getting Off to a Good Start",
+      "hook": "A deep latch is the foundation of comfortable, effective breastfeeding — and most early hurdles like soreness and engorgement settle once attachment and supply find their rhythm.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b6dd90",
+      "slug": "starting-solid-foods",
+      "type": "concept",
+      "title": "Starting Solid Foods",
+      "hook": "Most babies are ready for their first solid foods at around six months — alongside continued breast milk or formula, not instead of it.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b55b00#0",
+      "format": "quiz",
+      "prompt": "How much daily vitamin D does the AAP recommend for a breastfed baby?",
+      "choices": [
+        {
+          "text": "400 IU a day, starting in the first few days of life",
+          "correct": true
+        },
+        {
+          "text": "None — breast milk supplies enough",
+          "correct": false
+        },
+        {
+          "text": "Only in winter, and only after 6 months",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBreast milk is low in vitamin D, so the AAP recommends 400 IU daily for all\nbreastfed and partly breastfed infants from the first days of life.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b55b00#1",
+      "format": "quiz",
+      "prompt": "Which baby usually does NOT need a vitamin D supplement?",
+      "choices": [
+        {
+          "text": "One fully formula-fed and taking about a liter a day",
+          "correct": true
+        },
+        {
+          "text": "An exclusively breastfed newborn",
+          "correct": false
+        },
+        {
+          "text": "A baby who is mostly breastfed with a little formula",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInfant formula is fortified with vitamin D, so a baby drinking roughly a liter\n(32 oz) a day generally gets enough without extra drops.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b55b00#2",
+      "format": "flip",
+      "prompt": "Why does too little vitamin D matter for a baby?",
+      "back_html": "\u003cp\u003eVitamin D helps the body \u003cstrong\u003eabsorb calcium\u003c/strong\u003e. A shortfall can lead to \u003cstrong\u003erickets\u003c/strong\u003e —\nsoft, weakened bones. A daily supplement prevents it.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "card_b02aab",
+  "slug": "antibiotics-and-resistance",
+  "type": "concept",
+  "title": "Antibiotics and Resistance",
+  "hook": "Antibiotics are among medicine's greatest tools — but every time we use one, the surviving bacteria get a chance to learn how to beat it.",
+  "key_points": [
+    "Antibiotics kill bacteria or stop them from multiplying, but do nothing to viruses.",
+    "They work by attacking structures unique to bacterial cells.",
+    "Resistance arises when bacteria survive a drug and pass on their defenses.",
+    "Overuse and misuse of antibiotics speed up the rise of resistant bacteria."
+  ],
+  "content_html": "\u003cp\u003eAntibiotics changed medicine. Before them, a minor infection could turn deadly; today, drugs like penicillin clear bacterial illnesses that once killed routinely. They work by exploiting features unique to bacterial cells — bursting their walls or jamming their protein factories — which is exactly why they're useless against viruses, whose machinery is entirely different.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch is that bacteria fight back. No drug kills every single cell, and the few that survive — those carrying chance mutations or borrowed genes that blunt the antibiotic — go on to multiply. Over many rounds of treatment, a population can become almost entirely resistant, leaving the drug powerless. The U.S. Centers for Disease Control and Prevention explains that overusing antibiotics, including taking them for viral colds where they can't help, hands bacteria more opportunities to adapt. That's why using these drugs only when truly needed, and exactly as prescribed, is now a public-health priority worldwide.\u003c/p\u003e",
+  "source": {
+    "name": "U.S. Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/antimicrobial-resistance/about/how-resistance-happens.html",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b06fb7",
+      "slug": "the-human-microbiome",
+      "type": "concept",
+      "title": "The Human Microbiome",
+      "hook": "You're never alone: trillions of bacteria, fungi, and other microbes live in and on your body, and most of them are working in your favor.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b02aab#0",
+      "format": "flip",
+      "prompt": "Why don't antibiotics work against viruses?",
+      "back_html": "\u003cp\u003eAntibiotics attack structures unique to \u003cstrong\u003ebacteria\u003c/strong\u003e — like their cell walls or\nprotein-making machinery. Viruses are built differently, so the drugs have\nnothing to target.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b02aab#1",
+      "format": "quiz",
+      "prompt": "How does antibiotic resistance arise?",
+      "choices": [
+        {
+          "text": "Bacteria that survive a drug pass their defenses to new generations",
+          "correct": true
+        },
+        {
+          "text": "Humans get used to antibiotics and stop responding",
+          "correct": false
+        },
+        {
+          "text": "Viruses teach bacteria how to resist",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen an antibiotic doesn't wipe out every bacterium, the survivors — those with\nresistance traits — multiply and spread, so the drug works less and less well\nover time.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b02aab#2",
+      "format": "quiz",
+      "prompt": "What speeds up the rise of antibiotic resistance?",
+      "choices": [
+        {
+          "text": "Overusing and misusing antibiotics",
+          "correct": true
+        },
+        {
+          "text": "Finishing a prescribed course exactly as directed",
+          "correct": false
+        },
+        {
+          "text": "Avoiding antibiotics when they aren't needed",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTaking antibiotics when they aren't needed, or not as directed, gives more\nbacteria the chance to survive and evolve resistance — which is why doctors urge\ncareful use.\u003c/p\u003e"
+    }
+  ]
+}

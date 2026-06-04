@@ -1,0 +1,71 @@
+{
+  "id": "card_d3af76",
+  "slug": "mass-vs-weight",
+  "type": "concept",
+  "title": "Mass vs. Weight",
+  "hook": "Your mass is the same on the Moon as on Earth — but your weight isn't. They're related, but they are not the same thing.",
+  "key_points": [
+    "Mass measures how much matter an object contains and how hard it is to accelerate.",
+    "Weight is the force of gravity pulling on that mass: weight = mass times gravity.",
+    "Mass stays constant everywhere; weight changes with the local gravity.",
+    "A scale reads weight, but kilograms label mass — which is why the numbers can confuse."
+  ],
+  "content_html": "\u003cp\u003eEveryday language treats mass and weight as the same, but physics keeps them apart. Mass is a measure of how much matter is in an object — and equivalently how hard it is to accelerate it, the m in F = ma. Weight is something different: it's the force gravity exerts on that mass, found by multiplying mass by the local gravitational pull.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBecause mass is intrinsic to the object, it doesn't change when you travel. Weight does: take the same person to the Moon, where gravity is about a sixth of Earth's, and they weigh about a sixth as much while their mass is unchanged. A bathroom scale actually measures weight (a force), even though it's labeled in kilograms, a unit of mass — which is exactly why the two ideas get tangled. Britannica lays out the distinction and the units involved.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/weight",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "motion-forces"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d32c83",
+      "slug": "newtons-three-laws",
+      "type": "concept",
+      "title": "Newton's Three Laws of Motion",
+      "hook": "Three short rules — inertia, F=ma, and action-reaction — quietly govern almost everything that moves around you.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d3af76#0",
+      "format": "flip",
+      "prompt": "Why does your weight change on the Moon but your mass does not?",
+      "back_html": "\u003cp\u003eMass is the amount of matter you contain and never changes. Weight is the\npull of \u003cstrong\u003egravity\u003c/strong\u003e on that mass, and the Moon's gravity is weaker.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d3af76#1",
+      "format": "quiz",
+      "prompt": "Which statement correctly distinguishes mass from weight?",
+      "choices": [
+        {
+          "text": "Mass measures amount of matter; weight is the force of gravity on it",
+          "correct": true
+        },
+        {
+          "text": "Weight measures amount of matter; mass is the force of gravity on it",
+          "correct": false
+        },
+        {
+          "text": "Mass and weight are two words for the exact same quantity",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMass is intrinsic to the object; weight depends on the local gravity acting\non that mass.\u003c/p\u003e"
+    }
+  ]
+}

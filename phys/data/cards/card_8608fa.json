@@ -1,0 +1,104 @@
+{
+  "id": "card_8608fa",
+  "slug": "muon-electric-dipole-moment-limit",
+  "type": "paper",
+  "title": "Is the Muon Lopsided? Still No Sign of It",
+  "hook": "A particle with a permanent electric dipole moment would violate time-reversal symmetry and point straight at new physics. Muon g-2 just squeezed the muon's limit tighter — and it stays at zero.",
+  "key_points": [
+    "An electric dipole moment (EDM) means a particle's charge is skewed along its spin axis; the Standard Model predicts an essentially undetectable one.",
+    "A measurable EDM would violate time-reversal symmetry, so it is a clean search for physics beyond the Standard Model.",
+    "The Fermilab Muon g-2 experiment reused its 2019-2020 data, tracking the average vertical angle at which positrons emerge from muon decays.",
+    "A muon EDM interacting with the lab's magnetic field would tilt those decays up or down — the signature they looked for.",
+    "The measured value is (-0.35 ± 0.19 stat ± 0.34 sys) × 10⁻¹⁹ e·cm, consistent with zero.",
+    "That sets a new direct limit of |d_mu| \u003c 1.10 × 10⁻¹⁹ e·cm at 95% confidence."
+  ],
+  "content_html": "\u003cp\u003eGive a particle a spin and it behaves like a tiny magnet — that much is expected. Give it a permanent \u003cem\u003eelectric\u003c/em\u003e dipole moment, a skew of its charge along that same spin axis, and something is badly wrong with our picture of nature: such a moment violates time-reversal symmetry, and the Standard Model predicts one so small it is effectively unobservable. This makes EDM searches wonderfully clean. Any signal at all is new physics.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe Muon g-2 Collaboration at Fermilab, best known for its precision measurement of the muon's anomalous magnetic moment, has now mined the same 2019-2020 dataset for the muon's EDM. The method exploits geometry: the experiment's tracking detectors record the direction of positrons emitted when stored muons decay, and an interaction between an EDM and the storage ring's magnetic field would tip the average decay angle slightly up or down out of the ring plane. Measuring that vertical tilt gives the EDM directly. The result is d_mu = (-0.35 ± 0.19 stat ± 0.34 sys) × 10⁻¹⁹ e·cm — consistent with zero, and translating into a new direct limit of |d_mu| \u0026lt; 1.10 × 10⁻¹⁹ e·cm at 95% confidence. No lopsided muon, then, but a tighter box around whatever new physics might one day produce one.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "The Muon g-2 Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2608.11124",
+    "published_at": "2026-08-11",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_e2c56f",
+      "slug": "the-muon-puzzle",
+      "type": "paper",
+      "title": "The muon puzzle: air showers make more muons than physics predicts",
+      "hook": "Cosmic rays hitting the atmosphere produce far more muons than any collider-tuned model expects. Auger now says the fix is that proton collisions must dump several times more energy into hadrons.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_bbad10",
+      "slug": "tau-lepton-magnetic-moment",
+      "type": "paper",
+      "title": "The Sharpest Look Yet at the Tau's Tiny Magnet",
+      "hook": "Every charged particle is a tiny magnet, and quantum jitters nudge its strength. Measuring that nudge tests the Standard Model — and CMS just made the best check yet for the tau lepton.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8608fa#0",
+      "format": "flip",
+      "prompt": "What is a particle's electric dipole moment, and why is finding one a big deal?",
+      "back_html": "\u003cp\u003eA skew of its charge along the spin axis. A measurable one would \u003cstrong\u003eviolate\ntime-reversal symmetry\u003c/strong\u003e, which the Standard Model essentially forbids — so it\nwould mean new physics.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8608fa#1",
+      "format": "quiz",
+      "prompt": "How did Muon g-2 look for the muon EDM?",
+      "choices": [
+        {
+          "text": "By measuring the average vertical angle of positrons from muon decays, which an EDM would tilt",
+          "correct": true
+        },
+        {
+          "text": "By measuring the muon's lifetime at two different magnetic field strengths",
+          "correct": false
+        },
+        {
+          "text": "By counting how many muons failed to decay inside the storage ring",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn EDM interacting with the lab-frame magnetic field would push decays\npreferentially up or down, so the vertical decay angle is the observable.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8608fa#2",
+      "format": "flip",
+      "prompt": "What was the outcome of the measurement?",
+      "back_html": "\u003cp\u003eConsistent with zero: \u003cstrong\u003e(-0.35 ± 0.19 ± 0.34) × 10⁻¹⁹ e·cm\u003c/strong\u003e, giving a new direct\nlimit of \u003cstrong\u003e|d_mu| \u0026lt; 1.10 × 10⁻¹⁹ e·cm\u003c/strong\u003e at 95% confidence.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "card_09de98",
+  "slug": "penrose-process-without-a-horizon",
+  "type": "paper",
+  "title": "Stealing Energy From a Spin, No Event Horizon Required",
+  "hook": "The Penrose process needs a black hole to swallow the negative-energy leftover. This paper argues a horizonless spinning object can trap it instead — and still hand you the profit.",
+  "key_points": [
+    "In the Penrose process, a particle entering a spinning black hole's ergoregion splits: one fragment gets negative energy and falls in, the other escapes with more energy than the original.",
+    "The horizon's job is disposal — it removes the negative-energy fragment permanently.",
+    "The authors show that confinement inside a compact ergoregion can do that job instead, with no absorbing or reflecting inner boundary imposed.",
+    "They prove that for a broad class of regular, stationary, axisymmetric, asymptotically flat horizonless spacetimes, each connected piece of the ergosurface is a compact torus.",
+    "Negative-energy geodesics meet a forbidden zone near that boundary and so stay trapped inside.",
+    "A rotating boson star realises the full process explicitly, energy extraction and all."
+  ],
+  "content_html": "\u003cp\u003eRoger Penrose's process is one of general relativity's more remarkable claims: you can extract energy from a rotating black hole. Send a particle into the ergoregion — the zone where spacetime is dragged around so hard that nothing can stand still — and let it split. One fragment can have negative energy as measured from far away, and if it disappears down the horizon, the other fragment escapes carrying more energy than the pair started with. The spin pays for the difference. The horizon, in this story, is essentially a rubbish bin.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eYang Huang and colleagues ask whether the bin is really necessary, and argue that at the kinematic level it is not: confinement can substitute for absorption. Their central geometric result is that for a broad class of regular, stationary, axisymmetric, asymptotically flat spacetimes without horizons, every smooth connected component of the spatial ergosurface must be a compact torus — a statement they derive without assuming any field equations or particular matter content. Future-directed geodesics carrying negative Killing energy run into a forbidden neighbourhood of each such boundary and are therefore trapped inside, with no absorbing or reflecting inner wall put in by hand. The authors then derive an exterior no-barrier condition and exhibit an open set of momentum-conserving splittings that yield both a confined negative-energy fragment and an amplified partner; under equatorial reflection symmetry, once that partner heads outward it necessarily makes it to infinity. A rotating boson star provides a concrete spacetime where the whole sequence goes through. The upshot is conceptual: energy extraction of this kind is a property of ergoregions, not of horizons.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Yang Huang",
+      "Shiyang Hu",
+      "Bin Chen",
+      "Minyong Guo"
+    ],
+    "url": "https://arxiv.org/abs/2608.08711",
+    "published_at": "2026-08-09",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "gravity-orbits"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-13",
+  "date": "2026-08-09",
+  "related": [
+    {
+      "id": "card_10daf5",
+      "slug": "black-hole-energy-extraction-in-the-lab",
+      "type": "news",
+      "title": "Physicists Recreated a Black Hole's Energy-Extraction Trick",
+      "hook": "Roger Penrose showed a spinning black hole can hand energy to whatever passes through it. Physicists just reproduced that effect on a lab bench — no black hole, nothing spinning, required.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "card_a9dd8c",
+      "slug": "gravastar-instead-of-black-hole",
+      "type": "news",
+      "title": "What If a Dying Star Made a Universe, Not a Black Hole?",
+      "hook": "A new theoretical study floats a wild alternative to the black hole: a collapsing star might birth a tiny dark-energy-filled universe inside itself, halting the crush before a singularity forms.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-14"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_09de98#0",
+      "format": "flip",
+      "prompt": "In the standard Penrose process, what is the event horizon actually needed for?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eDisposal.\u003c/strong\u003e The split produces a negative-energy fragment, and the horizon removes\nit for good so the escaping partner can keep the surplus energy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_09de98#1",
+      "format": "quiz",
+      "prompt": "What replaces horizon absorption in the horizonless version?",
+      "choices": [
+        {
+          "text": "Geometric confinement of the negative-energy fragment inside a compact ergoregion",
+          "correct": true
+        },
+        {
+          "text": "A reflecting inner boundary that bounces the fragment back and forth",
+          "correct": false
+        },
+        {
+          "text": "Annihilation of the fragment against infalling matter",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNo absorbing or reflecting boundary is imposed. Negative-energy geodesics simply\nencounter a forbidden neighbourhood of the ergosurface and cannot leave.\u003c/p\u003e"
+    },
+    {
+      "id": "card_09de98#2",
+      "format": "flip",
+      "prompt": "What shape do the authors prove the ergosurface components take?",
+      "back_html": "\u003cp\u003eEach smooth connected component is a \u003cstrong\u003ecompact torus\u003c/strong\u003e — and they prove it\nindependently of the field equations or the matter content.\u003c/p\u003e"
+    }
+  ]
+}

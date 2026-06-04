@@ -1,0 +1,92 @@
+{
+  "id": "card_21fb59",
+  "slug": "alzheimers-sleep-loss-microglia",
+  "type": "news",
+  "title": "Alzheimer's Steals Sleep Through Inflammation, Not Just Plaques",
+  "hook": "Removing overactive immune cells in the brains of Alzheimer's mice restored more than two hours of sleep a day — even though the amyloid plaques never went away.",
+  "key_points": [
+    "Researchers found the brain's own immune cells, called microglia, play a surprising role in Alzheimer's-related sleep loss.",
+    "In mice with amyloid plaques, overactive microglia triggered inflammation that disrupted deep, restorative sleep.",
+    "Temporarily removing most of these microglia restored more than two hours of sleep per day.",
+    "Plaques remained unchanged, showing sleep loss can be driven by inflammation rather than the plaques themselves.",
+    "This points to inflammation, separate from plaque burden, as a possible treatment target for sleep problems in Alzheimer's."
+  ],
+  "content_html": "\u003cp\u003eIn mice with Alzheimer's-like amyloid plaques, researchers tracked down a surprising culprit behind their poor sleep: not the plaques themselves, but the brain's own immune cells.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, overactive microglia — the brain's resident immune cells — triggered inflammation that kept these mice from getting enough deep, restorative sleep. When researchers temporarily removed most of the microglia, the mice regained more than two hours of sleep per day, even though their amyloid plaques were left completely unchanged.\u003c/p\u003e\n\u003cp\u003eThat's the notable part: sleep loss in Alzheimer's is often assumed to trace back to the plaques directly. This work suggests inflammation is a separate, independent driver — one that might be treatable without first solving the much harder problem of clearing plaques. It's a mouse study, so it's a mechanism finding rather than a therapy, but it opens a target for improving sleep in Alzheimer's that doesn't require waiting on a plaque-clearing breakthrough.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260719035931.htm",
+    "published_at": "2026-07-20",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "healthy-aging"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-20",
+  "related": [
+    {
+      "id": "card_d7624e",
+      "slug": "what-triggers-alzheimers",
+      "type": "news",
+      "title": "Maybe Plaques Aren't the Whole Story",
+      "hook": "New research suggests Alzheimer's may start not with plaques themselves, but with amyloid beta interfering with tau — the protein that keeps neurons running.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_64fe27",
+      "slug": "how-alzheimers-kills-brain-cells",
+      "type": "news",
+      "title": "Scientists May Have Found How Alzheimer's Kills Brain Cells",
+      "hook": "Researchers say they've found a previously overlooked mechanism of brain cell death behind both Alzheimer's and frontotemporal dementia — and it might be possible to interrupt.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-05"
+    },
+    {
+      "id": "card_366490",
+      "slug": "why-sleep-matters",
+      "type": "concept",
+      "title": "Why Sleep Matters",
+      "hook": "Sleep isn't downtime — it's when your brain consolidates memory and your body repairs itself. Skimp on it for long and the bill comes due in your health.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_21fb59#0",
+      "format": "flip",
+      "prompt": "What actually restored lost sleep in these Alzheimer's mice — clearing plaques, or something else?",
+      "back_html": "\u003cp\u003eSomething else: temporarily removing overactive \u003cstrong\u003emicroglia\u003c/strong\u003e (brain immune cells)\nrestored over two hours of sleep a day, even though amyloid \u003cstrong\u003eplaques stayed unchanged\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_21fb59#1",
+      "format": "quiz",
+      "prompt": "What did researchers identify as the culprit behind sleep loss in these Alzheimer's mice?",
+      "choices": [
+        {
+          "text": "Inflammation triggered by overactive microglia",
+          "correct": true
+        },
+        {
+          "text": "The amyloid plaques growing larger and blocking sleep circuits",
+          "correct": false
+        },
+        {
+          "text": "A separate, unrelated sleep disorder appearing alongside Alzheimer's",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOveractive microglia — not the plaques — drove the inflammation behind the sleep loss.\nRemoving the microglia restored sleep while the plaques remained exactly the same.\u003c/p\u003e"
+    }
+  ]
+}

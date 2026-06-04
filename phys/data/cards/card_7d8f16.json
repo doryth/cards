@@ -1,0 +1,119 @@
+{
+  "id": "card_7d8f16",
+  "slug": "the-cosmological-constant-comeback",
+  "type": "news",
+  "title": "Einstein's 'Biggest Blunder' Was Right",
+  "hook": "Einstein added a constant to his equations to hold the universe still, then threw it out in embarrassment. It came back as the centerpiece of modern cosmology.",
+  "key_points": [
+    "Einstein introduced the cosmological constant to keep general relativity's universe from expanding or collapsing, then abandoned it.",
+    "The 1990s discovery that cosmic expansion is accelerating brought it straight back.",
+    "It now anchors the standard cosmological model as the simplest description of dark energy.",
+    "The model fits an extraordinary range of data — and may still be wrong, since nobody can explain the constant's value."
+  ],
+  "content_html": "\u003cp\u003eEinstein's field equations of general relativity don't want a static universe. So in 1917, believing the cosmos was unchanging, Einstein added an extra term — the cosmological constant — to hold it in place. When Hubble showed the universe was expanding, Einstein dropped the term, reportedly calling it his greatest blunder.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThen in the late 1990s, supernova surveys found that cosmic expansion isn't just continuing but speeding up. Something is pushing space apart, and the simplest candidate is exactly the term Einstein discarded: a constant energy density filling all of space, now called dark energy. As ScienceDaily lays out, the cosmological constant is today a load-bearing piece of the standard cosmological model — a model that reproduces an impressive range of observations. What it doesn't do is explain itself. Nobody has a derivation of the constant's tiny observed value, which is why cosmologists keep testing whether dark energy really is constant, or something that changes with time.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260816044835.htm",
+    "published_at": "2026-08-18",
+    "license": "ScienceDaily (press summary)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-20",
+  "date": "2026-08-18",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_402dc8",
+      "slug": "cosmic-acceleration-confirmed",
+      "type": "news",
+      "title": "Dark Energy Survives a Major Challenge",
+      "hook": "A bold claim said the universe's accelerating expansion was an illusion. Astronomers checked the math, found the mistakes — and cosmic acceleration came out as strong as ever.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_1d07ca",
+      "slug": "is-dark-energy-evolving",
+      "type": "paper",
+      "title": "Is Dark Energy Changing Over Time?",
+      "hook": "For decades dark energy looked like a constant. New galaxy-survey data hints it may evolve — and that would shift even our measured value of the cosmic expansion rate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7d8f16#0",
+      "format": "flip",
+      "prompt": "Why did Einstein originally add a cosmological constant to his equations?",
+      "back_html": "\u003cp\u003eTo hold the universe \u003cstrong\u003estatic\u003c/strong\u003e. Left alone, general relativity's universe wants to\nexpand or collapse, and Einstein wanted neither — so he added a term to balance it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7d8f16#1",
+      "format": "quiz",
+      "prompt": "What discovery brought the cosmological constant back into cosmology?",
+      "choices": [
+        {
+          "text": "That the universe's expansion is accelerating",
+          "correct": true
+        },
+        {
+          "text": "That the universe is expanding at all",
+          "correct": false
+        },
+        {
+          "text": "That dark matter outweighs ordinary matter",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eExpansion alone didn't need the constant — Einstein dropped it once expansion was found.\nIt was the discovery that expansion is \u003cem\u003eaccelerating\u003c/em\u003e that required something like it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7d8f16#2",
+      "format": "flip",
+      "prompt": "What's the uncomfortable part of the constant's success?",
+      "back_html": "\u003cp\u003eThe standard model built on it fits the data extraordinarily well, yet \u003cstrong\u003eno one can\nexplain why the constant has the value it does\u003c/strong\u003e — so the model may still be wrong.\u003c/p\u003e"
+    }
+  ]
+}

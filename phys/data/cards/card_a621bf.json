@@ -1,0 +1,94 @@
+{
+  "id": "card_a621bf",
+  "slug": "sound-waves",
+  "type": "concept",
+  "title": "Sound Waves",
+  "hook": "Sound is just air being squeezed and stretched — which is also why there's no sound in the vacuum of space.",
+  "key_points": [
+    "Sound is a longitudinal wave: regions of compressed and rarefied air travel outward.",
+    "It needs a medium — air, water, or solid — so it can't travel through a vacuum.",
+    "Frequency sets pitch; amplitude sets loudness.",
+    "Sound travels faster in liquids and solids than in air, where particles are closer together."
+  ],
+  "content_html": "\u003cp\u003eSound is a longitudinal wave traveling through a medium. When something vibrates — a guitar string, a vocal cord, a speaker cone — it pushes on the surrounding air, creating alternating regions where the air is squeezed together (compressions) and spread apart (rarefactions). That pattern races outward and, when it reaches your ear, your eardrum vibrates in step and you hear it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBecause sound is a disturbance in matter, it needs a medium to travel through; in the vacuum of space there's nothing to compress, so it's silent. Two properties of the wave map onto what you perceive: frequency sets the pitch (more cycles per second sounds higher), and amplitude sets the loudness (bigger pressure swings sound louder). Sound actually moves faster through water and solids than through air, because the closely packed particles pass the disturbance along more quickly. HyperPhysics contrasts longitudinal sound with transverse waves and details how the medium sets its speed.\u003c/p\u003e",
+  "source": {
+    "name": "HyperPhysics (Georgia State University)",
+    "authors": [
+      "Rod Nave"
+    ],
+    "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/tralon.html",
+    "license": "© Georgia State University (educational use)"
+  },
+  "topic_ids": [
+    "waves-sound"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_eefe71",
+      "slug": "what-is-a-wave",
+      "type": "concept",
+      "title": "What Is a Wave?",
+      "hook": "A wave moves energy from place to place without moving the stuff it travels through — the water bobs, but the wave races on.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a621bf#0",
+      "format": "quiz",
+      "prompt": "Why is there no sound in the vacuum of space?",
+      "choices": [
+        {
+          "text": "Sound needs a medium to travel through, and a vacuum has none",
+          "correct": true
+        },
+        {
+          "text": "Space is too cold for sound to form",
+          "correct": false
+        },
+        {
+          "text": "Sound travels but is too quiet to hear",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSound is a wave in a medium of particles; with no air or other matter to\ncompress, there is nothing to carry it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a621bf#1",
+      "format": "flip",
+      "prompt": "What property of a sound wave determines its pitch?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eFrequency\u003c/strong\u003e — how many compressions pass per second. Higher frequency\nmeans higher pitch. Amplitude sets loudness instead.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a621bf#2",
+      "format": "quiz",
+      "prompt": "What type of wave is sound?",
+      "choices": [
+        {
+          "text": "Longitudinal — air compresses and stretches along the direction of travel",
+          "correct": true
+        },
+        {
+          "text": "Transverse — air wiggles sideways to the direction of travel",
+          "correct": false
+        },
+        {
+          "text": "Neither; sound is not a wave",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSound pushes air into alternating compressions and rarefactions along its\npath, making it a longitudinal wave.\u003c/p\u003e"
+    }
+  ]
+}

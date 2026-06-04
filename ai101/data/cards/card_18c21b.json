@@ -1,0 +1,100 @@
+{
+  "id": "card_18c21b",
+  "slug": "suno-scraped-streaming-platforms",
+  "type": "news",
+  "title": "A Hack Exposed What an AI Music Generator Trained On",
+  "hook": "Suno never said what music trained its AI. A hacking incident did the talking instead, reportedly exposing millions of songs and lyrics scraped from YouTube, Genius, and Deezer.",
+  "key_points": [
+    "The Verge, citing 404 Media, reports data from a hacking incident exposed Suno's training sources.",
+    "The exposed data reportedly shows millions of songs and lyrics scraped from YouTube, Genius, and Deezer.",
+    "Suno had not previously disclosed what was in its training data or how it was obtained.",
+    "It's a rare, concrete leak in an industry that usually treats training data as a trade secret.",
+    "It feeds directly into the unresolved legal fight over consent and payment for AI training data."
+  ],
+  "content_html": "\u003cp\u003eAI music generators can produce a song \u0026quot;in the style of\u0026quot; almost anything, but the companies behind them rarely say exactly what real music taught the model to do that. The Verge, citing 404 Media, reports that a hacking incident forced the question open for Suno: exposed data reportedly reveals the AI music generator was trained by scraping millions of songs and lyrics from YouTube Music, Genius, and Deezer.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSuno had not previously disclosed what was in its training data or how it was acquired — which is typical for the industry, where training sources are usually guarded as a competitive secret. What makes this story notable is that the information came out not through transparency but through a security breach, turning an abstract question (\u0026quot;what did this AI learn from?\u0026quot;) into specific, checkable claims about specific platforms. It lands in the middle of one of AI's biggest unresolved legal fights: whether scraping copyrighted work to train a model requires the creator's permission, or counts as fair use. For anyone using AI music tools, the practical takeaway is the same one that applies across generative AI — the output can feel novel, but it was shaped by real work made by real people, usually without them being asked.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+    "published_at": "2026-07-15",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "dataset",
+    "training"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-16",
+  "date": "2026-07-15",
+  "related": [
+    {
+      "id": "card_c36b83",
+      "slug": "music-ai-training-database",
+      "type": "news",
+      "title": "See the Music That Trained AI",
+      "hook": "Ever wonder if your favorite song helped train an AI? The Atlantic dug up four music datasets used to train AI models — two with millions of tracks — and made them searchable by anyone.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-20"
+    },
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_18c21b#0",
+      "format": "quiz",
+      "prompt": "How did the public learn what data reportedly trained Suno's AI music generator?",
+      "choices": [
+        {
+          "text": "Data exposed in a hacking incident, not a voluntary disclosure by Suno",
+          "correct": true
+        },
+        {
+          "text": "Suno published a full list of every song it used",
+          "correct": false
+        },
+        {
+          "text": "A government audit required it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer the reporting, the training sources came to light only because of a\nhacking incident — Suno had not previously disclosed this information.\u003c/p\u003e"
+    },
+    {
+      "id": "card_18c21b#1",
+      "format": "flip",
+      "prompt": "Why does this story matter beyond one company?",
+      "back_html": "\u003cp\u003eIt's a rare concrete look at what usually stays hidden — the actual\ncopyrighted material scraped to train a generative AI model — feeding the\nbroader fight over consent and payment for training data.\u003c/p\u003e"
+    }
+  ]
+}

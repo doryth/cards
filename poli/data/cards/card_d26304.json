@@ -1,0 +1,129 @@
+{
+  "id": "card_d26304",
+  "slug": "emergency-docket-lets-texas-app-law-take-effect",
+  "type": "news",
+  "title": "A Law Can Take Effect Before Courts Decide If It's Legal",
+  "hook": "Texas requires parental permission before minors can download most apps. Courts haven't ruled it constitutional — but the Supreme Court's emergency docket let it take effect anyway.",
+  "key_points": [
+    "Texas's App Store Accountability Act requires minors to get parental permission before downloading most apps.",
+    "Tech industry groups sued, arguing the law raises serious constitutional questions, and the case is still working through the lower courts.",
+    "Rather than wait for a final ruling, the Supreme Court used its 'emergency docket' — a fast, low-transparency track for urgent requests — to let the law take effect while litigation continues.",
+    "That means the law is already shaping what apps minors can download, months or years before any court rules on whether it's constitutional.",
+    "It's a concrete example of a broader pattern: emergency rulings increasingly decide a law's real-world effect long before the underlying legal question is resolved."
+  ],
+  "content_html": "\u003cp\u003eA law doesn't need a final court ruling to start affecting people — it just needs to be allowed to take effect. Texas's App Store Accountability Act requires minors to get parental permission before downloading most apps, and tech industry groups quickly sued, arguing it raises serious constitutional questions that are still being litigated in the lower courts.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's Nina Totenberg reports that the Supreme Court didn't wait for that litigation to finish before deciding whether the law could operate — it used the \u0026quot;shadow docket,\u0026quot; its fast, low-transparency track for emergency requests, to let the law take effect immediately while the underlying case continues elsewhere. The practical result: the law is already shaping what apps minors can download, potentially for years, before any court issues a final ruling on whether it's constitutional at all. It's a concrete illustration of a pattern reshaping how much the emergency docket now matters — a law's real-world effect can be locked in well before its legality is actually settled. (This card describes U.S. Supreme Court practice specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Nina Totenberg"
+    ],
+    "url": "https://npr.org/2026/07/06/nx-s1-5883978/supreme-court-texas-app-store-minors",
+    "published_at": "2026-07-06",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "technology-and-politics",
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_ad4830",
+      "slug": "the-shadow-docket",
+      "type": "news",
+      "title": "The Supreme Court's 'Shadow Docket'",
+      "hook": "Most Supreme Court rulings today aren't fully-argued opinions — they're fast, often unsigned orders with little explanation. In the term ending October 2025, those quietly became the majority.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1cbc0b",
+      "slug": "state-ai-law-and-federal-preemption",
+      "type": "news",
+      "title": "States Are Writing AI Law First — and Federal Preemption Looms Over All of It",
+      "hook": "With no comprehensive federal AI law yet, states have become the testing ground for regulating artificial intelligence. That leaves every state AI law exposed to a preemption fight.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_ad4830",
+      "slug": "the-shadow-docket",
+      "type": "news",
+      "title": "The Supreme Court's 'Shadow Docket'",
+      "hook": "Most Supreme Court rulings today aren't fully-argued opinions — they're fast, often unsigned orders with little explanation. In the term ending October 2025, those quietly became the majority.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_d26304#0",
+      "format": "flip",
+      "prompt": "What does Texas's App Store Accountability Act require?",
+      "back_html": "\u003cp\u003eThat minors get their parents' permission before downloading most\napps.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d26304#1",
+      "format": "quiz",
+      "prompt": "How did the law come to take effect before courts ruled on whether it's constitutional?",
+      "choices": [
+        {
+          "text": "The Supreme Court used its emergency 'shadow docket' to let it take effect while the underlying case continues in lower courts",
+          "correct": true
+        },
+        {
+          "text": "Texas's legislature passed a second law overriding the ongoing lawsuit",
+          "correct": false
+        },
+        {
+          "text": "A federal appeals court issued a final ruling upholding the law",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe emergency docket lets the Court act fast on requests like this,\nwithout waiting for the full case to be argued and decided.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d26304#2",
+      "format": "quiz",
+      "prompt": "What's the broader civics lesson this case illustrates?",
+      "choices": [
+        {
+          "text": "A law's real-world effect can be decided by an emergency ruling long before its underlying legality is finally settled",
+          "correct": true
+        },
+        {
+          "text": "Emergency rulings are purely symbolic and have no real-world effect",
+          "correct": false
+        },
+        {
+          "text": "State laws automatically take effect immediately unless a court intervenes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe emergency docket's speed means a law can operate for years on the\nground before the constitutional question behind it is finally\nresolved.\u003c/p\u003e"
+    }
+  ]
+}

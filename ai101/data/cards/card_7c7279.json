@@ -1,0 +1,95 @@
+{
+  "id": "card_7c7279",
+  "slug": "computer-cops-ai-policing",
+  "type": "news",
+  "title": "Inside the Trade Show Where Companies Sell AI to the Police",
+  "hook": "Facial-recognition cameras, 911 chatbots, gunshot-detection, and AI report-writing — a police-chiefs' tech conference showed how far AI has already moved into everyday policing.",
+  "key_points": [
+    "A major US police-chiefs' technology conference in Fort Worth showcased AI tools aimed at police departments.",
+    "On the showroom floor: facial-recognition cameras, automated license-plate readers, and body cameras.",
+    "Also on offer: chatbots to field non-emergency 911 calls, gunshot-detection platforms, drones, and AI report-writing tools.",
+    "The pitch is automating routine work — but much of that 'routine' work sits inside the legal process itself.",
+    "Press were barred from entering; reporting relied on interviews with attendees outside the venue."
+  ],
+  "content_html": "\u003cp\u003eFacial recognition tends to dominate the conversation about AI and policing, but a recent police-chiefs' technology conference in Fort Worth, Texas made clear how much further it's already spread. The Verge's reporter — barred from entering the venue as press, and left to interview attendees outside — found a showroom stocked with far more than face-scanning cameras: automated license-plate readers, body cameras, chatbots built to field non-emergency 911 calls, gunshot-detection platforms, drones, and AI tools that write police reports.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe sales pitch across all of it is familiar: automate the routine parts of the job so officers can focus elsewhere. The catch is that a lot of \u0026quot;routine\u0026quot; police work — how an incident gets described in a report, which calls get flagged for follow-up, which plate gets logged — sits directly inside the legal process that can lead to charges, warrants, or arrests. Handing pieces of that to AI doesn't just save time; it changes who (or what) is doing some of the earliest, most consequential steps in a case, often with little public visibility into how the tools actually make their calls. That opacity was compounded here by the conference itself being closed to press, a small irony given that the products being sold — surveillance and automated law-enforcement tools — are precisely the kind of technology whose use the public has the most reason to want visibility into.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Webb Wright"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+    "published_at": "2026-07-16",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "facial-recognition",
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_95563d",
+      "slug": "facial-recognition-and-surveillance",
+      "type": "concept",
+      "title": "Facial Recognition",
+      "hook": "The same AI that unlocks your phone can pick your face out of a crowd. It's convenient at your fingertips and unsettling at a city's scale — and it makes mistakes, unevenly.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7c7279#0",
+      "format": "quiz",
+      "prompt": "Beyond facial recognition, what other AI policing tools were on display at this conference?",
+      "choices": [
+        {
+          "text": "911 call chatbots, gunshot-detection platforms, drones, and AI report-writing tools",
+          "correct": true
+        },
+        {
+          "text": "Only facial-recognition cameras — nothing else",
+          "correct": false
+        },
+        {
+          "text": "AI tools for setting speed limits",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe showroom covered a wide range: license-plate readers, body cameras,\n911 chatbots, gunshot detection, drones, and automated report-writing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7c7279#1",
+      "format": "flip",
+      "prompt": "Why does automating 'routine' police work raise legal concerns?",
+      "back_html": "\u003cp\u003eMuch of that routine work — like writing reports or making initial calls —\nsits inside the legal process, so automating it can shape legal outcomes too.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7c7279#2",
+      "format": "flip",
+      "prompt": "Why was firsthand reporting on this conference limited?",
+      "back_html": "\u003cp\u003ePress were barred from entering the venue itself, so coverage relied on\ntalking with attendees from outside the building.\u003c/p\u003e"
+    }
+  ]
+}

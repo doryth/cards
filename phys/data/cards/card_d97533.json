@@ -1,0 +1,128 @@
+{
+  "id": "card_d97533",
+  "slug": "loophole-free-bell-test-time-bin",
+  "type": "paper",
+  "title": "Closing the Last Loophole in a Fiber-Based Bell Test",
+  "hook": "Time-bin entanglement is how quantum signals travel down real optical fiber — but the standard measurement quietly throws away photons. This test finally plugs that hole.",
+  "key_points": [
+    "A Bell inequality violation proves that measurement correlations cannot be explained by any local realistic theory.",
+    "A test is only airtight if it closes the loopholes: locality, freedom of choice, and postselection.",
+    "Time-bin encoding stores quantum information in when a photon arrives, and is the natural format for fiber links - but the usual interferometric readout discards half the events, opening the postselection loophole.",
+    "The team built a fiber platform that closes locality, freedom-of-choice, and postselection loopholes at once, seeing CHSH S = 2.583, over 265 standard deviations past the local bound of 2.",
+    "It worked at just 49 meters of separation, much shorter than earlier photonic tests under comparable spacetime constraints."
+  ],
+  "content_html": "\u003cp\u003eEntangled particles produce correlations that no theory built on local, pre-existing properties can reproduce. Bell inequalities turn that into an experiment: measure the right combination of correlations, and if the number exceeds a fixed bound, local realism is dead. The catch is that experiments have imperfections, and each imperfection is a loophole — a crack through which a local realistic explanation could still crawl.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThree loopholes matter most. \u003cem\u003eLocality\u003c/em\u003e: the two measurements must be far enough apart that no signal at light speed could pass between them. \u003cem\u003eFreedom of choice\u003c/em\u003e: the settings must be picked independently of the photon source. \u003cem\u003ePostselection\u003c/em\u003e: you cannot discard inconvenient events. That last one has dogged time-bin encoding, where quantum information lives in \u003cem\u003ewhen\u003c/em\u003e a photon arrives rather than in its polarization. Time-bin is the format that survives travel down real optical fiber — but the standard interferometric readout inherently throws away a share of the detections.\u003c/p\u003e\n\u003cp\u003eA team from the University of Padua reports a fiber-based platform that closes all three at once. They measure a CHSH parameter of S = 2.583 ± 0.002, where local realism caps out at 2 — a violation by more than 265 standard deviations. What is striking is the geometry: they pull it off at a separation of just 49.0 ± 0.7 meters, substantially shorter than previous photonic tests meeting comparable spacetime constraints. Beyond the foundational point, that combination is what device-independent quantum communication needs: security proofs that rest on a loophole-free violation, on the encoding that actually travels through deployed fiber.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Kannan Vijayadharan",
+      "Matías Rubén Bolaños",
+      "Andrea Pompermaier",
+      "Tommaso Bertapelle",
+      "Giuseppe Vallone",
+      "Paolo Villoresi"
+    ],
+    "url": "https://arxiv.org/abs/2608.28190",
+    "published_at": "2026-08-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_e228f0",
+      "slug": "bell-test-with-matter-waves",
+      "type": "paper",
+      "title": "A Bell Test on Where Atoms Are Going",
+      "hook": "Bell's inequality has fallen for photons and atomic spins. Now for motion itself — entangled helium atoms that defy local realism about their own momentum.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-09-02"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_08aa81",
+      "slug": "teleportation-over-hollow-core-fibre",
+      "type": "paper",
+      "title": "Quantum Teleportation Down a Fibre That's Mostly Empty Space",
+      "hook": "A quantum state was teleported across a deployed city fibre network while ordinary data traffic blasted through the same strands — because the fibre's core is hollow.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "card_629c25",
+      "slug": "simple-recipe-for-entangled-states",
+      "type": "news",
+      "title": "A Simpler Recipe for Entangled Atoms",
+      "hook": "Highly entangled quantum states usually demand elaborate hardware. A team found you can coax atoms into them by gently nudging their energy levels instead.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-06"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d97533#0",
+      "format": "flip",
+      "prompt": "What does violating a Bell inequality actually prove?",
+      "back_html": "\u003cp\u003eThat the observed correlations between distant measurements cannot be reproduced by any\nlocal realistic theory — no hidden set of pre-existing local properties can account for\nthem. It certifies genuine quantum nonlocality.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d97533#1",
+      "format": "quiz",
+      "prompt": "What is the postselection loophole in a time-bin Bell test?",
+      "choices": [
+        {
+          "text": "The conventional interferometric measurement discards a portion of detection events, so the retained subset could fake a violation",
+          "correct": true
+        },
+        {
+          "text": "The detectors are too far apart for a signal to travel between them in time",
+          "correct": false
+        },
+        {
+          "text": "The choice of measurement setting is made before the photons are created",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePostselection means keeping only some events. If the kept subset is not representative, a\nlocal realistic model could reproduce the apparent violation — which is why closing this\nloophole matters for device-independent security claims.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d97533#2",
+      "format": "flip",
+      "prompt": "Why is time-bin encoding worth the trouble despite the postselection problem?",
+      "back_html": "\u003cp\u003eIt encodes quantum information in a photon's arrival time, which survives transmission\nthrough ordinary optical fiber far better than polarization — making it the practical\nformat for real quantum networks.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "card_9d7b67",
+  "slug": "weightlessness",
+  "type": "concept",
+  "title": "Weightlessness: Not Escaping Gravity, Just Falling",
+  "hook": "Astronauts on the ISS float not because gravity is gone — it's nearly as strong as on the ground. They're in free fall, falling around the Earth together.",
+  "key_points": [
+    "Gravity at the ISS is almost as strong as at Earth's surface.",
+    "Astronauts float because they and the station fall together in orbit.",
+    "Weightlessness is the absence of a support force, not of gravity.",
+    "You feel the same thing for a moment in a freely dropping elevator."
+  ],
+  "content_html": "\u003cp\u003eA common myth says astronauts float because they've left gravity behind. In fact, at the height of the International Space Station, Earth's gravity is still nearly as strong as it is on the ground. So why the floating? Because the astronauts and their station are both falling — continuously, around the Earth — at the same rate. Nothing is left to press them into a seat.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat's the heart of weightlessness: it's the absence of a support force, not the absence of gravity. On the ground you feel your weight only because the floor pushes back up on you. Remove that push and the sensation vanishes. You can taste it yourself in the brief plunge of a freely falling elevator, or in the stomach-drop at the top of a roller coaster. Wikipedia explains why \u0026quot;zero gravity\u0026quot; is really free fall, and how it differs from being far from any mass.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Weightlessness",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "gravity-orbits"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d3af76",
+      "slug": "mass-vs-weight",
+      "type": "concept",
+      "title": "Mass vs. Weight",
+      "hook": "Your mass is the same on the Moon as on Earth — but your weight isn't. They're related, but they are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9d7b67#0",
+      "format": "flip",
+      "prompt": "Why do astronauts on the ISS float, if gravity is still strong up there?",
+      "back_html": "\u003cp\u003eThey are in \u003cstrong\u003efree fall\u003c/strong\u003e — falling around the Earth along with the station.\nWith nothing pushing up on them, they feel weightless.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9d7b67#1",
+      "format": "quiz",
+      "prompt": "Weightlessness is best described as the absence of what?",
+      "choices": [
+        {
+          "text": "A support force pushing back on you",
+          "correct": true
+        },
+        {
+          "text": "Gravity itself",
+          "correct": false
+        },
+        {
+          "text": "Mass",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYou feel weight when the ground pushes up on you. In free fall nothing\npushes back, so you feel weightless even though gravity is still acting.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9d7b67#2",
+      "format": "quiz",
+      "prompt": "Where else can you briefly feel the same weightlessness as in orbit?",
+      "choices": [
+        {
+          "text": "In an elevator that is falling freely",
+          "correct": true
+        },
+        {
+          "text": "At the top of a tall, stationary tower",
+          "correct": false
+        },
+        {
+          "text": "Sitting still in a deep underground cave",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA freely falling elevator removes the support force under your feet, so for\nthose moments you and the floor fall together and you feel weightless.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "card_402dc8",
+  "slug": "cosmic-acceleration-confirmed",
+  "type": "news",
+  "title": "Dark Energy Survives a Major Challenge",
+  "hook": "A bold claim said the universe's accelerating expansion was an illusion. Astronomers checked the math, found the mistakes — and cosmic acceleration came out as strong as ever.",
+  "key_points": [
+    "Since 1998, exploding-star (Type Ia supernova) data have shown the universe's expansion is speeding up.",
+    "A recent study argued that acceleration was an artifact of how the supernova data were analyzed.",
+    "Re-examining the work, researchers found key errors in that analysis.",
+    "The conclusion: cosmic acceleration — and the dark energy driving it — remains firmly supported."
+  ],
+  "content_html": "\u003cp\u003eFor more than two decades, the headline fact of cosmology has been startling: the universe isn't just\nexpanding, it's expanding faster and faster. That conclusion came from measuring distances to Type Ia\nsupernovae — exploding stars bright and uniform enough to serve as cosmic \u0026quot;standard candles\u0026quot; — and it\nearned a Nobel Prize. The unknown force apparently pushing the cosmos apart got the name dark energy.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to a ScienceDaily report, a recent study made a provocative claim: the apparent acceleration\nwas an illusion, an artifact of how the supernova measurements were handled. If true, it would have\nundercut the case for dark energy. But when other researchers revisited the analysis, they found it\nmade key mistakes. After correcting for them, the evidence for cosmic acceleration stood firm — as\nstrong as ever. It's a tidy example of how science is supposed to work: an extraordinary claim invites\nscrutiny, the scrutiny finds the flaws, and the well-tested picture survives. Dark energy remains\nmysterious, but its reality isn't in doubt.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260612032030.htm",
+    "published_at": "2026-06-13",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-15",
+  "date": "2026-06-13",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1d07ca",
+      "slug": "is-dark-energy-evolving",
+      "type": "paper",
+      "title": "Is Dark Energy Changing Over Time?",
+      "hook": "For decades dark energy looked like a constant. New galaxy-survey data hints it may evolve — and that would shift even our measured value of the cosmic expansion rate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_0ac579",
+      "slug": "hubble-tension",
+      "type": "paper",
+      "title": "The Hubble Tension: Cosmology's Stubborn Crisis",
+      "hook": "Two trustworthy ways of measuring how fast the universe expands keep disagreeing — and a decade of cross-checks has only hardened the gap into a genuine crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_402dc8#0",
+      "format": "quiz",
+      "prompt": "What evidence first revealed that the universe's expansion is accelerating?",
+      "choices": [
+        {
+          "text": "Distances measured to Type Ia supernovae",
+          "correct": true
+        },
+        {
+          "text": "The temperature of the cosmic microwave background alone",
+          "correct": false
+        },
+        {
+          "text": "Direct images of dark energy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eType Ia supernovae act as 'standard candles' for measuring cosmic distances; in 1998\nthey revealed the expansion is speeding up. Dark energy can't be imaged directly.\u003c/p\u003e"
+    },
+    {
+      "id": "card_402dc8#1",
+      "format": "flip",
+      "prompt": "How did the challenge to cosmic acceleration fail?",
+      "back_html": "\u003cp\u003eThe study claiming acceleration was an illusion was found to contain key mistakes in how it\nanalyzed the supernova data. Once corrected, the evidence for acceleration held up.\u003c/p\u003e"
+    }
+  ]
+}

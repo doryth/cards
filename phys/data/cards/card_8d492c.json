@@ -1,0 +1,130 @@
+{
+  "id": "card_8d492c",
+  "slug": "quantum-secure-time-transfer-satellites",
+  "type": "paper",
+  "title": "Syncing Clocks in Orbit Without Trusting GPS",
+  "hook": "Everything from power grids to finance runs on GPS time, and GPS can be spoofed. An entanglement-based link now synchronises clocks and distributes keys at 30 times the Micius rate.",
+  "key_points": [
+    "Precise time synchronisation underpins critical infrastructure, and GPS timing can be spoofed.",
+    "Entangled photon pairs arrive in correlated pairs, giving both a timing reference and a secure key.",
+    "The demo emulates a low-Earth-orbit satellite-to-ground channel with a Sagnac entangled-photon source.",
+    "It delivers a finite quantum key rate near 3 bits per second at a 1e-10 security parameter.",
+    "That is about 30 times the entanglement-based key rate reported for the Micius satellite.",
+    "Clock synchronisation is GPS-free, with post-quantum security and a pre-shared key hiding the setup."
+  ],
+  "content_html": "\u003cp\u003eModern infrastructure runs on shared time. Power grids, financial trading and telecoms all assume distant clocks agree to within nanoseconds, and in practice most of them get that agreement from GPS. GPS timing signals can be jammed or spoofed, which makes the dependency uncomfortable. Quantum-secure time transfer aims to replace it with a link whose security rests on physics.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eRavi Singh Adhikari and colleagues report an experimental demonstration over an emulated low-Earth-orbit satellite-to-ground channel, using a type-0 Sagnac-based entangled-photon source. The trick that makes the scheme economical is that one resource does two jobs: because entangled photons are created simultaneously, their correlated arrival times give the two ends a timing reference, while the quantum correlations between measurement outcomes yield quantum key distribution material.\u003c/p\u003e\n\u003cp\u003eThe system delivers a finite QKD key rate of roughly 3 bits per second at a security parameter of 10^-10 — about 30 times the entanglement-based key rate reported for China's Micius satellite, the reference point for satellite QKD. Alongside the raw rate, the authors highlight several design features: the clock synchronisation is GPS-free, the use of QKD is optimised rather than bolted on, post-quantum security is embedded, and a pre-shared key obfuscates the system configuration. Together, they argue, this is the most efficient and secure quantum-secure time transfer deployment demonstrated so far.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Ravi Singh Adhikari",
+      "Anju Rani",
+      "Aman Gupta",
+      "Xiaoyu Ai",
+      "Robert Malaney"
+    ],
+    "url": "https://arxiv.org/abs/2608.24092",
+    "published_at": "2026-08-25",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_08aa81",
+      "slug": "teleportation-over-hollow-core-fibre",
+      "type": "paper",
+      "title": "Quantum Teleportation Down a Fibre That's Mostly Empty Space",
+      "hook": "A quantum state was teleported across a deployed city fibre network while ordinary data traffic blasted through the same strands — because the fibre's core is hollow.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "card_251b1c",
+      "slug": "unclonable-encryption",
+      "type": "paper",
+      "title": "Encryption a Thief Can't Even Copy",
+      "hook": "Classical ciphertext can be stolen now and cracked later. Quantum ciphertext can't be duplicated at all — and this construction gets that guarantee with no unproven assumptions.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_3d4d4f",
+      "slug": "entanglement-in-a-fist-sized-crystal",
+      "type": "news",
+      "title": "Quantum Entanglement, Found in a Crystal You Can Hold",
+      "hook": "Entanglement is usually a fragile, microscopic effect. Physicists just found clear signs of it acting across groups of particles inside a crystal big enough to fit in your palm.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-07"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_8d492c#0",
+      "format": "quiz",
+      "prompt": "Why can entangled photon pairs serve as both a clock signal and a key source?",
+      "choices": [
+        {
+          "text": "The pairs are created together, so their arrival times correlate while their measured states supply key bits",
+          "correct": true
+        },
+        {
+          "text": "Entangled photons travel faster than light, so they arrive instantly",
+          "correct": false
+        },
+        {
+          "text": "Each photon carries a timestamp written into its polarisation",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSimultaneous creation gives the timing reference; the quantum correlations\nbetween measurement outcomes give secret key material.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8d492c#1",
+      "format": "flip",
+      "prompt": "What is the practical appeal of GPS-free clock synchronisation?",
+      "back_html": "\u003cp\u003eGPS timing signals can be spoofed or jammed, and infrastructure that depends\non them inherits that vulnerability. An independent link removes the dependency.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8d492c#2",
+      "format": "flip",
+      "prompt": "How does the reported key rate compare to the Micius satellite's?",
+      "back_html": "\u003cp\u003eAbout 3 bits per second, roughly a 30-fold increase over the entanglement-based\nQKD key rate delivered by Micius.\u003c/p\u003e"
+    }
+  ]
+}

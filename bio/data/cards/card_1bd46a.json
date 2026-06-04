@@ -1,0 +1,101 @@
+{
+  "id": "card_1bd46a",
+  "slug": "seeds-and-germination",
+  "type": "concept",
+  "title": "Seeds \u0026 Germination",
+  "hook": "A seed is a tiny plant on pause — a packed embryo with a lunch box of food, waiting for the right moment to wake up and push into the world.",
+  "key_points": [
+    "A seed holds a plant embryo, a food store, and a protective coat.",
+    "Seeds can stay dormant for months or years until conditions are right.",
+    "Germination — sprouting — usually needs water, oxygen, and the right temperature.",
+    "The root emerges first to anchor and drink, then a shoot reaches for light."
+  ],
+  "content_html": "\u003cp\u003eA seed looks lifeless, but it's really a plant on pause. Inside its protective coat sits a tiny embryo — a baby plant — alongside a built-in food supply to power its first burst of growth. That packaging lets a seed survive harsh conditions and wait, sometimes for years, until the timing is right.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eGermination is the moment a seed wakes up and starts to grow. Most seeds need three things to trigger it: water to swell and soften the seed, oxygen to fuel the embryo's metabolism, and a temperature that signals a favorable season. When those line up, the embryo springs into action. The root, or radicle, usually emerges first, pushing downward to anchor the seedling and pull in water, before a shoot rises toward sunlight to begin photosynthesis. As Encyclopaedia Britannica describes, this dormancy-then-sprouting strategy is one of the great advantages of seed plants — it lets them spread their offspring across time as well as space.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/seed-plant-reproductive-part",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "plants"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_41e650",
+      "slug": "how-plants-reproduce",
+      "type": "concept",
+      "title": "How Plants Reproduce",
+      "hook": "Flowers aren't just decoration — they're how most plants have sex, trading pollen so they can pack the next generation into seeds that travel.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aa2c1d",
+      "slug": "how-plants-are-built",
+      "type": "concept",
+      "title": "How a Plant Is Built",
+      "hook": "Most plants are made of three working parts — roots that drink, stems that lift, and leaves that catch sunlight — and together they turn dirt and light into a living thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1bd46a#0",
+      "format": "flip",
+      "prompt": "What are the three main parts packed inside a seed?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003eplant embryo\u003c/strong\u003e (the baby plant), a \u003cstrong\u003efood store\u003c/strong\u003e to fuel its first growth,\nand a tough \u003cstrong\u003eseed coat\u003c/strong\u003e that protects it until conditions are right.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1bd46a#1",
+      "format": "quiz",
+      "prompt": "What does germination usually require to begin?",
+      "choices": [
+        {
+          "text": "Water, oxygen, and a suitable temperature",
+          "correct": true
+        },
+        {
+          "text": "Only sunlight, nothing else",
+          "correct": false
+        },
+        {
+          "text": "A pollinator to visit the seed",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA dormant seed stays asleep until it senses the right cues — typically moisture,\nair, and warmth — which signal that it's safe to sprout.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1bd46a#2",
+      "format": "quiz",
+      "prompt": "When a seed germinates, which part typically emerges first?",
+      "choices": [
+        {
+          "text": "The root, which anchors the seedling and takes up water",
+          "correct": true
+        },
+        {
+          "text": "A flower, ready to make new seeds",
+          "correct": false
+        },
+        {
+          "text": "A fruit full of more seeds",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe root comes out first to grip the soil and draw in water, before the shoot\npushes upward toward the light.\u003c/p\u003e"
+    }
+  ]
+}

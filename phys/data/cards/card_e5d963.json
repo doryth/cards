@@ -1,0 +1,132 @@
+{
+  "id": "card_e5d963",
+  "slug": "quantum-entanglement",
+  "type": "concept",
+  "title": "Quantum Entanglement",
+  "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+  "key_points": [
+    "Entangled particles share a single quantum state, so their properties are linked.",
+    "Measuring one instantly determines the matching property of the other, at any distance.",
+    "Experiments have confirmed it — Einstein's 'spooky action at a distance' is real.",
+    "It cannot send messages faster than light: each outcome on its own is random."
+  ],
+  "content_html": "\u003cp\u003eIn quantum mechanics, two particles can become entangled — woven into a single shared quantum state. Once that happens, their properties are correlated: measure one and you instantly learn the matching property of the other, even if the two have since drifted light-years apart. Einstein found this so unsettling that he called it \u0026quot;spooky action at a distance\u0026quot; and doubted it could be the whole story.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eDecades of increasingly careful experiments have confirmed that the correlations are real and genuinely defy any tidy local explanation. But there's a crucial limit that's easy to get wrong: entanglement cannot be used to send a message faster than light. Each individual measurement gives a random result that you can't control, so there's no way to encode information in it — the trick only becomes visible when both parties later compare notes through ordinary channels. The same correlations are a key resource in quantum computing and quantum cryptography. Wikipedia covers the experiments and the no-faster-than-light caveat in detail.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Quantum_entanglement",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a4b53c",
+      "slug": "schrodinger-cat-from-quantum-parts",
+      "type": "news",
+      "title": "A Schrödinger's Cat Built From Quantum Parts",
+      "hook": "Cat states usually superpose two near-classical blobs of motion. Oxford built one from purely quantum ingredients — and could sculpt the superposition into almost any shape.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-15"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_e5d963#0",
+      "format": "flip",
+      "prompt": "What does it mean for two particles to be entangled?",
+      "back_html": "\u003cp\u003eThey share a \u003cstrong\u003esingle quantum state\u003c/strong\u003e, so measuring one instantly determines\nthe matching property of the other, no matter how far apart they are.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e5d963#1",
+      "format": "quiz",
+      "prompt": "Can entanglement be used to send messages faster than light?",
+      "choices": [
+        {
+          "text": "No — each measurement outcome on its own is random",
+          "correct": true
+        },
+        {
+          "text": "Yes — the link is instant, so it carries information instantly",
+          "correct": false
+        },
+        {
+          "text": "Only if the particles are very close together",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAlthough the correlation is instant, you can't control your own random\noutcome, so no usable information travels faster than light.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e5d963#2",
+      "format": "quiz",
+      "prompt": "What did Einstein famously call entanglement?",
+      "choices": [
+        {
+          "text": "Spooky action at a distance",
+          "correct": true
+        },
+        {
+          "text": "The clockwork universe",
+          "correct": false
+        },
+        {
+          "text": "The uncertainty principle",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEinstein was deeply uneasy with entanglement and dubbed it 'spooky action\nat a distance'; later experiments confirmed the effect is real.\u003c/p\u003e"
+    }
+  ]
+}

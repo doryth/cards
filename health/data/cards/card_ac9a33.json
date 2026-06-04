@@ -1,0 +1,88 @@
+{
+  "id": "card_ac9a33",
+  "slug": "nerves-fuel-breast-cancer",
+  "type": "news",
+  "title": "Tumors That Recruit Your Own Nerves",
+  "hook": "Triple-negative breast tumors appear to hijack healing immune cells and use them to wire nerves into themselves — a nerve supply that may help the cancer grow and resist treatment.",
+  "key_points": [
+    "Researchers describe how triple-negative breast cancer may turn the body's own repair machinery against it.",
+    "Tumors appear to recruit macrophages — immune cells normally involved in healing and fighting infection.",
+    "Those macrophages release a protein called BDNF, which draws nerves into the tumor.",
+    "The in-growing nerves may help the cancer grow, resist treatment, and potentially spread.",
+    "It reframes a tumor as an ecosystem that co-opts healthy cells, not just a lump of rogue cells."
+  ],
+  "content_html": "\u003cp\u003eA tumor is easy to picture as a clump of cells gone wrong, growing in isolation. This finding paints something stranger: triple-negative breast tumors appear to recruit the body's own repair crew and put it to work on their behalf.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to ScienceDaily, researchers found that these tumors draw in macrophages — immune cells whose usual job is healing tissue and fighting infection. Once recruited, the macrophages release a protein called BDNF, best known as a growth factor for nerve cells. The BDNF signal pulls nerves into the tumor, and those nerves may then help the cancer grow, resist treatment, and potentially spread.\u003c/p\u003e\n\u003cp\u003eTriple-negative breast cancer is the subtype that lacks the three receptors most targeted therapies aim at, which is why it's among the harder ones to treat. A newly described dependency — on immune cells, on BDNF, on the nerve wiring itself — is interesting precisely because it suggests places to intervene that aren't the tumor cells. This is early laboratory work rather than a treatment, but the framing is the takeaway: cancer as an ecosystem that conscripts healthy tissue, not a lump acting alone.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260814011038.htm",
+    "published_at": "2026-08-17",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "womens-health"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-18",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_9b7380",
+      "slug": "glp1-and-breast-cancer-risk",
+      "type": "news",
+      "title": "GLP-1 Drugs Linked to Lower Breast Cancer Risk",
+      "hook": "A large study found women on GLP-1 drugs were about 30% less likely to develop breast cancer — a promising association, not yet proof, with trials now being planned to test it.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "card_a20f71",
+      "slug": "melanomas-immortality-trick",
+      "type": "news",
+      "title": "Melanoma's Secret to Cheating Death",
+      "hook": "Scientists say they've found the missing genetic ingredient that lets melanoma cells become effectively immortal — a discovery that could open new lines of attack on the cancer.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ac9a33#0",
+      "format": "flip",
+      "prompt": "How do these tumors get nerves to grow into them?",
+      "back_html": "\u003cp\u003eThey recruit \u003cstrong\u003emacrophages\u003c/strong\u003e — immune cells that normally heal tissue and fight\ninfection — and those macrophages release \u003cstrong\u003eBDNF\u003c/strong\u003e, a protein that draws nerves\ninto the tumor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ac9a33#1",
+      "format": "quiz",
+      "prompt": "Why might a nerve supply be bad news in triple-negative breast cancer?",
+      "choices": [
+        {
+          "text": "The in-growing nerves may help the cancer grow, resist treatment, and spread",
+          "correct": true
+        },
+        {
+          "text": "Nerves block the tumor's blood supply and starve it",
+          "correct": false
+        },
+        {
+          "text": "Nerves make the tumor easier for the immune system to destroy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers report that the recruited nerves appear to support tumor growth,\ntreatment resistance, and potential spread — the tumor benefits from the wiring.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ac9a33#2",
+      "format": "flip",
+      "prompt": "What's the bigger idea this finding illustrates about tumors?",
+      "back_html": "\u003cp\u003eA tumor isn't just rogue cells acting alone — it recruits healthy cells (here,\nimmune cells and nerves) and turns the body's own repair systems to its advantage.\u003c/p\u003e"
+    }
+  ]
+}

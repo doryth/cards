@@ -1,0 +1,131 @@
+{
+  "id": "card_27cb5d",
+  "slug": "observers-stuck-inside-the-world",
+  "type": "paper",
+  "title": "What an Observer Inside the World Can't Know",
+  "hook": "Physics is written from an imaginary vantage point outside the world. Put the observer inside it and hard limits on knowledge appear — even in a classical, deterministic toy universe.",
+  "key_points": [
+    "Standard physics describes the world from a third-person view, as if the observer stood outside it. Real observers are made of the same stuff they study.",
+    "The authors build a toy model of classical particles where an observer is defined by a manifest variable (its record) and ready states (its prior information).",
+    "Learning happens when interaction correlates the observer with the object; the question is what that correlation can encode.",
+    "Many such observers hit an epistemic horizon — a ceiling on what they can learn — despite the model being fully classical and deterministic.",
+    "An observer with a complete record but only partial initial information can learn at most half the object's variables, reproducing Spekkens' knowledge-balance principle.",
+    "Predicting the future is generally harder than retrodicting the past, and repeatable measurement can be more limited than either."
+  ],
+  "content_html": "\u003cp\u003eAlmost every equation in physics is written from nowhere in particular — a God's-eye view of a system, with the person doing the observing tucked safely outside the frame. But observers are physical systems too, built of the same particles, obeying the same dynamics, entangled with the thing they are trying to measure. Gonda, Fankhauser and De les Coves ask what changes when you take that seriously.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir setting is deliberately modest: a toy model of classical particles. An observer, or \u0026quot;subject\u0026quot;, is characterised by two things — a manifest variable, whose value is its empirical record, and a set of ready states, encoding the information it starts with. Learning about another system, the \u0026quot;object\u0026quot;, means interacting in a way that establishes a correlation between the two. The authors then work out, for each combination of manifest variable, ready state, and target of learning (past, future, or both), exactly what the subject can come to know.\u003c/p\u003e\n\u003cp\u003eThe result is that many subjects run into an epistemic horizon: a hard ceiling on what they can learn, even though nothing in the model is random or quantum. A subject whose record is its own complete ontic state, but whose initial information is partial, can learn at most half of the object's variables — recovering Spekkens' knowledge-balance principle, a classical analogue of Heisenberg uncertainty. More broadly, prediction turns out to be more constrained than retrodiction, and learning via repeatable measurements can be more limited than either. The authors present this as a language for studying first-person versus third-person perspectives, and an invitation to ask how much of quantum uncertainty might be explained by observers being stuck inside the world.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Tomáš Gonda",
+      "Johannes Fankhauser",
+      "Gemma De les Coves"
+    ],
+    "url": "https://arxiv.org/abs/2608.25800",
+    "published_at": "2026-08-26",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "foundational",
+    "interpretability"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fbcad2",
+      "slug": "classical-probability-double-slit",
+      "type": "paper",
+      "title": "Can Classical Probability Alone Explain the Double-Slit Pattern?",
+      "hook": "The double-slit interference pattern is physics' go-to symbol of quantum weirdness. A theoretical study shows classical probability alone can reproduce it, given the right ingredients.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_50048a",
+      "slug": "pilot-wave-theory",
+      "type": "paper",
+      "title": "The Quantum Theory Where Particles Have Positions",
+      "hook": "Pilot-wave theory takes the radical step of saying particles always have definite positions, guided by the wave function. It reproduces all of quantum mechanics — at a price.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_27cb5d#0",
+      "format": "flip",
+      "prompt": "What is an 'epistemic horizon' in this model?",
+      "back_html": "\u003cp\u003eA limit on what an observer can learn about the world \u003cstrong\u003ebecause the observer is part of\nthat world\u003c/strong\u003e — not because of noise, sloppy instruments, or hidden randomness.\u003c/p\u003e"
+    },
+    {
+      "id": "card_27cb5d#1",
+      "format": "quiz",
+      "prompt": "What is surprising about where these limits come from?",
+      "choices": [
+        {
+          "text": "The toy model is entirely classical and deterministic, yet uncertainty-like limits still appear",
+          "correct": true
+        },
+        {
+          "text": "The limits only appear once quantum randomness is added to the model",
+          "correct": false
+        },
+        {
+          "text": "They vanish if the observer's measuring devices are made precise enough",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe point of the paper is that embedding the observer in the world is enough to produce\nthe limits — no quantum indeterminism required.\u003c/p\u003e"
+    },
+    {
+      "id": "card_27cb5d#2",
+      "format": "quiz",
+      "prompt": "According to the paper, which kind of learning faces the more severe horizon?",
+      "choices": [
+        {
+          "text": "Prediction — learning about the future is harder than retrodicting the past",
+          "correct": true
+        },
+        {
+          "text": "Retrodiction — the past is irrecoverably erased",
+          "correct": false
+        },
+        {
+          "text": "Both are limited identically by symmetry of the dynamics",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors find subjects face more severe epistemic horizons when predicting than when\nretrodicting, and that repeatable measurement can be more restrictive than either alone.\u003c/p\u003e"
+    }
+  ]
+}

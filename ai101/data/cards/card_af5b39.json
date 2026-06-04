@@ -1,0 +1,105 @@
+{
+  "id": "card_af5b39",
+  "slug": "recursive-self-improvement-doubts",
+  "type": "news",
+  "title": "AI That Improves Itself May Be Further Off Than Promised",
+  "hook": "The industry's boldest claim is that AI will soon upgrade itself without us. The pieces exist — but MIT Technology Review finds the leap is not close.",
+  "key_points": [
+    "'Recursive self-improvement' means AI improving AI, with little human oversight — the engine behind forecasts of explosive progress.",
+    "The ingredients are already real: models write code, generate synthetic training data, and help optimize the chips they run on.",
+    "MIT Technology Review reports the jump from those pieces to a self-sustaining loop is not imminent.",
+    "Helping with a step isn't running the loop: humans still choose the goals, judge the results, and supply the ideas.",
+    "The claim matters because timelines drive investment, policy, and public anxiety."
+  ],
+  "content_html": "\u003cp\u003eThe AI industry's boldest current promise is that AI will soon improve itself — writing its own upgrades with almost no human oversight, in a loop researchers call recursive self-improvement. It's the mechanism underneath most forecasts of explosive, sudden progress. MIT Technology Review's reporting suggests it isn't as close as those forecasts imply.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe confusing part is that the individual ingredients are genuinely here. Language models write working code, generate synthetic data used in training, and help optimize the chips they run on. Each of those is a real contribution to AI development.\u003c/p\u003e\n\u003cp\u003eBut contributing to a step isn't the same as owning the process. Humans still decide what to build, evaluate whether an idea worked, and supply the research direction — and the reporting looks at why closing that gap is harder than extrapolating a curve suggests. Timelines aren't an academic detail: they shape how much money gets spent, how urgently governments act, and how worried people feel. Michelle Kim's piece for MIT Technology Review lays out the case.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Michelle Kim"
+    ],
+    "url": "https://technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+    "published_at": "2026-08-18",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "agi",
+    "ai-hype",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "reasoning"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-20",
+  "date": "2026-08-18",
+  "related": [
+    {
+      "id": "card_1be62b",
+      "slug": "agi-and-superintelligence",
+      "type": "concept",
+      "title": "AGI \u0026 Superintelligence",
+      "hook": "AGI means AI as broadly capable as a human; superintelligence means far beyond. Both are goals and hypotheses — not products you can buy — and experts deeply disagree on when, or if.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dc90db",
+      "slug": "will-ai-take-over",
+      "type": "concept",
+      "title": "Will AI Take Over?",
+      "hook": "The Terminator scenario — AI 'waking up' and turning on us — isn't what serious researchers worry about. Their real concerns are more mundane and more immediate.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_af5b39#0",
+      "format": "quiz",
+      "prompt": "What does 'recursive self-improvement' mean?",
+      "choices": [
+        {
+          "text": "AI systems improving AI systems in a loop, with little human oversight",
+          "correct": true
+        },
+        {
+          "text": "A model getting better simply by being used more often",
+          "correct": false
+        },
+        {
+          "text": "Users rewriting their prompts until answers improve",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt's the idea that AI takes over its own development — the mechanism behind\nforecasts of sudden, explosive capability gains.\u003c/p\u003e"
+    },
+    {
+      "id": "card_af5b39#1",
+      "format": "flip",
+      "prompt": "Which parts of self-improvement do models already do?",
+      "back_html": "\u003cp\u003eThey write code, generate synthetic data for training, and help optimize the\ncomputer chips they run on — real contributions, but each still human-directed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_af5b39#2",
+      "format": "flip",
+      "prompt": "Why does the timeline for self-improving AI matter to non-experts?",
+      "back_html": "\u003cp\u003eExpected timelines drive investment, regulation, and public fear. If the loop is\nfurther off than advertised, decisions made on that assumption are miscalibrated.\u003c/p\u003e"
+    }
+  ]
+}

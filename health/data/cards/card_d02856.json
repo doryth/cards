@@ -1,0 +1,89 @@
+{
+  "id": "card_d02856",
+  "slug": "measles-antiviral-pill",
+  "type": "news",
+  "title": "An Experimental Pill That Stopped a Measles-Like Virus From Spreading",
+  "hook": "A drug called GHP-88310 blocked airborne spread of a measles-like virus in ferrets — the first time a polymerase inhibitor has done that. It could one day shut outbreaks down, not replace vaccines.",
+  "key_points": [
+    "GHP-88310 is a broad-spectrum inhibitor of the viral polymerase, the enzyme the virus needs to copy itself.",
+    "In ferrets infected with canine distemper virus — a close stand-in for human measles — the drug blocked both contact and airborne transmission.",
+    "It worked given shortly before or shortly after exposure, and also helped animals already infected.",
+    "It shortened illness and cut how long infected animals stayed contagious.",
+    "First author Carolin Lieber called blocking airborne spread 'unprecedented for a viral polymerase inhibitor.'",
+    "Published in Nature Microbiology by Georgia State's Center for Translational Antiviral Research; human trials are being prepared."
+  ],
+  "content_html": "\u003cp\u003eMeasles spreads through the air, which is exactly what makes it so hard to contain. So it's notable that researchers have found an experimental pill that stopped a measles-like virus from spreading through the air at all — at least in ferrets.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe drug, GHP-88310, is a broad-spectrum inhibitor of the viral polymerase, the enzyme the virus needs to reproduce. Reporting in Nature Microbiology, a team at Georgia State University's Center for Translational Antiviral Research tested it in ferrets infected with canine distemper virus, which produces disease closely resembling human measles. The drug blocked both routes of spread — direct contact and airborne — and worked whether given shortly before or shortly after exposure. In animals already infected, it shortened the illness and cut the window in which they could pass the virus on. First author Carolin Lieber called the transmission-blocking result \u0026quot;unprecedented for a viral polymerase inhibitor\u0026quot;; senior author Richard Plemper framed the goal plainly: \u0026quot;Silencing measles outbreaks quickly is essential to reestablish control over the virus.\u0026quot;\u003c/p\u003e\n\u003cp\u003eTwo caveats worth holding onto. This is an animal model, and the team is only now preparing GHP-88310 for formal clinical trials — human efficacy is unproven. And even if it works, the role is containment, not prevention: something to hand out around a known exposure to stop a chain of transmission. The thing that keeps outbreaks from starting in the first place is still the vaccine.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260724061431.htm",
+    "published_at": "2026-07-24",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "vaccines"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_fa94ed",
+      "slug": "measles-record-2026",
+      "type": "news",
+      "title": "U.S. Measles Cases Hit a 35-Year High",
+      "hook": "The CDC has confirmed 2,318 measles cases this year — the most since 1991, and the second record-breaking year in a row for a disease the U.S. once declared eliminated.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_d8a0ad",
+      "slug": "vaccines-adults-still-need",
+      "type": "concept",
+      "title": "Vaccines Adults Still Need",
+      "hook": "Vaccination isn't just a childhood checklist. Protection from some shots fades, new ones are recommended with age, and a few need regular boosters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d02856#0",
+      "format": "flip",
+      "prompt": "What does GHP-88310 actually block, and why does that stop the virus?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eviral polymerase\u003c/strong\u003e — the enzyme the virus needs in order to copy itself. Shut the\ncopying down and there's too little virus to spread or to make the animal very sick.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d02856#1",
+      "format": "quiz",
+      "prompt": "What was called 'unprecedented' about this antiviral's performance?",
+      "choices": [
+        {
+          "text": "A polymerase inhibitor blocked airborne transmission, not just illness",
+          "correct": true
+        },
+        {
+          "text": "It cured animals that were already immune",
+          "correct": false
+        },
+        {
+          "text": "It replaced the need for the measles vaccine entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFirst author Carolin Lieber described blocking airborne spread as unprecedented for a\nviral polymerase inhibitor — drugs of this class typically reduce symptoms rather than\ncut transmission.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d02856#2",
+      "format": "flip",
+      "prompt": "Why would a drug like this complement measles vaccination rather than replace it?",
+      "back_html": "\u003cp\u003eIt's given \u003cstrong\u003earound the time of exposure\u003c/strong\u003e to stop a chain of transmission — useful for\ncontaining an outbreak once it starts. Vaccination is what stops outbreaks from starting.\nAnd so far the results are in ferrets; human trials are only being prepared.\u003c/p\u003e"
+    }
+  ]
+}

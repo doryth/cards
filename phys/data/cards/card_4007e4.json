@@ -1,0 +1,99 @@
+{
+  "id": "card_4007e4",
+  "slug": "photon-vortices-in-superconductors",
+  "type": "paper",
+  "title": "Direct Observation of Photon-Induced Vortices in Superconducting Films",
+  "hook": "Hit a superconducting wire with a single photon, and it kicks up a tiny quantum 'tornado' — and by counting the tornadoes one at a time, physicists can now count photons one at a time.",
+  "key_points": [
+    "Superconducting single-photon detectors are thought to work via tiny vortex-antivortex pairs.",
+    "Nobody had directly watched these vortex pairs form — until now.",
+    "Researchers saw them as discrete voltage 'blips' right after a photon hit.",
+    "Each blip is one vortex crossing the strip, sized by a universal constant, not random noise.",
+    "Tuning current, temperature, and photon number made the vortex count stable and countable.",
+    "Counting the blips let the team directly count how many photons arrived at once."
+  ],
+  "content_html": "\u003cp\u003eA new arXiv preprint from Takeshi Jodoi and colleagues catches a process that superconducting single-photon detectors have long been believed to rely on, but that no one had directly watched happen: the birth of vortex-antivortex pairs. When a photon lands on a current-carrying superconducting strip, theory says it can kick up one of these tiny quantum vortex pairs — and the team found a way to see it happen in real time, as a distinct voltage signal.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEach vortex crossing the strip triggers a discrete \u0026quot;phase-slip\u0026quot; event: a quantized voltage pulse whose size is fixed by a universal constant, the magnetic flux quantum, rather than appearing as random noise. By tuning the bias current, temperature, and the number of incoming photons, the researchers found conditions where the number of vortex pairs generated per photon became stable — letting them count the voltage pulses to directly tally how many photons arrived. The result points to a detection mechanism driven by vortex and phase dynamics rather than conventional resistive heating, a path toward faster, more precise single-photon detectors for quantum optics.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Takeshi Jodoi",
+      "Fuminori Hirayama",
+      "Tetsuya Tsuruta"
+    ],
+    "url": "https://arxiv.org/abs/2607.13664",
+    "published_at": "2026-07-15",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "light-optics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-15",
+  "related": [
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4007e4#0",
+      "format": "flip",
+      "prompt": "What is a vortex-antivortex pair, and why does it matter for photon detectors?",
+      "back_html": "\u003cp\u003eA tiny quantum vortex pair created inside a superconductor when it absorbs a\nphoton — believed to be the mechanism behind superconducting single-photon detectors.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4007e4#1",
+      "format": "quiz",
+      "prompt": "How did researchers detect a vortex crossing the superconducting strip?",
+      "choices": [
+        {
+          "text": "As a quantized voltage pulse, sized by a universal constant called the flux quantum",
+          "correct": true
+        },
+        {
+          "text": "By photographing the superconductor with a microscope",
+          "correct": false
+        },
+        {
+          "text": "By measuring only the material's overall temperature change",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEach vortex crossing induces a discrete phase-slip event: a quantized voltage\npulse whose size is fixed by the magnetic flux quantum, not random noise.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4007e4#2",
+      "format": "quiz",
+      "prompt": "What new capability did counting these voltage pulses enable?",
+      "choices": [
+        {
+          "text": "Photon-number-resolving detection — directly counting how many photons arrived",
+          "correct": true
+        },
+        {
+          "text": "Detecting only whether zero or one photon arrived, nothing more",
+          "correct": false
+        },
+        {
+          "text": "Measuring only the photon's color, never its number",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBy stabilizing the vortex pairs generated per photon, the team could count\nphase-slip voltage quanta to directly tally the number of incoming photons.\u003c/p\u003e"
+    }
+  ]
+}

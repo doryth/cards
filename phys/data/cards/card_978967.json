@@ -1,0 +1,114 @@
+{
+  "id": "card_978967",
+  "slug": "fully-charmed-tetraquark-family",
+  "type": "paper",
+  "title": "From One Predicted Particle to a Whole Family",
+  "hook": "Four charm quarks bound together were a theorist's conjecture for decades. LHC experiments have not just found one — they've found a family, complete with interference between its members.",
+  "key_points": [
+    "A fully charmed tetraquark is a bound state of four charm quarks, predicted long before it was seen.",
+    "Recent LHC results turned that single prediction into a family of observed resonances.",
+    "Experimenters established interference among the resonances, not just separate bumps.",
+    "The quantum numbers of these states have now been determined for the first time.",
+    "The review highlights the CMS contributions from the Nanjing Normal and Tsinghua University teams.",
+    "Such states probe the nonperturbative regime of QCD, where the strong force resists calculation."
+  ],
+  "content_html": "\u003cp\u003eFor decades, a bound state of four charm quarks was a theoretical possibility with no\nexperimental support. That changed at the Large Hadron Collider, and this review by Xining Wang\nand Kai Yi traces the arc from early predictions and fruitless searches to the recent run of\ndiscoveries.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe shift is qualitative, not just quantitative. What began as a hunt for one exotic resonance\nbecame the study of a family: multiple fully charmed tetraquark states, with interference\nestablished among them and their quantum numbers determined for the first time. Interference is\nthe key word — it means these are not unrelated bumps in a mass spectrum but quantum amplitudes\nthat talk to each other, which is far stronger evidence for a coherent family of states. The\nauthors give particular emphasis to the CMS contributions from the Nanjing Normal University and\nTsinghua University teams. Beyond the bookkeeping of new particles, the appeal is that these\nstates live squarely in nonperturbative QCD, the regime where the strong force is too strong to\ncalculate and experiment has to lead.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Xining Wang",
+      "Kai Yi"
+    ],
+    "url": "https://arxiv.org/abs/2608.29502",
+    "published_at": "2026-08-30",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-08-30",
+  "related": [
+    {
+      "id": "card_9e52ca",
+      "slug": "two-new-xyz-structures",
+      "type": "news",
+      "title": "Hunting One Exotic Particle, Finding Two",
+      "hook": "A search aimed at a single mysterious particle turned up evidence for two unexpected structures instead — possible new members of the strange 'XYZ' family that refuses to fit the quark model.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-09-02"
+    },
+    {
+      "id": "card_aaec2a",
+      "slug": "glueball-x2370",
+      "type": "paper",
+      "title": "Physics's Long-Sought 'Glueball' May Finally Be Here",
+      "hook": "The strong force's glue can bind to itself, making a particle with no quarks at all. Physicists hunted these 'glueballs' for 50 years — BESIII says the X(2370) is the strongest candidate yet.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "card_13b1bf",
+      "slug": "the-force-on-a-quark",
+      "type": "paper",
+      "title": "Measuring the force that traps a quark inside the proton",
+      "hook": "Nobody has ever seen a free quark. A sharpened reconstruction of the actual force tugging on one inside the proton comes out looking like a string pulled at constant tension.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_3206bb",
+      "slug": "how-many-elementary-particles",
+      "type": "news",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "hook": "Count the Standard Model's particles and you might say 17 — but tweak the rules and the tally climbs past 900, with one rigorous answer that isn't even a whole number.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-15"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_978967#0",
+      "format": "flip",
+      "prompt": "What is a fully charmed tetraquark?",
+      "back_html": "\u003cp\u003eA hadron made of four charm quarks bound together — neither a quark-antiquark meson nor a\nthree-quark baryon, and predicted theoretically long before any were observed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_978967#1",
+      "format": "quiz",
+      "prompt": "Why does establishing interference among the resonances matter?",
+      "choices": [
+        {
+          "text": "It shows the observed bumps are related quantum states of one family rather than unconnected signals",
+          "correct": true
+        },
+        {
+          "text": "It proves the particles are not made of quarks",
+          "correct": false
+        },
+        {
+          "text": "It removes the need to measure quantum numbers",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInterference is a quantum-mechanical relationship between amplitudes; seeing it turns a set\nof separate peaks into evidence for a coherent family of states.\u003c/p\u003e"
+    },
+    {
+      "id": "card_978967#2",
+      "format": "flip",
+      "prompt": "What does studying these states teach us about the strong force?",
+      "back_html": "\u003cp\u003eThey probe nonperturbative QCD — the strongly coupled regime where the usual expansion in a\nsmall coupling fails and calculations are hardest.\u003c/p\u003e"
+    }
+  ]
+}

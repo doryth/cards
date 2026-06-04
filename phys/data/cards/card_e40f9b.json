@@ -1,0 +1,101 @@
+{
+  "id": "card_e40f9b",
+  "slug": "atmospheric-pressure",
+  "type": "concept",
+  "title": "Atmospheric Pressure",
+  "hook": "Air has weight, and the whole column of it above you presses down — about 101 kPa at sea level. That push is what makes straws and suction cups work.",
+  "key_points": [
+    "The weight of the air above you presses in from all sides at the surface.",
+    "At sea level it's roughly 101 kPa — one atmosphere — and it drops with altitude.",
+    "Straws and suction cups work because you lower pressure and the air pushes in.",
+    "Changing pressure with altitude is why your ears pop on a plane or mountain."
+  ],
+  "content_html": "\u003cp\u003eYou don't notice it, but you live at the bottom of an ocean of air. That air has weight, so the tall column of atmosphere above your head presses down on you — about 101 kilopascals at sea level, a value we call one atmosphere. You don't feel crushed because the same pressure pushes in from every side and your body pushes back out to match it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis invisible push does a lot of quiet work. When you sip through a straw, you lower the pressure inside it, and the ordinary atmosphere outside shoves the liquid up to fill the gap — the same trick a suction cup uses to cling to a wall. Climb a mountain or take off in a plane and there's less air overhead, so the pressure drops; the sudden imbalance across your eardrums is what makes your ears pop. Wikipedia's article on atmospheric pressure covers the value at sea level and how it thins out with altitude.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Atmospheric_pressure",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "fluids-pressure"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_7de888",
+      "slug": "what-is-pressure",
+      "type": "concept",
+      "title": "What Is Pressure?",
+      "hook": "Pressure is force spread over an area. Concentrate the same push on a tiny spot and it skyrockets — which is why a sharp knife cuts and a thumbtack pierces.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_662418",
+      "slug": "buoyancy-and-floating",
+      "type": "concept",
+      "title": "Buoyancy: Why Things Float",
+      "hook": "Any fluid pushes up on what's in it with a force equal to the weight of fluid it shoves aside. Match your weight that way and you float — that's Archimedes.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e40f9b#0",
+      "format": "flip",
+      "prompt": "What causes atmospheric pressure, and roughly how big is it at sea level?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eweight of the column of air above you\u003c/strong\u003e presses down — about\n\u003cstrong\u003e101 kPa (one atmosphere)\u003c/strong\u003e at sea level. It decreases as you go higher.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e40f9b#1",
+      "format": "quiz",
+      "prompt": "How does drinking through a straw actually work?",
+      "choices": [
+        {
+          "text": "You lower the pressure in the straw, so the atmosphere pushes the liquid up",
+          "correct": true
+        },
+        {
+          "text": "Your mouth physically pulls the liquid with a vacuum's grip",
+          "correct": false
+        },
+        {
+          "text": "The liquid is attracted to your lips",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSucking reduces the pressure inside the straw; the higher outside air pressure\nthen pushes the drink up into the low-pressure space.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e40f9b#2",
+      "format": "quiz",
+      "prompt": "What happens to atmospheric pressure as you climb higher?",
+      "choices": [
+        {
+          "text": "It decreases, because there's less air overhead",
+          "correct": true
+        },
+        {
+          "text": "It increases, because the air gets colder",
+          "correct": false
+        },
+        {
+          "text": "It stays exactly the same everywhere",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHigher up, less of the atmosphere sits above you, so there's less weight\npressing down and the pressure falls.\u003c/p\u003e"
+    }
+  ]
+}

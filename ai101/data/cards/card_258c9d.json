@@ -1,0 +1,120 @@
+{
+  "id": "card_258c9d",
+  "slug": "amazon-hides-order-emails",
+  "type": "news",
+  "title": "Why Your Order Emails Suddenly Say 'Your Beauty Item'",
+  "hook": "Amazon confirmation emails stopped naming what you bought. The reason isn't a bug — it's a fight over which AI assistants get to read your inbox.",
+  "key_points": [
+    "Amazon order emails began listing item categories instead of specific products.",
+    "Shoppers saw messages like 'Your Beauty item is confirmed!' in place of the item name.",
+    "The Verge ties the change to AI agents mining email inboxes for shopping data.",
+    "Your inbox is a detailed purchase history — valuable to whoever's assistant can read it.",
+    "Users lose a useful record as a side effect of a platform-versus-platform data fight."
+  ],
+  "content_html": "\u003cp\u003eAmazon shoppers noticed something odd this summer: order confirmation emails stopped naming what they'd actually bought. Instead of the product, the email lists a category — \u0026quot;Your Beauty item is confirmed!\u0026quot; The Verge reports the change is connected to AI agents that read email inboxes, and to the competitive stakes of who gets to mine that data.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThink about what a mailbox full of receipts really is: a detailed, timestamped purchase history covering what you buy, how often, and what you pay. That's precisely the fuel an AI shopping assistant needs to recommend, compare, or reorder on your behalf — and if that assistant belongs to a rival, every itemized confirmation email is a free data feed. Vague categories still tell you the order went through while giving much less away.\u003c/p\u003e\n\u003cp\u003eThe side effect lands on you. Searching your own inbox for \u0026quot;when did I order that filter?\u0026quot; is a genuinely useful thing that quietly stopped working. It's an early, mundane example of a pattern worth recognizing: as companies build agents that act on your data, they also start restricting what their competitors' agents can see — and the shared plumbing that used to just serve users gets narrower in the crossfire.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Mia Sato"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+    "published_at": "2026-08-11",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-everyday",
+    "ai-agents",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent",
+    "dataset"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_af34d5",
+      "slug": "ai-in-everyday-tools",
+      "type": "concept",
+      "title": "AI in Everyday Tools",
+      "hook": "You've used AI for years without calling it that — every time your phone unlocks with your face, your maps reroute around traffic, or your inbox filters spam.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_258c9d#0",
+      "format": "quiz",
+      "prompt": "Why did Amazon strip item names out of order confirmation emails?",
+      "choices": [
+        {
+          "text": "To keep AI assistants reading your inbox from harvesting detailed purchase data",
+          "correct": true
+        },
+        {
+          "text": "To reduce the size of the emails it sends",
+          "correct": false
+        },
+        {
+          "text": "A formatting bug that Amazon hasn't fixed",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Verge connects it to email-reading AI agents. Vague categories still confirm\nyour order while giving a rival's assistant much less to work with.\u003c/p\u003e"
+    },
+    {
+      "id": "card_258c9d#1",
+      "format": "flip",
+      "prompt": "Why is an email inbox valuable to an AI shopping assistant?",
+      "back_html": "\u003cp\u003eConfirmation and receipt emails add up to a detailed purchase history — what you\nbuy, how often, and at what price — which is exactly the data an assistant needs\nto recommend or reorder for you.\u003c/p\u003e"
+    },
+    {
+      "id": "card_258c9d#2",
+      "format": "quiz",
+      "prompt": "Who bears the cost of this change?",
+      "choices": [
+        {
+          "text": "Users, who lose a searchable record of what they ordered",
+          "correct": true
+        },
+        {
+          "text": "Nobody — the emails contain the same information",
+          "correct": false
+        },
+        {
+          "text": "Only advertisers",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe data withheld from rival assistants is also the data you used when searching\nyour own inbox for a past order.\u003c/p\u003e"
+    }
+  ]
+}

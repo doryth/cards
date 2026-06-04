@@ -1,0 +1,95 @@
+{
+  "id": "card_b1bde2",
+  "slug": "debian-allows-ai-code",
+  "type": "news",
+  "title": "A Major Linux Project Voted Not to Ban AI Code",
+  "hook": "Debian's answer to AI contributions: no special rules, no exemptions. If you submit it, you're accountable for it — same as always.",
+  "key_points": [
+    "Debian voted to allow AI tools in development, maintenance, and documentation of the Linux distribution, per The Verge.",
+    "The policy says generative AI is 'neither exempt from nor subject to special rules beyond the standards already' in place.",
+    "The framing shifts the question from 'was AI used?' to 'does the contribution meet our bar?'",
+    "It acknowledges that 'responsible' AI use can improve developer productivity.",
+    "Practical upside: an AI-origin rule would be near-impossible to enforce, since detectors are unreliable."
+  ],
+  "content_html": "\u003cp\u003eDebian — one of the oldest and most influential Linux distributions, and the base for Ubuntu and many others — voted on whether to ban AI-generated contributions. It decided not to. The new policy lets developers use AI tools in the project's \u0026quot;development, maintenance, [and] documentation,\u0026quot; acknowledging that responsible use can genuinely improve productivity.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe wording is the interesting part. Generative AI, the policy says, is \u0026quot;neither exempt from nor subject to special rules beyond the standards already\u0026quot; in place. That's a deliberate refusal to make AI a special category in either direction: no free pass for AI-assisted work, and no extra hurdle for it either. A contribution is judged by whether it's correct, maintainable, and properly licensed — the same bar it always faced.\u003c/p\u003e\n\u003cp\u003eThere's a pragmatic reason this framing wins arguments. Origin-based bans require detecting origin, and AI detectors are notoriously unreliable — good enough to accuse people, not good enough to be right. Debian's version puts the weight on accountability instead: you submitted it, so you vouch for it. That's a template other volunteer projects, workplaces, and classrooms are likely to copy.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Stevie Bonifield"
+    ],
+    "url": "https://theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "published_at": "2026-08-31",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "responsible-use",
+    "ai-and-jobs",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "open-source"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-08-31",
+  "related": [
+    {
+      "id": "card_af049a",
+      "slug": "using-ai-responsibly",
+      "type": "concept",
+      "title": "Using AI Responsibly",
+      "hook": "The point of AI literacy isn't to use AI for everything — it's to use it well: check its work, be honest that you used it, and know the moments to put it down.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_03fe8f",
+      "slug": "ai-detectors-distrust",
+      "type": "news",
+      "title": "AI Detectors Are Making Everyone Suspicious of Everyone",
+      "hook": "Tools that claim to spot AI writing are unreliable enough to flag honest work — and the damage isn't just false accusations. It's that nobody trusts anything anymore.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b1bde2#0",
+      "format": "quiz",
+      "prompt": "What rule did Debian settle on for AI-assisted contributions?",
+      "choices": [
+        {
+          "text": "AI use is allowed and judged by the existing quality standards — no special rules either way",
+          "correct": true
+        },
+        {
+          "text": "AI-generated code is banned outright",
+          "correct": false
+        },
+        {
+          "text": "AI-generated code is allowed but exempt from normal review",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe policy states generative AI is \u0026quot;neither exempt from nor subject to special rules\nbeyond the standards already\u0026quot; in place — contributions are judged on their merits.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b1bde2#1",
+      "format": "flip",
+      "prompt": "Why is 'did you use AI?' a hard rule to enforce in practice?",
+      "back_html": "\u003cp\u003eThere's no reliable way to tell. AI-detection tools are inaccurate, so an\norigin-based ban would mostly generate false accusations, not compliance.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b1bde2#2",
+      "format": "flip",
+      "prompt": "What principle does Debian's approach put in place of a ban?",
+      "back_html": "\u003cp\u003eAccountability. Whoever submits the work owns it and answers for its quality,\nregardless of what tools helped produce it.\u003c/p\u003e"
+    }
+  ]
+}

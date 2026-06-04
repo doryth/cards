@@ -1,0 +1,110 @@
+{
+  "id": "card_2b3958",
+  "slug": "ai-model-neutron-star-nucleosynthesis",
+  "type": "news",
+  "title": "An AI Shortcut for How Star Mergers Forge Heavy Elements",
+  "hook": "Simulating how neutron star collisions forge gold and other heavy elements normally needs a huge nuclear calculation at every step. A neural network now approximates it almost for free.",
+  "key_points": [
+    "Neutron star mergers and supernovae build many of the universe's heavy elements via rapid neutron capture, or the 'r-process.'",
+    "Simulating the r-process accurately requires huge nuclear physics calculations at every timestep — extremely computationally expensive.",
+    "GSI/FAIR researchers built RHINE, a neural network trained on reference nuclear calculations that approximates the heating rates instead of recomputing them.",
+    "The approach saves substantial computing time, and the code has been released publicly for other researchers to use."
+  ],
+  "content_html": "\u003cp\u003eWhen two neutron stars collide, the debris forges many of the universe's heaviest elements through rapid neutron capture — nuclei absorbing neutrons and decaying in quick succession, a process astrophysicists call the r-process. Simulating it accurately has long meant running a full nuclear physics calculation at every single timestep of a simulation, which is punishingly expensive computationally.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers Oliver Just and Zewei Xiong at GSI/FAIR's Nuclear Astrophysics \u0026amp; Structure department built a way around that bottleneck: RHINE, a deep learning neural network trained on reference nuclear calculations that then approximates the energy released during the r-process on the fly, instead of solving the full physics from scratch at every step. The approach saves a substantial amount of computing time, letting researchers run more and better simulations of neutron star mergers and supernovae to see how they seed the cosmos with heavy elements. The team has released RHINE's source code publicly on Zenodo so other groups can build on it. Published in \u003cem\u003ePhysical Review D\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260626030426.htm",
+    "published_at": "2026-07-08",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "atomic-nuclear"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-13",
+  "date": "2026-07-08",
+  "related": [
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d1ba32",
+      "slug": "nuclear-fusion",
+      "type": "concept",
+      "title": "Nuclear Fusion",
+      "hook": "The same reaction that powers every star — squeezing light nuclei together — could one day give Earth nearly limitless clean energy, if we can hold a sun in a box.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_2b3958#0",
+      "format": "flip",
+      "prompt": "What is the 'r-process,' and why does it matter?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eRapid neutron capture\u003c/strong\u003e — atomic nuclei quickly absorbing neutrons to build up into\nheavier elements. It's how neutron star mergers and supernovae forge many of the\nuniverse's heaviest elements.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2b3958#1",
+      "format": "quiz",
+      "prompt": "What made r-process simulations so computationally expensive before this work?",
+      "choices": [
+        {
+          "text": "They required a full nuclear physics calculation at every timestep of the simulation",
+          "correct": true
+        },
+        {
+          "text": "They needed data from an actual neutron star merger observed in real time",
+          "correct": false
+        },
+        {
+          "text": "They could only run on specialized quantum computers",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eModeling how energy is released as nuclei absorb neutrons and decay normally means\nsolving detailed nuclear physics at each step — the bottleneck RHINE targets.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2b3958#2",
+      "format": "flip",
+      "prompt": "How does RHINE avoid repeating those expensive calculations?",
+      "back_html": "\u003cp\u003eIt's a \u003cstrong\u003eneural network trained on reference nuclear calculations\u003c/strong\u003e that then\napproximates the heating rates during a simulation, instead of recomputing them from\nscratch each time.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "card_b295fe",
+  "slug": "twisted-light-tells-molecules-apart",
+  "type": "news",
+  "title": "Twisted Laser Beams Can Tell Left-Handed Molecules From Right",
+  "hook": "Many molecules come in mirror-image pairs that are chemically near-identical — and notoriously hard to tell apart. Corkscrewed light does it by breaking them.",
+  "key_points": [
+    "Chiral molecules exist as left- and right-handed versions that share a formula but cannot be superimposed, like your two hands.",
+    "The distinction matters enormously in pharmaceuticals, where the two handednesses can have very different effects in the body.",
+    "The team used laser beams carrying a twist — light with structured, helical wavefronts — which interacts differently with each handedness.",
+    "The two versions then break into different fragments, so the fragment pattern identifies the handedness.",
+    "Researchers say the method could be faster, simpler, and more sensitive than conventional chirality analysis."
+  ],
+  "content_html": "\u003cp\u003eYour left hand and your right hand are the same object mirrored, and no amount of rotating will turn one into the other. Molecules do this too, and it matters: a drug's two handednesses can have entirely different effects in the body. Telling them apart is fiddly, because in almost every other respect they are identical. Researchers have now done it with laser light that carries a twist.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eOrdinary laser light has flat wavefronts. Light can also be given structure — helical wavefronts that corkscrew as the beam travels, carrying orbital angular momentum. Because that twist itself has a handedness, it couples differently to left- and right-handed molecules, an asymmetry that ordinary light barely notices. The team exploited this by pushing the interaction hard enough to break the molecules apart: the two mirror-image versions shatter into different fragments, so reading the fragment pattern tells you which one you had. The researchers report the technique should be faster, simpler, and more sensitive than conventional methods for analysing chirality — appealing for chemistry and pharmaceutical work, where the answer is often needed on small samples and in a hurry.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260727214557.htm",
+    "published_at": "2026-07-28"
+  },
+  "topic_ids": [
+    "light-optics",
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-07-28",
+  "related": [
+    {
+      "id": "card_65937b",
+      "slug": "how-lasers-work",
+      "type": "concept",
+      "title": "How Lasers Work",
+      "hook": "A flashlight sprays a jumble of colors every which way. A laser does the opposite: one pure color, marching in perfect step, in a beam so tight it can reach the Moon.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_065911",
+      "slug": "poisson-spot-optical-skyrmions",
+      "type": "news",
+      "title": "A 200-Year-Old Shadow Trick Makes Tiny Swirls of Light",
+      "hook": "Physicists used the Poisson spot — the bright dot that proved light is a wave two centuries ago — to create swirling light patterns called optical skyrmions, no exotic materials required.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_8480c5",
+      "slug": "optical-centrifuge-spins-molecules-in-superfluid",
+      "type": "news",
+      "title": "Spinning Molecules Inside a Superfluid With Light",
+      "hook": "Superfluids flow with zero friction. Physicists built a laser 'centrifuge' that can spin a single molecule inside one at a controlled, steady rate — a step toward watching friction reappear.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b295fe#0",
+      "format": "flip",
+      "prompt": "What makes two chiral molecules so hard to distinguish?",
+      "back_html": "\u003cp\u003eThey are mirror images with the \u003cstrong\u003esame chemical formula\u003c/strong\u003e and nearly identical\nproperties — like left and right hands, they can't be superimposed but otherwise\nmatch.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b295fe#1",
+      "format": "quiz",
+      "prompt": "How does the twisted-light method reveal a molecule's handedness?",
+      "choices": [
+        {
+          "text": "Each handedness interacts differently with the twisted beam and breaks into a different pattern of fragments",
+          "correct": true
+        },
+        {
+          "text": "Only one handedness absorbs the beam; the other is transparent to all light",
+          "correct": false
+        },
+        {
+          "text": "The molecules physically rotate the laser beam into a visible spiral",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe helical beam couples differently to left- and right-handed molecules, and the\nresulting fragments differ — so the fragment signature identifies which version\nyou have.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b295fe#2",
+      "format": "flip",
+      "prompt": "Why does molecular handedness matter for medicine?",
+      "back_html": "\u003cp\u003eThe two mirror-image forms of a drug molecule can behave very differently in the\nbody, so distinguishing and controlling handedness is critical in pharmaceutical\nchemistry.\u003c/p\u003e"
+    }
+  ]
+}

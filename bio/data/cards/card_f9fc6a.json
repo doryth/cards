@@ -1,0 +1,100 @@
+{
+  "id": "card_f9fc6a",
+  "slug": "deep-sea-marine-snow-nutrient-leak",
+  "type": "news",
+  "title": "The Deep Ocean's 'Empty' Water Has a Secret Food Source",
+  "hook": "Deep-sea pressure acts almost like a giant juicer on sinking bits of organic matter — squeezing out nutrients that feed microbes in water once thought too starved to support much life at all.",
+  "key_points": [
+    "Sinking organic particles known as 'marine snow' leak dissolved nutrients into deep ocean water as they descend, feeding microbial life.",
+    "As particles sink 2–6 kilometers, extreme hydrostatic pressure squeezes out dissolved organic matter — particles lose roughly 50% of their carbon and 58–63% of their nitrogen along the way.",
+    "In lab experiments, this released material triggered a 30-fold increase in bacterial abundance within just two days.",
+    "The finding challenges assumptions about ocean carbon storage: if much carbon leaks out before reaching the seafloor, it stays suspended in deep water for centuries to millennia rather than being buried for millions of years."
+  ],
+  "content_html": "\u003cp\u003eThe deep ocean, far below where sunlight reaches, has long been pictured as a nutrient desert — a place where microbial life scrapes by on whatever scraps drift down from above. New research suggests those \u0026quot;scraps\u0026quot; are more nourishing than anyone realized, thanks to a mechanism hiding in plain sight: pressure.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs sinking organic particles called marine snow descend 2 to 6 kilometers, the sheer hydrostatic pressure squeezes dissolved organic matter out of them — like a giant juicer, as the researchers describe it — with particles losing roughly half their carbon and around 60% of their nitrogen along the way. In lab experiments, that released material triggered explosive microbial growth: bacterial numbers jumped 30-fold within just two days. The discovery reshapes more than deep-sea food webs — it complicates ocean carbon storage models, too. If a large share of a particle's carbon leaks out before ever reaching the seafloor, that carbon isn't locked away in sediment for millions of years as long assumed; instead, it lingers dissolved in deep water for centuries to millennia before eventually cycling back toward the surface and atmosphere.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260711010127.htm",
+    "published_at": "2026-07-12",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "ecology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-12",
+  "related": [
+    {
+      "id": "card_d9795d",
+      "slug": "nutrient-cycles",
+      "type": "concept",
+      "title": "Nutrient Cycles",
+      "hook": "The carbon in your breath, the nitrogen in your DNA, the water in your blood — all of it has cycled through living things and the planet countless times. Nothing is used up; everything is recycled.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_13a0f3",
+      "slug": "ancient-deep-sea-chemosynthesis",
+      "type": "news",
+      "title": "Signs of Ancient Life Where Sunlight Never Reached",
+      "hook": "Wrinkly fossil patterns usually made by sunlit microbial mats turned up in ancient deep-sea rocks — pointing to microbes that lived on chemistry, not light, far more widely than thought.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f9fc6a#0",
+      "format": "flip",
+      "prompt": "What is 'marine snow,' and what secret food source does it provide the deep ocean?",
+      "back_html": "\u003cp\u003eMarine snow is sinking organic particles from upper ocean waters. As they\ndescend, deep-sea pressure squeezes out dissolved nutrients, feeding microbes\nin water once thought too nutrient-starved to support much life.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f9fc6a#1",
+      "format": "quiz",
+      "prompt": "What mechanism releases nutrients from sinking marine snow particles?",
+      "choices": [
+        {
+          "text": "Extreme hydrostatic pressure at depth squeezes dissolved organic matter out of the particles, like a giant juicer",
+          "correct": true
+        },
+        {
+          "text": "Sunlight breaks the particles down chemically as they sink",
+          "correct": false
+        },
+        {
+          "text": "Fish physically bite the particles apart on the way down",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAs particles descend 2–6 kilometers, the immense pressure squeezes out\ndissolved carbon and nitrogen — particles lose about 50% of their carbon and\n58–63% of their nitrogen this way.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f9fc6a#2",
+      "format": "quiz",
+      "prompt": "Why does this discovery challenge assumptions about how the ocean stores carbon?",
+      "choices": [
+        {
+          "text": "If carbon leaks out before reaching the seafloor, it stays suspended in deep water for centuries rather than being buried for millions of years",
+          "correct": true
+        },
+        {
+          "text": "It shows the ocean stores far more carbon than previously thought",
+          "correct": false
+        },
+        {
+          "text": "It proves deep-sea carbon storage doesn't exist at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLong-held models assumed sinking particles bury most of their carbon in\nseafloor sediment for the long term. If much of it leaks out en route instead,\nthat carbon remains part of active ocean circulation for a much shorter time.\u003c/p\u003e"
+    }
+  ]
+}

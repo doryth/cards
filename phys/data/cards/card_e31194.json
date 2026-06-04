@@ -1,0 +1,99 @@
+{
+  "id": "card_e31194",
+  "slug": "magnons-quantum-computers-penny-sized",
+  "type": "news",
+  "title": "Tiny Magnetic Waves Could Shrink Quantum Computers to Coin Size",
+  "hook": "Magnons — quantum ripples of magnetism once too short-lived to use — just got a 100x lifespan boost, and the bottleneck turns out to be manufacturing, not physics.",
+  "key_points": [
+    "Magnons are quantum-scale ripples of magnetization — tiny 'spin waves' — that can carry quantum information.",
+    "Researchers extended a magnon's lifetime nearly 100-fold, to about 18 microseconds.",
+    "The main limit on magnon lifetime was material purity, not a fundamental law of physics.",
+    "Further gains could come from better fabrication rather than new physics.",
+    "Longer-lived magnons could enable much smaller, chip-scale quantum computing hardware."
+  ],
+  "content_html": "\u003cp\u003eQuantum computers need something to carry and store quantum information, and most approaches rely on delicate superconducting circuits or trapped atoms that need room-sized support equipment. Magnons — tiny waves of magnetization that ripple through a magnetic material — have long been a candidate too, except they usually fall apart almost as soon as they form.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, researchers have now extended a magnon's usable lifetime by nearly 100 times, to about 18 microseconds — long enough to start doing real quantum work. The bigger surprise: the previous limit wasn't a hard law of physics, it was the purity of the material carrying the waves. That reframes the path forward — better manufacturing, not a new breakthrough discovery, could keep pushing magnon lifetimes up, potentially enabling quantum computing hardware small enough to fit in your pocket.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260626030431.htm",
+    "published_at": "2026-07-02",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-06",
+  "date": "2026-07-02",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_07a017",
+      "slug": "metal-film-thickness-controls-electrons",
+      "type": "news",
+      "title": "A Few Atoms Thinner, a Whole New Metal",
+      "hook": "Shave a metal film by just a couple of nanometers and its electronic behavior can change dramatically — a surprising new dial for tuning materials.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-06"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e31194#0",
+      "format": "flip",
+      "prompt": "What is a magnon?",
+      "back_html": "\u003cp\u003eA tiny quantum-scale ripple of magnetization — a \u0026quot;spin wave\u0026quot; — that can, in\nprinciple, carry quantum information.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e31194#1",
+      "format": "quiz",
+      "prompt": "What was actually limiting how long magnons could survive?",
+      "choices": [
+        {
+          "text": "The purity of the material, not a fundamental law of physics",
+          "correct": true
+        },
+        {
+          "text": "An unbreakable law of quantum mechanics",
+          "correct": false
+        },
+        {
+          "text": "The speed of light",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers found material purity was the bottleneck — not a hard physical\nlimit like a quantum law or the speed of light.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e31194#2",
+      "format": "flip",
+      "prompt": "By how much did researchers extend magnon lifetime, and why does that matter?",
+      "back_html": "\u003cp\u003eNearly 100-fold, to about 18 microseconds — long enough to make magnons a\nserious candidate for compact, chip-scale quantum computers.\u003c/p\u003e"
+    }
+  ]
+}

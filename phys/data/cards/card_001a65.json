@@ -1,0 +1,133 @@
+{
+  "id": "card_001a65",
+  "slug": "ligo-a-sharp-upgrade",
+  "type": "paper",
+  "title": "LIGO's Next Upgrade Is Mostly About Heavier Mirrors",
+  "hook": "The proposed A-sharp detector wrings more out of room-temperature LIGO — heavier test masses, better suspensions, more laser power — enough to catch neutron star mergers before they collide.",
+  "key_points": [
+    "LIGO A-sharp is the proposed upgrade after the fifth observing run, still using room-temperature interferometers.",
+    "The gains come from heavier test masses, better suspensions and seismic isolation, and more power in the arm cavities.",
+    "Enhanced frequency-dependent squeezing and lower coating thermal noise attack the quantum and thermal noise floors.",
+    "It would sharply raise compact-binary detection rates and improve early warning and sky localization for neutron star mergers.",
+    "Better sensitivity opens up ringdown, intermediate-mass black holes, and the neutron star equation of state.",
+    "It doubles as a technology pathfinder for next-generation observatories like Cosmic Explorer."
+  ],
+  "content_html": "\u003cp\u003eGravitational-wave detectors improve by chipping away at noise, and the LIGO collaboration has now laid out its next chip: A-sharp, an upgrade for the observatories after the fifth observing run. Notably, it stays with room-temperature interferometers rather than jumping to exotic new technology — the gains come from doing the current approach much better.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe shopping list is heavier test masses, improved suspensions and seismic isolation, more laser power circulating in the arm cavities, enhanced frequency-dependent squeezing to beat down quantum noise, reduced coating thermal noise, and tighter control of mechanical motion and optical modes. The payoff, per the collaboration's projections: substantially more compact-binary detections, better population inference, and — for binary neutron star mergers — improved early-warning times and sky localization, which is what lets telescopes catch the light from a collision as it happens. Higher signal-to-noise also brings finer features within reach: higher-order multipoles in the waveform, the ringdown of the remnant black hole, intermediate-mass black holes, and the neutron star equation of state. The authors also expect it to detect the stochastic background from compact binary mergers if O5 hasn't already. A-sharp is pitched as both a major upgrade for the 2030s and a proving ground for the technology that next-generation observatories like Cosmic Explorer will need.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "L. Sun",
+      "K. Kuns",
+      "B. J. J. Slagmolen",
+      "P. Fritschel",
+      "P. Schmidt",
+      "et al. (LIGO Scientific Collaboration)"
+    ],
+    "url": "https://arxiv.org/abs/2608.11673",
+    "published_at": "2026-08-12",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "card_b01732",
+      "slug": "ringdown-test-of-black-hole-no-hair",
+      "type": "paper",
+      "title": "Precision Ringdown Measurements of Binary Black Hole Remnants",
+      "hook": "After two black holes merge, the remnant 'rings' like a struck bell — general relativity says that tone depends only on its mass and spin. A sharper measurement says: still true.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_001a65#0",
+      "format": "quiz",
+      "prompt": "What kind of upgrade is LIGO A-sharp?",
+      "choices": [
+        {
+          "text": "An incremental upgrade of the existing room-temperature interferometers, beyond the A+ configuration",
+          "correct": true
+        },
+        {
+          "text": "A move to cryogenic mirrors cooled near absolute zero",
+          "correct": false
+        },
+        {
+          "text": "A space-based detector replacing the ground observatories",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA-sharp builds on A+ sensitivity using room-temperature interferometers — heavier masses, better\nsuspensions, more arm power — rather than switching detector technology.\u003c/p\u003e"
+    },
+    {
+      "id": "card_001a65#1",
+      "format": "flip",
+      "prompt": "Why does a more sensitive detector give *earlier warning* of a neutron star merger?",
+      "back_html": "\u003cp\u003eIt picks up the inspiral signal while it is still faint — further from merger — so alerts and sky\nlocalization arrive before the collision, not after.\u003c/p\u003e"
+    },
+    {
+      "id": "card_001a65#2",
+      "format": "quiz",
+      "prompt": "Beyond more detections, what science does the extra sensitivity unlock?",
+      "choices": [
+        {
+          "text": "Higher-order multipoles, remnant ringdown, intermediate-mass black holes, and the neutron star equation of state",
+          "correct": true
+        },
+        {
+          "text": "Direct imaging of black hole event horizons",
+          "correct": false
+        },
+        {
+          "text": "Measuring the mass of the photon",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThese are the finer features of a coalescence signal that only emerge once the signal-to-noise is\nhigh enough — plus new source classes like continuous waves and bursts.\u003c/p\u003e"
+    }
+  ]
+}

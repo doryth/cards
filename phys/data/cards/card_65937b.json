@@ -1,0 +1,111 @@
+{
+  "id": "card_65937b",
+  "slug": "how-lasers-work",
+  "type": "concept",
+  "title": "How Lasers Work",
+  "hook": "A flashlight sprays a jumble of colors every which way. A laser does the opposite: one pure color, marching in perfect step, in a beam so tight it can reach the Moon.",
+  "key_points": [
+    "Energized atoms can be triggered to emit light by a passing photon — 'stimulated emission'.",
+    "Each triggered photon is an exact copy: same color, direction, and timing.",
+    "Mirrors bounce the light back and forth, building a strong, in-step beam (LASER).",
+    "The result is coherent, single-color, tightly focused light unlike an ordinary bulb's."
+  ],
+  "content_html": "\u003cp\u003eThe word LASER is an acronym: Light Amplification by Stimulated Emission of Radiation. The key is that middle bit. An atom holding extra energy will normally drop down and release a photon at a random moment in a random direction. But Einstein realized that a passing photon of just the right color can \u003cem\u003etrigger\u003c/em\u003e that release early — and the emitted photon comes out as an exact twin of the one that triggered it: same wavelength, same direction, same phase. That's stimulated emission.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA laser arranges for this to snowball. A material is \u0026quot;pumped\u0026quot; with energy so many of its atoms are primed, then the light is trapped between two mirrors and bounced back and forth through them. Each pass triggers more identical photons, and the matched waves reinforce into an intense, perfectly in-step beam; one mirror lets a sliver leak out as the laser beam. Because the light is coherent (in step), monochromatic (one color), and barely spreads, a laser can carry data down a hair-thin fiber, read a barcode or disc, cut steel, perform delicate surgery, and measure distances with extraordinary precision. Wikipedia details the physics and the many kinds of lasers.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Laser",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "light-optics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80e637",
+      "slug": "electromagnetic-spectrum",
+      "type": "concept",
+      "title": "The Electromagnetic Spectrum",
+      "hook": "Radio, microwaves, the warmth of sunlight, the colors you see, and a hospital X-ray are all the same thing — electromagnetic waves, differing only in wavelength.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e9988d",
+      "slug": "the-photoelectric-effect",
+      "type": "concept",
+      "title": "The Photoelectric Effect",
+      "hook": "Shine the wrong color of light on a metal and nothing happens, no matter how bright. Switch to a bluer color and electrons fly off instantly. That puzzle proved light comes in packets.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_65937b#0",
+      "format": "flip",
+      "prompt": "What is 'stimulated emission', the effect at the heart of a laser?",
+      "back_html": "\u003cp\u003eAn energized atom, struck by a passing photon, emits a \u003cstrong\u003esecond identical photon\u003c/strong\u003e —\nsame color, direction, and phase. One photon becomes two in lockstep.\u003c/p\u003e"
+    },
+    {
+      "id": "card_65937b#1",
+      "format": "quiz",
+      "prompt": "What makes laser light different from the light of an ordinary bulb?",
+      "choices": [
+        {
+          "text": "It's coherent and one color — the waves march in step in a tight beam",
+          "correct": true
+        },
+        {
+          "text": "It travels faster than normal light",
+          "correct": false
+        },
+        {
+          "text": "It is hotter than any other light",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA bulb emits many colors in all directions and out of step. A laser's photons\nare identical and aligned, giving a pure, directional, coherent beam.\u003c/p\u003e"
+    },
+    {
+      "id": "card_65937b#2",
+      "format": "quiz",
+      "prompt": "What role do the mirrors in a laser play?",
+      "choices": [
+        {
+          "text": "They bounce light back and forth so it triggers more identical photons, amplifying the beam",
+          "correct": true
+        },
+        {
+          "text": "They change the light's color each pass",
+          "correct": false
+        },
+        {
+          "text": "They slow the light down to make it visible",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eReflecting the light repeatedly through the energized material multiplies the\nstimulated emission, building up a strong, coherent beam before it exits.\u003c/p\u003e"
+    }
+  ]
+}

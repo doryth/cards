@@ -1,0 +1,104 @@
+{
+  "id": "card_9f8557",
+  "slug": "south-korea-chip-robot-plan",
+  "type": "news",
+  "title": "South Korea Bets $1 Trillion on Chips and Robots",
+  "hook": "South Korea just committed roughly $1 trillion to memory chips, AI data centers, and mass-produced humanoid robots — a national wager that hardware, not just software, decides who leads AI.",
+  "key_points": [
+    "Samsung and SK Hynix will invest about $585 billion in new memory-chip fabs.",
+    "SK Group, GS Group, and Naver plan AI data centers targeting 8.4 gigawatts by 2029.",
+    "The government wants humanoid robots commercialized across 10 major industries by 2028.",
+    "Hyundai-owned Boston Dynamics aims to build 30,000 Atlas robots a year by 2028.",
+    "President Lee Jae Myung: 'We must secure the core elements of AI faster than any other country.'"
+  ],
+  "content_html": "\u003cp\u003eSouth Korea just placed one of the biggest bets in AI's short history. Ars Technica reports that the government and its top companies are committing roughly $1 trillion across a handful of megaprojects meant to secure the physical backbone of AI — memory chips, data centers, and humanoid robots — with President Lee Jae Myung declaring, \u0026quot;We must secure the core elements of AI faster than any other country.\u0026quot;\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe money splits across three fronts. Samsung and SK Hynix are putting about $585 billion into new memory-chip fabs, the single costliest piece. SK Group, GS Group, and Naver are separately funding AI data centers aimed at 8.4 gigawatts of capacity by 2029 — enough to power a small country. And on the robotics side, Hyundai-owned Boston Dynamics is scaling up to build 30,000 Atlas humanoid robots a year by 2028, while the government wants humanoid robots commercialized across 10 major industries by then, plus 10,000 newly trained \u0026quot;AI robotics specialists.\u0026quot; Taken together, it's a bet that AI leadership isn't decided by models alone — it runs through who can manufacture the chips, power, and machines underneath them, echoing the same hardware chokepoint that makes companies like ASML so strategically important.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots",
+    "published_at": "2026-06-29",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_6045bc",
+      "slug": "asml-chipmaking-machine",
+      "type": "news",
+      "title": "The $400 Million Machine Behind Every AI Chip",
+      "hook": "Every AI chip starts on a machine most people have never heard of: a $400-million, bus-sized contraption from a single Dutch company that the whole industry depends on.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "card_d3e1b8",
+      "slug": "china-open-model-gap",
+      "type": "news",
+      "title": "China's Free-to-Download Models Are Closing the Gap",
+      "hook": "A Chinese lab's openly downloadable model reportedly rivals the top US models at some security tasks — a sign the distance between open AI and the frontier is shrinking fast.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9f8557#0",
+      "format": "quiz",
+      "prompt": "What are the two main pieces of South Korea's roughly $1 trillion AI push?",
+      "choices": [
+        {
+          "text": "More memory-chip and AI data-center capacity, plus mass-produced humanoid robots",
+          "correct": true
+        },
+        {
+          "text": "A ban on all foreign AI chatbots",
+          "correct": false
+        },
+        {
+          "text": "Free AI chatbot subscriptions for every citizen",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe plan pairs new chip fabs and AI data centers (Samsung, SK Hynix, SK Group,\nNaver) with a push to commercialize humanoid robots like Boston Dynamics' Atlas.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9f8557#1",
+      "format": "flip",
+      "prompt": "Why does a country's chip and robot investment matter for 'who controls AI'?",
+      "back_html": "\u003cp\u003eAI depends on physical hardware — chips and data centers — not just clever\nsoftware. Countries racing to build that hardware are racing for AI leverage.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9f8557#2",
+      "format": "flip",
+      "prompt": "What robot manufacturing target did South Korea set for 2028?",
+      "back_html": "\u003cp\u003eBoston Dynamics (owned by Hyundai) aims to produce 30,000 Atlas humanoid\nrobots a year, as part of commercializing robots across 10 major industries.\u003c/p\u003e"
+    }
+  ]
+}

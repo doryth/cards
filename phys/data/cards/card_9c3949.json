@@ -1,0 +1,94 @@
+{
+  "id": "card_9c3949",
+  "slug": "wide-binary-stars-confirm-mond-anomaly",
+  "type": "paper",
+  "title": "Revisiting Data Quality Control and Multiple-star Modeling in Wide Binary Gravity Tests: Confirmation of MOND-type Gravitational Anomaly at Low Acceleration",
+  "hook": "Pairs of stars orbiting each other from far apart keep showing gravity is stronger than Newton predicts — a careful re-check just failed to make the anomaly disappear.",
+  "key_points": [
+    "Wide binary stars orbit thousands of astronomical units apart, far enough that dark matter barely affects their orbits.",
+    "That makes them a clean test of gravity itself — any deviation can't be blamed on hidden mass.",
+    "Several studies found these binaries orbit as if gravity gets a 1.3-1.6x boost at very low acceleration, as MOND predicts.",
+    "Other studies using the same survey data found no such boost, often blamed on data quality and hidden extra companion stars.",
+    "This reanalysis reruns those data-quality and multi-star-modeling steps with independent statistical tests.",
+    "The low-acceleration anomaly survives every reasonable variation and matches recent MOND-based orbit models."
+  ],
+  "content_html": "\u003cp\u003eTwo stars orbiting each other from thousands of times the Earth-Sun distance apart make an unusually clean test of gravity: out there, standard dark matter has almost no effect on their orbits, so any weirdness has to come from gravity's own rulebook. Several studies have found exactly that kind of weirdness — and this new reanalysis shows it doesn't go away under scrutiny.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eKyu-Hyun Chae and Youngsub Yoon revisited why some wide-binary studies find an extra gravity \u0026quot;boost\u0026quot; at low acceleration — the signature long predicted by MOND, a rival to dark matter — while others, using the same survey data, find none. The disagreement often traces to how carefully data was quality-controlled and how hidden triple-or-higher-order star systems were modeled. Rerunning those steps with several independent statistical tests, the authors find the anomaly — a boost of roughly 1.3 to 1.6 times Newton's prediction — persists and matches recent, realistic MOND-based orbit models. They trace the \u0026quot;no anomaly\u0026quot; results elsewhere to skipped calibration of hidden multi-star systems, biased data cuts, or simply too little low-acceleration data to see the effect clearly.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Kyu-Hyun Chae",
+      "Youngsub Yoon"
+    ],
+    "url": "https://arxiv.org/abs/2607.14450",
+    "published_at": "2026-07-16",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "gravity-orbits"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9c3949#0",
+      "format": "flip",
+      "prompt": "Why are wide binary stars a clean test of gravity itself?",
+      "back_html": "\u003cp\u003eAt their huge separations, dark matter has almost no effect on their orbits, so any deviation\nfrom Newton/Einstein must come from the gravity law, not hidden mass.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9c3949#1",
+      "format": "quiz",
+      "prompt": "What anomaly does this reanalysis confirm in wide binary star orbits?",
+      "choices": [
+        {
+          "text": "Gravity appears boosted roughly 1.3-1.6x at very low acceleration, as MOND predicts",
+          "correct": true
+        },
+        {
+          "text": "Gravity is weaker than Newton predicted at every distance",
+          "correct": false
+        },
+        {
+          "text": "No anomaly exists once multi-star systems are properly modeled",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe anomaly persists across independent statistical tests and matches recent MOND-based orbit\nmodels, contrary to some earlier \u0026quot;no deviation\u0026quot; claims.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9c3949#2",
+      "format": "flip",
+      "prompt": "What explains the earlier studies that found no gravitational anomaly?",
+      "back_html": "\u003cp\u003eSkipped calibration of hidden multi-star systems, bias in data-quality cuts, or simply too\nlittle data in the low-acceleration regime.\u003c/p\u003e"
+    }
+  ]
+}

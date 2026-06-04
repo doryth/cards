@@ -1,0 +1,97 @@
+{
+  "id": "card_7f4f3f",
+  "slug": "deepseek-own-chips",
+  "type": "news",
+  "title": "Cut Off From Nvidia, DeepSeek Plans to Build Its Own Chips",
+  "hook": "US export controls were meant to slow Chinese AI by choking off advanced chips. DeepSeek's answer: stop depending on Nvidia and Huawei, and start making its own silicon.",
+  "key_points": [
+    "Ars Technica reports Chinese AI lab DeepSeek plans to design its own AI chips.",
+    "The goal is to cut its reliance on Nvidia (US) and Huawei chips.",
+    "It's an early-stage plan, not a finished product — chipmaking takes years to mature.",
+    "Shows how export controls can push a targeted country toward self-sufficiency, not just slow it down."
+  ],
+  "content_html": "\u003cp\u003eUS export controls on advanced chips were designed to slow down Chinese AI labs by cutting off their access to Nvidia's most powerful hardware. Ars Technica reports that one of those labs, DeepSeek, is responding by planning to design its own AI chips — reducing its dependence on both Nvidia and Huawei.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt's early: chipmaking is one of the hardest, slowest industries to break into, requiring expertise and equipment (like the extreme ultraviolet lithography machines only a handful of companies in the world can build) that take years to master. DeepSeek's own-chip plan is a declaration of intent more than a finished product. But it's a clean illustration of a pattern policymakers keep running into: restricting access to a critical technology can slow a rival down in the short term while giving them a strong incentive to build independent capability in the long term. For anyone tracking who controls the hardware behind AI, it's a reminder that the current map — a few companies dominating the chips everyone depends on — is exactly the kind of concentration that motivated countries try hard to escape.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Samuel Axon"
+    ],
+    "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips",
+    "published_at": "2026-07-07",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "open-source"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_d3e1b8",
+      "slug": "china-open-model-gap",
+      "type": "news",
+      "title": "China's Free-to-Download Models Are Closing the Gap",
+      "hook": "A Chinese lab's openly downloadable model reportedly rivals the top US models at some security tasks — a sign the distance between open AI and the frontier is shrinking fast.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "card_6045bc",
+      "slug": "asml-chipmaking-machine",
+      "type": "news",
+      "title": "The $400 Million Machine Behind Every AI Chip",
+      "hook": "Every AI chip starts on a machine most people have never heard of: a $400-million, bus-sized contraption from a single Dutch company that the whole industry depends on.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7f4f3f#0",
+      "format": "quiz",
+      "prompt": "Why does DeepSeek want to design its own AI chips?",
+      "choices": [
+        {
+          "text": "To reduce its dependence on Nvidia and Huawei amid US export controls",
+          "correct": true
+        },
+        {
+          "text": "Because Nvidia asked DeepSeek to stop using its chips",
+          "correct": false
+        },
+        {
+          "text": "Because homemade chips are always cheaper to build",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eReporting frames this as a response to US export controls limiting DeepSeek's\naccess to advanced Nvidia hardware — building its own chips is a workaround.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7f4f3f#1",
+      "format": "flip",
+      "prompt": "What's a common effect of export controls meant to slow down a rival's tech?",
+      "back_html": "\u003cp\u003eThey can also push the targeted country to invest in building its own\nsupply chain — trading short-term slowdown for long-term independence.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "card_a3e847",
+  "slug": "meditation-brain-signal-to-noise",
+  "type": "paper",
+  "title": "Is a 'Clear Mind' Just a Better Signal-to-Noise Ratio?",
+  "hook": "A new theory proposes that meditation's many benefits boil down to one measurable thing: raising the ratio of useful neural signal to background noise in the brain.",
+  "key_points": [
+    "The theory proposes a single construct, functional signal-to-noise ratio (f-SNR), to unify diverse meditation findings.",
+    "'Signal' is neural activity that tracks what actually matters right now; 'noise' is irrelevant background fluctuation.",
+    "Meditation is proposed to raise f-SNR two ways: sharpening relevant signal and 'decluttering' noise.",
+    "Deeper practice may further help by quieting self-referential thought and shifting brain activity toward a more efficient operating regime.",
+    "The theory is designed to be testable with existing tools like neural-variability and decoding measures — and could even improve brain-computer interfaces."
+  ],
+  "content_html": "\u003cp\u003eMeditators often describe a \u0026quot;clear mind\u0026quot; — but what does that mean in terms of brain activity? A new theoretical paper proposes a concrete, measurable answer.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe paper argues that many separate findings in meditation science can be unified under one construct: functional signal-to-noise ratio, or f-SNR — the balance between neural activity that tracks goal-relevant information (\u0026quot;signal\u0026quot;) and everything else, including irrelevant background fluctuation (\u0026quot;noise\u0026quot;). Meditation is proposed to raise this ratio through two mechanisms: sharpening the signal and \u0026quot;decluttering\u0026quot; the noise. As practice deepens, the theory suggests further gains come from quieting self-referential thought and shifting overall brain activity toward a more efficient operating regime that maximizes information flow. This is a proposed framework, not a settled result — but the author designed it to be falsifiable with existing tools, such as measuring how much neural variability quiets down during a task, and suggests a practical payoff: brain signals that are easier to read could also make brain-computer interfaces work better.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Ruben Laukkonen"
+    ],
+    "url": "https://arxiv.org/abs/2606.29698",
+    "published_at": "2026-06-29",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_7d67f6",
+      "slug": "sleep-and-the-brain",
+      "type": "concept",
+      "title": "Sleep and the Brain",
+      "hook": "Sleep isn't the brain switching off — it's when the brain does some of its most important work, from clearing waste to locking in memories.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c65348",
+      "slug": "memory-and-learning",
+      "type": "concept",
+      "title": "Memory and Learning",
+      "hook": "Every memory you hold is a pattern of connections between neurons — and learning is, quite literally, your brain rewiring itself to make those connections stronger.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a3e847#0",
+      "format": "flip",
+      "prompt": "What single construct does this theory use to explain meditation's effects on the brain?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eFunctional signal-to-noise ratio (f-SNR)\u003c/strong\u003e — the balance between neural activity that\ntracks what's actually relevant ('signal') and irrelevant background fluctuation ('noise').\u003c/p\u003e"
+    },
+    {
+      "id": "card_a3e847#1",
+      "format": "quiz",
+      "prompt": "By what two proposed routes does meditation raise f-SNR?",
+      "choices": [
+        {
+          "text": "Sharpening relevant neural signal and 'decluttering' irrelevant noise",
+          "correct": true
+        },
+        {
+          "text": "Shutting down all neural activity in the brain at once",
+          "correct": false
+        },
+        {
+          "text": "Increasing the total volume of every brain signal equally",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe theory proposes meditation works through two channels — enhancing goal-relevant\nsignal while reducing residual, irrelevant neural noise — not by silencing the brain.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a3e847#2",
+      "format": "quiz",
+      "prompt": "How does the author suggest this theory could be tested, and what practical use does it suggest?",
+      "choices": [
+        {
+          "text": "With measures like neural-variability and decoding metrics — with a possible use in improving brain-computer interfaces",
+          "correct": true
+        },
+        {
+          "text": "It cannot be tested with any existing scientific method",
+          "correct": false
+        },
+        {
+          "text": "Only by asking meditators to self-report how 'clear' their mind feels",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe author designed f-SNR to be falsifiable using metrics like neural variability\nquenching and multivariate decoding, and notes cleaner brain signals could aid BCIs.\u003c/p\u003e"
+    }
+  ]
+}

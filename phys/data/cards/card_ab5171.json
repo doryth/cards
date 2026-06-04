@@ -1,0 +1,112 @@
+{
+  "id": "card_ab5171",
+  "slug": "the-higgs-boson",
+  "type": "concept",
+  "title": "The Higgs Boson",
+  "hook": "An invisible field fills all of space, and the harder a particle drags through it, the more mass it has. Finding the ripple that proved it took 50 years and the world's biggest machine.",
+  "key_points": [
+    "The Higgs field fills all of space — it's everywhere, not localized.",
+    "Particles gain mass by interacting with the field; more interaction means more mass.",
+    "The Higgs boson is a ripple, or excitation, in that field.",
+    "Predicted in the 1960s, it was detected at CERN's Large Hadron Collider in 2012."
+  ],
+  "content_html": "\u003cp\u003eThe Higgs boson answers a deceptively basic question: why do particles have mass at all? The idea is that space is permeated by an invisible Higgs field, present everywhere. Particles acquire mass by interacting with this field — the more strongly a particle couples to it, the harder it is to push around, which is exactly what mass means. A photon, which ignores the field entirely, has no mass and flies at light speed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe boson itself is a ripple in that field, the way a wave is a ripple on water. Theorists predicted it in the 1960s, but confirming it meant catching one of these fleeting ripples — a job that required CERN's Large Hadron Collider, the largest machine ever built. In 2012 the collisions finally revealed it, completing the Standard Model's roster and verifying half a century of theory. Wikipedia recounts the prediction, the search, and the 2012 discovery.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Higgs_boson",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_46f944",
+      "slug": "antimatter",
+      "type": "concept",
+      "title": "Antimatter",
+      "hook": "Every particle has a mirror twin with opposite charge, and when the two meet they vanish in a flash of pure energy — yet the universe is almost entirely matter, and nobody fully knows why.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_ab5171#0",
+      "format": "flip",
+      "prompt": "How does a particle get its mass, according to the Higgs mechanism?",
+      "back_html": "\u003cp\u003eBy interacting with the \u003cstrong\u003eHiggs field\u003c/strong\u003e that fills all of space. The more\nstrongly a particle interacts with it, the more \u003cstrong\u003emass\u003c/strong\u003e it has.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ab5171#1",
+      "format": "quiz",
+      "prompt": "What is the Higgs boson?",
+      "choices": [
+        {
+          "text": "A ripple, or excitation, in the Higgs field",
+          "correct": true
+        },
+        {
+          "text": "The particle that carries gravity",
+          "correct": false
+        },
+        {
+          "text": "A type of quark inside the proton",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Higgs boson is a disturbance in the underlying Higgs field — detecting\nit confirmed the field exists.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ab5171#2",
+      "format": "quiz",
+      "prompt": "Where and when was the Higgs boson first detected?",
+      "choices": [
+        {
+          "text": "At CERN's Large Hadron Collider in 2012",
+          "correct": true
+        },
+        {
+          "text": "In a telescope observation in 1964",
+          "correct": false
+        },
+        {
+          "text": "In a tabletop experiment in 1995",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePredicted in the 1960s, the Higgs boson was finally observed at the LHC in\n2012, decades after the theory.\u003c/p\u003e"
+    }
+  ]
+}

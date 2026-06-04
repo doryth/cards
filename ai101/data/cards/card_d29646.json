@@ -1,0 +1,99 @@
+{
+  "id": "card_d29646",
+  "slug": "hype-or-real",
+  "type": "concept",
+  "title": "Hype or Real?",
+  "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+  "key_points": [
+    "Both boosters and doomers have incentives to exaggerate — follow the motive.",
+    "Watch for vague demos, cherry-picked examples, and 'coming soon' that never arrives.",
+    "Ask: what can it do *today*, reliably, for real people — not in a staged demo?",
+    "Real and overhyped at once: genuinely useful, routinely oversold."
+  ],
+  "content_html": "\u003cp\u003eLiving through the AI moment means being shouted at from two directions. One camp insists every release \u0026quot;changes everything\u0026quot; and that your job, your industry, and life itself will be unrecognizable by next quarter. The other insists it's all smoke and mirrors — a bubble of overpriced autocomplete about to pop. Both make for great headlines, and both are usually overstated. Developing a little skepticism in \u003cem\u003eeach\u003c/em\u003e direction is one of the most useful AI-literacy skills there is, because the reality is almost always messier and more interesting than either slogan.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eStart by following the incentives. Companies and the people invested in them have every reason to overhype — it sells products, attracts users, and raises money — so a glossy launch is marketing, not evidence. But doom has its own market: dramatic warnings draw clicks, attention, and influence, and \u0026quot;this could end the world\u0026quot; is a powerful way to be taken seriously. Knowing who benefits from a claim helps you weight it. Then watch for the classic tells of hype: slick \u003cstrong\u003edemos\u003c/strong\u003e that may be staged or cherry-picked, impressive \u003cstrong\u003eone-off examples\u003c/strong\u003e that don't hold up in everyday use, and the perennial \u0026quot;\u003cstrong\u003ecoming soon\u003c/strong\u003e\u0026quot; that quietly never ships (remember all those \u0026quot;fully self-driving next year\u0026quot; promises). The single best filter is to ask: \u003cem\u003ewhat can this actually do today, reliably, for ordinary people\u003c/em\u003e — not in a controlled demo, but in real hands? Finally, hold a both/and view, because it's the honest one: today's AI is \u003cstrong\u003egenuinely useful and routinely oversold at the same time\u003c/strong\u003e. It's already changing real work and real lives, \u003cem\u003eand\u003c/em\u003e much of what's promised is exaggerated, premature, or vaporware. Treating \u0026quot;is this hype or real?\u0026quot; as a question to investigate — rather than a side to pick — is exactly how you stay grounded while everyone else is busy being amazed or outraged.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-hype"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1be62b",
+      "slug": "agi-and-superintelligence",
+      "type": "concept",
+      "title": "AGI \u0026 Superintelligence",
+      "hook": "AGI means AI as broadly capable as a human; superintelligence means far beyond. Both are goals and hypotheses — not products you can buy — and experts deeply disagree on when, or if.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9868db",
+      "slug": "openai-losing-billions",
+      "type": "news",
+      "title": "The Leading AI Company Is Losing Billions a Year",
+      "hook": "Leaked, audited financials reportedly show OpenAI bleeding billions of dollars a year. Its revenue is growing fast — but the cost of building AI is growing faster.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d29646#0",
+      "format": "quiz",
+      "prompt": "What's the best question to cut through AI hype?",
+      "choices": [
+        {
+          "text": "What can it actually do today, reliably, for real people?",
+          "correct": true
+        },
+        {
+          "text": "How impressive is the launch demo?",
+          "correct": false
+        },
+        {
+          "text": "How much money did the company raise?",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDemos and funding aren't capability. Ask what works \u003cem\u003ereliably right now\u003c/em\u003e for\nordinary users — that filters marketing from reality.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d29646#1",
+      "format": "flip",
+      "prompt": "Why do both AI 'boosters' and 'doomers' tend to exaggerate?",
+      "back_html": "\u003cp\u003eIncentives: hype sells products and raises money; dramatic doom draws\nattention and influence. Follow the motive behind a big claim.\u003c/p\u003e"
+    }
+  ]
+}

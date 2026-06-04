@@ -1,0 +1,104 @@
+{
+  "id": "card_6826de",
+  "slug": "huang-nvidia-achieved-agi",
+  "type": "news",
+  "title": "Nvidia's CEO Says It Achieved AGI — and That It Doesn't Matter",
+  "hook": "Jensen Huang told investors Nvidia had 'achieved AGI,' then called the milestone 'senseless.' The whiplash is the lesson: nobody agrees what AGI even means.",
+  "key_points": [
+    "On Nvidia's August 2026 earnings call, Huang said the company had achieved AGI.",
+    "He dismissed the milestone as 'senseless' almost in the same breath.",
+    "There is no agreed definition or test for AGI, so anyone can claim it.",
+    "Treat 'we reached AGI' as a marketing line, not a measured result."
+  ],
+  "content_html": "\u003cp\u003eOn Nvidia's earnings call in late August 2026, CEO Jensen Huang casually told investors the company had \u0026quot;achieved AGI\u0026quot; — artificial general intelligence, the goal the industry has chased for years. Then, almost in the same breath, he dismissed the milestone as \u0026quot;senseless.\u0026quot; As The Verge's Robert Hart notes, he's right to: there is no consensus on what AGI is, so there's no way to check the claim.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat's the useful takeaway for anyone reading AI news. \u0026quot;AGI\u0026quot; sounds like a finish line, but it has no agreed definition and no accepted test — which means a company can announce it, define it however it likes, and nobody can straightforwardly say otherwise. When a claim can't be measured, it isn't really a result; it's positioning. The practical habit is to skip the label and ask what the system can reliably do today, for real people, on tasks you care about. See The Verge's write-up for the full context.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Robert Hart"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+    "published_at": "2026-08-27"
+  },
+  "topic_ids": [
+    "agi",
+    "ai-hype",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_1be62b",
+      "slug": "agi-and-superintelligence",
+      "type": "concept",
+      "title": "AGI \u0026 Superintelligence",
+      "hook": "AGI means AI as broadly capable as a human; superintelligence means far beyond. Both are goals and hypotheses — not products you can buy — and experts deeply disagree on when, or if.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_1be62b",
+      "slug": "agi-and-superintelligence",
+      "type": "concept",
+      "title": "AGI \u0026 Superintelligence",
+      "hook": "AGI means AI as broadly capable as a human; superintelligence means far beyond. Both are goals and hypotheses — not products you can buy — and experts deeply disagree on when, or if.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_6826de#0",
+      "format": "quiz",
+      "prompt": "Why doesn't a company declaring it 'achieved AGI' tell you much?",
+      "choices": [
+        {
+          "text": "There's no agreed definition or test for AGI, so the claim isn't measurable",
+          "correct": true
+        },
+        {
+          "text": "AGI can only be declared by a government regulator",
+          "correct": false
+        },
+        {
+          "text": "AGI claims are always made after independent audits",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAGI has no consensus definition or benchmark. Without a shared yardstick, the\nclaim says more about the speaker's framing than about the technology.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6826de#1",
+      "format": "flip",
+      "prompt": "What did Jensen Huang say about AGI on Nvidia's earnings call, and how did he qualify it?",
+      "back_html": "\u003cp\u003eHe said Nvidia had \u0026quot;achieved AGI\u0026quot; — then immediately called the milestone\n\u0026quot;senseless,\u0026quot; conceding the label carries little real meaning.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6826de#2",
+      "format": "flip",
+      "prompt": "What habit does this story reward when you read AI announcements?",
+      "back_html": "\u003cp\u003eAsk what the claim actually measures. If a term has no shared definition,\ntreat the announcement as positioning rather than evidence of a capability.\u003c/p\u003e"
+    }
+  ]
+}

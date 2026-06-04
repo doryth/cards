@@ -1,0 +1,90 @@
+{
+  "id": "card_7a7eee",
+  "slug": "salt-clouds-pink-planet",
+  "type": "news",
+  "title": "James Webb Finds Salt Clouds on a Mysterious Pink World",
+  "hook": "GJ 504 b has puzzled astronomers for over a decade. James Webb finally read its atmosphere — and found the first direct evidence of salt clouds ever seen on a planet-like object.",
+  "key_points": [
+    "GJ 504 b orbits a Sun-like star 57 light-years away and is about 25 times Jupiter's mass.",
+    "That mass puts it right on the fuzzy border between a giant planet and a brown dwarf.",
+    "JWST detected water vapor, methane, carbon dioxide, ammonia — and salt clouds in its atmosphere.",
+    "It's the first direct confirmation of salt clouds on such an object, though predicted 15+ years ago.",
+    "Models only matched Webb's data once salt clouds were added, showing the clouds shape the light we see.",
+    "Webb gathered in two hours what ground telescopes couldn't manage in full nights of observing."
+  ],
+  "content_html": "\u003cp\u003eFor more than ten years, GJ 504 b — nicknamed the \u0026quot;Pink Planet\u0026quot; for its unusual color — has been a puzzle. It orbits a Sun-like star 57 light-years away and weighs in at about 25 times Jupiter's mass, putting it right on the blurry line between \u0026quot;giant planet\u0026quot; and \u0026quot;failed star\u0026quot; (brown dwarf). Ground-based telescopes could tell something odd was going on in its atmosphere, but not what.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eScienceDaily reports that the James Webb Space Telescope has now cracked the case, detecting water vapor, methane, carbon dioxide, and ammonia — plus something never directly confirmed on such an object before: salt clouds. Theorists predicted salt clouds could form in cold planetary atmospheres more than fifteen years ago, but this is the first direct evidence. Researchers found their atmospheric models only lined up with Webb's spectrum once they added salt clouds into the mix, meaning those clouds are quietly obscuring deeper layers and reshaping the light astronomers measure. The observation itself was a showcase of Webb's power: it captured in about two hours what ground-based telescopes had failed to pin down across entire nights of observing.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260623014009.htm",
+    "published_at": "2026-06-28",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-28",
+  "related": [
+    {
+      "id": "card_9eaa6c",
+      "slug": "wasp-121b-two-twilights",
+      "type": "news",
+      "title": "An Alien World With Two Different Twilights",
+      "hook": "On a scorching giant planet that never turns away from its star, the James Webb telescope found that dawn and dusk look nothing alike — winds smear the heat from one side to the other.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-11"
+    },
+    {
+      "id": "card_7ebb9d",
+      "slug": "super-puff-planets",
+      "type": "news",
+      "title": "Two Planets Lighter Than Cotton Candy",
+      "hook": "TOI-791 b and c are roughly Jupiter-sized but so bloated and gassy they'd float on water — and their unusually neat orbital rhythm is a rare clue to how puffed-up planets like this ever form.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7a7eee#0",
+      "format": "flip",
+      "prompt": "Why has GJ 504 b been called the 'Pink Planet'?",
+      "back_html": "\u003cp\u003eIt's a planetary-mass companion about 25 times Jupiter's mass, sitting right on the\nborder between a giant planet and a brown dwarf — its atmosphere had puzzled\nastronomers for over a decade before JWST could read it in detail.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7a7eee#1",
+      "format": "quiz",
+      "prompt": "What was the standout, first-of-its-kind discovery in GJ 504 b's atmosphere?",
+      "choices": [
+        {
+          "text": "Direct evidence of salt clouds",
+          "correct": true
+        },
+        {
+          "text": "Solid rings made of ice",
+          "correct": false
+        },
+        {
+          "text": "An oxygen-rich atmosphere like Earth's",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAlongside water vapor, methane, carbon dioxide, and ammonia, JWST found the first\ndirect confirmation of salt clouds in such an object — predicted theoretically more\nthan 15 years ago but never directly seen until now.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7a7eee#2",
+      "format": "flip",
+      "prompt": "How did researchers know salt clouds, not just gas, were shaping GJ 504 b's spectrum?",
+      "back_html": "\u003cp\u003eTheir atmospheric models only matched Webb's observed spectrum once salt clouds were\nadded in — showing the clouds are obscuring deeper layers and significantly altering\nthe light that reaches the telescope.\u003c/p\u003e"
+    }
+  ]
+}

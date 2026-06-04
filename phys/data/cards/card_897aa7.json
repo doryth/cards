@@ -1,0 +1,117 @@
+{
+  "id": "card_897aa7",
+  "slug": "desi-dr2-unified-tracer-bao",
+  "type": "paper",
+  "title": "Merging DESI's Galaxy Catalogs Into One Cosmic Ruler",
+  "hook": "DESI surveys different galaxy types that overlap in space. Weighting them into a single catalog avoids double-counting the same volume — and the evolving-dark-energy hint survives.",
+  "key_points": [
+    "Baryon acoustic oscillations are a fixed-length imprint in galaxy clustering used as a standard ruler for cosmic distances.",
+    "DESI observes several galaxy and quasar samples that overlap in redshift, so analyzing them separately double-counts the same cosmic volume.",
+    "Weighting each galaxy by its linear bias merges the overlapping samples into one unified catalog, capturing all auto- and cross-correlation information.",
+    "The unified distances agree closely with DESI's baseline DR2 results, and show no tracer-dependent systematics between redshift 0.8 and 1.6.",
+    "Finer redshift binning finds no missed feature in the expansion history, and reproduces DESI's preference for a dark energy equation of state that evolves with time."
+  ],
+  "content_html": "\u003cp\u003eThe Dark Energy Spectroscopic Instrument maps millions of galaxies to find baryon acoustic oscillations: a preferred separation of about 500 million light-years, frozen into the galaxy distribution by sound waves in the hot early universe. Since that length is known from first principles, measuring how large it looks at different distances turns it into a ruler for the expansion history — and therefore a probe of dark energy.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe complication is that DESI does not survey one kind of object. It targets luminous red galaxies, emission-line galaxies and quasars, and these samples overlap: the same patch of space at the same redshift can be covered by more than one. Treating each separately double-counts volume and throws away the cross-correlations between them.\u003c/p\u003e\n\u003cp\u003eSanders, Seo and the DESI collaboration extend an earlier attempt at optimal combination by weighting every galaxy by its linear bias — how strongly it traces the underlying matter — and merging everything into one unified catalog, now including quasars out to redshift 1.6 with a redshift-dependent bias treatment. The resulting distance measurements sit comfortably on top of DESI's baseline DR2 analysis, which is the main point: it is a consistency check that the headline results are not an artifact of how tracers were stitched together. They also find no tracer-dependent systematics in the 0.8–1.6 redshift range, and, rebinning more finely, no hidden feature in the expansion history. DESI's much-discussed preference for a dark energy equation of state that evolves with time comes through unchanged.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "N. Sanders",
+      "H. Seo",
+      "M. Rashkovetskyi",
+      "U. Andrade",
+      "D. Valcin",
+      "E. Paillas"
+    ],
+    "url": "https://arxiv.org/abs/2608.27830",
+    "published_at": "2026-08-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_1d07ca",
+      "slug": "is-dark-energy-evolving",
+      "type": "paper",
+      "title": "Is Dark Energy Changing Over Time?",
+      "hook": "For decades dark energy looked like a constant. New galaxy-survey data hints it may evolve — and that would shift even our measured value of the cosmic expansion rate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7d8f16",
+      "slug": "the-cosmological-constant-comeback",
+      "type": "news",
+      "title": "Einstein's 'Biggest Blunder' Was Right",
+      "hook": "Einstein added a constant to his equations to hold the universe still, then threw it out in embarrassment. It came back as the centerpiece of modern cosmology.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-18"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_897aa7#0",
+      "format": "flip",
+      "prompt": "What are baryon acoustic oscillations used for in cosmology?",
+      "back_html": "\u003cp\u003eThey are a fixed-length imprint left in the distribution of galaxies by sound waves in the\nearly universe. Because the physical size is known, measuring its apparent size at various\nredshifts turns it into a standard ruler for cosmic distances.\u003c/p\u003e"
+    },
+    {
+      "id": "card_897aa7#1",
+      "format": "quiz",
+      "prompt": "Why combine DESI's overlapping galaxy samples into a single weighted catalog?",
+      "choices": [
+        {
+          "text": "Analyzing them separately double-counts the same cosmic volume and discards cross-correlation information",
+          "correct": true
+        },
+        {
+          "text": "Because each sample individually has too few galaxies to detect BAO at all",
+          "correct": false
+        },
+        {
+          "text": "Because different galaxy types measure different values of the speed of light",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDifferent tracers can live in the same patch of sky and redshift range. Weighting each\ngalaxy by its linear bias folds them into one catalog, which naturally avoids double\ncounting and keeps all the auto- and cross-information.\u003c/p\u003e"
+    },
+    {
+      "id": "card_897aa7#2",
+      "format": "flip",
+      "prompt": "What did the finer redshift binning of the unified tracer show?",
+      "back_html": "\u003cp\u003eNo missed feature in the expansion history between redshift 0.8 and 1.6, and no evidence\nof tracer-dependent systematics — while still reproducing DESI's preference for a dark\nenergy equation of state that changes over time.\u003c/p\u003e"
+    }
+  ]
+}

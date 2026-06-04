@@ -1,0 +1,98 @@
+{
+  "id": "card_22ec5f",
+  "slug": "glp1-pill-aleniglipron",
+  "type": "news",
+  "title": "Another Daily GLP-1 Pill Posts Double-Digit Weight Loss",
+  "hook": "Aleniglipron, an experimental once-daily pill, helped people lose up to 12.1% of their body weight in 36 weeks — no injections, no fridge, no meal timing.",
+  "key_points": [
+    "In a trial, aleniglipron produced up to 12.1% body-weight loss over 36 weeks.",
+    "It's a small molecule taken once daily, with or without food.",
+    "That's a contrast with injectables like Wegovy and Ozempic, which are peptides.",
+    "Small molecules are easier to manufacture at scale, which could ease supply and cost.",
+    "It's still experimental — not approved, and long-term safety data are limited."
+  ],
+  "content_html": "\u003cp\u003eThe race to put GLP-1 weight loss in a pill has another entrant. In a trial reported by ScienceDaily, the experimental drug aleniglipron helped people with obesity or overweight lose as much as 12.1% of their body weight over 36 weeks.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat sets it apart is chemistry rather than the result. Wegovy and Ozempic are peptides — fragile enough that they're injected, and finicky to make. Aleniglipron is a small molecule, which means it survives the gut: one pill a day, with or without food, no refrigeration. Small molecules are also far easier to manufacture at scale, so a successful oral GLP-1 could relieve the supply crunches and high prices that have shaped this drug class from the start.\u003c/p\u003e\n\u003cp\u003eThe usual caution applies. This is an experimental drug reported from a trial, not an approved treatment, and the questions that matter most for a medicine people may take for years — long-term safety, who keeps the weight off, side effects at scale — take longer to answer than 36 weeks.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260810015717.htm",
+    "published_at": "2026-08-10",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "healthy-weight",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-10",
+  "related": [
+    {
+      "id": "card_6bf44e",
+      "slug": "new-weight-loss-pill-orforglipron",
+      "type": "news",
+      "title": "A New Weight-Loss Pill Beats Oral Ozempic in a Major Trial",
+      "hook": "Orforglipron, a once-daily weight-loss pill, outperformed oral semaglutide on weight loss and blood sugar in a major trial — and skips the refrigeration and meal-timing rules.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-08"
+    },
+    {
+      "id": "card_5940fa",
+      "slug": "why-glp1-doesnt-work-for-everyone",
+      "type": "news",
+      "title": "Why GLP-1 Drugs Don't Work for Everyone",
+      "hook": "Scientists found genetic variants — carried by roughly 1 in 10 people — that seem to cause a kind of 'GLP-1 resistance,' making drugs like Ozempic less effective at controlling blood sugar.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_47a36e",
+      "slug": "sustainable-weight-loss",
+      "type": "concept",
+      "title": "Weight Loss That Lasts",
+      "hook": "Crash diets win the first month and lose the year. Slow, steady loss built on habits you can actually keep is what stays off.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_22ec5f#0",
+      "format": "quiz",
+      "prompt": "What makes aleniglipron different from Wegovy and Ozempic?",
+      "choices": [
+        {
+          "text": "It's a small molecule taken as a daily pill, not an injected peptide",
+          "correct": true
+        },
+        {
+          "text": "It works without affecting appetite at all",
+          "correct": false
+        },
+        {
+          "text": "It must be refrigerated and injected weekly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAleniglipron is a small molecule that can be swallowed once a day with or without\nfood, whereas Wegovy and Ozempic are injectable peptide drugs.\u003c/p\u003e"
+    },
+    {
+      "id": "card_22ec5f#1",
+      "format": "flip",
+      "prompt": "Why does 'small molecule' matter beyond convenience?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eManufacturing.\u003c/strong\u003e Small molecules are easier to produce at scale than peptides,\nwhich could ease the supply bottlenecks and costs that have dogged GLP-1 drugs.\u003c/p\u003e"
+    },
+    {
+      "id": "card_22ec5f#2",
+      "format": "flip",
+      "prompt": "How much weight did trial participants lose, and over how long?",
+      "back_html": "\u003cp\u003eUp to \u003cstrong\u003e12.1% of body weight in 36 weeks\u003c/strong\u003e, in people with obesity or overweight.\nThe drug is still experimental, not approved.\u003c/p\u003e"
+    }
+  ]
+}

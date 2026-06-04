@@ -1,0 +1,98 @@
+{
+  "id": "card_9d4f35",
+  "slug": "ford-automation-rehire",
+  "type": "news",
+  "title": "Ford Had to Rehire the Engineers Its Automation Replaced",
+  "hook": "Ford leaned hard on automated systems in design and production — then found they weren't as reliable as assumed, and had to bring veteran engineers back to fix the mistakes.",
+  "key_points": [
+    "Ford says automated systems in its design and production weren't as robust as it had assumed.",
+    "It rehired former engineers to catch and fix the errors those systems were making.",
+    "The admission came as Ford topped JD Power's initial-quality ranking for mainstream brands.",
+    "A concrete case of over-automation: the machines did the work, but humans were still needed.",
+    "Automating a task doesn't remove the need for expert judgment to check the output."
+  ],
+  "content_html": "\u003cp\u003eIt's easy to assume that once a task is automated, the people who used to do it aren't needed anymore. Ford's recent experience is a useful counterexample. The Verge reports that, as Ford celebrated topping JD Power's initial-quality ranking among mainstream automakers, the company also opened up about a hard lesson: the automated systems it had leaned on in design and production weren't as robust as it had assumed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe fix wasn't more automation — it was people. According to the report, Ford had to hire back former engineers to catch and correct the mistakes its automated systems were making. It's a vivid, real-world version of a risk that runs through any use of AI and automation: the tools can do a lot of the work, but they don't remove the need for human expertise to check it. The danger isn't that automation never works — it's assuming it works \u003cem\u003ewell enough to stop watching\u003c/em\u003e. Whether it's a factory line or a chatbot drafting your email, the same principle holds: keep a knowledgeable human in the loop, especially when the stakes are real.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Andrew J. Hawkins"
+    ],
+    "url": "https://theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+    "published_at": "2026-06-25",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "over-reliance",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-29",
+  "date": "2026-06-25",
+  "related": [
+    {
+      "id": "card_eb9c92",
+      "slug": "over-relying-on-ai",
+      "type": "concept",
+      "title": "Over-Relying on AI",
+      "hook": "The subtle risk isn't that AI fails — it's that it usually works, so you stop checking. Trusting a confident machine over your own judgment is its own kind of mistake.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bb7ebb",
+      "slug": "ai-help-not-replace",
+      "type": "news",
+      "title": "'AI Will Help You, Not Replace You' — Maybe",
+      "hook": "Microsoft's AI chief walked back his own claim that AI would automate white-collar jobs like lawyers and accountants, clarifying he meant AI will help those workers — not do their work for them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "card_b4f14c",
+      "slug": "ai-and-jobs",
+      "type": "concept",
+      "title": "AI \u0026 Jobs",
+      "hook": "AI is less likely to take your whole job than to take certain tasks within it. The pattern through history: tools reshape work faster than they erase it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9d4f35#0",
+      "format": "quiz",
+      "prompt": "What did Ford discover about the automated systems it had relied on?",
+      "choices": [
+        {
+          "text": "They weren't as robust as assumed, so it rehired engineers to fix the mistakes",
+          "correct": true
+        },
+        {
+          "text": "They had quietly become smarter than any human engineer",
+          "correct": false
+        },
+        {
+          "text": "They worked perfectly and let Ford cut its whole engineering team",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFord said its automated design and production systems were less reliable than\nexpected and brought former engineers back to catch and correct the errors.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9d4f35#1",
+      "format": "flip",
+      "prompt": "What general lesson does Ford's reversal hold for using AI and automation?",
+      "back_html": "\u003cp\u003eAutomating a job doesn't erase the need for human expertise. Skilled judgment is\nstill needed to check the output and catch the mistakes the system makes.\u003c/p\u003e"
+    }
+  ]
+}

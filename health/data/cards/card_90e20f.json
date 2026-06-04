@@ -1,0 +1,98 @@
+{
+  "id": "card_90e20f",
+  "slug": "butyrate-trains-the-gut",
+  "type": "news",
+  "title": "Fiber's Byproduct Seems to Leave the Gut a Memory",
+  "hook": "Butyrate — what gut bacteria make from dietary fiber — doesn't just calm inflammation while it's present. It appears to reprogram the gut lining to keep calming it afterwards.",
+  "key_points": [
+    "Gut bacteria ferment dietary fiber into butyrate, a short-chain fatty acid.",
+    "Northwestern researchers found butyrate reprograms intestinal lining cells, not just their moment-to-moment behavior.",
+    "The reprogrammed cells kept encouraging anti-inflammatory immune responses after the butyrate was gone.",
+    "In mice this raised production of IL-10, an immune-calming signal, and reduced colitis-like disease severity.",
+    "It reframes fiber as training the gut's immune posture, not merely feeding bacteria."
+  ],
+  "content_html": "\u003cp\u003eButyrate is what your gut bacteria make when they ferment fiber, and it has long been filed under \u0026quot;anti-inflammatory.\u0026quot; Northwestern Medicine researchers now report something more interesting: the effect appears to outlast the molecule. Butyrate seems to reprogram the cells lining the intestine so they go on encouraging anti-inflammatory immune responses even after the compound itself has cleared.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn mice, that reprogramming showed up as increased production of IL-10 — a signal that tells the immune system to stand down — and as milder colitis-like disease. The framing the authors reach for is a kind of cellular memory: an exposure that changes the lining's default posture rather than just its behavior in the moment.\u003c/p\u003e\n\u003cp\u003eIf it holds up in people, it slightly rewrites why fiber matters. The familiar story is that fiber feeds good bacteria. This one says the bacteria's output trains your gut wall, and the training persists — which makes a steady fiber habit look less like a daily dose and more like maintenance on the tissue itself. As always with mouse immunology, the caveat is real; the mechanism is the takeaway, not a new supplement.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260820002439.htm",
+    "published_at": "2026-08-20",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "nutrition",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_618737",
+      "slug": "gut-microbiome-basics",
+      "type": "news",
+      "title": "Gut Health: What the Evidence Actually Says",
+      "hook": "Wellness marketing says your gut is 'broken' and a supplement will fix it. Here's what the evidence really supports — and what's just hype.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_d3d0ed",
+      "slug": "low-fiber-gut-microbes-eat-mucus",
+      "type": "news",
+      "title": "Run Low on Fiber and Your Gut Bugs Start Eating You",
+      "hook": "Gut microbes have to eat something. When fiber runs short, researchers found, they turn on the protein-rich mucus layer that lines and protects your gut.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-15"
+    },
+    {
+      "id": "card_0cb019",
+      "slug": "ultra-processed-foods",
+      "type": "news",
+      "title": "Ultra-Processed Foods: The New Tobacco?",
+      "hook": "Researchers argue ultra-processed foods echo the tobacco industry's playbook in how they're engineered and marketed — concern crosses party lines, but policy has lagged behind.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-03"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_90e20f#0",
+      "format": "flip",
+      "prompt": "Where does butyrate come from?",
+      "back_html": "\u003cp\u003eGut bacteria produce it when they \u003cstrong\u003ebreak down dietary fiber\u003c/strong\u003e. It's a short-chain\nfatty acid — one of the main currencies between your diet, your microbes, and your\nintestinal lining.\u003c/p\u003e"
+    },
+    {
+      "id": "card_90e20f#1",
+      "format": "quiz",
+      "prompt": "What was the novel part of this butyrate finding?",
+      "choices": [
+        {
+          "text": "Its anti-inflammatory effect persisted after the butyrate itself was gone",
+          "correct": true
+        },
+        {
+          "text": "It killed harmful gut bacteria directly",
+          "correct": false
+        },
+        {
+          "text": "It was absorbed into the bloodstream faster than expected",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eButyrate was already known to calm inflammation. The new part is durability — it\nreprogrammed lining cells so they kept favoring anti-inflammatory responses,\na lasting \u0026quot;memory\u0026quot; rather than a transient effect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_90e20f#2",
+      "format": "flip",
+      "prompt": "Which immune signal rose in the mice, and what did it do?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eIL-10\u003c/strong\u003e, an immune-calming molecule. Higher IL-10 went along with less severe\ncolitis-like disease in the treated mice.\u003c/p\u003e"
+    }
+  ]
+}

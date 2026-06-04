@@ -1,0 +1,105 @@
+{
+  "id": "card_083e80",
+  "slug": "the-race-to-build-a-qubit",
+  "type": "news",
+  "title": "Nobody Knows Which Qubit Wins",
+  "hook": "Superconducting circuits, trapped ions, neutral atoms, spins in silicon — no one yet knows which will power real quantum computers, and the uncertainty is producing spectacular machinery.",
+  "key_points": [
+    "There is still no consensus on which physical platform will carry practical quantum computing.",
+    "Competing approaches each trade off qubit quality, speed, and how easily they scale.",
+    "The race itself has produced some of the most intricate experimental hardware in science.",
+    "Every platform fights the same core enemy: qubits are fragile and lose their quantum state to noise."
+  ],
+  "content_html": "\u003cp\u003eAsk what a quantum computer is made of and you get a shrug — a productive one. Superconducting circuits chilled near absolute zero, individual atoms held in laser tweezers, ions suspended in electric fields, single electron spins buried in silicon: each is a serious contender, and none has won.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eQuanta's Ben Brubaker surveys the field and its shared adversary: a qubit is a quantum state, and quantum states leak. Any nudge from the outside world — a stray photon, a vibration, a fluctuating magnetic field — smears the information you were trying to store. Every platform is an answer to the same question of how to isolate something well enough to protect it while still being able to control and read it. That tension is why quantum hardware has become, as the piece puts it, some of the most intricate machinery in science: the isolation and the control pull in opposite directions, and each technology strikes the bargain differently.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Ben Brubaker"
+    ],
+    "url": "https://quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819",
+    "published_at": "2026-08-19",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80786e",
+      "slug": "neutral-atom-quantum-roadmap",
+      "type": "paper",
+      "title": "The Neutral-Atom Roadmap to a Useful Quantum Computer",
+      "hook": "Fifty-plus researchers from the atom-array world lay out what it would actually take to get practical quantum advantage — and how you'd prove you had it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_327d2c",
+      "slug": "silicon-spin-qubit-five-nines",
+      "type": "paper",
+      "title": "A Silicon Qubit Gate That Misfires Once in a Million Tries",
+      "hook": "Spin qubits in silicon just crossed 99.999% single-gate fidelity — and getting there meant discovering that some of the field's benchmark numbers were partly artefacts.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_293b43",
+      "slug": "kiloqubit-neutral-atom-register",
+      "type": "paper",
+      "title": "A Defect-Free Array of 1024 Atoms, Held by Light",
+      "hook": "Atoms are trapped one per laser spot, then shuffled by moving tweezers until every site in a 32x32 grid is filled — pushing neutral-atom qubits past the kiloqubit mark.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-12"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_083e80#0",
+      "format": "flip",
+      "prompt": "What is the central unresolved question in quantum computing hardware?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eWhich physical platform will actually win.\u003c/strong\u003e No one yet knows which qubit\ntechnology will power practical quantum computers, so several very different\napproaches are being pushed in parallel.\u003c/p\u003e"
+    },
+    {
+      "id": "card_083e80#1",
+      "format": "quiz",
+      "prompt": "What single problem do all competing qubit technologies have to solve?",
+      "choices": [
+        {
+          "text": "Qubits are fragile and lose their quantum state to noise",
+          "correct": true
+        },
+        {
+          "text": "Qubits can only ever be built from superconducting metal",
+          "correct": false
+        },
+        {
+          "text": "Qubits cannot be measured without destroying the computer",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFragility is the shared enemy: whatever the platform, a qubit's delicate quantum state\ndecays as it interacts with its environment, which is why the engineering is so extreme.\u003c/p\u003e"
+    }
+  ]
+}

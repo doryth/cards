@@ -1,0 +1,109 @@
+{
+  "id": "card_209428",
+  "slug": "pregnancy-and-birth",
+  "type": "concept",
+  "title": "Pregnancy and Birth",
+  "hook": "For about nine months, a single fertilized cell grows into a baby inside the womb — nourished the whole time by a remarkable temporary organ, the placenta.",
+  "key_points": [
+    "Pregnancy (gestation) is the roughly nine-month period during which a baby develops in the uterus.",
+    "The placenta is a temporary organ that passes oxygen and nutrients from parent to fetus and removes wastes.",
+    "The umbilical cord connects the fetus to the placenta.",
+    "Birth (labor) is the process by which muscular contractions push the baby out of the uterus."
+  ],
+  "content_html": "\u003cp\u003eAfter fertilization, the new life doesn't simply appear — it grows, sheltered inside the parent's uterus for roughly nine months. This span is called pregnancy, or gestation, and over it a single cell becomes a fully formed baby. Keeping that developing fetus alive requires a dedicated supply line.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat supply line is the placenta, a remarkable organ grown specifically for the pregnancy. It draws oxygen and nutrients from the parent's blood and passes them to the fetus, while carrying the fetus's wastes back out — all without the two bloodstreams directly mixing. The fetus is linked to the placenta by the umbilical cord. When development is complete, birth begins: the muscular wall of the uterus contracts in waves during labor, gradually pushing the baby out to take its first breath. NIH MedlinePlus's pregnancy resource describes how the body supports a growing fetus through gestation and into birth.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/pregnancy.html",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "reproduction"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_f16037",
+      "slug": "human-reproduction",
+      "type": "concept",
+      "title": "Human Reproduction",
+      "hook": "New human life begins when two specialized cells — one egg, one sperm — combine, merging half a set of genetic instructions from each parent into a brand-new whole.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0de52e",
+      "slug": "from-embryo-to-baby",
+      "type": "concept",
+      "title": "From Embryo to Baby",
+      "hook": "A single fertilized cell becomes trillions of specialized ones in nine months — dividing, folding, and organizing itself into a heartbeat, a brain, and a body ready to be born.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d7e285",
+      "slug": "puberty",
+      "type": "concept",
+      "title": "Puberty",
+      "hook": "Somewhere around the start of the teenage years, a flood of hormones rewires the body, turning a child into someone capable of one day reproducing.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_209428#0",
+      "format": "flip",
+      "prompt": "What is the placenta, and what does it do?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003etemporary organ\u003c/strong\u003e that develops during pregnancy. It passes oxygen and nutrients\nfrom parent to fetus and carries away the fetus's wastes, connected by the umbilical cord.\u003c/p\u003e"
+    },
+    {
+      "id": "card_209428#1",
+      "format": "quiz",
+      "prompt": "Roughly how long does human pregnancy (gestation) last?",
+      "choices": [
+        {
+          "text": "About nine months",
+          "correct": true
+        },
+        {
+          "text": "About nine weeks",
+          "correct": false
+        },
+        {
+          "text": "About two years",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHuman gestation runs about nine months (around 40 weeks), during which a single\nfertilized cell develops into a fully formed baby ready to be born.\u003c/p\u003e"
+    },
+    {
+      "id": "card_209428#2",
+      "format": "quiz",
+      "prompt": "What happens during birth (labor)?",
+      "choices": [
+        {
+          "text": "Muscular contractions of the uterus push the baby out",
+          "correct": true
+        },
+        {
+          "text": "The placenta turns into the baby's first lung",
+          "correct": false
+        },
+        {
+          "text": "The fetus stops growing and the pregnancy reverses",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn labor, the muscular wall of the uterus contracts rhythmically, gradually pushing\nthe baby out into the world to begin breathing on its own.\u003c/p\u003e"
+    }
+  ]
+}

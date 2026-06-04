@@ -1,0 +1,103 @@
+{
+  "id": "card_85a07e",
+  "slug": "ai-that-sees-and-hears",
+  "type": "concept",
+  "title": "AI That Sees \u0026 Hears",
+  "hook": "Early chatbots only read and wrote text. Today's AI is 'multimodal' — one system can look at a photo, listen to your voice, and reply in words or pictures, the way people switch senses.",
+  "key_points": [
+    "Multimodal AI handles more than text: images, audio, and sometimes video together.",
+    "You can show it a photo and ask about it, or talk to it and have it talk back.",
+    "It works by translating every input into the same internal 'language' of numbers.",
+    "This is why one assistant can describe a picture, then write about it — no separate tools."
+  ],
+  "content_html": "\u003cp\u003eThe first chatbots lived in a world of pure text — you typed, they typed back, and that was the whole conversation. A big part of why AI suddenly feels so much more capable is that it broke out of that box. Modern systems are \u003cstrong\u003emultimodal\u003c/strong\u003e, meaning a single model can handle more than one kind of information: you can show it a photo and ask \u0026quot;what's wrong with this plant?\u0026quot;, point your camera at a math problem, speak to it and hear a spoken reply, or ask it to read a chart and then write a summary. It's a bit like the difference between a pen pal and a friend sitting across the table who can also look at what you're showing them and talk out loud.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trick that makes this possible is elegant. Rather than bolting separate tools together, a multimodal model learns to translate every type of input — words, the pixels of an image, the waveform of a sound — into the \u003cem\u003esame\u003c/em\u003e internal \u0026quot;language\u0026quot; of numbers. Once a picture and a sentence live in that shared space, the model can reason across them as fluidly as it once handled text alone. That's why a single assistant can look at your fridge, suggest a recipe, and then write you a shopping list, without you ever switching apps. It's also the foundation under the friendlier, more natural AI experiences arriving now — voice assistants you can actually converse with, tools that understand a screenshot, and glasses or phones that can describe the world in front of you. The same cautions still apply (it can misread an image as confidently as it can misstate a fact), but the leap from \u0026quot;text-only\u0026quot; to \u0026quot;sees and hears\u0026quot; is a big reason AI feels less like a search box and more like an assistant.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Multimodal learning",
+    "url": "https://en.wikipedia.org/wiki/Multimodal_learning",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "multimodal"
+  ],
+  "tags": [
+    "multimodal",
+    "vision"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aa1028",
+      "slug": "ai-images-and-art",
+      "type": "concept",
+      "title": "AI Images, Art \u0026 Video",
+      "hook": "Type a sentence, get a picture. Image generators learned the link between words and visuals from billions of captioned images — which is also why artists are raising hard questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2646c3",
+      "slug": "talking-with-your-voice",
+      "type": "concept",
+      "title": "Voice Assistants",
+      "hook": "Siri and Alexa could set a timer; the new voice AIs can hold a real conversation. Talking is becoming a normal way to use AI — handy, natural, and always a little bit listening.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_85a07e#0",
+      "format": "quiz",
+      "prompt": "What does it mean that AI is 'multimodal'?",
+      "choices": [
+        {
+          "text": "One system can work with several kinds of input — text, images, audio",
+          "correct": true
+        },
+        {
+          "text": "It can run on multiple phones at once",
+          "correct": false
+        },
+        {
+          "text": "It only works in multiple languages",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMultimodal AI isn't limited to text — the same model can take in pictures,\nsound, and words together, and respond across those forms.\u003c/p\u003e"
+    },
+    {
+      "id": "card_85a07e#1",
+      "format": "flip",
+      "prompt": "How can one AI handle pictures, sound, and text together?",
+      "back_html": "\u003cp\u003eIt converts every kind of input into the same internal numerical\nrepresentation, so it can mix and reason across them with one model.\u003c/p\u003e"
+    }
+  ]
+}

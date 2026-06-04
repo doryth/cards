@@ -1,0 +1,100 @@
+{
+  "id": "card_ec1fac",
+  "slug": "epigenetic-inheritance",
+  "type": "news",
+  "title": "Inheritance That Breaks Mendel's Rules",
+  "hook": "Mendel said you inherit a clean copy of each gene from each parent. A mouse study reports traits passed down by chemical DNA marks that break those rules.",
+  "key_points": [
+    "Mendel's rules predict offspring inherit one unchanged gene copy from each parent.",
+    "Epigenetic marks are chemical tags on DNA that switch genes on or off without changing the code.",
+    "A mouse study found hundreds of cases where these marks were inherited in unexpected ways.",
+    "It reports the first known natural 'paramutation' in a mammal, where one gene copy alters the other."
+  ],
+  "content_html": "\u003cp\u003eClassic genetics, worked out by Gregor Mendel, predicts something tidy: you inherit one copy of each gene from each parent, passed along unchanged. A new mouse study, reported by ScienceDaily, found inherited traits that break those rules — passed down not through the DNA sequence itself but through epigenetic marks, the chemical tags that sit on DNA and switch genes on or off without rewriting the code.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe researchers describe hundreds of cases where these marks were inherited in unexpected ways, including some that seemed to appear out of nowhere. They also report the first known naturally occurring \u0026quot;paramutation\u0026quot; in a mammal — a situation where one copy of a gene changes how its partner copy behaves, and that change gets passed on. Taken together, the findings hint that environmental influences, which can leave epigenetic marks, may shape inheritance more than scientists had assumed. It's an early, intriguing result that complicates the neat picture from the pea-plant era, and one that other labs will want to confirm.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/05/260530053420.htm",
+    "published_at": "2026-06-01",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-06-01",
+  "related": [
+    {
+      "id": "card_dec393",
+      "slug": "mendelian-inheritance",
+      "type": "concept",
+      "title": "Mendelian Inheritance",
+      "hook": "A 19th-century monk breeding pea plants worked out the hidden rules of heredity — why a trait can skip a generation and reappear in your grandchild.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82d3b1",
+      "slug": "genes-and-traits",
+      "type": "concept",
+      "title": "How Genes Become Traits",
+      "hook": "You inherit two copies of every gene — one from each parent — and the way those copies interact helps decide everything from eye color to blood type.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ec1fac#0",
+      "format": "flip",
+      "prompt": "What are epigenetic marks?",
+      "back_html": "\u003cp\u003eChemical tags attached to DNA that can switch genes \u003cstrong\u003eon or off\u003c/strong\u003e without\nchanging the underlying genetic code itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ec1fac#1",
+      "format": "quiz",
+      "prompt": "How does epigenetic inheritance differ from Mendel's classic expectation?",
+      "choices": [
+        {
+          "text": "Traits can pass down via chemical DNA marks, not just unchanged gene copies",
+          "correct": true
+        },
+        {
+          "text": "It proves genes don't exist",
+          "correct": false
+        },
+        {
+          "text": "It means parents pass on no traits at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMendel expected each parent to hand down a clean gene copy. The study found\ntraits riding on inherited chemical marks instead — breaking that tidy pattern.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ec1fac#2",
+      "format": "quiz",
+      "prompt": "What did the mouse study report as a first for mammals?",
+      "choices": [
+        {
+          "text": "A naturally occurring paramutation, where one gene copy alters the other",
+          "correct": true
+        },
+        {
+          "text": "A mouse with no DNA",
+          "correct": false
+        },
+        {
+          "text": "An animal that reproduces without any parents",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eParamutation — one allele changing how its partner allele behaves, heritably —\nhad not been documented naturally in a mammal before this work.\u003c/p\u003e"
+    }
+  ]
+}

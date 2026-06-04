@@ -1,0 +1,93 @@
+{
+  "id": "card_9856e7",
+  "slug": "openai-government-stake",
+  "type": "news",
+  "title": "OpenAI Floats Giving the US Government a 5% Stake",
+  "hook": "Facing political backlash and a $7 trillion public-ownership proposal from Bernie Sanders, OpenAI is reportedly offering the US government a far smaller 5% stake instead.",
+  "key_points": [
+    "OpenAI has floated giving the US government a 5% ownership stake, the Financial Times reported.",
+    "The offer is aimed at easing tensions with the Trump administration and public backlash against AI.",
+    "Sam Altman argued a public financial stake is the best way to share AI's benefits broadly.",
+    "It's a far smaller ask than Senator Bernie Sanders' proposed $7 trillion plan for public control of the AI industry."
+  ],
+  "content_html": "\u003cp\u003eOpenAI has floated giving the US government a 5 percent ownership stake in the company, according to the Financial Times — a move aimed at easing tensions with the Trump administration and cooling mounting public backlash against the AI industry.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe offer lands against a much bigger ask: Senator Bernie Sanders has proposed a $7 trillion plan to give Americans broad ownership and control over the AI industry. Next to that, OpenAI's 5% looks like a modest, company-controlled gesture rather than the kind of structural change Sanders is pushing for. CEO Sam Altman framed it differently — arguing that giving the public a direct financial stake is the fairest way to share the benefits AI companies expect to generate. Whichever framing you buy, the story is a useful signal: as AI wealth and power concentrate in a handful of companies, giving the public a cut is becoming part of the political conversation about how to keep that power in check.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters",
+    "published_at": "2026-07-02",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-06",
+  "date": "2026-07-02",
+  "related": [
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9856e7#0",
+      "format": "quiz",
+      "prompt": "Why is OpenAI reportedly offering the US government a stake in the company?",
+      "choices": [
+        {
+          "text": "To ease political tensions and blunt public backlash against AI",
+          "correct": true
+        },
+        {
+          "text": "Because a court ordered it to",
+          "correct": false
+        },
+        {
+          "text": "To raise money for a new data center",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt's a preemptive political move — a way to cool tensions with the Trump\nadministration and public anger over AI's growing power, not a legal mandate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9856e7#1",
+      "format": "flip",
+      "prompt": "How does OpenAI's 5% offer compare to Bernie Sanders' proposal?",
+      "back_html": "\u003cp\u003eIt's far smaller. Sanders proposed a $7 trillion plan for much broader public\nownership and control of the AI industry.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9856e7#2",
+      "format": "flip",
+      "prompt": "What did Sam Altman argue in favor of a public stake?",
+      "back_html": "\u003cp\u003eThat giving the public a direct financial interest in OpenAI is the fairest\nway to share the benefits the AI boom is expected to generate.\u003c/p\u003e"
+    }
+  ]
+}

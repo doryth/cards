@@ -1,0 +1,89 @@
+{
+  "id": "card_ddfc23",
+  "slug": "diamond-crushed-past-neptune-pressures",
+  "type": "news",
+  "title": "Diamond, Crushed Past Neptune's Pressures",
+  "hook": "Squeeze diamond harder than the inside of Neptune and it stops behaving the way theory predicted — new experiments finally settled a 20-year argument between calculation and measurement.",
+  "key_points": [
+    "Experiments pushed diamond beyond the pressures found inside Uranus and Neptune.",
+    "The results resolve a decades-old conflict between theoretical predictions and lab observations.",
+    "Knowing how carbon behaves when crushed matters for designing fusion-energy targets.",
+    "It also informs the 'diamond rain' thought to form deep inside the ice giant planets."
+  ],
+  "content_html": "\u003cp\u003eDiamond is the hardest thing you can easily buy, but push it hard enough and even diamond has to give. Researchers compressed diamond to pressures beyond those inside Uranus and Neptune and tracked how it responded — and in doing so cleared up a disagreement roughly twenty years old between what theorists calculated and what earlier experiments saw.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhy care about the behavior of one material at pressures nothing on Earth's surface ever reaches? Two reasons, according to the team. First, fusion energy: inertial-confinement schemes crush a fuel capsule extremely fast, and carbon-based shells are part of that design, so an accurate picture of how carbon reacts under compression feeds directly into getting more energy out. Second, planetary science: the ice giants are thought to host \u0026quot;diamond rain,\u0026quot; carbon precipitating out deep in their interiors, and that story only works if you know how carbon behaves down there. ScienceDaily reported the result on 20 August 2026; see the source for the experimental details.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260820002424.htm",
+    "published_at": "2026-08-20",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_d1ba32",
+      "slug": "nuclear-fusion",
+      "type": "concept",
+      "title": "Nuclear Fusion",
+      "hook": "The same reaction that powers every star — squeezing light nuclei together — could one day give Earth nearly limitless clean energy, if we can hold a sun in a box.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7ed11f",
+      "slug": "giant-planet-spins",
+      "type": "news",
+      "title": "Why Some Giant Planets Spin Faster Than 'Failed Stars'",
+      "hook": "Astronomers clocked the spins of dozens of distant worlds and found a surprise: lightweight giant planets can twirl faster than the much heavier brown dwarfs — so mass isn't the whole story.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ddfc23#0",
+      "format": "flip",
+      "prompt": "What long-standing disagreement did these diamond experiments settle?",
+      "back_html": "\u003cp\u003eA decades-old conflict between what theory predicted for diamond at extreme\npressure and what experiments actually measured.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ddfc23#1",
+      "format": "quiz",
+      "prompt": "Why does fusion research care how diamond behaves under enormous pressure?",
+      "choices": [
+        {
+          "text": "Carbon materials are used in fusion targets, so their response to compression shapes the design",
+          "correct": true
+        },
+        {
+          "text": "Diamond is the fuel that fuses in a reactor",
+          "correct": false
+        },
+        {
+          "text": "Diamond is used to cool fusion reactors to room temperature",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFusion targets are compressed violently, so knowing exactly how the carbon in them\nresponds helps engineers squeeze the fuel more efficiently. Diamond isn't the fuel.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ddfc23#2",
+      "format": "flip",
+      "prompt": "What planetary phenomenon do these results help explain?",
+      "back_html": "\u003cp\u003eThe \u0026quot;diamond rain\u0026quot; believed to form in the deep interiors of ice giants like\nUranus and Neptune, where carbon is under crushing pressure.\u003c/p\u003e"
+    }
+  ]
+}

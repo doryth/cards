@@ -1,0 +1,89 @@
+{
+  "id": "card_449648",
+  "slug": "black-hole-winds-quench-galaxies",
+  "type": "news",
+  "title": "Black Hole Winds Starve Their Own Galaxies",
+  "hook": "Why do the biggest galaxies hold far fewer stars than expected? New X-ray data caught a supermassive black hole blasting out winds that sweep away the gas stars need to form.",
+  "key_points": [
+    "Some of the universe's largest galaxies hold far fewer stars than models predict.",
+    "Stars form from cold gas; strip the gas away and star formation stalls — galaxies 'quench.'",
+    "XRISM X-ray observations of galaxy NGC 4151 caught powerful winds driven by its central black hole.",
+    "Those winds can blow away the raw material a galaxy needs to build new stars.",
+    "It's strong evidence for 'black hole feedback' — a tiny core regulating an entire galaxy."
+  ],
+  "content_html": "\u003cp\u003eSome of the universe's largest galaxies are oddly star-poor — they hold far fewer stars than models say they should. A leading suspect is the supermassive black hole at each galaxy's core. New observations suggest it doesn't just sit there: it can push back on the entire galaxy around it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eStars form when cold gas clumps and collapses, so a galaxy's future star supply depends on keeping that gas around. Using the X-ray satellite XRISM (a NASA- and JAXA-supported mission), researchers studying the galaxy NGC 4151 found strong evidence that its central black hole drives powerful winds — outflows fast enough to sweep away the raw gas that would otherwise birth new stars. Astronomers call this \u0026quot;black hole feedback\u0026quot;: the surprising idea that a central black hole, minuscule next to its host galaxy, can still throttle the galaxy's growth. It helps explain why the giants stop building stars. See the full release for the observations.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260618041454.htm",
+    "published_at": "2026-06-19",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-22",
+  "date": "2026-06-19",
+  "related": [
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_449648#0",
+      "format": "flip",
+      "prompt": "Why might some giant galaxies hold far fewer stars than expected?",
+      "back_html": "\u003cp\u003eTheir central supermassive black hole can drive powerful winds that blow away the cold gas\nneeded to form new stars — so star formation stalls.\u003c/p\u003e"
+    },
+    {
+      "id": "card_449648#1",
+      "format": "quiz",
+      "prompt": "What did XRISM observations of the galaxy NGC 4151 reveal?",
+      "choices": [
+        {
+          "text": "A supermassive black hole driving winds that expel star-forming gas",
+          "correct": true
+        },
+        {
+          "text": "A black hole pulling in gas and triggering a burst of new stars",
+          "correct": false
+        },
+        {
+          "text": "That the galaxy has no central black hole at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eXRISM caught powerful outflows from NGC 4151's central black hole — evidence that the black\nhole sweeps away the raw material galaxies need to build stars.\u003c/p\u003e"
+    },
+    {
+      "id": "card_449648#2",
+      "format": "flip",
+      "prompt": "What do astronomers mean by 'black hole feedback'?",
+      "back_html": "\u003cp\u003eThe idea that a galaxy's central black hole — minuscule next to the galaxy itself — can still\nregulate the whole galaxy, here by driving winds that shut down star formation.\u003c/p\u003e"
+    }
+  ]
+}

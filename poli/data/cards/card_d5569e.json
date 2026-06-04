@@ -1,0 +1,127 @@
+{
+  "id": "card_d5569e",
+  "slug": "junk-science-and-wrongful-conviction",
+  "type": "news",
+  "title": "Junk Science \u0026 Wrongful Conviction",
+  "hook": "A courtroom isn't a lab — but it has to rely on forensic science anyway. When that science turns out to be unreliable, the wrong person can spend years, or a life, on death row.",
+  "key_points": [
+    "Courts routinely rely on forensic techniques (bite marks, arson patterns, disputed medical diagnoses) presented as scientific fact.",
+    "Some forensic methods used for decades have since been shown to be far less reliable than juries were told.",
+    "In 2026, Louisiana's Supreme Court freed a death-row prisoner, calling the forensic evidence against him 'scientifically indefensible', per ProPublica.",
+    "Unreliable forensic evidence is one of the recurring, documented causes of wrongful convictions.",
+    "Exonerations built on debunked forensic science are a core argument for reviewing what counts as reliable evidence in court."
+  ],
+  "content_html": "\u003cp\u003eA trial depends on evidence the jury is told to trust — and forensic science carries special weight because it sounds objective: a bite mark, a burn pattern, a medical diagnosis presented as fact. The trouble is that some forensic techniques used confidently in courtrooms for decades have since been shown to rest on far shakier scientific ground than anyone let on at the time.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Richard A. Webster reports on one 2026 consequence of that gap: Louisiana's Supreme Court freed a man from death row, ruling that the forensic evidence used to convict him was, in the court's own words, \u0026quot;scientifically indefensible.\u0026quot; Cases like this are not isolated; unreliable or overstated forensic testimony is a well-documented, recurring factor behind wrongful convictions uncovered through later review and exoneration. The deeper lesson isn't that forensic science is worthless — much of it is genuinely rigorous — but that courts, like any institution relying on expert claims, need a way to keep checking which techniques actually hold up and which ones simply \u003cem\u003esound\u003c/em\u003e scientific enough to convince a jury. When that checking fails, due process itself fails: a person can lose their liberty, or their life, based on evidence a fair, informed hearing would never have accepted.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Richard A. Webster"
+    ],
+    "url": "https://propublica.org/article/louisiana-death-row-prisoner-freed-jimmie-duncan",
+    "published_at": "2026-06-29",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6bd87c",
+      "slug": "eighth-amendment-execution-methods",
+      "type": "concept",
+      "title": "The Eighth Amendment \u0026 Methods of Execution",
+      "hook": "The Constitution bars 'cruel and unusual' punishment — so courts must decide not only whether a state may execute, but whether the method it chooses is constitutional.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-11"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_d5569e#0",
+      "format": "flip",
+      "prompt": "Why does forensic evidence carry special weight with juries?",
+      "back_html": "\u003cp\u003eIt's presented as objective, scientific fact — even though some\nforensic techniques used for decades have since been shown to be far\nless reliable than juries were told.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d5569e#1",
+      "format": "quiz",
+      "prompt": "What did Louisiana's Supreme Court rule in the 2026 case ProPublica reported on?",
+      "choices": [
+        {
+          "text": "It freed a death-row prisoner, calling the forensic evidence against him 'scientifically indefensible'",
+          "correct": true
+        },
+        {
+          "text": "It upheld the conviction based on new forensic testing",
+          "correct": false
+        },
+        {
+          "text": "It ordered a retrial using the same original evidence",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer ProPublica, the court itself described the forensic evidence as\nscientifically indefensible in freeing the prisoner.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d5569e#2",
+      "format": "quiz",
+      "prompt": "What broader civics lesson does the case illustrate?",
+      "choices": [
+        {
+          "text": "Institutions relying on expert claims need ongoing ways to check which techniques actually hold up scientifically",
+          "correct": true
+        },
+        {
+          "text": "Forensic science should never be used in any courtroom",
+          "correct": false
+        },
+        {
+          "text": "Wrongful convictions are always caught immediately after trial",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe case shows due process depends on courts continuing to scrutinize\nwhether the \u0026quot;science\u0026quot; behind evidence is actually sound.\u003c/p\u003e"
+    }
+  ]
+}

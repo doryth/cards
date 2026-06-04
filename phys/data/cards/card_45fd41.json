@@ -1,0 +1,102 @@
+{
+  "id": "card_45fd41",
+  "slug": "black-hole-shreds-white-dwarf",
+  "type": "news",
+  "title": "A Black Hole Caught Shredding a White Dwarf",
+  "hook": "The Einstein Probe may have caught a long-sought 'missing link' black hole tearing apart a dense white dwarf star — and devouring it in a burst of X-ray flashes.",
+  "key_points": [
+    "Astronomers think they saw an intermediate-mass black hole rip apart a white dwarf.",
+    "Such mid-sized black holes are a long-sought 'missing link' between small and giant ones.",
+    "Shredding a star by tides like this is called a tidal disruption event.",
+    "The Einstein Probe caught it early as intense X-ray flashes unlike a normal gamma-ray burst."
+  ],
+  "content_html": "\u003cp\u003eAccording to a ScienceDaily report, astronomers may have witnessed one of the rarest cosmic events on record: an intermediate-mass black hole ripping apart a dense white dwarf star and swallowing it. Intermediate-mass black holes — bigger than the ones left by dying stars, but far smaller than the giants at the hearts of galaxies — are a long-sought \u0026quot;missing link,\u0026quot; so catching one in action would be a notable find.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhen a star wanders too close to a black hole, the hole's gravity pulls much harder on the near side than the far side, stretching and tearing the star apart. Astronomers call this a tidal disruption event. The Einstein Probe space telescope reportedly caught this one in its earliest moments, recording an unusual sequence of intense X-ray flashes that did not look like a typical gamma-ray burst. If confirmed, the event would offer a rare look at both an elusive class of black hole and the violent physics of a star being torn apart.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260625060222.htm",
+    "published_at": "2026-06-25",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-29",
+  "date": "2026-06-25",
+  "related": [
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_45fd41#0",
+      "format": "flip",
+      "prompt": "What kind of black hole did astronomers think they saw, and why is it special?",
+      "back_html": "\u003cp\u003eAn \u003cstrong\u003eintermediate-mass\u003c/strong\u003e black hole — a long-sought 'missing link' between\nsmall stellar black holes and the giant ones at galaxy centers.\u003c/p\u003e"
+    },
+    {
+      "id": "card_45fd41#1",
+      "format": "quiz",
+      "prompt": "What is a 'tidal disruption event'?",
+      "choices": [
+        {
+          "text": "A black hole's gravity tearing a star apart by stretching it",
+          "correct": true
+        },
+        {
+          "text": "Two black holes merging into one",
+          "correct": false
+        },
+        {
+          "text": "A star slowly cooling into a white dwarf",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen a star strays too close, the black hole's tidal forces pull harder on\nthe near side than the far side and shred the star — here, a dense white dwarf.\u003c/p\u003e"
+    },
+    {
+      "id": "card_45fd41#2",
+      "format": "quiz",
+      "prompt": "How did the Einstein Probe's observation stand out?",
+      "choices": [
+        {
+          "text": "It caught the event early as unusual intense X-ray flashes, unlike a typical gamma-ray burst",
+          "correct": true
+        },
+        {
+          "text": "It detected only ordinary visible light",
+          "correct": false
+        },
+        {
+          "text": "It recorded complete silence across all wavelengths",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe space telescope caught the explosion in its earliest moments as a\nsequence of intense X-ray flashes that did not match a normal gamma-ray burst.\u003c/p\u003e"
+    }
+  ]
+}

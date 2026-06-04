@@ -1,0 +1,102 @@
+{
+  "id": "card_61ffd8",
+  "slug": "bat-virus-spillover-mutation",
+  "type": "news",
+  "title": "How One Mutation Can Turn a Bat Virus Into a Human Threat",
+  "hook": "A single amino-acid change can flip how a coronavirus behaves across species — whether the immune system fights back or gets suppressed. A clue to how animal viruses leap to people.",
+  "key_points": [
+    "Scientists compared SARS-CoV-2 with a closely related virus found only in bats.",
+    "A single amino-acid difference changed how the virus behaves in different species.",
+    "That one change affects whether the host's immune system fights back or is suppressed.",
+    "Tiny genetic tweaks, not wholesale change, can make an animal virus dangerous to humans.",
+    "It offers a clue to how viruses 'spill over' from wildlife and turn into human threats."
+  ],
+  "content_html": "\u003cp\u003eWhy do some animal viruses cause a deadly human outbreak while their close relatives stay harmless in wildlife? A study reported by ScienceDaily points to a surprisingly small culprit: a single change in the virus's protein code.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers compared SARS-CoV-2 with a closely related coronavirus found only in bats. They showed that a single amino-acid difference — one swapped building block in a protein — was enough to change how the virus behaves in different species, including whether the host's immune system mounts a defense or gets suppressed. The implication is sobering and useful: an animal virus may not need to change much to become dangerous to humans. Understanding exactly which small changes flip that switch is part of how scientists try to spot \u0026quot;spillover\u0026quot; risks — viruses jumping from wildlife to people — before the next outbreak begins.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260622091434.htm",
+    "published_at": "2026-06-23",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "microbiology",
+    "immune-system"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-29",
+  "date": "2026-06-23",
+  "related": [
+    {
+      "id": "card_0b4740",
+      "slug": "h5n1-bird-flu-in-cows",
+      "type": "news",
+      "title": "Why Bird Flu Hid in Cows' Udders",
+      "hook": "Bird flu hit dairy cows in a strange way — striking udders, not lungs. The reason: the receptors H5N1 latches onto are concentrated in mammary tissue, a clue to how it jumps and spreads.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "card_8510f0",
+      "slug": "viruses-living-or-not",
+      "type": "concept",
+      "title": "Are Viruses Alive?",
+      "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_61ffd8#0",
+      "format": "quiz",
+      "prompt": "What kind of genetic change did the study find could alter a coronavirus's behavior across species?",
+      "choices": [
+        {
+          "text": "A single amino-acid difference",
+          "correct": true
+        },
+        {
+          "text": "Loss of the entire genome",
+          "correct": false
+        },
+        {
+          "text": "Doubling of every gene",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eComparing SARS-CoV-2 with a closely related bat-only virus, researchers found that one\namino-acid difference was enough to change how the virus behaved.\u003c/p\u003e"
+    },
+    {
+      "id": "card_61ffd8#1",
+      "format": "flip",
+      "prompt": "How can one tiny mutation make a bat virus more dangerous to humans?",
+      "back_html": "\u003cp\u003eIt can change whether the host's immune system fights the virus or gets suppressed.\nThat shift in the host–virus standoff can help an animal virus thrive in people.\u003c/p\u003e"
+    },
+    {
+      "id": "card_61ffd8#2",
+      "format": "quiz",
+      "prompt": "What does this finding suggest about how viruses 'spill over' into humans?",
+      "choices": [
+        {
+          "text": "Small genetic changes — not a total overhaul — can let an animal virus become a human threat",
+          "correct": true
+        },
+        {
+          "text": "Spillover requires a virus to swap its entire genome with a human virus",
+          "correct": false
+        },
+        {
+          "text": "Animal viruses can never infect humans",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe work shows a single amino-acid change can tip the balance, hinting that modest\ntweaks are enough for some wildlife viruses to make the jump to people.\u003c/p\u003e"
+    }
+  ]
+}

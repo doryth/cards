@@ -1,0 +1,89 @@
+{
+  "id": "card_2a9b89",
+  "slug": "when-a-symptom-needs-a-doctor",
+  "type": "concept",
+  "title": "When a Symptom Needs a Doctor",
+  "hook": "Most everyday symptoms pass on their own. The skill worth having is recognizing the red flags that mean don't wait — call for help now.",
+  "key_points": [
+    "Certain signs are medical emergencies: call emergency services immediately.",
+    "Red flags include chest pain, trouble breathing, sudden weakness or confusion, and severe bleeding.",
+    "Signs of a stroke — face drooping, arm weakness, speech difficulty — mean act fast.",
+    "When unsure, a nurse line or your provider can help you judge urgency."
+  ],
+  "content_html": "\u003cp\u003eKnowing when to ride out a symptom and when to seek help is one of the most useful pieces of health literacy. Most things resolve on their own — but a short list of warning signs should never be ignored.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe NHS distinguishes everyday complaints from emergencies, and the emergencies are worth memorizing: severe chest pain, sudden difficulty breathing, heavy bleeding that won't stop, sudden weakness, numbness, or confusion, a loss of consciousness, or signs of a stroke. For stroke, the FAST test is the shorthand — Face drooping, Arm weakness, Speech difficulty, Time to call for help — because rapid treatment can limit lasting damage. Any of these means calling emergency services right away rather than waiting to \u0026quot;see how it goes.\u0026quot; For the large middle ground — a stubborn fever, a worrying but non-emergency symptom, uncertainty about a child or older relative — the NHS points to nurse advice lines and your regular provider, who can help you gauge how urgent something really is. The principle is simple: know the red flags cold, and when in doubt, ask.\u003c/p\u003e",
+  "source": {
+    "name": "NHS (UK)",
+    "url": "https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-go-to-ae/",
+    "license": "© Crown copyright (NHS, Open Government Licence v3.0)"
+  },
+  "topic_ids": [
+    "common-illness"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_30e293",
+      "slug": "hands-only-cpr",
+      "type": "concept",
+      "title": "Hands-Only CPR",
+      "hook": "If an adult collapses and isn't breathing, you don't need training certificates or rescue breaths — just two steps that can double or triple their chance of survival.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1e126a",
+      "slug": "cold-flu-or-covid",
+      "type": "concept",
+      "title": "Cold, Flu, or COVID?",
+      "hook": "They share a lot of symptoms, but colds, flu, and COVID-19 differ in how fast they hit and how hard — and telling them apart can change what you do next.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_92cdfa",
+      "slug": "recognizing-depression-and-anxiety",
+      "type": "concept",
+      "title": "Recognizing Depression and Anxiety",
+      "hook": "Depression and anxiety are among the most common — and most treatable — health conditions. Knowing the signs is the first step to getting help that works.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2a9b89#0",
+      "format": "quiz",
+      "prompt": "Which symptom is a medical emergency that means calling for help immediately?",
+      "choices": [
+        {
+          "text": "Chest pain or sudden difficulty breathing",
+          "correct": true
+        },
+        {
+          "text": "A mild, gradual head cold",
+          "correct": false
+        },
+        {
+          "text": "A small paper cut",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe NHS lists chest pain, breathing difficulty, severe bleeding, sudden\nweakness or confusion, and signs of stroke as emergencies needing immediate\nhelp.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2a9b89#1",
+      "format": "flip",
+      "prompt": "What does the stroke warning 'FAST' stand for?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eF\u003c/strong\u003eace drooping, \u003cstrong\u003eA\u003c/strong\u003erm weakness, \u003cstrong\u003eS\u003c/strong\u003epeech difficulty, \u003cstrong\u003eT\u003c/strong\u003eime to call\nemergency services. Sudden onset of any of these means act immediately.\u003c/p\u003e"
+    }
+  ]
+}

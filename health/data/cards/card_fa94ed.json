@@ -1,0 +1,102 @@
+{
+  "id": "card_fa94ed",
+  "slug": "measles-record-2026",
+  "type": "news",
+  "title": "U.S. Measles Cases Hit a 35-Year High",
+  "hook": "The CDC has confirmed 2,318 measles cases this year — the most since 1991, and the second record-breaking year in a row for a disease the U.S. once declared eliminated.",
+  "key_points": [
+    "The CDC confirmed 2,318 U.S. measles cases, the highest annual count since 1991.",
+    "It's the second consecutive year the U.S. has set a modern record for measles.",
+    "Measles was declared eliminated in the U.S. in 2000 — sustained spread means that status is under strain.",
+    "Measles is one of the most contagious diseases known and spreads through the air before a rash appears.",
+    "Two doses of the MMR vaccine are about 97% effective at preventing measles.",
+    "Falling childhood vaccination coverage is what lets clusters turn into outbreaks."
+  ],
+  "content_html": "\u003cp\u003eFor the second year in a row, the U.S. has set a modern record for measles. The CDC announced that the country has now confirmed 2,318 cases this year — the highest count since 1991, three and a half decades ago.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat number lands strangely against history: the U.S. declared measles eliminated in 2000, meaning the virus was no longer continuously circulating here. Getting back to a 35-year high takes a specific kind of failure. Measles is one of the most contagious diseases known to medicine, and it spreads through the air — including in the days before the characteristic rash shows up, when nobody knows to stay home. Against a pathogen that transmissible, herd immunity has almost no slack in it: two doses of MMR are roughly 97% effective, so outbreaks of this size reflect falling vaccination coverage rather than a vaccine that stopped working.\u003c/p\u003e\n\u003cp\u003eThe practical version, per public health officials: check that you and your kids are up to date on MMR, especially before travel, and treat a measles exposure as something to call a clinician about rather than wait out.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Maria Godoy"
+    ],
+    "url": "https://npr.org/2026/07/24/nx-s1-5905694/u-s-reports-highest-number-of-measles-cases-in-35-years",
+    "published_at": "2026-07-24",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "vaccines",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_d8a0ad",
+      "slug": "vaccines-adults-still-need",
+      "type": "concept",
+      "title": "Vaccines Adults Still Need",
+      "hook": "Vaccination isn't just a childhood checklist. Protection from some shots fades, new ones are recommended with age, and a few need regular boosters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d02856",
+      "slug": "measles-antiviral-pill",
+      "type": "news",
+      "title": "An Experimental Pill That Stopped a Measles-Like Virus From Spreading",
+      "hook": "A drug called GHP-88310 blocked airborne spread of a measles-like virus in ferrets — the first time a polymerase inhibitor has done that. It could one day shut outbreaks down, not replace vaccines.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_9bbd5f",
+      "slug": "flu-and-seasonal-shots",
+      "type": "concept",
+      "title": "Flu and Seasonal Shots",
+      "hook": "Some vaccines are a yearly habit, not a one-time event — because the viruses change, or immunity fades, and a fresh shot keeps protection current each season.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fa94ed#0",
+      "format": "quiz",
+      "prompt": "What makes 2026's U.S. measles count notable?",
+      "choices": [
+        {
+          "text": "At 2,318 confirmed cases it's the highest since 1991 — and the second record year running",
+          "correct": true
+        },
+        {
+          "text": "It's the first time measles has ever been recorded in the U.S.",
+          "correct": false
+        },
+        {
+          "text": "Cases fell to their lowest level on record",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe CDC confirmed 2,318 cases, the highest count since 1991, and the second\nconsecutive record-breaking year — for a disease the U.S. declared eliminated in 2000.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fa94ed#1",
+      "format": "flip",
+      "prompt": "Why does measles come back so quickly when vaccination coverage slips?",
+      "back_html": "\u003cp\u003eIt's among the most contagious diseases known and spreads through the air — including\nbefore the telltale rash appears. That combination means even small gaps in coverage\nlet a single case seed an outbreak.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fa94ed#2",
+      "format": "flip",
+      "prompt": "How well does the MMR vaccine protect against measles?",
+      "back_html": "\u003cp\u003eTwo doses are about \u003cstrong\u003e97% effective\u003c/strong\u003e at preventing measles — which is why sustained\noutbreaks are a coverage problem, not a vaccine-failure problem.\u003c/p\u003e"
+    }
+  ]
+}

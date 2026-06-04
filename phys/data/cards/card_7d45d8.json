@@ -1,0 +1,117 @@
+{
+  "id": "card_7d45d8",
+  "slug": "tdcosmo-jwst-hubble-constant",
+  "type": "paper",
+  "title": "JWST Sharpens the Hubble Constant From Lensed Quasars",
+  "hook": "Three quasars, each split into four images by a galaxy in front. Re-modeled with JWST optics, they pin the expansion rate at 73.5 — on the high side of the Hubble tension.",
+  "key_points": [
+    "Time-delay cosmography measures H0 in one step, independent of the Cepheid-supernova distance ladder.",
+    "The TDCOSMO team re-modeled three quadruply imaged quasars using JWST NIRCam imaging instead of Hubble.",
+    "Two of the three analyses were done blind, so the answer was not tuned toward any expected value.",
+    "Combining the three lenses gives H0 = 73.5 (+2.7/-2.8) km/s/Mpc, matching earlier HST work but with less scatter between systems.",
+    "Sixteen more JWST targets are planned, aiming at percent-level precision on H0."
+  ],
+  "content_html": "\u003cp\u003eThe Hubble tension is the stubborn gap between two ways of measuring how fast the universe expands: local distance-ladder methods land near 73 km/s/Mpc, while inferring the rate from the cosmic microwave background gives about 67. Settling it needs a third route that shares systematics with neither — and lensed quasars are exactly that.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhen a galaxy sits in front of a distant quasar, it can split the quasar into four images. The quasar flickers, and each image flickers in turn, offset by days to years depending on the path each took. Combine those measured delays with a good model of the lensing galaxy's mass and you get the Hubble constant directly, with no distance ladder involved.\u003c/p\u003e\n\u003cp\u003eThe TDCOSMO collaboration (Williams, Treu, and colleagues) rebuilt the lens models for three such systems — WFI2033−4723, HE0435−1223 and PG1115+080 — using JWST NIRCam imaging plus stellar velocity dispersions from NIRSpec. Two of the three were analyzed blind. Individually they give 71.8, 74.2 and 73.4 km/s/Mpc; together, H0 = 73.5 (+2.7/−2.8). That is essentially unchanged from the earlier Hubble-based value of 73.6, which is itself reassuring — but the scatter between the three systems tightened. The team notes 16 further JWST targets in the pipeline, the path they expect to take toward percent-level precision and, with it, a decisive word on the tension.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "D. M. Williams",
+      "T. Treu",
+      "D. P. Johnson",
+      "P. Mozumdar",
+      "S. Birrer",
+      "C. D. Fassnacht"
+    ],
+    "url": "https://arxiv.org/abs/2608.27566",
+    "published_at": "2026-08-27",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_0ac579",
+      "slug": "hubble-tension",
+      "type": "paper",
+      "title": "The Hubble Tension: Cosmology's Stubborn Crisis",
+      "hook": "Two trustworthy ways of measuring how fast the universe expands keep disagreeing — and a decade of cross-checks has only hardened the gap into a genuine crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_ec7256",
+      "slug": "hubble-tension-world-cup",
+      "type": "paper",
+      "title": "The H₀ World Cup II: A Comprehensive Competition Between Proposed Hubble Tension Solutions",
+      "hook": "Fourteen rival theories all claim to fix cosmology's biggest headache — the Hubble tension. A new 'World Cup' pits them head-to-head on the same data to see which ones actually survive.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_2b860b",
+      "slug": "lensed-superluminous-supernova-sn2025wny",
+      "type": "paper",
+      "title": "One Supernova, Five Images, and a New Way to Measure the Universe",
+      "hook": "A gravitational lens split a colossal exploding star into five copies. Timing the gaps between them gives a fresh, ladder-free measurement of how fast the cosmos expands.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-28"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7d45d8#0",
+      "format": "flip",
+      "prompt": "What is time-delay cosmography, and why is it valuable?",
+      "back_html": "\u003cp\u003eMeasuring H0 from the arrival-time differences between multiple lensed images of one\nvariable source. It bypasses the Cepheid-supernova distance ladder entirely, so it tests\nthe expansion rate with completely different systematics.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7d45d8#1",
+      "format": "quiz",
+      "prompt": "Why did the TDCOSMO team analyze two of the three lenses blindly?",
+      "choices": [
+        {
+          "text": "So the modeling choices could not be unconsciously tuned toward an expected H0",
+          "correct": true
+        },
+        {
+          "text": "Because JWST data are proprietary for the first year",
+          "correct": false
+        },
+        {
+          "text": "Because blind analysis is the only way to remove instrumental noise",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBlind analysis hides the final answer until the method is frozen — important in a field\nwhere the \u0026quot;right\u0026quot; value is contested, since it removes confirmation bias from the result.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7d45d8#2",
+      "format": "flip",
+      "prompt": "What did switching from HST to JWST imaging buy this analysis?",
+      "back_html": "\u003cp\u003eNot a big shift in the central value — 73.5 versus 73.6 km/s/Mpc — but noticeably less\nscatter between the three individual lens systems, which is what has to shrink to reach\npercent-level precision.\u003c/p\u003e"
+    }
+  ]
+}

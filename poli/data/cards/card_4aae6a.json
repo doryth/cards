@@ -1,0 +1,126 @@
+{
+  "id": "card_4aae6a",
+  "slug": "civilian-harm-mitigation-programs",
+  "type": "news",
+  "title": "The Office Whose Job Is Counting the Wrong Deaths",
+  "hook": "Militaries do not automatically learn from killing civilians. Somebody has to be paid to investigate it, and that office can be closed as easily as it was opened.",
+  "key_points": [
+    "The U.S. Defense Department built a civilian harm mitigation and response program to standardize how strikes that kill civilians are tracked, investigated and learned from.",
+    "The point is institutional memory: without a dedicated unit, findings stay inside individual commands and are lost when personnel rotate.",
+    "Such programs sit on policy, not statute, so an incoming administration can shrink or end them without new legislation.",
+    "ProPublica reports that senior commanders advised Defense Secretary Pete Hegseth against cutting the program, and that internal polling backed keeping it — and that he cut it anyway.",
+    "The reporting also shows how professional military advice and civilian control interact: commanders advise, but the civilian official decides."
+  ],
+  "content_html": "\u003cp\u003eArmed forces do not automatically get better at avoiding civilian deaths. Learning requires someone whose job is to collect the strike records, interview witnesses, reconcile the count with outside reporting, and push the lessons back into targeting doctrine. The U.S. military built exactly that: a dedicated civilian harm mitigation and response effort meant to replace ad-hoc, command-by-command handling with a standing process.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Megan Rose and Hannah Allam report that top commanders urged Defense Secretary Pete Hegseth not to cut the program, and that internal polling supported keeping it — and that he eliminated it anyway. Two civics threads run through that. First, civilian control of the military means uniformed leaders advise while an elected government's appointee decides; disagreement is not insubordination, and it is also not a veto.\u003c/p\u003e\n\u003cp\u003eSecond, durability depends on where a program lives. Offices created by executive policy can be closed by executive policy. Ones written into statute require Congress to act — which is why advocates of an oversight function usually fight to get it into law rather than into a memo.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Megan Rose",
+      "Hannah Allam"
+    ],
+    "url": "https://propublica.org/article/hegseth-civilian-harm-mitigation-response-trump-defense-department",
+    "published_at": "2026-08-25",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "conflict-and-security",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_1726f4",
+      "slug": "war-and-peace",
+      "type": "concept",
+      "title": "War \u0026 Peace",
+      "hook": "War is politics at its most extreme — organized violence between groups. Understanding why it happens, and how peace is kept, is central to the study of states.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ae572c",
+      "slug": "enforcing-human-rights",
+      "type": "concept",
+      "title": "Enforcing Human Rights",
+      "hook": "Declaring a right is easy; enforcing it against a sovereign state is hard. The global human-rights system relies more on pressure and exposure than on a world police.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_838dd6",
+      "slug": "terrorism",
+      "type": "concept",
+      "title": "Terrorism",
+      "hook": "Terrorism is violence aimed less at its victims than at an audience — using fear as a political weapon to force change a group cannot win by other means.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_1726f4",
+      "slug": "war-and-peace",
+      "type": "concept",
+      "title": "War \u0026 Peace",
+      "hook": "War is politics at its most extreme — organized violence between groups. Understanding why it happens, and how peace is kept, is central to the study of states.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_4aae6a#0",
+      "format": "flip",
+      "prompt": "What does a civilian harm mitigation program add that ordinary command structures don't?",
+      "back_html": "\u003cp\u003eInstitutional memory — a standing place where civilian-casualty\nfindings are tracked and turned into doctrine, instead of vanishing\nas personnel rotate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4aae6a#1",
+      "format": "quiz",
+      "prompt": "Why can a program like this be ended without Congress passing anything?",
+      "choices": [
+        {
+          "text": "It rests on executive policy rather than statute",
+          "correct": true
+        },
+        {
+          "text": "Defense programs are exempt from congressional oversight",
+          "correct": false
+        },
+        {
+          "text": "Only the Supreme Court can preserve executive programs",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePolicy-created offices can be undone by policy. Statutory ones require\nCongress to act, which is precisely the difference in durability.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4aae6a#2",
+      "format": "flip",
+      "prompt": "What does this episode illustrate about civilian control of the military?",
+      "back_html": "\u003cp\u003eUniformed commanders advise; the civilian secretary decides. ProPublica\nreports Hegseth cut the program despite commanders' objections.\u003c/p\u003e"
+    }
+  ]
+}

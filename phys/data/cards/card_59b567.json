@@ -1,0 +1,105 @@
+{
+  "id": "card_59b567",
+  "slug": "fibre-like-loss-on-a-chip",
+  "type": "news",
+  "title": "Chip Waveguides That Lose Light Almost as Slowly as Fiber",
+  "hook": "Optical fiber carries light for kilometers; on-chip waveguides lose it in centimeters. Caltech closed most of that gap for visible light by melting the roughness away.",
+  "key_points": [
+    "Light in an on-chip waveguide leaks mostly by scattering off surface roughness — and the shorter the wavelength, the worse the scattering, which is why visible-light photonics lagged behind the infrared.",
+    "The Caltech team built spiral waveguides from germano-silicate glass, the same material family as ordinary optical fiber, on standard 8- and 12-inch silicon wafers.",
+    "A thermal reflow step in a furnace softens the glass just enough to smooth its surfaces down to near-atomic flatness, largely suppressing that scattering loss.",
+    "The result: fiber-approaching loss from violet through near-infrared, reported as a roughly 20-fold advantage over silicon nitride in the visible.",
+    "Named targets include optical clocks, atomic sensors, gyroscopes, quantum systems, high-coherence lasers, and light-based links inside AI data centers."
+  ],
+  "content_html": "\u003cp\u003eOptical fiber can carry light for kilometers with barely any loss. Waveguides etched onto a chip are far leakier, and the problem gets worse toward the blue end of the spectrum — light scatters off the tiny roughness left on a waveguide's surfaces, and shorter wavelengths scatter more off the same bumps. That's a large part of why integrated photonics grew up in the infrared, while visible-light applications stayed stuck with bulky free-space optics.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA Caltech group led by Kerry Vahala, with lead authors Hao-Jing Chen and Kellan Colburn and collaborators at UC Santa Barbara, Leiden University, and the University of Southampton, reports in \u003cem\u003eNature\u003c/em\u003e (August 2026, \u0026quot;Towards fibre-like loss for photonic integration from violet to near-infrared\u0026quot;) a platform that largely removes that penalty. They pattern spiral waveguides out of germano-silicate glass — the same material family as conventional fiber — on standard 8- and 12-inch silicon wafers, then anneal the wafer so the glass reflows and its surfaces smooth out to nearly atomic flatness. With the roughness gone, so is most of the scattering: the authors report loss approaching fiber's from violet through near-infrared, described as around a 20-fold improvement over silicon nitride in the visible band. The appeal is what visible light on a chip unlocks — atomic clocks and sensors, gyroscopes, quantum hardware, very coherent lasers, and data-center interconnects — all in devices you could manufacture on a normal wafer line rather than assemble on an optical bench.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "authors": [
+      "Hao-Jing Chen",
+      "Kellan Colburn",
+      "Kerry Vahala"
+    ],
+    "url": "https://sciencedaily.com/releases/2026/08/260814235905.htm",
+    "published_at": "2026-08-17",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "light-optics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_2a0bb3",
+      "slug": "programmable-photonic-chip-slow-light",
+      "type": "news",
+      "title": "A Photonic Chip That Slows Light on Command",
+      "hook": "Light usually races through a chip at a fixed clip. This programmable circuit dials that speed down on demand — the buffer and delay line that computing with light has been missing.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-21"
+    },
+    {
+      "id": "card_65937b",
+      "slug": "how-lasers-work",
+      "type": "concept",
+      "title": "How Lasers Work",
+      "hook": "A flashlight sprays a jumble of colors every which way. A laser does the opposite: one pure color, marching in perfect step, in a beam so tight it can reach the Moon.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b123c0",
+      "slug": "semiconductors-and-transistors",
+      "type": "concept",
+      "title": "Semiconductors and the Transistor",
+      "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_59b567#0",
+      "format": "flip",
+      "prompt": "Why is visible light harder to guide on a chip than infrared light?",
+      "back_html": "\u003cp\u003eWaveguides lose light mainly by \u003cstrong\u003escattering off surface roughness\u003c/strong\u003e, and shorter\nwavelengths scatter more strongly off the same bumps — so visible-light circuits\nsuffered far more loss than infrared ones.\u003c/p\u003e"
+    },
+    {
+      "id": "card_59b567#1",
+      "format": "quiz",
+      "prompt": "What trick did the Caltech team use to cut the scattering loss?",
+      "choices": [
+        {
+          "text": "A thermal reflow in a furnace that smooths the waveguide surfaces to near-atomic flatness",
+          "correct": true
+        },
+        {
+          "text": "Cooling the chip to cryogenic temperatures to freeze out absorption",
+          "correct": false
+        },
+        {
+          "text": "Coating the waveguide in a reflective metal mirror",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSoftening the glass in a furnace lets surface tension iron out the roughness that\ncauses scattering — no cryogenics or mirrors involved.\u003c/p\u003e"
+    },
+    {
+      "id": "card_59b567#2",
+      "format": "flip",
+      "prompt": "What material did they make the waveguides from, and why does that choice matter?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eGermano-silicate glass\u003c/strong\u003e — the same material family used in ordinary optical\nfiber — patterned as spirals on standard silicon wafers, so the platform inherits\nfiber-like transparency while staying compatible with wafer-scale manufacturing.\u003c/p\u003e"
+    }
+  ]
+}

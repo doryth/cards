@@ -1,0 +1,120 @@
+{
+  "id": "card_8da94b",
+  "slug": "puzzles-ai-still-flubs",
+  "type": "news",
+  "title": "The Puzzles You Can Still Beat AI At",
+  "hook": "Mental rotation, tricky logic riddles, Tower of Hanoi past six discs — humans still win. The failures aren't random; they map the difference between pattern-matching and reasoning.",
+  "key_points": [
+    "Models struggle with mental rotation and other spatial-reasoning tasks, per MIT Technology Review.",
+    "On ARC-AGI-style visual puzzles they've improved a lot in a year, but some still stump them.",
+    "Classic step-by-step puzzles (Tower of Hanoi, river crossings) break down once complexity passes roughly six elements.",
+    "Slightly altered Knights-and-Knaves riddles trip up models that memorized the standard version.",
+    "Tell: models often do better when the same puzzle is given as numbers instead of a picture."
+  ],
+  "content_html": "\u003cp\u003ePuzzles have been AI's measuring stick since the beginning — the term \u0026quot;machine learning\u0026quot; was popularized in a 1959 paper by IBM's Arthur Samuel, who taught a computer to play checkers. MIT Technology Review's roundup of puzzles that today's frontier models still flub is a nice reminder that the measuring stick hasn't stopped being useful, and that you can personally still beat the state of the art at several things.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe pattern in the failures is more interesting than any single failure. Spatial reasoning is a weak spot: ask a model to mentally rotate a 3D object and identify it from a new angle and it often gets lost, even though it can describe an image fluently. On abstract visual puzzles in the ARC-AGI family, models have improved sharply over the past year, yet some remain unsolved. Give a model a Knights-and-Knaves logic riddle with a subtle variation from the textbook version and it may answer the version it memorized. And on puzzles that require executing many dependent steps — Tower of Hanoi, river crossings, logic grids — performance degrades once you get past roughly six elements.\u003c/p\u003e\n\u003cp\u003eThe most telling detail: models frequently do better when the same puzzle is handed to them as strings of numbers rather than as a picture. That points away from \u0026quot;it can't reason\u0026quot; and toward something narrower and more useful to know — the visual and spatial representation is the bottleneck, and a lot of apparent reasoning rests on having seen the pattern before. It's the practical version of the whole hype question. Not \u0026quot;is it smart?\u0026quot; but \u0026quot;smart at what, represented how?\u0026quot;\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Grace Huckins"
+    ],
+    "url": "https://technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests",
+    "published_at": "2026-08-26",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-limits",
+    "ai-hype",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "benchmark",
+    "reasoning"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_85a07e",
+      "slug": "ai-that-sees-and-hears",
+      "type": "concept",
+      "title": "AI That Sees \u0026 Hears",
+      "hook": "Early chatbots only read and wrote text. Today's AI is 'multimodal' — one system can look at a photo, listen to your voice, and reply in words or pictures, the way people switch senses.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8da94b#0",
+      "format": "quiz",
+      "prompt": "Why does a small twist on a familiar logic riddle often break a model?",
+      "choices": [
+        {
+          "text": "It may be recalling the memorized standard version instead of reasoning through this one",
+          "correct": true
+        },
+        {
+          "text": "Riddles are always outside a model's training data",
+          "correct": false
+        },
+        {
+          "text": "Longer prompts overload its memory",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe model has seen the classic puzzle many times. When the variant looks\nalmost identical, pattern-matching to the remembered answer beats noticing the change.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8da94b#1",
+      "format": "flip",
+      "prompt": "What's the clue in models doing better on a puzzle given as numbers than as an image?",
+      "back_html": "\u003cp\u003eIt suggests the weakness is in visual and spatial representation, not the logic\nitself — the same problem is solvable once it arrives in a form the model handles well.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8da94b#2",
+      "format": "quiz",
+      "prompt": "What happens to models on step-by-step puzzles like Tower of Hanoi as size grows?",
+      "choices": [
+        {
+          "text": "They cope with small cases and fall apart once complexity rises past a handful of elements",
+          "correct": true
+        },
+        {
+          "text": "They solve any size instantly, since the rules are simple",
+          "correct": false
+        },
+        {
+          "text": "They refuse to attempt the puzzle at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe rules are trivial; executing many dependent steps without losing track is not.\nReported breakdowns start around six or more elements.\u003c/p\u003e"
+    }
+  ]
+}

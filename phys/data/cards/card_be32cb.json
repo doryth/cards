@@ -1,0 +1,106 @@
+{
+  "id": "card_be32cb",
+  "slug": "a-decade-of-black-hole-spins",
+  "type": "paper",
+  "title": "Ten Years of Listening to Black Holes Spin",
+  "hook": "A decade after the first gravitational-wave detection, 100+ events let astronomers read black holes' spins — and spin turns out to reveal how the pairs were born.",
+  "key_points": [
+    "Since 2015, gravitational-wave detectors have logged over a hundred confirmed black-hole mergers.",
+    "Each waveform carries an imprint of how fast and which way the black holes spin.",
+    "Different formation channels predict distinct spin signatures across the population.",
+    "Isolated binaries, dense star clusters, and AGN disks each leave their own fingerprint.",
+    "Spin patterns — and how they correlate with mass and distance — help decode where black hole pairs come from."
+  ],
+  "content_html": "\u003cp\u003eWhen LIGO caught the first gravitational waves in 2015, it opened a brand-new way to study black\nholes: by the spacetime ripples they shed when they merge. A decade on, the catalog has grown\npast a hundred confirmed events — enough to do statistics, not just spot individual collisions.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn this review, Sylvia Biscoveanu surveys what that decade has taught us about one subtle but\npowerful property: black hole \u003cem\u003espin\u003c/em\u003e. A spinning black hole leaves a faint imprint on the\ngravitational waveform, encoding both how fast it rotates and how its spin axis is tilted.\nThat matters because different birth stories predict different spins. Black holes that formed as\nan isolated pair of stars should spin differently from those that paired up by chance in a dense\ncluster, or inside the gas disk around a giant galaxy's central black hole. By measuring spins\nacross the whole population — and how they correlate with mass and cosmic distance — astronomers\nare beginning to read off where these black hole pairs come from, with sharper answers expected\nas detectors grow more sensitive.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Sylvia Biscoveanu"
+    ],
+    "url": "https://arxiv.org/abs/2606.06209",
+    "published_at": "2026-06-04",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-06-08",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_be32cb#0",
+      "format": "flip",
+      "prompt": "Why are black hole spins such a useful clue for astronomers?",
+      "back_html": "\u003cp\u003eDifferent formation channels predict different spin magnitudes and orientations, so the\npopulation's spin pattern acts as a tracer of how black hole binaries form and evolve.\u003c/p\u003e"
+    },
+    {
+      "id": "card_be32cb#1",
+      "format": "quiz",
+      "prompt": "Which of these is one of the binary black hole formation channels the review discusses?",
+      "choices": [
+        {
+          "text": "Dynamical formation in dense star clusters",
+          "correct": true
+        },
+        {
+          "text": "Direct condensation out of the cosmic microwave background",
+          "correct": false
+        },
+        {
+          "text": "Spontaneous creation in the vacuum of empty space",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe review covers channels such as isolated binary evolution, dynamical formation in clusters,\nformation in AGN disks, and hierarchical triples — each leaving a distinct spin signature.\u003c/p\u003e"
+    }
+  ]
+}

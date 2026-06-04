@@ -1,0 +1,119 @@
+{
+  "id": "card_26b4f5",
+  "slug": "billion-user-chatbots",
+  "type": "news",
+  "title": "Two Chatbots, a Billion Users Each",
+  "hook": "Gemini crossed a billion monthly users — Google's fastest-growing product ever — joining ChatGPT at a scale that took Facebook and YouTube far longer to reach.",
+  "key_points": [
+    "Sundar Pichai says a billion people use Gemini monthly; it's Google's fastest-growing product ever.",
+    "It's the 14th Google product to pass a billion users.",
+    "ChatGPT got to the billion mark first, so two AI assistants now sit at that scale.",
+    "Gemini's growth rides on distribution — Search, Android, and Workspace put it in front of people.",
+    "Ars Technica's caveat: the surge has to hold up as the pace of model releases slows."
+  ],
+  "content_html": "\u003cp\u003eGoogle CEO Sundar Pichai says a billion people now use Gemini every month, making it Google's fastest-growing product ever and the 14th Google product to reach that milestone. As The Verge notes, Google isn't first: OpenAI's ChatGPT got there before it. So as of August 2026, two AI assistants are operating at a scale that took earlier internet giants many years to build.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe number says as much about distribution as about the product. Google can put Gemini inside Search, Android, and Workspace — surfaces billions of people already open every day — which converts existing reach into usage far faster than any standalone app could grow. That's also why \u0026quot;monthly users\u0026quot; deserves a raised eyebrow: encountering an assistant that arrived in a product you already used isn't the same as choosing it, and it says nothing about how deeply anyone relies on it.\u003c/p\u003e\n\u003cp\u003eArs Technica adds the forward-looking question: whether the surge holds as the release cadence of dramatic new models slows. Novelty drives a lot of early adoption; retention is the harder test, and it's the one still being run.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "David Pierce",
+      "Hayden Field"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "published_at": "2026-08-11",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "chatbots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_42f5a2",
+      "slug": "which-chatbot-to-use",
+      "type": "concept",
+      "title": "Which Chatbot Should I Use?",
+      "hook": "ChatGPT, Claude, Gemini, Copilot, Meta AI — they're more alike than different. The honest answer to 'which is best' is: the one you'll actually open, plus a second to cross-check.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7b1ce5",
+      "slug": "most-americans-wary-of-ai",
+      "type": "news",
+      "title": "Half of Americans Use Chatbots — Most Think AI Is Moving Too Fast",
+      "hook": "A new Pew poll captures the mood of the AI era: chatbot use has jumped to about half of Americans, yet nearly two-thirds say the technology is advancing too quickly.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-17"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_26b4f5#0",
+      "format": "flip",
+      "prompt": "What milestone did Gemini reach, and how does it compare to ChatGPT?",
+      "back_html": "\u003cp\u003eA billion monthly users — Google's fastest-growing product ever, and its 14th to\npass a billion. ChatGPT reached the billion mark first.\u003c/p\u003e"
+    },
+    {
+      "id": "card_26b4f5#1",
+      "format": "quiz",
+      "prompt": "Why did Gemini scale so fast compared to a standalone app?",
+      "choices": [
+        {
+          "text": "Google can place it inside Search, Android, and Workspace, where billions already are",
+          "correct": true
+        },
+        {
+          "text": "Because it is the only free AI assistant available",
+          "correct": false
+        },
+        {
+          "text": "Because users must create a new account to use Google services",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDistribution is the advantage. Bolting an assistant onto products people already\nopen daily converts existing reach into usage numbers.\u003c/p\u003e"
+    },
+    {
+      "id": "card_26b4f5#2",
+      "format": "quiz",
+      "prompt": "What's the honest caveat about a 'monthly users' figure like this?",
+      "choices": [
+        {
+          "text": "Being counted as a user doesn't mean someone chose the product or uses it deeply",
+          "correct": true
+        },
+        {
+          "text": "It means a billion people pay for a subscription",
+          "correct": false
+        },
+        {
+          "text": "It proves Gemini is more accurate than ChatGPT",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUsage counts measure exposure, not preference or quality — especially when the\nfeature is embedded in tools people already had.\u003c/p\u003e"
+    }
+  ]
+}

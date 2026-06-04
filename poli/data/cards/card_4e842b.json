@@ -1,0 +1,128 @@
+{
+  "id": "card_4e842b",
+  "slug": "filling-senate-vacancies",
+  "type": "news",
+  "title": "What Happens When a Senator's Seat Suddenly Opens Up",
+  "hook": "When Sen. Lindsey Graham died in office in July 2026, South Carolina didn't call a snap election — it triggered a replacement process most voters never think about until it happens.",
+  "key_points": [
+    "The 17th Amendment lets a state's legislature authorize its governor to appoint a temporary replacement when a Senate seat opens between elections.",
+    "Almost every state uses some version of this: the governor names someone to hold the seat until voters can choose a permanent successor.",
+    "A handful of states skip gubernatorial appointment entirely and instead require a special election to fill the seat directly.",
+    "Whether the appointee must belong to the same party as the departing senator, and how soon a special election must follow, both vary by state law.",
+    "The result is a patchwork: the same event — a Senate vacancy — is handled by 50 different sets of state rules."
+  ],
+  "content_html": "\u003cp\u003eSen. Lindsey Graham of South Carolina, a Trump ally and longtime foreign-policy voice in the Senate, died in July 2026 after what his office called a \u0026quot;brief and sudden illness,\u0026quot; NPR's Eric McDaniel reported. Behind the news of his death sits a mechanical question every state has had to answer at one point or another: who sits in that seat until voters get a say?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe 17th Amendment, which moved Senate elections from state legislatures to a direct popular vote, also lets each state's legislature decide how a mid-term vacancy gets filled. Almost every state has chosen to let its governor appoint a temporary replacement to hold the seat until an election — special or otherwise — chooses a permanent one; a few states skip that step and go straight to a special election. Details that sound minor, like whether the appointee must match the departing senator's party or how quickly a special election has to happen, are left entirely to state law rather than the federal Constitution — meaning the same kind of vacancy plays out differently depending on which state it happens in. South Carolina's version of that process resolved on July 14, when Gov. Henry McMaster named Graham's sister, Darline Graham, to serve out the rest of his term, with President Trump and other top Republicans coalescing around the pick — a concrete instance of the governor-appointment path most states use. (This card describes the U.S. Senate vacancy process specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Eric McDaniel"
+    ],
+    "url": "https://npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
+    "published_at": "2026-07-12",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-12",
+  "related": [
+    {
+      "id": "card_63346f",
+      "slug": "the-legislature",
+      "type": "concept",
+      "title": "The Legislature",
+      "hook": "The branch that makes the law is also where a society argues out loud — the legislature turns competing interests into binding rules through debate and votes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_07c9e3",
+      "slug": "what-is-federalism",
+      "type": "concept",
+      "title": "What Federalism Is",
+      "hook": "Some countries split authority between a national government and regional ones, each with powers the other can't simply override.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_63346f",
+      "slug": "the-legislature",
+      "type": "concept",
+      "title": "The Legislature",
+      "hook": "The branch that makes the law is also where a society argues out loud — the legislature turns competing interests into binding rules through debate and votes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_4e842b#0",
+      "format": "flip",
+      "prompt": "What does the 17th Amendment let a state do when a Senate seat opens up mid-term?",
+      "back_html": "\u003cp\u003eIt lets the state legislature empower the governor to appoint someone\nto temporarily fill the seat until voters choose a permanent successor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4e842b#1",
+      "format": "quiz",
+      "prompt": "Do all states fill Senate vacancies the same way?",
+      "choices": [
+        {
+          "text": "No — most allow a gubernatorial appointment, but a handful require a special election instead",
+          "correct": true
+        },
+        {
+          "text": "Yes, federal law requires an identical special-election process everywhere",
+          "correct": false
+        },
+        {
+          "text": "No — vacant Senate seats simply stay empty until the next scheduled election",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe 17th Amendment leaves the mechanism largely to each state's own\nlaw, so the details differ from state to state.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4e842b#2",
+      "format": "quiz",
+      "prompt": "What varies from state to state around a Senate vacancy appointment?",
+      "choices": [
+        {
+          "text": "Whether the replacement must share the departing senator's party, and how soon a special election must follow",
+          "correct": true
+        },
+        {
+          "text": "Whether the governor is involved at all — this is fixed nationwide",
+          "correct": false
+        },
+        {
+          "text": "Whether the seat is filled by the Senate itself voting on a replacement",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThese specifics are set by each state's own statutes, not by the\nfederal Constitution.\u003c/p\u003e"
+    }
+  ]
+}

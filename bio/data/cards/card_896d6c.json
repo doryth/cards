@@ -1,0 +1,109 @@
+{
+  "id": "card_896d6c",
+  "slug": "population-dynamics",
+  "type": "concept",
+  "title": "Population Dynamics",
+  "hook": "No population grows forever. Food, space, and predators set a ceiling — and the dance between growth and limits drives booms, crashes, and balance.",
+  "key_points": [
+    "A population's size changes through births, deaths, and movement in and out.",
+    "With unlimited resources, growth is exponential — a fast-accelerating curve.",
+    "Real environments impose limits; carrying capacity is the size they can sustain.",
+    "When a population overshoots, resource shortages can trigger a crash."
+  ],
+  "content_html": "\u003cp\u003eA population — all the individuals of one species in an area — is never static. Its size rises and falls as individuals are born, die, immigrate, and emigrate. When resources are unlimited, populations grow exponentially: each generation adds more than the last, producing a steep J-shaped curve. A few bacteria left in ideal conditions can balloon into billions in a day. But unlimited resources don't exist in the real world.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSooner or later, food runs low, space fills up, waste accumulates, and predators move in. These limiting factors bend the exponential curve into an S-shape, leveling off near the carrying capacity — the population size the environment can sustain over the long haul, usually labeled K. Populations don't always settle there gently. If one overshoots its carrying capacity, the resulting shortage can cause a sharp die-off, and some species cycle through repeated booms and busts. Khan Academy's treatment of exponential and logistic growth lays out the two foundational models ecologists use to capture this tension between a population's drive to expand and the hard limits of its environment.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/ap-biology/ecology-ap/population-ecology-ap/a/exponential-logistic-growth",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "ecology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a13f41",
+      "slug": "ecosystems-and-interdependence",
+      "type": "concept",
+      "title": "Ecosystems \u0026 Interdependence",
+      "hook": "An ecosystem is a community of living things plus their environment, all so tangled together that pulling one thread can shake the whole web.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_05f960",
+      "slug": "food-chains-and-webs",
+      "type": "concept",
+      "title": "Food Chains \u0026 Energy Flow",
+      "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_40b8e4",
+      "slug": "climate-change-and-life",
+      "type": "concept",
+      "title": "Climate Change and Life",
+      "hook": "A warming planet doesn't just raise the thermometer — it shifts where species live, when they breed, and which ones survive the squeeze.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_896d6c#0",
+      "format": "flip",
+      "prompt": "What is carrying capacity?",
+      "back_html": "\u003cp\u003eThe maximum population size an environment can sustain over the long term, given its\navailable food, water, space, and other resources. It's often written as \u003cstrong\u003eK\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_896d6c#1",
+      "format": "quiz",
+      "prompt": "What does exponential growth describe?",
+      "choices": [
+        {
+          "text": "Growth that accelerates as the population gets bigger, with no limits",
+          "correct": true
+        },
+        {
+          "text": "Growth that slows to a steady, flat line",
+          "correct": false
+        },
+        {
+          "text": "A population that only shrinks over time",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eExponential growth assumes unlimited resources, so the more individuals there are, the\nfaster the population adds more — producing a steep, accelerating J-shaped curve.\u003c/p\u003e"
+    },
+    {
+      "id": "card_896d6c#2",
+      "format": "quiz",
+      "prompt": "What often happens when a population overshoots its carrying capacity?",
+      "choices": [
+        {
+          "text": "Resources run short and the population can crash",
+          "correct": true
+        },
+        {
+          "text": "The carrying capacity automatically rises to match it",
+          "correct": false
+        },
+        {
+          "text": "Growth simply continues exponentially forever",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOvershooting means there isn't enough food or space to go around, so deaths rise and\nthe population can fall sharply — a boom-and-bust cycle.\u003c/p\u003e"
+    }
+  ]
+}

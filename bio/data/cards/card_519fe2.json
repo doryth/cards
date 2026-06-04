@@ -1,0 +1,119 @@
+{
+  "id": "card_519fe2",
+  "slug": "keystone-species",
+  "type": "concept",
+  "title": "Keystone Species",
+  "hook": "Some species pull more than their weight. Remove them, and an entire ecosystem can unravel — even when they were never the most abundant thing around.",
+  "key_points": [
+    "A keystone species has an effect on its ecosystem far larger than its numbers would suggest.",
+    "Sea otters keep urchins in check, protecting kelp forests that shelter countless other species.",
+    "Removing a keystone species can trigger a cascade of changes through the whole community.",
+    "Top predators, like wolves, are classic examples, but plants and engineers can be keystones too."
+  ],
+  "content_html": "\u003cp\u003eNot every species matters equally to its ecosystem. A keystone species is one whose role is so pivotal that its impact dwarfs what you'd guess from its population size — just as the wedge-shaped keystone at the top of a stone arch holds all the other stones in place. Pull it out, and the structure falls. Sea otters are the textbook case: by eating sea urchins, they keep urchin numbers low enough that kelp forests can flourish, and those forests shelter fish, invertebrates, and more.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe concept comes from experiments in which scientists removed a single species and watched the surrounding community transform. Top predators are often cited as keystones — the famous example is the return of wolves to Yellowstone, said to have scared elk away from riverbanks, let streamside vegetation recover, and changed everything from beaver populations to the courses of rivers. (That dramatic, park-wide version of the story is now contested — a later reanalysis found the effect was smaller and more local than claimed.) But keystones aren't always predators: some are \u0026quot;ecosystem engineers\u0026quot; like beavers that build wetlands, and some are plants whose fruit feeds a whole community through lean seasons. As the National Park Service explains, identifying and protecting keystone species is a powerful conservation strategy, because safeguarding one well-chosen species can stabilize many others at once.\u003c/p\u003e",
+  "source": {
+    "name": "National Park Service",
+    "url": "https://www.nps.gov/articles/000/what-is-a-keystone-species.htm",
+    "license": "Public domain (U.S. National Park Service)"
+  },
+  "topic_ids": [
+    "ecology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a13f41",
+      "slug": "ecosystems-and-interdependence",
+      "type": "concept",
+      "title": "Ecosystems \u0026 Interdependence",
+      "hook": "An ecosystem is a community of living things plus their environment, all so tangled together that pulling one thread can shake the whole web.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_05f960",
+      "slug": "food-chains-and-webs",
+      "type": "concept",
+      "title": "Food Chains \u0026 Energy Flow",
+      "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cd7fc6",
+      "slug": "biodiversity-and-conservation",
+      "type": "concept",
+      "title": "Biodiversity \u0026 Conservation",
+      "hook": "Biodiversity is the full variety of life — genes, species, and ecosystems. It cleans our water, pollinates our food, and steadies the systems we depend on, and right now it's vanishing fast.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0ac6b2",
+      "slug": "yellowstone-wolves-trophic-cascade-questioned",
+      "type": "news",
+      "title": "Did Yellowstone's Wolves Really Reshape the Park?",
+      "hook": "The famous story that returning wolves transformed Yellowstone is under fire: a reanalysis says the original study's methods overstated the effect, and willows never surged park-wide.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-14"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_519fe2#0",
+      "format": "flip",
+      "prompt": "What makes a species a 'keystone' species?",
+      "back_html": "\u003cp\u003eIts impact on the ecosystem is \u003cstrong\u003emuch larger than its abundance\u003c/strong\u003e would suggest. Like\nthe keystone of an arch, removing it can cause the whole community to collapse.\u003c/p\u003e"
+    },
+    {
+      "id": "card_519fe2#1",
+      "format": "quiz",
+      "prompt": "Why do sea otters protect kelp forests?",
+      "choices": [
+        {
+          "text": "They eat sea urchins, which would otherwise devour the kelp",
+          "correct": true
+        },
+        {
+          "text": "They fertilize the kelp with nutrients from their fur",
+          "correct": false
+        },
+        {
+          "text": "They scare away fish that compete with kelp for sunlight",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOtters prey on urchins. Without otters, urchin populations explode and graze kelp forests\ndown to barren rock, taking the many species that live there with them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_519fe2#2",
+      "format": "quiz",
+      "prompt": "What typically happens when a keystone species is removed?",
+      "choices": [
+        {
+          "text": "A cascade of changes ripples through the whole ecosystem",
+          "correct": true
+        },
+        {
+          "text": "Nothing — only that one species disappears",
+          "correct": false
+        },
+        {
+          "text": "The ecosystem instantly becomes more diverse",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause so many other species depend on its role, losing a keystone species can collapse\nfood webs and dramatically reshape or even destroy the community.\u003c/p\u003e"
+    }
+  ]
+}

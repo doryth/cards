@@ -1,0 +1,107 @@
+{
+  "id": "card_254db9",
+  "slug": "missing-baryons-in-the-cosmic-web",
+  "type": "paper",
+  "title": "The Universe's Missing Ordinary Matter, Finally Located",
+  "hook": "Add up every star, galaxy, and gas cloud we can see and roughly half the ordinary matter is unaccounted for. Radio bursts and the CMB's warm shadow together say where it hides.",
+  "key_points": [
+    "Censuses of the nearby universe find only a fraction of the baryons — ordinary atomic matter — that cosmology says should exist.",
+    "Simulations predicted the rest sits in the cosmic web's filaments as a diffuse, million-degree warm-hot intergalactic medium (WHIM), too faint to see directly.",
+    "Fast radio bursts help because their dispersion measure counts electrons the signal crossed on its way to us.",
+    "The team cross-correlated CHIME/FRB dispersion measures with Planck's thermal Sunyaev-Zel'dovich Compton-y map, which traces hot electrons.",
+    "After masking galaxy clusters to isolate diffuse gas, they find a positive correlation with probability above 99.77%.",
+    "They infer that a fraction f_WHIM = 0.48 of cosmic baryons sits in the WHIM (68% interval 0.27-0.61) at a mean temperature of 2.4 million K."
+  ],
+  "content_html": "\u003cp\u003eOrdinary matter — the atoms in stars, planets, and gas — is a small slice of the universe, and embarrassingly, we could not find all of it. Tally everything visible in the nearby universe and a large share of the expected baryons is simply missing. Simulations have long pointed to a culprit: the gas is strung along the filaments of the cosmic web as a warm-hot intergalactic medium, at temperatures around a million kelvin and densities so low that it neither shines brightly nor blocks much light.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eDao-Hong Zhai and colleagues combined two indirect probes that each see ionised gas in a different way. Fast radio bursts arrive smeared out, and the size of that smearing — the dispersion measure — counts the free electrons the signal crossed. The thermal Sunyaev-Zel'dovich effect works from the other end: hot electrons scatter cosmic microwave background photons, leaving a signature mapped by Planck as a Compton-y map. If the missing baryons really lie in the filaments, the two maps should be spatially correlated. Using the second CHIME/FRB catalogue and masking virialised galaxy clusters so that cluster gas could not fake the signal, they report a positive cross-correlation at better than 99.77% probability, holding up under more aggressive masking. A joint inference puts the fraction of cosmic baryons in the WHIM at f_WHIM = 0.48, with a 68% confidence interval of 0.27 to 0.61, anchored at a mean temperature of 2.4 × 10⁶ K. The authors' claim is that this closes the cosmic baryon budget in the local universe: the matter was never gone, only too diffuse and too warm to see.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Dao-Hong Zhai",
+      "F. Y. Wang",
+      "Zi-Gao Dai",
+      "Renyue Cen"
+    ],
+    "url": "https://arxiv.org/abs/2608.09014",
+    "published_at": "2026-08-10",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-10",
+  "related": [
+    {
+      "id": "card_9d6f94",
+      "slug": "fast-radio-bursts-track-star-formation",
+      "type": "paper",
+      "title": "Fast Radio Bursts Follow Star Formation Almost Instantly",
+      "hook": "Mysterious millisecond flashes from across the universe closely track where new stars are being born — with almost no time lag, ruling out one of the leading theories of what causes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "card_461ffa",
+      "slug": "cosmic-microwave-background",
+      "type": "concept",
+      "title": "The Cosmic Microwave Background",
+      "hook": "The oldest light we can see is a faint glow filling all of space — released when the infant universe first cooled enough to become transparent, about 380,000 years after the Big Bang.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_254db9#0",
+      "format": "flip",
+      "prompt": "What is the 'missing baryon' problem?",
+      "back_html": "\u003cp\u003eCosmology predicts a certain amount of ordinary atomic matter, but adding up the\nstars, galaxies, and gas we can actually see accounts for only part of it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_254db9#1",
+      "format": "quiz",
+      "prompt": "Why is a fast radio burst a useful probe of invisible intergalactic gas?",
+      "choices": [
+        {
+          "text": "Its dispersion measure counts the electrons the signal passed through en route",
+          "correct": true
+        },
+        {
+          "text": "Its brightness is a standard candle that gives an exact distance",
+          "correct": false
+        },
+        {
+          "text": "It heats the gas along its path so the gas becomes visible",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDispersion smears the burst by an amount set by the intervening free electrons, so\neach burst effectively weighs the ionised matter along its line of sight.\u003c/p\u003e"
+    },
+    {
+      "id": "card_254db9#2",
+      "format": "flip",
+      "prompt": "What fraction of cosmic baryons did the analysis place in the WHIM?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003ef_WHIM = 0.48\u003c/strong\u003e, with a 68% interval of 0.27-0.61, anchored at a mean WHIM\ntemperature of about \u003cstrong\u003e2.4 million K\u003c/strong\u003e — enough to close the local baryon budget.\u003c/p\u003e"
+    }
+  ]
+}

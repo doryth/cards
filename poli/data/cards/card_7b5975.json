@@ -1,0 +1,139 @@
+{
+  "id": "card_7b5975",
+  "slug": "who-pays-to-run-an-election",
+  "type": "news",
+  "title": "Who Actually Pays to Run an Election",
+  "hook": "National elections are run by local governments on local budgets. The people closest to the ballots are usually the ones worrying about affording them.",
+  "key_points": [
+    "In the United States, elections are administered by counties and municipalities, not by a national election agency.",
+    "That means equipment, staffing, and mailing costs land on local budgets that also fund schools, roads, and police.",
+    "Underfunding shows up as fewer polling places, older machines, and thinner staff — not as a headline.",
+    "A University of Michigan survey reported by The Conversation found Michigan local election officials confident in voting integrity ahead of November 2026.",
+    "The same survey found almost half of those officials worried about the cost of running elections."
+  ],
+  "content_html": "\u003cp\u003eOne of the least intuitive facts about American elections is that there is no national body running them. Federal races are administered by counties and municipalities, which means the machines, the ballots, the poll workers, the mailing, and the post-election audits are paid for out of the same local budgets that fund schools, roads, and police. Writing in The Conversation, University of Michigan's Stephanie Leiser reports on a survey of Michigan local election officials: they were broadly confident about voting integrity heading into the November 2026 midterm, while almost half worried about the cost of running elections.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat combination — confidence in the process, anxiety about the budget — is worth sitting with, because it identifies where the real fragility in decentralized election administration lies. Underfunding does not announce itself. It shows up as an aging scanner nobody can afford to replace, a polling place consolidated to save staff, a recruitment shortfall that leaves precincts thin on a busy morning, or deferred maintenance on voter-roll systems. Each is individually minor and none makes news, yet together they lengthen lines and raise the chance of the administrative mistakes that later get read as evidence of something worse. The structural cause is a mismatch: the benefit of a well-run federal election is national, while the bill is local, so no single level of government has both the incentive and the obligation to fund it fully. This is a common pattern in federal systems — a national function delivered through local capacity — and it explains why election-administration grants, and the independence of the bodies distributing them, become politically contested in their own right.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Stephanie Leiser"
+    ],
+    "url": "https://theconversation.com/michigans-local-election-officials-are-confident-in-voting-integrity-ahead-of-novembers-midterm-election-289133",
+    "published_at": "2026-08-12",
+    "license": "CC BY-ND (The Conversation)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "federalism-levels"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_a2d914",
+      "slug": "election-assistance-commission-independence",
+      "type": "news",
+      "title": "What the Election Assistance Commission Does — and Why Its Independence Matters",
+      "hook": "A little-known federal commission certifies voting machines and helps run U.S. elections. In 2026 the president removed its last sitting members, months before the midterms.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "card_e521e1",
+      "slug": "local-government",
+      "type": "concept",
+      "title": "Local Government",
+      "hook": "The layer of government you meet most often isn't the national one — it's the city or council that runs your streets, schools, and rubbish collection.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ee55cb",
+      "slug": "voter-turnout-and-engagement",
+      "type": "concept",
+      "title": "Voter Turnout \u0026 Engagement",
+      "hook": "Who shows up changes who wins. Turnout — the share of eligible people who actually vote — is one of the quiet forces shaping every election.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_07c9e3",
+      "slug": "what-is-federalism",
+      "type": "concept",
+      "title": "What Federalism Is",
+      "hook": "Some countries split authority between a national government and regional ones, each with powers the other can't simply override.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_e521e1",
+      "slug": "local-government",
+      "type": "concept",
+      "title": "Local Government",
+      "hook": "The layer of government you meet most often isn't the national one — it's the city or council that runs your streets, schools, and rubbish collection.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_7b5975#0",
+      "format": "flip",
+      "prompt": "Who administers and pays for elections in the United States?",
+      "back_html": "\u003cp\u003eLocal governments — counties and municipalities — using local budgets, rather\nthan a single national election agency.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7b5975#1",
+      "format": "quiz",
+      "prompt": "What did the Michigan survey reported by The Conversation find?",
+      "choices": [
+        {
+          "text": "High confidence in voting integrity, but nearly half of officials worried about election costs",
+          "correct": true
+        },
+        {
+          "text": "Widespread doubt among officials about vote counts",
+          "correct": false
+        },
+        {
+          "text": "That the state had taken over election administration",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOfficials were confident overall about integrity ahead of November 2026,\nwhile almost half flagged the cost of running elections as a concern.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7b5975#2",
+      "format": "quiz",
+      "prompt": "How does election underfunding usually become visible to voters?",
+      "choices": [
+        {
+          "text": "Fewer polling places, aging equipment, and thinner staffing",
+          "correct": true
+        },
+        {
+          "text": "An announcement that the election is cancelled",
+          "correct": false
+        },
+        {
+          "text": "A change in who is eligible to vote",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBudget pressure rarely produces a dramatic event; it degrades capacity\nquietly, and voters experience it as longer lines and fewer locations.\u003c/p\u003e"
+    }
+  ]
+}

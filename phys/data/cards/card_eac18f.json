@@ -1,0 +1,112 @@
+{
+  "id": "card_eac18f",
+  "slug": "gyroscopes-and-stability",
+  "type": "concept",
+  "title": "Gyroscopes: Why Spinning Things Stay Upright",
+  "hook": "A spinning top won't fall over and a rolling coin stays balanced. Spin gives an object a stubborn sense of direction — angular momentum resists any attempt to tip its axis.",
+  "key_points": [
+    "A spinning object has angular momentum, which resists changes to its spin axis.",
+    "That's why a top stays upright and a thrown football spirals true.",
+    "Push on a spinning gyroscope and it veers sideways (precession) instead of toppling.",
+    "Gyroscopes keep planes, ships, and phones oriented by holding their axis steady."
+  ],
+  "content_html": "\u003cp\u003eSet a top spinning and it stands on its point, defying the fall you'd expect from anything balanced so precariously. The secret is angular momentum: a spinning object resists changes not just to how fast it spins, but to the \u003cem\u003edirection\u003c/em\u003e its axis points. The faster it spins, the more stubbornly it holds that direction. The same effect steadies a rolling coin, a thrown football's spiral, and the wheels of a moving bicycle (though a bike's balance also owes a lot to its steering geometry).\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThings get delightfully counterintuitive when you push on a spinning gyroscope. Instead of toppling the way the push points, its axis swings off at a right angle, slowly circling — an effect called precession. It's the reason a leaning top traces lazy circles rather than crashing down. Engineers put this stubbornness to work: a gyroscope's axis stays fixed in space, providing a reference that lets aircraft, ships, spacecraft, and the tiny sensors in your phone detect exactly how they've turned. Wikipedia explains the angular-momentum mechanics and the many devices built on it.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gyroscope",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "rotational-motion"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_421603",
+      "slug": "angular-momentum",
+      "type": "concept",
+      "title": "Angular Momentum: Why a Skater Speeds Up",
+      "hook": "A spinning figure skater pulls her arms in and whirls faster — without pushing off anything. That's angular momentum being conserved.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8f74bc",
+      "slug": "torque",
+      "type": "concept",
+      "title": "Torque: The Twist That Makes Things Turn",
+      "hook": "Why is a long wrench easier than a short one? Torque is rotational force — it grows with how far from the pivot you push, not just how hard.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_421603",
+      "slug": "angular-momentum",
+      "type": "concept",
+      "title": "Angular Momentum: Why a Skater Speeds Up",
+      "hook": "A spinning figure skater pulls her arms in and whirls faster — without pushing off anything. That's angular momentum being conserved.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_eac18f#0",
+      "format": "flip",
+      "prompt": "Why does a fast-spinning top resist falling over?",
+      "back_html": "\u003cp\u003eIts spin gives it \u003cstrong\u003eangular momentum\u003c/strong\u003e, which resists any change to the\ndirection of its axis — so the axis holds steady instead of tipping.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eac18f#1",
+      "format": "quiz",
+      "prompt": "What does a spinning gyroscope do when you push sideways on its axis?",
+      "choices": [
+        {
+          "text": "Its axis slowly swings at right angles to the push (precession)",
+          "correct": true
+        },
+        {
+          "text": "It immediately topples in the direction of the push",
+          "correct": false
+        },
+        {
+          "text": "It speeds up its spin",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAngular momentum makes a gyroscope respond to a twist at 90° to where you'd\nexpect — the axis precesses rather than falling, which is why tops circle.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eac18f#2",
+      "format": "quiz",
+      "prompt": "How do gyroscopes help navigate planes, ships, and phones?",
+      "choices": [
+        {
+          "text": "A spinning element holds its orientation, giving a stable reference direction",
+          "correct": true
+        },
+        {
+          "text": "They generate electricity to power the navigation screen",
+          "correct": false
+        },
+        {
+          "text": "They attract the device toward magnetic north",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause its axis resists turning, a gyroscope provides a fixed reference,\nletting instruments sense how the vehicle has rotated.\u003c/p\u003e"
+    }
+  ]
+}

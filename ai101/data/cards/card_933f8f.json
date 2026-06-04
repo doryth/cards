@@ -1,0 +1,95 @@
+{
+  "id": "card_933f8f",
+  "slug": "gm-factory-robots",
+  "type": "news",
+  "title": "GM's Robots and the 'Dark Factory'",
+  "hook": "GM put robots into its flagship EV plant just after laying off 1,300 workers — and the autoworkers' union is warning of a 'dark factory' future where the lights stay off because nobody's there.",
+  "key_points": [
+    "GM installed robots at a flagship EV factory after laying off about 1,300 workers, Ars Technica reports.",
+    "The US autoworkers' union is warning about accelerating robot automation on the factory floor.",
+    "A 'dark factory' is one so automated it can run with the lights off — few or no humans on site.",
+    "It's a concrete case of AI-driven automation reshaping manufacturing jobs, not a hypothetical.",
+    "The hard questions are pace and fairness: who's retrained, who's let go, and how fast."
+  ],
+  "content_html": "\u003cp\u003eThe debate over AI and jobs often stays abstract until a real factory makes it concrete. Ars Technica reports that General Motors installed robots at a flagship EV factory after laying off around 1,300 workers there — and the US autoworkers' union is sounding the alarm about where automation is headed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe phrase the union uses is \u0026quot;dark factory\u0026quot; — a plant so automated it could run in the dark, because there are few or no people on the floor who need the lights on. Whether any single factory gets there soon is less important than the direction: physical, repetitive manufacturing work is among the easiest to automate, and the economics push hard that way. For workers, the sharpest issues aren't really about the robots themselves but about pace and fairness — how quickly jobs are cut, whether people are retrained or simply let go, and who captures the savings. It's a useful real-world anchor for a bigger truth about AI and employment: the technology rarely replaces a whole job overnight, but it can quietly hollow out the routine parts until far fewer people are needed.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers",
+    "published_at": "2026-06-22",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "robots",
+    "ai-and-jobs",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-25",
+  "date": "2026-06-22",
+  "related": [
+    {
+      "id": "card_66e39d",
+      "slug": "robots-and-self-driving",
+      "type": "concept",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b4f14c",
+      "slug": "ai-and-jobs",
+      "type": "concept",
+      "title": "AI \u0026 Jobs",
+      "hook": "AI is less likely to take your whole job than to take certain tasks within it. The pattern through history: tools reshape work faster than they erase it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_933f8f#0",
+      "format": "flip",
+      "prompt": "What is a 'dark factory'?",
+      "back_html": "\u003cp\u003eA factory so automated it can run with the lights off — with few or no humans\nneeded on the floor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_933f8f#1",
+      "format": "quiz",
+      "prompt": "What's the sharpest worry in GM's robots-after-layoffs story?",
+      "choices": [
+        {
+          "text": "The pace and fairness of automation — who's retrained vs. simply let go",
+          "correct": true
+        },
+        {
+          "text": "That robots can't do any factory work at all",
+          "correct": false
+        },
+        {
+          "text": "That the factory uses too much electricity for its lights",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe robots themselves aren't the core issue; it's how fast jobs are cut, whether\npeople are retrained, and who captures the savings.\u003c/p\u003e"
+    },
+    {
+      "id": "card_933f8f#2",
+      "format": "flip",
+      "prompt": "Why is manufacturing especially exposed to automation?",
+      "back_html": "\u003cp\u003eMuch factory work is physical and repetitive — the kind of task that's easiest and\nmost economical to hand off to robots.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "card_804dae",
+  "slug": "short-history-of-ai",
+  "type": "concept",
+  "title": "A Short History of AI",
+  "hook": "AI isn't new — it's a 70-year-old idea that kept overpromising and stalling. What changed recently wasn't a new dream but enough data and computing power to finally deliver.",
+  "key_points": [
+    "The field was born in the 1950s with big hopes and repeated 'AI winters' of disappointment.",
+    "Early AI used hand-written rules; it was brittle and hard to scale.",
+    "The 2010s shift to learning from data — plus more compute — drove today's leap.",
+    "The 2022 arrival of ChatGPT put generative AI in everyday hands."
+  ],
+  "content_html": "\u003cp\u003eIt's easy to think AI appeared in 2022, but the idea goes back to the 1950s, when researchers first asked whether a machine could think. For decades the field swung between hype and letdown — bursts of excitement followed by \u0026quot;AI winters\u0026quot; when the technology couldn't live up to the promises and funding dried up. The early approach was to hand-code rules for everything, which turned out to be impossibly brittle: the real world has too many exceptions to write down.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe turning point was a change in strategy. Instead of programming rules, researchers let systems \u003cstrong\u003elearn patterns from data\u003c/strong\u003e — and crucially, the 2010s finally offered the two things that approach needs: mountains of digital data and powerful chips to crunch it. Suddenly AI could recognize images, understand speech, and translate languages at a useful level. That momentum led to the large language models behind modern chatbots, and when ChatGPT launched in late 2022 it put the technology directly in the public's hands. The lesson of the history: the recent leap came less from a brand-new idea than from finally having the scale to make an old one work.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — History of artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "ai-history"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_804dae#0",
+      "format": "quiz",
+      "prompt": "What mainly drove the recent leap in AI?",
+      "choices": [
+        {
+          "text": "Lots of data plus powerful computing finally made learning-from-data work",
+          "correct": true
+        },
+        {
+          "text": "A brand-new idea no one had thought of before",
+          "correct": false
+        },
+        {
+          "text": "Faster home internet connections",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe core idea — learn from data — was decades old. The 2010s leap came from\nfinally having enough data and compute to make it work at scale.\u003c/p\u003e"
+    },
+    {
+      "id": "card_804dae#1",
+      "format": "flip",
+      "prompt": "What were the 'AI winters'?",
+      "back_html": "\u003cp\u003ePeriods when AI failed to live up to its hype — excitement faded and\nresearch funding dried up.\u003c/p\u003e"
+    }
+  ]
+}

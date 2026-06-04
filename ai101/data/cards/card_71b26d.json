@@ -1,0 +1,88 @@
+{
+  "id": "card_71b26d",
+  "slug": "deepmind-multi-agent-risk",
+  "type": "news",
+  "title": "What If Millions of AI Agents Start Talking to Each Other?",
+  "hook": "Google DeepMind is funding research into a problem barely here yet: not one AI agent misbehaving, but millions of them interacting online with no human watching.",
+  "key_points": [
+    "Google DeepMind is funding research into the dangers of many AI agents interacting at scale.",
+    "The concern is agents acting without human oversight — and taking orders from other agents.",
+    "Most safety work studies one model; this looks at the system that emerges from many.",
+    "It's an early sign that 'agents everywhere' could create risks no single agent shows."
+  ],
+  "content_html": "\u003cp\u003eWe're used to thinking about AI risk one model at a time: will this chatbot lie, will this agent click the wrong button? Google DeepMind is now funding research into a different question — what happens when \u003cem\u003emillions\u003c/em\u003e of AI agents are loose on the internet at once, interacting with each other? MIT Technology Review reported that Rohin Shah, who directs DeepMind's AGI safety and alignment research, is worried about the mass-market arrival of agents that carry out tasks without human oversight and even follow instructions handed to them by other agents.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe shift here is from the individual to the system. A single agent doing your shopping is fairly easy to reason about. But once agents are negotiating, hiring, and instructing one another at scale — buying from each other, reacting to each other, passing tasks down a chain — the overall behavior can become unpredictable in ways no single agent would suggest, a bit like how a crowd or a market can do things no one person intended. That's a hard problem to study because it barely exists yet, which is exactly why a major lab is putting money into it now, before agents are everywhere. It's a useful reminder that as AI moves from answering questions to \u003cem\u003etaking actions\u003c/em\u003e, the interesting risks aren't only about what one machine does — they're about what a whole ecosystem of them does together.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Will Douglas Heaven"
+    ],
+    "url": "https://technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact",
+    "published_at": "2026-06-11",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-agents",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-15",
+  "date": "2026-06-11",
+  "related": [
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6e744d",
+      "slug": "meta-ai-agent-hijacked",
+      "type": "news",
+      "title": "Hackers Talked Meta's AI Into Handing Over Accounts",
+      "hook": "Attackers stole Instagram accounts not by cracking passwords, but by asking Meta's support AI to relink them — proof that an AI agent with real permissions can be talked into real harm.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_71b26d#0",
+      "format": "quiz",
+      "prompt": "What new kind of risk is DeepMind funding research into?",
+      "choices": [
+        {
+          "text": "What happens when millions of AI agents interact with each other, without human oversight",
+          "correct": true
+        },
+        {
+          "text": "Whether a single chatbot can answer trivia correctly",
+          "correct": false
+        },
+        {
+          "text": "How to make agents reply faster",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe focus isn't one misbehaving model — it's the system-level behavior that\nemerges when huge numbers of autonomous agents act and instruct each other online.\u003c/p\u003e"
+    },
+    {
+      "id": "card_71b26d#1",
+      "format": "flip",
+      "prompt": "Why might 'millions of agents' be riskier than one agent?",
+      "back_html": "\u003cp\u003eAgents acting without oversight and following each other's instructions can\nproduce surprising, hard-to-predict group behavior — risks no single agent reveals.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "card_2512e3",
+  "slug": "first-directional-dark-matter-limits",
+  "type": "paper",
+  "title": "A Dark Matter Detector That Asks Which Way the Hit Came From",
+  "hook": "Neutrons and dark matter can leave identical-looking recoils. MIMAC's answer: reconstruct the direction of each recoil and check whether it points where dark matter should come from.",
+  "key_points": [
+    "Earth ploughs through the galaxy's dark matter halo toward the constellation Cygnus, so WIMP recoils should show a directional excess from that patch of sky.",
+    "Backgrounds like neutrons produce recoils that look the same in energy but have no such preferred direction — so direction is a background-killing signature.",
+    "MIMAC uses a low-pressure gas time-projection chamber (isobutane plus 50% CHF3 at 30 mbar) to reconstruct the 3D track of each nuclear recoil.",
+    "The detector ran at the Modane Underground Laboratory with no shielding, across two chambers with effective exposures of 495 and 354 days.",
+    "Tracks were projected onto a galactic map and compared between the signal direction and multiple off-source regions, estimating background from the data itself.",
+    "No significant excess toward Cygnus was found, yielding a first directional upper limit on the spin-dependent WIMP-proton cross section."
+  ],
+  "content_html": "\u003cp\u003eEvery dark matter detector faces the same problem: a hypothetical WIMP knocking into a nucleus and a stray neutron knocking into a nucleus produce recoils that look the same. The MIMAC experiment attacks this by measuring something backgrounds cannot fake — which direction the recoil went.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe idea rests on a piece of galactic geometry. The Solar System moves through the Milky Way's dark matter halo in the direction of the constellation Cygnus, so from Earth's point of view there should be a \u0026quot;wind\u0026quot; of dark matter from that patch of sky, and recoils should preferentially point away from it. Neutrons and other backgrounds have no such preference. Reading the direction requires seeing the recoiling nucleus's track, which is why MIMAC runs as a time-projection chamber filled with gas at very low pressure — isobutane mixed with 50% CHF3 at 30 mbar — so a recoil travels far enough to leave a reconstructable 3D track in its six-litre active volume. Operating at the Modane Underground Laboratory without shielding, the team analysed two independent chambers with effective exposures of 495 and 354 days. Rather than model the background, they measured it: project every track onto a galactic map, apply an energy cut that shifts with the assumed WIMP mass, and compare the rate in the Cygnus direction against several off-source regions. No excess appeared, which gives the first directional upper limit on the spin-dependent WIMP-proton cross section — modest in reach compared with the giant liquid-xenon detectors, but carrying a discriminating power those experiments cannot match.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Ilias Ourahou",
+      "Daniel Santos",
+      "Olivier Guillaudin",
+      "Jean-Francois Muraz",
+      "Nadine Sauzet",
+      "Charling Tao"
+    ],
+    "url": "https://arxiv.org/abs/2607.23527",
+    "published_at": "2026-07-26",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-10",
+  "date": "2026-07-26",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0f51ff",
+      "slug": "quantum-sensor-hunts-dark-matter",
+      "type": "news",
+      "title": "A Quantum Sensor Built to Catch Dark Matter and Ancient Gravitational Waves",
+      "hook": "Two clouds of ultracold atoms, compared against each other, cancel out noise so well that a signal buried in one measurement reappears — aimed at dark matter and ancient gravitational waves.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_28f014",
+      "slug": "res-nova-archaeological-lead-axions",
+      "type": "paper",
+      "title": "Hunting Solar Axions With Ancient Lead",
+      "hook": "A detector built from archaeological lead was designed to catch supernova neutrinos. It turns out the same crystals are a competitive net for axions streaming out of the Sun.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2512e3#0",
+      "format": "flip",
+      "prompt": "Why is knowing a recoil's direction so valuable in a dark matter search?",
+      "back_html": "\u003cp\u003eBackgrounds such as neutrons make recoils that look identical in energy, but only\ndark matter should show a \u003cstrong\u003epreferred direction\u003c/strong\u003e — toward Cygnus, where Earth is\nheading through the galactic halo.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2512e3#1",
+      "format": "quiz",
+      "prompt": "How did MIMAC estimate its background?",
+      "choices": [
+        {
+          "text": "By comparing the event rate in the signal direction against multiple off-source sky regions in its own data",
+          "correct": true
+        },
+        {
+          "text": "By simulating every possible background source from first principles",
+          "correct": false
+        },
+        {
+          "text": "By running the detector with shielding and subtracting the difference",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt used a standard ON/OFF spatial analysis: project reconstructed tracks onto a\ngalactic map and compare the rate toward the signal direction with several\nOFF-source regions — background measured from the data, not modelled.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2512e3#2",
+      "format": "flip",
+      "prompt": "What was the outcome of the search?",
+      "back_html": "\u003cp\u003eNo significant excess of events toward Cygnus, which sets a first \u003cem\u003edirectional\u003c/em\u003e\nupper limit on the spin-dependent WIMP-proton cross section.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "card_b27c19",
+  "slug": "nvidia-buys-hugging-face",
+  "type": "news",
+  "title": "The Chip Giant Buys the Open-Model Library",
+  "hook": "Nvidia has agreed to buy Hugging Face for $12.93 billion — putting the world's biggest chipmaker in charge of where most open AI models are shared.",
+  "key_points": [
+    "Nvidia has agreed to buy Hugging Face for $12.93 billion, first reported in August 2026 and confirmed in September.",
+    "Hugging Face was founded in 2016 as a place for developers to share AI projects and data.",
+    "Hugging Face is the main public repository where open AI models, datasets, and demos are shared.",
+    "Nvidia already dominates the chips models are trained and run on; this adds the distribution layer.",
+    "The framing across reports: Nvidia is buying critical infrastructure for open models as interest in them grows.",
+    "Open models are a counterweight to closed ones — who hosts them is a question about who controls AI."
+  ],
+  "content_html": "\u003cp\u003eNvidia has agreed to buy Hugging Face, the repository where most open AI models are published, for $12.93 billion. Ars Technica broke the report on August 27, 2026; The Verge reported the agreed deal on September 3, 2026. Both framed it as Nvidia grabbing critical infrastructure for open models just as interest in them grows.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo things make this bigger than a normal tech acquisition. First, Hugging Face isn't a product so much as a commons: when a lab releases a model anyone can download and run, this is usually where it lands, alongside the datasets and demo apps around it. Second, Nvidia already sits at the other chokepoint — its chips are what nearly everyone trains and runs models on. Owning both the hardware and the distribution shelf is an unusual amount of the stack in one place.\u003c/p\u003e\n\u003cp\u003eOpen models matter to ordinary users mostly as leverage. They're the reason a company can't set any price it likes for AI, and the reason researchers can inspect how these systems behave instead of taking a vendor's word for it. None of that necessarily changes with new ownership — but whether it does is exactly the sort of question the \u0026quot;who controls AI\u0026quot; lens is for. Hugging Face has been an independent platform since 2016; this is the first time it sits inside a hardware company.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Samuel Axon"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion",
+    "published_at": "2026-08-27",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "open-source"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-31",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d3e1b8",
+      "slug": "china-open-model-gap",
+      "type": "news",
+      "title": "China's Free-to-Download Models Are Closing the Gap",
+      "hook": "A Chinese lab's openly downloadable model reportedly rivals the top US models at some security tasks — a sign the distance between open AI and the frontier is shrinking fast.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "card_c143fe",
+      "slug": "why-china-gives-away-models",
+      "type": "news",
+      "title": "Why China Gives Away Its Best AI Models",
+      "hook": "Moonshot's Kimi K3 reportedly matches top US systems at a fraction of the cost — and you can just download it. Giving the model away isn't charity; it's strategy.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-27"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b27c19#0",
+      "format": "flip",
+      "prompt": "What is Hugging Face, in plain terms?",
+      "back_html": "\u003cp\u003eThe main public library for open AI models — a place where anyone can publish\nor download models, datasets, and demos rather than renting a closed service.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b27c19#1",
+      "format": "quiz",
+      "prompt": "Why would a chipmaker want a model repository?",
+      "choices": [
+        {
+          "text": "It already controls the hardware layer; this adds the place models are distributed from",
+          "correct": true
+        },
+        {
+          "text": "Repositories are where AI models are actually trained",
+          "correct": false
+        },
+        {
+          "text": "It needs the repository's chips for its own data centers",
+          "correct": false
+        },
+        {
+          "text": "Owning it makes the models legally Nvidia's property",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe reported logic is control of infrastructure: Nvidia dominates the chips\nmodels run on, and the repository is how open models reach people.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b27c19#2",
+      "format": "flip",
+      "prompt": "Why does ownership of an open-model hub matter even if the models stay free?",
+      "back_html": "\u003cp\u003eOpen models are the counterweight to a few closed labs. If one company owns the\nhosting, hiring, and defaults, it gets quiet influence over that counterweight.\u003c/p\u003e"
+    }
+  ]
+}

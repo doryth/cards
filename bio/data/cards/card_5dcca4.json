@@ -1,0 +1,99 @@
+{
+  "id": "card_5dcca4",
+  "slug": "fermentation",
+  "type": "concept",
+  "title": "Fermentation: Energy Without Oxygen",
+  "hook": "When oxygen runs short, cells switch to fermentation — a quick, low-yield way to keep making energy that gives us bread, beer, and burning muscles.",
+  "key_points": [
+    "Fermentation extracts energy from sugar without using oxygen.",
+    "It lets the early energy-harvesting step, glycolysis, keep running when oxygen is scarce.",
+    "Yeast ferment sugar into alcohol and carbon dioxide, the basis of bread and brewing.",
+    "Hard-working muscles ferment to lactic acid, which builds up when you push them too far."
+  ],
+  "content_html": "\u003cp\u003eCells prefer oxygen — burning sugar with it releases the most energy. But oxygen is not always available, and when it runs short, life has a backup plan: fermentation. It is faster to start and needs no oxygen, though it squeezes out only a fraction of the energy. You meet its results every day, in the rise of bread dough and the ache of overworked muscles.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Encyclopaedia Britannica describes, fermentation's real job is to keep \u003cstrong\u003eglycolysis\u003c/strong\u003e — the first, oxygen-free step of breaking down sugar — running when full respiration stalls. Different organisms ferment in different ways. \u003cstrong\u003eYeast\u003c/strong\u003e perform alcoholic fermentation, converting sugar into ethanol and carbon dioxide, which is why the same process leavens bread and brews beer. Your \u003cstrong\u003emuscle cells\u003c/strong\u003e instead carry out lactic acid fermentation: during a hard sprint, when your lungs cannot deliver oxygen fast enough, muscles ferment glucose into lactic acid to keep going, and its accumulation is tied to that familiar burning fatigue. In both cases fermentation is a stopgap — less efficient than respiration, but enough to keep the energy flowing when oxygen cannot.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/fermentation",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "energy-in-life"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_e553ec",
+      "slug": "cellular-respiration",
+      "type": "concept",
+      "title": "Cellular Respiration",
+      "hook": "Every cell in your body slowly 'burns' sugar with oxygen to release energy — the same chemistry as photosynthesis, run in reverse.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_32c407",
+      "slug": "atp-energy-currency",
+      "type": "concept",
+      "title": "ATP: The Cell's Energy Currency",
+      "hook": "Cells don't store usable energy as sugar or fat alone — they spend it through ATP, a tiny rechargeable molecule that powers almost everything they do.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5dcca4#0",
+      "format": "flip",
+      "prompt": "What is fermentation, and when do cells rely on it?",
+      "back_html": "\u003cp\u003eFermentation is a way to extract energy from sugar \u003cstrong\u003ewithout oxygen\u003c/strong\u003e. Cells fall\nback on it when oxygen is scarce — it yields far less energy than full\nrespiration, but it keeps energy production going.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5dcca4#1",
+      "format": "quiz",
+      "prompt": "What do yeast produce when they ferment sugar?",
+      "choices": [
+        {
+          "text": "Alcohol and carbon dioxide",
+          "correct": true
+        },
+        {
+          "text": "Pure oxygen and water",
+          "correct": false
+        },
+        {
+          "text": "Protein and salt",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYeast carry out \u003cstrong\u003ealcoholic fermentation\u003c/strong\u003e, turning sugar into \u003cstrong\u003ealcohol and\ncarbon dioxide\u003c/strong\u003e. The alcohol makes beer and wine; the carbon dioxide makes bread\nrise.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5dcca4#2",
+      "format": "quiz",
+      "prompt": "What does fermentation produce in your muscle cells during hard exercise?",
+      "choices": [
+        {
+          "text": "Lactic acid",
+          "correct": true
+        },
+        {
+          "text": "Alcohol, just like yeast",
+          "correct": false
+        },
+        {
+          "text": "Extra oxygen",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen muscles outpace their oxygen supply, they ferment sugar into \u003cstrong\u003elactic\nacid\u003c/strong\u003e. Its buildup is associated with the fatigue and burn of intense effort.\u003c/p\u003e"
+    }
+  ]
+}

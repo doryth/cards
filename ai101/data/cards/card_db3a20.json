@@ -1,0 +1,118 @@
+{
+  "id": "card_db3a20",
+  "slug": "texas-pauses-data-center-grid",
+  "type": "news",
+  "title": "Texas Hits Pause on Plugging In New AI Data Centers",
+  "hook": "The state that marketed itself as the AI 'epicenter' has stopped connecting new data centers to its power grid — because the demand they bring is more than the grid can absorb.",
+  "key_points": [
+    "Ars Technica reports Texas halted new data center connections to its power grid.",
+    "The reason given is overwhelming demand from planned AI facilities.",
+    "The same governor had promoted Texas as an AI 'epicenter.'",
+    "A large AI data center can draw as much power as a small city, continuously.",
+    "Power, not chips, is becoming the binding constraint on AI growth."
+  ],
+  "content_html": "\u003cp\u003eTexas has stopped hooking new data centers up to its electricity grid because the demand they represent is more than the system can currently take, Ars Technica reports — a striking reversal for a state whose governor had promoted it as the AI \u0026quot;epicenter.\u0026quot;\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe whole AI boom rests on physical infrastructure that is far less flexible than software. A single large AI data center can pull as much electricity as a small city, and unlike a factory it runs flat out around the clock. Chips can be ordered and delivered in months; new generation capacity and transmission lines take years, need permits, and run through communities that increasingly object. So a queue forms, and eventually somebody has to say \u0026quot;not yet\u0026quot; — which is what happened here. It's worth noticing what this changes about how to read AI announcements. When a company reveals a giant new model or cluster, the practical question is no longer just whether they can buy the chips, but whether there is anywhere left to plug them in. Power, water, and local consent are turning into the real ceiling, and they're also the part of the boom that ordinary utility customers end up sharing.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand",
+    "published_at": "2026-08-04",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-energy",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-04",
+  "related": [
+    {
+      "id": "card_199fae",
+      "slug": "data-center-backlash",
+      "type": "news",
+      "title": "Communities Are Pushing Back on AI Data Centers",
+      "hook": "The warehouses that power AI need land, power, and water — and neighbors are starting to say no. New York just signed the nation's first statewide data center ban into law.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_969523",
+      "slug": "ai-energy-and-water",
+      "type": "concept",
+      "title": "AI's Energy \u0026 Water",
+      "hook": "Every chatbot reply runs in a warehouse of power-hungry computers somewhere. AI's convenience has a real physical footprint — in electricity, water for cooling, and carbon.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_322edb",
+      "slug": "ai-energy-squeezes-manufacturing",
+      "type": "news",
+      "title": "AI's Power Demand Is Squeezing an Unrelated Goal: Reshoring Factories",
+      "hook": "AI data centers weren't the target of Rust Belt manufacturing policy — but their appetite for electricity is driving up power bills for the very factories that policy is trying to bring back.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_db3a20#0",
+      "format": "quiz",
+      "prompt": "Why would a state that actively courted AI investment stop connecting data centers to its grid?",
+      "choices": [
+        {
+          "text": "The requested electricity demand outpaced what the grid can currently supply",
+          "correct": true
+        },
+        {
+          "text": "Data centers turned out to use almost no electricity",
+          "correct": false
+        },
+        {
+          "text": "AI companies stopped wanting to build there",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eArs Technica frames it as overwhelming demand: attracting the facilities was easier\nthan building the generation and transmission to feed them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_db3a20#1",
+      "format": "flip",
+      "prompt": "What is becoming the real limit on how fast AI can scale?",
+      "back_html": "\u003cp\u003eElectricity and grid capacity. Chips can be bought and shipped; power plants and\ntransmission lines take years, and communities get a say.\u003c/p\u003e"
+    },
+    {
+      "id": "card_db3a20#2",
+      "format": "quiz",
+      "prompt": "Why does this story matter to an ordinary electricity customer?",
+      "choices": [
+        {
+          "text": "New industrial demand competes for the same grid that serves homes",
+          "correct": true
+        },
+        {
+          "text": "It means household electricity will be free",
+          "correct": false
+        },
+        {
+          "text": "Data centers are connected to a separate, private grid",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eData centers draw from shared infrastructure, so their demand shows up in queue\ntimes, buildout costs, and ultimately rates and reliability for everyone on it.\u003c/p\u003e"
+    }
+  ]
+}

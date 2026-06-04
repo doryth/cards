@@ -1,0 +1,90 @@
+{
+  "id": "card_065911",
+  "slug": "poisson-spot-optical-skyrmions",
+  "type": "news",
+  "title": "A 200-Year-Old Shadow Trick Makes Tiny Swirls of Light",
+  "hook": "Physicists used the Poisson spot — the bright dot that proved light is a wave two centuries ago — to create swirling light patterns called optical skyrmions, no exotic materials required.",
+  "key_points": [
+    "The Poisson spot is a bright point at the center of a shadow, caused by light waves diffracting around a circular disc.",
+    "Nanyang Technological University researchers shone a laser at a small disc and got four kinds of optical skyrmions at once, all from that one simple setup.",
+    "Optical skyrmions are stable, hedgehog-like swirling patterns in a light beam's properties — no expensive engineered materials needed to make them.",
+    "The team suggests this simpler route could help develop denser optical data storage and next-generation photonic computing."
+  ],
+  "content_html": "\u003cp\u003eShine coherent light at a small circular disc and something odd happens: instead of a plain shadow, a bright dot appears right at its center. This is the Poisson spot, and when it was predicted in the 1800s it became one of the clinching pieces of evidence that light travels as a wave — the dot exists only because light waves diffract around the disc's edge and reconstructively interfere in the middle.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo centuries later, physicists led by Assistant Professor Shen Yijie at Nanyang Technological University in Singapore found the same simple setup produces something modern: optical skyrmions, stable swirling patterns in a beam's spin, polarization, and field directions, shaped like a tiny hedgehog's spines. Their laser-and-disc setup produced four distinct types of skyrmion simultaneously, all without the costly, precisely engineered metamaterials researchers usually need. Because these swirling structures can encode information in their geometry, the team believes the discovery could open a cheaper path toward denser optical data storage and next-generation photonic communication and computing hardware.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260713000755.htm",
+    "published_at": "2026-07-13",
+    "license": "© ScienceDaily"
+  },
+  "topic_ids": [
+    "light-optics",
+    "materials-tech"
+  ],
+  "tags": [
+    "efficiency",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-13",
+  "related": [
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_65937b",
+      "slug": "how-lasers-work",
+      "type": "concept",
+      "title": "How Lasers Work",
+      "hook": "A flashlight sprays a jumble of colors every which way. A laser does the opposite: one pure color, marching in perfect step, in a beam so tight it can reach the Moon.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_065911#0",
+      "format": "flip",
+      "prompt": "What is the Poisson spot, and what did it historically prove about light?",
+      "back_html": "\u003cp\u003eA bright point at the center of the shadow cast by a circular object under coherent\nlight. It's classic evidence that light behaves as a \u003cstrong\u003ewave\u003c/strong\u003e, since only wave\ndiffraction around the disc's edge can fill in that central bright spot.\u003c/p\u003e"
+    },
+    {
+      "id": "card_065911#1",
+      "format": "quiz",
+      "prompt": "How did the Nanyang Technological University team create optical skyrmions?",
+      "choices": [
+        {
+          "text": "By shining a laser at a small circular disc and using the resulting Poisson spot",
+          "correct": true
+        },
+        {
+          "text": "By growing a new exotic engineered material in a cleanroom",
+          "correct": false
+        },
+        {
+          "text": "By cooling a laser beam to near absolute zero",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInstead of expensive engineered materials, they got swirling optical skyrmions from\nan ordinary laser and disc — the same setup behind the 200-year-old Poisson spot.\u003c/p\u003e"
+    },
+    {
+      "id": "card_065911#2",
+      "format": "flip",
+      "prompt": "Why does a simpler way to make optical skyrmions matter?",
+      "back_html": "\u003cp\u003eIt could make these stable, information-encoding light patterns much easier to\nstudy and control — useful for future data storage and photonic computing.\u003c/p\u003e"
+    }
+  ]
+}

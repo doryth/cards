@@ -1,0 +1,102 @@
+{
+  "id": "card_e6e4f5",
+  "slug": "common-rashes",
+  "type": "concept",
+  "title": "Common Rashes in Babies and Kids",
+  "hook": "Most childhood rashes — diaper rash, eczema, heat rash, hand-foot-and-mouth — are common and harmless. There's one big exception worth memorizing: a rash that doesn't fade when you press it.",
+  "key_points": [
+    "Diaper rash is usually skin irritation from wetness; keep the area clean, dry, and air it out.",
+    "Eczema brings dry, itchy patches — moisturize often and avoid harsh soaps and triggers.",
+    "Heat rash (tiny bumps) and hand-foot-and-mouth (blisters, mouth sores) are common and usually mild.",
+    "Red flag: a rash that does NOT fade when pressed (the glass test) is an emergency — call 911/999."
+  ],
+  "content_html": "\u003cp\u003eRashes are a normal part of babyhood, and the vast majority are harmless. Diaper rash is the classic one — usually irritant contact dermatitis, the skin reacting to contact with urine, stool, and a wet diaper rubbing against it. The American Academy of Pediatrics' main fixes are simple: change diapers promptly, keep the area clean and dry, give it some air, and use a barrier cream; a rash that lingers or looks different may be a yeast infection your doctor can treat.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eOther everyday rashes are similarly manageable: eczema shows up as dry, itchy patches and responds to frequent moisturizing and avoiding harsh soaps; heat rash is tiny bumps from being too warm; and hand-foot-and-mouth disease brings blisters and mouth sores but usually clears on its own. The one exception to memorize is the non-blanching rash: press a clear glass firmly against the spots, and if they do NOT fade — looking like small bruises or bleeding under the skin — treat it as an emergency and call 911 (or 999), because it can signal meningitis or sepsis. When a rash comes with high fever, a stiff neck, or a very unwell child, seek care right away. This is general guidance, not a substitute for your clinician.\u003c/p\u003e",
+  "source": {
+    "name": "HealthyChildren.org (AAP)",
+    "url": "https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Diaper-Rash.aspx",
+    "license": "© American Academy of Pediatrics"
+  },
+  "topic_ids": [
+    "illness-care",
+    "health-safety"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a0edf4",
+      "slug": "when-to-call-the-doctor",
+      "type": "concept",
+      "title": "When to Call the Doctor — Red Flags",
+      "hook": "Most childhood illnesses are mild, but a handful of signs mean don't wait and watch — get medical help right away. Knowing them takes the guesswork out of a scary moment.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e39a66",
+      "slug": "teething",
+      "type": "concept",
+      "title": "Teething: Signs and Safe Soothing",
+      "hook": "Teething often starts around 6 months, but the timing varies a lot. Expect drooling, gum-rubbing, and fussiness — not a high fever, which points to something else.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e6e4f5#0",
+      "format": "quiz",
+      "prompt": "What causes most diaper rashes?",
+      "choices": [
+        {
+          "text": "Skin irritation from contact with urine, stool, and a wet diaper",
+          "correct": true
+        },
+        {
+          "text": "A bacterial infection that always needs antibiotics",
+          "correct": false
+        },
+        {
+          "text": "An allergy to breast milk",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMost diaper rash is irritant contact dermatitis — the skin reacting to wetness\nand rubbing. Keeping the area clean, dry, and aired out usually helps it heal.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e6e4f5#1",
+      "format": "flip",
+      "prompt": "What's the 'glass test,' and why does it matter?",
+      "back_html": "\u003cp\u003ePress a clear glass against the rash. If it \u003cstrong\u003efades\u003c/strong\u003e, it's likely harmless. If\nit \u003cstrong\u003edoes NOT fade\u003c/strong\u003e (looks like bruises/bleeding under the skin), it's an emergency — call 911/999.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e6e4f5#2",
+      "format": "quiz",
+      "prompt": "Which rash is the urgent exception that needs immediate care?",
+      "choices": [
+        {
+          "text": "A rash that doesn't blanch (fade) when you press on it",
+          "correct": true
+        },
+        {
+          "text": "Diaper rash that improves with diaper changes",
+          "correct": false
+        },
+        {
+          "text": "A few tiny heat-rash bumps on a warm day",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA non-blanching rash can signal a serious infection like meningitis or sepsis.\nIt needs immediate medical attention, even if the child otherwise seems okay.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "card_095eee",
+  "slug": "radiative-heat-at-the-nanoscale",
+  "type": "news",
+  "title": "Heat Radiation Breaks Its Own Speed Limit",
+  "hook": "Textbooks cap how much heat two surfaces can radiate at each other. Squeeze the gap to a few nanometers and that limit shatters — researchers saw up to 4x more heat flow.",
+  "key_points": [
+    "All warm objects radiate heat; a classic limit caps how much two surfaces can exchange.",
+    "That limit assumes a gap far wider than the wavelengths of the heat radiation.",
+    "Across nanometer gaps, near-field effects let far more energy cross than the limit allows.",
+    "Gold metamaterials boosted the heat flow to about four times conventional systems.",
+    "Better chip cooling and more efficient heat-to-energy devices could follow."
+  ],
+  "content_html": "\u003cp\u003eEvery warm object glows with heat radiation — that's how a fire warms your face across a room, and how the Sun warms the Earth across empty space. Physics textbooks set a ceiling on how much heat two surfaces can radiate at each other, a limit tied to their temperatures. But that ceiling comes with fine print: it assumes the surfaces are far apart compared to the wavelengths of the radiation involved.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eShrink the gap to just a few nanometers and the fine print takes over. At those distances, \u0026quot;near-field\u0026quot; effects open up extra pathways for energy to leap across, and the textbook ceiling no longer holds. Researchers used gold metamaterials — surfaces engineered at the nanoscale — to exploit this, pushing heat flow across tiny gaps to roughly four times what comparable conventional systems manage. The appeal is intensely practical: today's processors pack so much power into so little space that getting heat \u003cem\u003eout\u003c/em\u003e is a central engineering problem. Channeling more heat across tiny gaps points toward better chip cooling, more efficient devices that turn heat into useful energy, and a new kind of precision heat engineering.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260606075511.htm",
+    "published_at": "2026-06-08",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "heat-thermo",
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-11",
+  "date": "2026-06-08",
+  "related": [
+    {
+      "id": "card_52d8f2",
+      "slug": "heat-transfer",
+      "type": "concept",
+      "title": "Three Ways Heat Moves",
+      "hook": "Heat travels three ways: conduction through contact, convection by circulating fluid, and radiation across empty space. Most warming you feel mixes all three.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b123c0",
+      "slug": "semiconductors-and-transistors",
+      "type": "concept",
+      "title": "Semiconductors and the Transistor",
+      "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_52d8f2",
+      "slug": "heat-transfer",
+      "type": "concept",
+      "title": "Three Ways Heat Moves",
+      "hook": "Heat travels three ways: conduction through contact, convection by circulating fluid, and radiation across empty space. Most warming you feel mixes all three.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_095eee#0",
+      "format": "flip",
+      "prompt": "Why does the classic limit on radiative heat transfer stop applying at the nanoscale?",
+      "back_html": "\u003cp\u003eThe classic limit assumes the gap between surfaces is much wider than the radiation's wavelength.\nAcross \u003cstrong\u003enanometer-scale gaps\u003c/strong\u003e, near-field effects let far more heat cross than that limit allows.\u003c/p\u003e"
+    },
+    {
+      "id": "card_095eee#1",
+      "format": "quiz",
+      "prompt": "What happens to radiative heat transfer when two surfaces are brought to within nanometers of each other?",
+      "choices": [
+        {
+          "text": "Far more heat can flow across than the classic blackbody limit predicts",
+          "correct": true
+        },
+        {
+          "text": "Heat transfer stops entirely because the gap is too small",
+          "correct": false
+        },
+        {
+          "text": "The surfaces can only exchange heat by direct contact",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAt nanometer separations, near-field effects open extra channels for energy to cross, pushing\nheat flow well beyond the limit that holds for ordinary, wider gaps.\u003c/p\u003e"
+    },
+    {
+      "id": "card_095eee#2",
+      "format": "quiz",
+      "prompt": "What practical payoff did the researchers highlight from supercharged nanoscale heat transfer?",
+      "choices": [
+        {
+          "text": "Better cooling of densely packed computer chips",
+          "correct": true
+        },
+        {
+          "text": "Faster-than-light communication",
+          "correct": false
+        },
+        {
+          "text": "Eliminating the need for any insulation",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMoving heat efficiently across tiny gaps points to better chip cooling and more efficient\nenergy technologies — precision heat engineering at the nanoscale.\u003c/p\u003e"
+    }
+  ]
+}

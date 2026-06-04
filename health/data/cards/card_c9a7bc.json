@@ -1,0 +1,112 @@
+{
+  "id": "card_c9a7bc",
+  "slug": "how-to-read-a-food-recall",
+  "type": "news",
+  "title": "How to Think About a Summer of Food Recalls",
+  "hook": "A record run of recalls doesn't mean food got dramatically more dangerous — it mostly means detection got better. What matters is what's in your fridge right now.",
+  "key_points": [
+    "2026 brought an unusual run of recalls and outbreaks: cyclospora, salmonella, E. coli, and listeria.",
+    "A food microbiologist's framing: more recalls partly reflect better detection, not only more contamination.",
+    "Heat matters — warm weather speeds bacterial growth at every step from field to plate.",
+    "Fresh produce is the hard case: eaten raw, so there's no cooking step to fall back on.",
+    "The practical move is checking recall notices against what you already have at home.",
+    "Everyday basics still carry weight: clean hands, cold storage, separate cutting boards."
+  ],
+  "content_html": "\u003cp\u003eThe summer of 2026 delivered an uncomfortable run of headlines: a record cyclosporiasis outbreak, salmonella traced to imported jalapeños, E. coli in frozen food, listeria in soft cheese. NPR's David Folkenflik put the obvious question to Don Schaffner, a food microbiology specialist at Rutgers: is the food supply getting worse?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSchaffner's framing is more useful than a yes or no. Part of what looks like a surge is better vision — modern surveillance and genetic fingerprinting connect scattered illnesses into a named outbreak that would once have been invisible. Part of it is real: heat accelerates bacterial growth at every step between field and plate, and a growing share of outbreaks trace to fresh produce rather than the meat and eggs people instinctively worry about. Produce is the harder problem precisely because it is eaten raw, with no cooking step to fall back on.\u003c/p\u003e\n\u003cp\u003eFor a household, that argues against category-level fear and for one concrete habit: when a recall lands, check it against what's actually in your fridge and freezer — the brand, the product, the lot code — and throw out or return what matches. The rest is the unglamorous baseline that has always mattered: wash your hands, keep cold food cold, keep raw meat away from things you'll eat raw, and take a persistent gut illness to a clinician rather than waiting it out.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Elena Burnett"
+    ],
+    "url": "https://npr.org/2026/08/21/nx-s1-5940779/how-to-think-about-this-summers-slate-of-food-safety-recalls",
+    "published_at": "2026-08-21",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "family-wellness",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_c1e2da",
+      "slug": "record-summer-foodborne-illness",
+      "type": "news",
+      "title": "A Record Summer for Foodborne Illness",
+      "hook": "Cyclosporiasis cases topped 10,000 and the CDC traced a fresh salmonella outbreak to imported jalapeños. Heat plus tainted produce made 2026 a record year.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-09"
+    },
+    {
+      "id": "card_a0a6ec",
+      "slug": "food-safety-at-home",
+      "type": "concept",
+      "title": "Food Safety at Home",
+      "hook": "Most food poisoning starts in an ordinary kitchen. Four simple habits — clean, separate, cook, chill — prevent the great majority of it.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e017d2",
+      "slug": "cyclosporiasis-outbreak-2026",
+      "type": "news",
+      "title": "A Record Cyclospora Outbreak With an Elusive Source",
+      "hook": "A Cyclospora outbreak has now topped 4,100 cases — a U.S. record — even after the FDA retracted its lone positive lab test, leaving Taylor Farms lettuce as the prime suspect on epidemiology alone.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "card_b74b25",
+      "slug": "handwashing-the-cheapest-medicine",
+      "type": "concept",
+      "title": "Handwashing: The Cheapest Medicine",
+      "hook": "It sounds almost too simple, but washing your hands well is one of the most effective things you can do to stop the spread of illness in a household.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c9a7bc#0",
+      "format": "flip",
+      "prompt": "Why can a spike in recall notices be partly good news?",
+      "back_html": "\u003cp\u003eSome of the increase reflects \u003cstrong\u003ebetter detection\u003c/strong\u003e — surveillance and genetic\nmatching catch outbreaks that would once have gone unnoticed. A recall is the\nsystem working, not only the system failing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c9a7bc#1",
+      "format": "quiz",
+      "prompt": "Why is fresh produce a harder food-safety problem than raw meat?",
+      "choices": [
+        {
+          "text": "It's usually eaten raw, so there's no cooking step to kill pathogens",
+          "correct": true
+        },
+        {
+          "text": "Produce carries more bacteria per gram than meat does",
+          "correct": false
+        },
+        {
+          "text": "Produce isn't covered by any federal safety rules",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith meat, cooking is a reliable kill step. Salad greens and sprouts go straight to\nthe plate, so contamination in the field or during processing survives to the eater.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c9a7bc#2",
+      "format": "flip",
+      "prompt": "What's the single most useful thing to do when a recall is announced?",
+      "back_html": "\u003cp\u003eCheck the notice against \u003cstrong\u003ewhat's already in your kitchen\u003c/strong\u003e — brand, product, and\nlot codes — rather than trying to avoid a whole food category. Then keep up the\nbasics: clean hands, cold storage, separate boards.\u003c/p\u003e"
+    }
+  ]
+}

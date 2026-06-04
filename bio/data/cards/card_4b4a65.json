@@ -1,0 +1,111 @@
+{
+  "id": "card_4b4a65",
+  "slug": "sea-anemone-antiviral-defense",
+  "type": "news",
+  "title": "Sea Anemones Fight Viruses With a Defense Humans Don't Have",
+  "hook": "Sea anemones turn out to have their own antiviral system that works nothing like ours — a sign that evolution found more than one way to fight off viruses.",
+  "key_points": [
+    "Researchers found an antiviral defense system in sea anemones that operates very differently from the mechanisms animal immune systems use.",
+    "It's not a simplified version of a familiar pathway — it's a genuinely different strategy for detecting or blocking viral infection.",
+    "The finding suggests evolution arrived at multiple, independent solutions to the same problem: stopping viruses.",
+    "It challenges long-held assumptions that animal antiviral immunity mostly traces back to one shared ancestral toolkit."
+  ],
+  "content_html": "\u003cp\u003eHumans, and most animals studied so far, lean on a broadly similar toolkit to detect and fight off viruses. Sea anemones just complicated that picture: researchers have uncovered an antiviral defense system in these simple animals that works very differently from the one we use, according to ScienceDaily.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eRather than a stripped-down version of the familiar pathway, the anemone's defense looks like an independently evolved strategy for spotting or blocking viral infection. That matters because it suggests evolution didn't converge on one universal answer to \u0026quot;how do you stop a virus\u0026quot; — it found the problem important enough to solve more than once, along different routes. For a lineage as ancient and simple as sea anemones to carry its own distinct antiviral system hints that the tree of animal immunity may be more of a tangle of independent inventions than a single shared trunk.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260630020534.htm",
+    "published_at": "2026-06-30",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "immune-system",
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-06",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_b56025",
+      "slug": "how-immunity-works",
+      "type": "concept",
+      "title": "How Immunity Works",
+      "hook": "Your body fights invaders on two fronts: a fast, general first response that hits anything foreign, and a slower, custom-built defense that learns and remembers each specific enemy.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8510f0",
+      "slug": "viruses-living-or-not",
+      "type": "concept",
+      "title": "Are Viruses Alive?",
+      "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c0a536",
+      "slug": "convergent-evolution",
+      "type": "concept",
+      "title": "Convergent Evolution",
+      "hook": "Birds, bats, and insects all fly — yet none inherited wings from a shared flying ancestor. Similar problems can push unrelated species toward the same solution.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4b4a65#0",
+      "format": "flip",
+      "prompt": "How does the sea anemone's antiviral system compare to the one humans use?",
+      "back_html": "\u003cp\u003eIt's a \u003cstrong\u003egenuinely different strategy\u003c/strong\u003e, not a simpler version of the human\npathway — sea anemones appear to detect or block viruses in their own way.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4b4a65#1",
+      "format": "quiz",
+      "prompt": "What does this discovery suggest about the evolution of antiviral immunity?",
+      "choices": [
+        {
+          "text": "Evolution produced more than one independent way to fight viruses",
+          "correct": true
+        },
+        {
+          "text": "All animals defend against viruses using exactly the same mechanism",
+          "correct": false
+        },
+        {
+          "text": "Only vertebrates evolved any defense against viruses",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause the sea anemone system looks unrelated to the human one, it points to\nmultiple, independently evolved solutions to the same problem.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4b4a65#2",
+      "format": "quiz",
+      "prompt": "Which assumption does this finding push back on?",
+      "choices": [
+        {
+          "text": "That animal antiviral immunity mostly traces back to one shared ancestral toolkit",
+          "correct": true
+        },
+        {
+          "text": "That viruses can infect only humans",
+          "correct": false
+        },
+        {
+          "text": "That sea anemones have no immune system at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFinding an unrelated antiviral strategy in a simple animal challenges the idea\nthat a single ancestral immune toolkit explains most antiviral defenses.\u003c/p\u003e"
+    }
+  ]
+}

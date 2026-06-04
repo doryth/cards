@@ -1,0 +1,111 @@
+{
+  "id": "card_6240fc",
+  "slug": "defects-boost-condensation-heat-transfer",
+  "type": "news",
+  "title": "Turning Coating Defects Into Better Heat Transfer",
+  "hook": "Condensers waste heat because water films insulate the metal. An ultrathin polymer coating turns its own flaws into droplet nurseries — and moves up to 5.5x more heat than bare copper.",
+  "key_points": [
+    "Condensation moves heat well only if droplets keep leaving and exposing fresh surface.",
+    "A continuous water film is an insulator, so filmwise condensation throttles the heat flow.",
+    "Tiny polymer structures previously dismissed as coating defects act as nucleation sites for droplets.",
+    "The same surface helps droplets detach quickly, restarting the cycle instead of flooding.",
+    "On copper tubes the coating transferred heat up to 5.5x better than plain copper.",
+    "It also beat a standard water-repellent coating by more than 50%."
+  ],
+  "content_html": "\u003cp\u003eEvery power plant, air conditioner, and desalination unit contains a condenser: a cold surface where vapour turns back into liquid and dumps its latent heat. The trick is that condensation is only good at moving heat when the liquid keeps getting out of the way. Let it spread into a continuous film and you have effectively wrapped the metal in an insulating blanket.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers report an ultrathin coating that solves this by rehabilitating its own imperfections. Tiny polymer structures that earlier work treated as defects turn out to be excellent nucleation sites: places where droplets preferentially form rather than a film spreading. Because the surface also lets those droplets detach quickly, fresh bare area is continually re-exposed and the cycle repeats — the dropwise regime engineers have chased for decades.\u003c/p\u003e\n\u003cp\u003eOn copper tubes the coated surface transferred heat up to 5.5 times more effectively than conventional copper, and more than 50% better than a standard water-repelling coating, according to the group's report. That second comparison is the interesting one: it suggests the gain does not come from water-repellency alone, but from controlling where droplets are born as well as how easily they leave.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260823014940.htm",
+    "published_at": "2026-08-23"
+  },
+  "topic_ids": [
+    "heat-thermo",
+    "materials-tech"
+  ],
+  "tags": [
+    "news",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-24",
+  "date": "2026-08-23",
+  "related": [
+    {
+      "id": "card_52d8f2",
+      "slug": "heat-transfer",
+      "type": "concept",
+      "title": "Three Ways Heat Moves",
+      "hook": "Heat travels three ways: conduction through contact, convection by circulating fluid, and radiation across empty space. Most warming you feel mixes all three.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3ad16a",
+      "slug": "states-of-matter",
+      "type": "concept",
+      "title": "States of Matter",
+      "hook": "Solid, liquid, gas, plasma — the difference is how tightly particles are bound. Add heat and matter changes state, but during the change the temperature holds still.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3531cc",
+      "slug": "guiding-heat-like-light",
+      "type": "news",
+      "title": "Steering Heat in Beams, at Room Temperature",
+      "hook": "Heat normally spreads out in every direction. In the right crystal it travels in focused rays instead — and now it does so without extreme cooling.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-07"
+    },
+    {
+      "id": "card_eb9e3e",
+      "slug": "electric-field-boosts-heat-flow",
+      "type": "news",
+      "title": "An Electric Field Trick That Nearly Triples Heat Flow",
+      "hook": "Zap a ceramic crystal with an electric field and heat suddenly flows through it almost three times faster in one direction — a jump far beyond anything researchers expected.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-11"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6240fc#0",
+      "format": "flip",
+      "prompt": "Why does a continuous film of condensed water hurt heat transfer?",
+      "back_html": "\u003cp\u003eWater is a poor conductor compared with metal, so the film acts as an \u003cstrong\u003einsulating blanket\u003c/strong\u003e\nbetween the vapour and the cold surface. Heat has to cross it to get out.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6240fc#1",
+      "format": "quiz",
+      "prompt": "What made the polymer coating's so-called defects useful?",
+      "choices": [
+        {
+          "text": "They gave droplets places to nucleate, and the surface then let those droplets detach quickly",
+          "correct": true
+        },
+        {
+          "text": "They roughened the metal so more vapour could be absorbed into the copper",
+          "correct": false
+        },
+        {
+          "text": "They raised the surface temperature, so condensation happened faster",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe point of dropwise condensation is turnover: nucleate, grow, shed, expose fresh surface.\nThe structures supply nucleation sites and the coating helps droplets leave.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6240fc#2",
+      "format": "flip",
+      "prompt": "What comparison shows the coating is doing more than just repelling water?",
+      "back_html": "\u003cp\u003eIt beat a \u003cstrong\u003estandard water-repellent coating\u003c/strong\u003e by over 50% — so easy shedding alone is not\nthe whole story; the nucleation sites matter too.\u003c/p\u003e"
+    }
+  ]
+}

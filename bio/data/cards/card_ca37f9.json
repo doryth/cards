@@ -1,0 +1,105 @@
+{
+  "id": "card_ca37f9",
+  "slug": "genetics-and-drug-approval",
+  "type": "paper",
+  "title": "Why Drug Hunters Start With Genetics",
+  "hook": "Across 26,000+ drug programs, targets backed by human genetic evidence were about three times likelier to win approval — but genetics alone still can't pick a winner.",
+  "key_points": [
+    "Observational analysis of 26,278 target-disease pairs from the Open Targets and ChEMBL databases.",
+    "Targets with any human genetic link had roughly 3x higher approval odds than those without.",
+    "The edge held for drugs approved after 2015, a check against hindsight bias.",
+    "Counting each gene once (not each pairing) shrank but didn't erase the advantage.",
+    "Caveat: genetics alone is a weak predictor for any single drug; the work is observational."
+  ],
+  "content_html": "\u003cp\u003eMost drugs fail. So one of the most valuable questions in biotech is: before spending a decade and a fortune, can you tell which drug targets are worth chasing? A widely used answer is \u0026quot;follow the genetics\u0026quot; — favor a target when human genetic studies already tie that gene to the disease. A 2026 analysis on arXiv by Victoria Paterson put that rule to a careful test across 26,278 target-disease pairs drawn from the Open Targets and ChEMBL databases.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe headline holds up: targets with any human genetic association were roughly three times more likely to reach approval than those without, and the edge persisted even for drugs approved after 2015 — a sign it predicts, not just explains. But the paper is unusually honest about the limits. Counting each gene only once, rather than every disease pairing separately, shrank the effect — showing how naive counting can inflate it. And while genetics reliably sorts good \u003cem\u003ecategories\u003c/em\u003e of targets, it adds little power to predict whether any single program will succeed; the best model was poorly calibrated. The takeaway is the durable one drug hunters already live by: human genetics is a strong tailwind for picking targets, not a crystal ball — and this is an observational pattern, not proof of cause.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Victoria Paterson"
+    ],
+    "url": "https://arxiv.org/abs/2606.14823",
+    "published_at": "2026-06-12",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "biotechnology",
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-18",
+  "date": "2026-06-12",
+  "related": [
+    {
+      "id": "card_2657f3",
+      "slug": "gene-therapy",
+      "type": "concept",
+      "title": "Gene Therapy",
+      "hook": "Instead of treating symptoms, gene therapy goes after the root cause — fixing, replacing, or silencing a faulty gene inside a patient's own cells.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e0bc83",
+      "slug": "dna-sequencing-and-the-genome",
+      "type": "concept",
+      "title": "DNA Sequencing and the Genome",
+      "hook": "Sequencing reads the exact order of the letters in DNA — and the Human Genome Project read all 3 billion of ours for the first time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ca37f9#0",
+      "format": "flip",
+      "prompt": "What link did the analysis find between human genetics and drug approval?",
+      "back_html": "\u003cp\u003eDrug targets with \u003cstrong\u003ehuman genetic evidence\u003c/strong\u003e tying the gene to the disease were about\n\u003cstrong\u003ethree times more likely\u003c/strong\u003e to reach approval than targets without it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ca37f9#1",
+      "format": "quiz",
+      "prompt": "Why does the study check approvals from after 2015 separately?",
+      "choices": [
+        {
+          "text": "To confirm the pattern predicts future approvals, not just explains past ones",
+          "correct": true
+        },
+        {
+          "text": "Because genetic data didn't exist before 2015",
+          "correct": false
+        },
+        {
+          "text": "Because only drugs approved after 2015 count",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTesting on later approvals guards against hindsight bias — the genetic edge still\nshowed up for drugs approved after the data cutoff, suggesting real predictive value.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ca37f9#2",
+      "format": "quiz",
+      "prompt": "What important limitation does the paper stress?",
+      "choices": [
+        {
+          "text": "Genetic evidence alone is a weak predictor for any single drug",
+          "correct": true
+        },
+        {
+          "text": "Genetics guarantees a drug will be approved",
+          "correct": false
+        },
+        {
+          "text": "The genetic link only works for cancer drugs",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe 3x boost is a population-level trend. For one specific program, genetics barely\nimproves the odds of guessing success, and the findings are observational, not causal.\u003c/p\u003e"
+    }
+  ]
+}

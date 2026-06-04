@@ -1,0 +1,109 @@
+{
+  "id": "card_f1ffae",
+  "slug": "diet-and-disease",
+  "type": "concept",
+  "title": "Diet and Disease",
+  "hook": "What you eat over years quietly shapes your odds of heart disease, type 2 diabetes, and more — diet is one of the strongest levers on long-term health.",
+  "key_points": [
+    "Long-term eating patterns strongly influence the risk of chronic disease.",
+    "Diets high in added sugar, salt, and saturated fat raise risk of heart disease and diabetes.",
+    "Plenty of fruits, vegetables, whole grains, and fiber lowers that risk.",
+    "Diet works alongside genetics, activity, and other lifestyle factors."
+  ],
+  "content_html": "\u003cp\u003eThe food you eat day to day doesn't just affect how you feel now — over years, your eating patterns shape your risk of the diseases most likely to shorten or burden life: heart disease, type 2 diabetes, stroke, and certain cancers. Diet is one of the most powerful levers people have over their long-term health.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe pattern matters more than any single meal. As the CDC describes, diets heavy in added sugar, salt, and saturated fat push up blood pressure, blood sugar, and unhealthy cholesterol, and contribute to excess weight — all of which raise the risk of heart disease and diabetes. The reverse also holds: eating plenty of vegetables, fruits, whole grains, and fiber is linked to lower risk. Diet never acts alone — genetics, physical activity, sleep, and habits like smoking all play a part — but because we make food choices every day, it's a lever within reach.\u003c/p\u003e",
+  "source": {
+    "name": "CDC",
+    "url": "https://www.cdc.gov/healthy-weight-growth/about/index.html",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "nutrition-health"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ec190a",
+      "slug": "nutrition-and-diet",
+      "type": "concept",
+      "title": "Nutrition and Diet",
+      "hook": "Your body runs on food, but not all food does the same job — different food groups supply the fuel, building blocks, and protection your cells need.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_630b44",
+      "slug": "circulatory-system",
+      "type": "concept",
+      "title": "The Circulatory System",
+      "hook": "Your heart pumps blood through roughly 60,000 miles of vessels, delivering oxygen and fuel to every cell and hauling waste away — about once a minute.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_890fc0",
+      "slug": "exercise-and-the-body",
+      "type": "concept",
+      "title": "Exercise and the Body",
+      "hook": "Physical activity reaches far beyond muscle — it strengthens the heart, reshapes metabolism, and even sharpens the brain.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f1ffae#0",
+      "format": "flip",
+      "prompt": "How does diet affect chronic disease risk?",
+      "back_html": "\u003cp\u003eEating patterns over years shift the odds of conditions like \u003cstrong\u003eheart disease and\ntype 2 diabetes\u003c/strong\u003e — too much added sugar, salt, and saturated fat raises risk,\nwhile fruits, vegetables, and whole grains lower it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f1ffae#1",
+      "format": "quiz",
+      "prompt": "Which eating pattern tends to RAISE the risk of heart disease?",
+      "choices": [
+        {
+          "text": "High in saturated fat, salt, and added sugar",
+          "correct": true
+        },
+        {
+          "text": "Rich in vegetables, fruit, and whole grains",
+          "correct": false
+        },
+        {
+          "text": "High in dietary fiber",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDiets heavy in saturated fat, salt, and added sugar are linked to high blood\npressure, unhealthy cholesterol, and weight gain — all heart-disease risk factors.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f1ffae#2",
+      "format": "quiz",
+      "prompt": "Is diet the only thing that determines disease risk?",
+      "choices": [
+        {
+          "text": "No — it works together with genetics, activity, and other lifestyle factors",
+          "correct": true
+        },
+        {
+          "text": "Yes — diet alone fully determines whether you get any disease",
+          "correct": false
+        },
+        {
+          "text": "No — diet has no effect on disease at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDiet is a powerful lever, but risk also depends on genes, physical activity,\nsleep, smoking, and more. It's one important factor among several.\u003c/p\u003e"
+    }
+  ]
+}

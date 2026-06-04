@@ -1,0 +1,361 @@
+{
+  "version": "2026-09-03.966116b0",
+  "topics": [
+    {
+      "id": "everyday-foundations",
+      "title": "Everyday Foundations",
+      "slug": "everyday-foundations",
+      "order": 10,
+      "blurb": "The daily basics that do the most for your health: food, movement, and sleep."
+    },
+    {
+      "id": "nutrition",
+      "title": "Nutrition \u0026 Diet",
+      "slug": "nutrition",
+      "parent": "everyday-foundations",
+      "order": 10,
+      "card_order": "learning-path",
+      "blurb": "What a healthy plate actually looks like — and how to see past the marketing.",
+      "related_topic_ids": [
+        "chronic-conditions",
+        "movement"
+      ]
+    },
+    {
+      "id": "movement",
+      "title": "Movement \u0026 Exercise",
+      "slug": "movement",
+      "parent": "everyday-foundations",
+      "order": 11,
+      "card_order": "learning-path",
+      "blurb": "How much activity you really need, and why strength matters as much as cardio.",
+      "related_topic_ids": [
+        "chronic-conditions",
+        "healthy-aging"
+      ]
+    },
+    {
+      "id": "sleep",
+      "title": "Sleep",
+      "slug": "sleep",
+      "parent": "everyday-foundations",
+      "order": 12,
+      "card_order": "learning-path",
+      "blurb": "Why sleep is non-negotiable — and the habits that make it come easier.",
+      "related_topic_ids": [
+        "stress-resilience",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "oral-health",
+      "title": "Dental \u0026 Oral Health",
+      "slug": "oral-health",
+      "parent": "everyday-foundations",
+      "order": 13,
+      "card_order": "learning-path",
+      "blurb": "Healthy teeth and gums are tied to the rest of your health — and mostly down to daily habits.",
+      "related_topic_ids": [
+        "nutrition",
+        "preventive-care"
+      ]
+    },
+    {
+      "id": "healthy-weight",
+      "title": "Healthy Weight",
+      "slug": "healthy-weight",
+      "parent": "everyday-foundations",
+      "order": 14,
+      "card_order": "learning-path",
+      "blurb": "What a healthy weight really means, and the steady habits that reach and hold one.",
+      "related_topic_ids": [
+        "nutrition",
+        "movement",
+        "chronic-conditions"
+      ]
+    },
+    {
+      "id": "mental-health",
+      "title": "Mental Health",
+      "slug": "mental-health",
+      "parent": "mind-wellbeing",
+      "order": 20,
+      "card_order": "learning-path",
+      "blurb": "What good mental health means, and how to spot when something's wrong.",
+      "related_topic_ids": [
+        "stress-resilience",
+        "sleep"
+      ]
+    },
+    {
+      "id": "mind-wellbeing",
+      "title": "Mind \u0026 Wellbeing",
+      "slug": "mind-wellbeing",
+      "order": 20,
+      "blurb": "Mental health is health — knowing the signs, and building everyday resilience."
+    },
+    {
+      "id": "stress-resilience",
+      "title": "Stress \u0026 Resilience",
+      "slug": "stress-resilience",
+      "parent": "mind-wellbeing",
+      "order": 21,
+      "card_order": "learning-path",
+      "blurb": "What chronic stress does to the body — and the skills that help you bounce back.",
+      "related_topic_ids": [
+        "mental-health",
+        "sleep"
+      ]
+    },
+    {
+      "id": "social-connection",
+      "title": "Connection \u0026 Belonging",
+      "slug": "social-connection",
+      "parent": "mind-wellbeing",
+      "order": 22,
+      "card_order": "learning-path",
+      "blurb": "Strong relationships are as good for your health as diet or exercise — and loneliness is a real risk.",
+      "related_topic_ids": [
+        "mental-health",
+        "healthy-aging"
+      ]
+    },
+    {
+      "id": "digital-wellbeing",
+      "title": "Screens \u0026 Digital Wellbeing",
+      "slug": "digital-wellbeing",
+      "parent": "mind-wellbeing",
+      "order": 23,
+      "card_order": "learning-path",
+      "blurb": "Living well alongside screens — protecting attention, sleep, and mood.",
+      "related_topic_ids": [
+        "sleep",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "prevention-screening",
+      "title": "Prevention \u0026 Screening",
+      "slug": "prevention-screening",
+      "order": 30,
+      "blurb": "Catching problems early and keeping them away — checkups, shots, and the big risks."
+    },
+    {
+      "id": "preventive-care",
+      "title": "Checkups \u0026 Screening",
+      "slug": "preventive-care",
+      "parent": "prevention-screening",
+      "order": 30,
+      "card_order": "learning-path",
+      "blurb": "Why regular checkups pay off, and which screenings are worth asking for.",
+      "related_topic_ids": [
+        "chronic-conditions",
+        "vaccines"
+      ]
+    },
+    {
+      "id": "vaccines",
+      "title": "Vaccines \u0026 Immunity",
+      "slug": "vaccines",
+      "parent": "prevention-screening",
+      "order": 31,
+      "card_order": "learning-path",
+      "blurb": "The shots adults still need, and the seasonal ones worth a yearly visit.",
+      "related_topic_ids": [
+        "preventive-care",
+        "common-illness"
+      ]
+    },
+    {
+      "id": "chronic-conditions",
+      "title": "Heart \u0026 Metabolic Health",
+      "slug": "chronic-conditions",
+      "parent": "prevention-screening",
+      "order": 32,
+      "card_order": "learning-path",
+      "blurb": "Blood pressure, blood sugar, and the lifestyle that keeps the big risks low.",
+      "related_topic_ids": [
+        "nutrition",
+        "movement",
+        "preventive-care"
+      ]
+    },
+    {
+      "id": "substance-use",
+      "title": "Alcohol, Tobacco \u0026 Substances",
+      "slug": "substance-use",
+      "parent": "prevention-screening",
+      "order": 33,
+      "card_order": "learning-path",
+      "blurb": "Honest, science-based facts about alcohol, smoking, and addiction — and how to cut back or quit.",
+      "related_topic_ids": [
+        "chronic-conditions",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "vision-hearing",
+      "title": "Vision \u0026 Hearing",
+      "slug": "vision-hearing",
+      "parent": "prevention-screening",
+      "order": 34,
+      "card_order": "learning-path",
+      "blurb": "Two senses we take for granted until they fade — and the simple ways to protect them.",
+      "related_topic_ids": [
+        "preventive-care",
+        "healthy-aging"
+      ]
+    },
+    {
+      "id": "family-home-health",
+      "title": "Family \u0026 Home Health",
+      "slug": "family-home-health",
+      "order": 40,
+      "blurb": "Keeping a household healthy — clean hands, safe food, strong years, and beyond."
+    },
+    {
+      "id": "family-wellness",
+      "title": "Family \u0026 Home Health",
+      "slug": "family-wellness",
+      "parent": "family-home-health",
+      "order": 40,
+      "card_order": "learning-path",
+      "blurb": "The simple home habits that stop germs and food-borne illness in their tracks.",
+      "related_topic_ids": [
+        "common-illness",
+        "medication-safety"
+      ]
+    },
+    {
+      "id": "healthy-aging",
+      "title": "Healthy Aging",
+      "slug": "healthy-aging",
+      "parent": "family-home-health",
+      "order": 41,
+      "card_order": "learning-path",
+      "blurb": "Staying strong, steady, and independent as the years add up.",
+      "related_topic_ids": [
+        "movement",
+        "chronic-conditions"
+      ]
+    },
+    {
+      "id": "sexual-health",
+      "title": "Sexual \u0026 Reproductive Health",
+      "slug": "sexual-health",
+      "parent": "family-home-health",
+      "order": 42,
+      "card_order": "learning-path",
+      "blurb": "Protecting yourself and your partners — prevention and the options available.",
+      "related_topic_ids": [
+        "preventive-care",
+        "vaccines"
+      ]
+    },
+    {
+      "id": "womens-health",
+      "title": "Women's Health",
+      "slug": "womens-health",
+      "parent": "family-home-health",
+      "order": 43,
+      "card_order": "learning-path",
+      "blurb": "Adult women's health beyond pregnancy — cycles, menopause, and what to watch for.",
+      "related_topic_ids": [
+        "sexual-health",
+        "preventive-care"
+      ]
+    },
+    {
+      "id": "mens-health",
+      "title": "Men's Health",
+      "slug": "mens-health",
+      "parent": "family-home-health",
+      "order": 44,
+      "card_order": "learning-path",
+      "blurb": "The checkups and risks men most often overlook — and why not to.",
+      "related_topic_ids": [
+        "preventive-care",
+        "chronic-conditions"
+      ]
+    },
+    {
+      "id": "home-safety",
+      "title": "Home \u0026 Environmental Safety",
+      "slug": "home-safety",
+      "parent": "family-home-health",
+      "order": 45,
+      "card_order": "learning-path",
+      "blurb": "The household hazards worth guarding against: fire, falls, carbon monoxide, and poisons.",
+      "related_topic_ids": [
+        "first-aid",
+        "medication-safety"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "First Aid \u0026 Emergencies",
+      "slug": "first-aid",
+      "parent": "when-things-go-wrong",
+      "order": 50,
+      "card_order": "learning-path",
+      "blurb": "The handful of skills that save lives — CPR, bleeding, burns, and when to call for help.",
+      "related_topic_ids": [
+        "common-illness",
+        "medication-safety"
+      ]
+    },
+    {
+      "id": "when-things-go-wrong",
+      "title": "When Things Go Wrong",
+      "slug": "when-things-go-wrong",
+      "order": 50,
+      "blurb": "The everyday sick days and emergencies — and knowing what to do in the moment."
+    },
+    {
+      "id": "common-illness",
+      "title": "Everyday Illnesses",
+      "slug": "common-illness",
+      "parent": "when-things-go-wrong",
+      "order": 51,
+      "card_order": "learning-path",
+      "blurb": "Colds, flu, and the everyday bugs — and the signs that mean see a doctor.",
+      "related_topic_ids": [
+        "vaccines",
+        "medication-safety"
+      ]
+    },
+    {
+      "id": "medication-safety",
+      "title": "Medicines \u0026 Safety",
+      "slug": "medication-safety",
+      "parent": "when-things-go-wrong",
+      "order": 52,
+      "card_order": "learning-path",
+      "blurb": "Taking medicines the right way — and why antibiotics aren't for everything.",
+      "related_topic_ids": [
+        "common-illness",
+        "family-wellness"
+      ]
+    },
+    {
+      "id": "health-in-the-news",
+      "title": "Health in the News",
+      "slug": "health-in-the-news",
+      "order": 60,
+      "blurb": "Fresh, science-based health stories — distilled, not hyped."
+    },
+    {
+      "id": "health-news",
+      "title": "Health Headlines",
+      "slug": "health-news",
+      "parent": "health-in-the-news",
+      "order": 60,
+      "card_order": "recency",
+      "blurb": "The week's health news worth knowing, sorted newest first.",
+      "related_topic_ids": [
+        "preventive-care",
+        "nutrition"
+      ]
+    }
+  ]
+}

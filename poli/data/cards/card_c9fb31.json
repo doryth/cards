@@ -1,0 +1,130 @@
+{
+  "id": "card_c9fb31",
+  "slug": "voucher-school-oversight-gap",
+  "type": "news",
+  "title": "Public Money, Private Oversight: The Voucher Accountability Gap",
+  "hook": "Public schools face extensive state regulation. Private schools funded by the same taxpayer dollars, through vouchers, often don't — a gap one Arkansas case exposed starkly.",
+  "key_points": [
+    "School vouchers let public education funds follow a student to a private school instead of a public one.",
+    "Arkansas requires private schools to do little more than hold fire drills, keep immunization records, and fly a flag — no curriculum review, no operator background checks.",
+    "After a widely reported assault on a student at one Arkansas voucher-funded school, the state suspended its funding for two days, then restored it once the school changed leadership.",
+    "Arkansas has nearly doubled its number of private schools since vouchers began in 2023, while intervening at only two schools in three years and never permanently cutting off funding to any.",
+    "The gap illustrates a general trade-off in school-choice policy: money can move to private schools faster than oversight structures can be built to follow it."
+  ],
+  "content_html": "\u003cp\u003eSchool vouchers are built on a simple idea: let public education money follow the student, so families can choose a private school instead of their local public one. What ProPublica's Jennifer Smith Richards and Jodi S. Cohen found in Arkansas is what can happen when the money moves faster than the oversight built to follow it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eArkansas requires little of private schools receiving voucher funds beyond fire drills, immunization records, and a flagpole — no curriculum review, no background checks on the people running the school. That light-touch regime became a serious problem at one Jonesboro school, where the reporting documented a serious assault on a student by the school's founder. Arkansas suspended the school's voucher funding for two days, then restored it once new leadership was in place, and the school kept operating under a new name. The state has nearly doubled its number of private schools since the voucher program began in 2023, while, per ProPublica's review, intervening at only two schools across three years and never permanently revoking funding from any of them. The episode is a concrete illustration of a general tension in school-choice policy: expanding where public money can go is comparatively easy; building the oversight to match it is slower and, in this case, visibly lagged behind. (This card describes Arkansas's voucher program specifically; oversight requirements vary widely by state.)\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Jennifer Smith Richards",
+      "Jodi S. Cohen"
+    ],
+    "url": "https://propublica.org/article/arkansas-private-schools-vouchers-delta-institute-developing-brain-autism-harm",
+    "published_at": "2026-07-15",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "public-policy-economy",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-15",
+  "related": [
+    {
+      "id": "card_c978c5",
+      "slug": "markets-regulation-mixed-economy",
+      "type": "concept",
+      "title": "Markets, Regulation \u0026 the Mixed Economy",
+      "hook": "Pure free market or full state control? Almost every country picks neither — they run a mixed economy, and where they draw the line is one of politics' great arguments.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_c9fb31#0",
+      "format": "flip",
+      "prompt": "What is a school voucher?",
+      "back_html": "\u003cp\u003eA mechanism that lets \u003cstrong\u003epublic education funding follow a student\u003c/strong\u003e\nto a private school instead of the public school system.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c9fb31#1",
+      "format": "quiz",
+      "prompt": "What does Arkansas require of private schools receiving voucher funding, according to ProPublica's reporting?",
+      "choices": [
+        {
+          "text": "Very little — fire drills, immunization records, and a flagpole, with no curriculum review or operator background checks",
+          "correct": true
+        },
+        {
+          "text": "The same full accreditation and inspection regime as public schools",
+          "correct": false
+        },
+        {
+          "text": "Annual audited financial statements reviewed by the state legislature",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe reporting found voucher-funded private schools face a far lighter\nregulatory bar than public schools serving the same public dollars.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c9fb31#2",
+      "format": "quiz",
+      "prompt": "What happened after Arkansas suspended funding to a school following a reported assault on a student?",
+      "choices": [
+        {
+          "text": "Funding was restored after two days once the school changed leadership, and it kept operating",
+          "correct": true
+        },
+        {
+          "text": "The state permanently revoked the school's voucher eligibility",
+          "correct": false
+        },
+        {
+          "text": "The school was immediately shut down by court order",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProPublica found Arkansas never permanently cut off funding to any\nvoucher school across the program's history, even after this incident.\u003c/p\u003e"
+    }
+  ]
+}

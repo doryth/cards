@@ -1,0 +1,81 @@
+{
+  "id": "card_2b3e5c",
+  "slug": "newborn-screening-and-vitamin-k",
+  "type": "concept",
+  "title": "The Routine Tests and Shot of the First Days",
+  "hook": "In the first days, a healthy newborn gets a heel-prick blood screen, a hearing check, a heart-oxygen check, and a vitamin K shot — quick, routine steps that catch rare but serious problems early.",
+  "key_points": [
+    "Newborn screening is a heel-prick blood test that checks for dozens of rare conditions that are treatable if caught before symptoms start.",
+    "A hearing screen and a pulse-oximetry check (for critical heart defects) are usually done before going home.",
+    "The vitamin K shot at birth prevents a rare but dangerous bleeding disorder, because babies are born with very low vitamin K.",
+    "These are standard, recommended steps — the blood screen often needs a repeat or follow-up, which doesn't necessarily mean something is wrong."
+  ],
+  "content_html": "\u003cp\u003eThe first day or two after birth comes with a small set of routine checks that are easy to overlook in the blur but matter a lot. The big one is newborn screening — a few drops of blood taken from the baby's heel and tested for dozens of rare conditions. The point is timing: these conditions are treatable, often dramatically so, but only if they're caught before a baby ever looks sick.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAlongside the blood screen, most babies get a hearing test and a pulse-oximetry check that screens for critical congenital heart defects, usually before leaving the hospital. Separately, newborns are given a vitamin K injection. Babies are born with very little vitamin K — which the body needs to form clots — so the shot prevents a rare but serious bleeding condition known as vitamin K deficiency bleeding. If the blood screen flags something, it often just means a repeat test is needed; an out-of-range first result frequently turns out fine. This is general guidance — your birth team and pediatrician will explain each test and any follow-up.\u003c/p\u003e",
+  "source": {
+    "name": "AAP — HealthyChildren.org",
+    "url": "https://www.healthychildren.org/English/ages-stages/baby/Pages/Newborn-Screening-Tests.aspx",
+    "license": "© American Academy of Pediatrics"
+  },
+  "topic_ids": [
+    "newborn"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1b3458",
+      "slug": "newborn-jaundice",
+      "type": "concept",
+      "title": "Newborn Jaundice: Common and Usually Harmless",
+      "hook": "Many newborns turn a little yellow in the first days — jaundice is common, usually harmless, and often clears on its own, but a few warning signs mean get it checked promptly.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6d6766",
+      "slug": "well-child-visits",
+      "type": "concept",
+      "title": "Well-Child Visits: Your Regular Check-Ups",
+      "hook": "Well-child visits aren't just for when something's wrong — they track growth and development, deliver vaccines on schedule, and catch problems early, even when your child seems perfectly fine.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2b3e5c#0",
+      "format": "quiz",
+      "prompt": "What does the newborn heel-prick blood screen look for?",
+      "choices": [
+        {
+          "text": "Rare conditions that are treatable if caught before symptoms appear",
+          "correct": true
+        },
+        {
+          "text": "The baby's blood type only",
+          "correct": false
+        },
+        {
+          "text": "Whether the baby will need glasses",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe blood-spot screen checks for dozens of rare metabolic, genetic, and hormonal\nconditions where early treatment, before symptoms start, makes a big difference.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2b3e5c#1",
+      "format": "flip",
+      "prompt": "Why do newborns get a vitamin K shot at birth?",
+      "back_html": "\u003cp\u003eBabies are born with \u003cstrong\u003every low vitamin K\u003c/strong\u003e, which the body needs to clot blood.\nThe shot prevents a rare but dangerous \u003cstrong\u003ebleeding disorder\u003c/strong\u003e of the newborn period.\u003c/p\u003e"
+    }
+  ]
+}

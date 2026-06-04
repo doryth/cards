@@ -1,0 +1,123 @@
+{
+  "id": "card_a29f73",
+  "slug": "generative-ai",
+  "type": "concept",
+  "title": "Generative AI",
+  "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+  "key_points": [
+    "Generative AI creates new content: text, images, audio, code — not just labels or scores.",
+    "Text models work by repeatedly predicting the next word from everything so far.",
+    "It generates what's *plausible*, which is why it can sound right while being wrong.",
+    "The same predict-the-next-piece trick powers writing, pictures, voices, and music."
+  ],
+  "content_html": "\u003cp\u003eMost older AI \u003cem\u003esorts\u003c/em\u003e things — is this spam or not, is this a cat or a dog. \u003cstrong\u003eGenerative\u003c/strong\u003e AI \u003cem\u003emakes\u003c/em\u003e things: a paragraph, a picture, a song, a snippet of code. It's the breakthrough behind ChatGPT and image tools, and the reason AI suddenly feels creative. Under the hood, a text generator is doing something almost surprisingly simple: predicting the next word, then the next, then the next, each time using everything written so far as the clue.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBecause it learned from an enormous amount of human writing, those next-word guesses string together into fluent, often genuinely useful answers. But notice what it's optimizing for: what \u003cem\u003esounds plausible\u003c/em\u003e, not what's \u003cem\u003etrue\u003c/em\u003e. The model has no fact-checker inside it. That single insight explains both the magic and the pitfalls — it can draft an email or explain a topic beautifully, and it can also state a confident \u0026quot;fact\u0026quot; that's completely invented. Image, audio, and video generators use the same core idea of building output piece by piece, which is why one technology now touches everything from customer-service bots to movie effects.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Generative artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Generative_artificial_intelligence",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "generative-ai"
+  ],
+  "tags": [
+    "foundational",
+    "generative"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aa1028",
+      "slug": "ai-images-and-art",
+      "type": "concept",
+      "title": "AI Images, Art \u0026 Video",
+      "hook": "Type a sentence, get a picture. Image generators learned the link between words and visuals from billions of captioned images — which is also why artists are raising hard questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dcc196",
+      "slug": "how-llms-work",
+      "type": "concept",
+      "title": "How a Language Model Works",
+      "hook": "A chatbot isn't reading and thinking — it's running the world's most sophisticated autocomplete, picking each next word from probabilities learned across billions of sentences.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a29f73#0",
+      "format": "quiz",
+      "prompt": "How does a text generator like ChatGPT produce an answer?",
+      "choices": [
+        {
+          "text": "By predicting the next word repeatedly, using everything written so far",
+          "correct": true
+        },
+        {
+          "text": "By looking the answer up in a fact database",
+          "correct": false
+        },
+        {
+          "text": "By copying the closest matching web page",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA text generator builds its reply one word at a time, each guess based on\nall the text so far — it isn't retrieving stored answers.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a29f73#1",
+      "format": "flip",
+      "prompt": "Why can generative AI sound right but still be wrong?",
+      "back_html": "\u003cp\u003eIt's built to produce what's \u003cem\u003eplausible\u003c/em\u003e, not what's \u003cem\u003etrue\u003c/em\u003e — there's no\nfact-checker inside it.\u003c/p\u003e"
+    }
+  ]
+}

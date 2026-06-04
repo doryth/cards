@@ -1,0 +1,106 @@
+{
+  "id": "card_6df5e7",
+  "slug": "fluids-rebuilt-from-symmetry",
+  "type": "news",
+  "title": "Fluid Dynamics Gets a Rewrite",
+  "hook": "For two centuries physicists described fluids with essentially one theory. A modern idea — start from what symmetries a fluid breaks — has now rebuilt the definition from scratch.",
+  "key_points": [
+    "From the 1800s to the early 2000s, one framework served for the behavior of fluids.",
+    "The new approach defines a fluid from the bottom up rather than patching the old equations.",
+    "The organizing principle is modern: identify the symmetries a system has and which ones it breaks.",
+    "Rebuilding from first principles extends the theory to regimes the classical version was never derived for."
+  ],
+  "content_html": "\u003cp\u003eThe equations of fluid dynamics are old and astonishingly durable: written down in the nineteenth century, still used today to design aircraft wings and forecast weather. They were also derived the way nineteenth-century physics did things — by reasoning about a continuous substance and conserving the obvious quantities.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eQuanta's Charlie Wood reports on work that rebuilds the theory from the bottom up instead, using the organizing idea that has reshaped much of modern physics: symmetry. Ask what symmetries a system possesses and which ones it spontaneously breaks, and the equations that govern its long-wavelength behavior follow. Applied to fluids, that program reproduces the classical results but arrives at them as consequences rather than assumptions — and in doing so it clarifies what a fluid \u003cem\u003eis\u003c/em\u003e, and extends the description to regimes the old derivation never covered.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Charlie Wood"
+    ],
+    "url": "https://quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817",
+    "published_at": "2026-08-17",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "fluids-pressure"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_7de888",
+      "slug": "what-is-pressure",
+      "type": "concept",
+      "title": "What Is Pressure?",
+      "hook": "Pressure is force spread over an area. Concentrate the same push on a tiny spot and it skyrockets — which is why a sharp knife cuts and a thumbtack pierces.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0ef845",
+      "slug": "simple-fluids-can-fracture",
+      "type": "news",
+      "title": "A 'Simple' Fluid That Cracks Like Glass",
+      "hook": "Only springy, elastic fluids were thought able to fracture instead of just flowing. Then a Drexel University lab stretched an ordinary hydrocarbon liquid and heard it snap.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "card_778211",
+      "slug": "turbulence-in-quantum-gases",
+      "type": "paper",
+      "title": "Turbulence, but every whirlpool is the same size",
+      "hook": "Stir a superfluid and it can't swirl however it likes — circulation comes in fixed, indivisible units. That makes ultracold gases the cleanest lab for physics' oldest unsolved problem.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_3c005f",
+      "slug": "surface-tension",
+      "type": "concept",
+      "title": "Surface Tension: Water's Stretchy Skin",
+      "hook": "Water acts like it's wrapped in an invisible elastic skin — strong enough to let a bug walk across a pond and pull a droplet into a near-perfect sphere.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6df5e7#0",
+      "format": "flip",
+      "prompt": "Roughly how long did physicists rely on a single theory of fluids?",
+      "back_html": "\u003cp\u003eAbout two centuries — from the \u003cstrong\u003e1800s to the early 2000s\u003c/strong\u003e the same framework was used\nto understand fluid behavior.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6df5e7#1",
+      "format": "quiz",
+      "prompt": "What is the modern insight driving the redefinition of fluids?",
+      "choices": [
+        {
+          "text": "Building the theory up from which symmetries a fluid has and breaks",
+          "correct": true
+        },
+        {
+          "text": "Replacing continuous equations with computer simulation of every molecule",
+          "correct": false
+        },
+        {
+          "text": "Treating every fluid as fundamentally quantum mechanical",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRather than patching the classical equations, the new work defines a fluid from the\nbottom up using symmetry — the same organizing principle that reshaped particle physics.\u003c/p\u003e"
+    }
+  ]
+}

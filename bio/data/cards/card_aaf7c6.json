@@ -1,0 +1,100 @@
+{
+  "id": "card_aaf7c6",
+  "slug": "oviraptor-nest-incubation",
+  "type": "news",
+  "title": "Scientists Rebuilt a Dinosaur Nest to Solve a 70-Million-Year Mystery",
+  "hook": "By recreating a life-size oviraptor nest and running the heat transfer numbers, researchers figured out how these bird-like dinosaurs kept their eggs warm.",
+  "key_points": [
+    "Researchers built a life-size replica of an oviraptor nest to study dinosaur egg incubation.",
+    "They combined physical experiments with heat transfer simulations to test how the nest held heat.",
+    "The results suggest oviraptors relied on both their own body heat and warmth absorbed from the sun.",
+    "It's a rare case of physics experiments directly testing a specific dinosaur's parenting behavior."
+  ],
+  "content_html": "\u003cp\u003eFossilized nests can tell you an oviraptor laid its eggs in a particular arrangement — they can't tell you how those eggs stayed warm. To close that gap, a team of researchers recreated a life-size oviraptor nest and put real physics to the question, as ScienceDaily reports.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBy pairing the physical replica with heat transfer simulations, the team could test competing ideas about oviraptor incubation rather than just speculate from bone anatomy. The results point to a combined strategy: the nesting parent's own body heat, supplemented by warmth the nest structure absorbed from the sun. It's a nice example of how paleontology increasingly borrows tools from physics and engineering — turning a 70-million-year-old behavioral question into something you can actually build and measure in a lab.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260621031409.htm",
+    "published_at": "2026-07-01",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "animals"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-06",
+  "date": "2026-07-01",
+  "related": [
+    {
+      "id": "card_863950",
+      "slug": "t-rex-took-40-years-to-grow",
+      "type": "news",
+      "title": "T. rex Took 40 Years to Reach Full Size",
+      "hook": "We picture T. rex bulking up fast. A study of 17 fossils says the opposite: the eight-ton predator may have taken about 40 years to reach full size — a slow, decades-long build.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_d50d41",
+      "slug": "animal-adaptations",
+      "type": "concept",
+      "title": "Animal Adaptations",
+      "hook": "A camel's hump, a chameleon's color, a polar bear's fat — these aren't accidents. Each is a trait shaped over generations to fit a particular way of life.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_aaf7c6#0",
+      "format": "flip",
+      "prompt": "How did researchers investigate how oviraptors incubated their eggs?",
+      "back_html": "\u003cp\u003eThey built a \u003cstrong\u003elife-size replica of an oviraptor nest\u003c/strong\u003e and combined physical\nexperiments with heat transfer simulations to see how it retained warmth.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aaf7c6#1",
+      "format": "quiz",
+      "prompt": "What did the study conclude about how oviraptors kept their eggs warm?",
+      "choices": [
+        {
+          "text": "They likely used a combination of their own body heat and heat absorbed from the sun",
+          "correct": true
+        },
+        {
+          "text": "They buried the eggs deep underground with no external heat source",
+          "correct": false
+        },
+        {
+          "text": "They relied entirely on volcanic heat",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe heat transfer modeling pointed to a mixed strategy: body heat from the\nparent plus solar warmth reaching the nest.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aaf7c6#2",
+      "format": "quiz",
+      "prompt": "What made this study's approach distinctive?",
+      "choices": [
+        {
+          "text": "It tested dinosaur nesting behavior with physical replicas and heat transfer physics, not just fossil bones",
+          "correct": true
+        },
+        {
+          "text": "It relied solely on dinosaur DNA extracted from the fossils",
+          "correct": false
+        },
+        {
+          "text": "It used no fossil evidence at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRather than inferring behavior from bones alone, the team physically rebuilt\nthe nest and ran the actual physics of heat retention.\u003c/p\u003e"
+    }
+  ]
+}

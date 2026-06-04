@@ -1,0 +1,87 @@
+{
+  "id": "card_81f0b9",
+  "slug": "sugar-coated-nanotherapy-brain-cancer",
+  "type": "news",
+  "title": "A Sugar-Coated Therapy Boosted Brain Cancer Survival by 50% in Mice",
+  "hook": "An experimental nanoparticle therapy snuck past glioblastoma's toughest defense — the blood-brain barrier — and boosted median survival by 50% in mice, without harming other organs.",
+  "key_points": [
+    "Glioblastoma, an aggressive brain cancer, is hard to treat partly because the blood-brain barrier blocks many therapies from reaching the tumor.",
+    "Researchers used sugar-coated nanoparticles to ferry genetic instructions across that barrier and into brain cancer cells.",
+    "The nanoparticles restored a key tumor-suppressing protein inside the cancer cells.",
+    "In mouse studies, the therapy increased median survival by 50% and shrank tumors, without noticeable damage to other organs.",
+    "This is a preclinical, mouse-stage result — not yet tested in people."
+  ],
+  "content_html": "\u003cp\u003eGlioblastoma is one of the toughest cancers to treat partly because the blood-brain barrier — the same defense that protects the brain from toxins — also blocks most therapies from reaching the tumor. A new experimental treatment may have found a way around it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, researchers used sugar-coated nanoparticles to ferry genetic instructions directly into brain cancer cells, restoring a key tumor-suppressing protein the cancer had lost. In mouse studies, the therapy increased median survival by 50% while shrinking tumors, without noticeable damage to other organs. It's an early, preclinical result — mice aren't people, and glioblastoma has seen promising mouse therapies fail to translate before — but a delivery method that gets past the blood-brain barrier at all is a meaningful piece of the puzzle.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260715083542.htm",
+    "published_at": "2026-07-16",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_3248ca",
+      "slug": "cracking-pancreatic-cancer",
+      "type": "news",
+      "title": "A Drug for 'Undruggable' Pancreatic Cancer",
+      "hook": "A new drug, daraxonrasib, hits a KRAS mutation long thought 'undruggable' and nearly doubled survival in a trial of advanced pancreatic cancer — a hard-to-treat disease.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_09f643",
+      "slug": "endless-supply-cancer-fighting-cells",
+      "type": "news",
+      "title": "An 'Endless' Supply of Cancer-Fighting Immune Cells",
+      "hook": "A stem-cell-inspired technique lets scientists mass-produce immune cell progenitors that can be engineered to hunt cancer — a step toward off-the-shelf cell therapy.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-29"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_81f0b9#0",
+      "format": "flip",
+      "prompt": "What barrier makes glioblastoma so hard to treat, and how did this therapy get past it?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eblood-brain barrier\u003c/strong\u003e blocks many drugs from reaching brain tumors; sugar-coated\nnanoparticles were used to ferry genetic instructions across it into the cancer cells.\u003c/p\u003e"
+    },
+    {
+      "id": "card_81f0b9#1",
+      "format": "quiz",
+      "prompt": "What did the therapy do once inside the brain cancer cells?",
+      "choices": [
+        {
+          "text": "Restored a key tumor-suppressing protein",
+          "correct": true
+        },
+        {
+          "text": "Directly poisoned the cells with a toxin",
+          "correct": false
+        },
+        {
+          "text": "Boosted the immune system against all cancer types",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe nanoparticles delivered genetic instructions that restored a tumor-suppressing\nprotein the cancer cells had lost — not a generic poison or immune boost.\u003c/p\u003e"
+    },
+    {
+      "id": "card_81f0b9#2",
+      "format": "flip",
+      "prompt": "How much did median survival improve in the mouse studies, and what's the catch?",
+      "back_html": "\u003cp\u003eSurvival increased by \u003cstrong\u003e50%\u003c/strong\u003e, with shrinking tumors and no notable organ damage — but\nthis is still a mouse-stage result, not yet tested in people.\u003c/p\u003e"
+    }
+  ]
+}

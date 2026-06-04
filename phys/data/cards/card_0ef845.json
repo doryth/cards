@@ -1,0 +1,101 @@
+{
+  "id": "card_0ef845",
+  "slug": "simple-fluids-can-fracture",
+  "type": "news",
+  "title": "A 'Simple' Fluid That Cracks Like Glass",
+  "hook": "Only springy, elastic fluids were thought able to fracture instead of just flowing. Then a Drexel University lab stretched an ordinary hydrocarbon liquid and heard it snap.",
+  "key_points": [
+    "Researchers believed fluid fracture required elasticity — the springy behavior of things like polymer melts.",
+    "Drexel University's Thamires Lima and Nicolas Alvarez stretched a simple, nearly non-elastic hydrocarbon blend and heard a sharp crack.",
+    "High-speed cameras showed a brittle fracture mechanism indistinguishable from glass breaking.",
+    "The finding suggests fracture may hinge on molecular cohesive energy rather than elasticity, matching a decades-old prediction that any liquid can fracture under enough stress."
+  ],
+  "content_html": "\u003cp\u003eStretch a liquid too far and it usually just thins out and separates smoothly — that's ordinary flow. Fracture, where a material snaps apart along a clean break like a solid, was thought to require elasticity: the springy resistance seen in complex fluids like polymer melts and window caulk. A simple, viscous liquid was assumed to simply flow, not break.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers Thamires Lima and Nicolas Alvarez at Drexel University, working with ExxonMobil, were running an extensional rheology test — stretching a liquid between two metal plates — on a hydrocarbon blend with minimal elasticity when Lima heard something unexpected: \u0026quot;a short, sharp crack.\u0026quot; High-speed camera footage confirmed it: the liquid had undergone a brittle fracture, visually indistinguishable from glass shattering, not the gradual thinning anyone expected from a nonelastic fluid. \u0026quot;We just thought elasticity was something that was a prerequisite for such solid type of breaking,\u0026quot; Alvarez said. The team now suspects fracture depends on something more fundamental than elasticity — likely the cohesive energy holding a liquid's molecules together — echoing a decades-old prediction by fluid dynamicist Daniel D. Joseph that any liquid could fracture given enough stress.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Rohini Subrahmanyam"
+    ],
+    "url": "https://quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+    "published_at": "2026-07-10",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "fluids-pressure"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_3c005f",
+      "slug": "surface-tension",
+      "type": "concept",
+      "title": "Surface Tension: Water's Stretchy Skin",
+      "hook": "Water acts like it's wrapped in an invisible elastic skin — strong enough to let a bug walk across a pond and pull a droplet into a near-perfect sphere.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7de888",
+      "slug": "what-is-pressure",
+      "type": "concept",
+      "title": "What Is Pressure?",
+      "hook": "Pressure is force spread over an area. Concentrate the same push on a tiny spot and it skyrockets — which is why a sharp knife cuts and a thumbtack pierces.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_98378e",
+      "slug": "nanoconfined-water-is-just-under-pressure",
+      "type": "news",
+      "title": "The 'Weird' Water in Nanopores Isn't So Weird — It's Just Squeezed",
+      "hook": "For decades, water trapped in nanoscale pores seemed unusually reactive. It turns out the real driver isn't confinement magic — it's the crushing pressure that builds up inside.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0ef845#0",
+      "format": "flip",
+      "prompt": "What did scientists believe was required for a fluid to fracture instead of just flowing?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eElasticity\u003c/strong\u003e — the springy, spring-like behavior seen in complex fluids such as\npolymer melts.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0ef845#1",
+      "format": "quiz",
+      "prompt": "What did researchers observe when stretching a simple, nearly non-elastic hydrocarbon blend?",
+      "choices": [
+        {
+          "text": "A sharp crack, with high-speed cameras showing a brittle fracture just like glass breaking",
+          "correct": true
+        },
+        {
+          "text": "It flowed smoothly with no unusual behavior at all",
+          "correct": false
+        },
+        {
+          "text": "It became more elastic the more it was stretched",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe liquid snapped with an audible crack, and camera footage showed the same brittle\nfracture pattern seen when glass shatters — unexpected for a fluid with little elasticity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0ef845#2",
+      "format": "flip",
+      "prompt": "If not elasticity, what might actually govern whether a fluid fractures?",
+      "back_html": "\u003cp\u003ePossibly the fluid's \u003cstrong\u003ecohesive energy\u003c/strong\u003e — how strongly its molecules hold together —\nrather than its elastic, springy properties.\u003c/p\u003e"
+    }
+  ]
+}

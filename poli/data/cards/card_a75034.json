@@ -1,0 +1,127 @@
+{
+  "id": "card_a75034",
+  "slug": "consent-decrees-and-police-oversight",
+  "type": "news",
+  "title": "Consent Decrees \u0026 Police Oversight",
+  "hook": "When a police department is found to systematically violate rights, the usual fix is a federal consent decree — a court-enforced reform plan. What happens when the enforcer stops enforcing?",
+  "key_points": [
+    "A consent decree is a court-enforceable agreement, often used after a DOJ investigation finds a pattern of police misconduct.",
+    "It sets specific reforms (training, use-of-force policy, oversight) and gives a judge power to enforce compliance.",
+    "One administration's Justice Department can decline to pursue new decrees, calling past findings unjustified.",
+    "A 2026 report examined by ProPublica pushed back on that justification, using evidence from several U.S. police departments.",
+    "The episode shows how much police-oversight enforcement depends on which administration holds the DOJ, not just on what the law allows."
+  ],
+  "content_html": "\u003cp\u003eWhen the Justice Department finds that a police department has a systemic pattern of violating people's rights — excessive force, discriminatory stops — one of its strongest tools is a consent decree: a court-enforceable agreement that locks in specific reforms and puts a federal judge in charge of checking whether the department actually follows through.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat tool only works if the Justice Department keeps using it. ProPublica's Topher Sanders reports on a 2026 dispute over exactly that: the DOJ moved away from pursuing new police-reform agreements, arguing that past findings backing them were factually unjustified. A new report examined by ProPublica pushed back, drawing on evidence from departments including Minneapolis, Louisville, Phoenix, and Memphis to argue the underlying findings held up. The disagreement is a reminder that oversight tools written into law don't enforce themselves — an accountability mechanism like a consent decree depends on an executive branch willing to invoke it, which means how much police oversight actually happens can shift sharply from one administration to the next, even without any change in the underlying statute.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Topher Sanders"
+    ],
+    "url": "https://propublica.org/article/aclu-trump-police-reform-doj-minneapolis-louisville-phoenix-memphis",
+    "published_at": "2026-06-30",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_44f315",
+      "slug": "political-corruption",
+      "type": "concept",
+      "title": "Political Corruption",
+      "hook": "Corruption is the abuse of entrusted power for private gain — and it quietly drains a society, eroding trust, fairness, and the resources meant for everyone.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a75034#0",
+      "format": "flip",
+      "prompt": "What is a consent decree, in the context of police oversight?",
+      "back_html": "\u003cp\u003eA court-enforceable agreement, often following a DOJ finding of\nsystemic misconduct, that locks in specific police reforms and lets a\njudge check compliance.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a75034#1",
+      "format": "quiz",
+      "prompt": "What did the 2026 report examined by ProPublica argue?",
+      "choices": [
+        {
+          "text": "That the DOJ's claim past police-reform findings were 'factually unjustified' didn't hold up",
+          "correct": true
+        },
+        {
+          "text": "That every U.S. police department needs a consent decree",
+          "correct": false
+        },
+        {
+          "text": "That consent decrees are unconstitutional",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe report used evidence from several cities to push back on the\nDOJ's justification for moving away from reform agreements.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a75034#2",
+      "format": "quiz",
+      "prompt": "What does this episode illustrate about accountability tools like consent decrees?",
+      "choices": [
+        {
+          "text": "They depend on an executive branch willing to use them, so enforcement can shift sharply between administrations",
+          "correct": true
+        },
+        {
+          "text": "They are self-enforcing regardless of who runs the DOJ",
+          "correct": false
+        },
+        {
+          "text": "They can only be created by state governments, never the federal government",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA consent decree is a legal tool the DOJ must choose to pursue — its\nuse, not just its existence, is a matter of executive discretion.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "card_d14f9d",
+  "slug": "what-is-a-cell",
+  "type": "concept",
+  "title": "What Is a Cell?",
+  "hook": "Every living thing — from a bacterium to a blue whale — is built from cells, the smallest unit that can call itself alive.",
+  "key_points": [
+    "The cell is the basic structural and functional unit of all known life.",
+    "All cells come from pre-existing cells — they don't appear from nothing.",
+    "Some organisms are a single cell; others, like you, are trillions working together.",
+    "A membrane wraps each cell, holding its contents in and the outside out."
+  ],
+  "content_html": "\u003cp\u003eA cell is the smallest thing that counts as alive. Every organism you can name is built from them: bacteria and amoebas are single cells, while a human body is an estimated tens of trillions of them, specialized into skin, nerve, muscle, and more. The idea that cells are the basic unit of life is called cell theory, one of biology's founding principles.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eCell theory has three core claims: all living things are made of cells, the cell is the basic unit of life, and all cells come from pre-existing cells. That last point — no spontaneous generation — was hard-won, settled by experiments in the 1800s. Whatever its job, every cell shares a few essentials: a membrane that defines its boundary, a watery interior where chemistry happens, and genetic material that tells it what to do. Khan Academy's introduction walks through how these pieces fit together.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/structure-of-a-cell/introduction-to-cells/a/intro-to-cells",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "the-cell"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d56522",
+      "slug": "prokaryote-vs-eukaryote",
+      "type": "concept",
+      "title": "Two Kinds of Cells",
+      "hook": "All cells fall into two camps: simple prokaryotes with no nucleus, and complex eukaryotes that pack their DNA into a sealed control room.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d14f9d#0",
+      "format": "flip",
+      "prompt": "What is the smallest unit of life?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003ecell\u003c/strong\u003e. Every living organism is made of one or more cells, and nothing\nsmaller than a cell is considered alive on its own.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d14f9d#1",
+      "format": "quiz",
+      "prompt": "Where do new cells come from?",
+      "choices": [
+        {
+          "text": "From the division of pre-existing cells",
+          "correct": true
+        },
+        {
+          "text": "They form spontaneously from non-living matter",
+          "correct": false
+        },
+        {
+          "text": "They are assembled by the organism's brain",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCell theory holds that all cells arise from cells that already exist — life\ndoesn't spring up from nothing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d14f9d#2",
+      "format": "quiz",
+      "prompt": "What surrounds and contains every cell?",
+      "choices": [
+        {
+          "text": "A membrane separating inside from outside",
+          "correct": true
+        },
+        {
+          "text": "A rigid metal shell",
+          "correct": false
+        },
+        {
+          "text": "Nothing — cells are open to their surroundings",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA thin membrane wraps every cell, controlling what gets in and out and keeping\nits contents together.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "card_fb760c",
+  "slug": "jupiter-magnetic-cavity-moons",
+  "type": "news",
+  "title": "The Magnetic Bubble That Saved Jupiter's Moons",
+  "hook": "Jupiter has four giant moons. Saturn has essentially one. New simulations pin the difference on a magnetic bubble that kept young Jupiter's moons from spiraling to their deaths.",
+  "key_points": [
+    "Big moons form in a disk of gas and dust around a young giant planet, and drift inward as they interact with it.",
+    "Simulations suggest young Jupiter's strong magnetic field cleared a cavity in the inner part of that disk.",
+    "The cavity acted as a safe zone where Io, Europa, and Ganymede could stop migrating and survive.",
+    "Saturn's weaker young field carved no such gap, so its migrating moons were lost — leaving Titan nearly alone.",
+    "Jupiter now counts over 100 moons but four large ones; Saturn counts over 280, dominated by Titan."
+  ],
+  "content_html": "\u003cp\u003eJupiter and Saturn are both gas giants, so why does Jupiter have four large moons while Saturn's big-moon roster is basically just Titan? A team led by Yuri I. Fujii, reporting in Nature Astronomy via a ScienceDaily writeup, argues the answer is magnetism: young Jupiter's powerful magnetic field carved out a protected pocket where its moons could ride out a dangerous phase of their youth.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eLarge moons are thought to grow inside a circumplanetary disk — a miniature version of the disk that builds planets around a star. The catch is that a moon interacting with that gas tends to drift inward, toward the planet that made it. Using disk models and N-body simulations, the researchers find that young Jupiter's strong field blew a magnetospheric cavity in the inner disk, and that this gap gave Io, Europa, and Ganymede somewhere to stop and survive. Saturn's young field, on the team's account, was too weak for that, so moons migrating through its disk didn't make it — leaving Titan as the lone survivor at the top. Both planets have huge moon counts today (over 100 for Jupiter, over 280 for Saturn), but the story here is about the handful of genuinely big ones, including Ganymede and Titan, the two largest moons in the Solar System.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "authors": [
+      "Yuri I. Fujii"
+    ],
+    "url": "https://sciencedaily.com/releases/2026/07/260727012143.htm",
+    "published_at": "2026-07-27",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "gravity-orbits"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-27",
+  "related": [
+    {
+      "id": "card_bf0bce",
+      "slug": "saturn-spin-mystery",
+      "type": "news",
+      "title": "Solving Saturn's Spin Mystery",
+      "hook": "Saturn's measured spin rate kept drifting, baffling astronomers for decades. The James Webb telescope reveals the planet wasn't speeding up — its winds were fooling us.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "card_7ed11f",
+      "slug": "giant-planet-spins",
+      "type": "news",
+      "title": "Why Some Giant Planets Spin Faster Than 'Failed Stars'",
+      "hook": "Astronomers clocked the spins of dozens of distant worlds and found a surprise: lightweight giant planets can twirl faster than the much heavier brown dwarfs — so mass isn't the whole story.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fb760c#0",
+      "format": "flip",
+      "prompt": "What did young Jupiter's magnetic field do to the disk its moons formed in?",
+      "back_html": "\u003cp\u003eIt cleared a \u003cstrong\u003emagnetospheric cavity\u003c/strong\u003e — a gap in the inner disk. Moons drifting\ninward could park there and stop migrating, instead of being lost.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fb760c#1",
+      "format": "quiz",
+      "prompt": "Why does Saturn have only one dominant large moon, according to this study?",
+      "choices": [
+        {
+          "text": "Its weaker young magnetic field made no protective gap, so migrating moons were lost",
+          "correct": true
+        },
+        {
+          "text": "Saturn's disk never had enough material to build more than one large moon",
+          "correct": false
+        },
+        {
+          "text": "Saturn's rings tore its other large moons apart",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe team argues Saturn's field was too weak to open a cavity in its\ncircumplanetary disk, so moons migrating inward could not survive there.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fb760c#2",
+      "format": "flip",
+      "prompt": "Where do a giant planet's large moons form, and what threatens them early on?",
+      "back_html": "\u003cp\u003eIn the \u003cstrong\u003ecircumplanetary disk\u003c/strong\u003e of gas and dust around the young planet.\nInteracting with that disk makes them migrate inward toward the planet.\u003c/p\u003e"
+    }
+  ]
+}

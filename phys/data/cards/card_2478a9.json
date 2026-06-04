@@ -1,0 +1,141 @@
+{
+  "id": "card_2478a9",
+  "slug": "hubble-tension-shape-wall",
+  "type": "paper",
+  "title": "A Second Wall Blocks Late-Time Fixes to the Hubble Tension",
+  "hook": "Tweaking dark energy in the recent universe was already a hard way out of the Hubble tension. A new bound says it buys you 2% of the 8% you need.",
+  "key_points": [
+    "The known 'normalization wall': baryon acoustic oscillations pin the product H₀ × sound horizon.",
+    "The authors add a 'shape wall' — data also constrain the *shape* of the expansion history E(z).",
+    "With the acoustic scale fixed, raising H₀ demands an equal fractional change in a distance integral.",
+    "Reconstructing E(z) from Pantheon+ supernovae and DESI DR2 BAO caps the H₀ gain at ≲2%.",
+    "Resolving the tension needs ≳8%, and the wall stands even alongside early-universe new physics."
+  ],
+  "content_html": "\u003cp\u003eCosmology's most stubborn discrepancy is the Hubble tension: the early universe and the nearby universe disagree about how fast space is expanding today. One popular escape route is to change physics \u003cem\u003elate\u003c/em\u003e — to tinker with dark energy in the recent past, leaving the early universe untouched. Miguel Sabogal, Luis Escamilla, Davide Pedrotti, Edvig Selimaj and Sunny Vagnozzi argue that route runs into a second barrier nobody had quantified.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe familiar obstacle is a \u0026quot;normalization wall\u0026quot;: measurements of baryon acoustic oscillations — the imprint of primordial sound waves used as a cosmic ruler — constrain the \u003cem\u003eproduct\u003c/em\u003e of H₀ and that ruler's length, so you can't simply slide H₀ upward. The authors point out that the data also constrain the \u003cem\u003eshape\u003c/em\u003e of the expansion history, captured by E(z) = H(z)/H₀. Holding the ruler and the acoustic angular scale fixed, they show that any fractional increase in H₀ must be matched by an equal fractional increase in the dimensionless distance integral ∫dz/E(z). Reconstructing E(z) without assuming a model — using Gaussian processes on unanchored Pantheon+ supernovae and DESI DR2 BAO data — they find the most H₀ can rise is about 2%, against the roughly 8% the tension demands. Their conclusion: late-time modifications face a percent-level \u0026quot;shape wall\u0026quot; on top of the old normalization wall, and it holds even if the early universe is modified too.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Miguel A. Sabogal",
+      "Luis A. Escamilla",
+      "Davide Pedrotti",
+      "Edvig Selimaj",
+      "Sunny Vagnozzi"
+    ],
+    "url": "https://arxiv.org/abs/2607.21244",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_0ac579",
+      "slug": "hubble-tension",
+      "type": "paper",
+      "title": "The Hubble Tension: Cosmology's Stubborn Crisis",
+      "hook": "Two trustworthy ways of measuring how fast the universe expands keep disagreeing — and a decade of cross-checks has only hardened the gap into a genuine crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_1d07ca",
+      "slug": "is-dark-energy-evolving",
+      "type": "paper",
+      "title": "Is Dark Energy Changing Over Time?",
+      "hook": "For decades dark energy looked like a constant. New galaxy-survey data hints it may evolve — and that would shift even our measured value of the cosmic expansion rate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_402dc8",
+      "slug": "cosmic-acceleration-confirmed",
+      "type": "news",
+      "title": "Dark Energy Survives a Major Challenge",
+      "hook": "A bold claim said the universe's accelerating expansion was an illusion. Astronomers checked the math, found the mistakes — and cosmic acceleration came out as strong as ever.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_0ac579",
+      "slug": "hubble-tension",
+      "type": "paper",
+      "title": "The Hubble Tension: Cosmology's Stubborn Crisis",
+      "hook": "Two trustworthy ways of measuring how fast the universe expands keep disagreeing — and a decade of cross-checks has only hardened the gap into a genuine crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_2478a9#0",
+      "format": "quiz",
+      "prompt": "What is the 'shape wall' this paper adds to the Hubble-tension debate?",
+      "choices": [
+        {
+          "text": "A limit from how the expansion rate varies with redshift, not just its overall scale",
+          "correct": true
+        },
+        {
+          "text": "A limit from the physical size of the sound horizon at baryon drag",
+          "correct": false
+        },
+        {
+          "text": "A limit from the angular resolution of current supernova surveys",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe older \u0026quot;normalization wall\u0026quot; comes from BAO pinning H₀ × r_d. The shape wall comes from\nrelative-distance data constraining E(z) = H(z)/H₀ — the \u003cem\u003eshape\u003c/em\u003e of the expansion history.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2478a9#1",
+      "format": "flip",
+      "prompt": "How much of the needed H₀ increase can late-time modifications supply, per this analysis?",
+      "back_html": "\u003cp\u003eAt most about \u003cstrong\u003e2%\u003c/strong\u003e, against the roughly \u003cstrong\u003e8%\u003c/strong\u003e required to close the tension — so late-time\ntweaks alone fall well short, even when early-universe new physics is also allowed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2478a9#2",
+      "format": "quiz",
+      "prompt": "Why does fixing the acoustic angular scale make raising H₀ so hard?",
+      "choices": [
+        {
+          "text": "Any fractional rise in H₀ must be matched by an equal fractional rise in the distance integral ∫dz/E(z)",
+          "correct": true
+        },
+        {
+          "text": "It forces dark energy to behave exactly like a cosmological constant",
+          "correct": false
+        },
+        {
+          "text": "It removes supernovae from the analysis entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith r_d and θ_s held fixed, the authors show δH₀/H₀ ≈ δI/I. Data on the shape of E(z) then\nlimit how much that integral can move — and therefore how much H₀ can rise.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "card_41aeea",
+  "slug": "grok-ai-teammates",
+  "type": "news",
+  "title": "An AI You Assign Work To, Then Walk Away From",
+  "hook": "SpaceXAI's Grok Bot is pitched as an always-on 'AI teammate': it gets its own cloud computer, signs into your apps, and reports back when the multi-step job is done.",
+  "key_points": [
+    "Grok Bot is an always-on agent service framed as independent 'AI teammates'.",
+    "The bots run in a shared cloud-based computer environment of their own.",
+    "They can sign into apps, tools, and websites you already use to finish tasks.",
+    "The pitch is fire-and-forget: they return when the assigned work is complete.",
+    "Handing an agent your logins is the risk — its mistakes carry your permissions."
+  ],
+  "content_html": "\u003cp\u003eSpaceXAI has launched Grok Bot, an always-on agent service marketed as a set of independent \u0026quot;AI teammates\u0026quot; you hand work to. Per The Verge, the bots operate in a shared cloud-based computer environment, can sign into the apps, tools, and websites you already use, and go off to complete multi-step workplace tasks — coming back only when the assignment is finished.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is the direction the whole industry is pushing: from a chatbot that tells you things to an agent that does things. The functional difference is authority. A chatbot can only be wrong in text you're reading; an agent given your logins can be wrong inside your email, your files, and your accounts, with your permissions attached.\u003c/p\u003e\n\u003cp\u003eThat makes two habits worth adopting early. Start with work that's cheap to undo — drafting, gathering, organizing — rather than anything that sends, pays, or deletes. And give an agent the narrowest access that lets it do the job, since every extra connected app widens what a confused or manipulated agent can touch. \u0026quot;Assign it and walk away\u0026quot; is a great pitch; it earns trust one reversible task at a time.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+    "published_at": "2026-08-12",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-agents",
+    "ai-at-work",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d8f877",
+      "slug": "ai-agents-not-coworkers",
+      "type": "news",
+      "title": "Calling an AI Agent Your 'Coworker' Backfires",
+      "hook": "Companies are giving AI agents names and org-chart spots like real employees. Research says that framing makes people worse at their jobs — catching fewer errors and dodging responsibility.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_e0c338",
+      "slug": "ai-browser-guardrail-bypass",
+      "type": "news",
+      "title": "The Trick That Fools AI Browsers Into Ignoring Their Own Rules",
+      "hook": "Telling an AI browser agent something as absurd as '2 + 2 = 5' can be enough to unlock forbidden instructions — a new attack shows how easily an agent's sense of reality can be hijacked.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_41aeea#0",
+      "format": "flip",
+      "prompt": "What makes Grok Bot an 'agent' rather than a chatbot?",
+      "back_html": "\u003cp\u003eIt works in its own cloud computer environment and signs into your apps and\nwebsites to complete multi-step tasks on its own, reporting back when done —\nrather than just answering in a conversation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_41aeea#1",
+      "format": "quiz",
+      "prompt": "What's the main risk in letting an agent sign into your accounts?",
+      "choices": [
+        {
+          "text": "It acts with your permissions, so its mistakes look and land like your own actions",
+          "correct": true
+        },
+        {
+          "text": "It will use up your monthly data allowance",
+          "correct": false
+        },
+        {
+          "text": "Agents can only read, never write, so there's no risk",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAuthority is the whole point of an agent and also the whole danger. Anything it\ncan do with your credentials, it can do wrongly with your credentials.\u003c/p\u003e"
+    },
+    {
+      "id": "card_41aeea#2",
+      "format": "quiz",
+      "prompt": "What should you check before delegating a task to an agent like this?",
+      "choices": [
+        {
+          "text": "Whether the task is reversible if it goes wrong, and how narrow its access can be",
+          "correct": true
+        },
+        {
+          "text": "Whether it uses the largest available model",
+          "correct": false
+        },
+        {
+          "text": "Whether it can type faster than you",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFire-and-forget delegation only makes sense where an error is cheap to undo, so\nstart with low-stakes, reversible work and least-privilege access.\u003c/p\u003e"
+    }
+  ]
+}

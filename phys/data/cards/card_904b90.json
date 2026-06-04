@@ -1,0 +1,141 @@
+{
+  "id": "card_904b90",
+  "slug": "imaging-vacuum-fluctuations",
+  "type": "paper",
+  "title": "Taking a Picture of Empty Space Twitching",
+  "hook": "Quantum fields jitter even in their lowest-energy state. Physicists have now photographed that jitter directly, in a cold-atom system engineered to imitate a relativistic field.",
+  "key_points": [
+    "Uncertainty means a quantum field has random structure even in its ground state.",
+    "These vacuum fluctuations underlie spontaneous decay, the Casimir force, and Hawking radiation.",
+    "Normally only their consequences are seen, not the fluctuating field itself.",
+    "The team imaged spin fluctuations in a flat, two-component Bose-Einstein condensate.",
+    "With interactions dominating, the system behaves like a massive relativistic sine-Gordon field.",
+    "Fluctuations appeared on many length scales at once, with amplitudes matching vacuum predictions."
+  ],
+  "content_html": "\u003cp\u003eQuantum uncertainty does not switch off when you remove all the energy you can. A quantum field in its ground state — the vacuum — still has no definite value everywhere, so a snapshot of it shows random spatial ripples. Physicists have long trusted this picture because of what it causes: spontaneous decay, the Casimir force pulling two plates together, Hawking radiation leaking from a black hole. What they had not done is photograph the ripples themselves.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA Cambridge-led team, reporting on arXiv, did that with cold atoms. Their system is a flat, homogeneous Bose-Einstein condensate made of two coherently coupled spin states; the quantum field of interest is the condensate's spin degree of freedom. Tuned so that interactions dominate over the coupling between components, that spin field behaves like a massive relativistic sine-Gordon field — a genuine quantum field theory, running on atoms in a lab. Images of the field showed fluctuations on several length scales simultaneously, with amplitudes varying by scale in the way theory predicts for a vacuum state. The authors argue the real prize is what comes next: a tabletop platform for relativistic field regimes that are currently beyond calculation.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Yansheng Zhang",
+      "Feiyang Wang",
+      "Yi Jiang",
+      "Alexander C. Jenkins",
+      "Paul H. C. Wong",
+      "Christoph Eigen",
+      "Gehrig Carlse",
+      "Zoran Hadzibabic"
+    ],
+    "url": "https://arxiv.org/abs/2608.20311",
+    "published_at": "2026-08-20",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-24",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_294f1e",
+      "slug": "the-uncertainty-principle",
+      "type": "concept",
+      "title": "Heisenberg's Uncertainty Principle",
+      "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d18019",
+      "slug": "bose-einstein-condensate",
+      "type": "news",
+      "title": "The Fifth State of Matter, Made in Space",
+      "hook": "Chill a gas to a hair above absolute zero and its atoms stop acting like a crowd and merge into one quantum entity. In orbit, weightlessness lets that strange state last even longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_548bd7",
+      "slug": "black-hole-evaporation-exact-4d-solution",
+      "type": "paper",
+      "title": "The First Exact Picture of a Black Hole Evaporating in Our Universe",
+      "hook": "Physicists have finally worked out, in exact mathematical form, how a real 3D black hole's geometry evolves as it evaporates — previously solved only in toy 2D universes.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_904b90#0",
+      "format": "flip",
+      "prompt": "Why does a quantum field fluctuate even in its ground state?",
+      "back_html": "\u003cp\u003eHeisenberg uncertainty forbids a field from having a definite value everywhere at\nonce, so even the lowest-energy vacuum state shows random spatial structure.\u003c/p\u003e"
+    },
+    {
+      "id": "card_904b90#1",
+      "format": "quiz",
+      "prompt": "What is unusual about this experiment compared with earlier work on vacuum fluctuations?",
+      "choices": [
+        {
+          "text": "It images the fluctuating field directly rather than inferring it from a consequence",
+          "correct": true
+        },
+        {
+          "text": "It is the first evidence that vacuum fluctuations exist at all",
+          "correct": false
+        },
+        {
+          "text": "It eliminates vacuum fluctuations in a small region",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVacuum fluctuations were already well established through effects like the Casimir\nforce; what is new is seeing the spatial fluctuations themselves in snapshots.\u003c/p\u003e"
+    },
+    {
+      "id": "card_904b90#2",
+      "format": "flip",
+      "prompt": "What system did the team use as a stand-in for a relativistic quantum field?",
+      "back_html": "\u003cp\u003eA flat Bose-Einstein condensate with two coherently coupled spin components. When\ninteractions dominate the coupling, its spin field mimics a massive relativistic\nsine-Gordon field.\u003c/p\u003e"
+    },
+    {
+      "id": "card_904b90#3",
+      "format": "quiz",
+      "prompt": "What did the images show about the scale of the fluctuations?",
+      "choices": [
+        {
+          "text": "Fluctuations on several length scales at once, with scale-dependent amplitudes matching vacuum predictions",
+          "correct": true
+        },
+        {
+          "text": "A single characteristic wavelength set by the trap size",
+          "correct": false
+        },
+        {
+          "text": "No structure at all until the field was heated",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe reported signature is simultaneous fluctuations across different length scales,\nwhose amplitudes varied with scale as theory predicts for a vacuum state.\u003c/p\u003e"
+    }
+  ]
+}

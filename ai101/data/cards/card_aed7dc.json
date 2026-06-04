@@ -1,0 +1,130 @@
+{
+  "id": "card_aed7dc",
+  "slug": "chatgpt-health-rollout",
+  "type": "news",
+  "title": "ChatGPT Health Opens to Everyone in the US",
+  "hook": "OpenAI is letting anyone in the US plug their medical records into ChatGPT — and claiming its models now reason 'better than clinician level.' That's a big claim to take on trust.",
+  "key_points": [
+    "OpenAI rolled out ChatGPT Health to everyone in the US, per The Verge.",
+    "It lets you connect medical records and health-tracking data to the chatbot.",
+    "OpenAI health VP Ashley Alexander said its models reason at levels 'better than clinician level.'",
+    "That's the company's own claim, made in a briefing — not an independent study.",
+    "Connecting records means handing your most sensitive data to a chatbot company.",
+    "A chatbot that sounds like a doctor still isn't one, and can still be confidently wrong."
+  ],
+  "content_html": "\u003cp\u003eOpenAI is putting a health assistant in front of the whole US. The Verge reports that ChatGPT Health rolled out to everyone in the country, letting people connect their medical records and health-tracking information so the chatbot can answer questions with your actual history in view.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe eye-catching part is the claim attached to it. In a briefing, OpenAI's vice president of health product, Ashley Alexander, said the company's models \u0026quot;are now capable of reasoning at levels that are better than clinician level.\u0026quot; Notice who is speaking: that's the company describing its own product, not an independent study or a regulator. Claims like that are testable in principle, and the useful habit is to wait for someone other than the vendor to test them.\u003c/p\u003e\n\u003cp\u003eTwo things are worth holding at once. A tool that can read your records and explain them in plain language is genuinely useful — most people leave appointments with questions they only think of later. But the same tool is a private company you've just handed your most sensitive data, and a chatbot that sounds authoritative can still be confidently wrong. Use it to understand and to prepare questions; leave the diagnosing to the person who can examine you.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+    "published_at": "2026-07-23",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-health-questions",
+    "ai-healthcare",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_d1c9e8",
+      "slug": "asking-ai-about-health",
+      "type": "concept",
+      "title": "Asking AI About Health",
+      "hook": "AI beats frantic late-night symptom-googling for calm, readable explanations — and makes a great prep tool for a doctor's visit. What it can't do is examine you or diagnose you.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eb781a",
+      "slug": "ai-in-healthcare",
+      "type": "concept",
+      "title": "AI in Healthcare",
+      "hook": "AI can spot a tumor on a scan faster than a tired radiologist and flag patterns no one would catch by eye. It's a powerful assistant to doctors — not a replacement for one.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_983f67",
+      "slug": "midjourney-medical-claims",
+      "type": "news",
+      "title": "When an AI Company Promises a Medical Miracle",
+      "hook": "Midjourney, famous for AI art, now pitches a spa-like water tank that scans your body 'as powerful as an MRI' — but The Verge says the bold claims lack the evidence to back them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_aed7dc#0",
+      "format": "quiz",
+      "prompt": "What does ChatGPT Health let people in the US do?",
+      "choices": [
+        {
+          "text": "Connect their medical records and health-tracking data to the chatbot",
+          "correct": true
+        },
+        {
+          "text": "Book appointments with a licensed doctor through OpenAI",
+          "correct": false
+        },
+        {
+          "text": "Get prescriptions filled directly from a chat window",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Verge reports the rollout lets more people link medical records and\nhealth-tracking information to ChatGPT — not that it replaces a clinic.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aed7dc#1",
+      "format": "flip",
+      "prompt": "Who said OpenAI's models reason 'better than clinician level' — and why does that matter?",
+      "back_html": "\u003cp\u003eOpenAI's own VP of health product, Ashley Alexander, in a company briefing. It's a\nvendor claim, not an independent result — worth treating as marketing until tested.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aed7dc#2",
+      "format": "quiz",
+      "prompt": "What's the main privacy tradeoff in connecting your records to a health chatbot?",
+      "choices": [
+        {
+          "text": "Your most sensitive personal data now sits with a chatbot company",
+          "correct": true
+        },
+        {
+          "text": "Your doctor loses access to your own medical history",
+          "correct": false
+        },
+        {
+          "text": "Nothing changes — medical records aren't personal data",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLinking records hands a private company your health history. That's a real cost to\nweigh against the convenience, separate from whether the answers are any good.\u003c/p\u003e"
+    }
+  ]
+}

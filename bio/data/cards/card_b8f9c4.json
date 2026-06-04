@@ -1,0 +1,70 @@
+{
+  "id": "card_b8f9c4",
+  "slug": "octopuses-use-mirrors",
+  "type": "news",
+  "title": "Octopuses Can Use Mirrors",
+  "hook": "Octopuses learned to read a mirror to find food hidden behind them — a tool-like skill once thought to belong only to mammals and birds.",
+  "key_points": [
+    "Dartmouth researchers trained octopuses to locate hidden food using a mirror's reflection.",
+    "After training they found the food's location about 73% of the time.",
+    "They used the mirror as a tool, not just reacting to the reflection itself.",
+    "The skill had previously been seen only in vertebrates like mammals and birds."
+  ],
+  "content_html": "\u003cp\u003eOctopuses may be even smarter than we thought. Researchers at Dartmouth, as reported by ScienceDaily, found that octopuses can learn to use mirrors to locate food hidden behind them — a skill previously seen only in vertebrates like mammals and birds.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAfter training, the animals correctly identified the food's location about 73% of the time. Crucially, the octopuses appeared to use the mirror as a tool to reason about what they couldn't directly see, rather than simply reacting to the reflection in front of them. Finding this kind of mirror-guided problem-solving in an invertebrate — an animal on a very different branch of the tree of life from us — adds to a growing picture of just how flexibly cephalopod brains can behave.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260605023402.htm",
+    "published_at": "2026-06-05",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "animals"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-08",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_9e052d",
+      "slug": "how-animals-behave",
+      "type": "concept",
+      "title": "How Animals Behave",
+      "hook": "A spider spins a perfect web without a lesson, while a crow figures out a new trick by trial and error — two sides of how animals act in the world.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b8f9c4#0",
+      "format": "flip",
+      "prompt": "What did Dartmouth researchers find octopuses could do with a mirror?",
+      "back_html": "\u003cp\u003eUse the mirror as a \u003cstrong\u003etool\u003c/strong\u003e to locate food hidden behind them — finding it\nabout 73% of the time after training, not just reacting to the reflection.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b8f9c4#1",
+      "format": "quiz",
+      "prompt": "Why was the octopus mirror result surprising?",
+      "choices": [
+        {
+          "text": "The skill had only been seen in vertebrates like mammals and birds",
+          "correct": true
+        },
+        {
+          "text": "Octopuses were thought to be blind",
+          "correct": false
+        },
+        {
+          "text": "Mirrors had never been used in animal experiments before",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUsing a mirror to find hidden objects was previously documented only in\nvertebrates, so seeing it in an invertebrate like the octopus was striking.\u003c/p\u003e"
+    }
+  ]
+}

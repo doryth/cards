@@ -1,0 +1,113 @@
+{
+  "id": "card_152b20",
+  "slug": "super-k-proton-decay-invisible-channel",
+  "type": "paper",
+  "title": "The Proton Still Refuses to Die",
+  "hook": "Super-Kamiokande searched its entire pure-water dataset for a proton decaying into a positron and something invisible. Nothing. The proton's lifetime in that channel now exceeds 1.7 x 10^33 years.",
+  "key_points": [
+    "Grand unified theories generally predict the proton is unstable, though extremely long-lived.",
+    "This search targeted p -\u003e l+ + X, where X is an invisible, massless, neutral particle.",
+    "It used 401 kiloton-years of exposure: the entire pure water phase of Super-Kamiokande.",
+    "No signal appeared above the expected atmospheric neutrino background.",
+    "Lower limits at 90% confidence: 1.72 x 10^33 years for the positron channel, 0.61 x 10^33 for the muon channel.",
+    "Those improve on previous limits by factors of about 2 and 1.5 respectively."
+  ],
+  "content_html": "\u003cp\u003eNothing in the Standard Model makes the proton decay, but nearly every attempt to unify the\nforces does — at rates so slow that you need to watch an absurd number of protons to see one go.\nSuper-Kamiokande, a 50,000-tonne tank of ultrapure water lined with photomultipliers, is how you\nwatch that many.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis search covers a channel where the proton decays into a single positively charged lepton plus\nX, an invisible massless neutral particle, using 401 kiloton-years of exposure — the entire pure\nwater phase of the experiment. No candidate excess appeared beyond what atmospheric neutrinos are\nexpected to produce. The resulting 90%-confidence lower limits on the partial lifetime are 1.72 x\n10^33 years for decay to a positron and 0.61 x 10^33 years for decay to a muon, improving on\nprevious bounds by factors of roughly 2 and 1.5. Null results like this are how the space of\ngrand unified theories actually gets narrowed: each order of magnitude in lifetime kills off\nmodels that predicted faster decay.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Super-Kamiokande Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2608.30361",
+    "published_at": "2026-08-31",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-08-31",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_37dae0",
+      "slug": "tracking-the-elusive-neutrino",
+      "type": "news",
+      "title": "Catching the Ghost Particle",
+      "hook": "Trillions of neutrinos stream through your body every second, yet they almost never touch anything. To catch even a few, physicists build some of the most audacious detectors ever conceived.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_3206bb",
+      "slug": "how-many-elementary-particles",
+      "type": "news",
+      "title": "How Many Elementary Particles Are There, Really?",
+      "hook": "Count the Standard Model's particles and you might say 17 — but tweak the rules and the tally climbs past 900, with one rigorous answer that isn't even a whole number.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-15"
+    },
+    {
+      "id": "card_46f944",
+      "slug": "antimatter",
+      "type": "concept",
+      "title": "Antimatter",
+      "hook": "Every particle has a mirror twin with opposite charge, and when the two meet they vanish in a flash of pure energy — yet the universe is almost entirely matter, and nobody fully knows why.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_152b20#0",
+      "format": "flip",
+      "prompt": "Why do physicists keep looking for proton decay?",
+      "back_html": "\u003cp\u003eGrand unified theories predict protons eventually decay. Detecting it would be direct\nevidence for physics beyond the Standard Model; failing to see it rules out models.\u003c/p\u003e"
+    },
+    {
+      "id": "card_152b20#1",
+      "format": "quiz",
+      "prompt": "What limits how sensitive a proton decay search can be?",
+      "choices": [
+        {
+          "text": "The exposure — detector mass times observation time — and the irreducible atmospheric neutrino background",
+          "correct": true
+        },
+        {
+          "text": "The energy of the accelerator producing the protons",
+          "correct": false
+        },
+        {
+          "text": "The temperature of the water in the tank",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause the rate per proton is minuscule, you need enormous numbers of protons watched for\nyears, and you must separate any candidate from atmospheric neutrino interactions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_152b20#2",
+      "format": "flip",
+      "prompt": "What was unusual about the decay channel searched here?",
+      "back_html": "\u003cp\u003eThe final state was a single charged antilepton plus X, an invisible massless neutral\nparticle — so most of the signature has to be reconstructed from the lepton alone.\u003c/p\u003e"
+    }
+  ]
+}

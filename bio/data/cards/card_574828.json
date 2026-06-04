@@ -1,0 +1,111 @@
+{
+  "id": "card_574828",
+  "slug": "cell-organelles",
+  "type": "concept",
+  "title": "The Cell's Tiny Organs",
+  "hook": "Inside a single cell sits a whole working city — a control room, power plants, factories, and shipping lanes, each a structure called an organelle.",
+  "key_points": [
+    "Organelles are specialized structures inside a cell, each doing a particular job.",
+    "The nucleus stores DNA and acts as the cell's control center.",
+    "Mitochondria release energy from food; ribosomes build proteins.",
+    "The endoplasmic reticulum and Golgi apparatus process and ship those proteins."
+  ],
+  "content_html": "\u003cp\u003eA eukaryotic cell isn't an empty bag of fluid — it's packed with tiny structures called organelles, each handling a specific task. Think of it as a miniature city: the nucleus is the control room storing the master plans (DNA), mitochondria are power plants, ribosomes are factories, and a network of membranes ships goods around.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEach organelle has a clear role. The \u003cstrong\u003enucleus\u003c/strong\u003e guards the cell's DNA and decides which genes get used. \u003cstrong\u003eMitochondria\u003c/strong\u003e break down food molecules to release usable energy, which is why they're nicknamed the powerhouse of the cell. \u003cstrong\u003eRibosomes\u003c/strong\u003e read genetic instructions and build proteins. Newly made proteins often travel through the \u003cstrong\u003eendoplasmic reticulum\u003c/strong\u003e (a folded membrane network) and then the \u003cstrong\u003eGolgi apparatus\u003c/strong\u003e, which modifies, packages, and labels them for delivery. Khan Academy's tour of organelles walks through each structure and how they cooperate to keep the cell alive and busy.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/structure-of-a-cell/tour-of-organelles/a/organelles-article",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "the-cell"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d14f9d",
+      "slug": "what-is-a-cell",
+      "type": "concept",
+      "title": "What Is a Cell?",
+      "hook": "Every living thing — from a bacterium to a blue whale — is built from cells, the smallest unit that can call itself alive.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d56522",
+      "slug": "prokaryote-vs-eukaryote",
+      "type": "concept",
+      "title": "Two Kinds of Cells",
+      "hook": "All cells fall into two camps: simple prokaryotes with no nucleus, and complex eukaryotes that pack their DNA into a sealed control room.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_14dba3",
+      "slug": "cell-membrane-and-transport",
+      "type": "concept",
+      "title": "The Cell Membrane: Gatekeeper of the Cell",
+      "hook": "A flexible, oily film just two molecules thick decides what enters and leaves every cell — and it pulls off some of that traffic for free.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_574828#0",
+      "format": "flip",
+      "prompt": "What is an organelle?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003especialized structure inside a cell\u003c/strong\u003e that performs a specific job — like a\ntiny organ. Examples include the nucleus, mitochondria, and ribosomes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_574828#1",
+      "format": "quiz",
+      "prompt": "Which organelle stores the cell's DNA and directs its activities?",
+      "choices": [
+        {
+          "text": "The nucleus",
+          "correct": true
+        },
+        {
+          "text": "A ribosome",
+          "correct": false
+        },
+        {
+          "text": "The Golgi apparatus",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe \u003cstrong\u003enucleus\u003c/strong\u003e holds the cell's DNA and acts as its control center, directing\nwhich proteins get made and when.\u003c/p\u003e"
+    },
+    {
+      "id": "card_574828#2",
+      "format": "quiz",
+      "prompt": "Where in the cell are proteins assembled?",
+      "choices": [
+        {
+          "text": "On ribosomes",
+          "correct": true
+        },
+        {
+          "text": "Inside mitochondria",
+          "correct": false
+        },
+        {
+          "text": "In the cell membrane",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u003cstrong\u003eRibosomes\u003c/strong\u003e read genetic instructions and string amino acids together into\nproteins. They float freely or sit on the endoplasmic reticulum.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "card_7d60f6",
+  "slug": "llms-resisting-propaganda",
+  "type": "news",
+  "title": "Which Chatbots Best Resist Propaganda?",
+  "hook": "Estonia put dozens of AI models to the test: when nudged toward Russia's talking points, which ones held the line? It turns out the chatbot you choose can shape the slant of what you're told.",
+  "key_points": [
+    "An Estonian government benchmark scored dozens of LLMs on resisting Russian 'strategic narratives.'",
+    "Models varied — some pushed back on propaganda framings, others absorbed and repeated them.",
+    "Chatbots learn from the internet, so they can pick up and echo coordinated disinformation.",
+    "Takeaway: on contested topics, which model you ask — and cross-checking — actually matters."
+  ],
+  "content_html": "\u003cp\u003eOn June 4, 2026, Ars Technica covered an unusual benchmark from Estonia's government: a test of how dozens of large language models hold up when prompted toward Russia's \u0026quot;strategic narratives\u0026quot; — the framings and talking points behind state propaganda. The headline finding is that models differ. Some consistently pushed back or added context; others more readily absorbed and repeated the propaganda framing.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhy would a chatbot parrot propaganda at all? Because these systems learn by digesting enormous amounts of text from the open internet, and that text includes deliberate, coordinated disinformation. A model has no independent sense of geopolitical truth; it reflects patterns in what it was trained on and how it was tuned. The practical lesson for an everyday user is quieter than the geopolitics: on any contested or politically charged topic, the specific AI you ask can tilt the answer, and treating a single chatbot as a neutral oracle is a mistake. Cross-check against accountable sources, and remember that \u0026quot;the AI said so\u0026quot; is not the same as \u0026quot;it's true.\u0026quot;\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Kyle Orland"
+    ],
+    "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda",
+    "published_at": "2026-06-04",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-and-truth",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-08",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_5e58f4",
+      "slug": "what-happens-to-truth",
+      "type": "concept",
+      "title": "What Happens to Truth?",
+      "hook": "When anything can be faked and the internet floods with synthetic everything, the danger isn't just believing lies — it's the 'liar's dividend,' where real evidence gets dismissed as fake too.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82f0f6",
+      "slug": "ai-and-the-news",
+      "type": "concept",
+      "title": "AI \u0026 the News",
+      "hook": "AI now writes news, fakes whole 'outlets,' and powers the feed deciding what you see. Staying informed increasingly means knowing how the sausage is made — and who made it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7d60f6#0",
+      "format": "quiz",
+      "prompt": "What did Estonia's benchmark measure across dozens of AI models?",
+      "choices": [
+        {
+          "text": "How well each model resisted Russia's 'strategic narratives' / propaganda",
+          "correct": true
+        },
+        {
+          "text": "Which model writes the fastest poetry",
+          "correct": false
+        },
+        {
+          "text": "How much electricity each model uses",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe government benchmark tested how dozens of LLMs responded when steered\ntoward Russian propaganda framings — and the models differed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7d60f6#1",
+      "format": "flip",
+      "prompt": "Why can an AI chatbot end up repeating propaganda in the first place?",
+      "back_html": "\u003cp\u003eIt learns patterns from huge amounts of internet text, which can include\ncoordinated disinformation — so it may absorb and echo those framings.\u003c/p\u003e"
+    }
+  ]
+}

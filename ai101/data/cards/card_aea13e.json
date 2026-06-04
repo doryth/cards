@@ -1,0 +1,98 @@
+{
+  "id": "card_aea13e",
+  "slug": "apple-china-model-alibaba",
+  "type": "news",
+  "title": "Apple Built a Separate AI for China",
+  "hook": "Reuters reports Apple trained a China-only model with Alibaba's help. The AI on your phone isn't one global product — it's whatever your country's rules allow.",
+  "key_points": [
+    "The Verge, citing Reuters, reports Apple trained a China-specific LLM with Alibaba.",
+    "The partnership is notable for crossing US-China tech tensions rather than avoiding them.",
+    "Operating in China means a domestic partner and compliance with local content rules.",
+    "The practical upshot: the same app can give different answers in different countries.",
+    "Where a model was trained and by whose rules is part of what it will and won't say."
+  ],
+  "content_html": "\u003cp\u003eApple has trained a custom large language model for the Chinese market in partnership with Alibaba, The Verge reports, citing a Reuters account based on people familiar with the work. It's an unusual cross-border collaboration at a moment when US and Chinese tech interests are pulling apart.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe business logic is straightforward: to sell AI features in China, a foreign company generally needs a domestic partner and a model that complies with local content rules. The idea worth carrying away is less about Apple than about AI in general. We tend to imagine a model as a single object with fixed knowledge, but it's a product shaped by whoever built it and whichever regulator has jurisdiction. Two people opening the same assistant in two countries can get materially different answers — not because one of them is broken, but because they aren't running the same model at all.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Robert Hart"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "published_at": "2026-08-14",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "alignment"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d3e1b8",
+      "slug": "china-open-model-gap",
+      "type": "news",
+      "title": "China's Free-to-Download Models Are Closing the Gap",
+      "hook": "A Chinese lab's openly downloadable model reportedly rivals the top US models at some security tasks — a sign the distance between open AI and the frontier is shrinking fast.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "card_ba06cb",
+      "slug": "apple-private-cloud-ai",
+      "type": "news",
+      "title": "Can Cloud AI Be Private? Apple's Bet",
+      "hook": "Apple's pitch for its AI is privacy: small models run on your device, and bigger ones run in the cloud — even on Google's servers — in a way Apple says gives the host no access to your data.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_aea13e#0",
+      "format": "quiz",
+      "prompt": "Why would Apple train a separate model just for the China market?",
+      "choices": [
+        {
+          "text": "Operating there requires a domestic partner and compliance with local rules",
+          "correct": true
+        },
+        {
+          "text": "Chinese phones use a different kind of processor for text",
+          "correct": false
+        },
+        {
+          "text": "Apple's global model works only in English",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA market-specific model with a local partner is how a foreign company meets\nChina's regulatory and content requirements.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aea13e#1",
+      "format": "flip",
+      "prompt": "What does a region-specific model mean for you as a user?",
+      "back_html": "\u003cp\u003eThe same app can answer differently depending on where you are. What a model\nwill and won't say reflects the rules of the market it was built for.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "card_e8725c",
+  "slug": "chatgpt-work-atlas-shutdown",
+  "type": "news",
+  "title": "OpenAI Kills Its AI Browser, Bets on an Agent That Works For You",
+  "hook": "Less than a year after launching an AI browser, OpenAI is shutting it down — and replacing the ambition behind it with 'ChatGPT Work,' an agent built to run independent tasks for hours at a time.",
+  "key_points": [
+    "OpenAI announced 'ChatGPT Work,' built on a rebranded version of its Codex agent tool.",
+    "Ars Technica reports it promises independent workflows that can run 'for hours if needed.'",
+    "The Verge reports OpenAI is simultaneously sunsetting ChatGPT Atlas, its AI browser, less than a year after launch.",
+    "Atlas could act on your behalf inside a browser; ChatGPT Work aims to do more, without needing a dedicated browser.",
+    "Shows how fast AI product bets get abandoned when a broader approach looks more promising."
+  ],
+  "content_html": "\u003cp\u003eOpenAI just made two announcements that only make sense together. Ars Technica reports the company unveiled \u0026quot;ChatGPT Work,\u0026quot; built on a rebranded version of its Codex agent tool and promising independent workflows that can run \u0026quot;for hours if needed\u0026quot; — a leap from answering questions toward completing extended tasks largely on its own. At the same time, The Verge reports OpenAI is sunsetting ChatGPT Atlas, its AI-powered browser, less than a year after launching it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAtlas let an agent act on your behalf inside a browser — clicking, filling forms, navigating sites for you. ChatGPT Work appears to be a broader bet: an agent that can carry out substantial, hours-long workflows without needing a dedicated browser shell to do it in. Retiring Atlas so soon after its debut is the more telling detail. It's a clear signal that even a major lab will drop a shipped product fast once a different approach looks like the better long-term bet — a reminder that today's flashy AI feature isn't a permanent fixture, just the current best guess. For anyone tracking the shift from chatbots to agents, the substance here matters more than the rebrand: AI that can be handed a task and left to work on it for hours is a meaningfully bigger step than AI that answers one question and waits for the next.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Kyle Orland"
+    ],
+    "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you",
+    "published_at": "2026-07-09",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-agents",
+    "ai-at-work",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-09",
+  "related": [
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a0dcb3",
+      "slug": "ai-at-work",
+      "type": "concept",
+      "title": "AI at Work",
+      "hook": "The biggest everyday payoff from AI is at work: drafting the email, summarizing the meeting, untangling the spreadsheet formula. The trick is using it without leaking secrets or trust.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2cf71b",
+      "slug": "openai-gpt-5-6-release",
+      "type": "news",
+      "title": "OpenAI's GPT-5.6 Arrives — After a Government Pause",
+      "hook": "OpenAI's newest models landed in a 'limited preview' — but only after the US government asked it to slow the rollout over security worries. A sign that big AI releases now answer to Washington.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e8725c#0",
+      "format": "quiz",
+      "prompt": "What happened to ChatGPT Atlas, OpenAI's AI browser, as part of this announcement?",
+      "choices": [
+        {
+          "text": "OpenAI is shutting it down, less than a year after it launched",
+          "correct": true
+        },
+        {
+          "text": "It was renamed but kept exactly as-is",
+          "correct": false
+        },
+        {
+          "text": "It became OpenAI's most popular product",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Verge reports Atlas is being sunset as OpenAI shifts its agentic ambitions\ninto the new ChatGPT Work product instead.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e8725c#1",
+      "format": "flip",
+      "prompt": "What can ChatGPT Work reportedly do that sets it apart from a typical chatbot?",
+      "back_html": "\u003cp\u003eRun independent workflows for hours at a time — closer to an agent handling\nan extended task on its own than a chatbot answering one question at a time.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e8725c#2",
+      "format": "flip",
+      "prompt": "What's the broader lesson in Atlas launching and shutting down within a year?",
+      "back_html": "\u003cp\u003eEven major AI labs abandon products fast when a different approach looks more\npromising — a shipped AI feature isn't a permanent commitment.\u003c/p\u003e"
+    }
+  ]
+}

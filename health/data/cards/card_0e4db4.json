@@ -1,0 +1,98 @@
+{
+  "id": "card_0e4db4",
+  "slug": "covid-reactivates-dormant-viruses",
+  "type": "news",
+  "title": "COVID Can Wake Up Viruses You Already Had",
+  "hook": "Most adults carry dormant viruses for life. Researchers found COVID-19 can reactivate them — and one poorly understood viral family tracked strongly with long COVID.",
+  "key_points": [
+    "Herpes-family viruses like Epstein-Barr and cytomegalovirus stay dormant in the body for life.",
+    "Researchers found COVID-19 infection can reactivate several of these sleeping viruses.",
+    "One poorly understood viral family was strongly associated with long COVID and lasting disability.",
+    "This offers a candidate explanation for why some people don't bounce back after COVID.",
+    "It's an association, not proof of cause — but it points research at a testable target."
+  ],
+  "content_html": "\u003cp\u003eMost adults are quietly carrying viruses they caught years ago. Epstein-Barr, cytomegalovirus, and several other herpes-family viruses never fully clear the body after the initial infection; they go dormant and stay. New research finds that COVID-19 can wake them back up.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat alone would be a curiosity. What makes it significant is the pattern researchers saw next: one poorly understood viral family, once reactivated, was strongly associated with long COVID and with lasting disability. Patients who reactivated it were disproportionately among those who never recovered.\u003c/p\u003e\n\u003cp\u003eLong COVID has been frustrating to study precisely because it lacks a clear mechanism — a constellation of symptoms with no obvious single cause. Reactivated dormant viruses are the kind of hypothesis that can actually be tested: you can measure them, track them over time, and in principle treat them. The researchers stop short of claiming reactivation causes long COVID, and the honest read is that this is an association pointing at a promising target, not an answer. But it's the sort of clue that moves a field.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260814011034.htm",
+    "published_at": "2026-08-15",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "common-illness",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-15",
+  "related": [
+    {
+      "id": "card_528055",
+      "slug": "fluvoxamine-long-covid-fatigue",
+      "type": "news",
+      "title": "A Cheap Antidepressant May Ease Long COVID's Crushing Fatigue",
+      "hook": "In a trial of nearly 400 adults, the low-cost antidepressant fluvoxamine significantly reduced long COVID fatigue and improved quality of life — one of the first medications shown to help.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "card_1e126a",
+      "slug": "cold-flu-or-covid",
+      "type": "concept",
+      "title": "Cold, Flu, or COVID?",
+      "hook": "They share a lot of symptoms, but colds, flu, and COVID-19 differ in how fast they hit and how hard — and telling them apart can change what you do next.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5acd3d",
+      "slug": "caring-for-a-cold-or-flu-at-home",
+      "type": "concept",
+      "title": "Caring for a Cold or Flu at Home",
+      "hook": "Most colds and flu run their course on their own. Good home care is about comfort and rest — and knowing the handful of red flags that mean it's time to get checked.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0e4db4#0",
+      "format": "flip",
+      "prompt": "What does it mean that viruses like Epstein-Barr are 'dormant' in the body?",
+      "back_html": "\u003cp\u003eAfter the initial infection they never fully leave — they persist quietly for life\nand can reactivate when conditions change, such as during another infection.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0e4db4#1",
+      "format": "quiz",
+      "prompt": "What did researchers find most strongly associated with long COVID?",
+      "choices": [
+        {
+          "text": "Reactivation of one poorly understood dormant viral family",
+          "correct": true
+        },
+        {
+          "text": "The severity of the original COVID fever",
+          "correct": false
+        },
+        {
+          "text": "How many COVID vaccine doses a person had received",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAmong the dormant viruses COVID reactivated, one little-studied viral family showed\nthe strongest link to long COVID and lasting disability.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0e4db4#2",
+      "format": "flip",
+      "prompt": "Why does this finding matter even though it's only an association?",
+      "back_html": "\u003cp\u003eIt gives long COVID research a concrete, testable target — reactivated viruses —\nrather than an unexplained syndrome.\u003c/p\u003e"
+    }
+  ]
+}

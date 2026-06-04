@@ -1,0 +1,116 @@
+{
+  "id": "card_378915",
+  "slug": "three-qubits-one-josephson-junction",
+  "type": "paper",
+  "title": "Three Qubits Sharing a Single Josephson Junction",
+  "hook": "Superconducting processors usually give each qubit its own hardware. The 'multiunimon' packs three into one junction — and does three-qubit gates natively, in the time a single-qubit gate takes.",
+  "key_points": [
+    "Most quantum algorithms compile down to one- and two-qubit gates; native multi-qubit gates can cut circuit depth sharply on noisy hardware.",
+    "The multiunimon is a superconducting multimode circuit encoding several qubits in one Josephson junction embedded in a coplanar waveguide.",
+    "It inherits the unimon qubit's traits: high anharmonicity, full protection from low-frequency charge noise, partial protection from flux noise.",
+    "Simulating a three-qubit device with Josephson-to-inductive energy ratio above 1, all twelve controlled-controlled-NOT gates reached a mean fidelity of 99.5%.",
+    "The pulses were simple sine-squared shapes of length comparable to a single-qubit gate.",
+    "Performance was limited by incoherent errors dominated by dielectric loss — a materials problem, not a design one."
+  ],
+  "content_html": "\u003cp\u003eA quantum algorithm is normally compiled into a long sequence of one- and two-qubit gates. On noisy hardware, length is the enemy: every extra layer is another chance for an error. That makes native multi-qubit gates — operations that act on three qubits at once, in hardware — an attractive shortcut, if a circuit can be built to support them.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSasu Tuohino, Mikko Möttönen and Matti Silveri propose the multiunimon: a superconducting multimode circuit that encodes multiple qubits in a device containing a single Josephson junction embedded in a coplanar waveguide structure. It is a close relative of the unimon qubit and inherits its useful properties — high anharmonicity, full protection against low-frequency charge noise, and partial protection against flux noise. Designing a three-qubit version with the Josephson-to-inductive energy ratio above unity, and using a leakage-aware encoding of the computational states, the authors simulate all twelve distinct controlled-controlled-NOT gates and obtain a mean fidelity of 99.5%. The pulses are plain sine-squared shapes, no longer than a typical single-qubit gate. The remaining error budget is dominated by dielectric loss — an incoherent, materials-driven limit, which the authors argue leaves clear headroom as fabrication improves.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Sasu Tuohino",
+      "Mikko Möttönen",
+      "Matti Silveri"
+    ],
+    "url": "https://arxiv.org/abs/2608.14357",
+    "published_at": "2026-08-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_327d2c",
+      "slug": "silicon-spin-qubit-five-nines",
+      "type": "paper",
+      "title": "A Silicon Qubit Gate That Misfires Once in a Million Tries",
+      "hook": "Spin qubits in silicon just crossed 99.999% single-gate fidelity — and getting there meant discovering that some of the field's benchmark numbers were partly artefacts.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3c8403",
+      "slug": "majorana-parity-qubit-coherent-control",
+      "type": "paper",
+      "title": "First-Ever Coherent Control of a Majorana Qubit",
+      "hook": "Majorana zero modes promise qubits that resist noise almost by design. A Delft-led team just demonstrated the first coherent control of one, a step toward fault-tolerant quantum computers.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-10"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_378915#0",
+      "format": "flip",
+      "prompt": "Why would native multi-qubit gates help a noisy quantum processor?",
+      "back_html": "\u003cp\u003eAlgorithms normally decompose into long chains of one- and two-qubit gates. Doing a\nthree-qubit operation directly \u003cstrong\u003ecuts circuit depth\u003c/strong\u003e, giving errors less time to\naccumulate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_378915#1",
+      "format": "quiz",
+      "prompt": "What is unusual about the multiunimon's hardware layout?",
+      "choices": [
+        {
+          "text": "It encodes multiple qubits in a single Josephson junction embedded in a coplanar waveguide",
+          "correct": true
+        },
+        {
+          "text": "It uses no Josephson junctions at all",
+          "correct": false
+        },
+        {
+          "text": "It stores each qubit in a separate cryostat",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt is a multimode circuit: several modes of one junction-and-waveguide structure carry\nthe qubits, inheriting the unimon's charge-noise protection and high anharmonicity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_378915#2",
+      "format": "flip",
+      "prompt": "What limited the simulated 99.5% mean CCNOT fidelity?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eIncoherent errors dominated by dielectric loss\u003c/strong\u003e — a materials-quality limitation\nrather than a flaw in the gate scheme, so better materials should push fidelity up.\u003c/p\u003e"
+    }
+  ]
+}

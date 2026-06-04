@@ -1,0 +1,120 @@
+{
+  "id": "card_302533",
+  "slug": "nuclear-clock-thorium-229",
+  "type": "paper",
+  "title": "The First Clock That Ticks With a Nucleus",
+  "hook": "Atomic clocks keep time with jumps in an atom's electrons. Physicists just ran a clock that ticks on a jump inside the atom's nucleus instead — a far more shielded, stabler reference.",
+  "key_points": [
+    "Today's best clocks lock onto a precise energy jump of an atom's electrons.",
+    "Thorium-229 has a uniquely low-energy nuclear jump that a laser can actually reach.",
+    "Researchers stabilized a laser to that nuclear transition in a solid crystal — a working nuclear clock.",
+    "Two separate crystals agreed to about 13 decimal places, showing the reference is reproducible.",
+    "A nucleus is tucked deep inside its electrons, so it shrugs off outside disturbances."
+  ],
+  "content_html": "\u003cp\u003eFor decades, the most precise instrument humanity has built has been the atomic clock. It works by tuning a laser or microwave to the exact frequency at which an atom's electrons jump between two energy levels — that frequency is so reliable it now \u003cem\u003edefines\u003c/em\u003e the second. But electrons sit on the outside of the atom, exposed to stray electric and magnetic fields that nudge their timing ever so slightly. What if you could instead keep time with the atomic nucleus, buried deep inside and far better shielded?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat's the promise of a nuclear clock, and a team led by groups in China has now demonstrated one. The trick is thorium-229, whose nucleus has an unusually low-energy excited state — low enough that a carefully built ultraviolet laser can actually drive the transition, something true of no other known nucleus. The researchers locked such a laser to that nuclear jump in a home-grown thorium-doped crystal, and found that two different crystals agreed on the frequency to about 13 decimal places — strong evidence the reference is real and reproducible. Because a nucleus shrugs off the disturbances that plague electrons, nuclear clocks could eventually outdo today's best, while doubling as exquisitely sensitive probes of whether the \u0026quot;constants\u0026quot; of nature truly stay constant. A companion \u003cem\u003eColloquium: Nuclear clocks\u003c/em\u003e review (arXiv:2606.11048) lays out the half-century of work behind the breakthrough.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Beichen Huang",
+      "Shiqian Ding",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2606.08870",
+    "published_at": "2026-06-07",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "atomic-nuclear",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-11",
+  "date": "2026-06-07",
+  "related": [
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_987298",
+      "slug": "special-relativity-basics",
+      "type": "concept",
+      "title": "Special Relativity, Gently",
+      "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_302533#0",
+      "format": "flip",
+      "prompt": "What is the key difference between a nuclear clock and a conventional atomic clock?",
+      "back_html": "\u003cp\u003eAn atomic clock keeps time with an energy jump of the atom's \u003cstrong\u003eelectrons\u003c/strong\u003e; a nuclear clock uses\na jump inside the \u003cstrong\u003enucleus\u003c/strong\u003e itself — which is far better shielded from outside disturbances.\u003c/p\u003e"
+    },
+    {
+      "id": "card_302533#1",
+      "format": "quiz",
+      "prompt": "Why is thorium-229 special for building a nuclear clock?",
+      "choices": [
+        {
+          "text": "It has a uniquely low-energy nuclear transition that a laser can actually reach",
+          "correct": true
+        },
+        {
+          "text": "It is the only radioactive element that exists",
+          "correct": false
+        },
+        {
+          "text": "Its nucleus emits visible light continuously",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMost nuclear transitions need energies far beyond any laser. Thorium-229's isomeric transition\nis uniquely low-lying and laser-accessible, which is what makes a nuclear clock feasible.\u003c/p\u003e"
+    },
+    {
+      "id": "card_302533#2",
+      "format": "quiz",
+      "prompt": "Why might anchoring a clock to a nuclear transition make it more stable than an electronic one?",
+      "choices": [
+        {
+          "text": "The nucleus is buried deep inside the atom's electrons, shielding it from external disturbances",
+          "correct": true
+        },
+        {
+          "text": "Nuclei are unaffected by gravity",
+          "correct": false
+        },
+        {
+          "text": "Nuclear transitions happen more slowly, so timing errors don't matter",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTucked behind the electron cloud, the nucleus is far less sensitive to stray electric and\nmagnetic fields, promising a frequency reference that drifts less.\u003c/p\u003e"
+    }
+  ]
+}

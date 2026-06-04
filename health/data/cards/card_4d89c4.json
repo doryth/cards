@@ -1,0 +1,92 @@
+{
+  "id": "card_4d89c4",
+  "slug": "cte-in-former-nfl-players",
+  "type": "news",
+  "title": "A Quarter of Recently Deceased NFL Players Had CTE",
+  "hook": "CTE can only be diagnosed after death, which has made its true prevalence a guess. A new study of former NFL players who died between 2016 and 2021 puts the floor at 25%.",
+  "key_points": [
+    "At least 25% of former NFL players who died between 2016 and 2021 had CTE.",
+    "CTE is a degenerative brain disease linked to repeated head impacts.",
+    "It can currently only be diagnosed by examining brain tissue after death.",
+    "Earlier estimates came from donated brains, which over-represent symptomatic players.",
+    "This study's design makes 25% a floor rather than a headline maximum.",
+    "Repeated sub-concussive hits, not just diagnosed concussions, appear to matter."
+  ],
+  "content_html": "\u003cp\u003eChronic traumatic encephalopathy has been linked to football for well over a decade, but a basic question stayed unanswered: how common is it? The obstacle is diagnostic. CTE can only be confirmed by examining brain tissue after death, and most published series relied on brains donated by families — who tend to donate precisely when the person had troubling symptoms. That selection inflates the rate and made the resulting numbers easy to dismiss.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis study takes a different cut: former NFL players who died between 2016 and 2021, of whom at least 25% had CTE. The design matters more than the number. Because it starts from a defined group of deaths rather than a donation pipeline, 25% functions as a floor — the true figure for that population is likely higher, since not every brain was examined.\u003c/p\u003e\n\u003cp\u003eThe wider point for anyone not playing professional football is about exposure. The evidence increasingly implicates repeated sub-concussive impacts — the ordinary hits of a season that never get diagnosed as anything — rather than concussions alone. That reframes the risk from \u0026quot;did you get knocked out\u0026quot; to \u0026quot;how many years of routine head contact,\u0026quot; which is the question youth and amateur leagues are now weighing.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Becky Sullivan"
+    ],
+    "url": "https://npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
+    "published_at": "2026-08-25",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "healthy-aging"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_2ead17",
+      "slug": "keeping-your-brain-healthy",
+      "type": "concept",
+      "title": "Keeping Your Brain Healthy",
+      "hook": "No pill prevents dementia, but the habits that protect your heart turn out to protect your brain too.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_cafbdc",
+      "slug": "half-of-dementia-risk-is-modifiable",
+      "type": "news",
+      "title": "Nearly Half of Dementia Risk Is Something You Can Change",
+      "hook": "A long-term brain study tied smoking, high blood pressure, heart disease, and high blood lipids to the damage behind vascular dementia — risks that are all treatable.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-06"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4d89c4#0",
+      "format": "flip",
+      "prompt": "Why has CTE prevalence been so hard to pin down?",
+      "back_html": "\u003cp\u003eIt can only be diagnosed by examining \u003cstrong\u003ebrain tissue after death\u003c/strong\u003e, and most earlier\nstudies used donated brains — families donate when symptoms were present, skewing the rate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4d89c4#1",
+      "format": "quiz",
+      "prompt": "How should the 25% figure be read?",
+      "choices": [
+        {
+          "text": "As a floor — at least a quarter of those who died in that window had CTE",
+          "correct": true
+        },
+        {
+          "text": "As the exact lifetime risk for any football player",
+          "correct": false
+        },
+        {
+          "text": "As the share of current NFL players with symptoms",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study covered former players who died 2016–2021 and reports \u003cstrong\u003eat least\u003c/strong\u003e 25%. It's a\nlower bound for that group, not a universal risk estimate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4d89c4#2",
+      "format": "flip",
+      "prompt": "Is CTE risk only about diagnosed concussions?",
+      "back_html": "\u003cp\u003eNo. The evidence points to \u003cstrong\u003erepeated sub-concussive impacts\u003c/strong\u003e — routine hits that never\nget diagnosed — as a major part of the exposure.\u003c/p\u003e"
+    }
+  ]
+}

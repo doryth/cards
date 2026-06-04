@@ -1,0 +1,90 @@
+{
+  "id": "card_2a0bb3",
+  "slug": "programmable-photonic-chip-slow-light",
+  "type": "news",
+  "title": "A Photonic Chip That Slows Light on Command",
+  "hook": "Light usually races through a chip at a fixed clip. This programmable circuit dials that speed down on demand — the buffer and delay line that computing with light has been missing.",
+  "key_points": [
+    "Computing with light needs ways to delay, buffer, and synchronize optical signals — hard to do when you can't slow light down.",
+    "A new programmable photonic chip slows light on command using coupled-resonator-induced transparency (CRIT).",
+    "Two controllable loop couplers let engineers tune a signal's delay, bandwidth, and transmission on the fly.",
+    "One reconfigurable chip could replace several fixed-function devices, cutting energy, cost, and complexity.",
+    "Aimed at optical computing and the light-based interconnects inside AI servers and data centers."
+  ],
+  "content_html": "\u003cp\u003eBuilding a computer that runs on light instead of electrons runs into an awkward problem: light is fast and hard to hold still. To do useful computing you need to delay signals, line them up in time, and briefly store them — buffering and synchronization that electronic chips handle routinely, but that are tricky when your carrier zips along at, well, the speed of light.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team at Seoul National University and the University of Seoul — led by professors Namkyoo Park and Sunkyu Yu (Seoul National University) and Xianji Piao (University of Seoul) — built a programmable photonic chip that can slow light on demand. It relies on a phenomenon called coupled-resonator-induced transparency (CRIT), treating an optical circuit's \u0026quot;bright\u0026quot; and \u0026quot;dark\u0026quot; modes as one adjustable system and adding two controllable loop couplers. Those knobs let engineers tune a signal's delay, bandwidth, passband shape, and transmission efficiency after the chip is made, rather than baking them in at fabrication. The payoff is consolidation: a single reconfigurable chip could stand in for several fixed-function devices — delay lines, buffers, filters — potentially trimming the energy, cost, and complexity of optical computing and the light-based interconnects increasingly used in AI servers and data centers. Published in \u003cem\u003eAdvanced Science\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260718010149.htm",
+    "published_at": "2026-07-21",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "light-optics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-23",
+  "date": "2026-07-21",
+  "related": [
+    {
+      "id": "card_65937b",
+      "slug": "how-lasers-work",
+      "type": "concept",
+      "title": "How Lasers Work",
+      "hook": "A flashlight sprays a jumble of colors every which way. A laser does the opposite: one pure color, marching in perfect step, in a beam so tight it can reach the Moon.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b123c0",
+      "slug": "semiconductors-and-transistors",
+      "type": "concept",
+      "title": "Semiconductors and the Transistor",
+      "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2a0bb3#0",
+      "format": "flip",
+      "prompt": "Why does light-based computing need a way to slow light down?",
+      "back_html": "\u003cp\u003eTo \u003cstrong\u003edelay, buffer, and synchronize\u003c/strong\u003e optical signals. Electronic computers do this\neasily, but light normally travels at a fixed speed, so timing operations is hard\nwithout a way to hold it back.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2a0bb3#1",
+      "format": "quiz",
+      "prompt": "What is the advantage of making this photonic chip programmable rather than fixed-design?",
+      "choices": [
+        {
+          "text": "One reconfigurable chip can perform several functions that today need separate devices, cutting energy, cost, and complexity",
+          "correct": true
+        },
+        {
+          "text": "It lets light travel faster than in a normal fiber",
+          "correct": false
+        },
+        {
+          "text": "It removes the need for any electronics in a data center",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBy tuning delay, bandwidth, and transmission on the fly, a single programmable chip\nreplaces multiple special-purpose components — the article's key practical selling point.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2a0bb3#2",
+      "format": "flip",
+      "prompt": "What optical effect does the chip use to control how fast light moves?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eCoupled-resonator-induced transparency (CRIT)\u003c/strong\u003e — pairing bright and dark optical\nmodes and adding controllable loop couplers to adjust the signal's delay and shape.\u003c/p\u003e"
+    }
+  ]
+}

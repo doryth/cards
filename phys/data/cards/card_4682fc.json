@@ -1,0 +1,122 @@
+{
+  "id": "card_4682fc",
+  "slug": "room-temperature-superradiant-maser",
+  "type": "paper",
+  "title": "Macroscopic Quantum Coherence at Room Temperature",
+  "hook": "Lasers, superfluids and superconductors all show quantum coherence across huge numbers of particles — usually only when cold. A diamond maser now sustains it in a solid under ambient conditions.",
+  "key_points": [
+    "Superradiance makes many emitters radiate in step, locking them into shared coherence.",
+    "Until now that had been shown in gases, in solids only at very low temperature, or in short pulses.",
+    "The new device is a solid-state superradiant maser running under ambient conditions.",
+    "It links roughly 1e14 nitrogen-vacancy spins in diamond with about 1e9 photons in a microwave cavity.",
+    "Pushing further above threshold gave continuous-wave masing, amplitude modulation, then bursts.",
+    "The authors attribute the modulated regime to a coherent time crystal of large spins."
+  ],
+  "content_html": "\u003cp\u003eMacroscopic quantum coherence is the thread running through lasers, Bose-Einstein condensates, superfluids and superconductors: enormous numbers of particles behaving as one quantum entity. The usual price of admission is extreme conditions. A group reporting in August 2026 has now sustained it in a solid sitting at room temperature and pressure.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe mechanism is superradiance — emitters coupling through a shared field until they radiate in step instead of independently. Previous implementations were confined to gases, to solids held at very low temperature, or to brief pulses. Wei-Jiang Wu and colleagues built a solid-state superradiant maser that runs under ambient conditions, establishing long-lived coherence among roughly 10^14 nitrogen-vacancy centre spins in diamond together with about 10^9 photons in a microwave cavity.\u003c/p\u003e\n\u003cp\u003eTurning up the drive walks the device through three regimes. Just above threshold it produces continuous-wave masing, which the authors read as macroscopic spin coherence synchronised at a fixed frequency. Well above threshold the output picks up periodic amplitude modulation, attributed to a coherent time crystal of large spins. Deep above threshold it breaks into sequences of superradiant bursts from spins that are no longer synchronised. Beyond the physics on display, the result offers a solid-state platform for studying bright light with many-body correlations without a cryostat in the room.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Wei-Jiang Wu",
+      "Da-Wu Xiao",
+      "Wen-Tao Wang",
+      "Xin-Yu Chen",
+      "Xian-Feng Wang",
+      "Ming-Zhong Ai",
+      "Quan Li",
+      "Ren-Bao Liu"
+    ],
+    "url": "https://arxiv.org/abs/2608.23748",
+    "published_at": "2026-08-24",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-24",
+  "related": [
+    {
+      "id": "card_f4c367",
+      "slug": "on-chip-radio-frequency-maser",
+      "type": "paper",
+      "title": "A Maser Shrunk Onto a Chip",
+      "hook": "Masers are lasers for microwaves: exquisitely quiet, ideal for hearing faint signals, and stuck inside bulky metal resonators. This one runs at room temperature on a chip.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_d18019",
+      "slug": "bose-einstein-condensate",
+      "type": "news",
+      "title": "The Fifth State of Matter, Made in Space",
+      "hook": "Chill a gas to a hair above absolute zero and its atoms stop acting like a crowd and merge into one quantum entity. In orbit, weightlessness lets that strange state last even longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8c8155",
+      "slug": "rydberg-time-crystal-ultralong-lifetime",
+      "type": "paper",
+      "title": "A Time Crystal That Kept Ticking for Nearly 17 Hours",
+      "hook": "Time crystals oscillate forever without needing energy input to keep going — in theory. A new Rydberg-atom version kept its rhythm for almost 17 hours, orders of magnitude longer than any before it.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-10"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4682fc#0",
+      "format": "flip",
+      "prompt": "What does superradiance do to a large group of emitters?",
+      "back_html": "\u003cp\u003eIt makes them radiate in step rather than independently, establishing\ncoherence shared across a huge number of particles and photons.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4682fc#1",
+      "format": "quiz",
+      "prompt": "What was the main limitation of earlier superradiance demonstrations?",
+      "choices": [
+        {
+          "text": "They needed gases, very low temperatures, or lasted only as short pulses",
+          "correct": true
+        },
+        {
+          "text": "They worked only with single atoms, never with large ensembles",
+          "correct": false
+        },
+        {
+          "text": "They required no cavity, so the light escaped immediately",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe new result's claim to novelty is sustaining the coherence in a solid\nunder ambient conditions rather than in a cold or gaseous or transient setting.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4682fc#2",
+      "format": "flip",
+      "prompt": "What appears as the maser is driven further above threshold?",
+      "back_html": "\u003cp\u003eContinuous-wave masing gives way to periodic amplitude modulation — read as\na coherent time crystal of large spins — and then to superradiant bursts.\u003c/p\u003e"
+    }
+  ]
+}

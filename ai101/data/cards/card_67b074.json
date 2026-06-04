@@ -1,0 +1,105 @@
+{
+  "id": "card_67b074",
+  "slug": "chatgpt-teen-mode",
+  "type": "news",
+  "title": "ChatGPT Is Getting a Separate Mode for Teenagers",
+  "hook": "OpenAI is bundling its youth safeguards into a distinct 'ChatGPT for Teens' experience — arriving as scrutiny mounts over what chatbots say to young users.",
+  "key_points": [
+    "OpenAI announced a dedicated ChatGPT mode for teenagers, per The Verge.",
+    "It combines existing youth safeguards with new safety features in one experience.",
+    "The launch follows mounting public scrutiny of how AI tools affect younger users.",
+    "Other platforms are moving the same way: age checks and teen-specific protections.",
+    "A separate mode only helps if the age it thinks you are is the age you actually are."
+  ],
+  "content_html": "\u003cp\u003eOpenAI is launching a dedicated ChatGPT mode for teenagers, pulling its existing youth safeguards together with new safety features into a single experience it calls ChatGPT for Teens, The Verge reports.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe timing isn't incidental. Pressure has been building — from parents, regulators, and lawsuits — over what chatbots say to young people, particularly around mental health and self-harm. Other platforms have been adding age checks and teen-specific protections on a similar schedule.\u003c/p\u003e\n\u003cp\u003eFor families, the useful question is narrower than \u0026quot;is this safe\u0026quot;: it's how the product decides who's a teenager. Protections only apply to accounts the company believes belong to one, so a fudged birthday puts a kid back in the general experience. Treat a teen mode as a helpful default rather than a supervision substitute. The Verge has OpenAI's description of the features.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Robert Hart"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "published_at": "2026-08-18",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-and-kids",
+    "ai-mental-health",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-20",
+  "date": "2026-08-18",
+  "related": [
+    {
+      "id": "card_df602c",
+      "slug": "ai-kids-and-school",
+      "type": "concept",
+      "title": "AI, Kids \u0026 School",
+      "hook": "Banning AI is like banning calculators — futile and beside the point. The real job is teaching kids to use it honestly, to learn with it, and to know when it's lying.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b76a5a",
+      "slug": "how-kids-feel-about-ai",
+      "type": "news",
+      "title": "Kids Are Pickier About AI Than Adults Assume",
+      "hook": "MIT Technology Review asked kids aged 10 to 18 what they think of AI. Not cheating, not wonder — mostly a shrug, some hard boundaries, and worry about their own thinking.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-13"
+    },
+    {
+      "id": "card_4fad8f",
+      "slug": "chatbots-crisis-safety-data",
+      "type": "news",
+      "title": "Chatbots Have Failed People in Crisis — and Nobody Can Audit Why",
+      "hook": "Clinicians say AI companies are sitting on the data that would show how their chatbots handle users in crisis. Without it, nobody outside the company can tell whether the safeguards work.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_67b074#0",
+      "format": "quiz",
+      "prompt": "What is ChatGPT for Teens, as described by OpenAI?",
+      "choices": [
+        {
+          "text": "A dedicated experience gathering existing youth safeguards plus new safety features",
+          "correct": true
+        },
+        {
+          "text": "A paid subscription tier aimed at schools",
+          "correct": false
+        },
+        {
+          "text": "A version that answers only homework questions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOpenAI describes it as an experience designed for teens, pulling its existing\nprotections together with additional safety features under one roof.\u003c/p\u003e"
+    },
+    {
+      "id": "card_67b074#1",
+      "format": "flip",
+      "prompt": "What's the obvious weak point of any teen mode?",
+      "back_html": "\u003cp\u003eAge verification. Protections apply to the account the company believes belongs\nto a teenager — so a mis-stated birthday routes a kid to the adult experience.\u003c/p\u003e"
+    },
+    {
+      "id": "card_67b074#2",
+      "format": "flip",
+      "prompt": "Why are AI companies adding teen-specific products now?",
+      "back_html": "\u003cp\u003ePublic and regulatory scrutiny of how chatbots affect young users has grown,\nand other platforms are rolling out age checks and youth protections too.\u003c/p\u003e"
+    }
+  ]
+}

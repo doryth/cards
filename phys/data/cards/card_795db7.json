@@ -1,0 +1,142 @@
+{
+  "id": "card_795db7",
+  "slug": "uhecr-from-magnetized-mergers",
+  "type": "paper",
+  "title": "Do Merging Black Holes Fire Off the Universe's Fastest Particles?",
+  "hook": "Wrap a spinning black hole in a trillion-gauss magnetic field and particle collisions just outside its horizon reach energies we otherwise only see in the rarest cosmic rays.",
+  "key_points": [
+    "Ultra-high-energy cosmic rays carry ~10²⁰ eV, and their sources remain unidentified.",
+    "The Bañados-Silk-West mechanism lets particles collide near a spinning black hole's horizon at enormous energies.",
+    "The authors add magnetic fields of 10¹²–10¹⁴ gauss around merging binaries seen by LIGO-Virgo-KAGRA.",
+    "Collision energies reach 10¹⁸–10²⁰ eV, squarely in the observed cosmic-ray range.",
+    "Below 10¹² G gravity dominates; above 10¹³ G the field boosts energies by nearly ten times.",
+    "Remnants with spin ≳0.85 and mass ≳100 solar masses top out near 10²⁰ eV."
+  ],
+  "content_html": "\u003cp\u003eUltra-high-energy cosmic rays are the universe's most extreme particles, single nuclei carrying macroscopic amounts of energy, and nobody is sure what makes them. Carlos Coimbra-Araujo, Rita Anjos, Jonas Pereira and Jaziel Coelho nominate a candidate that has only recently become observable: the moments just before two compact objects merge.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe engine they invoke is the Bañados-Silk-West mechanism, in which particles falling toward a rapidly spinning black hole can meet head-on just outside the horizon at collision energies far above what either brought in. The authors solve the charged-particle geodesics in magnetized Kerr spacetime, adding fields of 10¹² to 10¹⁴ gauss of the kind expected around neutron stars and merger remnants, and find center-of-mass energies of 10¹⁸ to 10²⁰ eV — the ultra-high-energy cosmic-ray range. Sweeping the parameter space turns up three regimes: below about 10¹² gauss gravity does all the work, between 10¹² and 10¹³ gauss gravity and magnetism compete, and above 10¹³ gauss the field amplifies collision energies by nearly a factor of ten. Applying this to the 34 gravitational-wave events with rapidly spinning remnants, they find that systems with spin above roughly 0.85 and masses above about 100 solar masses reach the full 10²⁰ eV. The appeal of the proposal is that it is checkable: gravitational-wave catalogs already supply the masses and spins, so the predicted particle energies follow.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Carlos H. Coimbra-Araujo",
+      "Rita C. Anjos",
+      "Jonas P. Pereira",
+      "Jaziel G. Coelho"
+    ],
+    "url": "https://arxiv.org/abs/2607.21385",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_5ac508",
+      "slug": "amaterasu-particle",
+      "type": "news",
+      "title": "The Amaterasu Particle Might Not Be a Proton",
+      "hook": "One of the most energetic cosmic rays ever caught hit Earth with the energy of a thrown brick — packed into a single particle. New work says it may be a heavy nucleus, not a proton.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "card_3e5004",
+      "slug": "starburst-neutrino-factory",
+      "type": "news",
+      "title": "A Galaxy That Makes Neutrinos Without a Black Hole",
+      "hook": "Astronomers expected a feeding black hole behind a flood of cosmic neutrinos. Instead they found furious star formation — hinting dusty starburst galaxies seed the high-energy neutrino sky.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5ac508",
+      "slug": "amaterasu-particle",
+      "type": "news",
+      "title": "The Amaterasu Particle Might Not Be a Proton",
+      "hook": "One of the most energetic cosmic rays ever caught hit Earth with the energy of a thrown brick — packed into a single particle. New work says it may be a heavy nucleus, not a proton.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-09"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_795db7#0",
+      "format": "quiz",
+      "prompt": "What role does the magnetic field play in this acceleration scenario?",
+      "choices": [
+        {
+          "text": "Above ~10¹³ G it amplifies collision energies by nearly an order of magnitude over gravity alone",
+          "correct": true
+        },
+        {
+          "text": "It confines the particles so they never escape the merger",
+          "correct": false
+        },
+        {
+          "text": "It replaces gravity as the only source of acceleration at all field strengths",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors find three regimes: below 10¹² G the field barely matters, 10¹²–10¹³ G is a\ntransition, and above 10¹³ G magnetic effects dominate and boost energies nearly tenfold.\u003c/p\u003e"
+    },
+    {
+      "id": "card_795db7#1",
+      "format": "flip",
+      "prompt": "Which merger remnants reach the very highest energies in this study?",
+      "back_html": "\u003cp\u003eThose with high spin and large mass — dimensionless spin \u003cstrong\u003e≳0.85\u003c/strong\u003e and mass \u003cstrong\u003e≳100 solar\nmasses\u003c/strong\u003e — reach maximum energies around \u003cstrong\u003e10²⁰ eV\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_795db7#2",
+      "format": "quiz",
+      "prompt": "Why is linking gravitational-wave events to cosmic rays attractive?",
+      "choices": [
+        {
+          "text": "GW data measure the remnant's mass and spin, giving testable predictions for the energies reachable",
+          "correct": true
+        },
+        {
+          "text": "Cosmic rays and gravitational waves arrive at the same moment from the same direction",
+          "correct": false
+        },
+        {
+          "text": "It proves cosmic rays are made of gravitons",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe paper computes maximum energies for real detected events using their measured masses and\nspins — turning gravitational-wave observables into quantitative cosmic-ray predictions.\u003c/p\u003e"
+    }
+  ]
+}

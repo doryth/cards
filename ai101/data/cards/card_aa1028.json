@@ -1,0 +1,111 @@
+{
+  "id": "card_aa1028",
+  "slug": "ai-images-and-art",
+  "type": "concept",
+  "title": "AI Images, Art \u0026 Video",
+  "hook": "Type a sentence, get a picture. Image generators learned the link between words and visuals from billions of captioned images — which is also why artists are raising hard questions.",
+  "key_points": [
+    "Text-to-image tools turn a written prompt into a brand-new picture.",
+    "They learned by studying billions of image-and-caption pairs from the web.",
+    "They don't copy-paste; they generate fresh pixels matching the description.",
+    "Training on artists' work without consent has sparked real legal and ethical disputes."
+  ],
+  "content_html": "\u003cp\u003eOne of the most striking things AI can do is turn a sentence into a picture: \u0026quot;a watercolor fox reading a newspaper in a cozy cabin\u0026quot; becomes an original image in seconds. These \u003cstrong\u003etext-to-image\u003c/strong\u003e tools feel like magic, but the principle is familiar — they learned the relationship between words and visuals by studying billions of images paired with their captions, then use that to build something new that matches your description.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA common misconception is that they stitch together bits of existing photos. They don't — they generate fresh pixels from scratch, which is why you can ask for things that have never existed. That creative power comes with a genuine controversy, though. The training images were largely scraped from the open web, including the work of living artists who never agreed to it and weren't paid. That's fueled lawsuits and a real debate about consent, copyright, and what happens to creative livelihoods. The same technology also makes convincing fake photos and videos easier to produce — useful to know before you trust a striking image you see online.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-images"
+  ],
+  "tags": [
+    "generative",
+    "vision"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_beea3d",
+      "slug": "can-ai-be-creative",
+      "type": "concept",
+      "title": "Can AI Be Creative?",
+      "hook": "AI can write a poem or compose a tune that genuinely moves people. Whether that's 'real' creativity or very sophisticated remixing is a question with no settled answer — and it matters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_aa1028#0",
+      "format": "quiz",
+      "prompt": "How does a text-to-image tool create a picture?",
+      "choices": [
+        {
+          "text": "It generates new pixels that match the description",
+          "correct": true
+        },
+        {
+          "text": "It searches the web and pastes in an existing photo",
+          "correct": false
+        },
+        {
+          "text": "It hires a human artist behind the scenes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eImage generators produce fresh images from scratch, guided by what they\nlearned from billions of captioned pictures — they don't retrieve existing ones.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aa1028#1",
+      "format": "flip",
+      "prompt": "Why are many artists concerned about image generators?",
+      "back_html": "\u003cp\u003eMany were trained on artists' work scraped from the web without consent or\npayment, raising unsettled legal and ethical questions.\u003c/p\u003e"
+    }
+  ]
+}

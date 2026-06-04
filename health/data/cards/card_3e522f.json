@@ -1,0 +1,98 @@
+{
+  "id": "card_3e522f",
+  "slug": "blood-pressure-drugs-and-kidney-risk",
+  "type": "news",
+  "title": "A Second-Line Blood Pressure Drug Gets a Second Look",
+  "hook": "In people with type 2 diabetes, a widely prescribed class of blood pressure drug came with 33% higher risk of serious kidney problems — even in patients already on kidney-protective medicines.",
+  "key_points": [
+    "The study looked at dihydropyridine calcium channel blockers (DCCBs), a very common blood pressure drug class.",
+    "In people with type 2 diabetes, DCCB use was associated with a 33% higher risk of serious kidney problems.",
+    "The signal held even among patients already taking kidney-protective medications.",
+    "Researchers are questioning whether DCCBs should be the default second-line choice in diabetic kidney disease.",
+    "This is an association from observational data — not a reason to stop a prescribed drug on your own."
+  ],
+  "content_html": "\u003cp\u003eDihydropyridine calcium channel blockers — amlodipine and its relatives — are among the most-prescribed blood pressure drugs in the world, and a standard next step when a first medication isn't bringing numbers down. New research reported by ScienceDaily found that in people with type 2 diabetes, taking one was associated with a 33% higher risk of serious kidney problems.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe detail that surprised the researchers is that the association held even among patients already on kidney-protective medications, which is exactly the group you'd expect to be shielded. That's why the framing is about defaults: if a routine second-line pick carries this signal in diabetic kidney disease, the routine may need rethinking.\u003c/p\u003e\n\u003cp\u003eTwo cautions belong with it. This is an observational association, so it can't by itself prove the drug caused the harm — sicker patients may be likelier to be put on additional drugs in the first place. And untreated high blood pressure is one of the fastest ways to damage kidneys, so the answer is never to quietly stop a prescription. It's a question worth bringing to whoever writes it.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260816044844.htm",
+    "published_at": "2026-08-18",
+    "license": "ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "chronic-conditions",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-18",
+  "related": [
+    {
+      "id": "card_1501be",
+      "slug": "understanding-blood-pressure",
+      "type": "concept",
+      "title": "Understanding Blood Pressure",
+      "hook": "High blood pressure is called the 'silent killer' for a reason — it usually has no symptoms, yet it quietly raises your risk of heart attack and stroke.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_49226f",
+      "slug": "chronic-kidney-disease",
+      "type": "news",
+      "title": "The Silent Spread of Kidney Disease",
+      "hook": "A global study estimates chronic kidney disease now affects nearly 800 million people — often silently — making it a leading and frequently overlooked cause of death.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "card_ec70cc",
+      "slug": "finerenone-for-kidney-disease",
+      "type": "news",
+      "title": "A Kidney Drug May Help Millions More",
+      "hook": "Three major studies found finerenone protects the kidneys and heart in far more people than thought — including those with non-diabetic kidney disease, a group with few good options.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3e522f#0",
+      "format": "flip",
+      "prompt": "What did the study find about DCCBs in people with type 2 diabetes?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003e33% higher risk of serious kidney problems\u003c/strong\u003e — and the association persisted in people\nalready taking kidney-protective medications.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3e522f#1",
+      "format": "quiz",
+      "prompt": "What is the right response if you take a calcium channel blocker for blood pressure?",
+      "choices": [
+        {
+          "text": "Keep taking it and raise the finding with your clinician at your next visit",
+          "correct": true
+        },
+        {
+          "text": "Stop the medication immediately",
+          "correct": false
+        },
+        {
+          "text": "Double up on kidney-protective drugs to compensate",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThis is an observational association, not a recall. Uncontrolled blood pressure is itself a\nmajor kidney risk — any change belongs in a conversation with your prescriber.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3e522f#2",
+      "format": "flip",
+      "prompt": "Why is 'second-line choice' the specific question researchers raised?",
+      "back_html": "\u003cp\u003eDCCBs are a routine next step when a first blood pressure drug isn't enough. The finding\nasks whether that default is the safest one in diabetic kidney disease.\u003c/p\u003e"
+    }
+  ]
+}

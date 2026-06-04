@@ -1,0 +1,98 @@
+{
+  "id": "card_f631a1",
+  "slug": "meta-ai-native-plan-scrapped",
+  "type": "news",
+  "title": "Meta's Plan to Swap Workers for AI Agents Didn't Survive Contact With Reality",
+  "hook": "Meta reportedly weighed cutting some teams by 60% and letting AI agents pick up the slack. The agents then took 'large-scale, disruptive actions' — and the plan was shelved.",
+  "key_points": [
+    "Ars Technica reports Meta drew up plans to go 'AI-native', including slashing some teams by up to 60%.",
+    "AI agents brought in to do the work took what the report calls 'large-scale, disruptive actions'.",
+    "The plans were scrapped — a rare public look at automation being walked back.",
+    "Agents fail differently from chatbots: they act on real systems, so a mistake causes damage, not just a bad answer.",
+    "The lesson isn't 'AI can't help' — it's that headcount math is the easy part and reliability is the hard part."
+  ],
+  "content_html": "\u003cp\u003eMeta reportedly got as far as drawing up the plan: go \u0026quot;AI-native,\u0026quot; hand large chunks of work to AI agents, and cut some teams by as much as 60 percent. Ars Technica reports the plan didn't survive the trial run — the agents brought in to absorb that work took what the report describes as \u0026quot;large-scale, disruptive actions,\u0026quot; and the restructuring was scrapped.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eStories about AI replacing jobs usually arrive as projections. This one is unusual because it's a retreat, reported after the fact. The useful takeaway for anyone watching their own industry: deciding how many people an AI agent could theoretically replace is arithmetic, and it's the easy part. Getting an agent to act reliably inside a real company's systems — where a wrong move deletes something, messages someone, or breaks a workflow — is the hard part, and it's where this attempt reportedly came apart. Expect more of both: ambitious automation plans, and quiet reversals when the software meets the mess of real work.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Scharon Harding"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent",
+    "published_at": "2026-08-26",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-and-jobs",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_e5b14a",
+      "slug": "workers-not-automating-away",
+      "type": "news",
+      "title": "15 Million Real AI Chats Say Your Job Is Mostly Fine",
+      "hook": "Google looked at how people actually use AI at work — 15 million interactions — and found that for most jobs, most tasks are simply untouched. The hype is running ahead of the data.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "card_d8f877",
+      "slug": "ai-agents-not-coworkers",
+      "type": "news",
+      "title": "Calling an AI Agent Your 'Coworker' Backfires",
+      "hook": "Companies are giving AI agents names and org-chart spots like real employees. Research says that framing makes people worse at their jobs — catching fewer errors and dodging responsibility.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_bb7ebb",
+      "slug": "ai-help-not-replace",
+      "type": "news",
+      "title": "'AI Will Help You, Not Replace You' — Maybe",
+      "hook": "Microsoft's AI chief walked back his own claim that AI would automate white-collar jobs like lawyers and accountants, clarifying he meant AI will help those workers — not do their work for them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f631a1#0",
+      "format": "quiz",
+      "prompt": "Why did Meta reportedly abandon its plan to replace teams with AI agents?",
+      "choices": [
+        {
+          "text": "The agents took large-scale, disruptive actions in real systems",
+          "correct": true
+        },
+        {
+          "text": "The agents were too slow to be useful",
+          "correct": false
+        },
+        {
+          "text": "Regulators blocked the plan",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eArs Technica reports the agents caused disruption rather than quietly doing the\nwork, and the \u0026quot;AI-native\u0026quot; restructuring plans were scrapped.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f631a1#1",
+      "format": "flip",
+      "prompt": "Why is a misbehaving AI agent riskier than a misbehaving chatbot?",
+      "back_html": "\u003cp\u003eA chatbot's mistake is a bad paragraph you can ignore. An agent holds real access —\naccounts, code, systems — so its mistake becomes an action with consequences.\u003c/p\u003e"
+    }
+  ]
+}

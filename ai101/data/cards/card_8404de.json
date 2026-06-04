@@ -1,0 +1,90 @@
+{
+  "id": "card_8404de",
+  "slug": "your-first-hour-with-ai",
+  "type": "concept",
+  "title": "Your First Hour with AI",
+  "hook": "Forget the hype and the fear. Open a free chatbot, type a real question in plain English, and have a conversation. That's the whole on-ramp — you already know how.",
+  "key_points": [
+    "Open any free chatbot (ChatGPT, Claude, Gemini) — no setup or skills needed.",
+    "Type like you'd text a knowledgeable friend; plain words work fine.",
+    "Start with real, low-stakes tasks: draft a message, explain a topic, plan a trip.",
+    "Don't share secrets, and double-check anything important — then just experiment."
+  ],
+  "content_html": "\u003cp\u003eIf you've been put off by all the noise — the breathless hype on one side, the doom on the other — here's the reassuring truth: starting with AI takes about five minutes and zero technical skill. Open a free chatbot like ChatGPT, Claude, or Gemini in your browser or phone. There's nothing to install and nothing to configure. Then just type, the way you'd text a friend who happens to know a lot about everything.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe fastest way to \u0026quot;get it\u0026quot; is to bring a \u003cem\u003ereal\u003c/em\u003e task, not a test question. Ask it to draft a reply to an awkward email, explain something you've never understood (\u0026quot;what actually is a recession?\u0026quot;), plan a weekend in a city you're visiting, suggest dinner from what's in your fridge, or summarize a long article you paste in. Notice that you can talk back — \u0026quot;make it shorter,\u0026quot; \u0026quot;that's too formal,\u0026quot; \u0026quot;give me three options\u0026quot; — because it's a conversation, not a search box. Two simple guardrails keep you safe while you explore: don't share genuine secrets (passwords, ID numbers, private financial or medical details), and treat any fact, number, or name as worth verifying before you act on it. Beyond that, the only real way to learn what AI is good for is to poke at it. An hour of playing with low-stakes tasks will teach you more than any explainer — including this one.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "first-steps"
+  ],
+  "tags": [
+    "foundational",
+    "tutorial"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a0b7eb",
+      "slug": "talking-to-ai",
+      "type": "concept",
+      "title": "Talking to AI",
+      "hook": "The difference between a useless answer and a great one is usually the question. Give the AI context, an example, and a clear job — and treat it as a conversation, not a vending machine.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8404de#0",
+      "format": "quiz",
+      "prompt": "What's the best way to start using AI for the first time?",
+      "choices": [
+        {
+          "text": "Open a free chatbot and ask a real, low-stakes question in plain words",
+          "correct": true
+        },
+        {
+          "text": "Take a coding course first",
+          "correct": false
+        },
+        {
+          "text": "Buy the most expensive subscription",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThere's no setup or skill barrier. Typing a genuine everyday question into a\nfree chatbot is the entire on-ramp — you learn by doing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8404de#1",
+      "format": "flip",
+      "prompt": "Two simple safety rules for your first AI session?",
+      "back_html": "\u003cp\u003eDon't paste in secrets (passwords, IDs, private details), and double-check\nanything important before you rely on it. Then experiment freely.\u003c/p\u003e"
+    }
+  ]
+}

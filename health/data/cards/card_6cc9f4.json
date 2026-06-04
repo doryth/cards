@@ -1,0 +1,90 @@
+{
+  "id": "card_6cc9f4",
+  "slug": "prostate-health",
+  "type": "concept",
+  "title": "Prostate Health and Screening",
+  "hook": "PSA screening for prostate cancer isn't an automatic yes. It's a genuine judgment call you make with your doctor.",
+  "key_points": [
+    "The prostate is a small gland that helps make semen; it tends to enlarge with age.",
+    "PSA is a blood test that can flag prostate problems but isn't a definitive cancer test.",
+    "Screening is a shared decision weighing your age, risk, and preferences.",
+    "Higher risk: older age, family history, and being Black.",
+    "Raise symptoms like trouble urinating, weak stream, or blood in urine with a clinician."
+  ],
+  "content_html": "\u003cp\u003eThe prostate is a small gland below the bladder that helps make the fluid in semen. It commonly enlarges with age, which can cause urinary symptoms that aren't cancer. Prostate cancer is common, but many cases grow slowly and never become life-threatening.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe main screening tool is the PSA blood test. The CDC stresses that PSA isn't a definitive cancer test: it can rise for benign reasons, and screening can lead to follow-up procedures and treatment of cancers that would never have caused trouble. Because of these tradeoffs, the CDC frames PSA testing as a shared, individualized decision between you and your clinician, weighing your age, risk factors, and what matters to you.\u003c/p\u003e\n\u003cp\u003eRisk is higher with older age, a family history of prostate cancer, and for Black men. Regardless of screening choices, raise symptoms such as difficulty urinating, a weak or interrupted stream, frequent nighttime urination, or blood in the urine or semen with a clinician.\u003c/p\u003e",
+  "source": {
+    "name": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/prostate-cancer/screening/index.html",
+    "license": "CDC, public domain"
+  },
+  "topic_ids": [
+    "mens-health"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_354834",
+      "slug": "health-checks-men-skip",
+      "type": "concept",
+      "title": "Health Checks Men Skip",
+      "hook": "Men see doctors less and die younger from preventable causes. A handful of simple checks catch the big risks early.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_427b95",
+      "slug": "cancer-screenings-worth-knowing",
+      "type": "concept",
+      "title": "Cancer Screenings Worth Knowing",
+      "hook": "Screening looks for cancer before symptoms start — and for a few common cancers, that early catch dramatically improves the odds.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_34951c",
+      "slug": "why-regular-checkups-matter",
+      "type": "concept",
+      "title": "Why Regular Checkups Matter",
+      "hook": "The whole point of a checkup is to catch trouble while it's still quiet — before symptoms show up and while it's easiest to treat.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6cc9f4#0",
+      "format": "flip",
+      "prompt": "Why isn't prostate cancer screening a simple automatic recommendation?",
+      "back_html": "\u003cp\u003eThe PSA test can flag problems but also produces false alarms and can lead to treating cancers that would never have caused harm. So screening is a shared decision you weigh with your doctor based on age, risk, and preferences.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6cc9f4#1",
+      "format": "quiz",
+      "prompt": "Which of these increases a person's risk of prostate cancer?",
+      "choices": [
+        {
+          "text": "A family history of prostate cancer",
+          "correct": true
+        },
+        {
+          "text": "Drinking water with meals",
+          "correct": false
+        },
+        {
+          "text": "Exercising regularly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOlder age, a family history of prostate cancer, and being Black are recognized risk factors. These factors feed into the shared decision about whether to screen.\u003c/p\u003e"
+    }
+  ]
+}

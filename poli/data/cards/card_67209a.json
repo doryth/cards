@@ -1,0 +1,109 @@
+{
+  "id": "card_67209a",
+  "slug": "abolishing-an-agency-in-practice",
+  "type": "news",
+  "title": "Why an Agency Is Harder to Abolish Than to Announce",
+  "hook": "A president can reshape an agency's leadership and priorities quickly. Erasing it is a different act, because the agency exists in statute and its money is appropriated by Congress.",
+  "key_points": [
+    "Federal agencies are generally created by legislation, so undoing one usually requires Congress to change the law, not just an executive decision.",
+    "Duties assigned to an agency by statute keep binding it even when leadership wants to shrink or wind it down.",
+    "The executive still has real levers short of abolition: appointments, hiring, reorganization, and how aggressively a mandate gets carried out.",
+    "Downstream dependence is the other constraint — states and localities build their own plans around the federal capability existing.",
+    "NPR reports David Richardson, who led FEMA in 2025, worked to eliminate the disaster agency and now says the administration has abandoned that goal.",
+    "The general lesson: an agency can be weakened administratively long before — or without — ever being abolished legally."
+  ],
+  "content_html": "\u003cp\u003eThere is a big difference between an agency being weakened and an agency being abolished. Federal agencies are generally created by legislation, and the duties Congress assigns them keep binding regardless of what the current leadership would prefer. So a stated goal of eliminating one runs into an unavoidable step: Congress has to change the law, and it has to stop appropriating the money.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat doesn't leave an executive powerless — appointments, hiring freezes, internal reorganizations, and simple choices about how vigorously to pursue a mandate all shape what an agency actually does. It does mean the legal existence of the agency is a separate question from its practical strength. NPR's Rebecca Hersher reported in September 2026 that David Richardson, who ran FEMA in 2025, worked to eliminate the country's top disaster agency and now says the administration has abandoned that goal. A second constraint is worth noting alongside the legal one: states and localities plan around federal disaster capability existing, so removing it would push costs onto governments that never budgeted for them. (This card describes U.S. federal agencies specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Rebecca Hersher"
+    ],
+    "url": "https://npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
+    "published_at": "2026-09-03",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers",
+    "federalism-levels"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-03",
+  "related": [
+    {
+      "id": "card_968aaa",
+      "slug": "funding-conditions-as-leverage",
+      "type": "blog",
+      "title": "Strings Attached: When Federal Money Becomes Leverage",
+      "hook": "A national government that can't order regions around directly can often get the same result by attaching conditions to its money — which is why courts ask where persuasion ends and coercion begins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_71949b",
+      "slug": "the-stopgap-funding-bill",
+      "type": "news",
+      "title": "The Stopgap: Governing by Deadline",
+      "hook": "Legislatures are supposed to pass budgets. When they cannot agree, many just extend last year's spending a few months at a time — and the deadline becomes the real negotiation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-09-01"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_67209a#0",
+      "format": "quiz",
+      "prompt": "Why can't an executive simply abolish a federal agency it dislikes?",
+      "choices": [
+        {
+          "text": "Agencies are generally created by statute, so eliminating one requires Congress to change the law",
+          "correct": true
+        },
+        {
+          "text": "Agencies can only be abolished by a national referendum",
+          "correct": false
+        },
+        {
+          "text": "Courts must first find the agency unconstitutional",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCreation by legislation is what anchors an agency. Its statutory duties\nkeep binding it regardless of what its leadership prefers.\u003c/p\u003e"
+    },
+    {
+      "id": "card_67209a#1",
+      "format": "flip",
+      "prompt": "What levers does an executive have over an agency short of abolishing it?",
+      "back_html": "\u003cp\u003eAppointments, hiring, internal reorganization, and how aggressively the\nagency's statutory mandate is actually carried out.\u003c/p\u003e"
+    },
+    {
+      "id": "card_67209a#2",
+      "format": "quiz",
+      "prompt": "Beyond law, what practical factor makes eliminating a disaster agency difficult?",
+      "choices": [
+        {
+          "text": "States and localities have built their own plans around the federal capability existing",
+          "correct": true
+        },
+        {
+          "text": "Federal employees cannot legally be reassigned between agencies",
+          "correct": false
+        },
+        {
+          "text": "Disaster response is constitutionally reserved to the national government alone",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDownstream dependence is its own constraint: removing a capability that\nothers plan around imposes costs far outside the agency itself.\u003c/p\u003e"
+    }
+  ]
+}

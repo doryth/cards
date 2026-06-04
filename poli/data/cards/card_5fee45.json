@@ -1,0 +1,139 @@
+{
+  "id": "card_5fee45",
+  "slug": "when-a-records-request-goes-unanswered",
+  "type": "news",
+  "title": "The Weak Point of Transparency Law: Silence",
+  "hook": "A records law doesn't have to be repealed to stop working. An agency can simply not answer — and the only remedy left is a lawsuit most requesters can't afford.",
+  "key_points": [
+    "Freedom-of-information laws create a right to request, but enforcement depends on agencies actually responding.",
+    "Statutory deadlines are routinely missed, and missing them usually carries no penalty for the agency.",
+    "The standard remedy is to sue — expensive and slow, so most requesters simply give up.",
+    "Delay is functionally equivalent to denial when the information is time-sensitive, such as during a policy fight or an election.",
+    "ProPublica's Al Shaw describes the experience of filing federal FOIA requests and getting no response at all."
+  ],
+  "content_html": "\u003cp\u003eTransparency laws are usually discussed as though the fight were over what may be withheld. In practice the more common failure is quieter: nothing is formally denied, and nothing arrives. ProPublica's Al Shaw describes filing federal Freedom of Information Act requests and simply getting no response — the experience of a right that exists on paper while the corresponding duty goes unenforced.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe structural problem is the remedy. Records statutes typically set response deadlines but attach no automatic consequence to missing them, which means a backlogged or unwilling agency faces no immediate cost for silence. What the requester has instead is the option to sue — slow, expensive, and realistically available only to news organizations and advocacy groups with lawyers on hand. Ordinary requesters, who make up most of the volume, mostly give up, and the practical scope of the law shrinks to whatever a well-funded litigant is willing to pursue. Delay also does much of the work of denial. Information about a pending rule, a contract, or an election matters because it can change a decision; released two years later, the same records are history rather than accountability. This is why reform proposals in many countries focus less on narrowing exemptions than on making response itself enforceable — funded staff, published backlog data, fee-shifting, or independent information commissioners who can order release without a lawsuit.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Al Shaw"
+    ],
+    "url": "https://propublica.org/article/foia-requests-responses",
+    "published_at": "2026-08-11",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption",
+    "media-civil-society"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_4e3cf6",
+      "slug": "freedom-of-information",
+      "type": "concept",
+      "title": "Freedom of Information",
+      "hook": "You can't hold power to account for what you can't see. Freedom of information laws pry open the workings of government so citizens can actually check it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b3bd44",
+      "slug": "free-press-and-democracy",
+      "type": "concept",
+      "title": "The Free Press \u0026 Democracy",
+      "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f7cf61",
+      "slug": "the-civil-service-and-bureaucracy",
+      "type": "concept",
+      "title": "The Civil Service \u0026 Bureaucracy",
+      "hook": "Governments change; the bureaucracy stays. The permanent civil service is the machinery that actually delivers policy — for better and, sometimes, for worse.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_4e3cf6",
+      "slug": "freedom-of-information",
+      "type": "concept",
+      "title": "Freedom of Information",
+      "hook": "You can't hold power to account for what you can't see. Freedom of information laws pry open the workings of government so citizens can actually check it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_5fee45#0",
+      "format": "flip",
+      "prompt": "How can a transparency law fail without being changed at all?",
+      "back_html": "\u003cp\u003eAgencies simply do not respond. The right to request survives on paper while\nthe duty to answer goes unenforced.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5fee45#1",
+      "format": "quiz",
+      "prompt": "What is usually the only remedy when a records request is ignored?",
+      "choices": [
+        {
+          "text": "Suing the agency — slow and expensive, so most requesters abandon the request",
+          "correct": true
+        },
+        {
+          "text": "An automatic fine paid to the requester",
+          "correct": false
+        },
+        {
+          "text": "Immediate release of the records by default",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMissed deadlines typically carry no automatic penalty, leaving litigation as\nthe enforcement mechanism — one only well-resourced requesters can use.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5fee45#2",
+      "format": "quiz",
+      "prompt": "Why is delay often as effective as outright denial?",
+      "choices": [
+        {
+          "text": "Because information loses its value once the decision it bears on has already been made",
+          "correct": true
+        },
+        {
+          "text": "Because delayed records are legally destroyed",
+          "correct": false
+        },
+        {
+          "text": "Because agencies may refuse to release old records",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRecords that arrive after a vote, a rule, or an election cannot inform it.\nTiming is part of what makes transparency useful.\u003c/p\u003e"
+    }
+  ]
+}

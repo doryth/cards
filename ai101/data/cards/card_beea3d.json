@@ -1,0 +1,91 @@
+{
+  "id": "card_beea3d",
+  "slug": "can-ai-be-creative",
+  "type": "concept",
+  "title": "Can AI Be Creative?",
+  "hook": "AI can write a poem or compose a tune that genuinely moves people. Whether that's 'real' creativity or very sophisticated remixing is a question with no settled answer — and it matters.",
+  "key_points": [
+    "AI produces novel-seeming work by recombining patterns from its training data.",
+    "It can surprise and delight — but it has no intent, feeling, or lived experience.",
+    "Is creativity about the output, or the meaning and intent behind it? People disagree.",
+    "Most working artists treat it as a tool that still needs a human's taste and purpose."
+  ],
+  "content_html": "\u003cp\u003eAI can now write a sonnet, compose a melody, or generate an image striking enough to win a competition — and sometimes the result genuinely moves people. So is it \u003cem\u003ecreative\u003c/em\u003e? The trouble is that the question hides a deeper one we've never fully agreed on: what creativity even is. Mechanically, what AI does is recombine patterns it absorbed from a vast amount of human-made work into new arrangements. That can produce things that feel fresh and surprising — but it happens with no intent behind it, no feeling, no lived experience, and nothing the AI is trying to \u003cem\u003esay\u003c/em\u003e.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat's where opinions split, reasonably. If creativity is defined by the \u003cstrong\u003eoutput\u003c/strong\u003e — something novel and valuable that didn't exist before — then AI clearly clears the bar, and arguing otherwise starts to feel like moving the goalposts. But if creativity is about the \u003cstrong\u003emeaning and intent\u003c/strong\u003e behind a work — an artist with something to express, a perspective forged by being alive — then AI isn't creative so much as a very sophisticated remix engine. Both views have serious defenders, and it may turn out the honest answer is \u0026quot;a new kind of thing that doesn't fit our old categories.\u0026quot; What's less contested is the practical reality: most working artists, writers, and musicians treat these tools as exactly that — powerful instruments that still need a human's taste, judgment, and purpose to point them at something worth making. The brush got more capable; someone still has to decide what to paint.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Computational creativity",
+    "url": "https://en.wikipedia.org/wiki/Computational_creativity",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "ai-creativity"
+  ],
+  "tags": [
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aa1028",
+      "slug": "ai-images-and-art",
+      "type": "concept",
+      "title": "AI Images, Art \u0026 Video",
+      "hook": "Type a sentence, get a picture. Image generators learned the link between words and visuals from billions of captioned images — which is also why artists are raising hard questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_beea3d#0",
+      "format": "quiz",
+      "prompt": "How does AI produce creative-seeming work?",
+      "choices": [
+        {
+          "text": "By recombining patterns learned from huge amounts of human-made work",
+          "correct": true
+        },
+        {
+          "text": "By having original ideas and emotions of its own",
+          "correct": false
+        },
+        {
+          "text": "By copying a single existing artwork each time",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI remixes statistical patterns from its training data into new\ncombinations — striking, but without intent, feeling, or experience behind it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_beea3d#1",
+      "format": "flip",
+      "prompt": "Why is 'is AI creative?' hard to answer?",
+      "back_html": "\u003cp\u003eIt depends what creativity \u003cem\u003eis\u003c/em\u003e — the novel output itself, or the meaning,\nintent, and experience behind it. People reasonably disagree on that.\u003c/p\u003e"
+    }
+  ]
+}

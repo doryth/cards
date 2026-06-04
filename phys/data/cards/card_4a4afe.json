@@ -1,0 +1,99 @@
+{
+  "id": "card_4a4afe",
+  "slug": "lion-nebula-webb-portrait",
+  "type": "news",
+  "title": "A Dying Sun-Like Star, Carved Into a Lion",
+  "hook": "Webb's infrared view of NGC 2392 shows what our own Sun will do at the end: a naked white-hot core blasting radiation into the gas it just shed.",
+  "key_points": [
+    "NGC 2392, the Lion Nebula, is a planetary nebula — the shell of gas a dying Sun-like star throws off, not anything to do with planets.",
+    "James Webb imaged it in the infrared, which sees through dust that blocks visible light.",
+    "At the centre sits a white dwarf: the exposed, scorching core left when the star's outer layers departed.",
+    "Radiation from that core is excavating the surrounding gas and dust, sculpting the lion-like face.",
+    "The 'mane' is a sprawl of dusty clumps dense enough to have resisted being blown away."
+  ],
+  "content_html": "\u003cp\u003eStars like the Sun do not explode. They swell, grow unstable, and shrug off their outer layers, leaving the naked core behind — and it is the glow of that shed gas, lit from within, that we call a planetary nebula. The name is a leftover from early telescopes, in which the round shapes looked planet-like; there are no planets involved.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNGC 2392, the Lion Nebula, is one such object, and James Webb has now imaged it in the infrared, a band that sees past the dust which obscures visible light. Reported via ScienceDaily, the view shows a white dwarf at the centre — the exposed, still-scorching core of a star not unlike our own — pumping radiation outward into the gas it recently expelled. That radiation does the sculpting: it excavates and ionises the surrounding material, carving the lion's face, while a sprawling \u0026quot;mane\u0026quot; of dustier, denser clumps has held out against being swept away. It is a portrait of a specific object and also a preview, since the Sun is destined to end the same way.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260812015206.htm",
+    "published_at": "2026-08-12",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_30455e",
+      "slug": "dying-stars-kick-themselves",
+      "type": "news",
+      "title": "Dying Stars Can Kick Themselves Across Space",
+      "hook": "A dying star flinging off lopsided blobs of gas nudges itself with each one — thousands of tiny kicks that add up to a getaway of about a kilometer per second.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "card_b6574a",
+      "slug": "hidden-white-dwarfs-near-earth",
+      "type": "news",
+      "title": "Four White Dwarfs Were Hiding in Plain Sight Nearby",
+      "hook": "Four white dwarf stars sat undetected for decades, drowned out by the glare of their brighter red dwarf companions — until Hubble's ultraviolet eyes finally caught them.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4a4afe#0",
+      "format": "quiz",
+      "prompt": "What is a planetary nebula?",
+      "choices": [
+        {
+          "text": "The shell of gas shed by a dying Sun-like star, lit up by its exposed core",
+          "correct": true
+        },
+        {
+          "text": "A cloud of gas in the process of collapsing into new planets",
+          "correct": false
+        },
+        {
+          "text": "The debris left behind by a supernova explosion",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe name is a historical accident from how they looked in early telescopes. NGC 2392\nis gas thrown off by a dying Sun-like star, with a white dwarf at its centre.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4a4afe#1",
+      "format": "flip",
+      "prompt": "What is left at the centre of NGC 2392, and what is it doing to the nebula?",
+      "back_html": "\u003cp\u003eA scorching \u003cstrong\u003ewhite dwarf\u003c/strong\u003e — the star's exposed core — whose radiation is carving\nout the surrounding gas and dust into the nebula's lion-like shape.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4a4afe#2",
+      "format": "flip",
+      "prompt": "Why observe a nebula like this in the infrared?",
+      "back_html": "\u003cp\u003eInfrared light penetrates the \u003cstrong\u003edust\u003c/strong\u003e that blocks visible light, revealing structure\nsuch as the nebula's surviving dusty clumps.\u003c/p\u003e"
+    }
+  ]
+}

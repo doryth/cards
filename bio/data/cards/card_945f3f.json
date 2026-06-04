@@ -1,0 +1,101 @@
+{
+  "id": "card_945f3f",
+  "slug": "neurons-and-signals",
+  "type": "concept",
+  "title": "Neurons and Signals",
+  "hook": "Your every thought, twitch, and feeling rides on tiny electrical pulses fired by neurons — and leaps the gaps between them as bursts of chemicals.",
+  "key_points": [
+    "Neurons are specialized cells that carry information as fast electrical signals.",
+    "A signal travels down a neuron as a wave of electrical change called an action potential.",
+    "Where two neurons meet — a synapse — the signal usually crosses as chemical messengers called neurotransmitters.",
+    "Billions of neurons wired together form the networks behind sensing, moving, and thinking."
+  ],
+  "content_html": "\u003cp\u003eA neuron is a cell built for communication. Instead of just sitting in a tissue doing chemistry, it carries information as quick electrical pulses, then hands that information off to the next cell. String billions of these together and you get a nervous system — the network behind everything you sense, feel, and do.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA typical neuron has branchy arms (dendrites) that collect incoming signals, a cell body, and a long fiber (the axon) that carries the outgoing signal. When a neuron fires, a wave of electrical change called an action potential sweeps down the axon. But neurons don't quite touch — there's a microscopic gap called a synapse. To cross it, the signal becomes chemical: the axon tip releases neurotransmitters that float across and trigger the next neuron. This electrical-then-chemical relay, repeated across trillions of connections, is how the NIH's NINDS describes the basic working of the brain and nerves.\u003c/p\u003e",
+  "source": {
+    "name": "NIH NINDS",
+    "url": "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-life-and-death-neuron",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_f21e0c",
+      "slug": "the-brain",
+      "type": "concept",
+      "title": "The Brain",
+      "hook": "Three pounds of folded tissue runs the whole show — thinking, balance, breathing, memory — divided into regions that each handle a different part of the job.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bb8f8a",
+      "slug": "the-senses",
+      "type": "concept",
+      "title": "The Senses",
+      "hook": "Light, sound, chemicals, and pressure can't enter your brain directly — your senses translate all of them into the one language your neurons understand: electrical signals.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_945f3f#0",
+      "format": "flip",
+      "prompt": "What kind of signal travels down the length of a neuron?",
+      "back_html": "\u003cp\u003eAn \u003cstrong\u003eelectrical signal\u003c/strong\u003e called an \u003cstrong\u003eaction potential\u003c/strong\u003e — a brief wave of\nvoltage change that races along the neuron from one end to the other.\u003c/p\u003e"
+    },
+    {
+      "id": "card_945f3f#1",
+      "format": "quiz",
+      "prompt": "How does a signal usually cross the gap between two neurons?",
+      "choices": [
+        {
+          "text": "Chemical messengers (neurotransmitters) released into the synapse",
+          "correct": true
+        },
+        {
+          "text": "A metal wire connecting the two cells",
+          "correct": false
+        },
+        {
+          "text": "The neurons physically merge into one cell",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAt a synapse, the arriving signal triggers the release of neurotransmitters,\nwhich drift across the tiny gap and pass the message to the next neuron.\u003c/p\u003e"
+    },
+    {
+      "id": "card_945f3f#2",
+      "format": "quiz",
+      "prompt": "What is a neuron?",
+      "choices": [
+        {
+          "text": "A specialized cell that carries information as electrical signals",
+          "correct": true
+        },
+        {
+          "text": "A type of blood cell that fights infection",
+          "correct": false
+        },
+        {
+          "text": "A molecule that stores genetic instructions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNeurons are the working cells of the nervous system, built to receive,\nconduct, and pass on signals at high speed.\u003c/p\u003e"
+    }
+  ]
+}

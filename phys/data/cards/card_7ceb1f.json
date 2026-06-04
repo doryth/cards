@@ -1,0 +1,103 @@
+{
+  "id": "card_7ceb1f",
+  "slug": "sharp-phase-transition-proved-for-networks",
+  "type": "news",
+  "title": "A Sharp Phase Transition, Finally Proved",
+  "hook": "Add links to a network one by one and, past a critical density, a giant cluster snaps into existence. Mathematicians have now proved that jump is genuinely abrupt for a broad class of networks.",
+  "key_points": [
+    "Percolation asks: if each link in a network exists with probability p, when does a giant connected cluster appear?",
+    "Below a critical p the clusters stay small; above it, one cluster spans the whole system.",
+    "Physicists long assumed that switch is sharp rather than gradual — a true phase transition.",
+    "Quanta reports mathematicians have now proved the abrupt change for a wide family of networks.",
+    "Percolation is the toy model for phase transitions generally, from freezing water to magnetization."
+  ],
+  "content_html": "\u003cp\u003eTake a big network and switch each possible link on with probability \u003cem\u003ep\u003c/em\u003e. When \u003cem\u003ep\u003c/em\u003e is small you\nget a scatter of little disconnected islands. Turn \u003cem\u003ep\u003c/em\u003e up and, at some critical value, a single\ncluster suddenly spans the entire system. Physicists have long taken it for granted that this\nswitch is a genuine, abrupt phase transition — not a gradual slide — but proving it for general\nnetworks resisted decades of effort.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eQuanta Magazine reports that mathematicians have now settled the question for a broad class of\nnetworks, showing the shift really does happen sharply at a critical point. That matters well\nbeyond graph theory: percolation is the standard minimal model for collective change of every\nkind — water freezing, a magnet aligning, a forest fire spreading — because it reduces a phase\ntransition to one tunable knob and one critical value. A proof of sharpness in the general case\nputs the physicists' long-standing intuition on firm mathematical ground. Leila Sloman's write-up\ncovers the proof and its history.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Leila Sloman"
+    ],
+    "url": "https://quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831",
+    "published_at": "2026-08-31"
+  },
+  "topic_ids": [
+    "heat-thermo",
+    "modern-physics"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-08-31",
+  "related": [
+    {
+      "id": "card_3ad16a",
+      "slug": "states-of-matter",
+      "type": "concept",
+      "title": "States of Matter",
+      "hook": "Solid, liquid, gas, plasma — the difference is how tightly particles are bound. Add heat and matter changes state, but during the change the temperature holds still.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9a90de",
+      "slug": "entropy-and-frenesy",
+      "type": "paper",
+      "title": "Entropy Is Only Half the Arrow of Time",
+      "hook": "Entropy production tells you which way time points. A second quantity — frenesy, the sheer busyness of a driven system — is what decides which structures survive.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-18"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7ceb1f#0",
+      "format": "flip",
+      "prompt": "What is percolation, in one sentence?",
+      "back_html": "\u003cp\u003eA model where each link in a network is present with probability \u003cem\u003ep\u003c/em\u003e, used to ask when the\nsmall scattered clusters suddenly merge into one giant cluster spanning the whole system.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7ceb1f#1",
+      "format": "quiz",
+      "prompt": "Why do physicists care about percolation beyond networks?",
+      "choices": [
+        {
+          "text": "It is the simplest model of a phase transition, so lessons carry over to freezing, boiling and magnetization",
+          "correct": true
+        },
+        {
+          "text": "It gives the exact melting temperature of any real material",
+          "correct": false
+        },
+        {
+          "text": "It replaces thermodynamics for systems near absolute zero",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePercolation strips a phase transition down to its bare bones — a tunable parameter and a\ncritical value — which is why it serves as the reference model for abrupt collective change.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7ceb1f#2",
+      "format": "flip",
+      "prompt": "What does it mean for a phase transition to be 'sharp'?",
+      "back_html": "\u003cp\u003eThe system's behaviour changes discontinuously at a single critical value of the control\nparameter, rather than drifting smoothly from one regime to the other.\u003c/p\u003e"
+    }
+  ]
+}

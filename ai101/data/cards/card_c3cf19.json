@@ -1,0 +1,106 @@
+{
+  "id": "card_c3cf19",
+  "slug": "meta-muse-instagram-deepfakes",
+  "type": "news",
+  "title": "Meta Let You Put Strangers Into AI Photos — Then Pulled It Back Fast",
+  "hook": "Meta's new AI image model could pull any public Instagram user into your AI-generated photos, no permission asked. Backlash was swift, and so was the shutdown.",
+  "key_points": [
+    "Meta launched Muse Image, its first in-house AI image model, powering AI photo tools across Instagram, WhatsApp, and the Meta AI app.",
+    "As built, it could pull content from any public Instagram account into a user's AI-generated images — without that account owner's permission.",
+    "The Verge reports the backlash was significant and fast.",
+    "Meta turned the feature off within days of launch.",
+    "Shows how quickly a 'consent gap' in an AI feature can turn into a real-world controversy."
+  ],
+  "content_html": "\u003cp\u003eMeta launched Muse Image, the first AI image model from its Superintelligence Labs division, to power AI photo generation across Instagram, WhatsApp, and the Meta AI app. As originally built, the feature had a striking capability: it could pull content from \u003cem\u003eany\u003c/em\u003e public Instagram account into a user's AI-generated image — meaning you could put a stranger's likeness into your own AI photo without asking them.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe backlash, The Verge reports, was fast and significant, and so was Meta's response: the company turned the feature off within days, before it reached Facebook and Messenger as originally planned. The core problem wasn't the image-generation technology itself — it was the missing consent step. Being on a public Instagram account doesn't mean agreeing to have your likeness inserted into someone else's AI creation, and the swift reversal suggests Meta underestimated how uncomfortable that gap would feel to users. It's a pattern worth watching as AI image and deepfake tools spread: features that use real people's identities without an opt-in tend to draw fast, sharp pushback — and increasingly, companies are learning to walk them back just as quickly as they shipped them.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "published_at": "2026-07-07",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "deepfakes",
+    "ai-images",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "vision",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aa1028",
+      "slug": "ai-images-and-art",
+      "type": "concept",
+      "title": "AI Images, Art \u0026 Video",
+      "hook": "Type a sentence, get a picture. Image generators learned the link between words and visuals from billions of captioned images — which is also why artists are raising hard questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c3cf19#0",
+      "format": "quiz",
+      "prompt": "What made Meta's Muse Image feature controversial as originally launched?",
+      "choices": [
+        {
+          "text": "It could pull any public Instagram user into AI images without their permission",
+          "correct": true
+        },
+        {
+          "text": "It only worked on photos the user uploaded themselves",
+          "correct": false
+        },
+        {
+          "text": "It required written consent from every person before generating an image",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe feature let anyone insert a public Instagram account's likeness into an\nAI-generated image — no opt-in or permission step for the account being used.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c3cf19#1",
+      "format": "flip",
+      "prompt": "How fast did Meta respond to the backlash?",
+      "back_html": "\u003cp\u003eWithin days — The Verge reports Meta turned the feature off following\nsignificant backlash shortly after it launched.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c3cf19#2",
+      "format": "flip",
+      "prompt": "What's the general lesson from this launch-and-reverse pattern?",
+      "back_html": "\u003cp\u003eAI features that use real people's likenesses without consent tend to draw\nfast public pushback — and companies increasingly walk them back just as fast.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "card_ee5ecb",
+  "slug": "black-hole-area-law-population-test",
+  "type": "paper",
+  "title": "Testing Hawking's Area Law on 241 Mergers",
+  "hook": "Black-hole horizons can never shrink — a theorem checked so far on a handful of loud events. Sorting a whole catalogue into first- and second-generation black holes turns it into a population test.",
+  "key_points": [
+    "Hawking's area theorem: the total event-horizon area of classical black holes can never decrease.",
+    "Previous gravitational-wave tests used single loud events, certifying the law only for those specific mergers.",
+    "This work uses GWTC-5's split into a low-spin population (formed by stellar collapse) and a high-spin population (formed by earlier mergers).",
+    "If the high-spin black holes really are merger remnants, the area law requires their horizon areas to statistically exceed those of first-generation binaries.",
+    "Using inspiral-only parameter estimation for 241 events, both peaks in the second-generation area distribution sit above their first-generation counterparts, at 3.3σ and 2.1σ.",
+    "The method avoids merger–ringdown modelling, and the result also supports the population classification it relies on."
+  ],
+  "content_html": "\u003cp\u003eHawking's 1971 area theorem is one of the sturdiest results in classical general relativity: black-hole horizon area never decreases. Gravitational-wave astronomy can check it directly — compare the areas of two merging black holes with the area of what they leave behind — and that has been done for a few exceptionally loud events. But each such test certifies the theorem only for the one merger analysed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eShao-Peng Tang, Yin-Jie Li and Yi-Zhong Fan turn it into a statement about the whole catalogue. They lean on a recent decomposition of the GWTC-5 binary black holes into two subpopulations: a low-spin group consistent with formation by stellar collapse, and a high-spin group consistent with formation through earlier, hierarchical mergers of the first kind. If that story is right, the high-spin black holes are merger remnants, and the area law makes a sharp population-level prediction: their horizon areas must statistically exceed the total pre-merger areas of the low-spin binaries.\u003c/p\u003e\n\u003cp\u003eRunning inspiral-only parameter estimation on 241 events — deliberately avoiding any dependence on merger–ringdown waveform models — they find both peaks of the second-generation horizon-area distribution sitting above their first-generation counterparts, with probabilities of 0.9995 (3.3σ) and 0.983 (2.1σ). The area law survives, statistically, for the quasicircular moderately spinning mergers that dominate current catalogues. The logic also runs backwards: the consistency lends support to the spin-based classification of stellar-collapse versus hierarchical-merger black holes that the test assumed.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Shao-Peng Tang",
+      "Yin-Jie Li",
+      "Yi-Zhong Fan"
+    ],
+    "url": "https://arxiv.org/abs/2608.16563",
+    "published_at": "2026-08-17",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-20",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_30a04a",
+      "slug": "black-hole-laws-get-a-dynamical-upgrade",
+      "type": "news",
+      "title": "Hawking's Black Hole Laws Get a Real-World Upgrade",
+      "hook": "Hawking's famous black hole laws only strictly work for black holes frozen in perfect equilibrium. A new framework extends them to real black holes that merge, grow, and evaporate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_b01732",
+      "slug": "ringdown-test-of-black-hole-no-hair",
+      "type": "paper",
+      "title": "Precision Ringdown Measurements of Binary Black Hole Remnants",
+      "hook": "After two black holes merge, the remnant 'rings' like a struck bell — general relativity says that tone depends only on its mass and spin. A sharper measurement says: still true.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ee5ecb#0",
+      "format": "flip",
+      "prompt": "What does Hawking's black-hole area theorem say?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003etotal event-horizon area\u003c/strong\u003e of classical black holes can never decrease. Merge two\nblack holes and the remnant's horizon area exceeds the sum of the originals'.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ee5ecb#1",
+      "format": "quiz",
+      "prompt": "What is the limitation of testing the area law on single loud events like GW150914?",
+      "choices": [
+        {
+          "text": "It certifies the law only for those specific mergers, not as a general statement",
+          "correct": true
+        },
+        {
+          "text": "Loud events have the least reliable parameter estimates",
+          "correct": false
+        },
+        {
+          "text": "Single events cannot measure horizon area at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEach single-event test is one data point about one merger. A population test asks whether\nthe law holds statistically across the whole observed catalogue.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ee5ecb#2",
+      "format": "flip",
+      "prompt": "How does splitting the catalogue by spin enable a population-level area-law test?",
+      "back_html": "\u003cp\u003eLow-spin black holes are taken to come from stellar collapse (first generation), high-spin\nones from earlier mergers (second generation). The area law then demands the\nsecond-generation horizon areas statistically \u003cstrong\u003eexceed\u003c/strong\u003e the first-generation totals.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ee5ecb#3",
+      "format": "quiz",
+      "prompt": "Why does using inspiral-only parameter estimation strengthen this test?",
+      "choices": [
+        {
+          "text": "It avoids relying on merger–ringdown modelling",
+          "correct": true
+        },
+        {
+          "text": "It uses more of each signal, improving precision",
+          "correct": false
+        },
+        {
+          "text": "It is the only way to measure black-hole spin",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRingdown-based tests depend on modelling the most nonlinear part of the waveform.\nRestricting to the inspiral removes that modelling dependence.\u003c/p\u003e"
+    }
+  ]
+}

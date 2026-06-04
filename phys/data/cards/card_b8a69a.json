@@ -1,0 +1,101 @@
+{
+  "id": "card_b8a69a",
+  "slug": "quantum-weirdness",
+  "type": "concept",
+  "title": "What Makes Quantum Physics Weird",
+  "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+  "key_points": [
+    "Energy is quantized: it comes in discrete packets rather than a smooth continuum.",
+    "Particles like electrons also behave as waves — the same duality light shows.",
+    "The uncertainty principle limits how precisely you can know position and momentum together.",
+    "These effects dominate at the scale of atoms but average out for everyday objects."
+  ],
+  "content_html": "\u003cp\u003eQuantum physics describes nature at the smallest scales, and almost every rule of thumb from everyday life breaks down there. First, energy is quantized: rather than varying smoothly, it comes in discrete packets, so an electron in an atom can occupy only certain energy levels and nothing in between. Second, particles such as electrons display the same wave-particle duality that light does — they can interfere and spread like waves.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThen there's Heisenberg's uncertainty principle, which sets a hard limit on how precisely you can simultaneously know a particle's position and its momentum: nail down one and the other necessarily blurs. None of this is a measurement flaw; it's built into how nature works at this scale. The strangeness is invisible in daily life because these effects dominate only for atoms and subatomic particles, washing out into ordinary classical behavior for objects you can see. Despite how counterintuitive it feels, quantum physics is among the most precisely tested theories in all of science.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_987298",
+      "slug": "special-relativity-basics",
+      "type": "concept",
+      "title": "Special Relativity, Gently",
+      "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b8a69a#0",
+      "format": "flip",
+      "prompt": "What does it mean to say energy is 'quantized'?",
+      "back_html": "\u003cp\u003eEnergy comes in \u003cstrong\u003ediscrete packets\u003c/strong\u003e rather than a smooth, continuous range —\na system can hold certain amounts but not the values in between.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b8a69a#1",
+      "format": "quiz",
+      "prompt": "What does the uncertainty principle say?",
+      "choices": [
+        {
+          "text": "You can't know a particle's position and momentum both perfectly at once",
+          "correct": true
+        },
+        {
+          "text": "Particles have no position or momentum at all",
+          "correct": false
+        },
+        {
+          "text": "Measurements are always wrong by the same amount",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThere's a fundamental limit on knowing position and momentum together — the\nmore precisely you fix one, the less you can know the other.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b8a69a#2",
+      "format": "quiz",
+      "prompt": "Why don't everyday objects show obvious quantum behavior?",
+      "choices": [
+        {
+          "text": "Quantum effects dominate at atomic scales but average out for large objects",
+          "correct": true
+        },
+        {
+          "text": "Large objects are not made of atoms",
+          "correct": false
+        },
+        {
+          "text": "Quantum physics has been disproven for big things",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eQuantum effects rule the atomic scale, but for everyday-sized objects they\nwash out into the familiar classical behavior.\u003c/p\u003e"
+    }
+  ]
+}

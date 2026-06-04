@@ -1,0 +1,112 @@
+{
+  "id": "card_337ac6",
+  "slug": "measles-deaths-mixed-messaging",
+  "type": "news",
+  "title": "Two Measles Deaths, and a Mixed Message from the Top",
+  "hook": "After two deaths in Pennsylvania's measles outbreak, the U.S. health secretary's response both encouraged vaccination and undercut it — the kind of hedging that costs lives during an outbreak.",
+  "key_points": [
+    "Two deaths were associated with a measles outbreak in Pennsylvania.",
+    "Health secretary RFK Jr.'s messaging both encouraged vaccination and undermined confidence in it.",
+    "Measles deaths are rare in vaccinated populations — they signal a coverage gap.",
+    "Outbreak communication works only when it is unambiguous; hedged messages read as permission to wait.",
+    "Two doses of MMR remain about 97% effective against measles.",
+    "The practical step is unchanged: check that you and your children are up to date, especially before travel."
+  ],
+  "content_html": "\u003cp\u003eTwo deaths have been associated with the measles outbreak in Pennsylvania, and the response from the U.S. health secretary managed to point in two directions at once — messaging that encouraged vaccination while simultaneously undermining confidence in it. NPR reports the clash that followed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe clinical facts here aren't in dispute. Measles deaths are rare wherever two-dose MMR coverage is high, because the vaccine is roughly 97% effective; a fatal outbreak is therefore less a story about the virus than about who was left unprotected. That's what makes the communication itself consequential. During an outbreak, families decide in days, and a message that hedges reads to a hesitant parent as permission to wait — which is precisely the delay measles exploits, given how contagious it is and how early it spreads.\u003c/p\u003e\n\u003cp\u003eThe individual takeaway doesn't depend on how the political argument resolves. Check that you and your children are up to date on MMR, get it sorted before travel, and call a clinician about a known exposure rather than watching to see what develops.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Selena Simmons-Duffin"
+    ],
+    "url": "https://npr.org/2026/08/29/nx-s1-5946842/pennsylvania-measles-deaths-ignite-clash-over-rfk-jr-s-vaccination-claims",
+    "published_at": "2026-08-29",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "vaccines",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-31",
+  "date": "2026-08-29",
+  "related": [
+    {
+      "id": "card_fa94ed",
+      "slug": "measles-record-2026",
+      "type": "news",
+      "title": "U.S. Measles Cases Hit a 35-Year High",
+      "hook": "The CDC has confirmed 2,318 measles cases this year — the most since 1991, and the second record-breaking year in a row for a disease the U.S. once declared eliminated.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_d8a0ad",
+      "slug": "vaccines-adults-still-need",
+      "type": "concept",
+      "title": "Vaccines Adults Still Need",
+      "hook": "Vaccination isn't just a childhood checklist. Protection from some shots fades, new ones are recommended with age, and a few need regular boosters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ffead7",
+      "slug": "vaccine-executive-order-2026",
+      "type": "news",
+      "title": "What the New Vaccine Executive Order Changes (For Now, Nothing)",
+      "hook": "President Trump signed an executive order saying children should get fewer vaccines. The practical answer for parents this week: nothing has changed yet.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_d02856",
+      "slug": "measles-antiviral-pill",
+      "type": "news",
+      "title": "An Experimental Pill That Stopped a Measles-Like Virus From Spreading",
+      "hook": "A drug called GHP-88310 blocked airborne spread of a measles-like virus in ferrets — the first time a polymerase inhibitor has done that. It could one day shut outbreaks down, not replace vaccines.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-24"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_337ac6#0",
+      "format": "flip",
+      "prompt": "What does a measles death signal about a population?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003egap in vaccination coverage\u003c/strong\u003e. Measles deaths are rare where two-dose MMR\ncoverage is high, so a fatal outbreak points at who wasn't protected.\u003c/p\u003e"
+    },
+    {
+      "id": "card_337ac6#1",
+      "format": "quiz",
+      "prompt": "Why is hedged public health messaging a problem during an outbreak?",
+      "choices": [
+        {
+          "text": "Ambiguity reads as permission to wait, and outbreaks move faster than hesitation resolves",
+          "correct": true
+        },
+        {
+          "text": "It makes vaccines chemically less effective",
+          "correct": false
+        },
+        {
+          "text": "It has no effect — people ignore official messaging anyway",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA message that both encourages vaccination and undermines it gives hesitant families\na reason to delay — during exactly the window when measles spreads.\u003c/p\u003e"
+    },
+    {
+      "id": "card_337ac6#2",
+      "format": "flip",
+      "prompt": "What's the individual action item here?",
+      "back_html": "\u003cp\u003eConfirm you and your children are up to date on \u003cstrong\u003eMMR\u003c/strong\u003e — especially before travel —\nand treat a known measles exposure as a call to a clinician, not a wait-and-see.\u003c/p\u003e"
+    }
+  ]
+}

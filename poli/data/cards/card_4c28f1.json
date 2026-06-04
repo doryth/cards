@@ -1,0 +1,135 @@
+{
+  "id": "card_4c28f1",
+  "slug": "nine-justices-nine-styles",
+  "type": "blog",
+  "title": "Nine Justices, Nine Styles",
+  "hook": "One scholar coded 5,095 questions from a full Supreme Court term and found each justice interrogates lawyers in a signature way — a fingerprint of how they think about the law.",
+  "key_points": [
+    "Greil coded 5,095 questions from 58 oral arguments in the 2025 term to map each justice's signature style.",
+    "Thomas dwells on legal history (about 28% of his questions, near double the average) — the originalist hunt for original meaning.",
+    "Alito leans on extreme hypotheticals (~30%); Roberts probes for the 'limiting principle' — where a proposed rule stops.",
+    "Kavanaugh weighs real-world consequences; Gorsuch fishes for concessions that pin down a lawyer's position.",
+    "Jackson runs Socratic question-chains; Kagan pushes back hardest; Sotomayor asks the most and demands record citations.",
+    "Greil's point: the patterns help advocates prepare — and show the public how each justice reasons."
+  ],
+  "content_html": "\u003cp\u003eEvery Supreme Court advocate knows the justices ask questions in different ways — but John Greil put numbers to it. Writing for SCOTUSblog, he coded more than 5,000 questions from a full term of oral arguments and found that each justice interrogates lawyers in a signature style that mirrors how they think about the law.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eGreil analyzed 5,095 questions across 58 oral arguments of the Court's 2025 term, scoring what each question was doing — and the patterns line up with each justice's known approach. Justice Thomas spends about 28% of his questions on historical and legal background, nearly double the Court's average — the mark of his originalist search for a text's original meaning. Justice Alito reaches for extreme hypotheticals (around 30% of his questions) to stress-test where a proposed rule would lead, while Chief Justice Roberts hunts for the \u0026quot;limiting principle\u0026quot;: the point at which a rule stops, so the Court can judge its long-term reach. Justice Kavanaugh weighs practical, real-world consequences; Justice Gorsuch fishes for concessions that pin down a party's position. Justice Sotomayor, a former trial judge, asks the most questions of anyone (901 in the term) and demands citations to the case record at more than twice the average rate; Justice Kagan pushes back on unsatisfying answers more than any colleague. Justice Jackson favors Socratic sequences — chains of questions that walk an advocate toward a conclusion — and Justice Barrett is the likeliest to pick up and finish a thread a colleague started. Greil's argument is practical as well as descriptive: knowing these fingerprints helps lawyers prepare for specific justices, and it lets the public see how the Court actually reasons its way to a decision. (This card describes U.S. Supreme Court practice specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "John Greil"
+    ],
+    "url": "https://scotusblog.com/2026/07/nine-justices-nine-styles",
+    "published_at": "2026-07-23",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-24",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_7da30b",
+      "slug": "how-the-supreme-court-decides",
+      "type": "blog",
+      "title": "How the Supreme Court Decides a Case",
+      "hook": "A top court hears only a sliver of the cases that beg for its attention — and the path from petition to ruling runs through written briefs, a public argument, and a vote taken in secret.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_ee032b",
+      "slug": "dissents-not-created-equal",
+      "type": "blog",
+      "title": "Not All Dissents Are Created Equal",
+      "hook": "Dissent tallies treat a one-line 'I would deny' the same as a fully reasoned opinion. One scholar sorted 386 of them on the emergency docket — and found about half were just bare votes.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_b9f0b1",
+      "slug": "cameras-in-the-courtroom",
+      "type": "blog",
+      "title": "Why No Cameras in the Supreme Court?",
+      "hook": "You can read every Supreme Court ruling, but you can't watch the arguments on video. The long fight over courtroom cameras is really a fight over judicial transparency.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-19"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7da30b",
+      "slug": "how-the-supreme-court-decides",
+      "type": "blog",
+      "title": "How the Supreme Court Decides a Case",
+      "hook": "A top court hears only a sliver of the cases that beg for its attention — and the path from petition to ruling runs through written briefs, a public argument, and a vote taken in secret.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_4c28f1#0",
+      "format": "flip",
+      "prompt": "What did John Greil measure to characterize each justice's style?",
+      "back_html": "\u003cp\u003eHe coded 5,095 questions from 58 oral arguments in the 2025 term,\nscoring what each question was actually trying to do.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4c28f1#1",
+      "format": "quiz",
+      "prompt": "In Greil's analysis, which justice's questions most often dig into legal history and original meaning?",
+      "choices": [
+        {
+          "text": "Justice Thomas",
+          "correct": true
+        },
+        {
+          "text": "Justice Kagan",
+          "correct": false
+        },
+        {
+          "text": "Justice Kavanaugh",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThomas devoted about 28% of his questions to historical and legal\nbackground — roughly double the Court's average — reflecting his\noriginalist method.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4c28f1#2",
+      "format": "quiz",
+      "prompt": "What is the 'limiting principle' that Chief Justice Roberts often probes for?",
+      "choices": [
+        {
+          "text": "Where a proposed legal rule stops, so its long-term reach can be judged",
+          "correct": true
+        },
+        {
+          "text": "The minimum number of votes needed to grant a case",
+          "correct": false
+        },
+        {
+          "text": "A cap on how many questions each justice may ask",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRoberts tests the boundary of a proposed rule — the point at which it\nwould end — to weigh consequences beyond the case at hand.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4c28f1#3",
+      "format": "flip",
+      "prompt": "How does Justice Jackson's questioning style differ from Justice Alito's?",
+      "back_html": "\u003cp\u003eJackson builds Socratic sequences — chains of questions that walk an\nadvocate toward a conclusion — while Alito stress-tests rules with\nextreme hypotheticals.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "card_283451",
+  "slug": "netflix-gene-wilder-ai-voice",
+  "type": "news",
+  "title": "Netflix Recreated Gene Wilder's Voice With AI — Estate Approved",
+  "hook": "Gene Wilder died in 2016. Netflix just brought his voice back with AI for a Willy Wonka reality show — with his widow's blessing, and mixed reactions from fans.",
+  "key_points": [
+    "Netflix's Wonka's The Golden Ticket uses an AI-recreated voice of the late Gene Wilder.",
+    "The voice was built with ElevenLabs, with permission from Wilder's estate.",
+    "Wilder's wife, Karen Wilder, said the estate is 'delighted' to introduce his magic to a new generation.",
+    "The show, a Willy Wonka-themed competition series, premieres on Netflix September 23.",
+    "Public reaction is split — some see a fitting tribute, others are uneasy about AI-voicing the dead."
+  ],
+  "content_html": "\u003cp\u003eGene Wilder died in 2016, but his voice is returning to screens this fall. The Verge reports that Netflix's upcoming competition series, Wonka's The Golden Ticket, features an AI-recreated version of Wilder's voice, built in partnership with AI voice company ElevenLabs and approved by his estate.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis isn't a case of someone's likeness being used without consent — Wilder's wife, Karen Wilder, said the estate is \u0026quot;delighted\u0026quot; that the show will be \u0026quot;introducing that magic to a new generation while honoring the fans who have cherished it for decades.\u0026quot; That distinction matters: authorized use by the people who legally control a deceased performer's voice and likeness is a very different question from an unauthorized deepfake. Still, the announcement has drawn mixed reactions, with some fans uneasy about AI voicing someone who can no longer consent in the moment, tribute or not. As voice-cloning tools get better and cheaper, expect more of these authorized-but-debated cases — where the legal question (did the rights holder agree?) is settled, but the emotional and ethical one (should we do this at all?) isn't.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Richard Lawler"
+    ],
+    "url": "https://theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+    "published_at": "2026-06-30",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-02",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_beea3d",
+      "slug": "can-ai-be-creative",
+      "type": "concept",
+      "title": "Can AI Be Creative?",
+      "hook": "AI can write a poem or compose a tune that genuinely moves people. Whether that's 'real' creativity or very sophisticated remixing is a question with no settled answer — and it matters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_283451#0",
+      "format": "quiz",
+      "prompt": "Who authorized Netflix to recreate Gene Wilder's voice with AI?",
+      "choices": [
+        {
+          "text": "Gene Wilder's estate, including his widow Karen Wilder",
+          "correct": true
+        },
+        {
+          "text": "No one — Netflix did it without permission",
+          "correct": false
+        },
+        {
+          "text": "A government regulator",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNetflix worked with ElevenLabs to build the voice and got approval from\nWilder's estate, including his wife Karen, before using it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_283451#1",
+      "format": "flip",
+      "prompt": "Why does this case differ from a typical 'deepfake' controversy?",
+      "back_html": "\u003cp\u003eIt was authorized by the estate that controls the late actor's likeness and\nvoice rights — the ethical debate here is about consent and taste, not fraud.\u003c/p\u003e"
+    }
+  ]
+}

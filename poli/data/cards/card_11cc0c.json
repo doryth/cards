@@ -1,0 +1,115 @@
+{
+  "id": "card_11cc0c",
+  "slug": "how-official-statistics-earn-trust",
+  "type": "news",
+  "title": "How Official Statistics Earn Trust",
+  "hook": "A government statistic carries weight only because of the process behind it. When a report skips the usual methodology and review, the number stops being evidence and becomes an argument.",
+  "key_points": [
+    "Statistical agencies build credibility through published methodology, internal review, and independence from the officials who will cite the results.",
+    "Those safeguards exist precisely because official numbers are politically useful — they settle arguments that opinion cannot.",
+    "NPR reports that a Trump-aligned think tank had ties to an unusual U.S. Census Bureau report on noncitizen voting.",
+    "The president cited that report to renew claims of widespread voting by noncitizens in 2020, which researchers and NPR describe as false.",
+    "The diagnostic question for any official figure: who defined the method, was it published in advance, and who reviewed it?",
+    "An agency's reputation is a shared asset — a single irregular report can devalue every number it publishes."
+  ],
+  "content_html": "\u003cp\u003eOfficial statistics are one of the few things in politics that can end an argument. That power rests entirely on process: a method published before the data comes in, review by people who aren't invested in the answer, and enough independence that the agency can publish a number its political superiors dislike.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's Hansi Lo Wang reports that a Trump-aligned think tank had ties to an unusual U.S. Census Bureau report on noncitizen voting, which the president has cited to renew claims of widespread noncitizen voting in the 2020 election — claims NPR and researchers in the field describe as false. Quick Learn's card on prosecuting noncitizen voting cases covers why the underlying phenomenon turns out to be rare in practice.\u003c/p\u003e\n\u003cp\u003eThe transferable skill here isn't about one report. When any figure is used to settle a political question, ask three things: who chose the method, was it disclosed before the result was known, and who outside the interested party checked it. Numbers that can't answer those questions are claims wearing a statistic's clothes.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Hansi Lo Wang"
+    ],
+    "url": "https://npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
+    "published_at": "2026-08-19",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption",
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_7534bb",
+      "slug": "why-noncitizen-voting-cases-are-hard-to-prosecute",
+      "type": "news",
+      "title": "Why Noncitizen Voting Cases Are Hard to Prosecute",
+      "hook": "A rule can be clear and the enforcement still collapse. Charging noncitizens with voting means proving they knew they were ineligible — and that is where the cases fall apart.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "card_fd45b2",
+      "slug": "census-data-privacy",
+      "type": "concept",
+      "title": "Why Census Data Has 'Noise' Added",
+      "hook": "To stop anyone reverse-engineering your identity from public statistics, the U.S. census deliberately blurs its own numbers — a privacy-for-accuracy trade with real political stakes.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "card_a71308",
+      "slug": "trump-election-vulnerability-claims",
+      "type": "news",
+      "title": "Declassified Isn't the Same as New",
+      "hook": "A primetime address, declassified documents, and warnings of 'shocking vulnerabilities' in U.S. elections — but reviewers found the documents mostly repeated what officials already knew years ago.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_c16f42",
+      "slug": "disinformation-and-propaganda",
+      "type": "concept",
+      "title": "Disinformation \u0026 Propaganda",
+      "hook": "Democracy depends on citizens being informed — so deliberately polluting what they know is a direct attack on it. That's the threat of propaganda and disinformation.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_11cc0c#0",
+      "format": "flip",
+      "prompt": "What gives an official government statistic its authority?",
+      "back_html": "\u003cp\u003eNot the agency's name but its process — methodology published in advance,\ninternal review, and independence from the officials who will cite it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_11cc0c#1",
+      "format": "quiz",
+      "prompt": "Why is an irregular report especially damaging to a statistical agency?",
+      "choices": [
+        {
+          "text": "Its credibility is a shared asset — one bad report casts doubt on all its numbers",
+          "correct": true
+        },
+        {
+          "text": "Statistical agencies are legally barred from publishing corrections",
+          "correct": false
+        },
+        {
+          "text": "Each report is independently audited, so an irregular one cannot occur",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUsers trust individual figures because they trust the institution. Damage\nto the process undermines every series the agency publishes, not just one.\u003c/p\u003e"
+    },
+    {
+      "id": "card_11cc0c#2",
+      "format": "flip",
+      "prompt": "What did NPR report about the Census Bureau report on noncitizen voting?",
+      "back_html": "\u003cp\u003eThat it was highly unusual and had ties to a Trump-aligned think tank, and\nthat the president used it to renew claims researchers describe as false.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "card_f45650",
+  "slug": "resurrected-ancient-nitrogenase",
+  "type": "news",
+  "title": "Scientists Resurrected a 3.2-Billion-Year-Old Enzyme",
+  "hook": "Instead of reading rocks and fossils, researchers rebuilt an ancient version of the enzyme that makes nitrogen usable for life — and brought it back to work in the lab.",
+  "key_points": [
+    "Researchers reconstructed ancestral versions of nitrogenase, the enzyme that converts atmospheric nitrogen into a form living things can use, dating back roughly 3.2 billion years.",
+    "The ancient genes were inferred computationally by working backward from modern nitrogenases, then rebuilt and expressed in engineered bacteria.",
+    "Measuring nitrogen isotope patterns produced by the resurrected enzyme offers clues about Earth's ancient atmosphere and how life functioned before oxygen filled the air.",
+    "The approach — 'reading' deep evolutionary history through resurrected proteins rather than only rocks and fossils — could inform both climate-era agriculture and off-world food production."
+  ],
+  "content_html": "\u003cp\u003eMost windows into ancient life come from rocks and fossils. This study opens a different one: researchers rebuilt a working, 3.2-billion-year-old version of nitrogenase — the enzyme that makes atmospheric nitrogen usable for life — and put it back to work.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eRather than digging one up, the team computationally inferred what ancestral nitrogenase genes likely looked like by working backward from modern versions, then synthesized and expressed those ancient sequences in engineered bacteria. With a functioning ancient enzyme in hand, they could measure real chemical signatures — like how it fractionates nitrogen isotopes — offering direct clues about the atmosphere and chemistry of early Earth, long before oxygen-producing organisms transformed the planet. As one researcher put it, science has mostly had to rely on rocks and fossils to study early life; a working ancient protein is a different kind of evidence entirely. Beyond deep history, the same understanding of nitrogen fixation feeds directly into very present-day problems: more resilient agriculture as the climate shifts, and NASA-backed efforts to figure out food production on Mars and beyond.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260623014024.htm",
+    "published_at": "2026-07-07",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "origin-of-life",
+    "molecules-of-life"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_be717b",
+      "slug": "how-life-began",
+      "type": "concept",
+      "title": "How Life Began",
+      "hook": "Before the first living thing, there was only chemistry. Abiogenesis is the idea — and active research — into how plain molecules on early Earth crossed the line into life.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_71676e",
+      "slug": "the-history-of-life",
+      "type": "concept",
+      "title": "The History of Life",
+      "hook": "Life is about 3.5 billion years old, but for most of that time it was just microbes. Animals, plants, and us are latecomers crowded into the most recent slice of deep time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a44797",
+      "slug": "nanozymes-origin-of-life",
+      "type": "news",
+      "title": "Did Mineral Nanoparticles Spark Life?",
+      "hook": "A new theory casts tiny mineral nanoparticles as 'nanozymes' — natural catalysts and energy processors that could have nudged Earth's lifeless chemistry toward the first life.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-10"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f45650#0",
+      "format": "flip",
+      "prompt": "What enzyme did researchers resurrect, and what does it normally do?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eNitrogenase\u003c/strong\u003e — the enzyme that converts atmospheric nitrogen gas into a form\nliving things can actually use (nitrogen fixation). Researchers rebuilt a\nversion roughly 3.2 billion years old.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f45650#1",
+      "format": "quiz",
+      "prompt": "How did researchers 'resurrect' a 3.2-billion-year-old enzyme?",
+      "choices": [
+        {
+          "text": "By computationally inferring ancestral gene sequences from modern nitrogenases, then rebuilding and expressing them in engineered bacteria",
+          "correct": true
+        },
+        {
+          "text": "By extracting intact ancient enzyme directly from fossilized rock",
+          "correct": false
+        },
+        {
+          "text": "By waiting for a living organism to naturally re-evolve the enzyme",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe team worked backward from present-day nitrogenase genes to infer likely\nancestral versions, then synthesized and tested them in living bacterial\nstrains — rather than finding the ancient enzyme physically preserved.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f45650#2",
+      "format": "quiz",
+      "prompt": "What can studying the resurrected enzyme reveal that rocks and fossils can't?",
+      "choices": [
+        {
+          "text": "Functional clues about Earth's ancient atmosphere and how life's chemistry worked before oxygen filled the air",
+          "correct": true
+        },
+        {
+          "text": "The exact appearance of the first living cell",
+          "correct": false
+        },
+        {
+          "text": "Nothing new — it only confirms what fossils already showed",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause the resurrected enzyme is functional, researchers can directly measure\nproperties like nitrogen isotope fractionation — a living-chemistry window into\nancient Earth that static rock and fossil records can't provide on their own.\u003c/p\u003e"
+    }
+  ]
+}

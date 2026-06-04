@@ -1,0 +1,112 @@
+{
+  "id": "card_e49be0",
+  "slug": "how-orbits-work",
+  "type": "concept",
+  "title": "How Orbits Work: Falling and Missing the Ground",
+  "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+  "key_points": [
+    "An orbit is continuous free fall: gravity pulls down, sideways speed carries you past.",
+    "Newton's cannonball: fire fast enough and the ground curves away as you fall.",
+    "Too slow and you fall back to Earth; too fast and you escape entirely.",
+    "There's no engine needed — gravity alone keeps the loop going."
+  ],
+  "content_html": "\u003cp\u003eAn orbit can feel mysterious until you realize what's really happening: the satellite is simply falling, all the time. Gravity pulls it toward Earth just as it pulls everything down. The trick is that the satellite is also moving sideways very fast — fast enough that by the time it falls a little, the curved surface of the Earth has dropped away by the same amount. It keeps falling and keeps missing.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNewton captured this with a famous thought experiment: imagine a cannon on a tall mountain. Fire the ball gently and it lands nearby. Fire it harder and it lands farther. Fire it fast enough and the ground curves away as quickly as the ball falls, so it loops all the way around — an orbit. Slower than that, it falls back; faster, it escapes into space. Wikipedia describes the balance of speed and gravity that defines every orbit, from the ISS to the planets.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Orbit",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "gravity-orbits"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b37088",
+      "slug": "circular-motion",
+      "type": "concept",
+      "title": "Circular Motion Needs a Force Pulling Inward",
+      "hook": "Anything moving in a circle is accelerating, even at constant speed — so something must constantly pull it inward. There is no real outward force flinging you out.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_e49be0#0",
+      "format": "flip",
+      "prompt": "In simple terms, what is an orbit?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eContinuous free fall.\u003c/strong\u003e A satellite is always falling toward Earth, but\nmoves sideways fast enough that the ground curves away beneath it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e49be0#1",
+      "format": "quiz",
+      "prompt": "In Newton's cannonball thought experiment, what happens if the ball is fired fast enough?",
+      "choices": [
+        {
+          "text": "It keeps falling but the Earth curves away, so it circles in orbit",
+          "correct": true
+        },
+        {
+          "text": "It flies in a perfectly straight line forever",
+          "correct": false
+        },
+        {
+          "text": "It stops falling because gravity switches off",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFired fast enough, the cannonball falls toward Earth at the same rate the\ncurved surface drops away — so it never lands and stays in orbit.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e49be0#2",
+      "format": "quiz",
+      "prompt": "What happens to a satellite that moves too slowly to maintain its orbit?",
+      "choices": [
+        {
+          "text": "It falls back toward Earth",
+          "correct": true
+        },
+        {
+          "text": "It speeds up on its own to reach orbital speed",
+          "correct": false
+        },
+        {
+          "text": "It drifts off into deep space",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWithout enough sideways speed, gravity wins and the satellite spirals back\ndown. Too much speed instead lets it escape Earth entirely.\u003c/p\u003e"
+    }
+  ]
+}

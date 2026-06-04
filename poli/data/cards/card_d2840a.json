@@ -1,0 +1,119 @@
+{
+  "id": "card_d2840a",
+  "slug": "ai-signature-matching-and-ballots",
+  "type": "news",
+  "title": "Can AI Verify a Signature on a Ballot? Experts Say Not Yet",
+  "hook": "The FBI explored using AI to check signatures on seized mail-in ballots — a case study in what happens when new technology meets an old, imperfect forensic method.",
+  "key_points": [
+    "The FBI explored using AI to compare signatures on mail-in ballot envelopes seized from Fulton County, Georgia against signatures on file, like voter registration forms.",
+    "Signature analysis is already one of the hardest forensic sciences to do reliably — a former president of the field's own professional society doubted AI could do it well.",
+    "The plan would have compared just two signature samples, far fewer than trained examiners typically use, on what one expert called 'a high degree of noise.'",
+    "Research on human signature-matching in elections has found it disproportionately rejects ballots from voters of color, young voters, and voters with disabilities.",
+    "Internal FBI communications reportedly raised concern that results could be seen as reflecting political influence rather than neutral forensic analysis."
+  ],
+  "content_html": "\u003cp\u003eSignature matching has long been one of the shakier tools in election administration: verifying that the signature on a mail ballot envelope matches the one on file is harder than it sounds, even for trained examiners, and research shows it doesn't fail evenly across voters. In 2026, ProPublica's Jeremy Kohler and Doug Bock Clark reported that the FBI looked at handing part of that job to AI.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe bureau explored using AI to compare signatures on mail-in ballot envelopes seized from Fulton County, Georgia against signatures on file, such as voter registration forms — a \u0026quot;new and novel approach\u0026quot; the FBI was reportedly still vetting with outside experts and commercial providers. Forensic document examiners were skeptical: a former president of the American Society of Questioned Document Examiners said signature analysis is one of the hardest forensic sciences even done properly, and doubted AI changes that. The plan would have compared just two signature samples — far fewer than the multiple references certified examiners typically use — on what one expert called \u0026quot;a high degree of noise\u0026quot; in the underlying material. That matters because signature-matching, even done by humans, has been shown to disproportionately reject ballots from voters of color, young voters, and voters with disabilities; ProPublica reported internal FBI communications raised concern that any results could be seen as reflecting political influence rather than neutral analysis. (This card describes a specific U.S. federal law-enforcement inquiry into ballots from the 2020 election.)\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Jeremy Kohler",
+      "Doug Bock Clark"
+    ],
+    "url": "https://propublica.org/article/trump-2020-election-georgia-fulton-artificial-intelligence-fbi",
+    "published_at": "2026-07-15",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "technology-and-politics",
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-15",
+  "related": [
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4baecf",
+      "slug": "mail-ballot-grace-periods",
+      "type": "news",
+      "title": "Mail Ballot Grace Periods",
+      "hook": "A ballot mailed on Election Day can still arrive days later. Should it count? States disagree — and in 2026 the Supreme Court sided with the states that say yes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d2840a#0",
+      "format": "flip",
+      "prompt": "What did the FBI explore using AI for, according to ProPublica's reporting?",
+      "back_html": "\u003cp\u003eComparing \u003cstrong\u003esignatures on seized mail-in ballot envelopes\u003c/strong\u003e against\nsignatures on file, like voter registration forms, to assess validity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d2840a#1",
+      "format": "quiz",
+      "prompt": "Why do forensic experts doubt AI can reliably verify ballot signatures?",
+      "choices": [
+        {
+          "text": "Signature analysis is already one of the hardest forensic sciences even for trained humans, and the plan used fewer, noisier samples than examiners normally rely on",
+          "correct": true
+        },
+        {
+          "text": "AI has never been used for any kind of handwriting analysis before",
+          "correct": false
+        },
+        {
+          "text": "Signatures on ballots are always digitally generated, not handwritten",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA former head of the field's professional society said signature\nmatching is difficult even with proper method — and doubted AI changes\nthat with a thinner data set.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d2840a#2",
+      "format": "quiz",
+      "prompt": "What has research found about human signature-matching as a ballot-verification method?",
+      "choices": [
+        {
+          "text": "It disproportionately rejects ballots from voters of color, young voters, and disabled voters",
+          "correct": true
+        },
+        {
+          "text": "It rejects ballots at random, with no demographic pattern",
+          "correct": false
+        },
+        {
+          "text": "It has a near-zero error rate across all groups",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSignature-matching's uneven error rates are a documented concern\nindependent of whether a human or an algorithm does the comparing.\u003c/p\u003e"
+    }
+  ]
+}

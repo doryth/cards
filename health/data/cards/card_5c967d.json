@@ -1,0 +1,92 @@
+{
+  "id": "card_5c967d",
+  "slug": "tissue-resident-nk-cells-tumors",
+  "type": "news",
+  "title": "Teaching Killer Cells to Survive Inside a Tumor",
+  "hook": "Natural killer cells are good at destroying cancer and bad at getting into solid tumors. Researchers prepared a tissue-resident version that could do both — and it slowed several tumors in mice.",
+  "key_points": [
+    "Natural killer (NK) cells attack abnormal cells but struggle to penetrate and persist in solid tumors.",
+    "Researchers prepared tissue-resident NK cells able to enter tumors and keep fighting inside.",
+    "In mice, they slowed growth of several tumors including melanoma and head and neck cancers.",
+    "The effect was stronger when combined with the antibody drug cetuximab.",
+    "Solid tumors are where most cell-based immunotherapies have historically stalled.",
+    "This is mouse work — no human results yet."
+  ],
+  "content_html": "\u003cp\u003eNatural killer cells are the immune system's rapid-response assassins: unlike T cells, they don't need to be trained on a specific target before attacking something that looks wrong. That makes them attractive for cancer therapy, and largely disappointing in practice against solid tumors — they have trouble getting in, and once inside the tumor's environment tends to shut them down.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe reported advance is a way to prepare \u003cem\u003etissue-resident\u003c/em\u003e NK cells, the variety that normally takes up permanent residence in an organ rather than patrolling the bloodstream. In mice, these cells entered tumors and kept working there, slowing the growth of several cancer types including melanoma and head and neck tumors. Combining them with cetuximab, an antibody drug already used in head and neck cancer, worked better than the cells alone.\u003c/p\u003e\n\u003cp\u003eThe caveat is the usual one and it's load-bearing: mouse tumors are far more cooperative than human ones, and cell therapies that shine in mice have repeatedly stalled in trials. What makes this worth noting is that it targets the specific failure point — persistence inside the tumor — rather than just making the cells more aggressive.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260824065546.htm",
+    "published_at": "2026-08-25",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_3ba82b",
+      "slug": "probiotics-as-cancer-drug-factories",
+      "type": "news",
+      "title": "Probiotics Rebuilt as Tumor Drug Factories",
+      "hook": "Engineered probiotic bacteria slipped into pancreatic tumors, switched on cancer-fighting immune cells, and slowed growth in animals — working best alongside standard treatment, not instead of it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_a20f71",
+      "slug": "melanomas-immortality-trick",
+      "type": "news",
+      "title": "Melanoma's Secret to Cheating Death",
+      "hook": "Scientists say they've found the missing genetic ingredient that lets melanoma cells become effectively immortal — a discovery that could open new lines of attack on the cancer.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_ac9a33",
+      "slug": "nerves-fuel-breast-cancer",
+      "type": "news",
+      "title": "Tumors That Recruit Your Own Nerves",
+      "hook": "Triple-negative breast tumors appear to hijack healing immune cells and use them to wire nerves into themselves — a nerve supply that may help the cancer grow and resist treatment.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-17"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5c967d#0",
+      "format": "flip",
+      "prompt": "Why have natural killer cells underperformed against solid tumors?",
+      "back_html": "\u003cp\u003eThey can kill abnormal cells, but they struggle to \u003cstrong\u003epenetrate\u003c/strong\u003e a solid tumor and to\n\u003cstrong\u003ekeep functioning\u003c/strong\u003e once inside. The tissue-resident version was engineered to do both.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5c967d#1",
+      "format": "quiz",
+      "prompt": "What made the mouse results stronger in this study?",
+      "choices": [
+        {
+          "text": "Pairing the tissue-resident NK cells with the antibody drug cetuximab",
+          "correct": true
+        },
+        {
+          "text": "Giving the mice a high-protein diet",
+          "correct": false
+        },
+        {
+          "text": "Removing the tumor surgically first",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAntibody drugs can flag tumor cells for immune attack, so combining them with cells that\ncan actually reach the tumor is a natural pairing — and it outperformed either alone.\u003c/p\u003e"
+    }
+  ]
+}

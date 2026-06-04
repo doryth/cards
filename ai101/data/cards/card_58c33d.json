@@ -1,0 +1,113 @@
+{
+  "id": "card_58c33d",
+  "slug": "ai-bias",
+  "type": "concept",
+  "title": "Bias \u0026 Fairness",
+  "hook": "AI learns from data made by people, so it inherits our patterns — including the unfair ones. A model trained on a biased past will confidently recommend a biased future.",
+  "key_points": [
+    "Models learn from human-made data, so they absorb its biases.",
+    "Biased AI can quietly disadvantage people in hiring, lending, or policing.",
+    "The bias often hides in the data, not in any single line of code.",
+    "Fixing it takes better data, testing across groups, and human oversight."
+  ],
+  "content_html": "\u003cp\u003eAI has a reputation for being objective — it's \u0026quot;just math,\u0026quot; after all. But a model is a mirror of the data it learned from, and that data is made by people, in a world that hasn't always been fair. So the model picks up our patterns, including the ones we'd rather not pass on. Train a hiring tool on a company's past decisions, and if those favored one kind of candidate, the AI learns to do the same — while looking perfectly neutral.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eReal examples have shown up in hiring tools, loan approvals, and risk scores used in criminal justice, where systems gave systematically worse outcomes to some groups. What makes this tricky is that the bias rarely lives in an obvious place — there's no line of code that says \u0026quot;be unfair.\u0026quot; It's baked into the examples the model studied, which makes it easy to miss and hard to root out. Addressing it takes deliberate work: building more representative data, testing how the system performs across different groups of people, and keeping a human in the loop for decisions that affect lives. The takeaway for everyone: an AI's confident, tidy answer is not the same as a fair or correct one.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Algorithmic bias",
+    "url": "https://en.wikipedia.org/wiki/Algorithmic_bias",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "bias-fairness"
+  ],
+  "tags": [
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af049a",
+      "slug": "using-ai-responsibly",
+      "type": "concept",
+      "title": "Using AI Responsibly",
+      "hook": "The point of AI literacy isn't to use AI for everything — it's to use it well: check its work, be honest that you used it, and know the moments to put it down.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_344f40",
+      "slug": "ai-invents-hiring-bias",
+      "type": "news",
+      "title": "AI Doesn't Just Inherit Bias — It Invents New Ones",
+      "hook": "A hiring simulation found ChatGPT, Claude, and Gemini turned one failed candidate into a stereotype for their whole group — segregating candidates far more aggressively than human participants did.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-20"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_58c33d#0",
+      "format": "quiz",
+      "prompt": "Where does most AI bias come from?",
+      "choices": [
+        {
+          "text": "The human-made data the model learned from",
+          "correct": true
+        },
+        {
+          "text": "Hackers tampering with the model",
+          "correct": false
+        },
+        {
+          "text": "The model choosing to be unfair on purpose",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA model mirrors its training data. If that data reflects historical\nunfairness, the model learns and repeats those patterns.\u003c/p\u003e"
+    },
+    {
+      "id": "card_58c33d#1",
+      "format": "flip",
+      "prompt": "Why is AI bias easy to miss?",
+      "back_html": "\u003cp\u003eIt usually hides in the data rather than in any obvious line of code, and\nthe output looks neutral and authoritative — so unfairness slips through.\u003c/p\u003e"
+    }
+  ]
+}

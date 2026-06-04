@@ -1,0 +1,95 @@
+{
+  "id": "card_54d1ef",
+  "slug": "sdss-v-southern-spectra-release",
+  "type": "news",
+  "title": "Three Million New Spectra of the Sky",
+  "hook": "SDSS-V has released over three million spectra and, for the first time, opened its optical survey to the Southern Hemisphere — turning a sky map into a time-lapse.",
+  "key_points": [
+    "The release adds more than three million new optical spectra to the Sloan Digital Sky Survey's fifth generation.",
+    "It is the first time SDSS-V optical spectroscopy covers the Southern Hemisphere, extending the survey to the whole sky.",
+    "A spectrum splits an object's light by wavelength, revealing composition, temperature, motion, and distance — far more than an image alone.",
+    "The data include rare stars, glowing nebulae, hundreds of thousands of X-ray sources, and supermassive black holes.",
+    "Repeat observations track how those black holes change over time, making the survey a record of variability, not just a snapshot."
+  ],
+  "content_html": "\u003cp\u003eMost of what astronomers know about distant objects comes from spectra: split an\nobject's light into its component wavelengths, and the pattern of lines tells you what\nit is made of, how hot it is, how fast it is moving, and — through redshift — how far\naway it sits. Images tell you where things are; spectra tell you what they are.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe Sloan Digital Sky Survey's fifth generation has released more than three million\nnew spectra, and for the first time its optical observations extend into the Southern\nHemisphere, giving the survey genuine all-sky reach. The catalogue spans rare stars,\nglowing nebulae, hundreds of thousands of X-ray sources, and large numbers of\nsupermassive black holes.\u003c/p\u003e\n\u003cp\u003eThe part that makes it more than a bigger catalogue is repetition. By revisiting\ntargets, the survey records how objects \u003cem\u003echange\u003c/em\u003e — particularly accreting black holes,\nwhose brightness and spectral features vary as material falls in. That turns a map\ninto something closer to a time-lapse of the sky. See ScienceDaily's report for the\nrelease details.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260813045541.htm",
+    "published_at": "2026-08-14",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "cosmology"
+  ],
+  "tags": [
+    "news",
+    "dataset"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_0ef6c9",
+      "slug": "spotting-black-hole-pairs-by-starlight-flashes",
+      "type": "news",
+      "title": "Catching Black Hole Pairs by Their Flicker",
+      "hook": "Tightly bound supermassive black hole pairs are nearly invisible. A new idea: watch for stars that flash as the black holes' gravity bends and magnifies their light.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_ca28e0",
+      "slug": "jwst-black-hole-feeding-cycle",
+      "type": "news",
+      "title": "NASA's James Webb catches a supermassive black hole feeding",
+      "hook": "JWST just captured a supermassive black hole's fuel supply in action: gas pouring into a fast-spinning disk, hinting these giants recycle their own fuel instead of just consuming and discarding it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_54d1ef#0",
+      "format": "flip",
+      "prompt": "What does a spectrum tell astronomers that an image cannot?",
+      "back_html": "\u003cp\u003eSplitting light by wavelength reveals what an object is made of, how hot it is,\nhow fast it is moving toward or away from us, and — through redshift — how far\naway it lies.\u003c/p\u003e"
+    },
+    {
+      "id": "card_54d1ef#1",
+      "format": "quiz",
+      "prompt": "Why does repeatedly observing the same objects matter for this survey?",
+      "choices": [
+        {
+          "text": "It captures how sources like supermassive black holes change over time",
+          "correct": true
+        },
+        {
+          "text": "It is the only way to determine an object's chemical composition",
+          "correct": false
+        },
+        {
+          "text": "It corrects for the Earth's rotation, which otherwise blurs the spectra",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eComposition comes from a single spectrum. Repeat visits add the time axis,\nturning a static catalogue into a record of variability — essential for\naccreting black holes, which brighten and fade.\u003c/p\u003e"
+    }
+  ]
+}

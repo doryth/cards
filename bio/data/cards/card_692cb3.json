@@ -1,0 +1,104 @@
+{
+  "id": "card_692cb3",
+  "slug": "mitotic-spindle-self-repair",
+  "type": "blog",
+  "title": "What Breaks a Cell's Ribs Can Make It Stronger",
+  "hook": "The mitotic spindle has to yank chromosomes apart with real physical force, over and over, without failing — a new study shows it does this by getting stronger exactly where it's stressed.",
+  "key_points": [
+    "The mitotic spindle is a framework of protein fibers (microtubules) that pulls chromosomes apart during cell division.",
+    "UCSF researchers physically stressed the spindle with microneedles and found stressed fibers got stronger, not weaker.",
+    "Under force, individual protein subunits pop out from the middle of a fiber, not just its ends.",
+    "Stable replacement molecules from the surrounding cytoplasm fill those gaps, reinforcing the fiber exactly where the load is highest.",
+    "The mechanism explains how spindles survive billions of divisions across a lifetime without breaking."
+  ],
+  "content_html": "\u003cp\u003eCell division puts real mechanical force on the machinery inside a cell. The mitotic spindle — the framework of protein fibers that hauls duplicated chromosomes to opposite ends of a dividing cell — has to generate that force over and over without falling apart. A study out of UCSF found a neat trick behind its durability: stress makes it stronger.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers led by Sophie Dumont used microneedles to physically manipulate the spindle fibers of dividing cells and watched what happened under load. Instead of weakening, stressed fibers reinforced themselves: individual protein building blocks get displaced from the fiber, not just at the ends but from the middle of the structure, and more stable replacement molecules from the surrounding cytoplasm fill the gaps. \u0026quot;Under force, these individual Lego bricks might pop out of the structure — not at the end, but literally in the middle of it,\u0026quot; lead researcher Caleb Rux explained. The upshot is a fiber that reinforces itself exactly where the mechanical load is highest — a plausible answer to how the spindle can generate enormous force while staying intact through the billions of divisions a body performs over a lifetime. The finding has also caught the eye of materials scientists, curious whether engineered materials could be built to strengthen under stress the same way.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Jake Buehler"
+    ],
+    "url": "https://quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629",
+    "published_at": "2026-06-29",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "the-cell"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_bae407",
+      "slug": "cell-division-mitosis",
+      "type": "concept",
+      "title": "Mitosis: One Cell Becomes Two",
+      "hook": "Right now, millions of your cells are copying their DNA and splitting in two — the everyday process that lets you grow, heal, and replace worn-out cells.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_574828",
+      "slug": "cell-organelles",
+      "type": "concept",
+      "title": "The Cell's Tiny Organs",
+      "hook": "Inside a single cell sits a whole working city — a control room, power plants, factories, and shipping lanes, each a structure called an organelle.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_692cb3#0",
+      "format": "flip",
+      "prompt": "What surprising thing happens to the mitotic spindle's fibers when they're put under mechanical stress?",
+      "back_html": "\u003cp\u003eThey get \u003cstrong\u003estronger, not weaker\u003c/strong\u003e. Stress at a point in the fiber triggers local\nself-repair that reinforces the fiber exactly where it's under the most load.\u003c/p\u003e"
+    },
+    {
+      "id": "card_692cb3#1",
+      "format": "quiz",
+      "prompt": "Where do a spindle fiber's protein subunits get displaced under force?",
+      "choices": [
+        {
+          "text": "In the middle of the fiber, not just at its ends",
+          "correct": true
+        },
+        {
+          "text": "Only at the very tips of the fiber",
+          "correct": false
+        },
+        {
+          "text": "Nowhere — the fiber never loses any subunits",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers found individual protein subunits can pop out from the interior of a\nstressed fiber, which is then patched by more stable replacement molecules from\nthe surrounding cytoplasm.\u003c/p\u003e"
+    },
+    {
+      "id": "card_692cb3#2",
+      "format": "quiz",
+      "prompt": "Why does this self-repair mechanism matter for how cells work?",
+      "choices": [
+        {
+          "text": "It lets the spindle generate huge pulling forces without breaking across a lifetime of divisions",
+          "correct": true
+        },
+        {
+          "text": "It explains why cells eventually stop dividing altogether",
+          "correct": false
+        },
+        {
+          "text": "It shows that spindle fibers never experience any mechanical force",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCell division depends on the spindle reliably separating chromosomes billions of\ntimes over a lifetime; self-reinforcement under load is one way it stays intact.\u003c/p\u003e"
+    }
+  ]
+}

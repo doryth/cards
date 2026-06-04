@@ -1,0 +1,69 @@
+{
+  "id": "card_ed447c",
+  "slug": "contraception-options",
+  "type": "concept",
+  "title": "Contraception Options",
+  "hook": "There's no single 'best' contraception — only the one that fits your body, your life, and your plans. Knowing the main types helps you choose well.",
+  "key_points": [
+    "Methods range from barrier (condoms) to hormonal (pill, implant, IUD) to long-acting reversible options.",
+    "Effectiveness varies widely between 'perfect use' and how methods perform in real life.",
+    "Long-acting reversible contraceptives (implants, IUDs) are among the most effective.",
+    "Only condoms protect against STIs as well as pregnancy."
+  ],
+  "content_html": "\u003cp\u003eWhen it comes to contraception, the most useful question isn't \u0026quot;what's best?\u0026quot; but \u0026quot;what's best for me?\u0026quot; The NHS lays out the main categories so the choice can be an informed one.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe NHS groups contraception into several types: barrier methods such as condoms; short-acting hormonal methods like the pill, patch, and injection; and long-acting reversible contraceptives (LARCs) such as the implant and intrauterine devices (IUDs), plus permanent options like sterilization. A key concept the NHS highlights is the gap between \u0026quot;perfect use\u0026quot; and \u0026quot;typical use\u0026quot; — methods that depend on remembering to do something correctly each time (like the pill or condoms) are less effective in everyday practice than LARCs, which work continuously without daily effort. That makes implants and IUDs among the most effective at preventing pregnancy. One important distinction: only condoms also protect against STIs, so they're often used alongside another method. The right fit depends on your health, convenience, side-effect tolerance, and whether you plan to have children later — a conversation worth having with a provider.\u003c/p\u003e",
+  "source": {
+    "name": "NHS (UK)",
+    "url": "https://www.nhs.uk/conditions/contraception/which-method-suits-me/",
+    "license": "© Crown copyright (NHS, Open Government Licence v3.0)"
+  },
+  "topic_ids": [
+    "sexual-health"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_16661a",
+      "slug": "preventing-stis",
+      "type": "concept",
+      "title": "Preventing STIs",
+      "hook": "Sexually transmitted infections are common and often symptomless — which is exactly why prevention and testing, not just treatment, are what keep you and your partners healthy.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ed447c#0",
+      "format": "quiz",
+      "prompt": "Which contraceptive method also protects against STIs?",
+      "choices": [
+        {
+          "text": "Condoms",
+          "correct": true
+        },
+        {
+          "text": "The contraceptive pill",
+          "correct": false
+        },
+        {
+          "text": "An IUD",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOnly barrier methods like condoms protect against sexually transmitted\ninfections as well as pregnancy; hormonal and intrauterine methods prevent\npregnancy only.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ed447c#1",
+      "format": "flip",
+      "prompt": "Which contraceptive methods are among the most effective at preventing pregnancy?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eLong-acting reversible contraceptives (LARCs)\u003c/strong\u003e — implants and IUDs — because\nthey don't depend on remembering to use them correctly each time.\u003c/p\u003e"
+    }
+  ]
+}

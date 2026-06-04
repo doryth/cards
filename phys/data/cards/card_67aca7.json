@@ -1,0 +1,88 @@
+{
+  "id": "card_67aca7",
+  "slug": "webb-beta-pictoris-d",
+  "type": "news",
+  "title": "A Giant Planet Was Hiding in the Dust Around Beta Pictoris",
+  "hook": "A giant planet sat hidden for years inside one of astronomy's most-studied systems — Webb found it not by seeing it, but by sniffing out its atmosphere through a veil of dust.",
+  "key_points": [
+    "Beta Pictoris d is a giant planet in a famous, heavily-studied nearby system, long obscured by a bright disk of dust.",
+    "The James Webb Space Telescope found it not by direct imaging but by its atmosphere's chemical fingerprint.",
+    "Traces of carbon monoxide, water vapor, and methane in the planet's atmosphere gave it away.",
+    "The technique offers a promising new way to find elusive planets buried inside dusty debris disks."
+  ],
+  "content_html": "\u003cp\u003eBeta Pictoris is one of the most-scrutinized planetary systems in the sky, yet it was still hiding a giant planet. The world sat concealed inside a bright disk of cosmic dust that swamps ordinary attempts to photograph anything close to the star. Instead of trying to see the planet directly, astronomers using the James Webb Space Telescope caught the chemical fingerprint of its atmosphere.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eUsing JWST, the team identified Beta Pictoris d by picking out atmospheric traces of carbon monoxide, water vapor, and methane — molecular signatures that stand out even when glare and dust hide the planet itself. The significance runs beyond a single new world: it showcases a promising method for finding elusive exoplanets buried inside debris disks like the one around Beta Pictoris, where planets form but are notoriously hard to spot. Reported via NASA / ScienceDaily.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260722032111.htm",
+    "published_at": "2026-07-23",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-23",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_bf2d83",
+      "slug": "lhs-1140b-first-habitable-zone-atmosphere",
+      "type": "news",
+      "title": "The First Atmosphere Found on a Rocky World in the Habitable Zone",
+      "hook": "For the first time, astronomers have caught a rocky planet in its star's habitable zone holding onto an atmosphere — spotted by the helium slowly bleeding off into space.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-21"
+    },
+    {
+      "id": "card_f19c3a",
+      "slug": "lava-planet-atmosphere-55-cancri-e",
+      "type": "news",
+      "title": "James Webb Reveals a Strange Atmosphere on a Hellish Lava Planet",
+      "hook": "A planet so hot its surface is an ocean of molten rock turns out to have a real atmosphere — built from gases venting straight out of the lava itself, JWST finds.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_67aca7#0",
+      "format": "flip",
+      "prompt": "How did Webb detect a planet that was hidden inside a disk of dust?",
+      "back_html": "\u003cp\u003eNot by photographing it directly — Webb picked out the \u003cstrong\u003echemical fingerprint of the\nplanet's atmosphere\u003c/strong\u003e, spotting traces of carbon monoxide, water vapor, and methane.\u003c/p\u003e"
+    },
+    {
+      "id": "card_67aca7#1",
+      "format": "quiz",
+      "prompt": "What made Beta Pictoris d so hard to find despite being in a famous system?",
+      "choices": [
+        {
+          "text": "A bright disk of cosmic dust surrounding the star concealed it",
+          "correct": true
+        },
+        {
+          "text": "It orbits too far from its star to reflect any light",
+          "correct": false
+        },
+        {
+          "text": "It has no atmosphere, so there was nothing to observe",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe planet sat hidden inside a bright disk of dust. Webb got around this by detecting the\nmolecules in its atmosphere rather than trying to image the planet directly.\u003c/p\u003e"
+    },
+    {
+      "id": "card_67aca7#2",
+      "format": "flip",
+      "prompt": "Why does this discovery matter beyond adding one more planet?",
+      "back_html": "\u003cp\u003eIt demonstrates a \u003cstrong\u003epromising new method\u003c/strong\u003e — identifying a planet by its atmospheric\nmolecules — for finding elusive worlds buried inside dusty debris disks.\u003c/p\u003e"
+    }
+  ]
+}

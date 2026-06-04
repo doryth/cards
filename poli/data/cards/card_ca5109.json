@@ -1,0 +1,129 @@
+{
+  "id": "card_ca5109",
+  "slug": "when-a-buyout-doesnt-reach-renters",
+  "type": "news",
+  "title": "When a Flood Buyout Can't Reach the People Who Flooded",
+  "hook": "Disaster buyouts retire dangerous land by purchasing homes. If the residents rent a lot and own a trailer classified as personal property, there is often nothing for the program to buy.",
+  "key_points": [
+    "Buyout programs reduce future disaster losses by purchasing at-risk property and retiring the land from development.",
+    "The design assumes an owner-occupier: someone who owns both the structure and the land it sits on.",
+    "Manufactured homes break that assumption — trailers are typically classified as personal property, like vehicles, rather than real estate.",
+    "Per ProPublica, buyout incentives do not cover a park owner's lost rent or the value of the mobile homes, and participation is voluntary, so the land can be re-rented.",
+    "A Haywood County, North Carolina park that flooded four times in twenty years, and where a resident died in Hurricane Helene, is renting flooded lots again, ProPublica reports.",
+    "ProPublica reports recreational vehicles are exempt from the elevation rules that apply to permanent structures, so campers can occupy lots that a house could not."
+  ],
+  "content_html": "\u003cp\u003eFlood buyouts are one of the few disaster policies that actually reduce future losses: the government buys a repeatedly damaged property, clears it, and keeps it undeveloped. The program works well for the household it was designed around — an owner living in a house on land they own.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Ren Larson reports on a mobile home park on Hyder Mountain Road near Clyde, North Carolina, that flooded in 2004, 2021 and again during Hurricane Helene in 2024, when floodwaters swept a trailer into the Pigeon River and killed resident Sandra Rogers. Two years later, the lots are rented again. The reason is structural: mobile homes are generally classified as personal property rather than real estate, and residents typically rent the ground beneath them, so the buyout framework has neither an owner-occupied parcel to purchase nor a way to compensate a park owner for lost rent. Participation is voluntary and counties often lack the authority to condemn the land; ProPublica reports Haywood County found no park owners interested, and its recovery officer said he had not known buying out mobile home parks was even possible. A further gap: recreational vehicles are exempt from the elevation requirements imposed on permanent structures, so campers now sit on previously flooded lots with permanent water and sewer hookups. ProPublica reports at least 11 states have funded mobile home park buyouts. The general lesson applies well beyond floods — a program's eligibility categories decide who it can help, and the people most exposed to a hazard are often the ones those categories were not drawn around.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Ren Larson"
+    ],
+    "url": "https://propublica.org/article/western-north-carolina-helene-mobile-home-fema-recovery",
+    "published_at": "2026-09-02",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "environment-and-politics",
+    "public-policy-economy"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_bb70fb",
+      "slug": "environmental-governance",
+      "type": "concept",
+      "title": "Environmental Governance",
+      "hook": "How do you regulate something that ignores borders and belongs to no one? Environmental governance is the toolkit societies use to manage nature collectively.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_be73b4",
+      "slug": "tiny-house-villages-and-homelessness",
+      "type": "news",
+      "title": "The Housing Policy That Sits Between a Shelter and a Home",
+      "hook": "Building apartments takes years. Emergency shelters help for a night. Tiny house villages spread because they fit the gap — and because local rules allow them faster.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "card_8dc38b",
+      "slug": "protected-by-rule-not-by-law",
+      "type": "news",
+      "title": "Protected by a Rule, Not by a Law",
+      "hook": "Whatever one administration can create with a regulation, the next can undo with a regulation. The move to reopen roadless national forests to logging shows how thin that kind of protection is.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ca5109#0",
+      "format": "flip",
+      "prompt": "What is a disaster buyout program meant to accomplish?",
+      "back_html": "\u003cp\u003ePurchase repeatedly damaged property and retire the land from\ndevelopment, so the same place does not have to be rebuilt and rescued\nafter every flood.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ca5109#1",
+      "format": "quiz",
+      "prompt": "Why do mobile home residents often fall outside buyout programs?",
+      "choices": [
+        {
+          "text": "Trailers are classified as personal property and residents rent the land, so there is no owner-occupied real estate to buy",
+          "correct": true
+        },
+        {
+          "text": "Federal law forbids assistance to manufactured housing",
+          "correct": false
+        },
+        {
+          "text": "Mobile homes are never located in floodplains",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe program's unit of analysis is an owner-occupied parcel. Split the\nhome from the land and the eligibility logic has nothing to grip.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ca5109#2",
+      "format": "quiz",
+      "prompt": "Per ProPublica, why can flood-prone lots be occupied again after a disaster?",
+      "choices": [
+        {
+          "text": "Participation is voluntary, counties often lack condemnation authority, and RVs are exempt from elevation rules",
+          "correct": true
+        },
+        {
+          "text": "Federal law requires parks to reopen within one year",
+          "correct": false
+        },
+        {
+          "text": "The land is automatically rezoned as safe after a buyout offer",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWithout a mandatory restriction on the land itself, an owner who\ndeclines a buyout is free to lease the lots to new residents.\u003c/p\u003e"
+    }
+  ]
+}

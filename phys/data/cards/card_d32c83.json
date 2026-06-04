@@ -1,0 +1,114 @@
+{
+  "id": "card_d32c83",
+  "slug": "newtons-three-laws",
+  "type": "concept",
+  "title": "Newton's Three Laws of Motion",
+  "hook": "Three short rules — inertia, F=ma, and action-reaction — quietly govern almost everything that moves around you.",
+  "key_points": [
+    "First law (inertia): an object keeps its velocity unless a net force acts on it.",
+    "Second law: net force equals mass times acceleration, F = ma.",
+    "Third law: for every force there's an equal and opposite force on the other body.",
+    "Together they let you predict motion once you know the forces involved."
+  ],
+  "content_html": "\u003cp\u003eIsaac Newton's three laws of motion, published in 1687, are the foundation of classical mechanics. The first law says objects resist changes to their motion — a property called inertia. The second law makes that quantitative: the net force on an object equals its mass times its acceleration, written F = ma. The third law says forces always come in pairs: push on a wall and the wall pushes back on you just as hard.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe power of these laws is that they turn \u0026quot;why does it move?\u0026quot; into a calculation. Add up all the forces on an object to get the net force; divide by mass to get acceleration; and acceleration tells you how the velocity changes over time. The same three rules describe a thrown ball, a braking car, and a planet orbiting the Sun. HyperPhysics walks through worked examples and the vector bookkeeping behind each law.\u003c/p\u003e",
+  "source": {
+    "name": "HyperPhysics (Georgia State University)",
+    "authors": [
+      "Rod Nave"
+    ],
+    "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/Newt.html",
+    "license": "© Georgia State University (educational use)"
+  },
+  "topic_ids": [
+    "motion-forces"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d3af76",
+      "slug": "mass-vs-weight",
+      "type": "concept",
+      "title": "Mass vs. Weight",
+      "hook": "Your mass is the same on the Moon as on Earth — but your weight isn't. They're related, but they are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_11b086",
+      "slug": "conservation-of-energy",
+      "type": "concept",
+      "title": "Conservation of Energy",
+      "hook": "Energy is never created or destroyed — it only changes form. That single rule is one of the most powerful ideas in all of physics.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a13f1f",
+      "slug": "what-is-momentum",
+      "type": "concept",
+      "title": "Momentum: The Quantity of Motion",
+      "hook": "A slow freight train and a fast bullet are both brutally hard to stop. Momentum captures why: it's mass times velocity, the real measure of moving 'oomph'.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d32c83#0",
+      "format": "flip",
+      "prompt": "What does Newton's first law say about an object with no net force on it?",
+      "back_html": "\u003cp\u003eIt keeps its current velocity — staying at rest if still, or moving in a\nstraight line at constant speed. This is \u003cstrong\u003einertia\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d32c83#1",
+      "format": "quiz",
+      "prompt": "Which equation states Newton's second law?",
+      "choices": [
+        {
+          "text": "F = ma (net force equals mass times acceleration)",
+          "correct": true
+        },
+        {
+          "text": "F = mv (force equals mass times velocity)",
+          "correct": false
+        },
+        {
+          "text": "F = m/a (force equals mass divided by acceleration)",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe second law links force to \u003cstrong\u003eacceleration\u003c/strong\u003e, not velocity: a bigger force,\nor a smaller mass, means more acceleration.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d32c83#2",
+      "format": "quiz",
+      "prompt": "A rocket pushes exhaust gas backward and is thrust forward. Which law is this?",
+      "choices": [
+        {
+          "text": "Third law — every force has an equal and opposite reaction force",
+          "correct": true
+        },
+        {
+          "text": "First law — inertia keeps the rocket moving",
+          "correct": false
+        },
+        {
+          "text": "Second law — force equals mass times acceleration",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe rocket pushes gas one way; the gas pushes the rocket the other way with\nequal force on a different body — the third law.\u003c/p\u003e"
+    }
+  ]
+}

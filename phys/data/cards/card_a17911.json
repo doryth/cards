@@ -1,0 +1,88 @@
+{
+  "id": "card_a17911",
+  "slug": "why-gold-never-tarnishes",
+  "type": "news",
+  "title": "Gold's Secret Self-Defense Against Tarnishing",
+  "hook": "Gold jewelry stays bright for centuries, and it turns out gold's surface atoms are actively rearranging themselves to keep oxygen from ever getting a grip.",
+  "key_points": [
+    "Gold famously resists tarnishing, but the atomic reason wasn't fully explained until now.",
+    "Surface atoms on gold spontaneously reorganize into patterns that block oxygen molecules from splitting apart and reacting.",
+    "This self-organized barrier suppresses oxidation by a factor of a billion to a trillion.",
+    "Controlling that surface geometry deliberately could turn gold into a far more effective industrial catalyst."
+  ],
+  "content_html": "\u003cp\u003eGold coins and jewelry can stay bright for centuries without a hint of tarnish, unlike silver or copper. Chemists have long known gold resists oxidation, but a research team from Tulane University has now pinned down the atomic mechanism behind that stubbornness.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMatthew Montemore and Santu Biswas found that atoms on a gold surface don't just sit still — they spontaneously reorganize into specific patterns that prevent oxygen molecules from splitting apart and bonding to the metal, the first step of oxidation. This self-assembled barrier suppresses the oxygen reaction by a factor of roughly a billion to a trillion, explaining why gold jewelry and coins keep their luster for generations. The finding cuts both ways: gold's resistance to oxidation is also why it makes a mediocre industrial catalyst for reactions that need oxygen to react on its surface. \u0026quot;If you can trick gold into dissociating oxygen, it can actually become a very effective catalyst for certain reactions,\u0026quot; Montemore said — pointing to uses like producing vinyl acetate, stripping carbon monoxide from vehicle exhaust, and synthesizing propylene oxide. Published in \u003cem\u003ePhysical Review Letters\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260710003511.htm",
+    "published_at": "2026-07-11",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-11",
+  "related": [
+    {
+      "id": "card_ac2d8c",
+      "slug": "gallium-covalent-bonds-return",
+      "type": "news",
+      "title": "A 150-Year-Old Gallium Mystery, Solved",
+      "hook": "Gallium melts in your hand — and for 30 years scientists assumed its atomic bonds vanish for good once it does. New research found those bonds actually come back at higher temperatures.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_07a017",
+      "slug": "metal-film-thickness-controls-electrons",
+      "type": "news",
+      "title": "A Few Atoms Thinner, a Whole New Metal",
+      "hook": "Shave a metal film by just a couple of nanometers and its electronic behavior can change dramatically — a surprising new dial for tuning materials.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-06"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a17911#0",
+      "format": "flip",
+      "prompt": "Why doesn't gold tarnish the way other metals do?",
+      "back_html": "\u003cp\u003eIts \u003cstrong\u003esurface atoms spontaneously rearrange\u003c/strong\u003e into patterns that block oxygen molecules\nfrom splitting apart and bonding to the metal — a built-in self-defense against oxidation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a17911#1",
+      "format": "quiz",
+      "prompt": "By roughly how much does this surface reorganization suppress oxidation on gold?",
+      "choices": [
+        {
+          "text": "By a factor of a billion to a trillion",
+          "correct": true
+        },
+        {
+          "text": "By about 10%",
+          "correct": false
+        },
+        {
+          "text": "It doesn't reduce oxidation at all — gold just doesn't react with oxygen",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers found the reorganized surface suppresses the oxygen reaction by nine to twelve\norders of magnitude — gold can react with oxygen, it's just extraordinarily reluctant to.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a17911#2",
+      "format": "flip",
+      "prompt": "Why would anyone want gold TO react with oxygen, given the finding?",
+      "back_html": "\u003cp\u003eGold could make an excellent catalyst if it could be tricked into splitting oxygen on\ndemand — useful for reactions like removing carbon monoxide from vehicle exhaust.\u003c/p\u003e"
+    }
+  ]
+}

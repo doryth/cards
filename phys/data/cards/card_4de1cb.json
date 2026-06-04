@@ -1,0 +1,92 @@
+{
+  "id": "card_4de1cb",
+  "slug": "random-circuits-as-chaos-models",
+  "type": "resource",
+  "title": "Lecture Notes: Random Circuits as Models of Quantum Chaos",
+  "hook": "Why do isolated quantum systems come to thermal equilibrium at all? These free summer-school notes build the answer out of random quantum circuits — the Ising model of many-body chaos.",
+  "key_points": [
+    "John Chalker's notes introduce random quantum circuits as tractable models of generic many-body quantum systems.",
+    "The motivation is traced back to random matrix theory, the original framework for quantum chaos.",
+    "Averaging over an ensemble of circuits makes otherwise impossible quantities computable.",
+    "Key observables covered are operator spreading, entanglement dynamics, and spectral correlations.",
+    "Operator spreading is how a local perturbation grows to touch the whole system — the quantum analogue of the butterfly effect.",
+    "Written for the Fundamental Problems in Statistical Physics XVI summer school, June 2025."
+  ],
+  "content_html": "\u003cp\u003eQuantum mechanics says an isolated system evolves reversibly forever, its information never lost. Thermodynamics says it settles into equilibrium and forgets. Reconciling those two claims is the problem of quantum thermalization, and the honest difficulty is that generic interacting many-body systems are impossible to solve.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eRandom quantum circuits are the standard workaround, and John Chalker's summer-school notes are a short introduction to them. The idea inherits directly from random matrix theory: rather than solve one specific Hamiltonian, replace it with an ensemble of random ones and compute averages, on the bet that a typical member behaves like the real thing. In circuit language that means a lattice of qubits acted on by randomly drawn two-qubit gates, layer after layer — a model simple enough that ensemble averages can be done by hand.\u003c/p\u003e\n\u003cp\u003eThe notes sketch those calculations for the quantities that matter physically: operator spreading, which is how a local disturbance grows until it touches everything (the quantum butterfly effect); entanglement dynamics, which is how quickly a subsystem becomes correlated with its surroundings; and spectral correlations, the fingerprint of chaos in the energy levels themselves. A good on-ramp if you have heard \u0026quot;random circuits\u0026quot; invoked in discussions of chaos, scrambling, or quantum advantage and want to see where the machinery comes from. Free on arXiv.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "J. T. Chalker"
+    ],
+    "url": "https://arxiv.org/abs/2608.21303",
+    "published_at": "2026-08-21",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "heat-thermo"
+  ],
+  "tags": [
+    "tutorial",
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5d200f",
+      "slug": "quantum-computers-have-six-degrees-of-separation",
+      "type": "paper",
+      "title": "A Quantum Computer's States Form a Small World",
+      "hook": "Map the states of a quantum register as a social network and you get the same structure as human society — most states about nine handshakes apart, with a sudden tipping point into chaos.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "card_da171f",
+      "slug": "quantum-classical-crossover-point",
+      "type": "paper",
+      "title": "Quantum-Classical Crossover in Fault-Tolerant Quantum Dynamics Simulation",
+      "hook": "A new paper puts an actual number on 'when do quantum computers win': about 2 hours and 370,000 qubits to beat 100 years of classical computing on one benchmark physics problem.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "card_e94193",
+  "slug": "mrna-melanoma-vaccine",
+  "type": "news",
+  "title": "An mRNA Vaccine Aimed at Keeping Melanoma From Coming Back",
+  "hook": "Merck and Moderna say a late-stage trial of their mRNA melanoma vaccine succeeded — a shot meant not to prevent cancer, but to stop it from returning after surgery.",
+  "key_points": [
+    "Merck and Moderna announced a successful late-stage trial of an mRNA vaccine for melanoma.",
+    "The goal is reducing recurrence and spread after treatment, not preventing cancer in the first place.",
+    "It's a therapeutic vaccine: it trains the immune system to hunt cancer cells that remain.",
+    "Same mRNA platform as the COVID shots, pointed at cancer instead of a virus.",
+    "Experts see it as a milestone for cancer immunotherapy, but it isn't approved or available yet."
+  ],
+  "content_html": "\u003cp\u003eMerck and Moderna have announced that a late-stage trial of their mRNA melanoma vaccine succeeded, NPR reports. The shot isn't the kind of vaccine that stops you catching something — it's given to people who have already been treated for melanoma, with the aim of reducing the chance the cancer comes back or spreads.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe idea is to use the same mRNA technology behind the COVID vaccines to teach the immune system what melanoma cells look like, so it can hunt down any that surgery and other treatment left behind. Speaking to NPR's Leila Fadel, Dr. Robert Vonderheide of Penn Medicine and the American Association for Cancer Research framed the result as a significant step for cancer immunotherapy — a field that has spent years trying to turn the body's own defenses against tumors.\u003c/p\u003e\n\u003cp\u003eWorth keeping expectations calibrated: a successful trial announcement is not an approval. Regulators still have to review the data, and a therapy like this would be aimed at people who've already had melanoma rather than the general public. Prevention still runs through the boring, effective stuff — sun protection and getting suspicious spots looked at early.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Leila Fadel"
+    ],
+    "url": "https://npr.org/2026/08/20/nx-s1-5937966/new-mrna-vaccine-could-reduce-the-recurrence-and-spread-of-skin-cancer",
+    "published_at": "2026-08-20",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "vaccines"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-20",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_1a9e70",
+      "slug": "first-mrna-flu-vaccine",
+      "type": "news",
+      "title": "The First mRNA Flu Vaccine Arrives This Season",
+      "hook": "Moderna's mRNA flu vaccine — the first flu shot built on the same technology as the COVID vaccines — is now FDA-approved and ready for the coming flu season.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "card_a20f71",
+      "slug": "melanomas-immortality-trick",
+      "type": "news",
+      "title": "Melanoma's Secret to Cheating Death",
+      "hook": "Scientists say they've found the missing genetic ingredient that lets melanoma cells become effectively immortal — a discovery that could open new lines of attack on the cancer.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_b3f798",
+      "slug": "new-sunscreen-ingredient-approved",
+      "type": "news",
+      "title": "The First New Sunscreen Filter in the U.S. in 20 Years",
+      "hook": "The FDA approved bemotrizinol — a broad-spectrum UV filter used for decades in Europe and Asia — the first new sunscreen ingredient cleared in the U.S. in about 20 years.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e94193#0",
+      "format": "flip",
+      "prompt": "How does a therapeutic cancer vaccine differ from the vaccines most people know?",
+      "back_html": "\u003cp\u003eOrdinary vaccines stop you from getting sick in the first place. This one is given to\npeople who \u003cstrong\u003ealready had\u003c/strong\u003e melanoma, to train the immune system to find and kill any\ncancer cells left behind — reducing recurrence and spread.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e94193#1",
+      "format": "quiz",
+      "prompt": "What did Merck and Moderna announce about their melanoma vaccine?",
+      "choices": [
+        {
+          "text": "A successful late-stage trial, with the aim of reducing recurrence and spread",
+          "correct": true
+        },
+        {
+          "text": "That the vaccine prevents anyone from ever developing melanoma",
+          "correct": false
+        },
+        {
+          "text": "That it is already approved and in pharmacies",
+          "correct": false
+        },
+        {
+          "text": "That the trial failed and the program is being shut down",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe companies reported a successful late-stage (phase 3) trial for a vaccine intended\nto reduce recurrence and spread of melanoma. Approval and availability are separate\nsteps that haven't happened yet.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e94193#2",
+      "format": "flip",
+      "prompt": "Why is the mRNA platform a natural fit for cancer vaccines?",
+      "back_html": "\u003cp\u003emRNA simply hands cells instructions for a protein to display to the immune system —\nso the same technology behind the COVID shots can be pointed at cancer markers\ninstead of a virus.\u003c/p\u003e"
+    }
+  ]
+}

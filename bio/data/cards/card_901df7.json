@@ -1,0 +1,88 @@
+{
+  "id": "card_901df7",
+  "slug": "transposon-clocks-strawberry-genome",
+  "type": "news",
+  "title": "DNA Time Stamps Trace the Strawberry's Origins",
+  "hook": "Jumping bits of DNA leave traces that pile up over time. Researchers read them like time stamps to show the strawberry's genome was built by merging several ancient genomes.",
+  "key_points": [
+    "Transposable elements ('jumping genes') copy themselves to new spots in the genome over time.",
+    "Their accumulated traces can act like time stamps, dating events in a genome's past.",
+    "Using this, researchers reconstructed the evolutionary history of the strawberry genome.",
+    "Modern strawberries were assembled by merging several ancestral genomes — repeated polyploidy.",
+    "The method gives a new way to untangle how complex crop genomes came together."
+  ],
+  "content_html": "\u003cp\u003eStrawberries hide a complicated past in their DNA, and researchers have found a new way to read it — by tracking \u0026quot;jumping genes\u0026quot; that leave datable traces behind, reported via ScienceDaily.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTransposable elements are stretches of DNA that copy and paste themselves to new spots in the genome. Because fresh copies keep accumulating over time, the pattern they leave behind can work like a series of time stamps. The team used these traces to reconstruct how the strawberry genome was put together — and found it was assembled through multiple ancient genome-merging events, in which whole sets of chromosomes from different ancestors combined (a process called polyploidy). Many of our most important crops carry these doubled or merged genomes, which can add size, vigor, and adaptability. By turning transposable-element traces into a kind of molecular clock, the approach gives researchers a new tool for untangling how complex plant genomes — and the crops we depend on — actually came to be.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260618041515.htm",
+    "published_at": "2026-06-19",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "dna-genetics",
+    "evolution"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-22",
+  "date": "2026-06-19",
+  "related": [
+    {
+      "id": "card_80bbc5",
+      "slug": "mutations",
+      "type": "concept",
+      "title": "Mutations: When DNA Changes",
+      "hook": "Every time a cell copies its DNA, tiny typos can slip in — most do nothing at all, a few cause disease, and rare ones fuel evolution.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_50ecfa",
+      "slug": "how-new-species-form",
+      "type": "concept",
+      "title": "How New Species Form",
+      "hook": "Split one population in two, let them drift apart long enough, and eventually they can no longer interbreed — that's speciation, the engine that fills the tree of life with branches.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_901df7#0",
+      "format": "quiz",
+      "prompt": "How did researchers use transposable elements to study the strawberry genome?",
+      "choices": [
+        {
+          "text": "As time stamps — their accumulating traces date events in the genome's past",
+          "correct": true
+        },
+        {
+          "text": "As a vaccine to protect the plant from disease",
+          "correct": false
+        },
+        {
+          "text": "As molecular scissors to cut and edit the genome",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTransposable elements keep copying themselves over time, so the traces they leave can\nact like a molecular clock for dating genome events.\u003c/p\u003e"
+    },
+    {
+      "id": "card_901df7#1",
+      "format": "flip",
+      "prompt": "What did the DNA time-stamp method reveal about the strawberry's origins?",
+      "back_html": "\u003cp\u003eThat the modern strawberry genome was assembled by merging several ancestral genomes —\nrepeated polyploidy events — rather than descending from a single ancestor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_901df7#2",
+      "format": "flip",
+      "prompt": "What is a transposable element?",
+      "back_html": "\u003cp\u003eA stretch of DNA that copies and pastes itself to new locations in the genome — a\n\u0026quot;jumping gene.\u0026quot; New copies accumulate over time, leaving a traceable record.\u003c/p\u003e"
+    }
+  ]
+}

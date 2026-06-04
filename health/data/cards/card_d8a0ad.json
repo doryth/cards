@@ -1,0 +1,99 @@
+{
+  "id": "card_d8a0ad",
+  "slug": "vaccines-adults-still-need",
+  "type": "concept",
+  "title": "Vaccines Adults Still Need",
+  "hook": "Vaccination isn't just a childhood checklist. Protection from some shots fades, new ones are recommended with age, and a few need regular boosters.",
+  "key_points": [
+    "Immunity from some childhood vaccines wears off, so adults need boosters like Td/Tdap.",
+    "Certain vaccines are recommended specifically as you get older, such as shingles and pneumococcal.",
+    "Which vaccines you need depends on age, health conditions, job, and travel.",
+    "A provider or pharmacist can review your record and flag what you're missing."
+  ],
+  "content_html": "\u003cp\u003eMost of us think of vaccines as something handled in childhood. But adulthood comes with its own list — some shots wear off, some are added with age, and some depend on where you work or travel.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe CDC notes that adults need vaccines too, for several reasons: immunity from certain childhood vaccines fades over time, some vaccines are recommended specifically for older adults, and protection needs vary with health, job, and travel. Common examples include the tetanus-diphtheria (Td) or Tdap booster every ten years, the shingles vaccine recommended from around age 50, and pneumococcal vaccines for older adults and those with certain conditions. Because the right list is individual, the CDC's practical advice is to have a provider or pharmacist review your vaccination history and recommend what you're due for — they can check the record against current schedules and your personal risk factors. (This card is about which shots to get and when; for how vaccines actually train the immune system, see the biology deck.)\u003c/p\u003e",
+  "source": {
+    "name": "U.S. Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/vaccines/adults/index.html",
+    "license": "Public domain (U.S. CDC)"
+  },
+  "topic_ids": [
+    "vaccines"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_9bbd5f",
+      "slug": "flu-and-seasonal-shots",
+      "type": "concept",
+      "title": "Flu and Seasonal Shots",
+      "hook": "Some vaccines are a yearly habit, not a one-time event — because the viruses change, or immunity fades, and a fresh shot keeps protection current each season.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_34951c",
+      "slug": "why-regular-checkups-matter",
+      "type": "concept",
+      "title": "Why Regular Checkups Matter",
+      "hook": "The whole point of a checkup is to catch trouble while it's still quiet — before symptoms show up and while it's easiest to treat.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_16661a",
+      "slug": "preventing-stis",
+      "type": "concept",
+      "title": "Preventing STIs",
+      "hook": "Sexually transmitted infections are common and often symptomless — which is exactly why prevention and testing, not just treatment, are what keep you and your partners healthy.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fa94ed",
+      "slug": "measles-record-2026",
+      "type": "news",
+      "title": "U.S. Measles Cases Hit a 35-Year High",
+      "hook": "The CDC has confirmed 2,318 measles cases this year — the most since 1991, and the second record-breaking year in a row for a disease the U.S. once declared eliminated.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-24"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d8a0ad#0",
+      "format": "quiz",
+      "prompt": "Why do adults need vaccines even if they were fully vaccinated as children?",
+      "choices": [
+        {
+          "text": "Some immunity fades, and new vaccines are recommended with age",
+          "correct": true
+        },
+        {
+          "text": "Childhood vaccines are usually fake",
+          "correct": false
+        },
+        {
+          "text": "Adults never need any vaccines",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProtection from some vaccines wanes over time (requiring boosters like Td/Tdap),\nand others — like shingles and pneumococcal — are recommended as you age.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d8a0ad#1",
+      "format": "flip",
+      "prompt": "What determines which vaccines an adult needs?",
+      "back_html": "\u003cp\u003eYour \u003cstrong\u003eage, health conditions, occupation, lifestyle, and travel\u003c/strong\u003e plans. A\nprovider or pharmacist can review your history and recommend what's due.\u003c/p\u003e"
+    }
+  ]
+}

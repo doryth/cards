@@ -1,0 +1,91 @@
+{
+  "id": "card_5b527c",
+  "slug": "apob-vs-ldl-cholesterol-test",
+  "type": "news",
+  "title": "Millions May Be Getting the Wrong Cholesterol Test",
+  "hook": "A new study finds that apoB — a blood test measuring harmful cholesterol particles directly — beats standard LDL testing at identifying who actually needs more intensive treatment.",
+  "key_points": [
+    "ApoB is a blood test that measures harmful cholesterol particles, rather than the cholesterol they carry.",
+    "A new study found apoB testing outperforms standard LDL cholesterol testing at identifying who needs more intensive treatment.",
+    "Using apoB to guide treatment decisions could prevent more heart attacks and strokes.",
+    "The approach was also found to be cost-effective for the U.S. healthcare system."
+  ],
+  "content_html": "\u003cp\u003eStandard cholesterol tests report LDL — the \u0026quot;bad\u0026quot; cholesterol — as a single number, but that number doesn't distinguish between a few large particles and many small ones. A new study argues that distinction matters more than it gets credit for: apoB, a test that measures the harmful particles directly, was found to outperform standard LDL testing at identifying who actually needs more intensive treatment.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, using apoB to guide those treatment decisions could prevent more heart attacks and strokes than relying on LDL alone — and the researchers found the approach would remain cost-effective for the U.S. healthcare system, not just more accurate in a research setting. ApoB testing isn't yet the default at most doctor's offices, but this is exactly the kind of evidence that shifts guidelines over time. If you're being monitored for heart-disease risk, it's a reasonable question to bring to your next checkup: is an apoB test worth adding to your bloodwork?\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260626125714.htm",
+    "published_at": "2026-07-06",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "chronic-conditions",
+    "preventive-care"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_818108",
+      "slug": "understanding-cholesterol",
+      "type": "concept",
+      "title": "Understanding Cholesterol",
+      "hook": "Cholesterol has a good side and a bad side. Too much of the bad kind builds up in your arteries for years — silently — until it triggers a heart attack or stroke.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_a55ffd",
+      "slug": "know-your-numbers",
+      "type": "concept",
+      "title": "Know Your Numbers",
+      "hook": "A handful of routine numbers — blood pressure, cholesterol, blood sugar, and waist size — quietly predict much of your future health, and most have no symptoms until something breaks.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_fc9417",
+      "slug": "keeping-your-heart-healthy",
+      "type": "concept",
+      "title": "Keeping Your Heart Healthy",
+      "hook": "Most heart disease isn't bad luck — it's the sum of a few everyday habits. The American Heart Association distills them into eight that move the needle most.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5b527c#0",
+      "format": "flip",
+      "prompt": "What does the apoB test measure, and how is that different from standard LDL testing?",
+      "back_html": "\u003cp\u003eApoB measures the harmful cholesterol \u003cstrong\u003eparticles themselves\u003c/strong\u003e, rather than the total\namount of cholesterol they're carrying — which the study found better identifies who\nneeds more intensive treatment.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5b527c#1",
+      "format": "quiz",
+      "prompt": "What did the study find about using apoB to guide cholesterol treatment decisions?",
+      "choices": [
+        {
+          "text": "It could prevent more heart attacks and strokes, and is cost-effective",
+          "correct": true
+        },
+        {
+          "text": "It performed worse than LDL testing but is cheaper",
+          "correct": false
+        },
+        {
+          "text": "It's only useful for people who already have heart disease",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResearchers found apoB-guided treatment could prevent more cardiovascular events than\nstandard LDL testing, while remaining cost-effective for the healthcare system.\u003c/p\u003e"
+    }
+  ]
+}

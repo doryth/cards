@@ -1,0 +1,102 @@
+{
+  "id": "card_1be62b",
+  "slug": "agi-and-superintelligence",
+  "type": "concept",
+  "title": "AGI \u0026 Superintelligence",
+  "hook": "AGI means AI as broadly capable as a human; superintelligence means far beyond. Both are goals and hypotheses — not products you can buy — and experts deeply disagree on when, or if.",
+  "key_points": [
+    "AGI = human-level ability across most tasks; today's AI is narrow, not that.",
+    "Superintelligence = hypothetical AI vastly smarter than humans at everything.",
+    "Neither exists; predictions of arrival range from years to decades to never.",
+    "Today's chatbots are impressive but still narrow — fluency isn't general intelligence."
+  ],
+  "content_html": "\u003cp\u003eTwo words get thrown around in big AI debates, often loosely: AGI and superintelligence. \u003cstrong\u003eArtificial general intelligence (AGI)\u003c/strong\u003e means an AI as broadly capable as a human — able to learn and perform across most tasks rather than being a specialist. \u003cstrong\u003eSuperintelligence\u003c/strong\u003e goes further: a hypothetical system vastly smarter than the best humans at essentially everything. The single most important fact about both is that they are \u003cem\u003egoals and hypotheses\u003c/em\u003e, not things that exist. Today's AI, however impressive, is still \u003cstrong\u003enarrow\u003c/strong\u003e — brilliant at language or images, but lacking the general, flexible competence of a person.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSo why all the noise? Because progress has been fast enough that serious people now argue about whether AGI is close, and what would happen if it arrived. And here the honest answer is uncertainty: respected experts give wildly different timelines, from \u0026quot;within a few years\u0026quot; to \u0026quot;many decades\u0026quot; to \u0026quot;maybe never,\u0026quot; and they disagree about whether scaling up today's approach can even get there. That disagreement is worth holding onto, because both hype and doom often smuggle in a false confidence about the timeline. A useful caution: a chatbot that \u003cem\u003esounds\u003c/em\u003e human is not evidence of general intelligence — fluency is exactly the thing these systems were optimized for, and it can mask how narrow they remain. Whether AGI is a near-term reality or a distant maybe is one of the genuinely open questions of our time, and anyone claiming certainty in either direction is overselling.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Artificial general intelligence",
+    "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "agi"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_73f770",
+      "slug": "ai-vs-sci-fi",
+      "type": "concept",
+      "title": "AI vs. the Sci-Fi Version",
+      "hook": "The AI in the movies wants things and plots against us. The AI on your phone autocompletes your texts. Mixing them up makes today's tools seem scarier and smarter than they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dc90db",
+      "slug": "will-ai-take-over",
+      "type": "concept",
+      "title": "Will AI Take Over?",
+      "hook": "The Terminator scenario — AI 'waking up' and turning on us — isn't what serious researchers worry about. Their real concerns are more mundane and more immediate.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_1be62b#0",
+      "format": "quiz",
+      "prompt": "What does AGI (artificial general intelligence) mean?",
+      "choices": [
+        {
+          "text": "AI as broadly capable as a human across most tasks",
+          "correct": true
+        },
+        {
+          "text": "Any AI that can hold a conversation",
+          "correct": false
+        },
+        {
+          "text": "A specific product released last year",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAGI refers to human-level breadth — competent at most things a person can\ndo. Today's systems are narrow, and AGI doesn't yet exist.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1be62b#1",
+      "format": "flip",
+      "prompt": "How much do experts agree on when AGI will arrive?",
+      "back_html": "\u003cp\u003eVery little. Serious predictions range from a few years to many decades to\nnever — there's no consensus, so treat confident timelines with skepticism.\u003c/p\u003e"
+    }
+  ]
+}

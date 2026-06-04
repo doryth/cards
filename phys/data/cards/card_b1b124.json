@@ -1,0 +1,134 @@
+{
+  "id": "card_b1b124",
+  "slug": "quantum-telecloning-on-chips",
+  "type": "paper",
+  "title": "You Can't Copy a Qubit — But You Can Make Two Blurry Ones",
+  "hook": "Quantum mechanics forbids perfect copies. The best you can do for two recipients is 5/6 fidelity each — and a six-photon experiment across two silicon chips just beat the classical limit.",
+  "key_points": [
+    "Telecloning combines teleportation with cloning: send an unknown state to several distant recipients at once.",
+    "No-cloning forbids perfect copies, so 'optimal' cloning means the best fidelity physics allows.",
+    "The team ran an optimal 1-to-2 symmetric telecloning on a scalable silicon photonic platform.",
+    "Six photons, two fiber-linked chips: one heralds the input state, the other prepares a four-photon entangled resource.",
+    "An interchip Bell-state measurement distributes the input into two clones at remote nodes.",
+    "Measured cloning fidelity was 78.45 +/- 1.39%, above the classical limit of 2/3 by 8 standard deviations."
+  ],
+  "content_html": "\u003cp\u003eThe no-cloning theorem says an unknown quantum state cannot be copied perfectly. But it doesn't forbid \u003cem\u003eimperfect\u003c/em\u003e copies, and there's a precise best-possible fidelity for splitting one state into two. Telecloning marries that idea to teleportation: hand an unknown state to several spatially separated recipients at once, each getting an optimal copy. Conceptually it's a basic primitive for quantum networks — and yet symmetric qubit telecloning had never been demonstrated experimentally.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eZicong Wen, Xiao-Song Ma and colleagues at Nanjing report the optimal 1-to-2 symmetric version on a silicon photonic platform. The protocol uses six photons across two independent, fiber-linked chips: one generates a heralded input state, the other prepares a four-photon entangled resource state. An interchip Bell-state measurement then distributes the input into two clones at remote nodes. The reason this was hard is right there in the setup — you need multipartite entanglement and stable multi-photon interference between physically separate, independently pumped sources. The measured interchip cloning fidelity was 78.45 ± 1.39%, exceeding the classical limit of 2/3 by eight standard deviations, which is the statement that the copies really were made quantum-mechanically. The authors frame it as a building block for multi-party quantum networks; the appeal of doing it in silicon photonics is that chips are manufacturable in a way that tabletop optics is not.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Zicong Wen",
+      "Kai Wang",
+      "Bochi Wu",
+      "Leizhen Chen",
+      "Yan-Qing Lu",
+      "Shining Zhu",
+      "Xiao-Song Ma"
+    ],
+    "url": "https://arxiv.org/abs/2608.11718",
+    "published_at": "2026-08-12",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_08aa81",
+      "slug": "teleportation-over-hollow-core-fibre",
+      "type": "paper",
+      "title": "Quantum Teleportation Down a Fibre That's Mostly Empty Space",
+      "hook": "A quantum state was teleported across a deployed city fibre network while ordinary data traffic blasted through the same strands — because the fibre's core is hollow.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "card_251b1c",
+      "slug": "unclonable-encryption",
+      "type": "paper",
+      "title": "Encryption a Thief Can't Even Copy",
+      "hook": "Classical ciphertext can be stolen now and cracked later. Quantum ciphertext can't be duplicated at all — and this construction gets that guarantee with no unproven assumptions.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_b1b124#0",
+      "format": "flip",
+      "prompt": "What is quantum telecloning?",
+      "back_html": "\u003cp\u003eTeleportation plus cloning: distributing an \u003cstrong\u003eunknown\u003c/strong\u003e quantum state to several spatially\nseparated recipients at once, each receiving a copy at the best fidelity physics allows.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b1b124#1",
+      "format": "quiz",
+      "prompt": "What does the classical limit of 2/3 represent in this experiment?",
+      "choices": [
+        {
+          "text": "The best copy fidelity achievable without genuine quantum resources — beating it proves the protocol was quantum",
+          "correct": true
+        },
+        {
+          "text": "The fraction of photons that survive the fiber link",
+          "correct": false
+        },
+        {
+          "text": "The probability that the Bell-state measurement succeeds",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe measured 78.45 +/- 1.39% exceeds 2/3 by 8 standard deviations, which is what makes the result\na demonstration of quantum, not classical, state distribution.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b1b124#2",
+      "format": "quiz",
+      "prompt": "Why was the demonstration hard enough to have remained elusive until now?",
+      "choices": [
+        {
+          "text": "It needs multipartite entangled resource states and stable multi-photon interference across separate nodes",
+          "correct": true
+        },
+        {
+          "text": "Silicon is opaque to the photons involved",
+          "correct": false
+        },
+        {
+          "text": "No one had derived the optimal cloning fidelity",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe protocol uses six photons across two chips — a heralded input plus a four-photon entangled\nresource — and interference between independent sources is notoriously fragile.\u003c/p\u003e"
+    }
+  ]
+}

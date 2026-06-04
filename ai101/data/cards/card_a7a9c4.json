@@ -1,0 +1,120 @@
+{
+  "id": "card_a7a9c4",
+  "slug": "rare-books-cut-for-training",
+  "type": "news",
+  "title": "AI Firms Are Quietly Buying Up Rare Books",
+  "hook": "To get clean, high-quality text, AI companies have been bulk-buying physical books — and booksellers are pushing back on what happens to them in the scanner.",
+  "key_points": [
+    "Ars Technica reports AI firms quietly bulk-buying rare books, meeting bookseller resistance.",
+    "High-speed scanning is often destructive: spines are cut off to feed pages through.",
+    "Books are prized training data — edited, coherent, long-form prose.",
+    "Buying and scanning physical copies is a workaround for messy web-scraping rights.",
+    "Where training data comes from is a choice with physical consequences, not just a technical detail."
+  ],
+  "content_html": "\u003cp\u003eArs Technica reports that AI companies have been quietly buying rare books in bulk — and running into resistance from booksellers, because of what tends to happen next. High-speed scanning is usually destructive: the spine comes off so the pages can be fed through the machine. The book becomes a dataset and stops being a book.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe reason books are worth this trouble is quality. A model's abilities track the quality of what it read, and professionally edited, long-form prose is a much richer diet than the average web page. Buying physical copies also sidesteps some of the tangle around scraping the web, where permission and copyright remain contested — you own the copy you bought.\u003c/p\u003e\n\u003cp\u003eThe wider point is that \u0026quot;trained on the internet\u0026quot; hides a real supply chain. Every capable model rests on data that was purchased, licensed, scraped, or scanned, and each of those routes has costs someone bears — authors, publishers, website owners, and in this case the physical objects themselves. Knowing where a model's knowledge came from is part of understanding what a model actually is.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart",
+    "published_at": "2026-08-12",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "how-ai-learns",
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "training",
+    "dataset"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_6c6e41",
+      "slug": "where-ai-learns-from",
+      "type": "concept",
+      "title": "Where AI Learns From",
+      "hook": "An AI is a mirror of its training data — and most big models learned from a giant scrape of the public internet. That explains both their broad knowledge and their inherited flaws.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_985bd2",
+      "slug": "anthropic-authors-settlement-approved",
+      "type": "news",
+      "title": "A Judge Approves Anthropic's $1.5B Payout to Authors",
+      "hook": "A court signed off on Anthropic paying authors $1.5 billion — about $3,000 a book — for training its AI on their work. The rare case where the copyright fight ended in a check.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-21"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a7a9c4#0",
+      "format": "quiz",
+      "prompt": "Why are books especially valuable as AI training data?",
+      "choices": [
+        {
+          "text": "They're edited, coherent, long-form prose — higher quality than most web text",
+          "correct": true
+        },
+        {
+          "text": "They're cheaper to obtain than web pages",
+          "correct": false
+        },
+        {
+          "text": "They contain no copyrighted material",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eModel quality depends heavily on data quality. Professionally edited books offer\nsustained, well-structured writing that random web pages rarely match.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a7a9c4#1",
+      "format": "flip",
+      "prompt": "Why does bulk book scanning upset booksellers?",
+      "back_html": "\u003cp\u003eHigh-speed scanning typically means cutting the spine off to feed pages through\nthe machine — so the physical copy, sometimes a rare one, doesn't survive the\nprocess.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a7a9c4#2",
+      "format": "quiz",
+      "prompt": "What does this story illustrate about training data generally?",
+      "choices": [
+        {
+          "text": "It has to come from somewhere real, with costs and rights attached",
+          "correct": true
+        },
+        {
+          "text": "Models are trained mostly on data companies generate themselves",
+          "correct": false
+        },
+        {
+          "text": "Once a book is scanned, the model stores a copy of it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u0026quot;Trained on the internet\u0026quot; hides a supply chain of purchases, licenses, scraping,\nand physical scanning — each with its own consequences.\u003c/p\u003e"
+    }
+  ]
+}

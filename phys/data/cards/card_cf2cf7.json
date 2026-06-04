@@ -1,0 +1,131 @@
+{
+  "id": "card_cf2cf7",
+  "slug": "the-four-fundamental-forces",
+  "type": "concept",
+  "title": "The Four Fundamental Forces",
+  "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+  "key_points": [
+    "Gravity: the weakest, but with infinite reach, it shapes planets, stars, and galaxies.",
+    "Electromagnetism: binds atoms and molecules, carries light, and runs all of chemistry.",
+    "Strong force: glues quarks into protons and neutrons and holds the nucleus together.",
+    "Weak force: drives certain radioactive decays and helps power fusion in stars."
+  ],
+  "content_html": "\u003cp\u003eFor all its variety, the physical universe runs on just four fundamental forces. Two are familiar: gravity, which pulls every bit of mass toward every other and sculpts the cosmos, and electromagnetism, which binds electrons to nuclei, links atoms into molecules, and carries light. The other two act only across the unimaginably small distances inside an atomic nucleus, which is why you never feel them directly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe strong nuclear force is the glue of matter: it binds quarks into protons and neutrons and then clamps those particles together in the nucleus, overpowering the fierce electric repulsion between same-charged protons. The weak nuclear force is subtler — it lets one kind of particle transform into another, which is what drives certain radioactive decays and kick-starts the fusion that powers the Sun. Curiously, gravity is by far the weakest of the four; it only seems mighty because it's always attractive and accumulates over enormous masses. Physicists have woven three of these forces into the Standard Model, but gravity stubbornly resists joining a single quantum framework — one of the great unfinished problems. Wikipedia surveys each force and its range and strength.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fundamental_interaction",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1c33ae",
+      "slug": "electromagnetism",
+      "type": "concept",
+      "title": "Electricity \u0026 Magnetism Are One Force",
+      "hook": "Move a magnet near a wire and you make electricity; run current through a wire and you make a magnet. They're two faces of the same force.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a1831a",
+      "slug": "radioactivity",
+      "type": "concept",
+      "title": "Radioactivity and Half-Life",
+      "hook": "You can't predict when a single unstable atom will decay, yet a huge sample decays on a clock so precise we use it to date rocks billions of years old.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aaec2a",
+      "slug": "glueball-x2370",
+      "type": "paper",
+      "title": "Physics's Long-Sought 'Glueball' May Finally Be Here",
+      "hook": "The strong force's glue can bind to itself, making a particle with no quarks at all. Physicists hunted these 'glueballs' for 50 years — BESIII says the X(2370) is the strongest candidate yet.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-22"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cf2cf7#0",
+      "format": "flip",
+      "prompt": "What are the four fundamental forces of nature?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eGravity\u003c/strong\u003e, \u003cstrong\u003eelectromagnetism\u003c/strong\u003e, the \u003cstrong\u003estrong\u003c/strong\u003e nuclear force, and the\n\u003cstrong\u003eweak\u003c/strong\u003e nuclear force. Everything that happens is some combination of these.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cf2cf7#1",
+      "format": "quiz",
+      "prompt": "Surprisingly, which of the four forces is by far the weakest?",
+      "choices": [
+        {
+          "text": "Gravity",
+          "correct": true
+        },
+        {
+          "text": "The strong nuclear force",
+          "correct": false
+        },
+        {
+          "text": "Electromagnetism",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGravity feels dominant only because it's always attractive and adds up over\nhuge masses. Between two particles it's astronomically weaker than the rest.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cf2cf7#2",
+      "format": "quiz",
+      "prompt": "Which force holds the protons and neutrons inside a nucleus together?",
+      "choices": [
+        {
+          "text": "The strong nuclear force",
+          "correct": true
+        },
+        {
+          "text": "Gravity between the particles",
+          "correct": false
+        },
+        {
+          "text": "The weak nuclear force",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe strong force binds quarks into protons and neutrons and overpowers the\nelectric repulsion between protons — but only across tiny nuclear distances.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "card_75d333",
+  "slug": "chiral-domain-walls-in-a-topological-magnet",
+  "type": "paper",
+  "title": "A New Kind of Magnetic Texture, Stubbornly Refusing to Flip",
+  "hook": "In a twisted MoTe2 magnet, researchers found an excitation that survives magnetic fields several times stronger than should erase it — a domain wall with a built-in twist.",
+  "key_points": [
+    "Quantum anomalous Hall magnets in 2D flatband systems were predicted to host spin excitations unlike those in ordinary magnets, but experiments had barely probed them.",
+    "The team used resonant ultrafast pump-probe spectroscopy on a twisted MoTe2 moiré superlattice.",
+    "Below about 3.7 K they see a metastable spin-valley excitation that survives a reverse magnetic field several times larger than the saturation field.",
+    "Its behaviour is sharply unlike ordinary domain walls or magnons, pointing to a genuinely new spin-valley texture.",
+    "They propose these are chiral domain walls: the pseudospin order parameter winds in-plane along the wall.",
+    "The metastability is attributed to real-space topological winding interacting with the momentum-space quantum geometry of the parent bands."
+  ],
+  "content_html": "\u003cp\u003eTwist two sheets of a 2D semiconductor slightly out of alignment and the resulting moiré pattern can flatten the electron bands, at which point interactions dominate and exotic magnetic states appear. Theory predicted that the quantum anomalous Hall magnets found in such systems would host spin excitations with no counterpart in ordinary magnets. Experiment had said little — until a team looked at twisted MoTe2 and found something that refuses to be switched off.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eUsing resonant ultrafast pump-probe spectroscopy, Richen Xiong and colleagues excited a twisted MoTe2 moiré superlattice and watched what came back. Below roughly 3.7 K they found a metastable spin-valley excitation that survives a reverse magnetic field several times larger than the field needed to saturate the magnet — which is to say, long after any conventional magnetic texture should have been wiped out. Its behaviour doesn't match ordinary domain walls or magnons either. Their proposal is that these are chiral domain walls, in which the pseudospin order parameter winds in-plane as you travel along the wall. The stability, they argue, comes from a universal mechanism: the topological winding in real space couples to the quantum geometry of the underlying electronic bands in momentum space, and the combination locks the texture in place. If that holds, these walls are not a curiosity but the objects that govern how quantum anomalous Hall magnets respond out of equilibrium — and possibly the fundamental limit on how stable their topological protection can be.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Richen Xiong",
+      "Chenxin Qin",
+      "Zhaoyu Han",
+      "Nisarg Chadha",
+      "Qiang Gao",
+      "Eslam Khalaf",
+      "Chenhao Jin"
+    ],
+    "url": "https://arxiv.org/abs/2608.06569",
+    "published_at": "2026-08-06",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "electricity-magnetism"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-10",
+  "date": "2026-08-06",
+  "related": [
+    {
+      "id": "card_c00178",
+      "slug": "altermagnets-a-new-class-of-magnet",
+      "type": "news",
+      "title": "Altermagnets: A Third Kind of Magnet",
+      "hook": "For a century, magnets came in two flavors. A new class called altermagnets blends the best of both — and a flaw in a diamond could be the tool that finally spots them.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "card_5fb13c",
+      "slug": "light-controlled-magnetism-2d-materials",
+      "type": "news",
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "hook": "In materials just atoms thick, light doesn't just illuminate anymore — it can directly flip magnetic behavior, a step toward memory and quantum devices run purely on light.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_e31194",
+      "slug": "magnons-quantum-computers-penny-sized",
+      "type": "news",
+      "title": "Tiny Magnetic Waves Could Shrink Quantum Computers to Coin Size",
+      "hook": "Magnons — quantum ripples of magnetism once too short-lived to use — just got a 100x lifespan boost, and the bottleneck turns out to be manufacturing, not physics.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_75d333#0",
+      "format": "flip",
+      "prompt": "What is a domain wall in a magnet?",
+      "back_html": "\u003cp\u003eThe boundary between two regions whose magnetic order points in different\ndirections. Ordinary walls sweep away under a strong enough reverse field — these\nones don't.\u003c/p\u003e"
+    },
+    {
+      "id": "card_75d333#1",
+      "format": "quiz",
+      "prompt": "What was surprising about the excitation the team observed?",
+      "choices": [
+        {
+          "text": "It persisted under a reverse magnetic field several times larger than the saturation field",
+          "correct": true
+        },
+        {
+          "text": "It appeared only above room temperature",
+          "correct": false
+        },
+        {
+          "text": "It travelled faster than the speed of light in the material",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBelow about 3.7 K the metastable spin-valley excitation survived reverse fields\nseveral times the saturation field — behaviour sharply unlike ordinary domain\nwalls or magnons.\u003c/p\u003e"
+    },
+    {
+      "id": "card_75d333#2",
+      "format": "flip",
+      "prompt": "What do the authors propose makes these textures so stubborn?",
+      "back_html": "\u003cp\u003eAn interplay between \u003cstrong\u003etopological winding in real space\u003c/strong\u003e — the pseudospin order\nparameter winding along the wall — and the \u003cstrong\u003equantum geometry\u003c/strong\u003e of the parent\nelectronic bands in momentum space.\u003c/p\u003e"
+    }
+  ]
+}

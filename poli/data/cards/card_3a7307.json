@@ -1,0 +1,137 @@
+{
+  "id": "card_3a7307",
+  "slug": "who-regulates-election-betting",
+  "type": "news",
+  "title": "Who Gets to Regulate Betting on Elections?",
+  "hook": "Wisconsin says you can't bet on an election you vote in — a law from 1849. The biggest prediction market calls that 'voter suppression.' Underneath sits a bigger question: which government decides?",
+  "key_points": [
+    "The Wisconsin Elections Commission advised voters that betting on a race you vote in can disqualify your ballot or draw a prosecutor referral.",
+    "Commissioner Ann Jacobs said the policy isn't new — the underlying state law was originally passed in 1849.",
+    "Kalshi called the law 'bananas' and a form of 'voter suppression,' arguing some bettors turn out to vote who otherwise wouldn't.",
+    "The deeper fight is jurisdictional: states treat these firms as gambling operators; Kalshi and the administration call the contracts federally-regulated 'swaps.'",
+    "Nearly half the states are in legal battles with Kalshi over that question, and election betting is restricted in 32 states.",
+    "Researchers warn of price manipulation to sway turnout and of insider trading by people who administer elections."
+  ],
+  "content_html": "\u003cp\u003eA quiet state agency put out a routine advisory and set off a fight with a multi-billion-dollar company. The Wisconsin Elections Commission reminded voters of something that has been on the books since 1849: you cannot place a bet on an election in which you also cast a ballot. Doing so, the commission said, could disqualify your ballot or lead to a referral to state prosecutors.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNPR's Bobby Allyn reports that Kalshi — the company leading the prediction-market boom — and its supporters flooded social media in response, calling the antebellum law \u0026quot;bananas,\u0026quot; \u0026quot;illegal,\u0026quot; and a form of \u0026quot;voter suppression.\u0026quot; The company's reasoning is that some people who wager on a race are thereby motivated to vote in it. Commission member Ann Jacobs was unmoved, describing the advisory as ordinary work by a government agency and comparing the restriction to other categorical bars on voting: \u0026quot;We don't want people voting for someone who isn't the best person for the job simply because it is going to line a voter's pocket.\u0026quot;\u003c/p\u003e\n\u003cp\u003eThe louder quarrel sits on top of a genuinely unsettled legal question, and that question is the transferable lesson. Prediction markets straddle two legal categories, and which one applies decides who writes the rules. States, including Wisconsin, argue the companies are gambling operators and belong under state gaming law; Kalshi and the Trump administration argue the contracts are a financial product called a \u0026quot;swap\u0026quot; that the federal government should oversee. Nearly half the states are now in litigation over that boundary — Minnesota became the first to ban prediction markets outright — while election betting is already illegal in some or all circumstances in 32 states, per the National Conference of State Legislatures. Matt Barreto of the UCLA Voting Rights Project argues there should be \u0026quot;absolutely no money involved in the outcome of our democracy,\u0026quot; pointing to the risk that foreign or partisan actors could move prices to make a candidate look more popular and nudge turnout, or that someone administering an election could profit by slowing a count. Charles Stewart of MIT's Election Data and Science Lab counters that most states have vote-counting checks that would catch such manipulation, though he grants the suspicion itself can feed election skepticism. (This card describes U.S. state and federal law specifically; the regulation of political betting varies widely by country.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Bobby Allyn"
+    ],
+    "url": "https://npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
+    "published_at": "2026-07-27",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "technology-and-politics",
+    "federalism-levels"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-27",
+  "related": [
+    {
+      "id": "card_bd6dda",
+      "slug": "prediction-markets-and-politics",
+      "type": "concept",
+      "title": "Prediction Markets in Politics",
+      "hook": "Let people bet real money on who wins, and the prices start to look like odds — a crowd-sourced forecast. But betting on politics invites its own kind of trouble.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "card_069d19",
+      "slug": "prediction-market-insider-trading-case",
+      "type": "news",
+      "title": "Betting on What the President Will Say — From Inside the Room",
+      "hook": "Prediction markets let anyone bet on politics. A White House staffer allegedly used his own front-row seat to Trump's speeches to place winning bets on Trump's own words.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_1cbc0b",
+      "slug": "state-ai-law-and-federal-preemption",
+      "type": "news",
+      "title": "States Are Writing AI Law First — and Federal Preemption Looms Over All of It",
+      "hook": "With no comprehensive federal AI law yet, states have become the testing ground for regulating artificial intelligence. That leaves every state AI law exposed to a preemption fight.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_bd6dda",
+      "slug": "prediction-markets-and-politics",
+      "type": "concept",
+      "title": "Prediction Markets in Politics",
+      "hook": "Let people bet real money on who wins, and the prices start to look like odds — a crowd-sourced forecast. But betting on politics invites its own kind of trouble.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-16"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_3a7307#0",
+      "format": "flip",
+      "prompt": "When a new product straddles legal categories, why does it matter which government regulates it?",
+      "back_html": "\u003cp\u003eThe category decides the rulebook. As state-regulated \u003cstrong\u003egambling\u003c/strong\u003e,\nelection betting is restricted or banned; as a federally-regulated\nfinancial \u003cstrong\u003eswap\u003c/strong\u003e, it is a legitimate traded product.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3a7307#1",
+      "format": "quiz",
+      "prompt": "What is the core jurisdictional dispute between states and prediction-market companies?",
+      "choices": [
+        {
+          "text": "Whether the contracts are gambling under state gaming law or a financial 'swap' under federal oversight",
+          "correct": true
+        },
+        {
+          "text": "Whether prediction markets must publish their trading algorithms",
+          "correct": false
+        },
+        {
+          "text": "Whether states may run their own official prediction markets",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eStates say the firms are gambling operators subject to state law; Kalshi\nand the administration say the contracts are swaps the federal\ngovernment should oversee. Nearly half the states are litigating it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3a7307#2",
+      "format": "quiz",
+      "prompt": "What is the stated rationale for barring someone from betting on an election they vote in?",
+      "choices": [
+        {
+          "text": "A financial stake in the outcome can distort the reason a person votes",
+          "correct": true
+        },
+        {
+          "text": "Betting markets are always less accurate than opinion polls",
+          "correct": false
+        },
+        {
+          "text": "Federal law forbids states from running elections during a wager",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCommissioner Jacobs framed it as wanting people to vote for whoever will\ndo the job best, not because the result \u0026quot;is going to line a voter's pocket.\u0026quot;\u003c/p\u003e"
+    },
+    {
+      "id": "card_3a7307#3",
+      "format": "flip",
+      "prompt": "Which election-integrity risks do critics attach to election betting?",
+      "back_html": "\u003cp\u003eManipulating prices to make a candidate look more popular and shift\nturnout, plus insider trading by people close to campaigns or to\nrunning the count. MIT's Charles Stewart notes counting checks in most\nstates limit the second risk.\u003c/p\u003e"
+    }
+  ]
+}

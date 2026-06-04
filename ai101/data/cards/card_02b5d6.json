@@ -1,0 +1,87 @@
+{
+  "id": "card_02b5d6",
+  "slug": "google-sues-ai-scam-network",
+  "type": "news",
+  "title": "Google Sues a Network That Used Its Own AI to Run Scams",
+  "hook": "Criminals used Google's Gemini to mass-produce scam websites and target hundreds of thousands of people. Now Google is suing them — a glimpse of how AI supercharges fraud, and the pushback.",
+  "key_points": [
+    "Google sued a Chinese cybercrime network that allegedly used Gemini to automate scams.",
+    "The fraudsters allegedly built scam sites with AI and targeted hundreds of thousands of people.",
+    "AI lets criminals spin up convincing scams faster and cheaper than ever before.",
+    "Big platforms are starting to fight back with lawsuits, not just technical filters."
+  ],
+  "content_html": "\u003cp\u003eIt's tempting to think of AI scams only from the victim's side — the fake voice on the phone, the too-good email. This story shows the other side: the criminals' workshop. Ars Technica reported that Google is suing a Chinese cybercrime network it says used Google's own Gemini AI to automate the creation of scam websites, allegedly targeting hundreds of thousands of people.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat makes AI such a gift to fraudsters is leverage. The same tools that help you draft an email or build a quick website let a scammer churn out hundreds of polished, plausible scam pages in the time it used to take to make one — no typos, no clumsy grammar, in any language. That's why the \u003cem\u003evolume\u003c/em\u003e and \u003cem\u003ebelievability\u003c/em\u003e of scams keep climbing. The flip side, and the reason this story matters, is that the companies behind these tools are starting to treat misuse as something to litigate, not just quietly filter. A lawsuit won't stop fraud on its own, but it signals that \u0026quot;we just used your AI\u0026quot; isn't a free pass. For you as a user, nothing about staying safe changes: AI makes the bait better, so keep leaning on the old habits — slow down, be suspicious of urgency, and verify through a channel you trust.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ryan Whitwam"
+    ],
+    "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams",
+    "published_at": "2026-06-12",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-scams",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-15",
+  "date": "2026-06-12",
+  "related": [
+    {
+      "id": "card_4830ed",
+      "slug": "ai-scams",
+      "type": "concept",
+      "title": "AI Scams \u0026 Staying Safe",
+      "hook": "AI didn't invent scams — it just made them cheaper, faster, and far more convincing. The good news: the habits that beat them haven't changed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_02b5d6#0",
+      "format": "quiz",
+      "prompt": "How did the cybercrime network allegedly use Gemini?",
+      "choices": [
+        {
+          "text": "To automate and mass-produce scam websites targeting huge numbers of people",
+          "correct": true
+        },
+        {
+          "text": "To translate the law in their favor",
+          "correct": false
+        },
+        {
+          "text": "To detect and block other scammers",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGoogle alleges the group used its Gemini AI to build scam sites at scale,\ntargeting hundreds of thousands — fraud made faster and cheaper by AI.\u003c/p\u003e"
+    },
+    {
+      "id": "card_02b5d6#1",
+      "format": "flip",
+      "prompt": "What's the bigger lesson about AI and scams here?",
+      "back_html": "\u003cp\u003eAI lowers the cost of running convincing scams at scale, so the volume rises —\nand companies are now using lawsuits, not just filters, to push back.\u003c/p\u003e"
+    }
+  ]
+}

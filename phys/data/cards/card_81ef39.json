@@ -1,0 +1,151 @@
+{
+  "id": "card_81ef39",
+  "slug": "ultralight-boson-clouds-search",
+  "type": "paper",
+  "title": "Hunting Hypothetical Particles in the Hair of Black Holes",
+  "hook": "If ultralight bosons exist, a spinning black hole would grow a cloud of them and hum for years. LIGO-Virgo-KAGRA listened to two merger remnants, heard nothing, and ruled out a band of masses.",
+  "key_points": [
+    "An ultralight boson around a spinning black hole would build up a cloud that radiates long-lived gravitational waves.",
+    "The collaboration ran directed searches for such long-transient signals from two recent merger remnants.",
+    "No signal was found in either target, from GW250114 or GW250207.",
+    "That disfavours vector boson masses of roughly 2.8 to 4.0 x 10^-13 eV at over 90% confidence.",
+    "A second, independent constraint comes from black holes that are still spinning fast — a cloud would have slowed them.",
+    "The spin-based limits depend on assumed black hole age, so the excluded ranges are quoted for a 10^5-year benchmark."
+  ],
+  "content_html": "\u003cp\u003ePlenty of theories predict \u0026quot;ultralight bosons\u0026quot; — particles so light they're far below anything a collider could make, but a natural dark matter candidate. Remarkably, black holes can hunt them. If such a particle exists, it accumulates around a rapidly spinning black hole into a cloud, feeding off the hole's rotation; the cloud then radiates gravitational waves for a long time afterwards. So a black hole is, in effect, a particle detector you don't have to build.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe LIGO-Virgo-KAGRA collaboration has now applied this to data from the second and third parts of the fourth observing run. They ran directed searches, using a hidden-Markov-model tracking scheme, for long-transient waves from vector boson clouds around the remnants of the mergers that produced GW250114 and GW250207. Neither target showed anything. At a threshold corresponding to a 1% false alarm probability, that disfavours vector boson masses in the range 2.80 to 3.95 × 10⁻¹³ eV with greater than 90% confidence. They also apply a second and rather elegant argument: growing a cloud costs the black hole its spin, so a black hole observed still spinning fast can't have had one. From the inferred high spins in three binaries (GW240515, GW241113, GW241225_08), they exclude further ranges of scalar and vector boson masses — though those limits depend on how long the black hole has existed, which is why the numbers are quoted at a benchmark age of 10⁵ years.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "LIGO Scientific Collaboration",
+      "Virgo Collaboration",
+      "KAGRA Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2608.11620",
+    "published_at": "2026-08-12",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "particle-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_2fb01d",
+      "slug": "boson-clouds-explain-black-hole-spins",
+      "type": "paper",
+      "title": "Do Black Hole Spins Hint at a New Particle?",
+      "hook": "Heavy merging black holes spin slower than light ones. One explanation: a featherweight boson grows a cloud around fast spinners and drains their rotation away.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-09-02"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_be32cb",
+      "slug": "a-decade-of-black-hole-spins",
+      "type": "paper",
+      "title": "Ten Years of Listening to Black Holes Spin",
+      "hook": "A decade after the first gravitational-wave detection, 100+ events let astronomers read black holes' spins — and spin turns out to reveal how the pairs were born.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_81ef39#0",
+      "format": "flip",
+      "prompt": "How could a spinning black hole reveal an ultralight boson?",
+      "back_html": "\u003cp\u003eThe boson would accumulate into a \u003cstrong\u003ecloud\u003c/strong\u003e around the hole, which then radiates long-lived\ngravitational waves — a persistent hum rather than a merger's brief chirp.\u003c/p\u003e"
+    },
+    {
+      "id": "card_81ef39#1",
+      "format": "quiz",
+      "prompt": "How does a black hole's *spin* alone constrain these particles, with no signal detected?",
+      "choices": [
+        {
+          "text": "Growing a boson cloud drains the hole's spin, so black holes still spinning fast rule out bosons in the relevant mass range",
+          "correct": true
+        },
+        {
+          "text": "Fast spin makes the black hole emit the bosons directly as radiation",
+          "correct": false
+        },
+        {
+          "text": "Spin changes the black hole's mass enough to be measured",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors derive limits from the inferred high spins of constituent black holes in three\nbinaries — a cloud would have spun them down, so high spin excludes those boson masses.\u003c/p\u003e"
+    },
+    {
+      "id": "card_81ef39#2",
+      "format": "quiz",
+      "prompt": "Why are the spin-based exclusion ranges quoted with an assumed black hole age?",
+      "choices": [
+        {
+          "text": "The cloud takes time to grow and drain spin, so how long the hole has existed sets which masses it could have shed",
+          "correct": true
+        },
+        {
+          "text": "Older black holes are harder to detect with LIGO",
+          "correct": false
+        },
+        {
+          "text": "The particle's mass changes as the universe expands",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe paper quotes limits at 10^5 years, matching typical dynamically formed binaries, precisely\nbecause the excluded mass range depends on the assumed age.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "card_78574d",
+  "slug": "web-scraper-court-win",
+  "type": "news",
+  "title": "A Web Scraper Beat Google and Reddit in Court",
+  "hook": "\"Google and Reddit do not own the Internet,\" the winner said — after a court rejected their attempt to use copyright takedown law to stop a company from collecting public web pages.",
+  "key_points": [
+    "Google and Reddit tried to use the DMCA — copyright takedown law — to block a web scraper.",
+    "A court ruled against them; the scraping company declared a win, per Ars Technica.",
+    "'Scraping' means automatically collecting public web pages — the raw material most AI trains on.",
+    "One expert quoted called the DMCA argument 'bizarre,' since takedowns target copies, not collection.",
+    "Platforms increasingly treat your public posts as an asset to license to AI firms, not open data."
+  ],
+  "content_html": "\u003cp\u003eA company that collects public web pages for a living just won in court against two of the biggest names on the internet. Google and Reddit had tried to use the DMCA — the copyright takedown law built for pirated files — to stop the scraping. It didn't work. \u0026quot;Google and Reddit do not own the Internet,\u0026quot; the scraper said afterward.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eArs Technica reports Google isn't giving up despite the loss, and quotes an expert calling the DMCA theory bizarre: takedown law is about infringing copies, not about the act of gathering pages anyone can visit. The reason this is being fought so hard is that scraped web text is the raw material almost every AI model is built from — and platforms have realized the posts their users wrote for free are now a licensable asset. That's the quiet shift worth noticing: the argument isn't really about your privacy, it's about who gets paid for what you already published in public.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss",
+    "published_at": "2026-07-27",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "dataset"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-07-27",
+  "related": [
+    {
+      "id": "card_6c6e41",
+      "slug": "where-ai-learns-from",
+      "type": "concept",
+      "title": "Where AI Learns From",
+      "hook": "An AI is a mirror of its training data — and most big models learned from a giant scrape of the public internet. That explains both their broad knowledge and their inherited flaws.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_98e80e",
+      "slug": "google-search-history-ai-training",
+      "type": "news",
+      "title": "Google Will Save Your Searches to Train AI",
+      "hook": "Google is adding a setting that saves the photos, audio, and video you use to search — Lens snaps, voice queries, Translate clips — and that data can help train its AI. Worth a look.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-10"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_78574d#0",
+      "format": "flip",
+      "prompt": "What is web 'scraping', and why does it matter for AI?",
+      "back_html": "\u003cp\u003eAutomatically collecting public web pages at scale. It's the raw material most\nAI models are trained on — which is why control over scraping has become a\nhigh-stakes legal fight.\u003c/p\u003e"
+    },
+    {
+      "id": "card_78574d#1",
+      "format": "quiz",
+      "prompt": "Why did an expert call Google and Reddit's DMCA argument 'bizarre'?",
+      "choices": [
+        {
+          "text": "The DMCA is a copyright-takedown tool aimed at copies, not at collecting public pages",
+          "correct": true
+        },
+        {
+          "text": "The DMCA only applies outside the United States",
+          "correct": false
+        },
+        {
+          "text": "The DMCA had already been repealed",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCopyright takedown law targets infringing copies. Stretching it to cover the\nact of gathering publicly posted pages struck observers as an odd fit.\u003c/p\u003e"
+    },
+    {
+      "id": "card_78574d#2",
+      "format": "quiz",
+      "prompt": "What broader shift does this fight illustrate?",
+      "choices": [
+        {
+          "text": "Platforms now treat users' public posts as a valuable asset to control and license",
+          "correct": true
+        },
+        {
+          "text": "Public websites are becoming illegal to read",
+          "correct": false
+        },
+        {
+          "text": "AI companies have stopped using web data entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eReddit and Google's interest isn't privacy — it's that the public content users\nwrote for free is now worth a lot to AI firms.\u003c/p\u003e"
+    }
+  ]
+}

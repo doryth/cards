@@ -1,0 +1,145 @@
+{
+  "id": "card_28f014",
+  "slug": "res-nova-archaeological-lead-axions",
+  "type": "paper",
+  "title": "Hunting Solar Axions With Ancient Lead",
+  "hook": "A detector built from archaeological lead was designed to catch supernova neutrinos. It turns out the same crystals are a competitive net for axions streaming out of the Sun.",
+  "key_points": [
+    "Axions are hypothetical light particles that would also solve a puzzle in the strong nuclear force.",
+    "RES-NOVA uses cryogenic lead-tungstate crystals grown from archaeological lead, prized for its low radioactivity.",
+    "Built for supernova neutrinos, its dense high-Z absorbers and sub-keV resolution also suit axion searches.",
+    "Two channels — inverse Primakoff and axioelectric — probe axion couplings to photons, electrons and nucleons at once.",
+    "Projected reach for the electron coupling comes within ~2× of XENONnT despite ~10,000× more background.",
+    "Because the photon-coupling limit uses absorption, not coherent conversion, it is independent of axion mass."
+  ],
+  "content_html": "\u003cp\u003eThe axion is one of the more elegant hypothetical particles: invent it to fix an unexplained symmetry in the strong nuclear force, and you get a dark-matter candidate for free. If axions exist, the Sun should be producing them constantly, which makes solar axion searches one of the few places you can look without waiting for a cosmic accident. The RES-NOVA collaboration points out that a detector built for an entirely different purpose is unexpectedly good at it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eRES-NOVA is a cryogenic array of lead-tungstate scintillating bolometers grown from archaeological lead — old lead, whose own radioactivity has had a very long time to decay away, which is exactly what a rare-event search needs. Its original target was coherent elastic neutrino-nucleus scattering from a galactic core-collapse supernova. But the same properties that make it a neutrino catcher — dense, high-atomic-number absorbers and sub-keV energy resolution — make it an axion catcher too. The authors compute the expected signal from four components of the solar axion flux and fold them through two detection channels, inverse Primakoff and axioelectric, which between them probe the axion's couplings to photons, electrons and nucleons simultaneously. Their projected sensitivity for a one-tonne-year exposure comes within roughly a factor of two of XENONnT on the electron coupling, despite carrying about four orders of magnitude more background — the large target mass, high-Z cross-section enhancement, and sharp resolution make up the difference. One feature stands out: because their photon-coupling constraint comes from absorption rather than the coherent magnetic conversion that helioscopes use, it holds regardless of the axion's mass. They also report a first solar-axion exclusion limit from real data taken with a 13-gram prototype crystal.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "L. Pattavina",
+      "G. Benato",
+      "F. Ferroni",
+      "S. Pirro",
+      "A. Giachero",
+      "L. Pagnanini",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2607.21363",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_0f51ff",
+      "slug": "quantum-sensor-hunts-dark-matter",
+      "type": "news",
+      "title": "A Quantum Sensor Built to Catch Dark Matter and Ancient Gravitational Waves",
+      "hook": "Two clouds of ultracold atoms, compared against each other, cancel out noise so well that a signal buried in one measurement reappears — aimed at dark matter and ancient gravitational waves.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_37dae0",
+      "slug": "tracking-the-elusive-neutrino",
+      "type": "news",
+      "title": "Catching the Ghost Particle",
+      "hook": "Trillions of neutrinos stream through your body every second, yet they almost never touch anything. To catch even a few, physicists build some of the most audacious detectors ever conceived.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_66fca3",
+      "slug": "dark-axion-dark-baryon-interaction",
+      "type": "paper",
+      "title": "Cosmological Evidence for Dark Axion-Dark Baryon Interactions from Apparent Phantom Crossing",
+      "hook": "The newest cosmology data hint dark energy briefly got weirder than physics allows — a hidden interaction between two dark-sector particles might fake that signal instead.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_3bf1e2",
+      "slug": "what-powers-the-sun",
+      "type": "concept",
+      "title": "What Powers the Sun",
+      "hook": "The Sun isn't burning like a fire — it's fusing hydrogen into helium in its core, and a sliver of mass turning into pure energy is what lights up our sky.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_37dae0",
+      "slug": "tracking-the-elusive-neutrino",
+      "type": "news",
+      "title": "Catching the Ghost Particle",
+      "hook": "Trillions of neutrinos stream through your body every second, yet they almost never touch anything. To catch even a few, physicists build some of the most audacious detectors ever conceived.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_28f014#0",
+      "format": "quiz",
+      "prompt": "Why would a physics experiment build detectors out of archaeological lead?",
+      "choices": [
+        {
+          "text": "Ancient lead's own radioactivity has long since decayed, giving an exceptionally quiet background",
+          "correct": true
+        },
+        {
+          "text": "Old lead is denser than modern lead",
+          "correct": false
+        },
+        {
+          "text": "Archaeological lead conducts heat better at low temperature",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRare-event searches live or die on background. Lead that has sat undisturbed for a very long time\nis radiopure in a way freshly smelted lead is not, which is why RES-NOVA's crystals use it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_28f014#1",
+      "format": "flip",
+      "prompt": "How can RES-NOVA compete with XENONnT while running far more background?",
+      "back_html": "\u003cp\u003eThree advantages compensate: a \u003cstrong\u003elarge target mass\u003c/strong\u003e, a \u003cstrong\u003ehigh-Z enhancement\u003c/strong\u003e of the axioelectric\nand inverse-Primakoff cross sections, and \u003cstrong\u003esub-keV energy resolution\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_28f014#2",
+      "format": "quiz",
+      "prompt": "Why is the inverse-Primakoff limit on the axion-photon coupling independent of axion mass?",
+      "choices": [
+        {
+          "text": "It relies on absorbing the axion rather than coherently converting it in a magnetic field",
+          "correct": true
+        },
+        {
+          "text": "Axions are known to be massless",
+          "correct": false
+        },
+        {
+          "text": "The detector operates at a temperature where mass effects vanish",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMagnetic helioscopes need coherent axion-to-photon conversion, which is mass-dependent. Absorption\nin the detector material is not, so the resulting bound applies across axion masses.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "card_c6bb94",
+  "slug": "gut-microbe-and-muscle-strength",
+  "type": "news",
+  "title": "A Gut Bacterium Linked to Holding On to Your Strength",
+  "hook": "Older adults carrying Roseburia inulinivorans had 29% stronger handgrip. Give it to mice and they gained about 30% grip strength and built more fast-twitch fiber.",
+  "key_points": [
+    "Researchers linked the gut bacterium Roseburia inulinivorans to muscle strength in humans and mice.",
+    "Older adults carrying it had 29% greater handgrip strength — a standard marker of overall physical resilience.",
+    "Treated mice gained about 30% more grip strength and developed larger, more fast-twitch muscle fibers.",
+    "The bacterium was less common in older people, matching the pattern of age-related muscle loss.",
+    "Roseburia species are fiber fermenters, tying this back to diet.",
+    "The human half is a correlation; the mouse half supplies the causal hint."
+  ],
+  "content_html": "\u003cp\u003eGrip strength is one of the more honest numbers in aging research: it tracks with mobility, independence, and survival. So a study connecting one gut bacterium to it is worth a look. Older adults carrying \u003cem\u003eRoseburia inulinivorans\u003c/em\u003e had 29% greater handgrip strength than those without it — and the bacterium was less common in older people, matching the arc of age-related muscle loss.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eCorrelation like that could run in either direction: stronger people may simply eat and move in ways that favor the microbe. The mouse experiments are what make it interesting. Mice given the bacterium gained roughly 30% more grip strength and developed larger muscle fibers with a shift toward fast-twitch types — the fibers that generate power and tend to be lost first with age.\u003c/p\u003e\n\u003cp\u003eThe researchers frame it as an eventual probiotic candidate for sarcopenia, which is a long way off and should be read as such. The nearer-term takeaway is less exotic: \u003cem\u003eRoseburia\u003c/em\u003e lives on dietary fiber, so this lands in the same place as most microbiome findings — feed your gut bacteria, and keep lifting. Resistance training remains the intervention with the strongest evidence for holding on to strength.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260820202904.htm",
+    "published_at": "2026-08-21",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "healthy-aging",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_a41d55",
+      "slug": "staying-strong-as-you-age",
+      "type": "concept",
+      "title": "Staying Strong as You Age",
+      "hook": "The decline we associate with old age is partly the result of doing less. Staying active — in four distinct ways — keeps you independent far longer.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_618737",
+      "slug": "gut-microbiome-basics",
+      "type": "news",
+      "title": "Gut Health: What the Evidence Actually Says",
+      "hook": "Wellness marketing says your gut is 'broken' and a supplement will fix it. Here's what the evidence really supports — and what's just hype.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_90e20f",
+      "slug": "butyrate-trains-the-gut",
+      "type": "news",
+      "title": "Fiber's Byproduct Seems to Leave the Gut a Memory",
+      "hook": "Butyrate — what gut bacteria make from dietary fiber — doesn't just calm inflammation while it's present. It appears to reprogram the gut lining to keep calming it afterwards.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-20"
+    },
+    {
+      "id": "card_a52762",
+      "slug": "why-exercise-reverses-muscle-aging",
+      "type": "news",
+      "title": "The Molecular Switch Behind Exercise's Anti-Aging Effect on Muscle",
+      "hook": "Researchers found a molecular switch that helps explain why exercise keeps aging muscles healthy: it lowers a gene called DEAF1, letting older muscle clear out damage and repair itself.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-06"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c6bb94#0",
+      "format": "flip",
+      "prompt": "What did carrying Roseburia inulinivorans correspond to in older adults?",
+      "back_html": "\u003cp\u003eAbout \u003cstrong\u003e29% greater handgrip strength\u003c/strong\u003e — grip being a widely used proxy for\nwhole-body strength and physical resilience.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c6bb94#1",
+      "format": "quiz",
+      "prompt": "Why is the mouse arm of this study important?",
+      "choices": [
+        {
+          "text": "The human finding is only a correlation; the mice test whether the bacterium causes the effect",
+          "correct": true
+        },
+        {
+          "text": "Mice have the same microbiome as humans",
+          "correct": false
+        },
+        {
+          "text": "It proves the bacterium works as a probiotic in people",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn people, carriers were simply stronger — which could run either direction.\nTreating mice and seeing ~30% grip gains and more fast-twitch fiber supplies the\ncausal hint that a correlation can't.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c6bb94#2",
+      "format": "flip",
+      "prompt": "What's the diet connection here?",
+      "back_html": "\u003cp\u003e\u003cem\u003eRoseburia\u003c/em\u003e species are \u003cstrong\u003efiber fermenters\u003c/strong\u003e — they live on dietary fiber. That\nmakes what you feed your microbes a plausible lever, well before any probiotic exists.\u003c/p\u003e"
+    }
+  ]
+}

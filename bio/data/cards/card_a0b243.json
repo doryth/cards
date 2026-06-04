@@ -1,0 +1,109 @@
+{
+  "id": "card_a0b243",
+  "slug": "chromosomes-and-meiosis",
+  "type": "concept",
+  "title": "Chromosomes and Meiosis",
+  "hook": "Your DNA is packed into 46 bundles called chromosomes — and a special kind of cell division halves that number so sperm and egg can combine without doubling up.",
+  "key_points": [
+    "A chromosome is a tightly packaged bundle of DNA; humans have 46 in most cells.",
+    "We inherit them in pairs — one set from each parent.",
+    "Meiosis is cell division that produces sex cells (gametes) with half the DNA.",
+    "Halving the count means fertilization restores the full number, not doubles it."
+  ],
+  "content_html": "\u003cp\u003eYour DNA is far too long to leave loose, so cells wind it into compact bundles called chromosomes. Humans carry 46 of them in most cells, arranged as 23 pairs — one member of each pair inherited from each parent. But sex cells follow different rules, made by a special division called meiosis that hands each gamete only half the usual DNA.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMeiosis exists to solve an arithmetic problem. If a sperm and egg each carried a full set of 46 chromosomes, their offspring would have 92, and the count would double every generation. Instead, as the NIH's genetics glossary explains, \u003cstrong\u003emeiosis\u003c/strong\u003e divides a cell twice to produce gametes with just 23 chromosomes each. When sperm and egg fuse at fertilization, the halves add back up to the normal 46. Along the way, meiosis also shuffles the parental chromosomes, which is part of why siblings aren't identical.\u003c/p\u003e",
+  "source": {
+    "name": "NIH National Human Genome Research Institute",
+    "url": "https://www.genome.gov/genetics-glossary/Meiosis",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bae407",
+      "slug": "cell-division-mitosis",
+      "type": "concept",
+      "title": "Mitosis: One Cell Becomes Two",
+      "hook": "Right now, millions of your cells are copying their DNA and splitting in two — the everyday process that lets you grow, heal, and replace worn-out cells.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dec393",
+      "slug": "mendelian-inheritance",
+      "type": "concept",
+      "title": "Mendelian Inheritance",
+      "hook": "A 19th-century monk breeding pea plants worked out the hidden rules of heredity — why a trait can skip a generation and reappear in your grandchild.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a0b243#0",
+      "format": "flip",
+      "prompt": "What is a chromosome?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003etightly packaged bundle of DNA\u003c/strong\u003e. Humans have 46 chromosomes in most cells,\norganized into 23 pairs — one of each pair from each parent.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a0b243#1",
+      "format": "quiz",
+      "prompt": "What does meiosis produce?",
+      "choices": [
+        {
+          "text": "Sex cells (gametes) with half the usual number of chromosomes",
+          "correct": true
+        },
+        {
+          "text": "Two identical body cells",
+          "correct": false
+        },
+        {
+          "text": "Extra copies of every chromosome",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u003cstrong\u003eMeiosis\u003c/strong\u003e makes gametes — sperm and egg cells — each carrying \u003cstrong\u003ehalf\u003c/strong\u003e the\nchromosome count (23 in humans) instead of the full 46.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a0b243#2",
+      "format": "quiz",
+      "prompt": "Why is it important that gametes have half the normal chromosome number?",
+      "choices": [
+        {
+          "text": "So fertilization restores the full count rather than doubling it",
+          "correct": true
+        },
+        {
+          "text": "So the offspring has fewer chromosomes than its parents",
+          "correct": false
+        },
+        {
+          "text": "Because gametes don't need DNA",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIf gametes had the full set, combining sperm and egg would \u003cstrong\u003edouble\u003c/strong\u003e the count\neach generation. Halving first means fertilization restores the normal 46.\u003c/p\u003e"
+    }
+  ]
+}

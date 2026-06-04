@@ -1,0 +1,87 @@
+{
+  "id": "card_fd60c1",
+  "slug": "coffee-nr4a1-stress-switch",
+  "type": "news",
+  "title": "Coffee May Fight Aging Through a Hidden Cellular Switch",
+  "hook": "Scientists may have found why coffee tracks with healthier aging: its compounds activate NR4A1, a cellular switch that guards against stress and damage — and caffeine isn't the one doing it.",
+  "key_points": [
+    "Coffee has long been associated with healthier aging and lower disease risk, but the mechanism has been unclear.",
+    "Researchers found coffee compounds activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage.",
+    "The protective effects disappeared when the NR4A1 receptor was removed, supporting a direct link.",
+    "Plant-based compounds like caffeic acid appeared far more active than caffeine itself in producing this protective effect."
+  ],
+  "content_html": "\u003cp\u003eCoffee drinkers have long had epidemiology on their side: coffee consumption keeps turning up linked to healthier aging and lower disease risk. What's been missing is a clear mechanism — and a new study offers one.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, researchers found that compounds in coffee activate NR4A1, a cellular receptor that helps protect cells from stress, inflammation, and damage. When the receptor was removed in follow-up experiments, the protective effects disappeared, strengthening the case that NR4A1 is doing real work rather than just correlating with something else. The more surprising twist: plant-based compounds like caffeic acid appeared far more active in this pathway than caffeine, coffee's most famous ingredient — a reminder that coffee's health effects likely come from its broader chemistry, not just the jolt.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260719035927.htm",
+    "published_at": "2026-07-19",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "nutrition",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-19",
+  "related": [
+    {
+      "id": "card_e03caa",
+      "slug": "flavanols-for-heart-health",
+      "type": "news",
+      "title": "The Heart Nutrient You Might Be Missing",
+      "hook": "Hitting your five-a-day may not be enough: researchers say foods rich in flavanols — berries, apples, beans, tea — are a separate lever for heart health most diets miss.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "card_2ead17",
+      "slug": "keeping-your-brain-healthy",
+      "type": "concept",
+      "title": "Keeping Your Brain Healthy",
+      "hook": "No pill prevents dementia, but the habits that protect your heart turn out to protect your brain too.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fd60c1#0",
+      "format": "flip",
+      "prompt": "What cellular switch did researchers find coffee compounds activate?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eNR4A1\u003c/strong\u003e, a receptor that helps protect cells from stress, inflammation, and damage.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fd60c1#1",
+      "format": "quiz",
+      "prompt": "Which turned out to be more active in producing this effect — caffeine, or a plant compound like caffeic acid?",
+      "choices": [
+        {
+          "text": "Caffeic acid, a plant-based compound",
+          "correct": true
+        },
+        {
+          "text": "Caffeine itself",
+          "correct": false
+        },
+        {
+          "text": "Neither had any measurable effect",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSurprisingly, plant-based compounds such as caffeic acid appeared far more active at\nactivating NR4A1 than caffeine, coffee's best-known ingredient.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fd60c1#2",
+      "format": "flip",
+      "prompt": "How did researchers confirm NR4A1 was actually responsible for the protective effect?",
+      "back_html": "\u003cp\u003eWhen they removed the NR4A1 receptor, the protective effects \u003cstrong\u003edisappeared\u003c/strong\u003e —\nevidence the receptor, not something else, was doing the work.\u003c/p\u003e"
+    }
+  ]
+}

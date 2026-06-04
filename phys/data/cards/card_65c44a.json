@@ -1,0 +1,110 @@
+{
+  "id": "card_65c44a",
+  "slug": "gravity-passes-its-biggest-cosmic-test",
+  "type": "news",
+  "title": "Newton's Law Passes Its Biggest Test Yet",
+  "hook": "Gravity was checked across galaxy clusters hundreds of millions of light-years apart — and it still behaves the way Newton and Einstein said. Bad news for modified-gravity fixes to dark matter.",
+  "key_points": [
+    "Researchers tested how gravity behaves on scales far larger than any lab or solar-system experiment.",
+    "Across galaxy clusters separated by hundreds of millions of light-years, gravity matched standard predictions.",
+    "The missing-mass problem is real, so either gravity is wrong or unseen matter exists.",
+    "This result squeezes the modified-gravity option and strengthens the dark matter explanation.",
+    "Testing an old law on a new scale is how physics finds out where a law stops working."
+  ],
+  "content_html": "\u003cp\u003eNewton wrote down his law of gravitation around 300 years ago using apples, moons, and planets. A new analysis has now checked the same law on the largest scale anyone has managed — galaxy clusters separated by hundreds of millions of light-years — and gravity still does what Newton, and later Einstein, said it would.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe result, reported in late August 2026, matters because of what it rules out rather than what it confirms. Galaxies and clusters move far too fast for the matter we can see; something is supplying extra pull. There have always been two ways out: invent unseen matter, or change the law of gravity itself. Modified-gravity proposals such as MOND take the second route, and they generally predict that the force law drifts away from the standard form at very large distances or very small accelerations.\u003c/p\u003e\n\u003cp\u003eBy finding no such drift across cluster scales, this test weakens that class of explanations and strengthens the case that the missing mass is genuinely matter we cannot see. It is also a clean illustration of how physics stress-tests an old law: you do not disprove it in the regime where it was built, you push it into a regime it was never checked in and watch for the crack.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260823015019.htm",
+    "published_at": "2026-08-24"
+  },
+  "topic_ids": [
+    "gravity-orbits",
+    "cosmology"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-27",
+  "date": "2026-08-24",
+  "related": [
+    {
+      "id": "card_5947ac",
+      "slug": "universal-gravitation",
+      "type": "concept",
+      "title": "Universal Gravitation: One Force, Apple to Moon",
+      "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9c3949",
+      "slug": "wide-binary-stars-confirm-mond-anomaly",
+      "type": "paper",
+      "title": "Revisiting Data Quality Control and Multiple-star Modeling in Wide Binary Gravity Tests: Confirmation of MOND-type Gravitational Anomaly at Low Acceleration",
+      "hook": "Pairs of stars orbiting each other from far apart keep showing gravity is stronger than Newton predicts — a careful re-check just failed to make the anomaly disappear.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3dea3c",
+      "slug": "merging-clusters-probe-dark-matter",
+      "type": "paper",
+      "title": "Cluster Collisions as Dark Matter Labs",
+      "hook": "Smash two galaxy clusters together and the gas gets stuck while the dark matter sails through. How far it sails is a direct measurement of whether dark matter interacts with itself.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-17"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_65c44a#0",
+      "format": "quiz",
+      "prompt": "Why does a successful test of standard gravity on huge scales support dark matter?",
+      "choices": [
+        {
+          "text": "The missing mass must be explained either by new matter or by different gravity — ruling gravity out leaves matter",
+          "correct": true
+        },
+        {
+          "text": "It shows dark matter particles were detected directly in the clusters",
+          "correct": false
+        },
+        {
+          "text": "It proves galaxy clusters contain no ordinary matter at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGalaxies move as though far more mass is present than we see. If the force\nlaw is confirmed to be standard, the extra pull has to come from unseen mass.\u003c/p\u003e"
+    },
+    {
+      "id": "card_65c44a#1",
+      "format": "flip",
+      "prompt": "What made this a stronger test of gravity than a laboratory experiment?",
+      "back_html": "\u003cp\u003eScale. It probed the force law across galaxy clusters hundreds of millions\nof light-years apart, far beyond the distances any lab or solar-system test reaches.\u003c/p\u003e"
+    },
+    {
+      "id": "card_65c44a#2",
+      "format": "flip",
+      "prompt": "Does confirming Newtonian behavior at cluster scales mean Einstein was unnecessary?",
+      "back_html": "\u003cp\u003eNo. In weak fields general relativity reproduces Newton's law, so the test\nis consistent with both — it checks the shared prediction, not one against the other.\u003c/p\u003e"
+    }
+  ]
+}

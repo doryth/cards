@@ -1,0 +1,100 @@
+{
+  "id": "card_798d26",
+  "slug": "spotting-ai-content",
+  "type": "concept",
+  "title": "Spotting AI-Made Content",
+  "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+  "key_points": [
+    "Image tells: odd hands, garbled text, too-perfect skin, weird backgrounds — but shrinking.",
+    "Text tells: bland, generic, oddly even tone; vague specifics; over-hedged phrasing.",
+    "AI-detector tools are unreliable — they miss fakes and falsely accuse real work.",
+    "Best defense: consider the source and seek confirmation, not surface clues."
+  ],
+  "content_html": "\u003cp\u003eAs AI-generated text and images flood in, a natural question follows: how do you tell what's real? There \u003cem\u003eare\u003c/em\u003e tells, and they're worth knowing. In images, look for mangled hands and fingers, garbled text on signs, eerily flawless skin, mismatched earrings or shadows, and backgrounds that melt into nonsense. In text, AI often reads bland and generic, with an oddly even, unopinionated tone, lots of hedging, confident-but-vague specifics, and a fondness for tidy lists and phrases like \u0026quot;it's important to note.\u0026quot; These clues can catch a lazy fake.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBut lean on them with caution, for two reasons. First, \u003cstrong\u003ethe tells are vanishing fast\u003c/strong\u003e — the hand problem is largely solved, image text is improving, and each model generation looks more natural, so anything you \u0026quot;learn to spot\u0026quot; today may be undetectable next year. Second, and more importantly, \u003cstrong\u003eautomated \u0026quot;AI detectors\u0026quot; don't work reliably.\u003c/strong\u003e They routinely miss real AI content and, worse, falsely flag genuine human writing — false accusations that have hurt students and professionals. Treat any detector's verdict as a weak hint, never proof. So the skill that actually lasts isn't forensic pixel-squinting; it's the same source-evaluation habit that protects against deepfakes and misinformation. Who published this, and do they have a track record? Is it confirmed anywhere independent, or is it a lone, emotionally charged item built to be shared? In a world where convincing fakes are cheap, \u003cem\u003ewhere something comes from\u003c/em\u003e is a far sturdier guide than \u003cem\u003ehow it looks\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "spotting-ai"
+  ],
+  "tags": [
+    "safety",
+    "tutorial"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aa1028",
+      "slug": "ai-images-and-art",
+      "type": "concept",
+      "title": "AI Images, Art \u0026 Video",
+      "hook": "Type a sentence, get a picture. Image generators learned the link between words and visuals from billions of captioned images — which is also why artists are raising hard questions.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82f0f6",
+      "slug": "ai-and-the-news",
+      "type": "concept",
+      "title": "AI \u0026 the News",
+      "hook": "AI now writes news, fakes whole 'outlets,' and powers the feed deciding what you see. Staying informed increasingly means knowing how the sausage is made — and who made it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7a965e",
+      "slug": "ai-creators-harder-to-spot",
+      "type": "news",
+      "title": "AI 'Creators' Are Getting Harder to Spot",
+      "hook": "AI influencers used to be easy to clock — too-smooth skin, an uncanny stare. The tells are vanishing, and fully synthetic 'creators' now slip into feeds without announcing themselves.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_798d26#0",
+      "format": "quiz",
+      "prompt": "How reliable are 'AI detector' tools?",
+      "choices": [
+        {
+          "text": "Unreliable — they miss real fakes and wrongly flag human work",
+          "correct": true
+        },
+        {
+          "text": "Perfectly accurate — they always catch AI content",
+          "correct": false
+        },
+        {
+          "text": "Reliable for images but not text",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDetectors are easily fooled and produce false accusations, which has harmed\nstudents and writers. Don't treat their verdict as proof either way.\u003c/p\u003e"
+    },
+    {
+      "id": "card_798d26#1",
+      "format": "flip",
+      "prompt": "What's the most durable way to judge if content is trustworthy?",
+      "back_html": "\u003cp\u003eEvaluate the source and look for independent confirmation — not surface\n'tells,' which keep disappearing as the technology improves.\u003c/p\u003e"
+    }
+  ]
+}

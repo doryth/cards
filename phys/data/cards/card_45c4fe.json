@@ -1,0 +1,133 @@
+{
+  "id": "card_45c4fe",
+  "slug": "e-equals-mc-squared",
+  "type": "concept",
+  "title": "E = mc²: Mass Is Energy",
+  "hook": "The most famous equation in physics says mass and energy are the same thing. Because the speed of light squared is a colossal number, a tiny bit of mass holds a staggering amount of energy.",
+  "key_points": [
+    "Mass and energy are two forms of one thing; mass can convert to energy and back.",
+    "The c² factor is enormous, so even a minuscule mass packs immense energy.",
+    "The Sun shines by turning a little of its mass into energy through fusion.",
+    "Nuclear power and weapons release this locked-in mass-energy."
+  ],
+  "content_html": "\u003cp\u003eIn 1905 Einstein drew a startling conclusion from his theory of relativity: mass and energy are not separate quantities but the same thing wearing different clothes. The equation E = mc² ties them together, with c the speed of light. Because c is about 300,000 kilometers per second, c² is an astronomically large number — which means a very small amount of mass is equivalent to an enormous amount of energy.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe practical upshot is everywhere. The Sun shines because, deep in its core, hydrogen fuses into helium and the helium weighs a touch less than the hydrogen that made it; that vanished mass streams out as sunlight. Nuclear reactors and weapons tap the same bank, converting a sliver of mass in heavy atoms into heat and radiation. Even an ordinary chemical fire converts a truly tiny bit of mass to energy, far too little to notice. The equation also runs the other way: smash particles together hard enough and their energy of motion can congeal into brand-new particles with real mass, which is what happens inside accelerators. Wikipedia lays out the equation's meaning and its many confirmations.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational",
+    "landmark"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_987298",
+      "slug": "special-relativity-basics",
+      "type": "concept",
+      "title": "Special Relativity, Gently",
+      "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3bf1e2",
+      "slug": "what-powers-the-sun",
+      "type": "concept",
+      "title": "What Powers the Sun",
+      "hook": "The Sun isn't burning like a fire — it's fusing hydrogen into helium in its core, and a sliver of mass turning into pure energy is what lights up our sky.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fea6ef",
+      "slug": "nuclear-fission",
+      "type": "concept",
+      "title": "Nuclear Fission",
+      "hook": "Split one heavy nucleus and it releases neutrons that split more — a chain reaction that, tamed, lights cities, and unleashed, levels them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d1ba32",
+      "slug": "nuclear-fusion",
+      "type": "concept",
+      "title": "Nuclear Fusion",
+      "hook": "The same reaction that powers every star — squeezing light nuclei together — could one day give Earth nearly limitless clean energy, if we can hold a sun in a box.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_987298",
+      "slug": "special-relativity-basics",
+      "type": "concept",
+      "title": "Special Relativity, Gently",
+      "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_45c4fe#0",
+      "format": "flip",
+      "prompt": "What does E = mc² actually claim about mass and energy?",
+      "back_html": "\u003cp\u003eThey're the \u003cstrong\u003esame thing\u003c/strong\u003e in two forms. Mass is a hugely concentrated store\nof energy, and a small mass can convert into a large amount of energy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_45c4fe#1",
+      "format": "quiz",
+      "prompt": "Why does a tiny amount of mass correspond to so much energy?",
+      "choices": [
+        {
+          "text": "The conversion factor is c², the speed of light squared — an enormous number",
+          "correct": true
+        },
+        {
+          "text": "Mass is multiplied by the object's temperature",
+          "correct": false
+        },
+        {
+          "text": "Energy grows with how heavy the object feels on Earth",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLight moves at about 300,000 km/s, so c² is gigantic. Multiplying even a\ngram of mass by it gives a vast energy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_45c4fe#2",
+      "format": "quiz",
+      "prompt": "How does E = mc² explain why the Sun shines?",
+      "choices": [
+        {
+          "text": "Fusion converts a small fraction of the Sun's mass into radiated energy",
+          "correct": true
+        },
+        {
+          "text": "The Sun burns hydrogen like a chemical fire",
+          "correct": false
+        },
+        {
+          "text": "Sunlight is stored mass slowly leaking out unchanged",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn the Sun's core, hydrogen fuses into helium; the products weigh slightly\nless than the ingredients, and that missing mass leaves as energy.\u003c/p\u003e"
+    }
+  ]
+}

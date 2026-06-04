@@ -1,0 +1,137 @@
+{
+  "id": "card_1d07ca",
+  "slug": "is-dark-energy-evolving",
+  "type": "paper",
+  "title": "Is Dark Energy Changing Over Time?",
+  "hook": "For decades dark energy looked like a constant. New galaxy-survey data hints it may evolve — and that would shift even our measured value of the cosmic expansion rate.",
+  "key_points": [
+    "Standard cosmology (ΛCDM) treats dark energy as a constant, unchanging energy of space.",
+    "DESI's baryon-acoustic-oscillation data show evidence that dark energy may instead evolve with time.",
+    "Turner and Huterer note this isn't just a far-off abstraction: it reshapes the local Hubble constant we infer.",
+    "Under DESI-preferred evolving models, the local H₀ can drop by up to ~2.5 km/s/Mpc versus ΛCDM.",
+    "It ties the 'evolving dark energy' question directly to the long-standing Hubble tension."
+  ],
+  "content_html": "\u003cp\u003eDark energy — the mysterious push driving the universe's accelerating expansion — has long been\nmodeled as a true constant: the same energy density everywhere, for all time. That assumption is\nbaked into ΛCDM, cosmology's standard model. But measurements of baryon acoustic oscillations\n(a faint, fixed-length ripple imprinted on the distribution of galaxies) by the Dark Energy\nSpectroscopic Instrument have turned up evidence that dark energy may actually evolve.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn this analysis, Michael Turner — who coined the term \u0026quot;dark energy\u0026quot; — and Dragan Huterer argue\nthe result is more than an abstract curiosity. They show that the Hubble constant we infer from\nlocal distance measurements depends on which dark-energy model we assume for the background\nuniverse. Plug in the time-varying models DESI's data prefer, and the inferred local expansion\nrate H₀ can fall by as much as ~2.5 km/s/Mpc compared with constant-dark-energy ΛCDM; tightening\nthe models with cosmic-microwave-background and supernova data shrinks that shift to about\n1 km/s/Mpc or less. The upshot, per the authors: the question of whether dark energy evolves is\ntangled up with the famous \u0026quot;Hubble tension\u0026quot; — the stubborn disagreement between early- and\nlate-universe measurements of how fast the cosmos is expanding.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Michael S. Turner",
+      "Dragan Huterer"
+    ],
+    "url": "https://arxiv.org/abs/2606.05358",
+    "published_at": "2026-06-03",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-08",
+  "date": "2026-06-03",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ab4608",
+      "slug": "the-fate-of-the-universe",
+      "type": "concept",
+      "title": "How Will the Universe End?",
+      "hook": "The universe began with a Big Bang — but how does the story end? With dark energy speeding up the expansion, the leading answer is a long, cold fade into darkness.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_402dc8",
+      "slug": "cosmic-acceleration-confirmed",
+      "type": "news",
+      "title": "Dark Energy Survives a Major Challenge",
+      "hook": "A bold claim said the universe's accelerating expansion was an illusion. Astronomers checked the math, found the mistakes — and cosmic acceleration came out as strong as ever.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_0ac579",
+      "slug": "hubble-tension",
+      "type": "paper",
+      "title": "The Hubble Tension: Cosmology's Stubborn Crisis",
+      "hook": "Two trustworthy ways of measuring how fast the universe expands keep disagreeing — and a decade of cross-checks has only hardened the gap into a genuine crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "card_2395b6",
+      "slug": "the-dark-dimension-hypothesis",
+      "type": "news",
+      "title": "Could a Hidden Dimension Link the Dark Sector?",
+      "hook": "Dark energy may be changing over time, and theorists wonder if dark matter is too. One speculative idea ties both mysteries to a single hidden extra dimension.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_9018a5",
+      "slug": "ai-model-sharpens-supernova-distances",
+      "type": "news",
+      "title": "An AI Framework Could Turn Millions of Exploding Stars Into a Dark Energy Map",
+      "hook": "A new AI framework models a supernova, its host galaxy, and the dust between them all at once — squeezing spectroscopic-grade distances out of ordinary images alone.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1d07ca#0",
+      "format": "quiz",
+      "prompt": "How does standard ΛCDM cosmology treat dark energy?",
+      "choices": [
+        {
+          "text": "As a constant energy of space that doesn't change over time",
+          "correct": true
+        },
+        {
+          "text": "As a force that grows stronger with every passing year by a fixed rule",
+          "correct": false
+        },
+        {
+          "text": "As ordinary matter that simply dilutes as space expands",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn ΛCDM, dark energy is the cosmological constant Λ — a fixed energy density of space. The new\nDESI-driven analyses test whether it instead evolves with time.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1d07ca#1",
+      "format": "flip",
+      "prompt": "Why do Turner and Huterer say evolving dark energy affects the measured Hubble constant?",
+      "back_html": "\u003cp\u003eThe value of H₀ inferred from local distances depends on the assumed background cosmology. Under\nDESI-preferred evolving-dark-energy models, the local H₀ can come out up to ~2.5 km/s/Mpc lower\nthan under ΛCDM — directly relevant to the Hubble tension.\u003c/p\u003e"
+    }
+  ]
+}

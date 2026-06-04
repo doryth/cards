@@ -1,0 +1,126 @@
+{
+  "id": "card_872551",
+  "slug": "why-vote-counts-shift",
+  "type": "blog",
+  "title": "Why Vote Counts Shift After Election Night",
+  "hook": "Watch a close race and the leader can flip in the days after polls close. The usual cause is boring — who votes by mail, and when those ballots get counted — not fraud.",
+  "key_points": [
+    "Vote totals often move for days after an election as mail and provisional ballots are counted — a normal feature of the process, not evidence of fraud.",
+    "The shift has a mundane cause: mail voters and in-person voters differ, and states count the two batches at different times.",
+    "When one method's votes are counted first, early returns lean one way, then swing as the other batch comes in — sometimes called the 'red mirage' or 'blue shift.'",
+    "Because the effect depends on state counting rules and voter habits, its size and direction vary from state to state and year to year.",
+    "Political scientist Andrew Busch argues these 'mirages' aren't fraud — but cautions that mail-ballot fraud, while rare, isn't a complete myth either."
+  ],
+  "content_html": "\u003cp\u003eIf you follow a close election, you may see the leader change in the days after polls close. It looks suspicious, but the usual explanation is dull: a state is simply working through ballots it hadn't finished counting on election night, and the mail-in pile often leans differently from the in-person one.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWriting in The Conversation, Andrew E. Busch — a professor of American civics at the University of Tennessee — explains that these post-election swings have a boring, structural cause. Voters who cast ballots by mail tend to differ from those who show up in person, and states count the two batches on different schedules: some tally in-person votes first and mail ballots later, others the reverse. So early returns can tilt toward whichever group was counted first, then move as the rest come in. When that late-counted batch breaks heavily one way, the apparent leader can flip — a pattern nicknamed the \u0026quot;red mirage\u0026quot; or \u0026quot;blue shift\u0026quot; depending on which party benefits. None of this is fraud; it is the visible result of counting rules working as designed. Busch's second point is a caution against overcorrecting: the fact that shifting counts aren't proof of fraud doesn't mean mail-ballot fraud never happens. It is rare and usually caught, but it isn't a complete myth, and treating every irregularity as impossible is its own kind of error. The takeaway is a general habit of mind — before reading intent into a shifting number, ask whether a mundane procedural explanation fits first. (This card describes U.S. election administration specifically; counting rules and timing vary by state.)\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Andrew E. Busch"
+    ],
+    "url": "https://theconversation.com/mail-ballot-mirages-arent-fraud-but-mail-ballot-fraud-isnt-a-complete-myth-285992",
+    "published_at": "2026-07-23",
+    "license": "© The Conversation (CC BY-ND)"
+  },
+  "topic_ids": [
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-23",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_4baecf",
+      "slug": "mail-ballot-grace-periods",
+      "type": "news",
+      "title": "Mail Ballot Grace Periods",
+      "hook": "A ballot mailed on Election Day can still arrive days later. Should it count? States disagree — and in 2026 the Supreme Court sided with the states that say yes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_a71308",
+      "slug": "trump-election-vulnerability-claims",
+      "type": "news",
+      "title": "Declassified Isn't the Same as New",
+      "hook": "A primetime address, declassified documents, and warnings of 'shocking vulnerabilities' in U.S. elections — but reviewers found the documents mostly repeated what officials already knew years ago.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_78d994",
+      "slug": "media-and-conspiracy-belief",
+      "type": "blog",
+      "title": "Media \u0026 Conspiracy Belief",
+      "hook": "Does what you watch shape what you believe? Researchers report that viewing one partisan cable outlet is associated with greater belief in a debunked conspiracy idea.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_872551#0",
+      "format": "flip",
+      "prompt": "Why do vote counts often shift in the days after an election?",
+      "back_html": "\u003cp\u003eStates finish counting mail and provisional ballots after election night,\nand mail voters often differ from in-person voters — so as the later batch\nis tallied, the totals move.\u003c/p\u003e"
+    },
+    {
+      "id": "card_872551#1",
+      "format": "quiz",
+      "prompt": "What causes the pattern nicknamed the 'red mirage' or 'blue shift'?",
+      "choices": [
+        {
+          "text": "Mail and in-person ballots are counted at different times, and the two groups tend to vote differently",
+          "correct": true
+        },
+        {
+          "text": "Election officials secretly changing votes overnight",
+          "correct": false
+        },
+        {
+          "text": "Voting machines randomly reassigning ballots between candidates",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen one method's votes are counted first, early returns lean that way and\nthen swing as the other batch — which leans differently — is counted.\u003c/p\u003e"
+    },
+    {
+      "id": "card_872551#2",
+      "format": "quiz",
+      "prompt": "What is Andrew Busch's two-part point about mail ballots?",
+      "choices": [
+        {
+          "text": "Shifting counts aren't fraud, but mail-ballot fraud — though rare — isn't a complete myth",
+          "correct": true
+        },
+        {
+          "text": "All mail-ballot fraud claims turn out to be proven true",
+          "correct": false
+        },
+        {
+          "text": "Mail ballots are never counted after election night",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHe argues the boring, structural cause explains most count shifts, while\ncautioning against assuming fraud is literally impossible.\u003c/p\u003e"
+    }
+  ]
+}

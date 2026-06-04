@@ -1,0 +1,132 @@
+{
+  "id": "card_16a3ee",
+  "slug": "ebola-outbreak-drc-therapy-trial",
+  "type": "news",
+  "title": "A Clinical Trial Races to Find an Ebola Treatment Mid-Outbreak",
+  "hook": "The Bundibugyo Ebola outbreak in the DRC has surged past 2,000 cases and 750 deaths — and 80% of new infections can't be traced to a known source, even as health workers strike over unpaid wages.",
+  "key_points": [
+    "The Ebola outbreak in the Democratic Republic of the Congo, caused by the Bundibugyo species, has reached 2,011 confirmed cases and 754 deaths — the fastest-growing outbreak on record.",
+    "At least 80% of new cases now stem from unknown transmission chains, and patient zero has never been identified, badly hampering containment.",
+    "Health workers at treatment centers have gone on strike over unpaid wages, with some reporting no pay since the outbreak began in May; over 100 healthcare workers have been infected during the response.",
+    "Unlike the more common Zaire strain, Bundibugyo has no approved vaccine, leaving a clinical trial testing remdesivir and the monoclonal antibody MBP-134 as the main hope for a proven treatment.",
+    "The WHO cautions that trial results won't come quickly — possibly not until sometime next year — and supply of MBP-134 remains constrained."
+  ],
+  "content_html": "\u003cp\u003eEbola has no fully approved treatment, and right now that gap matters more than usual: an outbreak of the Bundibugyo strain in the Democratic Republic of the Congo has surged past 2,000 confirmed cases and 750 deaths, making it the fastest-growing outbreak on record.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eContainment has grown harder, not easier: at least 80% of new cases now stem from unknown transmission chains, and health officials still haven't identified patient zero — complicated further by armed conflict and mining-related population movements that make contact tracing difficult. The response itself is under strain, too, with health workers at treatment centers striking over unpaid wages; some report receiving no compensation since the outbreak began in May, and more than 100 healthcare workers have been infected in the line of duty. Bundibugyo, unlike the more common Zaire strain, has no approved vaccine, which is why the clinical trial testing remdesivir, an antiviral, and MBP-134, a monoclonal antibody, alone and in combination, matters so much. But as STAT reports, nobody should expect a fast answer: the WHO's Vasee Moorthy cautioned that results will take months and could stretch into next year, and supply of MBP-134 remains constrained even as manufacturing ramps up.\u003c/p\u003e",
+  "source": {
+    "name": "STAT",
+    "url": "https://statnews.com/2026/07/06/health-news-race-for-an-ebola-therapy-begins",
+    "published_at": "2026-07-06",
+    "license": "© STAT"
+  },
+  "topic_ids": [
+    "microbiology",
+    "immune-system"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_d7cfdb",
+      "slug": "marburg-outbreak-uganda",
+      "type": "news",
+      "title": "A Second Deadly Virus Surfaces in Uganda's Ebola Zone",
+      "hook": "Uganda has confirmed Marburg virus cases in the same western region already fighting one of the largest Ebola outbreaks on record — two close viral relatives, at once, in one place.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_8510f0",
+      "slug": "viruses-living-or-not",
+      "type": "concept",
+      "title": "Are Viruses Alive?",
+      "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1976d",
+      "slug": "how-infections-spread",
+      "type": "concept",
+      "title": "How Infections Spread",
+      "hook": "Germs can't fly to a new host on their own — they hitch rides on coughs, hands, food, water, and insects. Break the ride, and you break the chain of infection.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_16a3ee#0",
+      "format": "flip",
+      "prompt": "What is the scale of the current Ebola outbreak driving this clinical trial?",
+      "back_html": "\u003cp\u003eCaused by the \u003cstrong\u003eBundibugyo species\u003c/strong\u003e of Ebola virus in the Democratic Republic\nof the Congo, it has surged to \u003cstrong\u003e2,011 confirmed cases and 754 deaths\u003c/strong\u003e,\nmaking it the fastest-growing outbreak on record.\u003c/p\u003e"
+    },
+    {
+      "id": "card_16a3ee#1",
+      "format": "quiz",
+      "prompt": "What two treatments is the new clinical trial testing?",
+      "choices": [
+        {
+          "text": "Remdesivir, an antiviral, and MBP-134, a monoclonal antibody — both alone and in combination",
+          "correct": true
+        },
+        {
+          "text": "Two different vaccines given before exposure",
+          "correct": false
+        },
+        {
+          "text": "A single new antiviral with no comparison treatment",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe trial tests remdesivir (an antiviral made by Gilead) and MBP-134 (a\nmonoclonal antibody made by MappBio), both individually and combined, to see\nwhich approach works best.\u003c/p\u003e"
+    },
+    {
+      "id": "card_16a3ee#2",
+      "format": "quiz",
+      "prompt": "What's making this outbreak especially hard to contain?",
+      "choices": [
+        {
+          "text": "At least 80% of new cases come from unknown transmission chains, and patient zero has never been identified",
+          "correct": true
+        },
+        {
+          "text": "The outbreak is confined to a single, easily-monitored village",
+          "correct": false
+        },
+        {
+          "text": "All cases have been traced back to one known source",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOfficials still haven't identified patient zero, and armed conflict and\npopulation movement in the region make contact tracing even harder — on top\nof health-worker strikes over unpaid wages disrupting the response itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_16a3ee#3",
+      "format": "quiz",
+      "prompt": "Why might it take a long time before an effective Ebola treatment is confirmed and available?",
+      "choices": [
+        {
+          "text": "Trial results are expected to take months or longer, and supply of one treatment is already constrained",
+          "correct": true
+        },
+        {
+          "text": "The outbreak is expected to end before the trial can be completed",
+          "correct": false
+        },
+        {
+          "text": "No treatments are being tested at all, only prevention measures",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe WHO has cautioned results could take months or stretch into next year, and\nproduction limits — especially for the monoclonal antibody MBP-134 — add\nfurther uncertainty about how fast a proven treatment could actually reach\npatients.\u003c/p\u003e"
+    }
+  ]
+}

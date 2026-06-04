@@ -1,0 +1,123 @@
+{
+  "id": "card_4baecf",
+  "slug": "mail-ballot-grace-periods",
+  "type": "news",
+  "title": "Mail Ballot Grace Periods",
+  "hook": "A ballot mailed on Election Day can still arrive days later. Should it count? States disagree — and in 2026 the Supreme Court sided with the states that say yes.",
+  "key_points": [
+    "Mail-in ballots raise a design question: does a ballot count if it's postmarked on time but arrives after Election Day?",
+    "A 'grace period' rule counts ballots postmarked by Election Day if received within a set window afterward (Mississippi's is five days).",
+    "Republican challengers argued federal law requires ballots to arrive by Election Day itself.",
+    "In June 2026 the Supreme Court, in Watson v. RNC, upheld Mississippi's grace-period law in an opinion by Justice Amy Coney Barrett.",
+    "Barrett's opinion leaned on history: mail voting for soldiers dates to the Civil War, and a 1986 federal law protecting overseas military ballots would make no sense if late-arriving-but-on-time-mailed votes couldn't count.",
+    "The ruling leaves states free to keep counting some late-arriving, but on-time-mailed, ballots."
+  ],
+  "content_html": "\u003cp\u003eVoting by mail solves one problem and creates another: it lets people vote without visiting a polling place, but it raises a timing question every state has to answer. If a ballot is mailed before Election Day yet the postal service doesn't deliver it until afterward, should it still count?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMississippi answers yes, within limits: a \u0026quot;grace period\u0026quot; law counts any ballot postmarked by Election Day as long as it arrives within five days after. Republican challengers argued that federal law setting a national Election Day requires ballots to arrive, not just be mailed, by that date — a reading that would invalidate grace-period laws in Mississippi and elsewhere. NPR's Ashley Lopez reports that the Supreme Court disagreed, upholding Mississippi's law in June 2026 in \u003cem\u003eWatson v. RNC\u003c/em\u003e; \u003ca href=\"https://scotusblog.com/2026/06/justices-uphold-state-law-allowing-for-late-arriving-mail-in-ballots\"\u003eSCOTUSblog\u003c/a\u003e confirmed the justices sided with the state over the objecting party. Justice Amy Coney Barrett's majority opinion reached back further than Mississippi's own law: mail voting for soldiers dates to the Civil War, and Congress has protected overseas military ballots by statute since 1942, most recently through the 1986 Uniformed and Overseas Citizens Absentee Voting Act. As legal scholar Jamie Rowen writes in \u003ca href=\"https://theconversation.com/military-voters-were-at-the-heart-of-the-supreme-courts-mail-in-ballot-decision-284930\"\u003eThe Conversation\u003c/a\u003e, Barrett's opinion reasoned that this 1986 law \u0026quot;would make no sense if states could not count ballots received after Election Day\u0026quot; — active-duty service members and their dependents routinely receive ballots late due to postal delays, and a strict Election Day cutoff would disenfranchise them. The dispute captures a real trade-off in election design: counting late-arriving-but-timely-mailed ballots protects voters from mail delays outside their control, but it also means final results can take longer to certify. (This card describes U.S. election administration specifically; grace-period rules and their length vary by state.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Ashley Lopez"
+    ],
+    "url": "https://npr.org/2026/06/29/nx-s1-5815312/supreme-court-mail-ballot-grace-period-ruling",
+    "published_at": "2026-06-29",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_474ad3",
+      "slug": "proof-of-citizenship-to-vote",
+      "type": "news",
+      "title": "Proof of Citizenship to Vote",
+      "hook": "Should you have to show a passport or birth certificate to register to vote? A fight in Congress over that single requirement reveals a deep tension in election design.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4baecf#0",
+      "format": "flip",
+      "prompt": "What is a mail-ballot 'grace period'?",
+      "back_html": "\u003cp\u003eA rule counting ballots postmarked by Election Day even if they arrive\nwithin a set window afterward — five days, in the Mississippi law the\nSupreme Court upheld in 2026.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4baecf#1",
+      "format": "quiz",
+      "prompt": "What did challengers argue federal law required for mail ballots?",
+      "choices": [
+        {
+          "text": "That ballots must arrive by Election Day itself, not just be mailed by then",
+          "correct": true
+        },
+        {
+          "text": "That mail voting should be banned nationwide",
+          "correct": false
+        },
+        {
+          "text": "That every state must use the same grace-period length",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThey argued \u0026quot;Election Day\u0026quot; means ballots must be received by that date,\nwhich would invalidate grace-period laws like Mississippi's.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4baecf#2",
+      "format": "quiz",
+      "prompt": "What trade-off do grace-period laws for mail ballots involve?",
+      "choices": [
+        {
+          "text": "Protecting voters from mail delays versus slower final result certification",
+          "correct": true
+        },
+        {
+          "text": "Paper ballots versus electronic voting machines",
+          "correct": false
+        },
+        {
+          "text": "In-person voting versus registering to vote at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCounting ballots that arrive a bit late protects voters from delivery\ndelays, but it can push back when results become final.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4baecf#3",
+      "format": "flip",
+      "prompt": "What historical practice did Justice Barrett's opinion in Watson v. RNC lean on?",
+      "back_html": "\u003cp\u003eMail voting for soldiers, dating to the Civil War, and a 1986 federal\nlaw protecting overseas military ballots — which would be pointless if\nlate-arriving, on-time-mailed ballots couldn't be counted.\u003c/p\u003e"
+    }
+  ]
+}

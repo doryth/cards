@@ -1,0 +1,109 @@
+{
+  "id": "card_d3f7a4",
+  "slug": "quantum-computer-simulates-magnon-spectra",
+  "type": "paper",
+  "title": "Precision Quantum Simulation of Magnon Spectra and Interactions",
+  "hook": "A 97-qubit quantum processor just simulated the spin-wave ripples inside a magnet more precisely than any classical computer can — a real step toward quantum computers helping discover new materials.",
+  "key_points": [
+    "A 97-qubit superconducting processor simulated magnons — spin-wave ripples in a 2D magnet.",
+    "Researchers excited individual magnons and measured how fast each one decayed.",
+    "Decay sped up near certain 'hot spots' in the material and slowed at its edges.",
+    "The team also measured magnon-magnon collisions, not just single ripples.",
+    "Classical computer simulations only matched this in small or very cold systems.",
+    "It's a concrete step toward quantum computers helping discover new materials."
+  ],
+  "content_html": "\u003cp\u003eAccording to a preprint from Google Quantum AI collaboration researchers on arXiv, a 97-qubit superconducting quantum processor has simulated magnons — the spin-wave quasi-particles that ripple through a magnet — with a precision that starts to outrun classical computers. By interleaving digital gates with carefully characterized analog evolution, the team could selectively excite individual magnons at chosen energies inside a 2D magnetic material, then track exactly how they behaved.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe researchers first measured the \u0026quot;linear\u0026quot; magnon response — the same kind of signal neutron-scattering experiments probe — and extracted how magnon lifetimes varied across the material's structure, finding decay sharply enhanced near special points called van Hove singularities and suppressed for modes trapped at the edges. They then went further, measuring magnons colliding and scattering off each other directly. Classical simulations using matrix-product states only reproduced these results in small systems or at low temperature, breaking down elsewhere — evidence that the quantum processor is capturing real many-body physics classical computers currently can't, a meaningful step toward quantum computers aiding materials discovery.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Trond I. Andersen",
+      "Nikita Astrakhantsev",
+      "Google Quantum AI collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2607.13301",
+    "published_at": "2026-07-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_e31194",
+      "slug": "magnons-quantum-computers-penny-sized",
+      "type": "news",
+      "title": "Tiny Magnetic Waves Could Shrink Quantum Computers to Coin Size",
+      "hook": "Magnons — quantum ripples of magnetism once too short-lived to use — just got a 100x lifespan boost, and the bottleneck turns out to be manufacturing, not physics.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d3f7a4#0",
+      "format": "flip",
+      "prompt": "What is a magnon, and how did this experiment create them?",
+      "back_html": "\u003cp\u003eA magnon is a spin-wave quasi-particle in a magnet. The team used a\n97-qubit superconducting processor to excite individual magnons at chosen energies.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d3f7a4#1",
+      "format": "quiz",
+      "prompt": "Where did magnons decay fastest across the material?",
+      "choices": [
+        {
+          "text": "Near 'van Hove singularities' — special points in the magnon spectrum",
+          "correct": true
+        },
+        {
+          "text": "Only inside the classical computer simulations",
+          "correct": false
+        },
+        {
+          "text": "Uniformly everywhere, with no variation at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMagnon decay was enhanced near van Hove singularities and suppressed for\nedge-localized modes — a spatial pattern the quantum simulation resolved precisely.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d3f7a4#2",
+      "format": "quiz",
+      "prompt": "Why does this count as a genuine quantum-simulation advantage?",
+      "choices": [
+        {
+          "text": "Classical matrix-product-state simulations only matched the results in small or cold systems",
+          "correct": true
+        },
+        {
+          "text": "The classical computer solved it faster than the quantum processor",
+          "correct": false
+        },
+        {
+          "text": "No comparison to any classical method was ever made",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eClassical MPS simulations became inaccurate outside small, cold systems, while\nthe 97-qubit processor stayed precise — a real edge for understanding real quasi-particle physics.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "card_b56025",
+  "slug": "how-immunity-works",
+  "type": "concept",
+  "title": "How Immunity Works",
+  "hook": "Your body fights invaders on two fronts: a fast, general first response that hits anything foreign, and a slower, custom-built defense that learns and remembers each specific enemy.",
+  "key_points": [
+    "The immune system defends the body against pathogens like bacteria, viruses, and other invaders.",
+    "Innate immunity is fast and general — it attacks anything recognized as foreign.",
+    "Adaptive immunity is slower but specific, targeting particular pathogens and remembering them.",
+    "White blood cells do the fighting; some make antibodies — proteins that lock onto and flag invaders."
+  ],
+  "content_html": "\u003cp\u003eYour immune system is the body's defense network, constantly watching for pathogens — the bacteria, viruses, and other invaders that can make you sick. It works on two levels: a fast general-purpose response and a slower, smarter one that learns. Together they catch most threats before you even notice.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe first level, innate immunity, is your rapid reaction force: barriers like skin, plus cells that attack anything they recognize as foreign, no questions asked. The second level, adaptive immunity, takes days to ramp up but is precise — specialized white blood cells learn the exact identity of a specific pathogen, attack it, and produce antibodies, proteins that latch onto that invader and mark it for destruction. Crucially, the adaptive system remembers: after an infection it keeps memory cells, so the next encounter is faster and stronger. NIH's MedlinePlus overview of the immune system describes how these layers cooperate to keep you healthy.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/immunesystemanddisorders.html",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "immune-system"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a9a451",
+      "slug": "vaccines",
+      "type": "concept",
+      "title": "Vaccines",
+      "hook": "A vaccine is a training session for your immune system — it learns to beat a dangerous pathogen using a harmless preview, so the real fight is already half-won.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1976d",
+      "slug": "how-infections-spread",
+      "type": "concept",
+      "title": "How Infections Spread",
+      "hook": "Germs can't fly to a new host on their own — they hitch rides on coughs, hands, food, water, and insects. Break the ride, and you break the chain of infection.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b56025#0",
+      "format": "quiz",
+      "prompt": "What's the key difference between innate and adaptive immunity?",
+      "choices": [
+        {
+          "text": "Innate is fast and general; adaptive is slower, specific, and remembers",
+          "correct": true
+        },
+        {
+          "text": "Innate fights viruses only; adaptive fights bacteria only",
+          "correct": false
+        },
+        {
+          "text": "Innate works in children; adaptive only develops in adults",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInnate immunity is your quick, broad first line of defense. Adaptive immunity\ntakes longer to gear up but targets specific pathogens and remembers them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b56025#1",
+      "format": "flip",
+      "prompt": "What are antibodies, and what do they do?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eAntibodies\u003c/strong\u003e are proteins made by certain white blood cells. They lock onto\na specific invader, flagging it for destruction and helping neutralize it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b56025#2",
+      "format": "quiz",
+      "prompt": "Which cells do most of the immune system's fighting?",
+      "choices": [
+        {
+          "text": "White blood cells",
+          "correct": true
+        },
+        {
+          "text": "Red blood cells",
+          "correct": false
+        },
+        {
+          "text": "Nerve cells",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhite blood cells patrol the body, attack invaders directly, and produce\nantibodies. Red blood cells carry oxygen and aren't part of the defense.\u003c/p\u003e"
+    }
+  ]
+}

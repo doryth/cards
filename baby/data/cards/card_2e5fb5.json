@@ -1,0 +1,92 @@
+{
+  "id": "card_2e5fb5",
+  "slug": "folic-acid-before-and-during",
+  "type": "concept",
+  "title": "Folic Acid Before and During Pregnancy",
+  "hook": "Taking folic acid before conception and in early pregnancy is one of the best-evidenced ways to lower the risk of serious birth defects of the brain and spine.",
+  "key_points": [
+    "Folic acid helps prevent neural tube defects like spina bifida, which form very early — often before you know you're pregnant.",
+    "Public-health bodies commonly recommend 400 micrograms daily for those who could become pregnant, starting before conception.",
+    "Because the neural tube closes in the first weeks, starting early (ideally pre-pregnancy) matters more than starting late.",
+    "Some people need a higher dose on medical advice; your clinician can tell you if that applies to you."
+  ],
+  "content_html": "\u003cp\u003eFolic acid is a B vitamin, and getting enough of it around conception is one of the most strongly supported pieces of pregnancy advice there is. It helps the baby's neural tube — which becomes the brain and spinal cord — close properly, reducing the risk of defects such as spina bifida.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch is timing: the neural tube closes in the first few weeks of pregnancy, frequently before someone realizes they've conceived. That's why bodies like the CDC recommend that anyone who could become pregnant take 400 micrograms of folic acid daily, starting before conception rather than after a positive test. A minority of people are advised to take a higher dose for medical reasons — that's a conversation for your own clinician. This is general educational information, not personal medical advice.\u003c/p\u003e",
+  "source": {
+    "name": "CDC",
+    "url": "https://www.cdc.gov/folic-acid/about/index.html",
+    "license": "Public domain (U.S. Government)"
+  },
+  "topic_ids": [
+    "pregnancy",
+    "feeding"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a30e0a",
+      "slug": "prenatal-care-visits",
+      "type": "concept",
+      "title": "Why Prenatal Visits Matter",
+      "hook": "Regular checkups during pregnancy catch problems early — for many a typical schedule is monthly, then every two weeks, then weekly as the due date nears.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2e5fb5#0",
+      "format": "quiz",
+      "prompt": "What is folic acid mainly recommended to help prevent?",
+      "choices": [
+        {
+          "text": "Neural tube defects such as spina bifida",
+          "correct": true
+        },
+        {
+          "text": "Morning sickness",
+          "correct": false
+        },
+        {
+          "text": "Stretch marks",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFolic acid supports early closure of the neural tube. The CDC recommends\n400 mcg daily for those who could become pregnant.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2e5fb5#1",
+      "format": "flip",
+      "prompt": "Why is it best to start folic acid before conception?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eneural tube closes in the first few weeks\u003c/strong\u003e of pregnancy — often\nbefore you know you're pregnant — so starting early gives the most benefit.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2e5fb5#2",
+      "format": "quiz",
+      "prompt": "What daily amount of folic acid is commonly recommended for people who could become pregnant?",
+      "choices": [
+        {
+          "text": "400 micrograms",
+          "correct": true
+        },
+        {
+          "text": "4 grams",
+          "correct": false
+        },
+        {
+          "text": "None unless a deficiency is diagnosed",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e400 mcg daily is the standard public-health recommendation; some people\nneed more on a clinician's advice.\u003c/p\u003e"
+    }
+  ]
+}

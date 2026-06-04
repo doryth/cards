@@ -1,0 +1,94 @@
+{
+  "id": "card_dc48f5",
+  "slug": "vibe-coding-security-risks",
+  "type": "news",
+  "title": "The Hidden Risk of Vibe-Coded Apps",
+  "hook": "Anyone can now describe an app and have AI build it — but the AI can quietly leave the doors unlocked. One builder ran his live site for months before noticing a gaping security hole.",
+  "key_points": [
+    "'Vibe coding' lets non-programmers build working apps by describing them to AI — code they can't fully read.",
+    "The Verge reports a builder ran his live site for months before finding a hidden SQL-injection flaw.",
+    "SQL injection lets attackers read, change, or wreck a site's database through ordinary input fields.",
+    "AI writes plausible-looking code, but plausible isn't secure — and a non-coder can't spot the gap.",
+    "Lesson: anything you vibe-code that handles real data or users deserves a security check."
+  ],
+  "content_html": "\u003cp\u003eAI has made it possible to build a working app without knowing how to code — you describe what you want, and a chatbot writes it. The Verge tells the story of a builder who vibe-coded a website and put it online right away, only to discover months later that it carried a hidden \u0026quot;SQL injection\u0026quot; vulnerability — a flaw that can let an attacker reach straight into a site's database.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch with vibe coding is that the AI's code looks finished and runs fine, so there's nothing to tip off a non-programmer that something's wrong underneath. SQL injection is a classic example: if a site doesn't carefully handle what users type into its forms, an attacker can sneak in database commands and read, change, or delete data. A professional developer would normally check for this; someone who just asked an AI to \u0026quot;build me a site\u0026quot; usually doesn't know to look. None of this means vibe coding is useless — it's genuinely powerful for prototypes and personal projects. But the moment your app touches real user data, payments, or anything you'd be upset to lose, it's worth having someone (or a security tool) review what the AI actually wrote. The convenience is real; so is the responsibility that comes with shipping software.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Yael Grauer"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+    "published_at": "2026-06-22",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-making",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-25",
+  "date": "2026-06-22",
+  "related": [
+    {
+      "id": "card_4e9253",
+      "slug": "ai-for-non-coders",
+      "type": "concept",
+      "title": "Making Things Without Code",
+      "hook": "Describe an app, a website, or a little tool in plain English, and AI will write the code and build a first version. 'Vibe coding' lets non-programmers make software — within limits.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d29646",
+      "slug": "hype-or-real",
+      "type": "concept",
+      "title": "Hype or Real?",
+      "hook": "AI coverage swings between 'this changes everything' and 'it's all a bubble.' The truth is usually in between — and a few questions help you judge any big AI claim for yourself.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_dc48f5#0",
+      "format": "quiz",
+      "prompt": "Why can a 'vibe-coded' app be risky even when it runs perfectly?",
+      "choices": [
+        {
+          "text": "AI-written code can hide security flaws a non-coder can't see, like SQL injection",
+          "correct": true
+        },
+        {
+          "text": "Apps built by AI never connect to the internet",
+          "correct": false
+        },
+        {
+          "text": "AI code always refuses to handle user data",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe code looks finished and runs fine, so nothing tips off a non-programmer that\nsomething's wrong underneath — exactly how the hidden SQL-injection flaw slipped through.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dc48f5#1",
+      "format": "flip",
+      "prompt": "What is SQL injection, in plain terms?",
+      "back_html": "\u003cp\u003eA flaw where an attacker slips database commands into ordinary input fields,\nletting them read, change, or delete a site's data.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dc48f5#2",
+      "format": "flip",
+      "prompt": "When should vibe-coded software get a security review?",
+      "back_html": "\u003cp\u003eWhenever it touches real user data, payments, or anything you'd hate to lose —\nhave a person or a security tool check what the AI actually wrote.\u003c/p\u003e"
+    }
+  ]
+}

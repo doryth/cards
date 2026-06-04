@@ -1,0 +1,121 @@
+{
+  "id": "card_c16f42",
+  "slug": "disinformation-and-propaganda",
+  "type": "concept",
+  "title": "Disinformation \u0026 Propaganda",
+  "hook": "Democracy depends on citizens being informed — so deliberately polluting what they know is a direct attack on it. That's the threat of propaganda and disinformation.",
+  "key_points": [
+    "Propaganda is information shaped to push an agenda, often by appealing to emotion over reason.",
+    "Disinformation is false content spread deliberately to deceive; misinformation is false but unwitting.",
+    "Both can distort the shared facts democratic debate depends on.",
+    "Defenses include a free press, fact-checking, media literacy, and transparency about sources."
+  ],
+  "content_html": "\u003cp\u003eDemocracy runs on an assumption that is easy to overlook: that citizens can make reasonably informed choices, which requires a reasonably shared and accurate picture of reality. Propaganda and disinformation attack that assumption directly, which is why they are a political problem and not merely a media one. Propaganda is information deliberately shaped to advance a particular cause or agenda — not necessarily false, but selective, slanted, and typically engineered to move people through emotion, fear, or group loyalty rather than reasoned judgment. It is as old as politics itself.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt is worth keeping two related terms distinct. Disinformation is false or misleading content spread \u003cem\u003edeliberately\u003c/em\u003e in order to deceive — a knowing lie with a purpose. Misinformation is false content spread \u003cem\u003ewithout\u003c/em\u003e that intent, by people who believe it or pass it on carelessly; the falsehood is the same, but the intent differs. Encyclopaedia Britannica notes that propaganda techniques have always evolved with communication technology, and the modern information environment — social media, algorithmic amplification, and the ease of producing convincing fakes — has made deceptive content faster and cheaper to spread than ever. The danger is corrosive rather than always dramatic: a steady erosion of the shared factual ground on which debate, compromise, and accountability depend, leaving citizens unsure what to believe and more easily divided. The defenses mirror the threat. A strong, independent free press, fact-checking, transparency about who is behind a message, and widespread media literacy — the skill of evaluating sources critically — are the main tools for keeping the information citizens rely on trustworthy. Notably, the deliberate spread of disinformation and the capture of media are common features of democratic backsliding, which is why a healthy information ecosystem is treated as part of the infrastructure of democracy itself.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/propaganda",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "media-civil-society"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b3bd44",
+      "slug": "free-press-and-democracy",
+      "type": "concept",
+      "title": "The Free Press \u0026 Democracy",
+      "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0d397a",
+      "slug": "public-opinion-and-polling",
+      "type": "concept",
+      "title": "Public Opinion \u0026 Polling",
+      "hook": "What 'the people' think shapes what governments do — but measuring it is trickier than it looks, and a bad poll can mislead as easily as a good one informs.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e455ef",
+      "slug": "democratic-backsliding",
+      "type": "concept",
+      "title": "Democratic Backsliding",
+      "hook": "Democracies rarely die in a single coup anymore. More often they erode — legally, gradually, step by step — until little is left but the shell of elections.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c16f42#0",
+      "format": "flip",
+      "prompt": "What is the difference between disinformation and misinformation?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eDisinformation\u003c/strong\u003e is false content spread \u003cem\u003edeliberately\u003c/em\u003e to deceive;\n\u003cstrong\u003emisinformation\u003c/strong\u003e is false content spread \u003cem\u003eunwittingly\u003c/em\u003e, without intent\nto mislead.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c16f42#1",
+      "format": "quiz",
+      "prompt": "What is propaganda?",
+      "choices": [
+        {
+          "text": "Information shaped to push an agenda, often appealing to emotion over reason",
+          "correct": true
+        },
+        {
+          "text": "Any information that happens to be true",
+          "correct": false
+        },
+        {
+          "text": "A neutral government statistics report",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePropaganda is designed to persuade toward a particular cause, frequently\nby stirring emotion rather than informing judgment.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c16f42#2",
+      "format": "quiz",
+      "prompt": "Why do disinformation and propaganda threaten democracy specifically?",
+      "choices": [
+        {
+          "text": "Democratic debate depends on shared facts, which they deliberately pollute",
+          "correct": true
+        },
+        {
+          "text": "They make elections happen too frequently",
+          "correct": false
+        },
+        {
+          "text": "They have no effect on public decisions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIf citizens can't agree on basic facts, the informed debate and choice\nthat democracy relies on breaks down.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "card_cbfbeb",
+  "slug": "meta-glasses-detection-apps",
+  "type": "news",
+  "title": "Apps That Spot Camera Glasses — Imperfectly",
+  "hook": "As Meta's AI glasses get more capable, a wave of free apps promises to tell you when someone nearby is wearing a pair. Ars found they don't reliably work.",
+  "key_points": [
+    "Ars Technica looked at Zuckoff, one of several free apps that try to detect Meta's AI glasses nearby.",
+    "The apps exist because of a privacy backlash: recording can look identical to just wearing glasses.",
+    "Detection is not reliable — Ars reports these apps aren't perfect, so a 'clear' result proves nothing.",
+    "Meta is reportedly making the glasses more capable, which raises the stakes of not knowing.",
+    "Practical takeaway: assume you may be recorded in public rather than trusting a detector app."
+  ],
+  "content_html": "\u003cp\u003eMeta's camera-and-AI glasses look almost exactly like normal eyewear, which is precisely the privacy problem: there's no obvious moment when recording starts. A small industry of free detector apps — Ars Technica's August 2026 piece looks at one called Zuckoff — has sprung up to fill that gap, promising to warn you when a pair is nearby.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch, per Ars, is that these apps aren't perfect. A detector that stays quiet doesn't prove nobody is recording you, so treating it as an all-clear is worse than not using it at all. Meanwhile Meta is reportedly making the glasses more capable, which only widens the gap between what the hardware can do and what bystanders can tell. The durable habit is the old one: in public, assume a camera. Read the full report at Ars Technica.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect",
+    "published_at": "2026-08-21",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cbfbeb#0",
+      "format": "flip",
+      "prompt": "Why did apps like Zuckoff appear?",
+      "back_html": "\u003cp\u003eBecause AI camera glasses look like ordinary glasses, people can't tell when\nthey're being recorded — so apps try to detect the glasses nearby.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cbfbeb#1",
+      "format": "quiz",
+      "prompt": "According to Ars, how much should you trust a glasses-detector app that reports nothing nearby?",
+      "choices": [
+        {
+          "text": "Not much — the apps aren't reliable, so a clear result doesn't mean you're unrecorded",
+          "correct": true
+        },
+        {
+          "text": "Completely — the detection is based on a certified standard",
+          "correct": false
+        },
+        {
+          "text": "Only outdoors, where the signal is stronger",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eArs found the detection apps aren't perfect. The safer habit is to assume you\nmay be recorded in public rather than relying on a detector.\u003c/p\u003e"
+    }
+  ]
+}

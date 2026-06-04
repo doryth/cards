@@ -1,0 +1,121 @@
+{
+  "id": "card_80bcaa",
+  "slug": "scale-up-or-scale-out-quantum",
+  "type": "paper",
+  "title": "Quantum Computers Face the Scale-Up vs Scale-Out Choice",
+  "hook": "Datacentres learned to scale out by networking many machines. For quantum processors that choice costs dearly — a stress test finds distributed designs pay up to an exponential space-time penalty.",
+  "key_points": [
+    "Fabrication yield and chip size cap how big a single superconducting processor can be, forcing modular designs.",
+    "Scaling up means chiplets: dense connectivity and high gate fidelity, at the cost of engineering complexity.",
+    "Scaling out means networked processors: easier to grow, but sparser connectivity and worse interconnects.",
+    "The authors stress-test both with dense random logical entangling operations under a surface code scheme.",
+    "Distributed architectures paid up to an exponential space-time penalty versus an effectively monolithic one.",
+    "Two failure regimes appear: noise-dominated (poor Bell-state fidelity or rate) and connectivity-dominated (lattice-surgery routing congestion)."
+  ],
+  "content_html": "\u003cp\u003eClassical computing settled this argument decades ago: when one machine is not enough, you network many. Scale out, not up. Quantum computing is now at the same fork, and for the same reason — fabrication yield and sheer physical footprint cap how many qubits fit on one superconducting die. The two candidate answers are chiplets, which keep everything close together with dense connectivity and good gates, and distributed architectures, which link separate processors by quantum interconnects.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNikiforos Paraskevopoulos and colleagues built a quantitative stress test to compare them: a dense workload of random logical entangling operations, compiled onto a surface code scheme, with the space-time cost measured as the number of network nodes grows. They swept surface code distances, Bell-state fidelities, and Bell-pair generation times.\u003c/p\u003e\n\u003cp\u003eThe verdict is uncomfortable for the scale-out camp. Across all their simulations, distributed architectures incurred up to an exponential space-time penalty relative to an effectively monolithic machine — and the penalty arrives in two distinct forms. First a noise-dominated regime, where Bell-state fidelity and generation rate are simply not good enough to feed the error-corrected logic. Then, once the network is large, a connectivity-dominated regime where lattice-surgery routing congests: the logical operations cannot find paths through the sparse graph fast enough. The quantum interconnect, in other words, is not a solved engineering detail you can assume away.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Nikiforos Paraskevopoulos",
+      "Sebastian de Bone",
+      "Mick Christophersen",
+      "Simon Storz",
+      "A. Mert Bozkurt",
+      "Arno Bargerbos",
+      "Sebastian Feld"
+    ],
+    "url": "https://arxiv.org/abs/2608.20462",
+    "published_at": "2026-08-20",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper",
+    "architecture",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-24",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_5d200f",
+      "slug": "quantum-computers-have-six-degrees-of-separation",
+      "type": "paper",
+      "title": "A Quantum Computer's States Form a Small World",
+      "hook": "Map the states of a quantum register as a social network and you get the same structure as human society — most states about nine handshakes apart, with a sudden tipping point into chaos.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "card_80786e",
+      "slug": "neutral-atom-quantum-roadmap",
+      "type": "paper",
+      "title": "The Neutral-Atom Roadmap to a Useful Quantum Computer",
+      "hook": "Fifty-plus researchers from the atom-array world lay out what it would actually take to get practical quantum advantage — and how you'd prove you had it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_083e80",
+      "slug": "the-race-to-build-a-qubit",
+      "type": "news",
+      "title": "Nobody Knows Which Qubit Wins",
+      "hook": "Superconducting circuits, trapped ions, neutral atoms, spins in silicon — no one yet knows which will power real quantum computers, and the uncertainty is producing spectacular machinery.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "card_b6cd84",
+      "slug": "ai-scientist-designs-error-correcting-codes",
+      "type": "paper",
+      "title": "An AI That Invents Quantum Error-Correcting Codes",
+      "hook": "Designing a good quantum code means balancing code structure, hardware layout, syndrome extraction and decoding at once. An LLM-driven search now beats the standard codes at equal qubit budgets.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-28"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_80bcaa#0",
+      "format": "flip",
+      "prompt": "Why can't you just build one enormous superconducting quantum chip?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eFabrication yield\u003c/strong\u003e and physical footprint. The more qubits on a single die, the likelier\na defect ruins it — which is what pushes designers toward modular architectures.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80bcaa#1",
+      "format": "quiz",
+      "prompt": "The paper identifies two distinct regimes where distributed architectures lose. What are they?",
+      "choices": [
+        {
+          "text": "A noise-dominated regime limited by Bell-state fidelity and generation rate, and a connectivity-dominated regime bottlenecked by lattice-surgery routing congestion",
+          "correct": true
+        },
+        {
+          "text": "A cooling-dominated regime and a control-electronics-dominated regime",
+          "correct": false
+        },
+        {
+          "text": "A compilation regime and a measurement regime",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFirst the links are too noisy or too slow; then, once the network is large, routing logical\noperations through it congests even with good links.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80bcaa#2",
+      "format": "flip",
+      "prompt": "What is the trade-off between chiplet-based and distributed scaling?",
+      "back_html": "\u003cp\u003eChiplets keep \u003cstrong\u003edense connectivity and high gate fidelity\u003c/strong\u003e but are hard to engineer;\ndistributed systems grow easily but suffer \u003cstrong\u003esparser connectivity and poorer interconnects\u003c/strong\u003e.\u003c/p\u003e"
+    }
+  ]
+}

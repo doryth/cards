@@ -1,0 +1,107 @@
+{
+  "id": "card_c0391a",
+  "slug": "whats-after-the-transformer",
+  "type": "news",
+  "title": "The Startups Trying to Replace the Design Behind Every LLM",
+  "hook": "Every big chatbot rests on one 2017 idea — the transformer — and its core trick gets brutally expensive as text gets longer. A wave of startups is betting the next leap comes from replacing it.",
+  "key_points": [
+    "Transformers read text by comparing every word to every other word, so cost explodes as documents grow.",
+    "MIT Technology Review's figure: a 10,000-word document takes on the order of 50 million multiplications.",
+    "Subquadratic and Manifest AI keep attention but trim it — skipping unimportant words, or keeping a rolling summary.",
+    "Liquid AI mixes transformers with brain-inspired 'liquid' networks small enough to run on a $50 Raspberry Pi.",
+    "Inception generates whole sentences at once using diffusion, the technique behind AI image tools.",
+    "Pathway drops attention entirely; its Dragon Hatchling model solved 97% of 250,000 sudoku puzzles that leading LLMs flunked."
+  ],
+  "content_html": "\u003cp\u003eAlmost every chatbot you've used descends from a single 2017 Google paper, \u0026quot;Attention Is All You Need,\u0026quot; which introduced the transformer. Nine years on, MIT Technology Review reports, a crop of startups thinks that design has become the bottleneck — and is trying to build the thing that comes next.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe problem is the transformer's signature move. To understand a passage, it compares every word with every other word — the step called attention. That's why these models are so good at holding a long thread together, and also why the arithmetic balloons: MIT Technology Review puts a 10,000-word document at something like 50 million multiplications. Hence the electricity bills and the ceilings on how much text a model can hold at once.\u003c/p\u003e\n\u003cp\u003eThe alternatives split roughly four ways. Subquadratic (Miami) and Manifest AI (San Francisco) keep attention but make it cheaper — the former's SubQ works out on the fly which words matter, while the latter's \u0026quot;power retention\u0026quot; keeps a rolling summary instead of tracking everything, an approach it has shipped in models called PowerCoder and Brumby. Liquid AI (Cambridge) goes small, blending a minority of transformer layers with networks inspired by worm brains, small enough for a $50 Raspberry Pi. Inception (Palo Alto) borrows diffusion from AI image generators to write a whole sentence at once instead of word by word; CEO Stefano Ermon claims its Mercury 2 matches GPT-4's quality about ten times faster. And Pathway (Palo Alto) abandons attention for different math in a model called Dragon Hatchling, reporting 97% success on 250,000 sudoku puzzles that leading LLMs couldn't crack — a hint that some reasoning may not want to be squeezed through language at all. These are company claims, not independent benchmarks, and the transformer has shrugged off challengers before. But the direction of travel is worth knowing: the assistants of a few years from now may not be transformers underneath.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Will Douglas Heaven"
+    ],
+    "url": "https://technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms",
+    "published_at": "2026-08-10",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-history",
+    "ai-news"
+  ],
+  "tags": [
+    "architecture",
+    "attention",
+    "efficiency",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-10",
+  "related": [
+    {
+      "id": "card_804dae",
+      "slug": "short-history-of-ai",
+      "type": "concept",
+      "title": "A Short History of AI",
+      "hook": "AI isn't new — it's a 70-year-old idea that kept overpromising and stalling. What changed recently wasn't a new dream but enough data and computing power to finally deliver.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dcc196",
+      "slug": "how-llms-work",
+      "type": "concept",
+      "title": "How a Language Model Works",
+      "hook": "A chatbot isn't reading and thinking — it's running the world's most sophisticated autocomplete, picking each next word from probabilities learned across billions of sentences.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_969523",
+      "slug": "ai-energy-and-water",
+      "type": "concept",
+      "title": "AI's Energy \u0026 Water",
+      "hook": "Every chatbot reply runs in a warehouse of power-hungry computers somewhere. AI's convenience has a real physical footprint — in electricity, water for cooling, and carbon.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c0391a#0",
+      "format": "quiz",
+      "prompt": "Why does a transformer get so expensive as the text it reads gets longer?",
+      "choices": [
+        {
+          "text": "It compares every word to every other word, so the work grows much faster than the text",
+          "correct": true
+        },
+        {
+          "text": "It has to download more data from the internet for each extra word",
+          "correct": false
+        },
+        {
+          "text": "Longer text needs a bigger screen to display, which costs more",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThat all-pairs comparison is the \u0026quot;attention\u0026quot; step. MIT Technology Review's example:\na 10,000-word document takes on the order of 50 million multiplications.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c0391a#1",
+      "format": "flip",
+      "prompt": "Name two different escape routes startups are taking from standard attention.",
+      "back_html": "\u003cp\u003eTrim it — skip words that don't matter (Subquadratic) or keep a rolling summary\ninstead of everything (Manifest AI). Or leave it behind — generate whole sentences\nat once with diffusion (Inception), or swap attention for other math (Pathway).\u003c/p\u003e"
+    },
+    {
+      "id": "card_c0391a#2",
+      "format": "flip",
+      "prompt": "Why does anyone care about an LLM that runs on a $50 Raspberry Pi?",
+      "back_html": "\u003cp\u003eSmall, efficient models can run on cheap local hardware instead of a giant data\ncenter — that's Liquid AI's pitch for its transformer/liquid-network hybrid.\u003c/p\u003e"
+    }
+  ]
+}

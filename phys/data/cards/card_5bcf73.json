@@ -1,0 +1,100 @@
+{
+  "id": "card_5bcf73",
+  "slug": "graphene-wrinkles-charge-separation",
+  "type": "news",
+  "title": "Wrinkling Graphene Turns It Into an Electrical Device",
+  "hook": "Crumple a sheet of carbon one atom thick and its electrons rearrange. Sharp wrinkles in graphene produce surprisingly strong charge separation — no change of material required.",
+  "key_points": [
+    "Graphene is a one-atom-thick sheet of carbon whose electronic behaviour is normally set by its flat, symmetric lattice.",
+    "Researchers found that tiny, sharply curved wrinkles dramatically alter that behaviour.",
+    "The curved regions produce unexpectedly strong charge separation — one side of the bend ends up with more charge than the other.",
+    "The effect comes from geometry, not composition: same atoms, different shape, different electronics.",
+    "That hints at electronics tuned by reshaping a material at the atomic scale instead of doping or swapping elements."
+  ],
+  "content_html": "\u003cp\u003eGraphene is carbon one atom thick, and almost everything textbook about its electronics assumes it lies flat: a perfectly symmetric honeycomb lattice with no preferred direction. Real sheets are not that tidy. Work reported by ScienceDaily finds that where graphene develops tiny, sharply curved wrinkles, its electrical behaviour changes dramatically, with the curved regions showing surprisingly strong charge separation.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe interesting part is what is doing the work. Normally you tune a material's electronics by changing what it is — doping it, alloying it, stacking it with something else. Here the atoms are identical on both sides of the wrinkle; only the shape differs, and that asymmetry is enough to push charge to one side. Physicists call this general family of effects strain-gradient response: a uniform stretch does little, but a sharp bend, where strain varies steeply across a few atoms, breaks the symmetry that kept the charge evenly spread. The practical hook is that geometry becomes a design parameter, so future devices might be programmed by how a sheet is folded rather than by what it is made from. See the release for the measurement details.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260815064801.htm",
+    "published_at": "2026-08-16",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "electricity-magnetism"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-16",
+  "related": [
+    {
+      "id": "card_07a017",
+      "slug": "metal-film-thickness-controls-electrons",
+      "type": "news",
+      "title": "A Few Atoms Thinner, a Whole New Metal",
+      "hook": "Shave a metal film by just a couple of nanometers and its electronic behavior can change dramatically — a surprising new dial for tuning materials.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "card_b123c0",
+      "slug": "semiconductors-and-transistors",
+      "type": "concept",
+      "title": "Semiconductors and the Transistor",
+      "hook": "The entire digital world rests on a tiny switch with no moving parts. The transistor — made from carefully tuned silicon — is the on/off building block behind every chip.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5fb13c",
+      "slug": "light-controlled-magnetism-2d-materials",
+      "type": "news",
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "hook": "In materials just atoms thick, light doesn't just illuminate anymore — it can directly flip magnetic behavior, a step toward memory and quantum devices run purely on light.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5bcf73#0",
+      "format": "quiz",
+      "prompt": "What causes the strong charge separation reported in wrinkled graphene?",
+      "choices": [
+        {
+          "text": "The sharp curvature of the wrinkles — geometry rather than a change of composition",
+          "correct": true
+        },
+        {
+          "text": "Doping the sheet with a second element at the wrinkle sites",
+          "correct": false
+        },
+        {
+          "text": "Heating the sheet until carbon atoms rearrange into a new lattice",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNothing about the material changes. Bending the sheet sharply is enough on its own to\nredistribute charge across the curved region.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5bcf73#1",
+      "format": "flip",
+      "prompt": "Why would engineers care that shape alone can change graphene's electrical behaviour?",
+      "back_html": "\u003cp\u003eIt offers a second knob besides chemistry: a device could be tuned by \u003cstrong\u003ereshaping\u003c/strong\u003e a\nmaterial at the atomic scale instead of changing what it is made of.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5bcf73#2",
+      "format": "flip",
+      "prompt": "What is graphene, and why is its flatness relevant here?",
+      "back_html": "\u003cp\u003eA sheet of carbon \u003cstrong\u003eone atom thick\u003c/strong\u003e. Its usual electronic properties come from that flat,\nsymmetric lattice — so breaking the flatness with wrinkles is what shifts the behaviour.\u003c/p\u003e"
+    }
+  ]
+}

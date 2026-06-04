@@ -1,0 +1,101 @@
+{
+  "id": "card_2e441b",
+  "slug": "doppler-effect",
+  "type": "concept",
+  "title": "The Doppler Effect",
+  "hook": "A siren drops in pitch the instant it passes you. Move toward a wave source and its waves bunch up higher; move apart and they stretch out lower.",
+  "key_points": [
+    "Motion toward a wave source bunches waves up — higher frequency and pitch.",
+    "Motion away stretches waves out — lower frequency and pitch.",
+    "It's why a passing siren or race car shifts from high to low pitch.",
+    "The same shift in light (red/blueshift) reveals how stars and galaxies move."
+  ],
+  "content_html": "\u003cp\u003eYou've heard it a hundred times: a siren or a race car screams toward you at a high pitch, then suddenly sags to a lower one the moment it passes. That's the Doppler effect. When a wave source moves toward you, each new wave is emitted a little closer than the last, so the waves arrive bunched together — a higher frequency, which your ear hears as higher pitch. Moving away, the waves spread out and the pitch drops.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe same idea works for light, not just sound. A light source moving away has its waves stretched toward the red end of the spectrum (redshift), while one approaching is shifted toward blue. Because the size of the shift depends on how fast something moves toward or away from us, astronomers read these shifts to clock the motion of stars and entire galaxies. Wikipedia's article on the Doppler effect covers both the everyday sound version and its use across astronomy.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Doppler_effect",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "waves-sound"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_eefe71",
+      "slug": "what-is-a-wave",
+      "type": "concept",
+      "title": "What Is a Wave?",
+      "hook": "A wave moves energy from place to place without moving the stuff it travels through — the water bobs, but the wave races on.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a621bf",
+      "slug": "sound-waves",
+      "type": "concept",
+      "title": "Sound Waves",
+      "hook": "Sound is just air being squeezed and stretched — which is also why there's no sound in the vacuum of space.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2e441b#0",
+      "format": "flip",
+      "prompt": "What happens to the pitch of a sound as its source moves toward you, then away?",
+      "back_html": "\u003cp\u003eApproaching, the waves bunch up so the pitch is \u003cstrong\u003ehigher\u003c/strong\u003e; receding, they\nstretch out so the pitch is \u003cstrong\u003elower\u003c/strong\u003e. The drop as it passes is the Doppler\neffect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2e441b#1",
+      "format": "quiz",
+      "prompt": "Why does a passing ambulance siren seem to drop in pitch?",
+      "choices": [
+        {
+          "text": "As it passes, the sound waves go from bunched (high pitch) to stretched (low pitch)",
+          "correct": true
+        },
+        {
+          "text": "The siren physically lowers its tone as it drives",
+          "correct": false
+        },
+        {
+          "text": "Sound slows down once the ambulance is behind you",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eComing toward you the waves are compressed to a higher pitch; once it's\nmoving away they're stretched to a lower pitch, so you hear the drop.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2e441b#2",
+      "format": "quiz",
+      "prompt": "How do astronomers use the Doppler effect on light?",
+      "choices": [
+        {
+          "text": "Red/blueshift in a star's light reveals whether it moves toward or away from us",
+          "correct": true
+        },
+        {
+          "text": "It lets them measure a star's exact temperature",
+          "correct": false
+        },
+        {
+          "text": "It tells them what a star is made of and nothing else",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLight from a receding source shifts toward red, an approaching one toward\nblue, so the shift encodes the motion along our line of sight.\u003c/p\u003e"
+    }
+  ]
+}

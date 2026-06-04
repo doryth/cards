@@ -1,0 +1,110 @@
+{
+  "id": "card_bbd034",
+  "slug": "spacetime-crystal-collapses-to-black-hole",
+  "type": "news",
+  "title": "A 'Spacetime Crystal' That Can Tip Into a Black Hole",
+  "hook": "Physicists have mathematically captured a structure that sits on a knife edge: nudge its energy slightly and it either evaporates away or collapses into a microscopic black hole.",
+  "key_points": [
+    "The object is a 'spacetime crystal' - a configuration with a repeating structure in spacetime rather than only in space.",
+    "A tiny change in its energy flips its fate: it either dissolves or collapses into a microscopic black hole.",
+    "The breakthrough came from an unusual mathematical trick involving infinitely many dimensions.",
+    "The result gives a controlled model system for studying primordial and microscopic black holes.",
+    "Such black holes are hard to study because they cannot be made in a lab, so tractable mathematics is the main handle available."
+  ],
+  "content_html": "\u003cp\u003eBlack holes normally form when something massive runs out of ways to hold itself up and collapses. Primordial black holes are a different proposition: hypothetical relics from the dense first moments of the universe, small enough that no stellar process could make them. They are a live candidate for part of dark matter, and almost impossible to study directly — nobody can produce one to look at.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePhysicists reported in August 2026 that they have mathematically captured a \u0026quot;spacetime crystal\u0026quot;: a configuration with a repeating pattern in spacetime itself, not just in space, that turns out to be exquisitely unstable. Change its energy by a tiny amount and it takes one of two divergent paths — dissolving away entirely, or collapsing into a microscopic black hole. There is no gentle intermediate.\u003c/p\u003e\n\u003cp\u003eThe route to solving it was unusual: the researchers worked in a limit of infinitely many dimensions, a trick that often turns an intractable problem into a manageable one before the answer is carried back to the real case. What it buys them is a controlled system in which the collapse to a microscopic black hole is something you can follow analytically rather than guess at. For a class of object that exists so far only in theory, having a solvable model to sharpen intuition on is the useful part.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260829035225.htm",
+    "published_at": "2026-08-30",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "modern-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-30",
+  "related": [
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_551cf7",
+      "slug": "black-holes-older-than-the-big-bang",
+      "type": "news",
+      "title": "Black Holes That Predate the Big Bang",
+      "hook": "If our universe expanded out of an earlier contracting one rather than from nothing, black holes could have survived the handover — cosmic fossils that might also be the dark matter.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_548bd7",
+      "slug": "black-hole-evaporation-exact-4d-solution",
+      "type": "paper",
+      "title": "The First Exact Picture of a Black Hole Evaporating in Our Universe",
+      "hook": "Physicists have finally worked out, in exact mathematical form, how a real 3D black hole's geometry evolves as it evaporates — previously solved only in toy 2D universes.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_3c0997",
+      "slug": "ligo-signal-primordial-black-holes-dark-matter",
+      "type": "news",
+      "title": "Could This Odd LIGO Signal Be the Missing Dark Matter?",
+      "hook": "An unusual gravitational-wave signal has revived a long-shot idea: that primordial black holes born moments after the Big Bang could be the universe's missing dark matter.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bbd034#0",
+      "format": "flip",
+      "prompt": "What does it mean for the spacetime crystal to sit on a knife edge?",
+      "back_html": "\u003cp\u003eA tiny change in its energy determines two completely different outcomes: the structure\neither dissolves away, or collapses into a microscopic black hole. There is no gentle\nmiddle behavior.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bbd034#1",
+      "format": "quiz",
+      "prompt": "Why is a tractable mathematical model useful for microscopic black holes?",
+      "choices": [
+        {
+          "text": "They cannot be created or observed in a laboratory, so mathematics is the main way to study them",
+          "correct": true
+        },
+        {
+          "text": "Microscopic black holes are routinely produced at particle colliders and need modeling",
+          "correct": false
+        },
+        {
+          "text": "They are so large that telescopes cannot fit them in a single field of view",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePrimordial and microscopic black holes are hypothesized relics of the early universe, far\nbeyond what any experiment can make. Exactly solvable models are how theorists get\nquantitative traction on them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bbd034#2",
+      "format": "flip",
+      "prompt": "What is a primordial black hole?",
+      "back_html": "\u003cp\u003eA black hole thought to have formed from density fluctuations in the very early universe,\nrather than from a collapsing star — which allows masses far smaller than any stellar\nblack hole.\u003c/p\u003e"
+    }
+  ]
+}

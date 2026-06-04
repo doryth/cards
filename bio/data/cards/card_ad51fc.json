@@ -1,0 +1,119 @@
+{
+  "id": "card_ad51fc",
+  "slug": "symbiosis",
+  "type": "concept",
+  "title": "Symbiosis",
+  "hook": "Living things rarely go it alone. From gut microbes to coral reefs, species often share their lives — sometimes helping, sometimes harming, their partners.",
+  "key_points": [
+    "Symbiosis is a close, long-term relationship between two different species.",
+    "Mutualism benefits both partners; commensalism helps one without affecting the other.",
+    "Parasitism benefits one partner at the expense of the other.",
+    "These relationships shape ecosystems and have driven major evolutionary change."
+  ],
+  "content_html": "\u003cp\u003eNo organism lives in total isolation, and some species are so entangled that their lives literally overlap. Symbiosis is the term for a close, long-term relationship between two different species. Biologists sort these partnerships by who comes out ahead. In mutualism, both partners benefit — think of bees and flowers, or the bacteria in your gut that help you digest food. In commensalism, one species gains while the other is essentially unaffected, like barnacles hitching a ride on a whale. In parasitism, one species profits at the other's expense, as a tick does feeding on a deer.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThese relationships are everywhere and they do real ecological work, knitting communities together and stabilizing the flow of energy and nutrients. Coral reefs exist because corals house photosynthetic algae that feed them in exchange for shelter; lichens are a fungus and an alga living as one. Symbiosis can also be an engine of evolution: the most dramatic example is the ancient merger that gave eukaryotic cells their mitochondria. As Encyclopaedia Britannica notes, the boundaries between mutualism, commensalism, and parasitism aren't always sharp — a partner that helps in one situation may harm in another, and relationships can shift over evolutionary time.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/symbiosis",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "ecology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a13f41",
+      "slug": "ecosystems-and-interdependence",
+      "type": "concept",
+      "title": "Ecosystems \u0026 Interdependence",
+      "hook": "An ecosystem is a community of living things plus their environment, all so tangled together that pulling one thread can shake the whole web.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_05f960",
+      "slug": "food-chains-and-webs",
+      "type": "concept",
+      "title": "Food Chains \u0026 Energy Flow",
+      "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6980cd",
+      "slug": "endosymbiosis",
+      "type": "concept",
+      "title": "Endosymbiosis",
+      "hook": "Your cells run on power plants that were once free-living bacteria. Billions of years ago, one cell swallowed another — and never let go.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_477e5d",
+      "slug": "mycorrhizal-networks",
+      "type": "news",
+      "title": "The Fungal Internet Under Your Feet",
+      "hook": "Scientists made the first global map of the underground fungal networks that feed most plants on Earth — a living web that quietly helps lock carbon into the soil.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-15"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ad51fc#0",
+      "format": "flip",
+      "prompt": "What are the three main types of symbiosis?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eMutualism\u003c/strong\u003e (both partners benefit), \u003cstrong\u003ecommensalism\u003c/strong\u003e (one benefits, the other is\nunaffected), and \u003cstrong\u003eparasitism\u003c/strong\u003e (one benefits at the other's expense).\u003c/p\u003e"
+    },
+    {
+      "id": "card_ad51fc#1",
+      "format": "quiz",
+      "prompt": "A bee gets nectar while pollinating a flower, helping the plant reproduce. What is this?",
+      "choices": [
+        {
+          "text": "Mutualism — both species benefit",
+          "correct": true
+        },
+        {
+          "text": "Parasitism — the bee harms the flower",
+          "correct": false
+        },
+        {
+          "text": "Commensalism — only the bee benefits",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth win: the bee gets food and the flower gets its pollen carried to other flowers.\nThat mutual payoff makes it mutualism.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ad51fc#2",
+      "format": "quiz",
+      "prompt": "In parasitism, who benefits?",
+      "choices": [
+        {
+          "text": "One partner benefits while the other is harmed",
+          "correct": true
+        },
+        {
+          "text": "Both partners benefit equally",
+          "correct": false
+        },
+        {
+          "text": "Neither partner is affected",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA parasite, like a tapeworm or tick, gains nutrients or shelter at the direct expense\nof its host's health.\u003c/p\u003e"
+    }
+  ]
+}

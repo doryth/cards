@@ -1,0 +1,139 @@
+{
+  "id": "card_73bb1c",
+  "slug": "paying-for-a-factory-that-made-nothing",
+  "type": "news",
+  "title": "The $533 Million Factory That Made Nothing",
+  "hook": "Government pays for defense capacity as it is built, not after it works. When the plant never produces, the taxpayer has already footed the bill.",
+  "key_points": [
+    "ProPublica reports taxpayers funded a $533 million artillery plant, built with General Dynamics, that produced nothing.",
+    "Defense contracts often reimburse costs and progress rather than delivered output, so money moves before results do.",
+    "Sole-source and urgent-need procurement weakens the main discipline on contractors: the threat of losing the work.",
+    "Because capacity projects are strategic, cancelling one is politically costly even when it is failing.",
+    "Accountability then depends on audit and journalism after the fact, not on competition during the contract."
+  ],
+  "content_html": "\u003cp\u003ePublic procurement fails in a specific, repeatable way, and defense manufacturing shows it most starkly: the government often pays for capacity as it is created rather than for output once it exists. ProPublica's Jesse Coburn reports that taxpayers funded a $533 million artillery plant, built with General Dynamics, that made nothing. The striking part is not that a large project ran into trouble — large industrial projects often do — but that the financial risk of the trouble sat with the public rather than the builder.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThree features tend to combine in cases like this. First, contract structure: reimbursing costs and construction milestones means money flows against effort, so a plant can be fully paid for before anyone learns whether it can produce. Second, weak competitive discipline. When a capability is urgent and only one or two firms can supply it, the ordinary sanction for poor performance — losing the next contract — loses its force, and the government negotiates from a position of dependence. Third, sunk-cost politics: a strategic capacity project acquires defenders in the legislature and the supply chain, so cancelling a failing one is more painful than continuing it. What remains is after-the-fact accountability — inspectors general, audits, and reporting like this — which can document waste but rarely recovers the money. The reform ideas that follow from this diagnosis are unglamorous and consistent across governments: tie payment to demonstrated output, keep at least a second qualified supplier alive, and require public reporting of milestones so failure is visible while it is still cheap to stop.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Jesse Coburn"
+    ],
+    "url": "https://propublica.org/article/general-dynamics-artillery-factory-failed",
+    "published_at": "2026-08-12",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption",
+    "public-policy-economy"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_89ecd5",
+      "slug": "regulatory-capture",
+      "type": "news",
+      "title": "Regulatory Capture",
+      "hook": "Who protects a city's drinking water when the industry that put it at risk is also the one the regulator was built to serve? That's the problem political scientists call regulatory capture.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6efae9",
+      "slug": "taxation-and-public-budgets",
+      "type": "concept",
+      "title": "Taxation \u0026 Public Budgets",
+      "hook": "A government's budget is its values written in numbers — and taxation is how it raises the money to act at all. Follow the money to understand the priorities.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9f5912",
+      "slug": "rural-broadband-subsidy-waste-adak",
+      "type": "news",
+      "title": "The Internet Subsidy Program Paying to Wire Empty Buildings",
+      "hook": "Phone customers nationwide pay over $340,000 a year to keep a nearly-abandoned Alaska island 'wired' for slow internet — while the few people who actually live there just use Starlink.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-20"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_73bb1c#0",
+      "format": "flip",
+      "prompt": "Why can a defense contractor be paid in full for a plant that produces nothing?",
+      "back_html": "\u003cp\u003eMany contracts reimburse costs and construction progress rather than\ndelivered output, so payment tracks effort — not results.\u003c/p\u003e"
+    },
+    {
+      "id": "card_73bb1c#1",
+      "format": "quiz",
+      "prompt": "What did ProPublica report about the artillery plant?",
+      "choices": [
+        {
+          "text": "Taxpayers funded a $533 million plant that made nothing",
+          "correct": true
+        },
+        {
+          "text": "The plant produced ammunition at twice the expected cost",
+          "correct": false
+        },
+        {
+          "text": "The contract was cancelled before construction began",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProPublica's Jesse Coburn reported the $533 million publicly funded plant\nproduced no output at all.\u003c/p\u003e"
+    },
+    {
+      "id": "card_73bb1c#2",
+      "format": "quiz",
+      "prompt": "Why does urgent, sole-source procurement weaken accountability?",
+      "choices": [
+        {
+          "text": "Without a competitor waiting, the threat of losing the work — the main discipline on a contractor — disappears",
+          "correct": true
+        },
+        {
+          "text": "It exempts contractors from all federal law",
+          "correct": false
+        },
+        {
+          "text": "It shifts all financial risk onto the contractor",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCompetition is what usually punishes poor performance. When there is only\none supplier and an urgent need, the government has little leverage left.\u003c/p\u003e"
+    }
+  ]
+}

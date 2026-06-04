@@ -1,0 +1,131 @@
+{
+  "id": "card_1aa51c",
+  "slug": "carbon-capture-and-climate-policy",
+  "type": "news",
+  "title": "Can Carbon Capture Solve Climate Change?",
+  "hook": "What if we could keep burning fossil fuels and just vacuum the carbon back out? That promise is seductive, politically powerful — and, a major investigation argues, a mirage.",
+  "key_points": [
+    "Carbon capture and storage (CCS) traps CO2 from smokestacks or air and stores it underground.",
+    "It is appealing because it promises emission cuts without giving up fossil fuels.",
+    "A 2026 ProPublica investigation argues CCS cannot conceivably scale enough to solve climate change.",
+    "Critics say overselling it can delay the harder work of actually cutting emissions.",
+    "Which climate solutions get emphasized is itself political — shaped by who profits from the status quo."
+  ],
+  "content_html": "\u003cp\u003eClimate policy keeps colliding with an uncomfortable trade-off: cutting emissions means using less of the fossil fuels that power much of the economy. \u003cstrong\u003eCarbon capture and storage (CCS)\u003c/strong\u003e seems to dissolve that trade-off. The idea is to trap carbon dioxide — either at the smokestack where it is produced or directly from the air — and lock it away underground, so the fuel can keep flowing while the carbon does not reach the atmosphere.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat promise is why CCS is politically attractive across the spectrum. But a 2026 ProPublica investigation argues the appeal outruns the reality: by its analysis, carbon capture cannot conceivably scale to the level needed to solve climate change, and treating it as a primary solution risks delaying the harder, more certain work of cutting emissions at the source. The deeper civic lesson is about the politics of solutions, not just the chemistry. As the reporting stresses, \u003cem\u003ewhich\u003c/em\u003e responses get spotlighted is itself a political question — interests that profit from continued fossil-fuel use have reason to champion fixes that let the status quo continue. Carbon capture may yet play a real role for emissions that are genuinely hard to eliminate; the argument is against mistaking a partial tool for a cure. Evaluating any climate policy, then, means asking not only whether it works in a lab but who benefits from how prominently it is sold.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Katie Worth",
+      "Lucas Waldron",
+      "Amy Westervelt",
+      "Maddie Stone"
+    ],
+    "url": "https://projects.propublica.org/why-carbon-capture-cant-solve-climate-change",
+    "published_at": "2026-06-25",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "environment-and-politics",
+    "public-policy-economy"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-29",
+  "date": "2026-06-25",
+  "related": [
+    {
+      "id": "card_9466c4",
+      "slug": "politics-of-climate-change",
+      "type": "concept",
+      "title": "The Politics of Climate Change",
+      "hook": "Climate change is a global commons problem at the largest scale — which is exactly why it's so politically hard: the costs are now, local, and certain; the benefits, future and shared.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3fb211",
+      "slug": "tragedy-of-the-commons",
+      "type": "concept",
+      "title": "The Tragedy of the Commons",
+      "hook": "When everyone shares a resource but no one owns it, each person's rational choice can add up to collective ruin. That trap explains a huge slice of environmental politics.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bb70fb",
+      "slug": "environmental-governance",
+      "type": "concept",
+      "title": "Environmental Governance",
+      "hook": "How do you regulate something that ignores borders and belongs to no one? Environmental governance is the toolkit societies use to manage nature collectively.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_9466c4",
+      "slug": "politics-of-climate-change",
+      "type": "concept",
+      "title": "The Politics of Climate Change",
+      "hook": "Climate change is a global commons problem at the largest scale — which is exactly why it's so politically hard: the costs are now, local, and certain; the benefits, future and shared.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_1aa51c#0",
+      "format": "flip",
+      "prompt": "What is carbon capture and storage (CCS)?",
+      "back_html": "\u003cp\u003eTechnology that traps CO2 from smokestacks or the air and stores it\nunderground — promising emission cuts without abandoning fossil fuels.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1aa51c#1",
+      "format": "quiz",
+      "prompt": "Why do critics warn against overselling carbon capture as a climate fix?",
+      "choices": [
+        {
+          "text": "It can delay the harder work of actually cutting emissions",
+          "correct": true
+        },
+        {
+          "text": "It is illegal in most countries",
+          "correct": false
+        },
+        {
+          "text": "It physically cannot capture any carbon at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe worry is political, not just technical: if CCS is sold as a cure, it\ncan justify continued fossil-fuel use instead of reducing emissions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1aa51c#2",
+      "format": "quiz",
+      "prompt": "What broader political point does the ProPublica investigation make about climate solutions?",
+      "choices": [
+        {
+          "text": "Which solutions get emphasized is shaped by who profits from the status quo",
+          "correct": true
+        },
+        {
+          "text": "Climate change has no possible technological responses",
+          "correct": false
+        },
+        {
+          "text": "Only governments, never companies, influence climate policy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe piece frames solution choice as political: actors with a stake in\nfossil fuels have reason to promote fixes that let them keep operating.\u003c/p\u003e"
+    }
+  ]
+}

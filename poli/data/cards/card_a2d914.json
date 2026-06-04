@@ -1,0 +1,129 @@
+{
+  "id": "card_a2d914",
+  "slug": "election-assistance-commission-independence",
+  "type": "news",
+  "title": "What the Election Assistance Commission Does — and Why Its Independence Matters",
+  "hook": "A little-known federal commission certifies voting machines and helps run U.S. elections. In 2026 the president removed its last sitting members, months before the midterms.",
+  "key_points": [
+    "The U.S. Election Assistance Commission (EAC) was created after the 2000 Florida recount to help states run elections and to test and certify voting equipment.",
+    "By design it's bipartisan: up to four commissioners, no more than two from one party, meant to insulate election administration from any single party's control.",
+    "In July 2026 the president removed the commission's remaining members, leaving it without its statutory leadership ahead of the midterms.",
+    "Election administration is otherwise run by the states — the EAC has no power to run elections itself, only to set voluntary standards and support local officials.",
+    "The episode raises the same question as other fights over independent agencies: how much protection from at-will removal can a body Congress designed as bipartisan actually keep?"
+  ],
+  "content_html": "\u003cp\u003eMost voters have never heard of the U.S. Election Assistance Commission, and that's by design — it doesn't run elections. Congress created it after the chaotic 2000 Florida recount to do something narrower but important: test and certify voting machines, and give state and local election officials federal money and technical support. To keep it out of partisan hands, the law caps it at four commissioners with no more than two from either party.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn July 2026, President Trump removed the commission's remaining members, according to reporting from ProPublica's Jen Fifield and NPR's Benjamin Swasey — leaving the EAC without its statutory leadership just months before the midterms, a move Democrats and voting-rights advocates condemned. The move doesn't change who runs elections day to day — that job stays with the states — but it does test how much insulation a body Congress designed to be genuinely bipartisan can hold onto, a version of the same removal-power question playing out across other independent agencies. One of the three, Benjamin Hovland, later \u003ca href=\"https://npr.org/2026/07/13/nx-s1-5891002/former-member-of-federal-election-assistance-commission-speaks-out-after-dismissal\"\u003espoke publicly with NPR\u003c/a\u003e about the dismissal — a rare on-record account from inside a commission that usually operates far from the spotlight. (This card describes the U.S. Election Assistance Commission specifically; election administration varies by country.)\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Jen Fifield"
+    ],
+    "url": "https://propublica.org/article/federal-election-assistance-commission-trump-dismantled",
+    "published_at": "2026-07-10",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption",
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_5b1dff",
+      "slug": "presidential-removal-power",
+      "type": "news",
+      "title": "Can the President Fire the Heads of Independent Agencies?",
+      "hook": "For 91 years, a 1935 precedent shielded independent agency heads from being fired at a president's will. In 2026 the Supreme Court swept most of that shield away.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5b1dff",
+      "slug": "presidential-removal-power",
+      "type": "news",
+      "title": "Can the President Fire the Heads of Independent Agencies?",
+      "hook": "For 91 years, a 1935 precedent shielded independent agency heads from being fired at a president's will. In 2026 the Supreme Court swept most of that shield away.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a2d914#0",
+      "format": "flip",
+      "prompt": "What is the U.S. Election Assistance Commission, and why was it built to be bipartisan?",
+      "back_html": "\u003cp\u003eA federal body created after the 2000 Florida recount to set voluntary\nvoting-system standards and support local election officials. It's\ncapped at no more than two commissioners from one party, so election\nadministration isn't controlled by a single party.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a2d914#1",
+      "format": "quiz",
+      "prompt": "What happened to the EAC in July 2026?",
+      "choices": [
+        {
+          "text": "The president removed its remaining commissioners, leaving it without statutory leadership before the midterms",
+          "correct": true
+        },
+        {
+          "text": "Congress voted to abolish it entirely",
+          "correct": false
+        },
+        {
+          "text": "It was given direct authority to run state elections",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNPR and ProPublica both reported the president removed the commission's\nlast sitting members, though the agency itself continues to exist.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a2d914#2",
+      "format": "quiz",
+      "prompt": "Who actually runs U.S. elections day-to-day?",
+      "choices": [
+        {
+          "text": "State and local election officials — the EAC only sets voluntary standards and offers support",
+          "correct": true
+        },
+        {
+          "text": "The Election Assistance Commission directly",
+          "correct": false
+        },
+        {
+          "text": "The Department of Justice",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe EAC has no operational power over elections; the U.S. system is\ndeliberately decentralized, run state by state.\u003c/p\u003e"
+    }
+  ]
+}

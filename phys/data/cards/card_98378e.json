@@ -1,0 +1,98 @@
+{
+  "id": "card_98378e",
+  "slug": "nanoconfined-water-is-just-under-pressure",
+  "type": "news",
+  "title": "The 'Weird' Water in Nanopores Isn't So Weird — It's Just Squeezed",
+  "hook": "For decades, water trapped in nanoscale pores seemed unusually reactive. It turns out the real driver isn't confinement magic — it's the crushing pressure that builds up inside.",
+  "key_points": [
+    "Water confined in nanoscale spaces has long seemed chemically more reactive than bulk water.",
+    "New research finds nanoconfined water isn't inherently more reactive on its own.",
+    "Most of the effect comes from intense pressure that builds up inside such tiny gaps.",
+    "The surrounding material can further boost reactivity if it interacts with reaction products."
+  ],
+  "content_html": "\u003cp\u003eSqueeze water into a pore just a few nanometers wide and something strange seems to happen: it starts reacting more readily than water out in the open. Chemists have puzzled over why for decades, often pointing to some mysterious property of confinement itself.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNew research reported by ScienceDaily finds a simpler culprit: pressure. Cramming water into a nanoscale gap generates intense internal pressure, and that pressure — not some special confined-water chemistry — accounts for most of the boosted reactivity. The surrounding material can add an extra assist if it happens to interact with whatever the reaction produces, but the core effect is straightforward physics: squeeze a fluid hard enough, in a small enough space, and its behavior changes.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260626124706.htm",
+    "published_at": "2026-07-01",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "fluids-pressure"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-06",
+  "date": "2026-07-01",
+  "related": [
+    {
+      "id": "card_7de888",
+      "slug": "what-is-pressure",
+      "type": "concept",
+      "title": "What Is Pressure?",
+      "hook": "Pressure is force spread over an area. Concentrate the same push on a tiny spot and it skyrockets — which is why a sharp knife cuts and a thumbtack pierces.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_52d8f2",
+      "slug": "heat-transfer",
+      "type": "concept",
+      "title": "Three Ways Heat Moves",
+      "hook": "Heat travels three ways: conduction through contact, convection by circulating fluid, and radiation across empty space. Most warming you feel mixes all three.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_095eee",
+      "slug": "radiative-heat-at-the-nanoscale",
+      "type": "news",
+      "title": "Heat Radiation Breaks Its Own Speed Limit",
+      "hook": "Textbooks cap how much heat two surfaces can radiate at each other. Squeeze the gap to a few nanometers and that limit shatters — researchers saw up to 4x more heat flow.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_98378e#0",
+      "format": "flip",
+      "prompt": "Why did nanoconfined water seem more chemically reactive than normal water?",
+      "back_html": "\u003cp\u003eChemists long assumed something special about \u003cstrong\u003econfinement itself\u003c/strong\u003e\nchanged water's chemistry.\u003c/p\u003e"
+    },
+    {
+      "id": "card_98378e#1",
+      "format": "quiz",
+      "prompt": "What does new research say actually drives the extra reactivity of nanoconfined water?",
+      "choices": [
+        {
+          "text": "The intense pressure that builds up inside the tiny confined space",
+          "correct": true
+        },
+        {
+          "text": "A change in water's molecular formula",
+          "correct": false
+        },
+        {
+          "text": "The complete absence of oxygen in the pore",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePressure explains most of the effect — the study found no evidence of a\ndifferent molecular formula or oxygen loss driving the reactivity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_98378e#2",
+      "format": "flip",
+      "prompt": "Can the surrounding pore material also affect the reaction?",
+      "back_html": "\u003cp\u003eYes — it can further enhance reactivity, but only if it interacts with the\nreaction's own products. Pressure remains the main driver.\u003c/p\u003e"
+    }
+  ]
+}

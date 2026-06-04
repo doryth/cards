@@ -1,0 +1,66 @@
+{
+  "id": "card_2f60c7",
+  "slug": "ai-on-your-laptop-gemma",
+  "type": "news",
+  "title": "Capable AI Is Moving Onto Your Laptop",
+  "hook": "Google's new Gemma 4 12B is built to run on any laptop with 16GB of RAM — a sign that useful AI is shifting off the cloud and onto ordinary personal devices.",
+  "key_points": [
+    "Google released Gemma 4 12B, an open AI model sized for personal computers.",
+    "It's designed to run on any laptop with 16GB of RAM — no data center needed.",
+    "It uses a new encoding scheme and token prediction to 'punch above its weight.'",
+    "Running locally can mean more privacy and offline use, since data stays on your device."
+  ],
+  "content_html": "\u003cp\u003eOn June 3, 2026, Ars Technica reported that Google released Gemma 4 12B, a new open AI model designed to run on any laptop with 16GB of RAM. The headline idea is simple but meaningful: you don't need a giant data center to run it. According to the report, the model uses a new encoding scheme and token-prediction approach to \u0026quot;punch above its weight\u0026quot; — meaning it aims to perform better than its modest size would suggest.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhy should an ordinary person care? Until recently, the most capable AI mostly lived in the cloud — you typed into a website and a company's servers did the work. A model that runs on a normal laptop points to a different future, where AI increasingly runs on the device in front of you. That can bring practical perks: your data can stay on your machine instead of being sent away, and the tool can work even without an internet connection. It's an early step, not the whole story, but it's a clear signal of where things are heading.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ryan Whitwam"
+    ],
+    "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop",
+    "published_at": "2026-06-03",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-now",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "open-source"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-05",
+  "date": "2026-06-03",
+  "related": [],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2f60c7#0",
+      "format": "quiz",
+      "prompt": "What's notable about where Google's Gemma 4 12B is meant to run?",
+      "choices": [
+        {
+          "text": "On any laptop with 16GB of RAM, not just in the cloud",
+          "correct": true
+        },
+        {
+          "text": "Only on Google's own servers",
+          "correct": false
+        },
+        {
+          "text": "Only on phones, never computers",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGemma 4 12B is designed to run on an ordinary laptop with 16GB of RAM,\nmoving capable AI off the cloud and onto personal devices.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2f60c7#1",
+      "format": "flip",
+      "prompt": "What's one everyday upside of an AI model running on your own device?",
+      "back_html": "\u003cp\u003eYour data can stay on your device rather than being sent to a server, which\ncan mean more privacy and the ability to work offline.\u003c/p\u003e"
+    }
+  ]
+}

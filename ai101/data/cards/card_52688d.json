@@ -1,0 +1,104 @@
+{
+  "id": "card_52688d",
+  "slug": "gemini-watermark-toggle",
+  "type": "news",
+  "title": "Google Will Let You Switch Off Gemini's Watermark",
+  "hook": "The little sparkle in the corner was the easiest way to tell a Google AI image from a real one. Now you can turn it off — so stop relying on visible marks.",
+  "key_points": [
+    "The Verge reports a new 'Media watermark' toggle in Gemini and Google's video tool Flow.",
+    "Turning it off removes the sparkle badge from generated images, video, and music.",
+    "Visible badges were always the weakest signal — a crop or a toggle erases them.",
+    "Invisible watermarking, like Google's SynthID, is designed to survive edits instead.",
+    "Judge content by source and corroboration, not by whether a badge is present."
+  ],
+  "content_html": "\u003cp\u003eGoogle is adding a \u0026quot;Media watermark\u0026quot; setting to Gemini and Flow, its AI video generator. The Verge reports that switching it off removes the small sparkle badge Google has been stamping into the corner of AI-generated images, videos, and music.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIf you had been using that sparkle as your tell, this is a good moment to retire the habit. Visible badges are convenience labels, not security features — they survive only until someone crops the image or, now, flips a switch. The more durable approach is invisible watermarking such as Google's SynthID, which is meant to persist through edits and be checked by a tool rather than an eye. For everyday judgment, though, neither replaces the boring method that works: ask where a striking image came from, and see whether anyone credible reports the same thing independently.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "published_at": "2026-08-14",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_68958b",
+      "slug": "meta-content-seal-watermark",
+      "type": "news",
+      "title": "Meta Built Its Own AI Watermark Instead of Using the Shared One",
+      "hook": "Meta's new 'Content Seal' stamps an invisible mark on its AI images so they can be traced. The catch: Google already had a tool for that — and one shared standard works better than many.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "card_990b33",
+      "slug": "suno-watermark-ai-music",
+      "type": "news",
+      "title": "The Biggest AI Music Maker Wants to Label Its Own Songs",
+      "hook": "Suno is adding watermarking and download rules to stem the flood of AI tracks clogging streaming services — a rare case of a generator volunteering to mark its output.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-06"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_52688d#0",
+      "format": "quiz",
+      "prompt": "What changed with Google's new 'Media watermark' setting?",
+      "choices": [
+        {
+          "text": "Users can turn off the visible sparkle badge on Gemini and Flow output",
+          "correct": true
+        },
+        {
+          "text": "Google now adds a watermark to every image on the web",
+          "correct": false
+        },
+        {
+          "text": "Watermarks became legally required in the EU",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe toggle removes the visible corner badge from images, video, and music\ngenerated in Gemini and Flow.\u003c/p\u003e"
+    },
+    {
+      "id": "card_52688d#1",
+      "format": "flip",
+      "prompt": "Why was a visible watermark never a reliable way to spot AI content?",
+      "back_html": "\u003cp\u003eIt can be cropped, edited out, or — as here — simply switched off. Absence of a\nbadge has never been evidence that something is real.\u003c/p\u003e"
+    },
+    {
+      "id": "card_52688d#2",
+      "format": "flip",
+      "prompt": "What should you use instead of a badge to judge a suspicious image?",
+      "back_html": "\u003cp\u003eWhere it came from and whether anyone else independently reports the same thing.\nProvenance and corroboration outlast any mark on the pixels.\u003c/p\u003e"
+    }
+  ]
+}

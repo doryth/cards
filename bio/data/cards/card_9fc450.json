@@ -1,0 +1,109 @@
+{
+  "id": "card_9fc450",
+  "slug": "crispr-gene-editing",
+  "type": "concept",
+  "title": "CRISPR: Molecular Scissors for DNA",
+  "hook": "Borrowed from a bacterial immune system, CRISPR lets scientists find a precise spot in the genome and cut it — turning gene editing into something almost routine.",
+  "key_points": [
+    "CRISPR is a tool that can target and cut a specific DNA sequence.",
+    "A guide RNA steers a cutting protein (Cas9) to the matching spot in the genome.",
+    "Once cut, the cell's repair machinery can disable or change the gene.",
+    "It promises disease cures but raises ethics concerns, especially editing embryos."
+  ],
+  "content_html": "\u003cp\u003eCRISPR began as a humble bacterial defense against viruses, but scientists realized it could be repurposed into a remarkably precise gene-editing tool. The idea is simple to state: tell the system which DNA sequence you want, and it goes there and cuts. That precision has made editing genes faster and cheaper than anyone expected a couple of decades ago.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe system has two key parts. A \u003cstrong\u003eguide RNA\u003c/strong\u003e is built to match the target DNA sequence, and it escorts a cutting protein called \u003cstrong\u003eCas9\u003c/strong\u003e to exactly that spot, where Cas9 snips the double helix. The cell then repairs the break — and during that repair, researchers can disable a faulty gene or even swap in a corrected sequence. As the NIH explains, this opens real hope for treating genetic diseases like sickle cell anemia. But it also raises hard ethical questions, especially around editing embryos or reproductive cells: those changes would be \u003cstrong\u003eheritable\u003c/strong\u003e, passed to all future generations, which is why scientists and ethicists urge great caution.\u003c/p\u003e",
+  "source": {
+    "name": "NIH National Human Genome Research Institute",
+    "url": "https://www.genome.gov/genetics-glossary/CRISPR",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_80bbc5",
+      "slug": "mutations",
+      "type": "concept",
+      "title": "Mutations: When DNA Changes",
+      "hook": "Every time a cell copies its DNA, tiny typos can slip in — most do nothing at all, a few cause disease, and rare ones fuel evolution.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_88ba5a",
+      "slug": "from-dna-to-protein",
+      "type": "concept",
+      "title": "From DNA to Protein: The Central Dogma",
+      "hook": "Your DNA is a recipe book locked in the nucleus — so the cell copies a single recipe to RNA, carries it out, and reads it to build a protein.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3c048e",
+      "slug": "epigenetics",
+      "type": "concept",
+      "title": "Epigenetics: Switching Genes On and Off",
+      "hook": "Two cells can carry identical DNA yet behave completely differently — because chemical tags decide which genes are switched on, without touching the code itself.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9fc450#0",
+      "format": "flip",
+      "prompt": "What does CRISPR let scientists do?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eTarget and cut a specific DNA sequence\u003c/strong\u003e in the genome, then let the cell's\nrepair process disable or alter the gene at that spot.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9fc450#1",
+      "format": "quiz",
+      "prompt": "How does the CRISPR system find the right place to cut?",
+      "choices": [
+        {
+          "text": "A guide RNA matches the target DNA sequence and steers the Cas9 protein there",
+          "correct": true
+        },
+        {
+          "text": "It cuts DNA randomly and hopes to hit the gene",
+          "correct": false
+        },
+        {
+          "text": "It reads the DNA out loud to the cell",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA short \u003cstrong\u003eguide RNA\u003c/strong\u003e is designed to match the target sequence. It directs the\n\u003cstrong\u003eCas9\u003c/strong\u003e protein to that exact location, where Cas9 makes the cut.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9fc450#2",
+      "format": "quiz",
+      "prompt": "Why is CRISPR ethically controversial?",
+      "choices": [
+        {
+          "text": "Editing embryos would pass changes to future generations",
+          "correct": true
+        },
+        {
+          "text": "It can only be used on plants",
+          "correct": false
+        },
+        {
+          "text": "It is completely banned worldwide for all uses",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEditing DNA in \u003cstrong\u003eembryos or reproductive cells\u003c/strong\u003e would make heritable changes,\npassed to descendants — raising deep questions about consent, safety, and where\nto draw the line.\u003c/p\u003e"
+    }
+  ]
+}

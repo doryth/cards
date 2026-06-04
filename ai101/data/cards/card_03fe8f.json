@@ -1,0 +1,128 @@
+{
+  "id": "card_03fe8f",
+  "slug": "ai-detectors-distrust",
+  "type": "news",
+  "title": "AI Detectors Are Making Everyone Suspicious of Everyone",
+  "hook": "Tools that claim to spot AI writing are unreliable enough to flag honest work — and the damage isn't just false accusations. It's that nobody trusts anything anymore.",
+  "key_points": [
+    "The Verge argues AI-writing detectors are fueling a broad new climate of suspicion.",
+    "Detectors guess from statistical patterns; they cannot actually know how text was produced.",
+    "False positives fall hardest on people who write plainly, including non-native English speakers.",
+    "Once an accusation lands, proving you wrote something yourself is nearly impossible.",
+    "The corrosive effect is mutual distrust — readers, teachers, and editors doubting real work."
+  ],
+  "content_html": "\u003cp\u003eThe tools that promise to tell you whether a piece of writing came from a machine have a problem: they don't really know. The Verge's column argues that their unreliability has spilled well past individual false accusations into something broader — a default suspicion that now hangs over anything anyone writes.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eDetectors work by measuring how statistically predictable a passage looks, and predictable is not the same as artificial. Clear, conventional, unadorned prose scores as machine-like, which is why the false positives land disproportionately on people who write plainly — students under time pressure, non-native English speakers, anyone who was taught to keep sentences simple. The asymmetry is what makes it corrosive: an accusation takes one click, and disproving it requires you to somehow document the absence of a tool. Meanwhile teachers, editors and readers absorb the habit of doubting, and the doubt sticks to honest work as readily as dishonest work. The practical lesson from all this is the same one that applies to spotting AI images: treat detector output as a weak hint, never as evidence, and put your trust in what you know about the source rather than what a confidence score tells you.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "published_at": "2026-08-09",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-and-truth"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-09",
+  "related": [
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_151809",
+      "slug": "fanfiction-ai-detection-fight",
+      "type": "news",
+      "title": "Fanfiction Writers Are Hunting for AI — With Unreliable Tools",
+      "hook": "A new movement in the fanfiction community wants to root out AI-written stories. The problem: the detection methods being used are shaky enough that innocent human writers could get falsely accused.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-04"
+    },
+    {
+      "id": "card_5e58f4",
+      "slug": "what-happens-to-truth",
+      "type": "concept",
+      "title": "What Happens to Truth?",
+      "hook": "When anything can be faked and the internet floods with synthetic everything, the danger isn't just believing lies — it's the 'liar's dividend,' where real evidence gets dismissed as fake too.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1ab6bf",
+      "slug": "ai-cheating-in-person-final",
+      "type": "news",
+      "title": "A Professor Suspected AI Cheating — Then Scores Fell 50%",
+      "hook": "When a Brown University professor, suspecting AI-written homework, switched to an in-person final, class scores dropped roughly in half — a stark hint at what students may not be learning.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_03fe8f#0",
+      "format": "quiz",
+      "prompt": "Why can't an AI-writing detector actually know whether text was AI-generated?",
+      "choices": [
+        {
+          "text": "It only measures statistical patterns in the writing, which human writing can share",
+          "correct": true
+        },
+        {
+          "text": "It can, but only if the text is over 1,000 words",
+          "correct": false
+        },
+        {
+          "text": "Detectors read hidden metadata that authors can simply delete",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDetectors estimate how \u0026quot;predictable\u0026quot; text looks. Plain, conventional human\nwriting can look exactly like that — hence false accusations.\u003c/p\u003e"
+    },
+    {
+      "id": "card_03fe8f#1",
+      "format": "flip",
+      "prompt": "Who tends to be hurt most by detector false positives?",
+      "back_html": "\u003cp\u003ePeople who write plainly and conventionally — including many non-native English\nspeakers — because that's the style detectors most readily mistake for machine\noutput.\u003c/p\u003e"
+    },
+    {
+      "id": "card_03fe8f#2",
+      "format": "quiz",
+      "prompt": "What does the column argue is the deeper harm, beyond individual false accusations?",
+      "choices": [
+        {
+          "text": "A general climate of suspicion where genuine work is doubted by default",
+          "correct": true
+        },
+        {
+          "text": "Detectors slowing down web browsers",
+          "correct": false
+        },
+        {
+          "text": "Students losing access to AI tools entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe argument is about erosion of trust: once everyone suspects everyone, honest\nwriters carry a burden of proof they can't discharge.\u003c/p\u003e"
+    }
+  ]
+}

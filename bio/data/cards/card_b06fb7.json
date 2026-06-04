@@ -1,0 +1,99 @@
+{
+  "id": "card_b06fb7",
+  "slug": "the-human-microbiome",
+  "type": "concept",
+  "title": "The Human Microbiome",
+  "hook": "You're never alone: trillions of bacteria, fungi, and other microbes live in and on your body, and most of them are working in your favor.",
+  "key_points": [
+    "The microbiome is the community of microbes that live in and on the human body.",
+    "Your gut hosts the largest share, with trillions of bacterial cells.",
+    "Most of these microbes are harmless or beneficial, not disease-causing.",
+    "Gut microbes help digest food, make vitamins, and train the immune system."
+  ],
+  "content_html": "\u003cp\u003eYour body is home to a hidden ecosystem. Living in your gut, on your skin, and across other surfaces are trillions of microbes — mostly bacteria, but also fungi and viruses — collectively called the microbiome. Far from being invaders, the vast majority are harmless residents, and many are essential partners that you'd struggle to live without.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe densest community sits in your intestines, where gut bacteria break down fibers your own digestive enzymes can't touch, manufacture certain vitamins, and help train your immune system to distinguish threats from friends. The makeup of your microbiome is shaped by your diet, environment, and even how you were born, and scientists are increasingly linking its balance to digestion, mood, and disease. As the NIH National Human Genome Research Institute explains, mapping these microbial communities has become a major frontier in understanding human health.\u003c/p\u003e",
+  "source": {
+    "name": "NIH National Human Genome Research Institute",
+    "url": "https://www.genome.gov/genetics-glossary/Microbiome",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3d61f3",
+      "slug": "the-digestive-system",
+      "type": "concept",
+      "title": "The Digestive System",
+      "hook": "From the first bite to the final absorption, your digestive tract is a one-way assembly line that turns food into fuel your cells can use.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b06fb7#0",
+      "format": "flip",
+      "prompt": "What is the human microbiome?",
+      "back_html": "\u003cp\u003eThe vast community of \u003cstrong\u003emicrobes\u003c/strong\u003e — bacteria, fungi, viruses, and more — that\nlive in and on your body. The largest population lives in your gut, where most\nmembers are helpful rather than harmful.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b06fb7#1",
+      "format": "quiz",
+      "prompt": "Where do most of your microbiome's microbes live?",
+      "choices": [
+        {
+          "text": "In the gut",
+          "correct": true
+        },
+        {
+          "text": "In the bloodstream",
+          "correct": false
+        },
+        {
+          "text": "In the brain",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe digestive tract — especially the large intestine — is home to the densest\ncommunity of microbes, numbering in the trillions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b06fb7#2",
+      "format": "quiz",
+      "prompt": "What do gut microbes do for you?",
+      "choices": [
+        {
+          "text": "Help digest food, make vitamins, and train the immune system",
+          "correct": true
+        },
+        {
+          "text": "Nothing useful — they are simply passengers",
+          "correct": false
+        },
+        {
+          "text": "They replace your body's own cells over time",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA healthy microbiome breaks down fibers your own enzymes can't, produces certain\nvitamins, and helps your immune system tell friend from foe.\u003c/p\u003e"
+    }
+  ]
+}

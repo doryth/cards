@@ -1,0 +1,111 @@
+{
+  "id": "card_4be834",
+  "slug": "photosynthesis",
+  "type": "concept",
+  "title": "Photosynthesis",
+  "hook": "Plants pull carbon dioxide from the air and water from the soil, and using only sunlight, build sugar — releasing the oxygen you're breathing right now.",
+  "key_points": [
+    "Photosynthesis turns sunlight, water, and CO2 into sugar (glucose) and oxygen.",
+    "It happens in chloroplasts, using the green pigment chlorophyll to capture light.",
+    "The oxygen released is essentially a by-product — waste, from the plant's view.",
+    "Nearly all food chains trace back to this conversion of light into chemical energy."
+  ],
+  "content_html": "\u003cp\u003ePhotosynthesis is how plants, algae, and some bacteria make their own food out of thin air and light. The recipe is simple to state: take carbon dioxide from the air and water from the ground, add energy from sunlight, and combine them into glucose, a sugar the organism can store and burn. Oxygen comes out as a by-product — and that \u0026quot;waste\u0026quot; is the oxygen filling the atmosphere and your lungs.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe action happens inside chloroplasts, the green organelles found in plant cells. They're packed with chlorophyll, the pigment that gives leaves their color and, more importantly, captures the energy in sunlight to drive the reaction. The significance is hard to overstate: photosynthesis is the original power plant for almost all life. The sugar it produces feeds the plant, the animals that eat the plant, and the animals that eat those animals — so nearly every food chain on Earth ultimately runs on sunlight captured this way. Khan Academy breaks the process into its light-capturing and sugar-building stages.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants/introduction-to-photosynthesis/a/intro-to-photosynthesis",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "energy-in-life"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_e553ec",
+      "slug": "cellular-respiration",
+      "type": "concept",
+      "title": "Cellular Respiration",
+      "hook": "Every cell in your body slowly 'burns' sugar with oxygen to release energy — the same chemistry as photosynthesis, run in reverse.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_05f960",
+      "slug": "food-chains-and-webs",
+      "type": "concept",
+      "title": "Food Chains \u0026 Energy Flow",
+      "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a1735d",
+      "slug": "how-photosynthesis-evolved",
+      "type": "news",
+      "title": "The Long Road to Photosynthesis",
+      "hook": "Turning sunlight into food is one of biology's most intricate inventions. Ancient cyanobacteria are revealing what an early step on the road to it looked like.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-10"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4be834#0",
+      "format": "flip",
+      "prompt": "What raw ingredients does photosynthesis use, and what does it produce?",
+      "back_html": "\u003cp\u003eIt uses \u003cstrong\u003esunlight, water, and carbon dioxide\u003c/strong\u003e to produce \u003cstrong\u003eglucose (sugar)\u003c/strong\u003e\nand releases \u003cstrong\u003eoxygen\u003c/strong\u003e as a by-product.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4be834#1",
+      "format": "quiz",
+      "prompt": "The oxygen plants release during photosynthesis is best described as...",
+      "choices": [
+        {
+          "text": "a by-product of making sugar",
+          "correct": true
+        },
+        {
+          "text": "the main goal of photosynthesis",
+          "correct": false
+        },
+        {
+          "text": "absorbed back in by the plant immediately",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe plant's aim is to build sugar; oxygen is simply released as waste — which\nhappens to be what animals breathe.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4be834#2",
+      "format": "quiz",
+      "prompt": "What pigment captures light for photosynthesis?",
+      "choices": [
+        {
+          "text": "Chlorophyll, in the chloroplasts",
+          "correct": true
+        },
+        {
+          "text": "Hemoglobin, in the leaves",
+          "correct": false
+        },
+        {
+          "text": "Melanin, in the bark",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eChlorophyll — the molecule that makes leaves green — absorbs sunlight inside\nchloroplasts to power the reaction.\u003c/p\u003e"
+    }
+  ]
+}

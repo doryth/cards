@@ -1,0 +1,141 @@
+{
+  "id": "card_51131a",
+  "slug": "what-is-democracy",
+  "type": "concept",
+  "title": "What Democracy Means",
+  "hook": "Rule by the people: a system where political power ultimately traces back to citizens, usually through regular, free elections.",
+  "key_points": [
+    "Democracy means political authority ultimately rests with the people.",
+    "In a direct democracy citizens vote on decisions; in a representative one they elect officials to decide.",
+    "Most modern democracies are representative, with regular free and fair elections.",
+    "Common features include majority rule paired with protection of minority rights."
+  ],
+  "content_html": "\u003cp\u003eDemocracy, from Greek words meaning \u0026quot;rule by the people,\u0026quot; is a system in which political power ultimately comes from the citizens. The clearest expression of this is the vote: through elections, the people decide who governs and, in some cases, the policies themselves. The idea stands in contrast to systems where authority flows from a single ruler or a small group not accountable to the public.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThere are two broad forms. In a direct democracy, citizens vote on decisions themselves — practical mostly at small scales or through occasional referendums. In a representative democracy, which describes most modern democracies, citizens elect officials to make decisions on their behalf and can replace them at the next election. Encyclopaedia Britannica traces how these ideas developed and what scholars consider essential to a functioning democracy. Beyond elections, most accounts include features such as the rule of law, free expression, and majority rule balanced by protection of minority rights, so that winning a vote does not mean unlimited power over everyone else.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/democracy",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7322d2",
+      "slug": "what-is-government",
+      "type": "concept",
+      "title": "What Government Is For",
+      "hook": "Every society needs a way to make and enforce collective decisions — that shared system of authority is what we call government.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_21de42",
+      "slug": "democracy-vs-authoritarianism",
+      "type": "concept",
+      "title": "Democracy vs Authoritarianism",
+      "hook": "The deepest dividing line between regimes isn't left versus right — it's whether power can be lost. Can the people remove their rulers, or not?",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_49bcf4",
+      "slug": "the-history-of-democracy",
+      "type": "concept",
+      "title": "The History of Democracy",
+      "hook": "Democracy isn't a permanent gift — it's a hard-won, on-and-off achievement that nearly vanished for two thousand years before its modern comeback.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_35bc9e",
+      "slug": "electoral-vs-liberal-democracy",
+      "type": "concept",
+      "title": "Electoral vs Liberal Democracy",
+      "hook": "Holding elections isn't the whole of democracy. Without rights, courts, and limits on the winner, voting alone can deliver an elected strongman.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_51131a#0",
+      "format": "flip",
+      "prompt": "What is the core idea of democracy?",
+      "back_html": "\u003cp\u003ePolitical authority ultimately rests with \u003cstrong\u003ethe people\u003c/strong\u003e, who exercise\nit directly or through freely elected representatives.\u003c/p\u003e"
+    },
+    {
+      "id": "card_51131a#1",
+      "format": "quiz",
+      "prompt": "How does representative democracy differ from direct democracy?",
+      "choices": [
+        {
+          "text": "Citizens elect officials to make decisions, rather than voting on each decision themselves",
+          "correct": true
+        },
+        {
+          "text": "Citizens have no role at all in a representative democracy",
+          "correct": false
+        },
+        {
+          "text": "There is no difference between the two",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn representative democracy people choose officials to decide on their\nbehalf; in direct democracy they vote on the decisions directly.\u003c/p\u003e"
+    },
+    {
+      "id": "card_51131a#2",
+      "format": "quiz",
+      "prompt": "Besides majority rule, what is commonly considered part of democracy?",
+      "choices": [
+        {
+          "text": "Protection of minority rights",
+          "correct": true
+        },
+        {
+          "text": "Banning all disagreement with the majority",
+          "correct": false
+        },
+        {
+          "text": "Holding elections only once and never again",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDemocracies generally pair majority rule with safeguards for minority\nrights and recurring free elections.\u003c/p\u003e"
+    }
+  ]
+}

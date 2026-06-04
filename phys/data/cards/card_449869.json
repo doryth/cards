@@ -1,0 +1,135 @@
+{
+  "id": "card_449869",
+  "slug": "higgsino-dark-matter-lz-event",
+  "type": "paper",
+  "title": "Could One Odd Recoil Be a Higgsino?",
+  "hook": "LUX-ZEPLIN saw a single 248 keV nuclear recoil it couldn't explain away. Two theorists point out that a TeV-mass Higgsino would produce exactly that kind of event — with no free parameters to tune.",
+  "key_points": [
+    "LZ reported a 248 keV nuclear-recoil event of interest with no identified background explanation.",
+    "The authors propose a nearly pure Higgsino of about 1 TeV as an interpretation.",
+    "A Higgsino naturally comes as two nearly degenerate neutral Majorana states split by a small mass gap.",
+    "Their off-diagonal Z coupling makes the scattering inelastic — the incoming particle converts to the heavier state.",
+    "The same electroweak interaction fixes the cross section, so it is predicted rather than fitted.",
+    "For a mass splitting of about 350 keV, the predicted rate approaches LZ's published 90% confidence interval."
+  ],
+  "content_html": "\u003cp\u003eDark matter experiments spend most of their lives reporting nothing. So when LUX-ZEPLIN flagged a\nsingle 248 keV nuclear-recoil event of interest, and studied a list of rare backgrounds and\ndetector effects without landing on a likely explanation, theorists took notice.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eKatherine Freese and Dionysios Theodosopoulos propose an interpretation: a nearly pure Higgsino\nwith a mass around 1 TeV. The appeal is that the scenario is tightly constrained rather than\nflexible. A Higgsino naturally supplies two nearly degenerate neutral Majorana states separated\nby a small mass splitting, and their off-diagonal coupling to the Z boson makes the scattering\n\u003cem\u003einelastic\u003c/em\u003e — the dark matter particle converts to the heavier state as it hits a nucleus.\nInelastic scattering costs energy, which naturally pushes recoils to higher energies, and the\nsame electroweak interaction that produces it fixes the cross section instead of leaving it as a\nknob to turn. The authors show that for a mass splitting of roughly 350 keV, the predicted\ninelastic Higgsino-nucleon cross section approaches LZ's published two-sided 90% confidence\ninterval. One event is one event — but a candidate explanation that predicts its own rate is\nworth testing with more exposure.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Katherine Freese",
+      "Dionysios P. Theodosopoulos"
+    ],
+    "url": "https://arxiv.org/abs/2609.01583",
+    "published_at": "2026-09-01",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-09-03",
+  "date": "2026-09-01",
+  "related": [
+    {
+      "id": "card_6f5fce",
+      "slug": "lz-high-energy-recoil-event",
+      "type": "paper",
+      "title": "LZ's One Unexplained Recoil",
+      "hook": "The world's most sensitive dark matter detector widened its search window and found exactly one hard nuclear recoil where almost no background should be. Not a discovery — but not nothing either.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-09-02"
+    },
+    {
+      "id": "card_d3bea2",
+      "slug": "higgsino-excluded-by-solar-capture",
+      "type": "paper",
+      "title": "The Sun Says No to the Higgsino Explanation",
+      "hook": "If a Higgsino caused LZ's odd recoil, the Sun would have been quietly hoovering up dark matter for billions of years — and IceCube would see the neutrinos. It doesn't.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-09-02"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2512e3",
+      "slug": "first-directional-dark-matter-limits",
+      "type": "paper",
+      "title": "A Dark Matter Detector That Asks Which Way the Hit Came From",
+      "hook": "Neutrons and dark matter can leave identical-looking recoils. MIMAC's answer: reconstruct the direction of each recoil and check whether it points where dark matter should come from.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-26"
+    },
+    {
+      "id": "card_4626e2",
+      "slug": "dark-matter-running-out-of-principles",
+      "type": "paper",
+      "title": "Has Dark Matter Run Out of Good Ideas?",
+      "hook": "Two philosophers of physics dissect how dark matter candidates get proposed — and argue the guiding principles that generated WIMPs, axions and the rest may have exhausted their heuristic steam.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_449869#0",
+      "format": "flip",
+      "prompt": "What makes 'inelastic' dark matter scattering different from the usual kind?",
+      "back_html": "\u003cp\u003eThe incoming particle converts into a slightly heavier partner state instead of just\nbouncing. That costs energy, so only fast-enough particles scatter, and the recoils are\npushed to higher energies.\u003c/p\u003e"
+    },
+    {
+      "id": "card_449869#1",
+      "format": "quiz",
+      "prompt": "Why do the authors emphasise that the Higgsino cross section is not a free parameter?",
+      "choices": [
+        {
+          "text": "It is fixed by the known electroweak Z coupling, so the model predicts the rate rather than fitting it",
+          "correct": true
+        },
+        {
+          "text": "Because dark matter cross sections are always the same",
+          "correct": false
+        },
+        {
+          "text": "Because LZ measured the cross section directly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn a nearly pure Higgsino the off-diagonal Z coupling between the two nearly degenerate\nneutral states sets the inelastic scattering rate — a prediction, not a tuned input.\u003c/p\u003e"
+    },
+    {
+      "id": "card_449869#2",
+      "format": "flip",
+      "prompt": "What mass splitting brings the prediction close to LZ's reported interval?",
+      "back_html": "\u003cp\u003eRoughly 350 keV, for a Higgsino of about 1 TeV.\u003c/p\u003e"
+    }
+  ]
+}

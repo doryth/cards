@@ -1,0 +1,109 @@
+{
+  "id": "card_c81364",
+  "slug": "carbohydrates-and-fats",
+  "type": "concept",
+  "title": "Carbohydrates and Fats: Fuel and Storage",
+  "hook": "Sugars give cells quick energy; fats pack energy away for the long haul. Two molecule families, two strategies for powering life.",
+  "key_points": [
+    "Carbohydrates range from single sugars like glucose to long storage chains like starch.",
+    "Cells burn glucose for fast, accessible energy and store the surplus as starch or glycogen.",
+    "Lipids, including fats, are energy-dense and store more than twice the energy per gram of carbs.",
+    "Fats also cushion organs, insulate the body, and supply the building blocks of cell membranes."
+  ],
+  "content_html": "\u003cp\u003eWhen you need energy now, your cells reach for sugar; when the body wants to bank energy for later, it lays down fat. Carbohydrates and lipids are the two main fuel molecules of life, and the difference between them comes down to a trade-off: quick access versus dense storage. Sugars are easy to burn but bulky to keep; fats are compact and packed with energy but slower to mobilize.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Encyclopaedia Britannica describes, carbohydrates span a range — from single sugars (monosaccharides) like \u003cstrong\u003eglucose\u003c/strong\u003e, the molecule cells most readily burn, to long chains like \u003cstrong\u003estarch\u003c/strong\u003e and \u003cstrong\u003eglycogen\u003c/strong\u003e that stockpile glucose for later. Lipids take the opposite tack: they are \u003cstrong\u003eenergy-dense\u003c/strong\u003e, storing more than twice the energy per gram as carbohydrates, which is why the body warehouses long-term reserves as fat. But fats are not only fuel. They insulate against cold, cushion organs, and — in the form of phospholipids — assemble into the membranes that wrap every cell. The same chemistry that makes fat a calorie-rich food also makes it indispensable structural material.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/carbohydrate",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "molecules-of-life"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_56a3a0",
+      "slug": "the-molecules-of-life",
+      "type": "concept",
+      "title": "The Molecules of Life",
+      "hook": "Almost everything in a living cell is built from just four families of large molecules — carbohydrates, lipids, proteins, and nucleic acids.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e553ec",
+      "slug": "cellular-respiration",
+      "type": "concept",
+      "title": "Cellular Respiration",
+      "hook": "Every cell in your body slowly 'burns' sugar with oxygen to release energy — the same chemistry as photosynthesis, run in reverse.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_32c407",
+      "slug": "atp-energy-currency",
+      "type": "concept",
+      "title": "ATP: The Cell's Energy Currency",
+      "hook": "Cells don't store usable energy as sugar or fat alone — they spend it through ATP, a tiny rechargeable molecule that powers almost everything they do.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c81364#0",
+      "format": "flip",
+      "prompt": "What is the cell's go-to sugar for quick energy, and how is the surplus stored?",
+      "back_html": "\u003cp\u003eCells run on \u003cstrong\u003eglucose\u003c/strong\u003e, a simple sugar. Extra glucose is linked into long\nstorage chains — \u003cstrong\u003estarch\u003c/strong\u003e in plants and \u003cstrong\u003eglycogen\u003c/strong\u003e in animals — that can be\nbroken back down when energy is needed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c81364#1",
+      "format": "quiz",
+      "prompt": "Why are fats better than carbohydrates for long-term energy storage?",
+      "choices": [
+        {
+          "text": "Fats pack more than twice the energy per gram",
+          "correct": true
+        },
+        {
+          "text": "Fats cannot be broken down, so they last forever",
+          "correct": false
+        },
+        {
+          "text": "Carbohydrates contain no energy at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGram for gram, \u003cstrong\u003efats store over twice the energy\u003c/strong\u003e of carbohydrates, making\nthem a compact, long-term energy reserve. Carbs are easier to access quickly but\nbulkier to store.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c81364#2",
+      "format": "quiz",
+      "prompt": "Besides storing energy, what is another important role of lipids?",
+      "choices": [
+        {
+          "text": "They form the membranes that surround cells",
+          "correct": true
+        },
+        {
+          "text": "They carry the cell's genetic information",
+          "correct": false
+        },
+        {
+          "text": "They replace water as the cell's solvent",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLipids do more than store fuel. A special class of them builds \u003cstrong\u003ecell\nmembranes\u003c/strong\u003e, and fats also insulate the body and cushion delicate organs.\u003c/p\u003e"
+    }
+  ]
+}

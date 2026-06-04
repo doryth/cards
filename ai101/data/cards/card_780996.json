@@ -1,0 +1,118 @@
+{
+  "id": "card_780996",
+  "slug": "chatgpt-blocks-author-style",
+  "type": "news",
+  "title": "ChatGPT Now Refuses to Write 'In the Style of' a Named Author",
+  "hook": "Ask ChatGPT to imitate a living novelist and it will now decline — though Ars Technica reports it can still land on a suspiciously similar feeling if you describe the style instead.",
+  "key_points": [
+    "OpenAI added a block on direct requests to copy a named author's writing style, per Ars Technica.",
+    "Describing the qualities you want — tone, rhythm, imagery — can still produce a similar result.",
+    "Style itself isn't clearly copyrightable; copying specific text is. The line is genuinely blurry.",
+    "The change reads as legal caution as much as ethics, with authors suing AI firms over training data.",
+    "Practical takeaway: 'write like X' prompts are on borrowed time; describe what you want instead."
+  ],
+  "content_html": "\u003cp\u003eOpenAI has started blocking one of the internet's favorite prompts: \u0026quot;write this in the style of [famous author].\u0026quot; Ars Technica reports ChatGPT now declines those direct requests — but if you describe the style's broad qualities instead, it can still land somewhere that feels awfully similar.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe change matters less as a technical limit than as a signal. Copyright protects specific expression — the actual sentences someone wrote — not the harder-to-pin-down thing we call a voice or a style. That gap is unsettled law, and with authors and publishers already suing AI companies over how models were trained, guardrails like this look like a company deciding not to be the test case. For everyday users the practical lesson is simple: naming a writer is going out of fashion, but describing what you actually want — short sentences, dry humor, concrete detail — was always the better prompt anyway.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Kyle Orland"
+    ],
+    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
+    "published_at": "2026-07-27",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-07-27",
+  "related": [
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_84ed63",
+      "slug": "ai-for-writing",
+      "type": "concept",
+      "title": "AI for Writing",
+      "hook": "Writing is where AI earns its keep for most people: not replacing your voice, but beating the blank page, tightening drafts, and translating 'ugh' into a sendable email.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_beea3d",
+      "slug": "can-ai-be-creative",
+      "type": "concept",
+      "title": "Can AI Be Creative?",
+      "hook": "AI can write a poem or compose a tune that genuinely moves people. Whether that's 'real' creativity or very sophisticated remixing is a question with no settled answer — and it matters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_780996#0",
+      "format": "quiz",
+      "prompt": "What did OpenAI change about ChatGPT's handling of author styles?",
+      "choices": [
+        {
+          "text": "It now blocks direct requests to write in a named author's style",
+          "correct": true
+        },
+        {
+          "text": "It now refuses to discuss authors at all",
+          "correct": false
+        },
+        {
+          "text": "It now requires you to upload the author's books first",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eArs Technica reports ChatGPT started declining direct \u0026quot;write like [author]\u0026quot;\nrequests — though describing the style's qualities can still get close.\u003c/p\u003e"
+    },
+    {
+      "id": "card_780996#1",
+      "format": "flip",
+      "prompt": "Why is 'copying an author's style' legally murky rather than clearly illegal?",
+      "back_html": "\u003cp\u003eCopyright protects specific expression — actual text — not a style or voice.\nSo imitation sits in an unsettled gap, which is part of why companies are\nacting cautiously ahead of the courts.\u003c/p\u003e"
+    },
+    {
+      "id": "card_780996#2",
+      "format": "quiz",
+      "prompt": "What's the practical workaround the article notes still works?",
+      "choices": [
+        {
+          "text": "Describing the qualities you want — tone, rhythm, imagery — rather than naming the author",
+          "correct": true
+        },
+        {
+          "text": "Asking in a different language",
+          "correct": false
+        },
+        {
+          "text": "Paying for a higher subscription tier",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe block targets the named-author request, not the underlying capability, so\ndescribing \u0026quot;broad qualities\u0026quot; can still capture a similar feeling.\u003c/p\u003e"
+    }
+  ]
+}

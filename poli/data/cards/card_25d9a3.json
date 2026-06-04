@@ -1,0 +1,126 @@
+{
+  "id": "card_25d9a3",
+  "slug": "who-can-narrow-a-subpoena",
+  "type": "news",
+  "title": "When the Defendant Helps Decide What Evidence You Get",
+  "hook": "A subpoena went to the city police, not the university. The university stepped in anyway to argue it was too broad — and won the right to help sort which files count.",
+  "key_points": [
+    "A 1987 rape survivor suing Syracuse University subpoenaed city police for crime reports from 1982–87 across the campus ZIP code.",
+    "The police department's own lawyer had suggested the ZIP code approach and initially agreed to produce the records in August 2025.",
+    "A month later the university — a non-party to the subpoena — moved to partially quash it, calling the request 'fatal geographic overreach.'",
+    "Regional New York case law gave the university standing to contest a subpoena directed at someone else.",
+    "In February 2026 the judge limited disclosure to crimes inside university buildings, excluding a nearby park and student apartments.",
+    "The order also let university personnel help police identify qualifying cases — putting the defendant inside the evidence-selection process."
+  ],
+  "content_html": "\u003cp\u003eAccess to government records is usually taught as a two-sided contest: a requester asks, an agency responds. A negligence suit against Syracuse University shows a third position that rarely gets named — the interested outsider who steps in to shrink the request.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Joaquin Sapien reports that a woman raped near campus in 1987, suing the university under New York's Adult Survivors Act, subpoenaed Syracuse police for crime reports from 1982 to 1987 within the ZIP code covering the campus, nearby Thornden Park and surrounding blocks — an approach the police department's own lawyer had suggested, and initially agreed to. A month later the university, which was not the subpoena's target, moved to partially quash it as overbroad, citing regional New York case law for its standing to do so. The police then adopted the same position, estimating 845 hours and $50,000 in staff time.\u003c/p\u003e\n\u003cp\u003eIn February 2026 Judge Joseph Lamendola narrowed the order to crimes inside university buildings, excluding the park and off-campus apartments, and provided that university personnel would help police identify which cases qualified. The plaintiff's appeal, filed in June 2026, argues excluding off-campus crimes is hard to square with how the campus sits inside the city, and objects to the defendant helping decide which files the plaintiff sees. The general point survives the particular case: a records fight can be won on burden and scope alone, without anyone ever ruling that the information is confidential.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Joaquin Sapien"
+    ],
+    "url": "https://propublica.org/article/syracuse-sexual-assault-lawsuit-records",
+    "published_at": "2026-08-28",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption",
+    "rights-civil-liberties"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-31",
+  "date": "2026-08-28",
+  "related": [
+    {
+      "id": "card_5fee45",
+      "slug": "when-a-records-request-goes-unanswered",
+      "type": "news",
+      "title": "The Weak Point of Transparency Law: Silence",
+      "hook": "A records law doesn't have to be repealed to stop working. An agency can simply not answer — and the only remedy left is a lawsuit most requesters can't afford.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_a3f767",
+      "slug": "a-carve-out-in-the-records-law",
+      "type": "news",
+      "title": "The Exemption That Hides a Billion Dollars",
+      "hook": "Oregon publishes what it spends on affordable housing. What it won't publish is what the money bought — an exemption written into its records law in 1997, and almost nobody voted against it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-21"
+    },
+    {
+      "id": "card_4e3cf6",
+      "slug": "freedom-of-information",
+      "type": "concept",
+      "title": "Freedom of Information",
+      "hook": "You can't hold power to account for what you can't see. Freedom of information laws pry open the workings of government so citizens can actually check it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a5dbb4",
+      "slug": "quasi-public-schools-and-conflict-rules",
+      "type": "news",
+      "title": "When a Private School Is 100% Publicly Funded",
+      "hook": "Some private schools get every dollar of their tuition from taxpayers — yet the conflict-of-interest, open-records, and open-meeting rules that come with public money don't follow it in.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-17"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_4e3cf6",
+      "slug": "freedom-of-information",
+      "type": "concept",
+      "title": "Freedom of Information",
+      "hook": "You can't hold power to account for what you can't see. Freedom of information laws pry open the workings of government so citizens can actually check it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_25d9a3#0",
+      "format": "flip",
+      "prompt": "How can a party who wasn't served with a subpoena still limit what it produces?",
+      "back_html": "\u003cp\u003eBy moving to quash it. Case law in some jurisdictions gives an interested\nnon-party standing to challenge a subpoena aimed at a third party — here, a\nuniversity contesting a request made to the city police.\u003c/p\u003e"
+    },
+    {
+      "id": "card_25d9a3#1",
+      "format": "quiz",
+      "prompt": "Why did the appeal single out the provision letting university staff help identify qualifying records?",
+      "choices": [
+        {
+          "text": "It gives the defendant a gatekeeping role over evidence against itself",
+          "correct": true
+        },
+        {
+          "text": "University staff are not trained to read police reports",
+          "correct": false
+        },
+        {
+          "text": "It would make the records public rather than just available to the plaintiff",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhoever decides which files fall inside a narrowed request effectively\ndecides what the other side sees — a conflict when that party is the defendant.\u003c/p\u003e"
+    },
+    {
+      "id": "card_25d9a3#2",
+      "format": "flip",
+      "prompt": "Why is 'burden' such an effective objection to a records request?",
+      "back_html": "\u003cp\u003eIt needs no claim that the records are secret. An estimate of the staff hours\nand cost involved — here 845 hours and $50,000 — can shrink a request without\nanyone ruling the information off-limits.\u003c/p\u003e"
+    }
+  ]
+}

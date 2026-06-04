@@ -1,0 +1,88 @@
+{
+  "id": "card_98e80e",
+  "slug": "google-search-history-ai-training",
+  "type": "news",
+  "title": "Google Will Save Your Searches to Train AI",
+  "hook": "Google is adding a setting that saves the photos, audio, and video you use to search — Lens snaps, voice queries, Translate clips — and that data can help train its AI. Worth a look.",
+  "key_points": [
+    "A new 'Search Services History' setting saves images, files, audio, and video you search with.",
+    "That includes Google Lens photos, live voice searches, and Translate audio.",
+    "Saved interactions can be used to improve and train Google's AI systems.",
+    "It's a setting you can review — check what's stored and turn it off if you'd rather not."
+  ],
+  "content_html": "\u003cp\u003eThe everyday cost of using AI is rarely a price tag — it's your data. The Verge reports that Google is rolling out a new \u0026quot;Search Services History\u0026quot; setting that saves the images, files, audio, and video you use when you search. That sweeps in the photos you point Google Lens at, the spoken queries you make out loud, and the audio you run through Translate. The reason it's getting saved isn't only convenience: this kind of real-world data is exactly what companies use to improve and train their AI.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNone of this is unusual — most free AI features are powered, in part, by learning from how people use them — but it's a clean example of a pattern worth recognizing. When a product quietly adds a new \u0026quot;history\u0026quot; setting, the activity it captures often becomes training material. The good news is that it's a \u003cem\u003esetting\u003c/em\u003e, which means you have a say. The practical habit: when you get one of these \u0026quot;we're updating how we save your data\u0026quot; emails, don't just dismiss it. Open your account's data or activity controls, look at what's being stored, and turn off what you're not comfortable sharing. You lose a little personalization; you keep more of your searches, snapshots, and recordings to yourself.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+    "published_at": "2026-06-10",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "training",
+    "multimodal"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-11",
+  "date": "2026-06-10",
+  "related": [
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ba06cb",
+      "slug": "apple-private-cloud-ai",
+      "type": "news",
+      "title": "Can Cloud AI Be Private? Apple's Bet",
+      "hook": "Apple's pitch for its AI is privacy: small models run on your device, and bigger ones run in the cloud — even on Google's servers — in a way Apple says gives the host no access to your data.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_98e80e#0",
+      "format": "quiz",
+      "prompt": "What does Google's new 'Search Services History' setting save?",
+      "choices": [
+        {
+          "text": "Images, files, audio, and video you use to search — including Lens and Translate",
+          "correct": true
+        },
+        {
+          "text": "Only the text you type into the search box",
+          "correct": false
+        },
+        {
+          "text": "Nothing — it just speeds up results",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer The Verge, the setting saves the images, files, audio, and video behind\nyour searches — Lens photos, voice queries, Translate audio — which can feed AI.\u003c/p\u003e"
+    },
+    {
+      "id": "card_98e80e#1",
+      "format": "flip",
+      "prompt": "What's the practical move when a service starts saving your activity for AI?",
+      "back_html": "\u003cp\u003eOpen the settings, see what's being stored, and switch it off if you'd\nrather not contribute your searches and recordings to training data.\u003c/p\u003e"
+    }
+  ]
+}

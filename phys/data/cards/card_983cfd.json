@@ -1,0 +1,99 @@
+{
+  "id": "card_983cfd",
+  "slug": "why-we-might-miss-alien-life",
+  "type": "news",
+  "title": "We Might Already Be Overlooking Signs of Alien Life",
+  "hook": "It's not just that we haven't found alien life — researchers warn we might be looking right at evidence of it and not recognizing it, because we mostly search for signs that look like Earth's own.",
+  "key_points": [
+    "Utrecht University researchers, writing in Nature Astronomy, catalog ways a real biosignature could be missed.",
+    "Signs of life can fade over time, be too faint to detect, or get masked by other planetary processes.",
+    "Current instruments may simply lack the sensitivity or design to catch certain kinds of life.",
+    "The team's blunt diagnosis: 'we tend to look for things we already know,' biasing searches toward Earth-like signatures.",
+    "They recommend combining lab work, modeling, and fieldwork, plus AI to flag unfamiliar patterns humans might dismiss."
+  ],
+  "content_html": "\u003cp\u003eFinding alien life gets most of the attention, but a team led by Inge Loes ten Kate at Utrecht University argues the more immediate danger is a quieter one: missing it even when it's there. Writing in Nature Astronomy, the researchers lay out several ways a genuine biosignature could slip past us undetected.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe risks stack up: chemical traces of life can degrade before instruments ever reach them, real signals can simply be too faint, and today's detection technology may not be built to catch every kind of evidence. Atmospheric processes on a planet can mask or strip away the very gases scientists are hunting for. And perhaps most fundamentally, as the team puts it, \u0026quot;we tend to look for things we already know\u0026quot; — biasing searches toward Earth-like signatures and risking blindness to life that doesn't look familiar. To close these gaps, they recommend a more systematic approach: pairing laboratory experiments, modeling, and fieldwork; scouting candidate landing sites thoroughly before missions arrive; using AI to flag patterns a human might dismiss; and building crisper, testable hypotheses before committing a mission to a target. The goal isn't just to search harder, but to search in a way that doesn't quietly rule out the answer before it's found.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260623083121.htm",
+    "published_at": "2026-06-29",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-29",
+  "related": [
+    {
+      "id": "card_29de9d",
+      "slug": "alien-signals-scrambled-by-stars",
+      "type": "news",
+      "title": "Are Alien Signals Scrambled by Their Own Stars?",
+      "hook": "SETI hunts for razor-thin radio signals. A new study warns a sender's own turbulent star could smear that signal across frequencies — hiding it from us.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_983cfd#0",
+      "format": "flip",
+      "prompt": "What's the core worry raised by this Nature Astronomy study?",
+      "back_html": "\u003cp\u003eNot that alien life is absent, but that real evidence of it could already be within\nreach and still go unrecognized — a false negative rather than a true absence.\u003c/p\u003e"
+    },
+    {
+      "id": "card_983cfd#1",
+      "format": "quiz",
+      "prompt": "Which of these is one of the false-negative risks the researchers describe?",
+      "choices": [
+        {
+          "text": "Planetary processes masking or removing the relevant gases",
+          "correct": true
+        },
+        {
+          "text": "Aliens deliberately hiding their biosignatures from us",
+          "correct": false
+        },
+        {
+          "text": "Telescopes being pointed at the wrong star entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study lists degradation, signal weakness, instrument limits, atmospheric masking,\nand unfamiliar life signatures — not intentional concealment or simple targeting\nmistakes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_983cfd#2",
+      "format": "flip",
+      "prompt": "Why does the researchers' line 'we tend to look for things we already know' matter?",
+      "back_html": "\u003cp\u003eIt captures a built-in bias: missions are designed around Earth-like biosignatures, so\ngenuinely alien forms of life could be sitting in the data and still escape notice.\u003c/p\u003e"
+    },
+    {
+      "id": "card_983cfd#3",
+      "format": "quiz",
+      "prompt": "What do the researchers recommend to reduce these blind spots?",
+      "choices": [
+        {
+          "text": "Combine lab experiments, modeling, and fieldwork, and use AI to spot unfamiliar patterns",
+          "correct": true
+        },
+        {
+          "text": "Focus missions exclusively on planets that look exactly like Earth",
+          "correct": false
+        },
+        {
+          "text": "Wait for better telescopes before proposing any new hypotheses",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTheir proposed fix is a systematic strategy: pairing lab and field work with modeling,\npreparing landing sites in advance, and deploying AI to catch patterns humans might\noverlook or dismiss as noise.\u003c/p\u003e"
+    }
+  ]
+}

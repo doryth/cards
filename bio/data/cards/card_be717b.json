@@ -1,0 +1,101 @@
+{
+  "id": "card_be717b",
+  "slug": "how-life-began",
+  "type": "concept",
+  "title": "How Life Began",
+  "hook": "Before the first living thing, there was only chemistry. Abiogenesis is the idea — and active research — into how plain molecules on early Earth crossed the line into life.",
+  "key_points": [
+    "Abiogenesis is the origin of life from non-living chemistry.",
+    "Early Earth's conditions could form simple building blocks like amino acids.",
+    "Life likely needed self-copying molecules, an energy source, and a boundary (membrane).",
+    "Many scientists suspect RNA could both store information and speed reactions early on."
+  ],
+  "content_html": "\u003cp\u003eHow did life get started on a planet that began as bare rock, water, and gas? The scientific name for the question is abiogenesis: the origin of life from non-living chemistry. Nobody has the full answer, but the outline is becoming clearer. Early Earth had the raw ingredients and energy — lightning, heat from vents, ultraviolet light — to assemble simple building blocks, including amino acids, from plain molecules. Classic experiments and studies of deep-sea vents and meteorites all show such building blocks form readily.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe harder leap is from a soup of molecules to something that counts as alive. As Britannica describes, most researchers agree life needed at least three things: a molecule that can copy itself (heredity), a source of energy to drive its reactions, and a boundary — a membrane — to keep its parts together and separate from the outside. A leading idea is the \u0026quot;RNA world,\u0026quot; because RNA can both store genetic information and act as a catalyst, so a single kind of molecule might have done double duty before DNA and proteins specialized. From there, natural selection could take over, refining these primitive systems into the first true cells. We may never know exactly which path Earth took, but the chemistry shows it's a question of how, not whether, simple matter can give rise to life.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/abiogenesis",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "origin-of-life"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_71676e",
+      "slug": "the-history-of-life",
+      "type": "concept",
+      "title": "The History of Life",
+      "hook": "Life is about 3.5 billion years old, but for most of that time it was just microbes. Animals, plants, and us are latecomers crowded into the most recent slice of deep time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_be717b#0",
+      "format": "flip",
+      "prompt": "What does 'abiogenesis' mean?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eorigin of life from non-living matter\u003c/strong\u003e — how ordinary chemistry on early\nEarth gave rise to the first living, self-sustaining systems.\u003c/p\u003e"
+    },
+    {
+      "id": "card_be717b#1",
+      "format": "quiz",
+      "prompt": "What does the 'RNA world' hypothesis propose about early life?",
+      "choices": [
+        {
+          "text": "RNA could both store information and speed up reactions, before DNA and proteins took over",
+          "correct": true
+        },
+        {
+          "text": "The first life used DNA exactly like modern cells do",
+          "correct": false
+        },
+        {
+          "text": "Early life needed no genetic molecule at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRNA can carry genetic information \u003cem\u003eand\u003c/em\u003e act as a catalyst. The RNA-world idea is\nthat such dual-purpose molecules came first, with DNA and proteins evolving later.\u003c/p\u003e"
+    },
+    {
+      "id": "card_be717b#2",
+      "format": "quiz",
+      "prompt": "Which of these is thought to be a requirement for the earliest life?",
+      "choices": [
+        {
+          "text": "A molecule that can copy itself, plus energy and some boundary",
+          "correct": true
+        },
+        {
+          "text": "A fully formed brain to direct its activities",
+          "correct": false
+        },
+        {
+          "text": "Sunlight and nothing else",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLife needs \u003cstrong\u003eheredity\u003c/strong\u003e (a self-copying molecule), an \u003cstrong\u003eenergy source\u003c/strong\u003e, and a\n\u003cstrong\u003eboundary\u003c/strong\u003e like a membrane to hold its contents together — the bare essentials.\u003c/p\u003e"
+    }
+  ]
+}

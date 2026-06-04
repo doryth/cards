@@ -1,0 +1,99 @@
+{
+  "id": "card_82a753",
+  "slug": "homeostasis",
+  "type": "concept",
+  "title": "Homeostasis: Staying Balanced",
+  "hook": "Your body works hard to keep its inside world steady — temperature, water, blood sugar — no matter what's happening outside. That balancing act is homeostasis.",
+  "key_points": [
+    "Homeostasis is the maintenance of a stable internal environment.",
+    "It relies on feedback: the body senses a change and acts to reverse it.",
+    "Examples include holding body temperature near 37°C and steadying blood sugar.",
+    "Most regulation is negative feedback — pushing a wandering value back to its set point."
+  ],
+  "content_html": "\u003cp\u003eHomeostasis is the body's relentless effort to keep its internal conditions steady. Outside, the weather swings and meals come and go; inside, temperature, water balance, blood sugar, and pH stay remarkably constant. This stability isn't passive — it's actively defended, moment to moment, by systems that monitor each value and correct any drift.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trick is feedback. A sensor detects that something has wandered from its target — say, body temperature creeping above the roughly 37°C set point — and the body responds to push it back: blood vessels widen and you sweat to shed heat. Get too cold and the opposite kicks in, with shivering and narrowed vessels. This pattern, where the response counters the change, is called negative feedback, and it governs most of the body's regulation. The result is a kind of dynamic balance: not frozen, but constantly nudged back toward center, so your cells always have the stable conditions they need to work.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "human-body"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_630b44",
+      "slug": "circulatory-system",
+      "type": "concept",
+      "title": "The Circulatory System",
+      "hook": "Your heart pumps blood through roughly 60,000 miles of vessels, delivering oxygen and fuel to every cell and hauling waste away — about once a minute.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d14f9d",
+      "slug": "what-is-a-cell",
+      "type": "concept",
+      "title": "What Is a Cell?",
+      "hook": "Every living thing — from a bacterium to a blue whale — is built from cells, the smallest unit that can call itself alive.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_82a753#0",
+      "format": "flip",
+      "prompt": "What is homeostasis?",
+      "back_html": "\u003cp\u003eThe maintenance of a \u003cstrong\u003estable internal environment\u003c/strong\u003e — keeping things like\ntemperature, water, and blood sugar steady despite outside changes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_82a753#1",
+      "format": "quiz",
+      "prompt": "When you get too hot and start sweating, that is an example of...",
+      "choices": [
+        {
+          "text": "negative feedback restoring your set temperature",
+          "correct": true
+        },
+        {
+          "text": "the body abandoning temperature control",
+          "correct": false
+        },
+        {
+          "text": "positive feedback amplifying the heat",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSweating cools you down, pushing temperature back toward its set point — a\nclassic negative-feedback correction.\u003c/p\u003e"
+    },
+    {
+      "id": "card_82a753#2",
+      "format": "quiz",
+      "prompt": "What does most homeostatic regulation rely on?",
+      "choices": [
+        {
+          "text": "Feedback loops that sense a change and act to counter it",
+          "correct": true
+        },
+        {
+          "text": "Keeping every internal value frozen and never changing",
+          "correct": false
+        },
+        {
+          "text": "Random fluctuations that cancel out by luck",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe body detects when a value drifts and triggers a response to bring it back —\na feedback loop, not a frozen state.\u003c/p\u003e"
+    }
+  ]
+}

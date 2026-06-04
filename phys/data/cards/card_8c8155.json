@@ -1,0 +1,81 @@
+{
+  "id": "card_8c8155",
+  "slug": "rydberg-time-crystal-ultralong-lifetime",
+  "type": "paper",
+  "title": "A Time Crystal That Kept Ticking for Nearly 17 Hours",
+  "hook": "Time crystals oscillate forever without needing energy input to keep going — in theory. A new Rydberg-atom version kept its rhythm for almost 17 hours, orders of magnitude longer than any before it.",
+  "key_points": [
+    "A continuous time crystal is a nonequilibrium quantum phase that spontaneously oscillates on its own, without periodic external driving — breaking time-translation symmetry the way a crystal breaks spatial symmetry.",
+    "Previous time crystals typically decayed after seconds or less, limited by instability in their oscillation.",
+    "Using a driven, dissipative cloud of Rydberg atoms with engineered long-range interactions, researchers stabilized the oscillation and suppressed the usual heating and decay.",
+    "The result: oscillations lasting over 16.95 hours — orders of magnitude beyond prior time crystals — opening doors for quantum sensing and continuous-time quantum information processing."
+  ],
+  "content_html": "\u003cp\u003eA \u0026quot;time crystal\u0026quot; is a strange kind of quantum matter: instead of settling into a still, low-energy state, it keeps oscillating on its own, spontaneously breaking time-translation symmetry much as an ordinary crystal breaks up smooth, uniform space into a repeating lattice. In principle these oscillations could persist indefinitely under steady pumping — but in practice, every time crystal built so far has decayed within seconds, undone by heating and instability in its oscillation cycle.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team led by Qi-Feng Wang, Dong-Sheng Ding, and Bao-Sen Shi built a driven, dissipative cloud of Rydberg atoms — atoms excited to a very large, loosely bound state — engineered with long-range interactions and a carefully tuned dissipative environment. That combination stabilized the system's limit-cycle dynamics, closing what's known as the Liouvillian gap and suppressing the heating and decay that normally destroy time-crystalline order. The payoff was an oscillation that persisted for over 16.95 hours, dwarfing every previous time crystal by orders of magnitude. Beyond the record itself, the result establishes a robust platform for studying long-lived nonequilibrium quantum phases, with potential applications in quantum sensing and continuous-time quantum information processing.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Qi-Feng Wang",
+      "Tian-Yu Han",
+      "Dong-Sheng Ding",
+      "Bao-Sen Shi"
+    ],
+    "url": "https://arxiv.org/abs/2607.09247",
+    "published_at": "2026-07-10",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "atomic-nuclear"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-16",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8c8155#0",
+      "format": "flip",
+      "prompt": "What makes a 'continuous time crystal' different from an ordinary oscillating system?",
+      "back_html": "\u003cp\u003eIt oscillates \u003cstrong\u003espontaneously\u003c/strong\u003e under steady pumping, without any periodic driving\nforcing the rhythm — breaking time-translation symmetry, similar to how an\nordinary crystal breaks spatial symmetry.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8c8155#1",
+      "format": "flip",
+      "prompt": "What limited earlier time crystals, and how did this experiment get past it?",
+      "back_html": "\u003cp\u003eEarlier time crystals decayed quickly because their oscillation was unstable.\nUsing long-range interactions between Rydberg atoms and a carefully engineered\ndissipative environment, the team suppressed the heating and decay that usually\nkill the oscillation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8c8155#2",
+      "format": "flip",
+      "prompt": "How long did the new Rydberg-atom time crystal keep oscillating?",
+      "back_html": "\u003cp\u003eOver \u003cstrong\u003e16.95 hours\u003c/strong\u003e — orders of magnitude longer than any previous\ntime-crystal realization.\u003c/p\u003e"
+    }
+  ]
+}

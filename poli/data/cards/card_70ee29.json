@@ -1,0 +1,136 @@
+{
+  "id": "card_70ee29",
+  "slug": "who-sets-federal-election-rules",
+  "type": "news",
+  "title": "Who Actually Sets the Rules for a Federal Election",
+  "hook": "The Constitution hands the times, places and manner of congressional elections to state legislatures, with Congress able to override. The president is not on that list.",
+  "key_points": [
+    "Article I, Section 4 — the Elections Clause — gives states the power to set the times, places and manner of congressional elections, subject to override by Congress.",
+    "That is why an election rule imposed by executive order draws immediate challenges: the authority claimed has to come from a statute Congress passed.",
+    "In August 2026 the Supreme Court let parts of a Trump order restricting mail-in voting take effect while litigation continues.",
+    "Election law scholar John J. Martin notes the ruling was narrow: it did not decide whether the order is constitutional.",
+    "Courts can also split a policy apart — one piece allowed to proceed while an agency's role in carrying it out stays blocked.",
+    "Unresolved rules close to an election are their own problem: officials, campaigns and voters have to plan against a moving target."
+  ],
+  "content_html": "\u003cp\u003eThe U.S. Constitution is unusually specific about who writes election rules. Article I, Section 4 — the Elections Clause — assigns the \u0026quot;times, places and manner\u0026quot; of congressional elections to each state's legislature, and then lets Congress \u0026quot;make or alter such Regulations\u0026quot; whenever it wants. The president appears nowhere in that sentence. So when the White House regulates elections by executive order, the first question in court is not whether the policy is wise but where the power came from.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat framing explains the August 2026 fight over an order restricting mail-in voting for the midterms. Writing in The Conversation, Quinnipiac law professor John J. Martin argues the Supreme Court's Aug. 24 intervention was narrow: it allowed parts of the order to move forward while the litigation continues, without ruling on whether the order is constitutional. Lower courts continued to sort out which pieces could operate — at one point blocking Postal Service work on the order nationwide, then lifting that block.\u003c/p\u003e\n\u003cp\u003eThe civics lesson outlasts the case. A ruling on what happens \u003cem\u003eduring\u003c/em\u003e a lawsuit is not a ruling on who is right, and the further a decision slides toward election day, the more the uncertainty itself becomes the consequence.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "John J. Martin"
+    ],
+    "url": "https://theconversation.com/narrow-mail-in-voting-ruling-by-supreme-court-adds-uncertainty-to-midterm-elections-without-addressing-constitutionality-of-trumps-executive-order-290421",
+    "published_at": "2026-08-25",
+    "license": "CC BY-ND (The Conversation)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_b7bae3",
+      "slug": "an-administrative-stay-buys-time",
+      "type": "news",
+      "title": "The One-Justice Order That Freezes a Case",
+      "hook": "Before the Supreme Court decides anything, a single justice can push pause. That's how White House ballroom construction kept going after two lower courts had ordered it stopped.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-21"
+    },
+    {
+      "id": "card_605440",
+      "slug": "purcell-principle-and-timing",
+      "type": "news",
+      "title": "The Calendar as a Legal Strategy",
+      "hook": "Courts avoid changing election rules close to voting day. That gives a litigant a strange incentive: argue the other side sued too early, and the clock does the rest.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-04"
+    },
+    {
+      "id": "card_ffead7",
+      "slug": "what-an-executive-order-cannot-change",
+      "type": "news",
+      "title": "What an Executive Order Can and Cannot Change",
+      "hook": "A presidential order can tell the executive branch what to aim for. It can't skip the process an agency must follow — which is why headlines and reality often diverge.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_4baecf",
+      "slug": "mail-ballot-grace-periods",
+      "type": "news",
+      "title": "Mail Ballot Grace Periods",
+      "hook": "A ballot mailed on Election Day can still arrive days later. Should it count? States disagree — and in 2026 the Supreme Court sided with the states that say yes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_466bf3",
+      "slug": "separation-of-powers",
+      "type": "concept",
+      "title": "Separation of Powers",
+      "hook": "Split government into branches that make, enforce, and interpret the law — so no single part can do all three.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_466bf3",
+      "slug": "separation-of-powers",
+      "type": "concept",
+      "title": "Separation of Powers",
+      "hook": "Split government into branches that make, enforce, and interpret the law — so no single part can do all three.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_70ee29#0",
+      "format": "flip",
+      "prompt": "Under the Elections Clause, who sets the rules for congressional elections?",
+      "back_html": "\u003cp\u003eState legislatures set the times, places and manner — and \u003cstrong\u003eCongress\u003c/strong\u003e\nmay make or alter those regulations. The president is not named.\u003c/p\u003e"
+    },
+    {
+      "id": "card_70ee29#1",
+      "format": "quiz",
+      "prompt": "The Supreme Court let parts of the mail-in voting order take effect. What did that decide?",
+      "choices": [
+        {
+          "text": "Nothing about whether the order is constitutional — the merits are still open",
+          "correct": true
+        },
+        {
+          "text": "That the order is constitutional and the case is over",
+          "correct": false
+        },
+        {
+          "text": "That states may no longer run their own elections",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMartin describes the ruling as narrow: it governed what happens while\nthe case proceeds, leaving the constitutional question undecided.\u003c/p\u003e"
+    },
+    {
+      "id": "card_70ee29#2",
+      "format": "flip",
+      "prompt": "Why is legal uncertainty near an election costly even before anyone wins?",
+      "back_html": "\u003cp\u003eElection officials, campaigns and voters must plan months ahead. Rules\nthat may change mid-cycle force them to prepare for several outcomes.\u003c/p\u003e"
+    }
+  ]
+}

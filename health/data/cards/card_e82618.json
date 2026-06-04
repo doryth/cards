@@ -1,0 +1,91 @@
+{
+  "id": "card_e82618",
+  "slug": "ultrasound-treatment-prevents-arthritis",
+  "type": "news",
+  "title": "An Ultrasound Treatment That May Stop Arthritis Before It Starts",
+  "hook": "A simple, non-invasive ultrasound treatment nudges immune cells in an injured joint away from damaging inflammation and toward repair — potentially heading off arthritis before it takes hold.",
+  "key_points": [
+    "Researchers tested a non-invasive, low-intensity ultrasound treatment on injured joints.",
+    "The treatment encourages immune cells called macrophages to shift from an inflammatory state toward one that supports tissue repair.",
+    "Joint injuries often get trapped in a cycle of ongoing inflammation that leads to arthritis over time.",
+    "The goal is to intervene right after injury, potentially preventing arthritis rather than treating it once established."
+  ],
+  "content_html": "\u003cp\u003eA joint injury doesn't always heal cleanly — sometimes it settles into a slow-burning cycle of inflammation that, over years, turns into arthritis. Researchers at the University of Alabama in Huntsville tested a way to interrupt that cycle early: a simple, non-invasive ultrasound treatment.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, continuous low-intensity ultrasound encouraged macrophages — immune cells that show up at an injury site — to shift from an inflammatory state toward one that supports tissue repair. That shift matters because it's the ongoing inflammation, not the initial injury itself, that tends to drive long-term joint damage. If this holds up in further research, it points to a genuinely different strategy than most current arthritis care: intervening right after an injury to help prevent arthritis, rather than managing it once it's already set in.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260710003521.htm",
+    "published_at": "2026-07-12",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "chronic-conditions",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-12",
+  "related": [
+    {
+      "id": "card_846743",
+      "slug": "knee-arthritis-without-surgery",
+      "type": "news",
+      "title": "Easing Knee Arthritis Without Surgery",
+      "hook": "Knee osteoarthritis often ends in joint replacement. A minimally invasive procedure that blocks the inflammation-feeding blood vessels eased pain for at least a year — no surgery.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "card_b02d1f",
+      "slug": "osteoarthritis-regeneration-injection",
+      "type": "news",
+      "title": "An Injection That Regenerates Arthritic Joints",
+      "hook": "In animal studies, a single injection restored arthritic joints to health within weeks — by regenerating damaged tissue rather than just easing the pain.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_a41d55",
+      "slug": "staying-strong-as-you-age",
+      "type": "concept",
+      "title": "Staying Strong as You Age",
+      "hook": "The decline we associate with old age is partly the result of doing less. Staying active — in four distinct ways — keeps you independent far longer.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e82618#0",
+      "format": "flip",
+      "prompt": "How does this ultrasound treatment help an injured joint, according to the research?",
+      "back_html": "\u003cp\u003eIt encourages \u003cstrong\u003emacrophages\u003c/strong\u003e — immune cells at the injury site — to shift from an\ninflammatory state toward one that supports \u003cstrong\u003etissue repair\u003c/strong\u003e, instead of staying\nstuck in a damaging inflammatory cycle.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e82618#1",
+      "format": "quiz",
+      "prompt": "What's the key difference between this approach and most existing arthritis treatments?",
+      "choices": [
+        {
+          "text": "It aims to prevent arthritis after an injury, rather than treat it once established",
+          "correct": true
+        },
+        {
+          "text": "It's a surgical joint replacement technique",
+          "correct": false
+        },
+        {
+          "text": "It only works on joints that already have severe arthritis",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMost arthritis treatments address disease that's already present. This approach\ntargets the window right after a joint injury, aiming to prevent arthritis from\ndeveloping in the first place.\u003c/p\u003e"
+    }
+  ]
+}

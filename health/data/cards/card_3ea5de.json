@@ -1,0 +1,98 @@
+{
+  "id": "card_3ea5de",
+  "slug": "gip-brain-switch-weight-loss",
+  "type": "news",
+  "title": "The Brain Switch Where Blocking and Activating Both Work",
+  "hook": "Two obesity drugs do opposite things to the same receptor — and both cause weight loss. Researchers found the answer is location: it depends which part of the brain you hit.",
+  "key_points": [
+    "Drug developers were puzzled that both GIP receptor agonists and blockers cause weight loss.",
+    "In mice, activating the GIP receptor in the brainstem reduced appetite.",
+    "Blocking it in the hypothalamus released a 'brake' on fullness signals.",
+    "Same receptor, opposite manipulations, different brain regions — both roads to eating less.",
+    "Suggests combining GIP-targeting drugs with GLP-1 drugs could produce stronger effects."
+  ],
+  "content_html": "\u003cp\u003eDrug developers had a genuine puzzle on their hands. Some obesity drugs \u003cem\u003eactivate\u003c/em\u003e the GIP receptor. Others \u003cem\u003eblock\u003c/em\u003e it. Both lead to weight loss, which shouldn't be possible if the receptor does one thing. Researchers working in mice now have an explanation, and it's about geography.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe GIP receptor sits in more than one place in the brain, and it does different jobs depending on where. Activating it in the brainstem reduced appetite directly. Blocking it in the hypothalamus did something else entirely: it lifted a brake that had been damping fullness signals, so satiety registered more strongly. Two opposite manipulations, two different regions, and both arrive at eating less.\u003c/p\u003e\n\u003cp\u003eThat's satisfying as science, but it also has a practical edge. If the two mechanisms are genuinely separate, they might be stacked — and stacked on top of GLP-1 drugs like the ones behind Wegovy and Ozempic, which work through yet another pathway. The researchers suggest carefully combined GIP and GLP-1 targeting could be stronger than either alone. This is mouse work for now, and \u0026quot;carefully\u0026quot; is doing real work in that sentence, but it maps the terrain the next generation of obesity drugs will be built on.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260814011039.htm",
+    "published_at": "2026-08-15",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "healthy-weight",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-17",
+  "date": "2026-08-15",
+  "related": [
+    {
+      "id": "card_77b219",
+      "slug": "why-the-brain-defends-lost-weight",
+      "type": "news",
+      "title": "Your Brain Fights to Get the Weight Back",
+      "hook": "Regaining weight isn't a willpower failure. The brain treats your former higher weight as normal and defends it — with more hunger, stronger cravings, and less energy burned.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-03"
+    },
+    {
+      "id": "card_cce0de",
+      "slug": "glp1-craving-center-brain",
+      "type": "news",
+      "title": "Ozempic May Have Revealed the Brain's Craving Switch",
+      "hook": "GLP-1 drugs blunt more than hunger — they dull cravings for alcohol too. Scientists are tracing that effect to one small brain region: the lateral septum.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "card_6bf44e",
+      "slug": "new-weight-loss-pill-orforglipron",
+      "type": "news",
+      "title": "A New Weight-Loss Pill Beats Oral Ozempic in a Major Trial",
+      "hook": "Orforglipron, a once-daily weight-loss pill, outperformed oral semaglutide on weight loss and blood sugar in a major trial — and skips the refrigeration and meal-timing rules.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3ea5de#0",
+      "format": "quiz",
+      "prompt": "Why can both activating and blocking the GIP receptor promote weight loss?",
+      "choices": [
+        {
+          "text": "The two act in different brain regions, each reducing food intake its own way",
+          "correct": true
+        },
+        {
+          "text": "One works only in men and the other only in women",
+          "correct": false
+        },
+        {
+          "text": "Blocking it has no real effect; the weight loss is placebo",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIn mice, activating the receptor in the \u003cstrong\u003ebrainstem\u003c/strong\u003e cut appetite, while blocking\nit in the \u003cstrong\u003ehypothalamus\u003c/strong\u003e removed a brake on fullness signals.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3ea5de#1",
+      "format": "flip",
+      "prompt": "What did blocking the GIP receptor in the hypothalamus do?",
+      "back_html": "\u003cp\u003eIt removed a kind of \u003cstrong\u003ebrake\u003c/strong\u003e on fullness signals, letting satiety register more\nstrongly.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3ea5de#2",
+      "format": "flip",
+      "prompt": "What practical direction does this suggest for obesity drugs?",
+      "back_html": "\u003cp\u003eCarefully combining GIP-targeting treatments with GLP-1 drugs — the class behind\nWegovy and Ozempic — could produce stronger effects than either alone.\u003c/p\u003e"
+    }
+  ]
+}

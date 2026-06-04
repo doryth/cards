@@ -1,0 +1,99 @@
+{
+  "id": "card_c65348",
+  "slug": "memory-and-learning",
+  "type": "concept",
+  "title": "Memory and Learning",
+  "hook": "Every memory you hold is a pattern of connections between neurons — and learning is, quite literally, your brain rewiring itself to make those connections stronger.",
+  "key_points": [
+    "Memories are stored as patterns of connections (synapses) between neurons, not in any single cell.",
+    "Learning strengthens the synapses that fire together — a principle behind synaptic plasticity.",
+    "Short-term memory holds information briefly; repetition and recall help convert it to long-term memory.",
+    "The hippocampus is crucial for forming new long-term memories before they settle across the cortex."
+  ],
+  "content_html": "\u003cp\u003eThere is no tiny filing cabinet in your head. A memory isn't kept in one place or one cell — it is a pattern of connections spread across networks of neurons. When you learn, your brain physically changes: the links between the neurons involved grow stronger, so the same pattern fires more easily next time. That is what remembering feels like from the inside.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNeuroscientists describe this rewiring as synaptic plasticity, often summed up as \u0026quot;neurons that fire together, wire together.\u0026quot; A fleeting experience first lingers in short-term memory; with attention, repetition, and recall, it can be consolidated into long-term memory. The hippocampus, a seahorse-shaped structure deep in the brain, is essential for encoding new long-term memories before they gradually settle into the wider cortex. The importance of these systems becomes painfully clear when they fail: as NIH's NINDS notes in its overview of dementia, damage to memory-forming regions like the hippocampus is among the earliest and most disabling signs of conditions such as Alzheimer's disease, robbing people of the ability to lay down new memories even when older ones remain.\u003c/p\u003e",
+  "source": {
+    "name": "NIH NINDS",
+    "url": "https://www.ninds.nih.gov/health-information/disorders/dementia",
+    "license": "Public domain (U.S. National Institute of Neurological Disorders and Stroke)"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_945f3f",
+      "slug": "neurons-and-signals",
+      "type": "concept",
+      "title": "Neurons and Signals",
+      "hook": "Your every thought, twitch, and feeling rides on tiny electrical pulses fired by neurons — and leaps the gaps between them as bursts of chemicals.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f21e0c",
+      "slug": "the-brain",
+      "type": "concept",
+      "title": "The Brain",
+      "hook": "Three pounds of folded tissue runs the whole show — thinking, balance, breathing, memory — divided into regions that each handle a different part of the job.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c65348#0",
+      "format": "flip",
+      "prompt": "Physically, what is a memory made of in the brain?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003epattern of connections between neurons\u003c/strong\u003e. No single cell holds a\nmemory — it lives in the strengthened synapses linking many neurons together.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c65348#1",
+      "format": "quiz",
+      "prompt": "What happens to synapses when you learn something through practice?",
+      "choices": [
+        {
+          "text": "The connections between the neurons involved grow stronger",
+          "correct": true
+        },
+        {
+          "text": "New neurons replace all the old ones",
+          "correct": false
+        },
+        {
+          "text": "The synapses disappear to save space",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRepeated activity strengthens the synapses between neurons that fire\ntogether — a process called synaptic plasticity, the basis of learning.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c65348#2",
+      "format": "quiz",
+      "prompt": "Which brain region is essential for forming new long-term memories?",
+      "choices": [
+        {
+          "text": "The hippocampus",
+          "correct": true
+        },
+        {
+          "text": "The cerebellum",
+          "correct": false
+        },
+        {
+          "text": "The brainstem",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe hippocampus helps encode new long-term memories, which gradually become\ndistributed across the cortex for lasting storage.\u003c/p\u003e"
+    }
+  ]
+}

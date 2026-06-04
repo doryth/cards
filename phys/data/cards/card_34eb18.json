@@ -1,0 +1,100 @@
+{
+  "id": "card_34eb18",
+  "slug": "star-formation-slump-not-a-fuel-shortage",
+  "type": "news",
+  "title": "The Universe Still Has the Fuel — It Just Stopped Building Stars",
+  "hook": "Star formation has collapsed over the last few billion years, yet the hydrogen supply barely dropped. The universe isn't running out of fuel; it's forgetting how to burn it.",
+  "key_points": [
+    "Stars condense out of clouds of neutral hydrogen, so less hydrogen should mean fewer stars.",
+    "China's FAST radio telescope measured neutral hydrogen across ~2.5 million DESI galaxies.",
+    "4.5 billion years ago, star formation ran about 2.5x higher than today.",
+    "But neutral hydrogen back then was only about 1.4x higher — nowhere near enough to explain the drop.",
+    "So the bottleneck isn't the fuel supply but how efficiently galaxies turn gas into stars."
+  ],
+  "content_html": "\u003cp\u003eAstronomers have known for a while that the universe's star-making has been winding down — but the\nusual explanation, that galaxies are running low on gas, now looks wrong. Using China's FAST radio\ntelescope together with a DESI survey of roughly 2.5 million galaxies, researchers compared how much\nneutral hydrogen galaxies held with how fast they were forming stars, then and now.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe numbers don't line up. Star formation 4.5 billion years ago was about 2.5 times today's rate,\nwhile the neutral hydrogen reservoir was only about 1.4 times larger. If fuel scarcity were the\nwhole story, those two ratios would track each other. Instead the gap points at efficiency: galaxies\nstill hold plenty of hydrogen, but something — gas that's too hot, too diffuse, or stirred up by\nblack hole feedback — is keeping it from collapsing into new stars. Reported by ScienceDaily; see the\nsource for the institutions and instruments involved.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/09/260902234442.htm",
+    "published_at": "2026-09-03",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "cosmology"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-03",
+  "related": [
+    {
+      "id": "card_449648",
+      "slug": "black-hole-winds-quench-galaxies",
+      "type": "news",
+      "title": "Black Hole Winds Starve Their Own Galaxies",
+      "hook": "Why do the biggest galaxies hold far fewer stars than expected? New X-ray data caught a supermassive black hole blasting out winds that sweep away the gas stars need to form.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9d6f94",
+      "slug": "fast-radio-bursts-track-star-formation",
+      "type": "paper",
+      "title": "Fast Radio Bursts Follow Star Formation Almost Instantly",
+      "hook": "Mysterious millisecond flashes from across the universe closely track where new stars are being born — with almost no time lag, ruling out one of the leading theories of what causes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-10"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_34eb18#0",
+      "format": "flip",
+      "prompt": "Why is the drop in cosmic star formation surprising?",
+      "back_html": "\u003cp\u003eThe raw material didn't disappear with it. Neutral hydrogen — the gas stars form from —\nhas barely declined, so galaxies have the fuel and simply aren't using it as effectively.\u003c/p\u003e"
+    },
+    {
+      "id": "card_34eb18#1",
+      "format": "quiz",
+      "prompt": "Star formation was ~2.5x higher 4.5 billion years ago, but hydrogen only ~1.4x higher. What does that gap imply?",
+      "choices": [
+        {
+          "text": "Galaxies have become less efficient at converting gas into stars",
+          "correct": true
+        },
+        {
+          "text": "The universe has nearly exhausted its supply of hydrogen",
+          "correct": false
+        },
+        {
+          "text": "Star formation rates were measured incorrectly by DESI",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA modest fuel decline can't account for a much larger drop in star formation, so the\nlimiting factor has to be conversion efficiency rather than the amount of gas available.\u003c/p\u003e"
+    },
+    {
+      "id": "card_34eb18#2",
+      "format": "flip",
+      "prompt": "What two instruments produced this result, and what did each contribute?",
+      "back_html": "\u003cp\u003eFAST, a giant radio telescope, measured the neutral hydrogen; DESI supplied the survey of\nroughly 2.5 million galaxies those measurements were stacked across.\u003c/p\u003e"
+    }
+  ]
+}

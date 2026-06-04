@@ -1,0 +1,137 @@
+{
+  "id": "card_fff082",
+  "slug": "superfund-cleanup-and-retesting",
+  "type": "news",
+  "title": "Who Checks Whether a Cleanup Held?",
+  "hook": "The EPA remediated 13,000 Omaha yards and moved on. Reporters retested 620 of them for $10 a sample — and found lead above the agency's own trigger in four of every ten.",
+  "key_points": [
+    "Omaha's 27-square-mile lead Superfund site, created after a smelter closed in the 1990s, is the largest residential lead site in the US.",
+    "The EPA remediated over 13,000 properties by December 2015, handed remaining work to the city, and does not typically retest.",
+    "ProPublica sampled soil at 620 homes over two years, using single samples analyzed by an EPA-accredited lab at about $10 each.",
+    "41% of yards citywide exceeded 100 ppm — a level an EPA model links to elevated blood-lead in children; over half of 390 yards inside the site did.",
+    "One in ten of 150 already-remediated yards topped 400 ppm, the EPA's original cleanup threshold.",
+    "Recontaminated yards clustered beside untreated lots, suggesting contaminated soil migrates from properties the cleanup skipped."
+  ],
+  "content_html": "\u003cp\u003eEnvironmental regulation has a follow-up problem. Agencies are organized to \u003cem\u003edo\u003c/em\u003e cleanups — assess a site, treat it, sign off — and much less well organized to ask, years later, whether the treatment held. ProPublica's testing in Omaha put a number on that gap.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eOmaha's Superfund site covers 27 square miles, designated after the American Smelting and Refining Company's operations closed in the 1990s left more than a century of lead deposition; it is the largest residential lead Superfund site in the country. The EPA began testing in 1999 after elevated blood-lead levels turned up in children, remediated more than 13,000 residential properties by December 2015, then transferred the remaining work to the city. What it does not do is retest — so residents who want current data generally have to pay for it.\u003c/p\u003e\n\u003cp\u003eSo reporters did the testing. Over two years they collected soil from 620 homes, taking a single sample of three or four tablespoons from the middle of each yard with a sterilized spoon, away from houses and roads, and sending them to an EPA-accredited lab at roughly $10 apiece. Forty-one percent of yards citywide came back above 100 parts per million, a level an EPA model associates with elevated blood-lead in children; inside the Superfund boundary, more than half of 390 yards exceeded it. Among 150 yards the EPA had already remediated, about one in ten topped 400 ppm — the threshold that triggered the original cleanup — and those clustered near properties that were never treated, pointing to soil migrating from untreated lots. The EPA criticized the single-sample method as potentially biased high or low, while outside experts told ProPublica that enough single samples do support broad conclusions about an area; the agency said it would look into the findings and work with Omaha under its 2009 cleanup guidance. The transferable lesson is about institutional design rather than lead: a program that funds remediation but not verification is telling you how much it spent, not what it achieved.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "url": "https://propublica.org/article/omaha-nebraska-lead-testing-superfund-methodology",
+    "published_at": "2026-08-04",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "environment-and-politics",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-04",
+  "related": [
+    {
+      "id": "card_bb70fb",
+      "slug": "environmental-governance",
+      "type": "concept",
+      "title": "Environmental Governance",
+      "hook": "How do you regulate something that ignores borders and belongs to no one? Environmental governance is the toolkit societies use to manage nature collectively.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7fbbeb",
+      "slug": "journalism-and-federal-policy-change",
+      "type": "news",
+      "title": "From Local Investigation to Federal Policy, in Two Months",
+      "hook": "A local newsroom's investigation found California let dozens of teachers accused of sexual misconduct keep working. The federal government cited it directly when it acted.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3fb211",
+      "slug": "tragedy-of-the-commons",
+      "type": "concept",
+      "title": "The Tragedy of the Commons",
+      "hook": "When everyone shares a resource but no one owns it, each person's rational choice can add up to collective ruin. That trap explains a huge slice of environmental politics.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_bb70fb",
+      "slug": "environmental-governance",
+      "type": "concept",
+      "title": "Environmental Governance",
+      "hook": "How do you regulate something that ignores borders and belongs to no one? Environmental governance is the toolkit societies use to manage nature collectively.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_fff082#0",
+      "format": "flip",
+      "prompt": "Why does a completed environmental cleanup not settle whether the site is safe?",
+      "back_html": "\u003cp\u003eBecause nobody is required to check again. Remediation is verified when\nthe work is done; without retesting, later recontamination — for\ninstance from untreated neighboring lots — goes unmeasured.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fff082#1",
+      "format": "quiz",
+      "prompt": "What did ProPublica's soil sampling find in Omaha yards that had already been remediated?",
+      "choices": [
+        {
+          "text": "About 1 in 10 of the 150 tested exceeded 400 ppm, the EPA's original cleanup threshold",
+          "correct": true
+        },
+        {
+          "text": "None exceeded any EPA threshold",
+          "correct": false
+        },
+        {
+          "text": "All of them exceeded the original cleanup threshold",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRemediated yards were not immune: roughly a tenth were back above the\n400 ppm level that triggered cleanup in the first place, clustering near\nuntreated lots.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fff082#2",
+      "format": "quiz",
+      "prompt": "The EPA objected that single soil samples could be 'biased high or low'. What was the response?",
+      "choices": [
+        {
+          "text": "Experts said single samples support broad conclusions about an area when enough are collected",
+          "correct": true
+        },
+        {
+          "text": "The samples were discarded and never analyzed",
+          "correct": false
+        },
+        {
+          "text": "The EPA's own composite method was shown to be invalid",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe disagreement is about methodology, not results: one sample per yard\nis noisy for one yard, but 620 of them characterize a neighborhood.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "version": "2026-09-03.2f0a74bd",
+  "topics": [
+    {
+      "id": "foundations-of-government",
+      "title": "Foundations of Government",
+      "slug": "foundations-of-government",
+      "parent": "how-government-works",
+      "order": 10,
+      "card_order": "learning-path",
+      "blurb": "What government is for, and the core ideas of democracy, sovereignty, and the rule of law.",
+      "related_topic_ids": [
+        "branches-separation-of-powers",
+        "federalism-levels"
+      ]
+    },
+    {
+      "id": "how-government-works",
+      "title": "How Government Works",
+      "slug": "how-government-works",
+      "order": 10,
+      "blurb": "The building blocks of a state — who holds power and how it is organized."
+    },
+    {
+      "id": "branches-separation-of-powers",
+      "title": "Branches \u0026 Separation of Powers",
+      "slug": "branches-separation-of-powers",
+      "parent": "how-government-works",
+      "order": 11,
+      "card_order": "learning-path",
+      "blurb": "Splitting power into legislative, executive, and judicial roles that check one another.",
+      "related_topic_ids": [
+        "foundations-of-government",
+        "how-laws-are-made"
+      ]
+    },
+    {
+      "id": "federalism-levels",
+      "title": "Federalism \u0026 Levels of Government",
+      "slug": "federalism-levels",
+      "parent": "how-government-works",
+      "order": 12,
+      "card_order": "learning-path",
+      "blurb": "How power is shared between national, regional, and local layers of government.",
+      "related_topic_ids": [
+        "foundations-of-government",
+        "branches-separation-of-powers"
+      ]
+    },
+    {
+      "id": "comparative-systems",
+      "title": "Comparative Systems of Government",
+      "slug": "comparative-systems",
+      "parent": "how-government-works",
+      "order": 13,
+      "card_order": "learning-path",
+      "blurb": "How democracies differ from one another — and from authoritarian rule — in who holds power and how.",
+      "related_topic_ids": [
+        "branches-separation-of-powers",
+        "foundations-of-government"
+      ]
+    },
+    {
+      "id": "history-and-theory",
+      "title": "Political Theory \u0026 History",
+      "slug": "history-and-theory",
+      "parent": "how-government-works",
+      "order": 14,
+      "card_order": "learning-path",
+      "blurb": "Where political ideas came from — the thinkers and history that shaped how we govern today.",
+      "related_topic_ids": [
+        "foundations-of-government",
+        "parties-and-ideologies"
+      ]
+    },
+    {
+      "id": "citizens-participation",
+      "title": "Citizens \u0026 Participation",
+      "slug": "citizens-participation",
+      "order": 20,
+      "blurb": "How laws get made and how people choose and influence their leaders."
+    },
+    {
+      "id": "how-laws-are-made",
+      "title": "How Laws Are Made",
+      "slug": "how-laws-are-made",
+      "parent": "citizens-participation",
+      "order": 20,
+      "card_order": "learning-path",
+      "blurb": "The path from an idea to a binding law — drafting, debate, voting, and approval.",
+      "related_topic_ids": [
+        "branches-separation-of-powers",
+        "elections-voting-systems"
+      ]
+    },
+    {
+      "id": "elections-voting-systems",
+      "title": "Elections \u0026 Voting Systems",
+      "slug": "elections-voting-systems",
+      "parent": "citizens-participation",
+      "order": 21,
+      "card_order": "learning-path",
+      "blurb": "How votes become seats — the main ways democracies translate ballots into power.",
+      "related_topic_ids": [
+        "how-laws-are-made",
+        "rights-civil-liberties"
+      ]
+    },
+    {
+      "id": "parties-and-ideologies",
+      "title": "Parties \u0026 Political Ideologies",
+      "slug": "parties-and-ideologies",
+      "parent": "citizens-participation",
+      "order": 22,
+      "card_order": "learning-path",
+      "blurb": "The left–right spectrum, the major ideologies, and how party systems organize political choice.",
+      "related_topic_ids": [
+        "elections-voting-systems",
+        "foundations-of-government"
+      ]
+    },
+    {
+      "id": "public-policy-economy",
+      "title": "Public Policy \u0026 the Economy",
+      "slug": "public-policy-economy",
+      "parent": "citizens-participation",
+      "order": 23,
+      "card_order": "learning-path",
+      "blurb": "How governments turn goals into policy, and how they tax, spend, and provide public goods.",
+      "related_topic_ids": [
+        "how-laws-are-made",
+        "parties-and-ideologies"
+      ]
+    },
+    {
+      "id": "media-civil-society",
+      "title": "Media, Civil Society \u0026 Public Opinion",
+      "slug": "media-civil-society",
+      "parent": "citizens-participation",
+      "order": 24,
+      "card_order": "learning-path",
+      "blurb": "The free press, interest groups, and social movements as channels of influence and accountability.",
+      "related_topic_ids": [
+        "elections-voting-systems",
+        "rights-civil-liberties"
+      ]
+    },
+    {
+      "id": "citizenship-civic-life",
+      "title": "Citizenship \u0026 Civic Life",
+      "slug": "citizenship-civic-life",
+      "parent": "citizens-participation",
+      "order": 25,
+      "card_order": "learning-path",
+      "blurb": "What it means to be a citizen — the status, the rights and duties, and the many ways people take part.",
+      "related_topic_ids": [
+        "elections-voting-systems",
+        "rights-civil-liberties"
+      ]
+    },
+    {
+      "id": "accountability-and-corruption",
+      "title": "Accountability \u0026 Corruption",
+      "slug": "accountability-and-corruption",
+      "parent": "citizens-participation",
+      "order": 26,
+      "card_order": "learning-path",
+      "blurb": "How power is kept honest — oversight, transparency, and the corrosive problem of corruption.",
+      "related_topic_ids": [
+        "media-civil-society",
+        "rights-civil-liberties"
+      ]
+    },
+    {
+      "id": "rights-and-world",
+      "title": "Rights \u0026 the Wider World",
+      "slug": "rights-and-world",
+      "order": 30,
+      "blurb": "The freedoms government protects and how states deal with one another."
+    },
+    {
+      "id": "rights-civil-liberties",
+      "title": "Rights \u0026 Civil Liberties",
+      "slug": "rights-civil-liberties",
+      "parent": "rights-and-world",
+      "order": 30,
+      "card_order": "learning-path",
+      "blurb": "The freedoms and protections individuals hold against the power of the state.",
+      "related_topic_ids": [
+        "foundations-of-government",
+        "elections-voting-systems"
+      ]
+    },
+    {
+      "id": "international-relations",
+      "title": "International Relations \u0026 Global Governance",
+      "slug": "international-relations",
+      "parent": "rights-and-world",
+      "order": 31,
+      "card_order": "learning-path",
+      "blurb": "How sovereign states interact — treaties, international law, the UN and other bodies, diplomacy and conflict.",
+      "related_topic_ids": [
+        "rights-civil-liberties",
+        "foundations-of-government"
+      ]
+    },
+    {
+      "id": "human-rights",
+      "title": "Human Rights",
+      "slug": "human-rights",
+      "parent": "rights-and-world",
+      "order": 32,
+      "card_order": "learning-path",
+      "blurb": "The idea that every person holds basic rights simply by being human — and the global effort to protect them.",
+      "related_topic_ids": [
+        "rights-civil-liberties",
+        "international-relations"
+      ]
+    },
+    {
+      "id": "global-political-economy",
+      "title": "Global Political Economy",
+      "slug": "global-political-economy",
+      "parent": "politics-modern-world",
+      "order": 40,
+      "card_order": "learning-path",
+      "blurb": "How economics and politics meet across borders — globalization, trade, and the gap between rich and poor nations.",
+      "related_topic_ids": [
+        "public-policy-economy",
+        "international-relations"
+      ]
+    },
+    {
+      "id": "politics-modern-world",
+      "title": "Politics \u0026 the Modern World",
+      "slug": "politics-modern-world",
+      "order": 40,
+      "blurb": "The forces shaping politics today — the global economy, the environment, security, and technology."
+    },
+    {
+      "id": "environment-and-politics",
+      "title": "Environment \u0026 Politics",
+      "slug": "environment-and-politics",
+      "parent": "politics-modern-world",
+      "order": 41,
+      "card_order": "learning-path",
+      "blurb": "Why shared environmental problems are so hard to solve — and how states try to govern them together.",
+      "related_topic_ids": [
+        "public-policy-economy",
+        "international-relations"
+      ]
+    },
+    {
+      "id": "conflict-and-security",
+      "title": "Conflict \u0026 Security",
+      "slug": "conflict-and-security",
+      "parent": "politics-modern-world",
+      "order": 42,
+      "card_order": "learning-path",
+      "blurb": "War, peace, and the threats states prepare for — from terrorism to nuclear weapons.",
+      "related_topic_ids": [
+        "international-relations",
+        "comparative-systems"
+      ]
+    },
+    {
+      "id": "technology-and-politics",
+      "title": "Technology \u0026 Politics",
+      "slug": "technology-and-politics",
+      "parent": "politics-modern-world",
+      "order": 43,
+      "card_order": "learning-path",
+      "blurb": "How digital technology is reshaping power, privacy, and democracy itself.",
+      "related_topic_ids": [
+        "media-civil-society",
+        "rights-civil-liberties"
+      ]
+    }
+  ]
+}

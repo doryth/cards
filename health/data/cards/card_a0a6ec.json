@@ -1,0 +1,79 @@
+{
+  "id": "card_a0a6ec",
+  "slug": "food-safety-at-home",
+  "type": "concept",
+  "title": "Food Safety at Home",
+  "hook": "Most food poisoning starts in an ordinary kitchen. Four simple habits — clean, separate, cook, chill — prevent the great majority of it.",
+  "key_points": [
+    "Clean: wash hands, utensils, and surfaces often when handling food.",
+    "Separate: keep raw meat, poultry, and seafood away from ready-to-eat foods.",
+    "Cook: use a food thermometer to reach safe internal temperatures.",
+    "Chill: refrigerate perishables promptly, within two hours (one in the heat)."
+  ],
+  "content_html": "\u003cp\u003eYou don't need a restaurant kitchen to give yourself food poisoning — most cases trace back to the home. The good news is that the official guidance boils down to four words anyone can remember.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eFoodSafety.gov, run by the U.S. Department of Health and Human Services, organizes home food safety around four steps. Clean: wash your hands and sanitize surfaces and utensils frequently, and rinse produce. Separate: keep raw meat, poultry, seafood, and their juices away from foods that won't be cooked, using different cutting boards to avoid cross-contamination. Cook: heat foods to safe internal temperatures, checked with a food thermometer rather than guessed by color. Chill: refrigerate perishables promptly — within two hours, or one hour when it's hotter than 90°F — and thaw frozen food in the fridge, not on the counter. Bacteria multiply fastest in the \u0026quot;danger zone\u0026quot; between about 40°F and 140°F, and these four habits are designed to keep food out of it.\u003c/p\u003e",
+  "source": {
+    "name": "FoodSafety.gov (U.S. HHS)",
+    "url": "https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety",
+    "license": "Public domain (U.S. Department of Health \u0026 Human Services)"
+  },
+  "topic_ids": [
+    "family-wellness"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b74b25",
+      "slug": "handwashing-the-cheapest-medicine",
+      "type": "concept",
+      "title": "Handwashing: The Cheapest Medicine",
+      "hook": "It sounds almost too simple, but washing your hands well is one of the most effective things you can do to stop the spread of illness in a household.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9774bc",
+      "slug": "produce-safety-rules-15-years",
+      "type": "news",
+      "title": "Fifteen Years of Produce Safety Rules, and Outbreaks Keep Coming",
+      "hook": "The FDA wrote real rules for how farms grow your salad. The problem is almost nobody checks whether farms follow them — some have never had a single inspection.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-24"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a0a6ec#0",
+      "format": "flip",
+      "prompt": "What are the four steps to food safety?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eClean, Separate, Cook, Chill\u003c/strong\u003e — wash often, keep raw meat apart from\nready-to-eat food, cook to safe temperatures, and refrigerate promptly.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a0a6ec#1",
+      "format": "quiz",
+      "prompt": "How soon should perishable food be refrigerated?",
+      "choices": [
+        {
+          "text": "Within 2 hours (1 hour if it's hot out)",
+          "correct": true
+        },
+        {
+          "text": "Within 12 hours",
+          "correct": false
+        },
+        {
+          "text": "Only the next morning",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFoodSafety.gov advises refrigerating perishables within 2 hours — or within 1\nhour if the temperature is above 90°F (32°C) — to keep bacteria from\nmultiplying.\u003c/p\u003e"
+    }
+  ]
+}

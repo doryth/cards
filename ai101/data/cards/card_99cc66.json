@@ -1,0 +1,118 @@
+{
+  "id": "card_99cc66",
+  "slug": "ai-proctored-exam-collapse",
+  "type": "news",
+  "title": "58,000 Students Must Retake an Exam an AI Was Watching",
+  "hook": "An AI invigilated a remote exam. Top scores jumped fivefold, the results became meaningless, and 58,000 students have to sit the whole thing again.",
+  "key_points": [
+    "Ars Technica reports 58,000 students must retake a remotely AI-proctored exam.",
+    "Top scores reportedly increased fivefold, a signal something went badly wrong.",
+    "AI proctoring watches webcam, screen, and behavior for signs of cheating.",
+    "A monitor that misses cheating at scale destroys the result for honest students too.",
+    "The failure is systemic: everyone retakes, including those who did nothing wrong."
+  ],
+  "content_html": "\u003cp\u003eAn exam supervised remotely by AI has been invalidated, and Ars Technica reports that 58,000 students must retake it. The tell was the score distribution: top scores reportedly increased fivefold over what the exam normally produces.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAI proctoring replaces the person walking between desks with software that watches a webcam feed, the test-taker's screen, and patterns of behavior, flagging anything suspicious. It's attractive because it's cheap and scales to tens of thousands of candidates at once — and this is the failure mode that comes with that scale. A human invigilator who misses something affects one room. An automated one that can be worked around affects everybody simultaneously, and cohorts do not get five times better at a subject in a single sitting, so the numbers themselves gave it away. The part worth sitting with is who absorbs the cost. Once results can't be trusted there is no way to separate the honest scripts from the rest, so the only available remedy punishes everyone: 58,000 people re-sit an exam most of them presumably took in good faith. It's a good general lesson about automating a high-stakes check — the savings are immediate and the failure, when it comes, is collective.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Nate Anderson"
+    ],
+    "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it",
+    "published_at": "2026-08-03",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-and-kids",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-03",
+  "related": [
+    {
+      "id": "card_1ab6bf",
+      "slug": "ai-cheating-in-person-final",
+      "type": "news",
+      "title": "A Professor Suspected AI Cheating — Then Scores Fell 50%",
+      "hook": "When a Brown University professor, suspecting AI-written homework, switched to an in-person final, class scores dropped roughly in half — a stark hint at what students may not be learning.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-08"
+    },
+    {
+      "id": "card_df602c",
+      "slug": "ai-kids-and-school",
+      "type": "concept",
+      "title": "AI, Kids \u0026 School",
+      "hook": "Banning AI is like banning calculators — futile and beside the point. The real job is teaching kids to use it honestly, to learn with it, and to know when it's lying.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_03fe8f",
+      "slug": "ai-detectors-distrust",
+      "type": "news",
+      "title": "AI Detectors Are Making Everyone Suspicious of Everyone",
+      "hook": "Tools that claim to spot AI writing are unreliable enough to flag honest work — and the damage isn't just false accusations. It's that nobody trusts anything anymore.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_99cc66#0",
+      "format": "quiz",
+      "prompt": "Why was a fivefold jump in top scores treated as a red flag rather than good news?",
+      "choices": [
+        {
+          "text": "A sudden mass improvement points at the exam's integrity, not at learning",
+          "correct": true
+        },
+        {
+          "text": "Exam boards are required to cap the number of high scores",
+          "correct": false
+        },
+        {
+          "text": "It proved the AI proctor was too strict",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCohorts don't get five times better at something in one sitting. An implausible score\ndistribution is evidence the test measured something other than knowledge.\u003c/p\u003e"
+    },
+    {
+      "id": "card_99cc66#1",
+      "format": "flip",
+      "prompt": "What does an AI proctor actually do?",
+      "back_html": "\u003cp\u003eIt monitors a remote test-taker — webcam, microphone, screen, behavior patterns —\nand flags anything that looks like cheating, in place of a human invigilator.\u003c/p\u003e"
+    },
+    {
+      "id": "card_99cc66#2",
+      "format": "quiz",
+      "prompt": "Who pays the cost when automated exam monitoring fails at scale?",
+      "choices": [
+        {
+          "text": "Everyone, including honest students who must sit the exam again",
+          "correct": true
+        },
+        {
+          "text": "Only the students who were caught cheating",
+          "correct": false
+        },
+        {
+          "text": "Only the software vendor",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOnce results can't be trusted, the only remedy is invalidating the whole sitting —\nwhich is why automating a high-stakes check is riskier than it looks.\u003c/p\u003e"
+    }
+  ]
+}

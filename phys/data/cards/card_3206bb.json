@@ -1,0 +1,135 @@
+{
+  "id": "card_3206bb",
+  "slug": "how-many-elementary-particles",
+  "type": "news",
+  "title": "How Many Elementary Particles Are There, Really?",
+  "hook": "Count the Standard Model's particles and you might say 17 — but tweak the rules and the tally climbs past 900, with one rigorous answer that isn't even a whole number.",
+  "key_points": [
+    "The classroom Standard Model lists 17 particles: 12 matter fermions, 4 force-carriers, and the Higgs.",
+    "Count antiparticles separately and you reach about 30; count the 8 colored gluons and you hit 37.",
+    "Tally every color of quark plus their antiparticles and the number climbs to 61.",
+    "Add chirality (left/right-handed) and polarization states and it grows to about 118.",
+    "A 2011 theorem counting 'degrees of freedom' lands on 995.5 — not even an integer.",
+    "The lesson: the answer depends entirely on which counting convention you pick."
+  ],
+  "content_html": "\u003cp\u003eOpen a physics textbook and the Standard Model fits neatly on a poster: 17 elementary particles — 12 matter particles (six quarks and six leptons, including the electron), four force-carriers like the photon and gluon, and the Higgs boson. Harvard's Melissa Franklin calls 17 \u0026quot;the right answer.\u0026quot; But press a little, and the number refuses to stay still.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Natalie Wolchover lays out in Quanta Magazine, the tally balloons depending on what you decide to count. Include antiparticles as distinct and you reach about 30; treat the gluon as its eight differently-\u0026quot;colored\u0026quot; versions and you hit 37; count every color of quark and antiquark and you get 61; fold in left- and right-handed versions and polarization states and it grows to roughly 118. The strangest figure comes from a 2011 theorem by Adam Schwimmer and Zohar Komargodski, which assigns each field a number of \u0026quot;degrees of freedom\u0026quot; (scalar fields 1, matter fields 5.5, force fields 62) — summing to 995.5 for the Standard Model. As theorist David Tong quipped, \u0026quot;the true answer to your question is not an integer!\u0026quot; The real takeaway isn't a number but a lesson: what counts as one \u0026quot;particle\u0026quot; is a choice of framework, not a fact of nature.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Natalie Wolchover"
+    ],
+    "url": "https://quantamagazine.org/how-many-elementary-particles-are-there-really-20260615",
+    "published_at": "2026-06-15",
+    "license": "© Quanta Magazine (summary; educational reference)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-18",
+  "date": "2026-06-15",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ab5171",
+      "slug": "the-higgs-boson",
+      "type": "concept",
+      "title": "The Higgs Boson",
+      "hook": "An invisible field fills all of space, and the harder a particle drags through it, the more mass it has. Finding the ripple that proved it took 50 years and the world's biggest machine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_aaec2a",
+      "slug": "glueball-x2370",
+      "type": "paper",
+      "title": "Physics's Long-Sought 'Glueball' May Finally Be Here",
+      "hook": "The strong force's glue can bind to itself, making a particle with no quarks at all. Physicists hunted these 'glueballs' for 50 years — BESIII says the X(2370) is the strongest candidate yet.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "card_bbad10",
+      "slug": "tau-lepton-magnetic-moment",
+      "type": "paper",
+      "title": "The Sharpest Look Yet at the Tau's Tiny Magnet",
+      "hook": "Every charged particle is a tiny magnet, and quantum jitters nudge its strength. Measuring that nudge tests the Standard Model — and CMS just made the best check yet for the tau lepton.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-22"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3206bb#0",
+      "format": "flip",
+      "prompt": "Why can physicists give wildly different answers for the number of elementary particles?",
+      "back_html": "\u003cp\u003eBecause the count depends on convention — whether you tally antiparticles, each gluon's\ncolor, left/right-handed and polarization states, or count abstract \u0026quot;degrees of freedom.\u0026quot;\u003c/p\u003e"
+    },
+    {
+      "id": "card_3206bb#1",
+      "format": "quiz",
+      "prompt": "How many particles appear on the standard classroom Standard Model chart?",
+      "choices": [
+        {
+          "text": "17",
+          "correct": true
+        },
+        {
+          "text": "61",
+          "correct": false
+        },
+        {
+          "text": "995.5",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe poster version shows 17: 12 matter fermions, 4 force-carriers, and the Higgs. Larger\nnumbers come from finer counting conventions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3206bb#2",
+      "format": "quiz",
+      "prompt": "Why did a rigorous 2011 method yield 995.5 — not a whole number?",
+      "choices": [
+        {
+          "text": "It counts 'degrees of freedom,' assigning fractional values (matter fields count as 5.5)",
+          "correct": true
+        },
+        {
+          "text": "The physicists made an arithmetic mistake",
+          "correct": false
+        },
+        {
+          "text": "Because some particles can be physically split in half",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe theorem assigns degrees of freedom (scalar 1, matter 5.5, force 62), which sum to 995.5 —\nso the \u0026quot;count\u0026quot; need not be an integer at all.\u003c/p\u003e"
+    }
+  ]
+}

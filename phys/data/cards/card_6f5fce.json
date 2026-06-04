@@ -1,0 +1,114 @@
+{
+  "id": "card_6f5fce",
+  "slug": "lz-high-energy-recoil-event",
+  "type": "paper",
+  "title": "LZ's One Unexplained Recoil",
+  "hook": "The world's most sensitive dark matter detector widened its search window and found exactly one hard nuclear recoil where almost no background should be. Not a discovery — but not nothing either.",
+  "key_points": [
+    "LUX-ZEPLIN reported 2.84 tonne-years of xenon exposure, extending the nuclear-recoil window up to about 270 keV.",
+    "The wider window targets effective-field-theory and inelastic dark matter models, which predict harder recoils than the standard case.",
+    "One event was seen at 248 keV, with statistical and systematic uncertainties of about 23 keV each.",
+    "The known background expectation in that region is low, so a single event is already notable.",
+    "Tension with background-only is 2.6 sigma globally after the look-elsewhere effect, and up to 3.4 sigma locally.",
+    "Well short of the 5 sigma bar for discovery — the collaboration presents it as an event of interest, not a signal."
+  ],
+  "content_html": "\u003cp\u003eThe LUX-ZEPLIN experiment sits deep underground in South Dakota watching seven tonnes of liquid xenon for the tiny recoil a dark matter particle would leave behind. In a new analysis, the collaboration pushed its search up to roughly 270 keV of recoil energy — much harder than the usual hunting ground — and found a single event at 248 keV in a region where essentially no background was expected.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe extended window is not arbitrary. Standard spin-independent dark matter scattering piles up at low recoil energies, but effective-field-theory and inelastic models predict a much larger high-energy tail, so a search that stops early would simply miss them. Using 2.84 tonne-years of exposure, LZ found one event at 248 +/- 23 (stat) +/- 23 (sys) keV. A profile likelihood ratio test puts the tension with a background-only universe at 2.6 sigma globally once the look-elsewhere effect is accounted for, with a maximum local significance of 3.4 sigma across the models tested. The paper spends most of its length on the background model and the rare topologies — cosmogenic, radiogenic, and detector-edge effects — that could fake such a recoil. Theorists have already started proposing interpretations, but at this significance the honest reading is that one odd event turned up and more exposure will settle it.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "LUX-ZEPLIN (LZ) Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2609.02823",
+    "published_at": "2026-09-02",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_449869",
+      "slug": "higgsino-dark-matter-lz-event",
+      "type": "paper",
+      "title": "Could One Odd Recoil Be a Higgsino?",
+      "hook": "LUX-ZEPLIN saw a single 248 keV nuclear recoil it couldn't explain away. Two theorists point out that a TeV-mass Higgsino would produce exactly that kind of event — with no free parameters to tune.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-09-01"
+    },
+    {
+      "id": "card_d3bea2",
+      "slug": "higgsino-excluded-by-solar-capture",
+      "type": "paper",
+      "title": "The Sun Says No to the Higgsino Explanation",
+      "hook": "If a Higgsino caused LZ's odd recoil, the Sun would have been quietly hoovering up dark matter for billions of years — and IceCube would see the neutrinos. It doesn't.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-09-02"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2512e3",
+      "slug": "first-directional-dark-matter-limits",
+      "type": "paper",
+      "title": "A Dark Matter Detector That Asks Which Way the Hit Came From",
+      "hook": "Neutrons and dark matter can leave identical-looking recoils. MIMAC's answer: reconstruct the direction of each recoil and check whether it points where dark matter should come from.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6f5fce#0",
+      "format": "flip",
+      "prompt": "Why did LZ extend its nuclear-recoil energy window to about 270 keV?",
+      "back_html": "\u003cp\u003eBecause effective-field-theory and inelastic dark matter models put a larger share of their\npredicted recoils at high energy than the standard spin-independent case does.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6f5fce#1",
+      "format": "quiz",
+      "prompt": "How strong is the evidence from LZ's 248 keV event?",
+      "choices": [
+        {
+          "text": "2.6 sigma globally — interesting, but far below the discovery threshold",
+          "correct": true
+        },
+        {
+          "text": "5 sigma — a confirmed dark matter detection",
+          "correct": false
+        },
+        {
+          "text": "Zero — the event is fully explained by known backgrounds",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe global significance is 2.6 sigma after accounting for the look-elsewhere effect\n(3.4 sigma local at most). Particle physics reserves \u0026quot;discovery\u0026quot; for 5 sigma.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6f5fce#2",
+      "format": "flip",
+      "prompt": "What does the 'look-elsewhere effect' correct for?",
+      "back_html": "\u003cp\u003eFor the fact that you searched many models and energy regions. Some fluctuation somewhere is\nlikely by chance, so the local significance must be deflated to a smaller global one.\u003c/p\u003e"
+    }
+  ]
+}

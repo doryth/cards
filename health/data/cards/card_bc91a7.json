@@ -1,0 +1,91 @@
+{
+  "id": "card_bc91a7",
+  "slug": "food-preservatives-and-heart-risk",
+  "type": "news",
+  "title": "Common Preservatives, Higher Heart Risk",
+  "hook": "Tracking 112,000 people for up to eight years, researchers linked diets high in certain common food preservatives to more high blood pressure, heart attacks, and strokes.",
+  "key_points": [
+    "A study of more than 112,000 people followed them for up to eight years.",
+    "Diets high in certain common preservatives were linked to greater cardiovascular risk.",
+    "Higher risks included hypertension, heart attack, and stroke.",
+    "It's a link from real-world eating patterns, not proof any single additive causes harm."
+  ],
+  "content_html": "\u003cp\u003ePreservatives are in a huge share of packaged food, doing the quiet work of keeping it shelf-stable. A large study summarized by ScienceDaily raises a flag: people who ate the most of certain common preservatives had higher rates of heart-related disease.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe study followed more than 112,000 people for up to eight years and compared cardiovascular outcomes across how much of these additives they consumed. Those with the highest intake had significantly greater risks of high blood pressure, heart attack, stroke, and other cardiovascular problems.\u003c/p\u003e\n\u003cp\u003eThe careful reading matters here. This is an observational study of real-world diets, so it shows an \u003cem\u003eassociation\u003c/em\u003e, not proof that any single preservative causes heart disease — and diets heavy in preservatives also tend to be heavy in ultra-processed food generally. Still, it adds to a steady drumbeat of evidence pointing the same direction. The practical move isn't to panic over ingredient lists but to lean, where you can, toward less heavily processed foods — the same advice that keeps showing up for heart health.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260617032204.htm",
+    "published_at": "2026-06-18",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "nutrition",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-22",
+  "date": "2026-06-18",
+  "related": [
+    {
+      "id": "card_0cb019",
+      "slug": "ultra-processed-foods",
+      "type": "news",
+      "title": "Ultra-Processed Foods: The New Tobacco?",
+      "hook": "Researchers argue ultra-processed foods echo the tobacco industry's playbook in how they're engineered and marketed — concern crosses party lines, but policy has lagged behind.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_1501be",
+      "slug": "understanding-blood-pressure",
+      "type": "concept",
+      "title": "Understanding Blood Pressure",
+      "hook": "High blood pressure is called the 'silent killer' for a reason — it usually has no symptoms, yet it quietly raises your risk of heart attack and stroke.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fc9417",
+      "slug": "keeping-your-heart-healthy",
+      "type": "concept",
+      "title": "Keeping Your Heart Healthy",
+      "hook": "Most heart disease isn't bad luck — it's the sum of a few everyday habits. The American Heart Association distills them into eight that move the needle most.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bc91a7#0",
+      "format": "flip",
+      "prompt": "What did the large study link to high intake of certain common food preservatives?",
+      "back_html": "\u003cp\u003eA higher risk of \u003cstrong\u003ecardiovascular problems\u003c/strong\u003e — hypertension, heart attack, and stroke —\namong the more than 112,000 people followed for up to eight years.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bc91a7#1",
+      "format": "quiz",
+      "prompt": "What's the right way to read this preservative–heart finding?",
+      "choices": [
+        {
+          "text": "An association from real eating patterns, not proof one additive causes harm",
+          "correct": true
+        },
+        {
+          "text": "Proof that each named preservative directly causes heart attacks",
+          "correct": false
+        },
+        {
+          "text": "Evidence that all packaged food is equally dangerous",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt's a large observational study: it shows people eating the most of certain\npreservatives had higher risk, but can't by itself prove a single additive is the cause.\u003c/p\u003e"
+    }
+  ]
+}

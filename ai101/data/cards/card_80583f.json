@@ -1,0 +1,143 @@
+{
+  "id": "card_80583f",
+  "slug": "why-ai-makes-things-up",
+  "type": "concept",
+  "title": "When AI Makes Things Up",
+  "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+  "key_points": [
+    "A hallucination is AI stating something false as if it were fact.",
+    "It happens because models predict plausible text, not verified truth.",
+    "The danger is the confident tone — wrong answers sound just like right ones.",
+    "Defend yourself: verify facts, ask for sources, and check anything that matters."
+  ],
+  "content_html": "\u003cp\u003eWhen an AI confidently tells you something that simply isn't true — a fake quote, a made-up statistic, a book that doesn't exist — that's called a \u003cstrong\u003ehallucination\u003c/strong\u003e. It's tempting to think of it as a bug, but it's actually the technology behaving exactly as built. A generative model's whole job is to produce text that \u003cem\u003esounds\u003c/em\u003e right based on patterns it has seen. Most of the time plausible and true line up. Sometimes they don't, and the model produces a plausible falsehood with the same fluent confidence.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat confidence is the real hazard. A wrong answer doesn't come with a warning label or a nervous tone — it reads exactly like a correct one. People have submitted legal documents citing court cases the AI invented, and trusted summaries that quietly got the facts wrong. The fix isn't to distrust AI entirely; it's to use it for what it's good at and verify the rest. Treat any specific fact, name, date, number, or citation as \u003cem\u003eunconfirmed until checked\u003c/em\u003e. Ask the model for its sources and then actually look them up. For anything that carries real consequences — medical, legal, financial — AI is a starting point, never the final word.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Hallucination (artificial intelligence)",
+    "url": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "hallucinations"
+  ],
+  "tags": [
+    "safety",
+    "generative"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af049a",
+      "slug": "using-ai-responsibly",
+      "type": "concept",
+      "title": "Using AI Responsibly",
+      "hook": "The point of AI literacy isn't to use AI for everything — it's to use it well: check its work, be honest that you used it, and know the moments to put it down.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_74281d",
+      "slug": "fact-checking-ai",
+      "type": "concept",
+      "title": "How to Fact-Check AI",
+      "hook": "You can't tell a true AI answer from a made-up one by reading it — both sound equally sure. So build a habit: for anything that matters, verify it somewhere that isn't the AI.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a29f73",
+      "slug": "generative-ai",
+      "type": "concept",
+      "title": "Generative AI",
+      "hook": "The AI behind ChatGPT and image generators doesn't look up answers — it predicts what plausibly comes next, one piece at a time, until it has built a whole response.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_80583f#0",
+      "format": "quiz",
+      "prompt": "Why do AI chatbots 'hallucinate' false information?",
+      "choices": [
+        {
+          "text": "They predict plausible-sounding text, not verified truth",
+          "correct": true
+        },
+        {
+          "text": "They're infected with a virus",
+          "correct": false
+        },
+        {
+          "text": "They deliberately lie to users",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA generative model produces what \u003cem\u003esounds\u003c/em\u003e right based on patterns. With no\nfact-checker inside, a plausible-sounding falsehood can come out the same way.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80583f#1",
+      "format": "flip",
+      "prompt": "What makes hallucinations especially risky?",
+      "back_html": "\u003cp\u003eThe confident tone. A made-up answer is delivered just as fluently as a\ncorrect one, so you can't tell them apart without checking.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80583f#2",
+      "format": "quiz",
+      "prompt": "What's the best defense against AI hallucinations?",
+      "choices": [
+        {
+          "text": "Independently verify facts, names, and numbers that matter",
+          "correct": true
+        },
+        {
+          "text": "Ask the same question twice and trust the second answer",
+          "correct": false
+        },
+        {
+          "text": "Assume longer answers are more accurate",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVerification is the only reliable defense — check sources and cross-check\nanything important; repetition and length don't signal accuracy.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "card_4f796d",
+  "slug": "ukraine-drone-ai-fleet",
+  "type": "news",
+  "title": "50,000 Cheap Drones Get AI That Tracks Targets on Its Own",
+  "hook": "A $100 million deal will put US-developed AI onto 50,000 of Ukraine's low-cost kamikaze drones, letting them lock onto targets without a pilot — and laying groundwork for swarms.",
+  "key_points": [
+    "Ars Technica reports a $100M deal brings US-developed AI to 50,000 Ukrainian drones.",
+    "The AI lets cheap kamikaze drones track targets on their own.",
+    "Autonomous tracking also resists jamming, which cuts the radio link to a pilot.",
+    "The reporting points ahead to coordinated swarm attacks.",
+    "Scale is the story: this moves autonomy from one-off tests to standard equipment."
+  ],
+  "content_html": "\u003cp\u003eUkraine's cheap attack drones are getting AI that can hold onto a target without a human steering: Ars Technica reports a roughly $100 million deal to bring US-developed AI capabilities to 50,000 Ukrainian drones, with coordinated swarm attacks described as the direction of travel.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAn earlier report covered a one-time Ukrainian test of fully autonomous strikes; this is the industrial version of the same shift. Two forces are pushing it. One is jamming: a remotely piloted drone dies the moment its radio link is cut, while a drone that recognizes its target on board can finish the run. The other is arithmetic — one operator cannot fly a thousand drones, but one operator can supervise a thousand drones that fly themselves. That's what \u0026quot;swarm\u0026quot; means in practice, and it's why autonomy tends to arrive whether or not anyone settled the ethics. The line people argue over hasn't moved: AI has helped with navigation and target recognition for years, and the contested question is whether software should ever make the final decision to kill. What has moved is the scale. Fifty thousand units is not an experiment; it's a standard, and standards are much harder to walk back than tests.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks",
+    "published_at": "2026-08-03",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "robots",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "agent"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-03",
+  "related": [
+    {
+      "id": "card_bd52ba",
+      "slug": "autonomous-weapons-ukraine",
+      "type": "news",
+      "title": "When the Drone Decides: AI and Autonomous Weapons",
+      "hook": "Ukraine reportedly ran a one-time test of fully autonomous drones that chose and struck targets with no human pulling the trigger. The 'killer robot' debate just stopped being hypothetical.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "card_66e39d",
+      "slug": "robots-and-self-driving",
+      "type": "concept",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4f796d#0",
+      "format": "quiz",
+      "prompt": "Why is on-board target tracking militarily valuable beyond saving a pilot's attention?",
+      "choices": [
+        {
+          "text": "It keeps working when jamming cuts the radio link to the operator",
+          "correct": true
+        },
+        {
+          "text": "It makes the drone fly silently",
+          "correct": false
+        },
+        {
+          "text": "It removes the need for any explosives",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eElectronic jamming breaks the connection a remotely piloted drone depends on. A\ndrone that can hold a lock itself finishes the run regardless.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4f796d#1",
+      "format": "flip",
+      "prompt": "What changes when autonomy arrives at 50,000 units instead of one test?",
+      "back_html": "\u003cp\u003eIt stops being an experiment and becomes standard equipment — normalizing machines\nthat make targeting decisions faster than a human can review them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4f796d#2",
+      "format": "quiz",
+      "prompt": "What is the ethical line most debated about autonomous weapons?",
+      "choices": [
+        {
+          "text": "Whether software, rather than a person, makes the decision to strike",
+          "correct": true
+        },
+        {
+          "text": "Whether drones should be allowed to fly at night",
+          "correct": false
+        },
+        {
+          "text": "Whether AI can be used for navigation at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI has assisted navigation and targeting for years. The contested line is removing\nthe human from the choice to take a life.\u003c/p\u003e"
+    }
+  ]
+}

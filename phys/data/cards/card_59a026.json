@@ -1,0 +1,129 @@
+{
+  "id": "card_59a026",
+  "slug": "quantum-sensors-that-compute",
+  "type": "paper",
+  "title": "Don't Measure the Field, Measure the Answer",
+  "hook": "A single-qubit sensor gives you one bit per measurement. Instead of averaging thousands of them into a number, why not spend the quantum processing on the question you actually asked?",
+  "key_points": [
+    "A measurement of a single-qubit sensor reveals at most one bit about the signal it sensed.",
+    "The conventional route: repeat the protocol many times, average into a precise estimate, then classify in classical postprocessing.",
+    "Quantum computational sensing instead concentrates task-relevant information into that one bit before measuring.",
+    "The demonstration used one superconducting transmon qubit as both sensor and processor, with a SQUID loop picking up the magnetic field.",
+    "Quantum signal processing preprocessed the signal in the quantum domain prior to readout.",
+    "On static-field classification it beat Ramsey phase estimation by up to 15 percentage points; on oscillating fields it beat optimized dynamical decoupling by up to 20 points on amplitude and 15 on frequency."
+  ],
+  "content_html": "\u003cp\u003eQuantum sensing normally works like a very good thermometer. You prepare a qubit, let the field you care about imprint a phase on it, measure, and get one bit. Repeat thousands of times, average, and you have a precise number. Then, if what you actually wanted was a yes/no answer — is this field above threshold? is it oscillating at this frequency? — you compute that from the number afterwards, classically.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePurnendu Sen and colleagues point out that this throws information away. Each measurement yields one bit, and the conventional protocol spends all those bits on reconstructing the full signal even when the task needs far less. Quantum computational sensing turns the order around: use quantum processing \u003cem\u003ebefore\u003c/em\u003e readout to concentrate exactly the task-relevant information into the single bit each measurement gives you.\u003c/p\u003e\n\u003cp\u003eTheir demonstration is deliberately minimal — one superconducting transmon qubit does both jobs, sensing the magnetic field from a flux line through a double-junction SQUID loop built into the qubit, then preprocessing it with a quantum signal processing protocol before measurement. For binary classification of static fields, this beat the standard Ramsey phase-estimation baseline by as much as 15 percentage points. For oscillating fields it beat optimized dynamical-decoupling protocols by up to 20 points on amplitude classification and 15 on frequency. The point isn't the margins so much as the setting: this is a quantum computer helping a quantum sensor on hardware small enough and noisy enough that nobody would call it a computer.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Purnendu Sen",
+      "Mathieu Ouellet",
+      "Saeed A. Khan",
+      "William D. Oliver",
+      "Peter L. McMahon",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2608.17400",
+    "published_at": "2026-08-18",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-20",
+  "date": "2026-08-18",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0f51ff",
+      "slug": "quantum-sensor-hunts-dark-matter",
+      "type": "news",
+      "title": "A Quantum Sensor Built to Catch Dark Matter and Ancient Gravitational Waves",
+      "hook": "Two clouds of ultracold atoms, compared against each other, cancel out noise so well that a signal buried in one measurement reappears — aimed at dark matter and ancient gravitational waves.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_378915",
+      "slug": "three-qubits-one-josephson-junction",
+      "type": "paper",
+      "title": "Three Qubits Sharing a Single Josephson Junction",
+      "hook": "Superconducting processors usually give each qubit its own hardware. The 'multiunimon' packs three into one junction — and does three-qubit gates natively, in the time a single-qubit gate takes.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-14"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_59a026#0",
+      "format": "flip",
+      "prompt": "How much information does one measurement of a single-qubit sensor give you?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eAt most one bit.\u003c/strong\u003e That's the constraint the whole idea works around — you get one bit,\nso make it the most useful bit.\u003c/p\u003e"
+    },
+    {
+      "id": "card_59a026#1",
+      "format": "quiz",
+      "prompt": "What is the key difference between quantum computational sensing and the conventional approach?",
+      "choices": [
+        {
+          "text": "It computes the task-relevant answer in the quantum domain before measuring, instead of estimating the signal first and computing afterwards",
+          "correct": true
+        },
+        {
+          "text": "It uses many entangled qubits instead of one",
+          "correct": false
+        },
+        {
+          "text": "It replaces the qubit sensor with a classical magnetometer",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eConventionally you average many measurements into a precise classical estimate and then\npostprocess. QCS folds the classification into the quantum protocol so each single bit\nalready carries task-relevant information.\u003c/p\u003e"
+    },
+    {
+      "id": "card_59a026#2",
+      "format": "flip",
+      "prompt": "What hardware performed both the sensing and the computing in this experiment?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003esingle superconducting transmon qubit\u003c/strong\u003e, with the magnetic field picked up through a\ndouble-junction SQUID loop that was part of the qubit itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_59a026#3",
+      "format": "quiz",
+      "prompt": "What was the reported advantage over conventional baselines?",
+      "choices": [
+        {
+          "text": "Up to 15 percentage points better on static fields, and up to 20 (amplitude) and 15 (frequency) on oscillating fields",
+          "correct": true
+        },
+        {
+          "text": "An exponential reduction in the number of measurements required",
+          "correct": false
+        },
+        {
+          "text": "Identical accuracy but with far simpler hardware",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe gains were in classification accuracy against Ramsey phase estimation for static\nfields and optimized dynamical decoupling for oscillating ones.\u003c/p\u003e"
+    }
+  ]
+}

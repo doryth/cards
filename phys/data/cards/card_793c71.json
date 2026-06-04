@@ -1,0 +1,113 @@
+{
+  "id": "card_793c71",
+  "slug": "cavity-superconductivity-no-go",
+  "type": "paper",
+  "title": "The Vacuum Can't Boost Superconductivity (Directly)",
+  "hook": "Experiments hint that putting a superconductor in an optical cavity raises its transition temperature. A new theorem says plain vacuum fluctuations can only ever hurt — and shows the two loopholes.",
+  "key_points": [
+    "Recent experiments report cavity-vacuum-modified superconductivity, raising the question of when vacuum fluctuations could help.",
+    "Starting from Ginzburg–Landau theory coupled to a quantized cavity mode, the cavity correction splits into a positive diamagnetic term and a negative paramagnetic exchange term.",
+    "The no-go theorem: in a passive cavity the paramagnetic term can never outweigh the diamagnetic one, so vacuum fluctuations suppress superconductivity.",
+    "Loophole one, the collective-mode route: a cavity-active material excitation amplifies the attractive paramagnetic contribution.",
+    "Loophole two, the competing-order route: the cavity weakens an order competing with superconductivity, helping it indirectly.",
+    "The theorem becomes a design rule — enhancement requires an extra cavity-coupled material mode."
+  ],
+  "content_html": "\u003cp\u003eCavity quantum materials is an appealing idea: put a material inside a mirrored cavity and the reshaped electromagnetic vacuum changes the material's properties without ever shining light on it. Several experiments have reported superconductivity modified this way, which raises an obvious question — under what conditions can vacuum fluctuations actually \u003cem\u003eraise\u003c/em\u003e a transition temperature?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eQing-Dong Jiang answers it with a constraint. Starting from Ginzburg–Landau theory minimally coupled to a quantized cavity mode, the cavity's correction to the superconducting free energy splits into two pieces: a positive diamagnetic contribution and a negative paramagnetic exchange contribution. Enhancement needs the negative piece to win. Jiang proves it cannot, in a passive cavity, within minimal cavity electrodynamics — so bare vacuum fluctuations suppress superconductivity rather than help it.\u003c/p\u003e\n\u003cp\u003eThe useful part is what the proof leaves open. Both escape routes involve bringing in extra collective degrees of freedom. In the collective-mode route, an excitation of the material that itself couples to the cavity amplifies the attractive paramagnetic term past the diamagnetic one. In the competing-order route, the cavity doesn't touch superconductivity directly at all — it weakens some rival order that was suppressing it, and superconductivity gains by default. Read that way, the no-go theorem is a specification: if you want cavity-enhanced superconductivity, you need a cavity-coupled material mode doing one of those two jobs.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Qing-Dong Jiang"
+    ],
+    "url": "https://arxiv.org/abs/2608.14784",
+    "published_at": "2026-08-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-20",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_5f57f5",
+      "slug": "superconductivity",
+      "type": "concept",
+      "title": "Superconductivity: Electricity with Zero Resistance",
+      "hook": "Cool certain materials cold enough and their electrical resistance vanishes completely. A current set flowing in a loop would, in principle, circle forever without fading.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1e1cd4",
+      "slug": "light-programmable-superconductor",
+      "type": "paper",
+      "title": "Phase coherence control of a programmable high-Tc superconductor created by light",
+      "hook": "For 50+ years physicists chased superconductivity switched on by light — now a laser can write it, dial its temperature up or down, and erase it again, like a dimmer switch.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_d37946",
+      "slug": "ai-superconductor-discovery",
+      "type": "news",
+      "title": "AI Just Helped Find Two New Superconductors",
+      "hook": "Machine learning helped physicists find two new superconductors and sketch a faster route toward physics' biggest prize in the field: a superconductor that works at room temperature.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_4007e4",
+      "slug": "photon-vortices-in-superconductors",
+      "type": "paper",
+      "title": "Direct Observation of Photon-Induced Vortices in Superconducting Films",
+      "hook": "Hit a superconducting wire with a single photon, and it kicks up a tiny quantum 'tornado' — and by counting the tornadoes one at a time, physicists can now count photons one at a time.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_793c71#0",
+      "format": "quiz",
+      "prompt": "What does the no-go theorem say about a superconductor in a passive optical cavity?",
+      "choices": [
+        {
+          "text": "Vacuum fluctuations suppress rather than enhance superconductivity",
+          "correct": true
+        },
+        {
+          "text": "Vacuum fluctuations always raise the transition temperature slightly",
+          "correct": false
+        },
+        {
+          "text": "The cavity has no effect at all on the superconductor",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe positive diamagnetic contribution always dominates the negative paramagnetic exchange\nterm in a passive cavity, so the net effect is suppression.\u003c/p\u003e"
+    },
+    {
+      "id": "card_793c71#1",
+      "format": "flip",
+      "prompt": "What are the two routes around the no-go theorem?",
+      "back_html": "\u003col\u003e\n\u003cli\u003e\u003cstrong\u003eCollective-mode route\u003c/strong\u003e — a cavity-active material excitation amplifies the attractive\nparamagnetic contribution.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eCompeting-order route\u003c/strong\u003e — the cavity weakens an order that competes with\nsuperconductivity, boosting it indirectly.\u003c/li\u003e\n\u003c/ol\u003e"
+    },
+    {
+      "id": "card_793c71#2",
+      "format": "flip",
+      "prompt": "How does the theorem turn into a design principle?",
+      "back_html": "\u003cp\u003eSince a bare passive cavity can't help, enhancement \u003cstrong\u003erequires an additional\ncavity-coupled material mode\u003c/strong\u003e — one that either strengthens paramagnetic exchange or\nsuppresses a competing order.\u003c/p\u003e"
+    }
+  ]
+}

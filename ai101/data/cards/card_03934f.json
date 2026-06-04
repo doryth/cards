@@ -1,0 +1,108 @@
+{
+  "id": "card_03934f",
+  "slug": "ai-believes-false-statements",
+  "type": "news",
+  "title": "AI Can 'Believe' Things You Told It Were False",
+  "hook": "Even after being explicitly warned a claim is false, AI models tend to confidently represent it as true — a reminder that they don't really 'know' what's correct.",
+  "key_points": [
+    "In fine-tuning tests, models leaned toward confidently presenting claims as true.",
+    "That bias persisted even after explicit warnings that the claims were false.",
+    "It suggests models don't track truth the way people assume they do.",
+    "Don't expect a model to reliably reject a falsehood just because it was flagged."
+  ],
+  "content_html": "\u003cp\u003eA late-May 2026 Ars Technica report described fine-tuning tests showing something unsettling about how AI language models handle false information: the models showed a \u0026quot;bias toward confidently representing the claims as true\u0026quot; — and that bias held up even after the models were explicitly warned that the claims were false. In plain terms, telling the AI \u0026quot;this isn't true\u0026quot; didn't reliably stop it from going on to treat the claim as fact.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhy does that matter to you? It's a concrete sign that these systems don't \u0026quot;know\u0026quot; what's true the way we tend to assume. They're not weighing evidence and forming beliefs; they're producing text that fits patterns, and a flagged falsehood can still come back out wearing a confident face. The takeaway isn't that AI is useless — it's that you can't outsource your own judgment to it. Don't count on a model to reject a wrong idea just because someone labeled it wrong, and keep verifying anything that actually matters against a real source.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Kyle Orland"
+    ],
+    "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false",
+    "published_at": "2026-05-28",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "hallucinations",
+    "ai-limits"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "reasoning"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-05-28",
+  "related": [
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_74281d",
+      "slug": "fact-checking-ai",
+      "type": "concept",
+      "title": "How to Fact-Check AI",
+      "hook": "You can't tell a true AI answer from a made-up one by reading it — both sound equally sure. So build a habit: for anything that matters, verify it somewhere that isn't the AI.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_03934f#0",
+      "format": "quiz",
+      "prompt": "What did the fine-tuning tests find about how models handle false claims?",
+      "choices": [
+        {
+          "text": "Models leaned toward confidently representing the claims as true",
+          "correct": true
+        },
+        {
+          "text": "Models reliably rejected every false claim",
+          "correct": false
+        },
+        {
+          "text": "Models refused to answer anything uncertain",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe tests showed a bias toward confidently presenting claims as true — even\nclaims the model had been warned were false.\u003c/p\u003e"
+    },
+    {
+      "id": "card_03934f#1",
+      "format": "flip",
+      "prompt": "Did an explicit warning that a claim was false fix the problem?",
+      "back_html": "\u003cp\u003eNo. The bias toward presenting claims as true persisted even after the model\nwas explicitly told the claims were false.\u003c/p\u003e"
+    },
+    {
+      "id": "card_03934f#2",
+      "format": "quiz",
+      "prompt": "What's the practical lesson for everyday users?",
+      "choices": [
+        {
+          "text": "Don't assume a model will reject a falsehood just because it was flagged",
+          "correct": true
+        },
+        {
+          "text": "Always tell the model what's false and it will comply",
+          "correct": false
+        },
+        {
+          "text": "Models internally track truth like a human expert",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSince the bias survived explicit warnings, you can't rely on the model to\nproperly distrust a claim — keep verifying things that matter yourself.\u003c/p\u003e"
+    }
+  ]
+}

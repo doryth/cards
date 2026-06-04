@@ -1,0 +1,109 @@
+{
+  "id": "card_066bb7",
+  "slug": "supercentenarian-killer-t-cells",
+  "type": "news",
+  "title": "People Past 110 Have an Unusual Immune Arsenal",
+  "hook": "Supercentenarians carry unusually large numbers of a rare cell type — CD4 T cells that can kill abnormal cells directly, expanded into big clones as if fighting something for decades.",
+  "key_points": [
+    "People who reach 110 and beyond have unusually many CD4 cytotoxic T cells.",
+    "These are helper-type T cells that can kill abnormal cells directly, which is rare.",
+    "The cells became more common with age rather than dwindling.",
+    "They often expanded into large clones of nearly identical cells.",
+    "That pattern suggests repeated response to a persistent threat.",
+    "Whether the cells help people reach 110 or just accompany it is unresolved."
+  ],
+  "content_html": "\u003cp\u003eSupercentenarians — people who make it past 110 — are rare enough that studying them is closer to case work than epidemiology, but they're the only available example of the outcome everyone wants. This study looked at their immune cells and found an oddity: unusually large numbers of CD4 cytotoxic T cells.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat combination is the interesting part. CD4 T cells are normally the coordinators of the immune response, directing other cells rather than doing the killing themselves; a CD4 cell that can destroy abnormal cells directly is uncommon. In these people the type became \u003cem\u003emore\u003c/em\u003e common with age, not less, and often expanded into large clones of nearly identical cells — the signature of an immune system that has been answering the same call, over and over, for decades.\u003c/p\u003e\n\u003cp\u003eWhether that's cause or consequence is genuinely open. It could be a defense that keeps damaged and precancerous cells in check long enough to reach 110. It could equally be the scar of a lifelong chronic infection that these particular people happened to tolerate. Studies of survivors can't distinguish those, and with a sample this small nothing here generalizes to ordinary aging. It's a lead about what an unusually durable immune system looks like, nothing more.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260823014950.htm",
+    "published_at": "2026-08-25",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "healthy-aging",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_394165",
+      "slug": "centenarian-blood-fingerprint",
+      "type": "news",
+      "title": "What's Different in the Blood of Centenarians",
+      "hook": "Some people reach 100 in remarkably good health. A new study finds their blood carries a distinct chemical 'fingerprint' that sets them apart from typical aging.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-04"
+    },
+    {
+      "id": "card_a0a7c6",
+      "slug": "superagers-genes-dont-explain",
+      "type": "news",
+      "title": "SuperAgers' Memories Are Extraordinary. Their Genes Are Not.",
+      "hook": "People in their 80s with the memory of a 50-year-old were expected to have lucky DNA. They don't — their Alzheimer's risk genes look like everyone else's, which points the search back at life itself.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-25"
+    },
+    {
+      "id": "card_dc50f5",
+      "slug": "the-thymus-and-aging",
+      "type": "news",
+      "title": "The Thymus: A 'Forgotten' Organ Tied to Longevity",
+      "hook": "The thymus was thought to clock out after childhood. A large imaging study found adults with healthier-looking thymuses tended to live longer — a striking link, not a prescription.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "card_5215c5",
+      "slug": "immune-cells-enter-aging-brain",
+      "type": "news",
+      "title": "The Aging Brain Isn't Sealed Off After All",
+      "hook": "Stanford researchers found immune cells from the blood streaming into the human brain as early as middle age — overturning the assumption that the brain keeps the body's immune system out.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-14"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_066bb7#0",
+      "format": "flip",
+      "prompt": "What's unusual about the CD4 cytotoxic T cells found in supercentenarians?",
+      "back_html": "\u003cp\u003eCD4 cells are normally \u003cem\u003ehelpers\u003c/em\u003e that coordinate other immune cells. These can \u003cstrong\u003ekill\nabnormal cells directly\u003c/strong\u003e — and supercentenarians have unusually many of them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_066bb7#1",
+      "format": "quiz",
+      "prompt": "What does it suggest that these cells expanded into large clones of near-identical cells?",
+      "choices": [
+        {
+          "text": "The immune system was repeatedly responding to a persistent threat",
+          "correct": true
+        },
+        {
+          "text": "The cells had lost the ability to divide",
+          "correct": false
+        },
+        {
+          "text": "The people had recently been vaccinated",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLarge clones of near-identical T cells are the signature of \u003cstrong\u003erepeated stimulation\u003c/strong\u003e by\nthe same target, built up over a very long time.\u003c/p\u003e"
+    },
+    {
+      "id": "card_066bb7#2",
+      "format": "flip",
+      "prompt": "What can't this study tell us?",
+      "back_html": "\u003cp\u003eWhether these cells \u003cstrong\u003ehelp\u003c/strong\u003e people reach 110 or merely \u003cstrong\u003eaccompany\u003c/strong\u003e extreme age.\nIt's a cross-sectional snapshot of survivors, not a test of cause.\u003c/p\u003e"
+    }
+  ]
+}

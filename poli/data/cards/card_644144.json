@@ -1,0 +1,130 @@
+{
+  "id": "card_644144",
+  "slug": "federal-help-for-local-election-security",
+  "type": "news",
+  "title": "Local Officials Run the Election; Federal Money Defends It",
+  "hook": "Thousands of county and city offices actually run American elections — but the cyber defense behind them leans on federal money and expertise. When that support pauses, the vulnerability is local.",
+  "key_points": [
+    "U.S. elections are administered by state and local officials, so there are thousands of small networks and voter databases to defend rather than one national system.",
+    "Small election offices rarely have in-house cybersecurity staff, so federal grants, threat briefings, and technical help fill the gap.",
+    "That makes election security a shared-responsibility problem: the legal authority sits with states, much of the money and expertise with federal agencies.",
+    "In September 2026, congressional Democrats wrote to Homeland Security officials pressing them to release election security funding before the midterms.",
+    "The lawmakers said they shared 'grave concern that time is running out' to help state and local officials guard against cyber and disinformation threats, NPR reported.",
+    "Defensive work is also slow work — patching systems and training staff has to happen months before a ballot is printed, not in the final week."
+  ],
+  "content_html": "\u003cp\u003eAmerican elections are run from the bottom up: state and local officials own the voter rolls, the machines, and the polling places. That decentralization is a genuine strength against any single point of failure — and a genuine headache for cybersecurity, because it means thousands of small offices, most without a security team of their own, each holding a piece of the system.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe practical result is a shared-responsibility arrangement. The legal authority to run an election belongs to states and localities, but much of the money, threat intelligence, and technical help behind their defenses flows from federal agencies. NPR's Jenna McLaughlin reported in September 2026 that congressional Democrats wrote to Homeland Security officials urging them to release election security funding ahead of the midterms, saying they shared a \u0026quot;grave concern that time is running out\u0026quot; to help state and local officials protect against cyber and disinformation threats. Whatever one makes of that particular dispute, it illustrates a structural point worth knowing: security work is front-loaded. Patching a system and training the people who run it are things you do months before a ballot is printed, which is why the calendar, not just the amount, is part of the argument. (This card describes U.S. election administration specifically.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Jenna McLaughlin"
+    ],
+    "url": "https://npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
+    "published_at": "2026-09-03",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "federalism-levels"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-03",
+  "related": [
+    {
+      "id": "card_7b5975",
+      "slug": "who-pays-to-run-an-election",
+      "type": "news",
+      "title": "Who Actually Pays to Run an Election",
+      "hook": "National elections are run by local governments on local budgets. The people closest to the ballots are usually the ones worrying about affording them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "card_70ee29",
+      "slug": "who-sets-federal-election-rules",
+      "type": "news",
+      "title": "Who Actually Sets the Rules for a Federal Election",
+      "hook": "The Constitution hands the times, places and manner of congressional elections to state legislatures, with Congress able to override. The president is not on that list.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-08-25"
+    },
+    {
+      "id": "card_a71308",
+      "slug": "trump-election-vulnerability-claims",
+      "type": "news",
+      "title": "Declassified Isn't the Same as New",
+      "hook": "A primetime address, declassified documents, and warnings of 'shocking vulnerabilities' in U.S. elections — but reviewers found the documents mostly repeated what officials already knew years ago.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7b5975",
+      "slug": "who-pays-to-run-an-election",
+      "type": "news",
+      "title": "Who Actually Pays to Run an Election",
+      "hook": "National elections are run by local governments on local budgets. The people closest to the ballots are usually the ones worrying about affording them.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-12"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_644144#0",
+      "format": "flip",
+      "prompt": "Why does decentralized election administration create a hard cybersecurity problem?",
+      "back_html": "\u003cp\u003eElections are run by thousands of state and local offices, so there are\nthousands of separate networks and voter databases to defend — most\nwithout in-house security staff.\u003c/p\u003e"
+    },
+    {
+      "id": "card_644144#1",
+      "format": "quiz",
+      "prompt": "In the U.S., who holds the legal authority to run elections, and where does much of the security support come from?",
+      "choices": [
+        {
+          "text": "Authority sits with state and local officials; much of the money and expertise comes from federal agencies",
+          "correct": true
+        },
+        {
+          "text": "A single national election agency both runs elections and secures them",
+          "correct": false
+        },
+        {
+          "text": "Federal agencies run the elections and states only certify the results",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThat split is why election security is a shared-responsibility problem:\nthe people with the authority often don't hold the resources.\u003c/p\u003e"
+    },
+    {
+      "id": "card_644144#2",
+      "format": "quiz",
+      "prompt": "Why does the timing of election security funding matter so much?",
+      "choices": [
+        {
+          "text": "Patching systems and training staff has to happen months before ballots, not in the final week",
+          "correct": true
+        },
+        {
+          "text": "Funding legally expires the day after an election is certified",
+          "correct": false
+        },
+        {
+          "text": "Security work can only be done while polls are open",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDefensive work is slow. Money that arrives close to election day can't\nbuy back the months of preparation it was meant to pay for.\u003c/p\u003e"
+    }
+  ]
+}

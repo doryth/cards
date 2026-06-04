@@ -1,0 +1,87 @@
+{
+  "id": "card_0bb90d",
+  "slug": "frog-immunity-chytrid-fungus-survivors",
+  "type": "news",
+  "title": "Scientists Solved Why Some Frogs Survive a Fungus That's Wiped Out Amphibians Worldwide",
+  "hook": "A fungus has driven amphibian populations to collapse across the globe — but some frogs bounce back, and researchers just found out how.",
+  "key_points": [
+    "A deadly chytrid fungus has devastated amphibian populations worldwide, yet some populations mysteriously recover.",
+    "Surviving frogs develop powerful immune defenses while still tadpoles — before the fungus even gets a chance to attack after metamorphosis.",
+    "That head start appears to be the key difference between populations that collapse and populations that rebound.",
+    "The study also uncovered a large set of previously unknown antimicrobial peptides in these frogs, which could inspire new infection-fighting drugs."
+  ],
+  "content_html": "\u003cp\u003eA fungal disease has wiped out amphibian populations across the planet, but a puzzling minority of frogs keep bouncing back. Researchers just figured out their secret.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSurvivor frogs build strong immune defenses while they're still tadpoles, well before the chytrid fungus gets its chance to attack after metamorphosis — a head start that appears to make the difference between a population that collapses and one that recovers. Digging into how those defenses work, the researchers uncovered a large, previously unknown collection of antimicrobial peptides — small proteins with infection-fighting properties — that could someday inspire new drugs against other infections, not just this fungus.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260714225523.htm",
+    "published_at": "2026-07-14",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "immune-system",
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_b56025",
+      "slug": "how-immunity-works",
+      "type": "concept",
+      "title": "How Immunity Works",
+      "hook": "Your body fights invaders on two fronts: a fast, general first response that hits anything foreign, and a slower, custom-built defense that learns and remembers each specific enemy.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2e3e5a",
+      "slug": "antibodies-and-immune-memory",
+      "type": "concept",
+      "title": "Antibodies and Immune Memory",
+      "hook": "The first time a germ infects you, your body fights from scratch. The second time, it remembers — and crushes the invader before you ever feel sick.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0bb90d#0",
+      "format": "flip",
+      "prompt": "What's the key difference between frog populations that collapse from chytrid fungus and those that recover?",
+      "back_html": "\u003cp\u003eSurviving populations develop strong immune defenses while still \u003cstrong\u003etadpoles\u003c/strong\u003e\n— before the fungus can attack after metamorphosis — giving them a head\nstart.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0bb90d#1",
+      "format": "quiz",
+      "prompt": "What else did the study uncover while investigating these frogs' immune defenses?",
+      "choices": [
+        {
+          "text": "A large collection of previously unknown antimicrobial peptides",
+          "correct": true
+        },
+        {
+          "text": "A vaccine already approved for human use",
+          "correct": false
+        },
+        {
+          "text": "Evidence the fungus is now harmless to all amphibians",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAntimicrobial peptides are small infection-fighting proteins; finding a\nlarge, new collection of them opens a path toward new drug leads, not just\nan explanation for frog survival.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0bb90d#2",
+      "format": "flip",
+      "prompt": "Why could this discovery matter beyond amphibians?",
+      "back_html": "\u003cp\u003eThe newly found antimicrobial peptides could someday inspire new drugs to\nfight other infections, not just the chytrid fungus.\u003c/p\u003e"
+    }
+  ]
+}

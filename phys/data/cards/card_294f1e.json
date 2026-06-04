@@ -1,0 +1,112 @@
+{
+  "id": "card_294f1e",
+  "slug": "the-uncertainty-principle",
+  "type": "concept",
+  "title": "Heisenberg's Uncertainty Principle",
+  "hook": "Nature sets a hard limit: the more precisely you know where a particle is, the less you can know about how it's moving. It's not sloppy measurement — it's built into reality.",
+  "key_points": [
+    "You can't simultaneously pin down a particle's exact position and exact momentum.",
+    "Sharpen your knowledge of one and the other necessarily gets fuzzier.",
+    "This isn't a tool limitation — particles simply don't have both at once.",
+    "It follows from matter behaving like waves, not tiny billiard balls."
+  ],
+  "content_html": "\u003cp\u003eIn 1927 Werner Heisenberg uncovered one of the strangest rules of the quantum world: you cannot know both exactly where a particle is and exactly how it is moving. Measure its position more and more precisely, and its momentum — its direction and speed — becomes correspondingly more uncertain, and vice versa. There's an unbreakable trade-off between the two.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe crucial point is that this is not a failure of our instruments or a disturbance from clumsy measurement. It reflects what particles fundamentally are. Quantum objects behave like waves, and a wave that is bunched up at one spot has no single wavelength, while a wave with a pure wavelength is spread out everywhere — and in quantum physics wavelength is tied to momentum. So a particle simply cannot possess a perfectly sharp position and a perfectly sharp momentum at the same time; the values aren't hidden, they aren't there to be found. One consequence is that nothing can ever be completely still: even at the lowest possible energy, particles retain a faint, irreducible jitter. Wikipedia explains the principle and the wave nature behind it.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Uncertainty_principle",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_294f1e#0",
+      "format": "flip",
+      "prompt": "What pair of properties does the uncertainty principle say you can't both know exactly?",
+      "back_html": "\u003cp\u003eA particle's \u003cstrong\u003eposition\u003c/strong\u003e and its \u003cstrong\u003emomentum\u003c/strong\u003e (which way and how fast it's\nmoving). The sharper one is known, the fuzzier the other must be.\u003c/p\u003e"
+    },
+    {
+      "id": "card_294f1e#1",
+      "format": "quiz",
+      "prompt": "Why can't we measure both position and momentum perfectly at once?",
+      "choices": [
+        {
+          "text": "A particle doesn't actually possess both exact values at the same time",
+          "correct": true
+        },
+        {
+          "text": "Our instruments are simply too crude, but better ones would fix it",
+          "correct": false
+        },
+        {
+          "text": "Measuring takes too long for fast particles",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt's fundamental, not technical. Because quantum objects behave like waves,\nhaving a sharp position and a sharp momentum simultaneously is meaningless.\u003c/p\u003e"
+    },
+    {
+      "id": "card_294f1e#2",
+      "format": "quiz",
+      "prompt": "The uncertainty principle is a consequence of particles behaving like…",
+      "choices": [
+        {
+          "text": "Waves, which can't have both a precise location and a precise wavelength",
+          "correct": true
+        },
+        {
+          "text": "Hard little spheres bouncing around",
+          "correct": false
+        },
+        {
+          "text": "Magnets that attract measuring devices",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA wave spread out in space has a well-defined wavelength (momentum) but no\nsingle location; squeeze it to a point and its wavelength becomes ill-defined.\u003c/p\u003e"
+    }
+  ]
+}

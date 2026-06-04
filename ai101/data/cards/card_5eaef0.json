@@ -1,0 +1,105 @@
+{
+  "id": "card_5eaef0",
+  "slug": "ai-virtual-staging",
+  "type": "news",
+  "title": "AI Is Faking the Apartment Listings",
+  "hook": "That dreamy, sun-filled apartment in the listing photos? It may be AI 'virtual staging' — software that can repaint, refurnish, even resize a room you'll never actually find when you show up.",
+  "key_points": [
+    "Real-estate listings increasingly use AI 'virtual staging' to enhance or alter apartment photos.",
+    "The Verge reports renters lured by AI-polished images that don't match the real unit.",
+    "AI can add furniture, brighten rooms, and make spaces look bigger or nicer than they are.",
+    "Because the edits look photorealistic, there's often no obvious tell that a room was changed.",
+    "Defense: treat listing photos as ads, and judge a place in person before you commit."
+  ],
+  "content_html": "\u003cp\u003eAI image editing has quietly moved into the apartment hunt. The Verge reports on \u0026quot;virtual staging\u0026quot; — using AI to enhance or rearrange listing photos — and the renters who get burned when the polished image and the real unit don't match. One New Yorker thought she'd found her dream studio: big, airy, reasonably priced. The reality, predictably, was less dreamy.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eVirtual staging isn't all sinister — empty rooms have long been digitally furnished to help people imagine the space. The problem is how easily AI now blurs the line between \u0026quot;imagine it furnished\u0026quot; and \u0026quot;imagine it bigger, brighter, and nicer than it is.\u0026quot; Because the edits look photorealistic, there's often no obvious tell that a room was widened or a grimy view swapped out. For anyone renting or buying, the practical defense is old-fashioned: treat listing photos as advertising, not evidence, and never commit to a place — especially sight-unseen — based on images alone. It's a small, everyday example of a much bigger shift: when realistic images are cheap to fabricate, seeing can no longer be believing.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Gaby Del Valle"
+    ],
+    "url": "https://theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+    "published_at": "2026-06-22",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "vision",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-25",
+  "date": "2026-06-22",
+  "related": [
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_912659",
+      "slug": "ai-and-shopping",
+      "type": "concept",
+      "title": "AI \u0026 Shopping",
+      "hook": "AI can be a genuinely useful shopping assistant — comparing options, summarizing specs, finding deals. It's also quietly flooding stores with fake reviews and AI-invented products.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5eaef0#0",
+      "format": "quiz",
+      "prompt": "What is AI 'virtual staging' in real-estate listings?",
+      "choices": [
+        {
+          "text": "Using AI to enhance or alter listing photos — adding furniture or making rooms look bigger and nicer",
+          "correct": true
+        },
+        {
+          "text": "A robot that physically cleans apartments before a showing",
+          "correct": false
+        },
+        {
+          "text": "An AI that signs your lease for you",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVirtual staging edits the photos, not the apartment — and AI now makes those edits\ncheap, fast, and hard to spot.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5eaef0#1",
+      "format": "flip",
+      "prompt": "Why are AI-edited listing photos a problem for renters?",
+      "back_html": "\u003cp\u003eThe edits look photorealistic with no obvious tell, so someone may commit to a lease\nbased on a unit that doesn't really look like that.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5eaef0#2",
+      "format": "flip",
+      "prompt": "What's the practical defense against misleading listing photos?",
+      "back_html": "\u003cp\u003eTreat photos as advertising, not evidence — judge a place in person before committing,\nand never sign sight-unseen based on images alone.\u003c/p\u003e"
+    }
+  ]
+}

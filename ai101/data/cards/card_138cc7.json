@@ -1,0 +1,103 @@
+{
+  "id": "card_138cc7",
+  "slug": "claude-tracker-controversy",
+  "type": "news",
+  "title": "A Secret Claude Tracker Undercuts Anthropic's Own Pitch",
+  "hook": "Anthropic has built its brand on being the safety-first, anti-surveillance AI lab. So it stung when a report accused the company of quietly tracking Claude users — including in China.",
+  "key_points": [
+    "Ars Technica reported Anthropic ran a hidden tracking feature that monitored some Claude users, including users in China.",
+    "The story lands awkwardly given Anthropic's public stance against AI-enabled surveillance.",
+    "An Anthropic engineer reportedly said the tracking 'experiment' had ended.",
+    "Lesson: a company's stated values and its actual data practices are two different things worth checking."
+  ],
+  "content_html": "\u003cp\u003eAnthropic has built much of its public identity around being the AI lab most willing to slow down, add guardrails, and warn about AI's risks — including the risk of AI-enabled surveillance. So it was a jarring story when Ars Technica reported that Anthropic had been running a hidden tracking feature that monitored some Claude users, including users in China.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe details are still emerging, but the core tension is easy to state: a company whose brand is built on being \u003cem\u003eagainst\u003c/em\u003e this kind of quiet monitoring was, by this account, doing a version of it. Reporting noted that an Anthropic engineer said the tracking \u0026quot;experiment\u0026quot; had ended by the time it came to light. For everyday users, the specific mechanics matter less than the general habit this should reinforce — the values a company advertises and the data practices it actually runs are two separate things, and only one of them shows up in the fine print.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users",
+    "published_at": "2026-07-06",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5711da",
+      "slug": "anthropic-fable-government-ban",
+      "type": "news",
+      "title": "A Government Orders an AI Model Switched Off",
+      "hook": "The US government ordered Anthropic to cut off foreign access to two of its top models over national-security fears — so the company shut them off for everyone. A new kind of control over AI.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_3747ba",
+      "slug": "chatgpt-logs-as-evidence",
+      "type": "news",
+      "title": "Your Chatbot History Can End Up in Court",
+      "hook": "Prosecutors in a deadly-wildfire case used a suspect's ChatGPT logs as evidence — a reminder that what you type into a chatbot can be stored, requested, and read by others.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-28"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_138cc7#0",
+      "format": "quiz",
+      "prompt": "Why did the Claude tracker report land especially hard on Anthropic?",
+      "choices": [
+        {
+          "text": "Anthropic has publicly positioned itself as the AI lab most opposed to surveillance",
+          "correct": true
+        },
+        {
+          "text": "Anthropic had never released a chatbot before",
+          "correct": false
+        },
+        {
+          "text": "The tracker was the first AI product Anthropic ever built",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe accusation cuts against the exact reputation Anthropic has cultivated —\nmaking the contradiction the real story, not just the tracking itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_138cc7#1",
+      "format": "flip",
+      "prompt": "What's the broader lesson from a safety-focused company getting caught tracking users?",
+      "back_html": "\u003cp\u003eA company's public values and its actual data practices can diverge — worth\nchecking what a product \u003cem\u003edoes\u003c/em\u003e, not just what its maker says it stands for.\u003c/p\u003e"
+    },
+    {
+      "id": "card_138cc7#2",
+      "format": "flip",
+      "prompt": "What did an Anthropic engineer reportedly say about the tracker?",
+      "back_html": "\u003cp\u003eThat the tracking \u0026quot;experiment\u0026quot; was over — suggesting it had been discontinued\nby the time the report surfaced.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "card_db088d",
+  "slug": "spacetime-from-entanglement",
+  "type": "news",
+  "title": "Spacetime From Entanglement — and 'Magic'",
+  "hook": "If quantum entanglement weaves space-time together, what makes it bend into gravity? Theorists now point to a stranger ingredient they call 'magic.'",
+  "key_points": [
+    "In holographic theories, entanglement between quantum bits seems to stitch space-time together.",
+    "But entanglement alone wasn't enough to explain why space-time bends — that is, gravity.",
+    "Researchers tie the bending to 'magic,' a measure of how genuinely quantum a state is.",
+    "It remains a theoretical proposal in toy models, not a tested law of our universe."
+  ],
+  "content_html": "\u003cp\u003ePhysicists have long toyed with the idea that space-time isn't fundamental but is woven from quantum entanglement — the links that tie quantum systems together. In so-called holographic theories, knit enough entanglement among the parts and a smooth fabric of space emerges. Writing in Quanta Magazine, Charlie Wood reports that entanglement alone left a gap: it could build space-time, but it didn't explain why that fabric bends and flexes — in other words, why there's gravity.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTo close the gap, researchers point to a property with the playful name \u0026quot;magic\u0026quot;: a measure of how deeply quantum a state really is, beyond the kinds of quantum behavior a regular computer could easily fake. The proposal is that this \u0026quot;magic\u0026quot; is what gives space-time its pliability, turning a rigid scaffold into something that can curve. It's worth being clear-eyed here: this is theoretical work carried out in simplified model universes, not a confirmed law of nature. The appeal is that it hints at how gravity and quantum mechanics — physics' two great frameworks — might ultimately fit together.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Charlie Wood"
+    ],
+    "url": "https://quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603",
+    "published_at": "2026-06-03",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "cosmology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-05",
+  "date": "2026-06-03",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_db088d#0",
+      "format": "flip",
+      "prompt": "In holographic theories, what quantum ingredient is thought to weave space-time together?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eEntanglement\u003c/strong\u003e — the shared quantum links between many pieces of a system\nappear to knit the fabric of space-time into existence.\u003c/p\u003e"
+    },
+    {
+      "id": "card_db088d#1",
+      "format": "quiz",
+      "prompt": "What does the newer 'magic' idea try to explain that entanglement alone did not?",
+      "choices": [
+        {
+          "text": "Why space-time bends — that is, gravity",
+          "correct": true
+        },
+        {
+          "text": "Why the universe is expanding faster over time",
+          "correct": false
+        },
+        {
+          "text": "Why particles have mass",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEntanglement seemed to build space-time, but researchers report it didn't\naccount for its pliability; 'magic' is proposed to supply the bending.\u003c/p\u003e"
+    },
+    {
+      "id": "card_db088d#2",
+      "format": "quiz",
+      "prompt": "How settled is the 'magic gives space-time gravity' proposal?",
+      "choices": [
+        {
+          "text": "It's a theoretical idea in model universes, not a tested law",
+          "correct": true
+        },
+        {
+          "text": "It has been confirmed by direct experiment",
+          "correct": false
+        },
+        {
+          "text": "It replaces general relativity entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe work lives in holographic toy models. It's a promising line of thought,\nnot an established description of our own universe.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "card_e49c4d",
+  "slug": "when-supermassive-stars-collapse",
+  "type": "paper",
+  "title": "Two Ways a Monster Star Dies — and Only One Makes a Mess",
+  "hook": "Stars of thousands to tens of thousands of solar masses collapse straight to black holes. Numerical relativity shows the lighter ones leave far more debris behind — and can still explode.",
+  "key_points": [
+    "Fujibayashi and colleagues simulate rotating cores of 2×10³ to 5×10⁴ solar masses in full numerical relativity, with an alpha-chain nuclear network and neutrino cooling.",
+    "Collapse is triggered by pair instability in the lower-mass cores and by a general-relativistic instability in the higher-mass ones.",
+    "Higher-mass cores collapse nearly homologously — the whole core falls inward together, swallowing most of its mass promptly.",
+    "Lower-mass cores collapse in a more runaway fashion because neutrino cooling is more efficient at their higher densities and temperatures.",
+    "As a result the lower-mass models form a black hole containing a smaller fraction of the core, leaving much more matter outside to build a disk."
+  ],
+  "content_html": "\u003cp\u003eStars far heavier than anything alive today — thousands to tens of thousands of solar masses — are thought to have existed in the early universe and to be one route to the heavy black hole seeds that early quasars need. Their deaths are not ordinary supernovae. Depending on the mass, the core is destabilised either by pair instability (where energetic photons convert into electron-positron pairs, robbing the core of the pressure that held it up) or by a general-relativistic instability that only exists because gravity is not Newtonian.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSho Fujibayashi, Alan Tsz-Lok Lam, Yuichiro Sekiguchi and Masaru Shibata follow these collapses in numerical relativity with an alpha-chain nuclear reaction network and neutrino cooling included, surveying initial core masses from 2×10³ to 5×10⁴ solar masses. They find that the two instabilities produce visibly different dynamics. Higher-mass cores collapse nearly homologously, falling in as a unit. Lower-mass, pair-unstable cores collapse in a more runaway way, because neutrino cooling operates more efficiently at their higher densities and temperatures, and because they are less compact to begin with. The consequence matters observationally: the black holes formed in the lower-mass models initially contain a smaller fraction of the core, so much more material remains outside the horizon, forming a disk — and setting up the possibility of an accompanying explosion powered by nuclear burning rather than a silent disappearance.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Sho Fujibayashi",
+      "Alan Tsz-Lok Lam",
+      "Yuichiro Sekiguchi",
+      "Masaru Shibata"
+    ],
+    "url": "https://arxiv.org/abs/2608.13642",
+    "published_at": "2026-08-13",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "atomic-nuclear"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-17",
+  "date": "2026-08-13",
+  "related": [
+    {
+      "id": "card_fb31ee",
+      "slug": "heavy-black-hole-seeds-need-less-light",
+      "type": "paper",
+      "title": "Giant Black Hole Seeds May Be Far Easier to Make Than We Thought",
+      "hook": "To grow the monster quasars seen in the early universe, you need heavy black hole seeds — and those were thought to require rare, intense radiation. New simulations say a modest glow will do.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-13"
+    },
+    {
+      "id": "card_0656e4",
+      "slug": "life-cycle-of-stars",
+      "type": "concept",
+      "title": "The Life Cycle of Stars",
+      "hook": "Stars are born in collapsing gas clouds, spend their lives fusing hydrogen into helium, then die in ways that depend entirely on how heavy they are.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e49c4d#0",
+      "format": "quiz",
+      "prompt": "What triggers collapse in the lower-mass versus higher-mass cores in these simulations?",
+      "choices": [
+        {
+          "text": "Pair instability in the lower-mass cores, a general-relativistic instability in the higher-mass ones",
+          "correct": true
+        },
+        {
+          "text": "Pair instability in both, at different rates",
+          "correct": false
+        },
+        {
+          "text": "Neutrino cooling alone, in both cases",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe two mechanisms operate in different mass regimes, and they lead to visibly different\ncollapse dynamics — runaway versus nearly homologous.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e49c4d#1",
+      "format": "flip",
+      "prompt": "Why does the lower-mass core leave more matter outside the newborn black hole?",
+      "back_html": "\u003cp\u003eIts collapse is more \u003cstrong\u003erunaway-like\u003c/strong\u003e (neutrino cooling is more efficient at its higher\ndensities and temperatures) and its core is less compact, so the black hole initially\nswallows a smaller fraction of the mass — leaving more to form a disk.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e49c4d#2",
+      "format": "flip",
+      "prompt": "What does 'nearly homologous collapse' mean?",
+      "back_html": "\u003cp\u003eThe whole core falls inward together, keeping its shape and scaling uniformly, rather\nthan having an inner region run away ahead of the rest.\u003c/p\u003e"
+    }
+  ]
+}

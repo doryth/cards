@@ -1,0 +1,110 @@
+{
+  "id": "card_cb9097",
+  "slug": "gmos-and-genetic-engineering",
+  "type": "concept",
+  "title": "GMOs and Genetic Engineering",
+  "hook": "By deliberately rewriting an organism's DNA, scientists can make bacteria brew human insulin or crops resist pests — traits nature never handed them.",
+  "key_points": [
+    "Genetic engineering means directly altering an organism's DNA to give it new traits.",
+    "A GMO is any organism whose genome has been changed using these lab techniques.",
+    "Genes can be moved between species — even from a bacterium into a plant.",
+    "Real-world uses include insulin-producing microbes, pest-resistant crops, and vitamin-enriched rice.",
+    "It differs from old-fashioned breeding by being faster, more precise, and not limited to one species."
+  ],
+  "content_html": "\u003cp\u003eGenetic engineering is the deliberate rewriting of an organism's DNA to give it traits it never had. An organism changed this way is called a genetically modified organism, or GMO. Because the genetic code is universal, a gene from one species can work inside another — which is how bacteria were taught to brew human insulin and how some crops carry built-in pest resistance.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe toolkit ranges from cutting and pasting individual genes to precise editors like CRISPR. Scientists isolate a gene that codes for a useful trait, insert it into a target organism's genome, and let the cell read it like any of its own instructions. As Encyclopaedia Britannica describes, applications now span medicine (insulin, vaccines, clotting factors), agriculture (insect-resistant and vitamin-enriched crops), and research. The same power fuels ongoing debate about safety, labeling, and ecological effects — questions of governance more than of whether the science works.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/genetically-modified-organism",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_9fc450",
+      "slug": "crispr-gene-editing",
+      "type": "concept",
+      "title": "CRISPR: Molecular Scissors for DNA",
+      "hook": "Borrowed from a bacterial immune system, CRISPR lets scientists find a precise spot in the genome and cut it — turning gene editing into something almost routine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82d3b1",
+      "slug": "genes-and-traits",
+      "type": "concept",
+      "title": "How Genes Become Traits",
+      "hook": "You inherit two copies of every gene — one from each parent — and the way those copies interact helps decide everything from eye color to blood type.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cb9097#0",
+      "format": "flip",
+      "prompt": "What is a GMO?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003egenetically modified organism\u003c/strong\u003e — one whose DNA has been deliberately\naltered in the lab to give it new traits, rather than through ordinary breeding.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cb9097#1",
+      "format": "quiz",
+      "prompt": "Which is a real example of genetic engineering at work?",
+      "choices": [
+        {
+          "text": "Bacteria engineered to produce human insulin",
+          "correct": true
+        },
+        {
+          "text": "A dog trained to fetch the newspaper",
+          "correct": false
+        },
+        {
+          "text": "A plant grown in richer soil",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInserting the human insulin gene into bacteria lets them manufacture the\nhormone in vats — a foundational triumph of genetic engineering.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cb9097#2",
+      "format": "quiz",
+      "prompt": "How does genetic engineering differ from traditional breeding?",
+      "choices": [
+        {
+          "text": "It can move a gene between unrelated species and targets DNA directly",
+          "correct": true
+        },
+        {
+          "text": "It only works on animals, never plants",
+          "correct": false
+        },
+        {
+          "text": "It changes traits without touching the DNA at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBreeding shuffles genes within compatible species over generations; engineering\ncan transfer a single chosen gene across the tree of life in one step.\u003c/p\u003e"
+    }
+  ]
+}

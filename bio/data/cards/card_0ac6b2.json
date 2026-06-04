@@ -1,0 +1,101 @@
+{
+  "id": "card_0ac6b2",
+  "slug": "yellowstone-wolves-trophic-cascade-questioned",
+  "type": "news",
+  "title": "Did Yellowstone's Wolves Really Reshape the Park?",
+  "hook": "The famous story that returning wolves transformed Yellowstone is under fire: a reanalysis says the original study's methods overstated the effect, and willows never surged park-wide.",
+  "key_points": [
+    "The celebrated 'trophic cascade' claim said wolves' return let willows and streamside life rebound dramatically.",
+    "A reanalysis found the original willow-volume method used circular reasoning, inflating the result.",
+    "Many plots compared across years were actually different locations, making the trend unreliable.",
+    "Its conclusion: no evidence of a large, park-wide willow surge — effects were modest and varied by place.",
+    "A reminder that even celebrated ecology stories get re-examined, and sometimes revised."
+  ],
+  "content_html": "\u003cp\u003eIt's one of ecology's most-told stories: gray wolves returned to Yellowstone in the 1990s, scared elk away from riverbanks, and let willows and aspens rebound — a \u0026quot;trophic cascade\u0026quot; that supposedly reshaped streams and revived the whole park. A reanalysis covered by ScienceDaily now argues that the famous version of the story was overstated.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eDaniel MacNulty and colleagues re-examined the influential study and flagged several problems. The biggest: the original work used willow \u003cstrong\u003eheight\u003c/strong\u003e both to calculate willow volume and to predict it — circular reasoning that all but guarantees a strong-looking result. Plots compared between years were often at different locations, undermining the before-and-after trend, and a height-to-volume model built for normal willows was applied to stunted, heavily browsed ones. Re-running the analysis, the team found no evidence that wolf recovery drove a large or park-wide surge in willow growth; the real effects were modest and varied from place to place, shaped by water, browsing, and local conditions. This doesn't mean predators don't matter — it's a caution against tidy, dramatic narratives, and a good example of science re-checking even its favorite stories.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260613215510.htm",
+    "published_at": "2026-06-14",
+    "license": "© ScienceDaily"
+  },
+  "topic_ids": [
+    "ecology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-15",
+  "date": "2026-06-14",
+  "related": [
+    {
+      "id": "card_519fe2",
+      "slug": "keystone-species",
+      "type": "concept",
+      "title": "Keystone Species",
+      "hook": "Some species pull more than their weight. Remove them, and an entire ecosystem can unravel — even when they were never the most abundant thing around.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_05f960",
+      "slug": "food-chains-and-webs",
+      "type": "concept",
+      "title": "Food Chains \u0026 Energy Flow",
+      "hook": "Energy enters most ecosystems as sunlight, gets captured by plants, and flows up the menu — but it leaks away at every bite, so the chain stays short.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0ac6b2#0",
+      "format": "flip",
+      "prompt": "What did the Yellowstone reanalysis conclude about wolves and willows?",
+      "back_html": "\u003cp\u003eIt found no evidence of a large, park-wide willow surge after wolves returned.\nEffects were modest and varied by location — not the dramatic, system-wide cascade.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0ac6b2#1",
+      "format": "quiz",
+      "prompt": "What methodological flaw is said to have inflated the original trophic-cascade result?",
+      "choices": [
+        {
+          "text": "Willow height was used both to calculate and to predict willow volume — circular reasoning",
+          "correct": true
+        },
+        {
+          "text": "The researchers never actually visited Yellowstone",
+          "correct": false
+        },
+        {
+          "text": "They counted wolves but ignored every other species",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen the same measurement (height) is used to both compute and predict an outcome\n(volume), a strong relationship is almost guaranteed regardless of real change.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0ac6b2#2",
+      "format": "quiz",
+      "prompt": "What broader lesson does this reanalysis illustrate?",
+      "choices": [
+        {
+          "text": "Even celebrated scientific stories get re-examined and can be revised",
+          "correct": true
+        },
+        {
+          "text": "Wolves have no measurable effect on any ecosystem",
+          "correct": false
+        },
+        {
+          "text": "Trophic cascades have been shown not to exist anywhere",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe reanalysis didn't say wolves do nothing — it found smaller, local effects. The\ntakeaway is that bold claims deserve scrutiny, and science corrects itself over time.\u003c/p\u003e"
+    }
+  ]
+}

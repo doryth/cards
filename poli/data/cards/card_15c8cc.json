@@ -1,0 +1,132 @@
+{
+  "id": "card_15c8cc",
+  "slug": "electoral-districts-and-gerrymandering",
+  "type": "concept",
+  "title": "Districts \u0026 Gerrymandering",
+  "hook": "Where you draw the lines on a map can decide an election before a single vote is cast — which is exactly what gerrymandering exploits.",
+  "key_points": [
+    "Many systems divide a country into districts, each electing its own representative.",
+    "How district lines are drawn affects which party wins — even with identical total votes.",
+    "Gerrymandering is drawing boundaries to favor one party or group.",
+    "Common tactics: 'packing' rivals into few districts and 'cracking' them across many to dilute their votes."
+  ],
+  "content_html": "\u003cp\u003eIn electoral systems built on single-member districts, a country is carved into geographic constituencies, each electing one representative. That design has a quiet but powerful consequence: only who wins each district matters, not a party's nationwide vote total. So the way the boundaries are drawn can shape the result before anyone votes — the very same set of voters, grouped differently, can yield a different balance of seats.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eGerrymandering is the deliberate exploitation of this fact: drawing district lines to favor a particular party or group. Encyclopaedia Britannica describes the two classic tactics. \u0026quot;Packing\u0026quot; crowds as many of a rival's supporters as possible into a handful of districts, so they win those by lopsided margins while their votes are \u0026quot;wasted\u0026quot; everywhere else. \u0026quot;Cracking\u0026quot; does the opposite, splitting a bloc of rival voters thinly across many districts so they fall short in each one. Both let mapmakers convert a minority of votes into a majority of seats. Because the temptation is built into district-based systems, many democracies try to limit it — handing redistricting to independent commissions, requiring compact or contiguous districts, or subjecting maps to court review — though the line between legitimate boundary-drawing and manipulation is often contested.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/gerrymandering",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_51131a",
+      "slug": "what-is-democracy",
+      "type": "concept",
+      "title": "What Democracy Means",
+      "hook": "Rule by the people: a system where political power ultimately traces back to citizens, usually through regular, free elections.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_853f06",
+      "slug": "racial-vote-dilution",
+      "type": "news",
+      "title": "Racial Vote Dilution: When District Lines Split a Community",
+      "hook": "Redrawing a map can quietly weaken a racial group's vote — split one community across enough districts and it may elect no one, even where its numbers are large.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_15c8cc#0",
+      "format": "flip",
+      "prompt": "What is gerrymandering?",
+      "back_html": "\u003cp\u003eDrawing electoral \u003cstrong\u003edistrict boundaries\u003c/strong\u003e to favor one party or group —\nmanipulating the map to shape the result.\u003c/p\u003e"
+    },
+    {
+      "id": "card_15c8cc#1",
+      "format": "quiz",
+      "prompt": "How can district lines change an outcome even with the same total votes?",
+      "choices": [
+        {
+          "text": "In district systems, only who wins each district counts, not the nationwide total",
+          "correct": true
+        },
+        {
+          "text": "They change how many people are allowed to vote",
+          "correct": false
+        },
+        {
+          "text": "They alter the order candidates appear on the ballot",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBecause each district elects its own representative, grouping voters\ndifferently can flip which party wins more districts.\u003c/p\u003e"
+    },
+    {
+      "id": "card_15c8cc#2",
+      "format": "quiz",
+      "prompt": "What do the gerrymandering tactics 'packing' and 'cracking' do?",
+      "choices": [
+        {
+          "text": "Packing crams rivals into few districts; cracking splits them across many to dilute their votes",
+          "correct": true
+        },
+        {
+          "text": "They both add new polling stations",
+          "correct": false
+        },
+        {
+          "text": "They lengthen and shorten the campaign period",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePacking wastes a rival's votes by concentrating them; cracking spreads\ntheir supporters so thin that they win nowhere.\u003c/p\u003e"
+    }
+  ]
+}

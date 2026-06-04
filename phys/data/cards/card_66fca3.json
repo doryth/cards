@@ -1,0 +1,95 @@
+{
+  "id": "card_66fca3",
+  "slug": "dark-axion-dark-baryon-interaction",
+  "type": "paper",
+  "title": "Cosmological Evidence for Dark Axion-Dark Baryon Interactions from Apparent Phantom Crossing",
+  "hook": "The newest cosmology data hint dark energy briefly got weirder than physics allows — a hidden interaction between two dark-sector particles might fake that signal instead.",
+  "key_points": [
+    "Recent CMB, DESI, and supernova data hint dark energy briefly crossed into 'phantom' territory — more repulsive than a true constant allows.",
+    "The authors propose a hidden dark sector: a 'dark axion' particle interacting strongly with 'dark baryons'.",
+    "That interaction can fake the phantom-crossing signal without needing exotic new physics for dark energy itself.",
+    "Fit against the newest CMB, DESI DR2, and supernova data, the model clearly beats standard ΛCDM.",
+    "The model's effective dark-matter mass shrinks, then grows again, across cosmic history — producing the illusion.",
+    "It also injects a burst of 'early dark energy,' but not enough to meaningfully ease the Hubble tension."
+  ],
+  "content_html": "\u003cp\u003eThe newest measurements of the universe's expansion history — from the cosmic microwave background, DESI's galaxy survey, and exploding stars — hint that dark energy briefly behaved in a way a true cosmological constant shouldn't: turning even more repulsive than physics normally allows, then easing back. One proposal: it's not dark energy doing anything strange at all, but a hidden interaction between two dark-sector particles faking the signal.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eJustin Khoury, Meng-Xiang Lin, and Mark Trodden build on their earlier model of a \u0026quot;dark axion\u0026quot; coupled to \u0026quot;dark baryons\u0026quot; — a dark-sector analog of ordinary protons and neutrons — and test it against the latest CMB, DESI DR2 baryon-acoustic-oscillation, and Type Ia supernova data. The fit clearly beats the standard ΛCDM model. In the best-fit solution, the effective mass of the dark-matter particle shrinks between the early universe's matter-radiation equality and the release of the CMB, then grows again during the era supernovae and DESI are sensitive to — producing an apparent \u0026quot;phantom crossing\u0026quot; without dark energy itself doing anything exotic. The same dynamics injects a burst of early dark energy near matter-radiation equality, though not enough, in the data-preferred region, to meaningfully close the separate Hubble tension gap.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Justin Khoury",
+      "Meng-Xiang Lin",
+      "Mark Trodden"
+    ],
+    "url": "https://arxiv.org/abs/2607.16191",
+    "published_at": "2026-07-17",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_ec7256",
+      "slug": "hubble-tension-world-cup",
+      "type": "paper",
+      "title": "The H₀ World Cup II: A Comprehensive Competition Between Proposed Hubble Tension Solutions",
+      "hook": "Fourteen rival theories all claim to fix cosmology's biggest headache — the Hubble tension. A new 'World Cup' pits them head-to-head on the same data to see which ones actually survive.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_1d07ca",
+      "slug": "is-dark-energy-evolving",
+      "type": "paper",
+      "title": "Is Dark Energy Changing Over Time?",
+      "hook": "For decades dark energy looked like a constant. New galaxy-survey data hints it may evolve — and that would shift even our measured value of the cosmic expansion rate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-03"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_66fca3#0",
+      "format": "flip",
+      "prompt": "What cosmological puzzle does this dark axion-dark baryon model try to explain?",
+      "back_html": "\u003cp\u003eRecent CMB, DESI, and supernova data hint dark energy briefly acted more repulsive than a true\ncosmological constant should allow — an apparent \u0026quot;phantom crossing.\u0026quot;\u003c/p\u003e"
+    },
+    {
+      "id": "card_66fca3#1",
+      "format": "quiz",
+      "prompt": "How does the dark axion-dark baryon interaction produce an apparent phantom crossing?",
+      "choices": [
+        {
+          "text": "The effective dark-matter particle mass shrinks, then grows again, across cosmic history",
+          "correct": true
+        },
+        {
+          "text": "Dark energy itself genuinely crosses into phantom territory",
+          "correct": false
+        },
+        {
+          "text": "By adding a new fifth force between ordinary, everyday matter",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSwings in the model's effective dark-matter mass over cosmic time create the appearance of a\nphantom crossing, without dark energy needing new physics.\u003c/p\u003e"
+    },
+    {
+      "id": "card_66fca3#2",
+      "format": "flip",
+      "prompt": "Does this model resolve the Hubble tension?",
+      "back_html": "\u003cp\u003eNot fully — it injects a burst of early dark energy near matter-radiation equality, but not\nenough, in the data-preferred region, to meaningfully close the gap.\u003c/p\u003e"
+    }
+  ]
+}

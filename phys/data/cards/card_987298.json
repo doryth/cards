@@ -1,0 +1,101 @@
+{
+  "id": "card_987298",
+  "slug": "special-relativity-basics",
+  "type": "concept",
+  "title": "Special Relativity, Gently",
+  "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+  "key_points": [
+    "The speed of light is the same for all observers, no matter how they move.",
+    "To keep that true, moving clocks run slow — an effect called time dilation.",
+    "Moving objects also contract along their direction of motion.",
+    "These effects are tiny at everyday speeds but huge near the speed of light."
+  ],
+  "content_html": "\u003cp\u003eIn 1905 Albert Einstein built special relativity on a single, stubborn experimental fact: the speed of light in a vacuum is the same for everyone, no matter how fast they're moving or in which direction. That sounds harmless, but it forces some bizarre conclusions about space and time.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIf light's speed must come out the same for an observer standing still and one racing along beside the beam, then their clocks and rulers can't agree. The consequence is time dilation — a moving clock ticks more slowly as seen from outside — and length contraction, where moving objects shrink along their direction of travel. These aren't illusions; particle accelerators and precise atomic clocks confirm them. We never notice them in daily life only because the effects are vanishingly small until you approach the enormous speed of light. Britannica walks through the postulates and the everyday-defying results that follow.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/special-relativity",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_987298#0",
+      "format": "flip",
+      "prompt": "What single fact does special relativity start from?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003espeed of light is the same for every observer\u003c/strong\u003e, regardless of how\nthey or the light source are moving.\u003c/p\u003e"
+    },
+    {
+      "id": "card_987298#1",
+      "format": "quiz",
+      "prompt": "What is time dilation?",
+      "choices": [
+        {
+          "text": "Moving clocks run slow compared to stationary ones",
+          "correct": true
+        },
+        {
+          "text": "Moving clocks run fast compared to stationary ones",
+          "correct": false
+        },
+        {
+          "text": "Clocks stop entirely when in motion",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTo keep light's speed constant for everyone, a moving clock must tick more\nslowly — that is time dilation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_987298#2",
+      "format": "quiz",
+      "prompt": "Why don't we notice relativity in everyday life?",
+      "choices": [
+        {
+          "text": "The effects are tiny except at speeds near the speed of light",
+          "correct": true
+        },
+        {
+          "text": "Relativity only applies to light, never to objects",
+          "correct": false
+        },
+        {
+          "text": "The effects only happen in outer space",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTime dilation and length contraction grow large only near light speed; at\nordinary speeds they are far too small to notice.\u003c/p\u003e"
+    }
+  ]
+}

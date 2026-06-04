@@ -1,0 +1,109 @@
+{
+  "id": "card_cb7f47",
+  "slug": "milky-way-gamma-ray-glow-dark-matter",
+  "type": "news",
+  "title": "The Milky Way's Mystery Glow Might Really Be Dark Matter",
+  "hook": "A gamma-ray haze at the galaxy's center has split scientists for years between 'hidden neutron stars' and 'dark matter.' Machine learning just tipped the scales.",
+  "key_points": [
+    "The Milky Way's center glows in gamma rays in a way that's puzzled astronomers for years.",
+    "Two rival explanations compete: hidden millisecond pulsars, or dark matter particles annihilating each other.",
+    "Researchers trained machine learning on over a million simulated observations, including photon energy for the first time.",
+    "The new analysis favors dark matter, unlike many earlier studies."
+  ],
+  "content_html": "\u003cp\u003eAt the center of the Milky Way, gamma-ray telescopes see a faint glow that shouldn't be there — the so-called Galactic Center excess. For over a decade, astronomers have argued over its source: an undetected population of rapidly spinning neutron stars called millisecond pulsars, or dark matter particles annihilating each other and releasing gamma rays.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, new work applies machine learning to more than a million simulated observations of the glow — the first analysis to fold in the actual energy of each detected photon, not just where it comes from. The result leans back toward dark matter, in contrast to a run of recent studies that had favored hidden pulsars. It's not the final word — the debate over the Galactic Center excess has flipped before — but it's a reminder that the glow remains one of the best current hints of dark matter we have.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260619101334.htm",
+    "published_at": "2026-06-30",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-06",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3c0997",
+      "slug": "ligo-signal-primordial-black-holes-dark-matter",
+      "type": "news",
+      "title": "Could This Odd LIGO Signal Be the Missing Dark Matter?",
+      "hook": "An unusual gravitational-wave signal has revived a long-shot idea: that primordial black holes born moments after the Big Bang could be the universe's missing dark matter.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cb7f47#0",
+      "format": "flip",
+      "prompt": "What are the two leading explanations for the Milky Way's Galactic Center gamma-ray excess?",
+      "back_html": "\u003cp\u003eA hidden population of millisecond pulsars (rapidly spinning neutron stars),\nor dark matter particles annihilating and releasing gamma rays.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cb7f47#1",
+      "format": "quiz",
+      "prompt": "What made this new analysis different from many earlier studies of the glow?",
+      "choices": [
+        {
+          "text": "It used machine learning on over a million simulations and included photon energy data for the first time",
+          "correct": true
+        },
+        {
+          "text": "It used a brand-new gamma-ray telescope never flown before",
+          "correct": false
+        },
+        {
+          "text": "It ignored all previous simulated data",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe key novelty was a machine-learning analysis that, for the first time,\nincorporated each photon's energy — not new hardware.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cb7f47#2",
+      "format": "flip",
+      "prompt": "Which explanation did the new analysis favor?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eDark matter\u003c/strong\u003e — a different conclusion from many recent studies that had\nleaned toward hidden neutron stars.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "version": "2026-07-16.4100cd5f",
+  "topics": [
+    {
+      "id": "life-cells",
+      "title": "Life \u0026 Cells",
+      "slug": "life-cells",
+      "order": 10,
+      "blurb": "The smallest unit of life and the molecule that runs it."
+    },
+    {
+      "id": "the-cell",
+      "title": "The Cell",
+      "slug": "the-cell",
+      "parent": "life-cells",
+      "order": 10,
+      "card_order": "learning-path",
+      "blurb": "Every living thing is built from cells — the tiny factories where life happens.",
+      "related_topic_ids": [
+        "molecules-of-life",
+        "dna-genetics"
+      ]
+    },
+    {
+      "id": "molecules-of-life",
+      "title": "Molecules of Life",
+      "slug": "molecules-of-life",
+      "parent": "life-cells",
+      "order": 11,
+      "card_order": "learning-path",
+      "blurb": "Water, proteins, carbs, and fats — the chemistry every cell is built from.",
+      "related_topic_ids": [
+        "the-cell",
+        "energy-in-life"
+      ]
+    },
+    {
+      "id": "dna-genetics",
+      "title": "DNA \u0026 Genetics",
+      "slug": "dna-genetics",
+      "parent": "life-cells",
+      "order": 12,
+      "card_order": "learning-path",
+      "blurb": "The four-letter code that carries the instructions for building you.",
+      "related_topic_ids": [
+        "the-cell",
+        "evolution"
+      ]
+    },
+    {
+      "id": "microbiology",
+      "title": "Microbiology",
+      "slug": "microbiology",
+      "parent": "life-cells",
+      "order": 13,
+      "card_order": "learning-path",
+      "blurb": "The invisible majority — bacteria, viruses, and the microbes that shape everything.",
+      "related_topic_ids": [
+        "the-cell",
+        "immune-system"
+      ]
+    },
+    {
+      "id": "energy-in-life",
+      "title": "Energy in Life",
+      "slug": "energy-in-life",
+      "parent": "how-life-works",
+      "order": 20,
+      "card_order": "learning-path",
+      "blurb": "Photosynthesis and respiration — how life captures sunlight and spends it.",
+      "related_topic_ids": [
+        "the-cell",
+        "human-body"
+      ]
+    },
+    {
+      "id": "how-life-works",
+      "title": "How Life Works",
+      "slug": "how-life-works",
+      "order": 20,
+      "blurb": "Where life gets its energy and the body systems that keep it running."
+    },
+    {
+      "id": "human-body",
+      "title": "The Human Body",
+      "slug": "human-body",
+      "parent": "how-life-works",
+      "order": 21,
+      "card_order": "learning-path",
+      "blurb": "The organs and systems that keep you alive, balanced, and breathing.",
+      "related_topic_ids": [
+        "energy-in-life",
+        "nervous-system"
+      ]
+    },
+    {
+      "id": "nervous-system",
+      "title": "Brain \u0026 Nervous System",
+      "slug": "nervous-system",
+      "parent": "how-life-works",
+      "order": 22,
+      "card_order": "learning-path",
+      "blurb": "Neurons, the brain, and how you sense the world.",
+      "related_topic_ids": [
+        "human-body",
+        "immune-system"
+      ]
+    },
+    {
+      "id": "immune-system",
+      "title": "Immune System \u0026 Disease",
+      "slug": "immune-system",
+      "parent": "how-life-works",
+      "order": 23,
+      "card_order": "learning-path",
+      "blurb": "How your body spots invaders and fights disease.",
+      "related_topic_ids": [
+        "human-body",
+        "microbiology"
+      ]
+    },
+    {
+      "id": "reproduction",
+      "title": "Reproduction \u0026 Development",
+      "slug": "reproduction",
+      "parent": "how-life-works",
+      "order": 24,
+      "card_order": "learning-path",
+      "blurb": "Hormones, making new life, and growing from a single cell.",
+      "related_topic_ids": [
+        "human-body",
+        "dna-genetics"
+      ]
+    },
+    {
+      "id": "biology-in-action",
+      "title": "Biology in Action",
+      "slug": "biology-in-action",
+      "order": 25,
+      "blurb": "Biology put to work — engineering life and keeping your own body healthy."
+    },
+    {
+      "id": "biotechnology",
+      "title": "Biotechnology",
+      "slug": "biotechnology",
+      "parent": "biology-in-action",
+      "order": 25,
+      "card_order": "learning-path",
+      "blurb": "Reading, editing, and building with DNA — from medicine to cloned sheep.",
+      "related_topic_ids": [
+        "dna-genetics",
+        "nutrition-health"
+      ]
+    },
+    {
+      "id": "nutrition-health",
+      "title": "Nutrition \u0026 Health",
+      "slug": "nutrition-health",
+      "parent": "biology-in-action",
+      "order": 26,
+      "card_order": "learning-path",
+      "blurb": "What your body needs to run well — food, fuel, and staying healthy.",
+      "related_topic_ids": [
+        "human-body",
+        "biotechnology"
+      ]
+    },
+    {
+      "id": "classification",
+      "title": "Classifying Life",
+      "slug": "classification",
+      "parent": "diversity-of-life",
+      "order": 30,
+      "card_order": "learning-path",
+      "blurb": "How biologists sort millions of species into a single branching tree.",
+      "related_topic_ids": [
+        "evolution",
+        "animals"
+      ]
+    },
+    {
+      "id": "diversity-of-life",
+      "title": "Diversity of Life",
+      "slug": "diversity-of-life",
+      "order": 30,
+      "blurb": "The kingdoms of life and the green organisms that feed it."
+    },
+    {
+      "id": "plants",
+      "title": "Plants",
+      "slug": "plants",
+      "parent": "diversity-of-life",
+      "order": 31,
+      "card_order": "learning-path",
+      "blurb": "How plants are built, reproduce, and quietly run the biosphere.",
+      "related_topic_ids": [
+        "energy-in-life",
+        "ecology"
+      ]
+    },
+    {
+      "id": "animals",
+      "title": "Animals",
+      "slug": "animals",
+      "parent": "diversity-of-life",
+      "order": 32,
+      "card_order": "learning-path",
+      "blurb": "The vast kingdom of moving, eating life — from sponges to mammals.",
+      "related_topic_ids": [
+        "classification",
+        "ecology"
+      ]
+    },
+    {
+      "id": "evolution",
+      "title": "Evolution \u0026 Natural Selection",
+      "slug": "evolution",
+      "parent": "lifes-big-picture",
+      "order": 40,
+      "card_order": "learning-path",
+      "blurb": "Why life looks designed without a designer — descent with modification over deep time.",
+      "related_topic_ids": [
+        "dna-genetics",
+        "ecology"
+      ]
+    },
+    {
+      "id": "lifes-big-picture",
+      "title": "Life's Big Picture",
+      "slug": "lifes-big-picture",
+      "order": 40,
+      "blurb": "How species change over time, fit together in the wild, and where it all began."
+    },
+    {
+      "id": "ecology",
+      "title": "Ecology \u0026 Ecosystems",
+      "slug": "ecology",
+      "parent": "lifes-big-picture",
+      "order": 41,
+      "card_order": "learning-path",
+      "blurb": "How living things depend on each other and the environment they share.",
+      "related_topic_ids": [
+        "evolution",
+        "energy-in-life"
+      ]
+    },
+    {
+      "id": "origin-of-life",
+      "title": "Origin \u0026 History of Life",
+      "slug": "origin-of-life",
+      "parent": "lifes-big-picture",
+      "order": 42,
+      "card_order": "learning-path",
+      "blurb": "How life began and the catastrophes that reshaped it.",
+      "related_topic_ids": [
+        "evolution",
+        "classification"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "card_34bdd9",
+  "slug": "nuclear-weapons-and-deterrence",
+  "type": "concept",
+  "title": "Nuclear Weapons \u0026 Deterrence",
+  "hook": "How do you stop a war you could never survive? The nuclear age answered with a chilling paradox: build weapons so terrible that no one dares use them.",
+  "key_points": [
+    "Deterrence is preventing an attack by threatening unacceptable retaliation.",
+    "Nuclear deterrence rests on the credible threat of devastating response.",
+    "'Mutually assured destruction' (MAD): if both sides would be destroyed, neither attacks.",
+    "It is stabilizing in theory but fragile — depending on rationality, signaling, and avoiding accidents."
+  ],
+  "content_html": "\u003cp\u003eNuclear weapons transformed the logic of war because their destructive power is so vast that a full exchange could not be \u0026quot;won\u0026quot; in any meaningful sense. Out of that grim fact emerged the strategy that has shaped great-power security ever since: deterrence. Deterrence is the idea of preventing an attack not by defending against it but by threatening a response so costly that a rational adversary chooses not to attack in the first place. Encyclopaedia Britannica describes it as a strategy built on credible threat rather than active use.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eNuclear deterrence took this to its extreme conclusion in the doctrine of \u0026quot;mutually assured destruction,\u0026quot; or MAD. If two adversaries each possess enough nuclear weapons to devastate the other \u003cem\u003eeven after absorbing a first strike\u003c/em\u003e, then neither can hope to gain by attacking — any attack would guarantee its own annihilation in return. The paradox is that safety comes from each side's vulnerability: the very impossibility of surviving a war is what prevents it. During the Cold War this logic is widely credited with helping keep an uneasy peace between nuclear-armed superpowers. But deterrence is more fragile than its tidy logic suggests, and understanding its weaknesses matters as much as its strengths. It assumes decision-makers are rational and well-informed; it depends on each side correctly reading the other's intentions and capabilities (a failure of signaling can be catastrophic); and it is vulnerable to accidents, technical errors, and the spread of weapons to more actors, including ones harder to deter. Deterrence thus offers a sobering case study in how states try to buy security through threat — and why that security can never be taken for granted.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/deterrence-political-and-military-strategy",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "conflict-and-security"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1726f4",
+      "slug": "war-and-peace",
+      "type": "concept",
+      "title": "War \u0026 Peace",
+      "hook": "War is politics at its most extreme — organized violence between groups. Understanding why it happens, and how peace is kept, is central to the study of states.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_72061b",
+      "slug": "diplomacy-and-war",
+      "type": "concept",
+      "title": "Diplomacy \u0026 War",
+      "hook": "States pursue their interests on a spectrum that runs from the conference table to the battlefield. Diplomacy and war are two ends of the same toolkit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_838dd6",
+      "slug": "terrorism",
+      "type": "concept",
+      "title": "Terrorism",
+      "hook": "Terrorism is violence aimed less at its victims than at an audience — using fear as a political weapon to force change a group cannot win by other means.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_1726f4",
+      "slug": "war-and-peace",
+      "type": "concept",
+      "title": "War \u0026 Peace",
+      "hook": "War is politics at its most extreme — organized violence between groups. Understanding why it happens, and how peace is kept, is central to the study of states.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_34bdd9#0",
+      "format": "flip",
+      "prompt": "What is deterrence?",
+      "back_html": "\u003cp\u003ePreventing an attack by \u003cstrong\u003ethreatening retaliation so costly\u003c/strong\u003e that the\nattacker decides it isn't worth it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_34bdd9#1",
+      "format": "quiz",
+      "prompt": "What does 'mutually assured destruction' (MAD) mean?",
+      "choices": [
+        {
+          "text": "If both sides would be destroyed in a nuclear exchange, neither has reason to start one",
+          "correct": true
+        },
+        {
+          "text": "Both sides agree to destroy their weapons",
+          "correct": false
+        },
+        {
+          "text": "One side can win a nuclear war cheaply",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMAD holds that when each side can annihilate the other even after being\nstruck first, starting a war becomes suicidal — and so is deterred.\u003c/p\u003e"
+    },
+    {
+      "id": "card_34bdd9#2",
+      "format": "quiz",
+      "prompt": "Why is nuclear deterrence considered fragile despite its logic?",
+      "choices": [
+        {
+          "text": "It depends on rational actors, clear signaling, and avoiding accidents or miscalculation",
+          "correct": true
+        },
+        {
+          "text": "Because the weapons do not actually exist",
+          "correct": false
+        },
+        {
+          "text": "Because it has no effect on behavior",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDeterrence can fail through misperception, irrational actors, technical\naccidents, or proliferation — so its stability is never guaranteed.\u003c/p\u003e"
+    }
+  ]
+}

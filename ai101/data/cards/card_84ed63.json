@@ -1,0 +1,101 @@
+{
+  "id": "card_84ed63",
+  "slug": "ai-for-writing",
+  "type": "concept",
+  "title": "AI for Writing",
+  "hook": "Writing is where AI earns its keep for most people: not replacing your voice, but beating the blank page, tightening drafts, and translating 'ugh' into a sendable email.",
+  "key_points": [
+    "Best uses: first drafts, rewording, shortening, fixing tone, beating writer's block.",
+    "Keep your voice — edit the output so it sounds like you, not a press release.",
+    "Great for translating between registers: blunt notes → polite email, jargon → plain.",
+    "You're still the author: check facts and own what you send."
+  ],
+  "content_html": "\u003cp\u003eIf you only ever use AI for one thing, writing is probably where it pays off most — because so much of writing is friction, and AI is a friction-remover. The blank page is the classic example: ask for a rough draft and suddenly you're editing instead of staring, which is far easier. It's also excellent at the unglamorous middle of writing — shortening something that's too long, fixing a tone that came out wrong, turning a pile of notes into a coherent paragraph, or rewriting a curt message so it doesn't read as rude.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eOne translation trick is especially handy in daily life: AI moves text between \u003cem\u003eregisters\u003c/em\u003e. Blunt bullet points become a diplomatic email; technical jargon becomes plain language; a rambling voice memo becomes three clean sentences. The key is to stay the author. Raw AI output tends to sound like a generic press release — a little inflated, a little same-y — so the real skill is editing it back into your own voice, cutting the padding, and keeping what's actually you. And because it can state things that aren't true, anything factual still needs your check. Used this way, AI doesn't replace your writing; it removes the parts you dreaded and leaves the judgment to you.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-for-writing"
+  ],
+  "tags": [
+    "generative",
+    "tutorial"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a0b7eb",
+      "slug": "talking-to-ai",
+      "type": "concept",
+      "title": "Talking to AI",
+      "hook": "The difference between a useless answer and a great one is usually the question. Give the AI context, an example, and a clear job — and treat it as a conversation, not a vending machine.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_494e8d",
+      "slug": "prompting-mistakes",
+      "type": "concept",
+      "title": "Common Prompting Mistakes",
+      "hook": "Most 'AI is useless' moments trace back to a handful of fixable habits: asking too vaguely, dumping everything at once, and accepting the first draft as final.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af049a",
+      "slug": "using-ai-responsibly",
+      "type": "concept",
+      "title": "Using AI Responsibly",
+      "hook": "The point of AI literacy isn't to use AI for everything — it's to use it well: check its work, be honest that you used it, and know the moments to put it down.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a0b7eb",
+      "slug": "talking-to-ai",
+      "type": "concept",
+      "title": "Talking to AI",
+      "hook": "The difference between a useless answer and a great one is usually the question. Give the AI context, an example, and a clear job — and treat it as a conversation, not a vending machine.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_84ed63#0",
+      "format": "quiz",
+      "prompt": "What's the healthiest way to use AI for writing?",
+      "choices": [
+        {
+          "text": "As a drafting and editing partner whose output you shape into your own voice",
+          "correct": true
+        },
+        {
+          "text": "As a hands-off author you copy-paste without reading",
+          "correct": false
+        },
+        {
+          "text": "Only for fixing spelling, nothing else",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI shines at first drafts, rewording, and tone — but the result reads\ngeneric unless you edit it to sound like you, and you stay accountable for it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_84ed63#1",
+      "format": "flip",
+      "prompt": "Give one everyday writing task AI handles really well.",
+      "back_html": "\u003cp\u003eTranslating between registers — turning blunt bullet points into a polite\nemail, or dense jargon into plain language a normal reader understands.\u003c/p\u003e"
+    }
+  ]
+}

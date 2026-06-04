@@ -1,0 +1,89 @@
+{
+  "id": "card_eb9e3e",
+  "slug": "electric-field-boosts-heat-flow",
+  "type": "news",
+  "title": "An Electric Field Trick That Nearly Triples Heat Flow",
+  "hook": "Zap a ceramic crystal with an electric field and heat suddenly flows through it almost three times faster in one direction — a jump far beyond anything researchers expected.",
+  "key_points": [
+    "Oak Ridge researchers applied an electric field to relaxor-based ferroelectric ceramic crystals.",
+    "The field aligns charges inside the material, which reduces scattering of the vibrations (phonons) that carry heat.",
+    "Heat conduction rose almost 300% along the field's direction — far beyond the 5-10% gains earlier work achieved.",
+    "The effect points toward solid-state cooling and thermoelectric devices with no moving parts."
+  ],
+  "content_html": "\u003cp\u003eHeat moving through a solid isn't a fluid sloshing around — it's vibrations of the crystal lattice, called phonons, hopping from atom to atom. Anything that scatters those vibrations slows heat down, which is why engineers are always hunting for ways to clear phonons a smoother path.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team at Oak Ridge National Laboratory, working with Ohio State University and Amphenol Corporation, found an unexpectedly powerful way to do it. By \u0026quot;poling\u0026quot; carefully grown relaxor-based ferroelectric ceramic crystals — exposing them to an electric field that aligns tiny charges inside the material — they reduced the obstacles those charges normally pose to phonon flow. The result: heat traveled almost three times more efficiently along the direction of the field than in other directions, dwarfing the 5-10% gains earlier electric-field experiments had managed. The team, which included Puspa Upreti, Michael Manley, Raphaël Hermann, and the late Joseph Heremans, sees applications in solid-state electronic cooling with no moving parts, thermoelectric devices that convert waste heat to electricity, and better heat management in chips. Published in \u003cem\u003ePRX Energy\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260709160651.htm",
+    "published_at": "2026-07-11",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "heat-thermo"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-11",
+  "related": [
+    {
+      "id": "card_52d8f2",
+      "slug": "heat-transfer",
+      "type": "concept",
+      "title": "Three Ways Heat Moves",
+      "hook": "Heat travels three ways: conduction through contact, convection by circulating fluid, and radiation across empty space. Most warming you feel mixes all three.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_095eee",
+      "slug": "radiative-heat-at-the-nanoscale",
+      "type": "news",
+      "title": "Heat Radiation Breaks Its Own Speed Limit",
+      "hook": "Textbooks cap how much heat two surfaces can radiate at each other. Squeeze the gap to a few nanometers and that limit shatters — researchers saw up to 4x more heat flow.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_eb9e3e#0",
+      "format": "flip",
+      "prompt": "What does heat actually travel as, inside a solid crystal?",
+      "back_html": "\u003cp\u003eVibrations of the crystal lattice, called \u003cstrong\u003ephonons\u003c/strong\u003e. Anything that scatters phonons\nslows heat flow; anything that lets them travel more freely speeds it up.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eb9e3e#1",
+      "format": "quiz",
+      "prompt": "How did researchers boost heat flow through a ceramic crystal by nearly 300%?",
+      "choices": [
+        {
+          "text": "By applying an electric field that aligns internal charges and reduces phonon scattering",
+          "correct": true
+        },
+        {
+          "text": "By cooling the ceramic to near absolute zero",
+          "correct": false
+        },
+        {
+          "text": "By physically stretching the crystal along one axis",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u0026quot;Poling\u0026quot; the ceramic with an electric field lines up charges inside it, clearing a\nsmoother path for heat-carrying vibrations — no cooling or stretching involved.\u003c/p\u003e"
+    },
+    {
+      "id": "card_eb9e3e#2",
+      "format": "flip",
+      "prompt": "Why is a nearly 300% jump in heat flow surprising here?",
+      "back_html": "\u003cp\u003eEarlier attempts to boost heat conduction this way only managed \u003cstrong\u003e5-10% gains\u003c/strong\u003e — this\nresult is roughly a 30-fold improvement over prior electric-field tricks.\u003c/p\u003e"
+    }
+  ]
+}

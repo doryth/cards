@@ -1,0 +1,86 @@
+{
+  "id": "card_dfb3a7",
+  "slug": "bezos-prometheus-physical-ai",
+  "type": "news",
+  "title": "Jeff Bezos and the Push for 'Physical AI'",
+  "hook": "Bezos is co-leading a well-funded startup called Prometheus, aiming for an 'artificial general engineer' — AI that helps design real, physical products, not just write and chat.",
+  "key_points": [
+    "Bezos's startup Prometheus aims to build AI tools for designing physical products.",
+    "Its stated goal: an 'artificial general engineer' to aid real-world engineering.",
+    "It's part of a wave of 'physical AI' — pushing AI beyond text and images.",
+    "Not the only player tackling this, but reportedly one of the best-funded."
+  ],
+  "content_html": "\u003cp\u003eSo far, the AI boom has mostly lived on screens: writing, drawing, coding, chatting. Jeff Bezos is betting the next chapter is physical. The Verge reported that the Amazon founder is helping lead a new startup, Prometheus, whose ambition is an \u0026quot;artificial general engineer\u0026quot; — AI built to help design real, physical products rather than just generate words and images.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe phrase to notice is \u0026quot;physical AI.\u0026quot; A chatbot's mistakes cost you a bad paragraph; an engineering tool's output becomes a part that has to actually fit, hold, and not break. That's a harder problem, which is partly why it's drawing serious money — Ars Technica noted Prometheus isn't the only startup chasing physical AI, but it's one of the best-funded. For a general reader, the useful signal isn't the specific company (early-stage, light on public detail) but the direction the field's heavyweights are pointing: away from \u0026quot;AI that talks\u0026quot; and toward \u0026quot;AI that helps make things.\u0026quot; Whether that pans out as quickly as the hype suggests is an open question — designing trustworthy physical objects is exactly the kind of messy, high-stakes, real-world task where AI has historically moved slower than promised.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+    "published_at": "2026-06-12",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-15",
+  "date": "2026-06-12",
+  "related": [
+    {
+      "id": "card_66e39d",
+      "slug": "robots-and-self-driving",
+      "type": "concept",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_dfb3a7#0",
+      "format": "quiz",
+      "prompt": "What is Bezos's startup Prometheus trying to build?",
+      "choices": [
+        {
+          "text": "An 'artificial general engineer' — AI tools to help design physical products",
+          "correct": true
+        },
+        {
+          "text": "A new chatbot to compete with ChatGPT",
+          "correct": false
+        },
+        {
+          "text": "A social media network",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePrometheus aims at engineering, not chat: AI to aid the design of real, physical\nproducts — an example of the broader 'physical AI' push.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dfb3a7#1",
+      "format": "flip",
+      "prompt": "What does 'physical AI' mean here?",
+      "back_html": "\u003cp\u003eExtending AI beyond words and images into the physical world — designing,\nengineering, and building real objects, not just generating text on a screen.\u003c/p\u003e"
+    }
+  ]
+}

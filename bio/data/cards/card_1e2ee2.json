@@ -1,0 +1,100 @@
+{
+  "id": "card_1e2ee2",
+  "slug": "extremophiles",
+  "type": "concept",
+  "title": "Extremophiles: Life at the Edge",
+  "hook": "In boiling vents, frozen rock, acid pools, and brine that would pickle anything else, microbes don't just survive the extremes — they need them to live.",
+  "key_points": [
+    "Extremophiles are organisms that thrive in conditions lethal to most life.",
+    "They are sorted by what they love: heat, cold, acid, salt, pressure, and more.",
+    "Most are archaea or bacteria, though a few are eukaryotes.",
+    "Their proteins and membranes are specially built to stay stable under stress.",
+    "They expand the limits of where life is possible — on Earth and maybe beyond."
+  ],
+  "content_html": "\u003cp\u003eExtremophiles are organisms that don't merely endure brutal conditions — they require them. Found in scalding hydrothermal vents, ice locked in Antarctic rock, vinegar-strength acid pools, and salt flats, they are named for the extreme they crave: thermophiles love heat, psychrophiles cold, halophiles salt, acidophiles acid. Most are archaea or bacteria built to keep functioning where ordinary life falls apart.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat lets them survive is chemistry. As Encyclopaedia Britannica notes, extremophile proteins and cell membranes are reinforced to stay folded and intact under heat, pressure, or chemical assault that would unravel a typical cell. Studying them does two things at once: it pushes back the known boundaries of life on Earth, and it sharpens the search for life elsewhere — if microbes flourish beside boiling vents here, similar refuges might harbor life on other worlds.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/extremophile",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_90eb50",
+      "slug": "what-are-bacteria",
+      "type": "concept",
+      "title": "What Are Bacteria?",
+      "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e69708",
+      "slug": "the-three-domains",
+      "type": "concept",
+      "title": "The Three Domains of Life",
+      "hook": "At the very top, all life splits into just three branches — Bacteria, Archaea, and Eukarya — and your cells belong to the same one as mushrooms and oak trees.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1e2ee2#0",
+      "format": "flip",
+      "prompt": "What is an extremophile?",
+      "back_html": "\u003cp\u003eAn organism that \u003cstrong\u003ethrives\u003c/strong\u003e in conditions deadly to most life — extreme heat,\ncold, acidity, salinity, or pressure. The extreme isn't tolerated; it's home.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1e2ee2#1",
+      "format": "quiz",
+      "prompt": "Most extremophiles belong to which groups?",
+      "choices": [
+        {
+          "text": "Archaea and bacteria",
+          "correct": true
+        },
+        {
+          "text": "Mammals and birds",
+          "correct": false
+        },
+        {
+          "text": "Flowering plants",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe hardiest extremophiles are single-celled prokaryotes — especially archaea —\nwhose molecular machinery is engineered to hold together under harsh stress.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1e2ee2#2",
+      "format": "quiz",
+      "prompt": "What would you call a microbe that thrives in near-boiling hot springs?",
+      "choices": [
+        {
+          "text": "A thermophile",
+          "correct": true
+        },
+        {
+          "text": "A halophile",
+          "correct": false
+        },
+        {
+          "text": "An acidophile",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHeat-lovers are thermophiles. Halophiles favor extreme salt and acidophiles\nfavor strong acid — each name marks the extreme the organism is built for.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "card_53b5e1",
+  "slug": "programmable-heat-material",
+  "type": "news",
+  "title": "A Material That Remembers How It Radiates Heat",
+  "hook": "Most materials just leak heat the same way forever. This one can be switched between heat-radiating modes with a magnetic field — and it keeps its setting even after the field is gone.",
+  "key_points": [
+    "A new device layers a magneto-optical material with a phase-change material (GST) to control thermal radiation.",
+    "A magnetic field can switch which direction the material radiates heat in, and the setting sticks without continuous power.",
+    "This breaks the usual rule that heat absorption and emission stay locked together (reciprocity).",
+    "Unlike earlier designs needing steep light angles, it works reliably even for light hitting it nearly head-on."
+  ],
+  "content_html": "\u003cp\u003eMost materials radiate heat the same way no matter what you do to them: absorption and emission are locked together by a rule called reciprocity. Researchers at Osaka Metropolitan University, led by Professor Koichi Okamoto and Dr. Shunsuke Murai, built a device that breaks that rule on purpose.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir design layers a magneto-optical material — one whose interaction with light changes under a magnetic field — with GST, a phase-change material already familiar from rewritable optical discs. Together, the combination lets a magnetic field control the direction in which the material radiates heat, switch that behavior on or off, and hold the new setting even after the field is removed, much like flipping a bit in computer memory. Earlier attempts at this kind of control only worked when light hit the material at steep angles; this version works reliably even close to head-on. The team sees it enabling smarter infrared sensors, more efficient energy systems, and photonic memory devices that store information with light and heat instead of electrical charge. Published in \u003cem\u003eLaser \u0026amp; Photonics Reviews\u003c/em\u003e.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260707025046.htm",
+    "published_at": "2026-07-07",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "heat-thermo"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-07",
+  "related": [
+    {
+      "id": "card_eb9e3e",
+      "slug": "electric-field-boosts-heat-flow",
+      "type": "news",
+      "title": "An Electric Field Trick That Nearly Triples Heat Flow",
+      "hook": "Zap a ceramic crystal with an electric field and heat suddenly flows through it almost three times faster in one direction — a jump far beyond anything researchers expected.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "card_095eee",
+      "slug": "radiative-heat-at-the-nanoscale",
+      "type": "news",
+      "title": "Heat Radiation Breaks Its Own Speed Limit",
+      "hook": "Textbooks cap how much heat two surfaces can radiate at each other. Squeeze the gap to a few nanometers and that limit shatters — researchers saw up to 4x more heat flow.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_53b5e1#0",
+      "format": "flip",
+      "prompt": "What two components make up this new heat-controlling material?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003emagneto-optical material\u003c/strong\u003e (which changes how it interacts with light under a magnetic\nfield) layered with \u003cstrong\u003eGST\u003c/strong\u003e, a phase-change material already used in rewritable storage.\u003c/p\u003e"
+    },
+    {
+      "id": "card_53b5e1#1",
+      "format": "quiz",
+      "prompt": "What everyday physics rule does this material's behavior break?",
+      "choices": [
+        {
+          "text": "Reciprocity — the usual rule that a material's heat absorption and emission are locked together",
+          "correct": true
+        },
+        {
+          "text": "Conservation of energy",
+          "correct": false
+        },
+        {
+          "text": "The second law of thermodynamics",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOrdinarily a material absorbs and radiates heat symmetrically. This device decouples the\ntwo, letting a magnetic field steer emission direction independently.\u003c/p\u003e"
+    },
+    {
+      "id": "card_53b5e1#2",
+      "format": "flip",
+      "prompt": "Why does it make sense to compare this device to computer memory?",
+      "back_html": "\u003cp\u003eOnce switched into a thermal-radiation mode, it \u003cstrong\u003eholds that setting without continuous\npower\u003c/strong\u003e — the same persistence that makes memory storage useful.\u003c/p\u003e"
+    }
+  ]
+}

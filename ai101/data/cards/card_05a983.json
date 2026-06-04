@@ -1,0 +1,87 @@
+{
+  "id": "card_05a983",
+  "slug": "ai-search-court-ruling",
+  "type": "news",
+  "title": "A Court Just Pushed Back on AI Search",
+  "hook": "A German court ruled against Google's AI Overviews — the AI summaries atop search results — in a decision that could reshape AI search and back publishers who don't want their work summarized away.",
+  "key_points": [
+    "A German court ruled against Google over its AI Overviews in search.",
+    "Coverage suggests the loss could ripple across the whole AI-search industry.",
+    "At stake: whether AI can summarize publishers' work instead of sending readers to it.",
+    "AI search summaries are now a legal fight, not just a product feature."
+  ],
+  "content_html": "\u003cp\u003eThe AI summaries now sitting atop your search results aren't just a convenience — they're contested in court. As Ars Technica reports, a German court ruled against Google over its AI Overviews, the AI-written answers that appear above the usual list of links. The coverage frames it bluntly — \u0026quot;nobody needs AI to search the Internet\u0026quot; — and suggests the decision could spell trouble for the broader AI-search industry, not just one company.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe fight underneath is one worth grasping, because it shapes the web you read every day. AI Overviews work by summarizing content from across the web and handing you the answer directly. That's handy for you — but it can mean you never click through to the publishers whose articles the summary was built from, the same publishers who depend on those visits. So a tension has been building: AI search is great at \u003cem\u003eanswering\u003c/em\u003e, but it does so by repackaging other people's work, and many of those creators object. This ruling is one early sign that courts may force limits on how freely AI can summarize the web. For you, the practical lesson is the same as ever — treat an AI overview as a starting point, and click through to the real sources, both to check the facts and to support the people who produced them.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google",
+    "published_at": "2026-06-10",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-search",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "rag"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-11",
+  "date": "2026-06-10",
+  "related": [
+    {
+      "id": "card_a92eaf",
+      "slug": "ai-search-overviews",
+      "type": "concept",
+      "title": "AI in Search",
+      "hook": "Search engines now answer in sentences, not just links. Convenient — but the AI summary can be wrong or miss context, and the links underneath are still where the truth lives.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_05a983#0",
+      "format": "quiz",
+      "prompt": "What is the core conflict behind the ruling against Google's AI Overviews?",
+      "choices": [
+        {
+          "text": "Whether AI can summarize publishers' work instead of sending readers to their sites",
+          "correct": true
+        },
+        {
+          "text": "Whether search engines are allowed to show any links at all",
+          "correct": false
+        },
+        {
+          "text": "Whether AI is allowed to use the color blue",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI Overviews answer in summaries built from web content, which can keep readers\nfrom clicking through — putting the AI's summaries at odds with publishers.\u003c/p\u003e"
+    },
+    {
+      "id": "card_05a983#1",
+      "format": "flip",
+      "prompt": "Why does a court case like this matter for AI search beyond Google?",
+      "back_html": "\u003cp\u003eCoverage suggests the loss could ripple across the whole AI-search industry —\na sign that AI summaries are now a legal question, not just a product choice.\u003c/p\u003e"
+    }
+  ]
+}

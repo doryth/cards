@@ -1,0 +1,95 @@
+{
+  "id": "card_f6f54b",
+  "slug": "laser-driven-muon-beam-radiography",
+  "type": "paper",
+  "title": "A Single Laser Shot Now Images Through 15 Meters of Lead",
+  "hook": "Muon imaging usually means waiting hours for enough cosmic-ray muons to trickle through. A laser-driven muon beam just did the same job — through a truck and a building wall — in a single shot.",
+  "key_points": [
+    "Muons are heavy, highly penetrating cousins of the electron that pass through thick material far more easily than X-rays — cosmic-ray muons are already used to image pyramids and volcanoes, but naturally arrive too slowly for fast imaging.",
+    "Researchers used a multi-GeV laser-wakefield accelerator to generate a beam of muons, pions, and neutrons in a single pulse.",
+    "They imaged a test object about 15 meters away, through dense lead shielding plus the walls of a building and a truck.",
+    "The single-shot muon fluence was equivalent to over 8 hours of natural cosmic-ray muon exposure — collapsing a multi-hour wait into a single laser pulse."
+  ],
+  "content_html": "\u003cp\u003eMuons — heavy, highly penetrating cousins of the electron — pass through thick material far more easily than X-rays, which is why cosmic-ray muons raining down from the upper atmosphere have already been used to peer inside pyramids and volcanoes. The catch is speed: natural cosmic-ray muons arrive slowly, so imaging with them typically means waiting hours to gather enough of a signal.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team led by Kaixin Zhu, G. Jackson Williams, and Brendan A. Reagan built a different kind of muon source: a multi-GeV laser-wakefield accelerator that generates a beam of muons, pions, and neutrons in a single pulse. Firing that beam at a test object roughly 15 meters away — through dense lead shielding, the walls of a building, and a truck — the team confirmed the beam's muon content directly by timing particle decays consistent with the known muon lifetime, and showed simulations matched the transmitted beam being almost entirely muons. The single laser shot delivered a muon fluence equivalent to more than 8 hours of natural cosmic-ray exposure, demonstrating single-shot, high-energy particle radiography that could make muon imaging practical wherever waiting hours for cosmic rays isn't an option.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Kaixin Zhu",
+      "G. Jackson Williams",
+      "Brendan A. Reagan"
+    ],
+    "url": "https://arxiv.org/abs/2607.12984",
+    "published_at": "2026-07-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "materials-tech"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_cf2cf7",
+      "slug": "the-four-fundamental-forces",
+      "type": "concept",
+      "title": "The Four Fundamental Forces",
+      "hook": "Every push and pull in the universe — from falling apples to exploding stars — comes down to just four basic forces. Two you feel daily; two hide inside the atom.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a1831a",
+      "slug": "radioactivity",
+      "type": "concept",
+      "title": "Radioactivity and Half-Life",
+      "hook": "You can't predict when a single unstable atom will decay, yet a huge sample decays on a clock so precise we use it to date rocks billions of years old.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f6f54b#0",
+      "format": "flip",
+      "prompt": "Why are muons useful for imaging through very thick objects?",
+      "back_html": "\u003cp\u003eMuons are heavy and highly \u003cstrong\u003epenetrating\u003c/strong\u003e — they pass through thick materials\nlike lead far more easily than X-rays can, which is why cosmic-ray muons are\nalready used to image pyramids and volcanoes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f6f54b#1",
+      "format": "quiz",
+      "prompt": "What's the main advantage of this laser-driven muon source over natural cosmic-ray muon imaging?",
+      "choices": [
+        {
+          "text": "It delivers a muon dose in a single laser shot equivalent to over 8 hours of natural cosmic-ray exposure",
+          "correct": true
+        },
+        {
+          "text": "It produces muons that penetrate matter better than any muon previously known",
+          "correct": false
+        },
+        {
+          "text": "It eliminates the need for detectors entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNatural cosmic-ray muon imaging works but requires long exposure times to\ngather enough muons; this laser-driven source delivers a comparable dose almost\ninstantly.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f6f54b#2",
+      "format": "flip",
+      "prompt": "What did the researchers image through, and from how far away?",
+      "back_html": "\u003cp\u003eA test object roughly 15 meters from the beam source, through dense \u003cstrong\u003elead\nshielding\u003c/strong\u003e plus the walls of a \u003cstrong\u003ebuilding\u003c/strong\u003e and a \u003cstrong\u003etruck\u003c/strong\u003e.\u003c/p\u003e"
+    }
+  ]
+}

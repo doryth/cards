@@ -1,0 +1,98 @@
+{
+  "id": "card_3747ba",
+  "slug": "chatgpt-logs-as-evidence",
+  "type": "news",
+  "title": "Your Chatbot History Can End Up in Court",
+  "hook": "Prosecutors in a deadly-wildfire case used a suspect's ChatGPT logs as evidence — a reminder that what you type into a chatbot can be stored, requested, and read by others.",
+  "key_points": [
+    "In the Palisades fire arson case, prosecutors used the defendant's ChatGPT logs as evidence.",
+    "They sat alongside phone location data, security footage, and witness testimony.",
+    "AI chats live on company servers and can be subpoenaed like other digital records.",
+    "Treat a chatbot less like a private diary and more like a searchable record.",
+    "A simple habit: don't type anything you'd hate to see surfaced later."
+  ],
+  "content_html": "\u003cp\u003eA chatbot can feel like a private space — a conversation between you and a machine. A recent court case is a sharp reminder that it isn't. The Verge reports that, in the prosecution over the deadly Palisades fire, prosecutors used the defendant's ChatGPT logs as part of their evidence, alongside iPhone location data, security-camera footage, and witness testimony.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe point for everyone else isn't the details of that case — it's the principle it illustrates. When you chat with an AI assistant, your messages are typically stored on the company's servers, not just on your phone. That makes them digital records, and digital records can be requested by courts, handed over in legal disputes, or exposed in a data breach. None of that means you should stop using chatbots. It means treating them a little less like a private diary and a little more like a searchable record that might be read by someone else someday — a court, an employer, a hacker. The simplest safeguard is also the oldest: don't type anything you'd seriously regret seeing surface later.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O’Brien"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+    "published_at": "2026-06-28",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "privacy-data",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-29",
+  "date": "2026-06-28",
+  "related": [
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_98e80e",
+      "slug": "google-search-history-ai-training",
+      "type": "news",
+      "title": "Google Will Save Your Searches to Train AI",
+      "hook": "Google is adding a setting that saves the photos, audio, and video you use to search — Lens snaps, voice queries, Translate clips — and that data can help train its AI. Worth a look.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "card_1db842",
+      "slug": "pokemon-go-data-repurposed",
+      "type": "news",
+      "title": "Your Game Data Can End Up Somewhere You Never Imagined",
+      "hook": "Data that Pokémon Go players generated for fun has reportedly been repurposed toward tech with military drone uses — a sharp reminder that data has a long, unpredictable second life.",
+      "importance": 2,
+      "difficulty": "intro",
+      "date": "2026-06-12"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3747ba#0",
+      "format": "flip",
+      "prompt": "Why isn't a chatbot conversation as private as it can feel?",
+      "back_html": "\u003cp\u003eYour messages are stored on the company's servers, not just on your device — so\nthey can be requested by a court and used as evidence, like other digital records.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3747ba#1",
+      "format": "quiz",
+      "prompt": "What's the practical privacy takeaway from chat logs being used in court?",
+      "choices": [
+        {
+          "text": "Treat a chatbot like a searchable record — don't type what you'd hate to see surfaced",
+          "correct": true
+        },
+        {
+          "text": "Stop using chatbots entirely; there's no safe way to use one",
+          "correct": false
+        },
+        {
+          "text": "Chats are fine to share since only you can ever read them",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYou don't have to quit chatbots — just remember the transcript can outlive the\nmoment and be read by others, so keep truly sensitive details out of it.\u003c/p\u003e"
+    }
+  ]
+}

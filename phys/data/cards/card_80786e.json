@@ -1,0 +1,147 @@
+{
+  "id": "card_80786e",
+  "slug": "neutral-atom-quantum-roadmap",
+  "type": "paper",
+  "title": "The Neutral-Atom Roadmap to a Useful Quantum Computer",
+  "hook": "Fifty-plus researchers from the atom-array world lay out what it would actually take to get practical quantum advantage — and how you'd prove you had it.",
+  "key_points": [
+    "Neutral-atom qubits are individual atoms held in place by focused laser beams — 'optical tweezers'.",
+    "The plan defines practical quantum advantage and, crucially, how to verify a claim of it.",
+    "Hardware priorities: bigger arrays, better qubit encodings, and pushing logical qubits further below threshold.",
+    "It also targets continuous reloading of atoms and faster readout — the unglamorous throughput problems.",
+    "Integrated photonics, new error correction, and better circuit compilation round out the plan.",
+    "Networking several processors together would push past what one machine can do."
+  ],
+  "content_html": "\u003cp\u003eNeutral-atom quantum computers hold individual atoms in place with tightly focused laser beams, arrange them into arrays, and entangle them by nudging atoms into enormous, highly interactive Rydberg states. It's become one of the leading platforms, and now a large collaboration — Adrian Menssen, Tout Wang, Michael Gullans, Mikhail Lukin, Antoine Browaeys, Mark Saffman and dozens of others — has published a strategic plan for where it goes next.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe document is notable for taking verification as seriously as capability: it defines what \u0026quot;practical quantum advantage\u0026quot; should mean and sets out how a claim of it could be checked, alongside how to design algorithms that might deliver it. On hardware, the priorities are what you'd expect and a few you might not. Scaling up array size, choosing better qubit encodings and atomic species, and pushing logical-qubit performance further below the error-correction threshold are the headline items. But the plan also foregrounds throughput problems that rarely make press releases — continuously reloading atoms into the array as they're lost, and reading qubits out faster — plus integrated photonic control as the route to replacing room-sized optical setups with chips. Rounding it out are new directions in quantum error correction and circuit compilation, and a proposal to network several processors together for distributed quantum computing when one machine isn't enough. It's a useful snapshot of what the people building these machines think stands between here and usefulness.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Adrian J. Menssen",
+      "Tout Wang",
+      "Michael Gullans",
+      "Tom Manovitz",
+      "Mikhail D. Lukin",
+      "Vladan Vuletic",
+      "Antoine Browaeys",
+      "Mark Saffman",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2607.21554",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf6284",
+      "slug": "laptop-beats-77-qubit-chemistry-run",
+      "type": "paper",
+      "title": "A Laptop Redoes a 77-Qubit Chemistry Experiment in Under a Minute",
+      "hook": "One of the largest quantum-chemistry runs ever took 77 qubits and a supercomputer's worth of post-processing. A new classical algorithm reproduces it on a laptop — and does better.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_869b2e",
+      "slug": "quantum-computers-colder-not-always-better",
+      "type": "paper",
+      "title": "For Quantum Computers, Colder Isn't Always Better",
+      "hook": "The instinct is to chase ever-lower temperatures for quantum chips. A new study of real silicon qubits finds a 'sweet spot' instead, since cooling itself has a cost.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_e31194",
+      "slug": "magnons-quantum-computers-penny-sized",
+      "type": "news",
+      "title": "Tiny Magnetic Waves Could Shrink Quantum Computers to Coin Size",
+      "hook": "Magnons — quantum ripples of magnetism once too short-lived to use — just got a 100x lifespan boost, and the bottleneck turns out to be manufacturing, not physics.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_80786e#0",
+      "format": "quiz",
+      "prompt": "Besides scaling up the number of qubits, what mundane bottlenecks does the roadmap target?",
+      "choices": [
+        {
+          "text": "Continuously reloading atoms into the array and reading qubits out faster",
+          "correct": true
+        },
+        {
+          "text": "Reducing the physical weight of the laser table",
+          "correct": false
+        },
+        {
+          "text": "Making the atoms heavier so they trap more easily",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAtoms are lost from tweezer arrays over time and readout takes time, so continuous reloading and\nfast readout are throughput problems the plan calls out explicitly alongside raw scaling.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80786e#1",
+      "format": "flip",
+      "prompt": "Why does the plan spend effort on *verifying* quantum advantage, not just achieving it?",
+      "back_html": "\u003cp\u003eBecause a claim of practical advantage is only meaningful if it can be checked. The authors define\nwhat practical quantum advantage means and set out approaches to verifying such claims.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80786e#2",
+      "format": "quiz",
+      "prompt": "What is the proposed way past the limits of any single neutral-atom processor?",
+      "choices": [
+        {
+          "text": "Networking multiple processors together for distributed quantum computing",
+          "correct": true
+        },
+        {
+          "text": "Cooling one processor to a far lower temperature",
+          "correct": false
+        },
+        {
+          "text": "Abandoning error correction to save qubits",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe final section examines networking several neutral-atom processors to perform distributed\nquantum computing and overcome the limitations of a single system.\u003c/p\u003e"
+    }
+  ]
+}

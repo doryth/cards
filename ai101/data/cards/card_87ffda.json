@@ -1,0 +1,87 @@
+{
+  "id": "card_87ffda",
+  "slug": "google-ai-ad-labels",
+  "type": "news",
+  "title": "Google Will Now Tell You If an Ad Was Made With AI",
+  "hook": "Wondering whether that Google or YouTube ad is AI-generated? There's now a real answer, sitting in a settings menu most people have never opened.",
+  "key_points": [
+    "Google added a 'created or edited with AI' label, visible in My Ad Center's 'how this ad was made' tab.",
+    "It covers ads on Google Search, Google Discover, and YouTube.",
+    "The labeling relies on Google's own disclosure system, applied at the ad platform level.",
+    "It's a practical tool: a real setting you can actually go check, not just a policy statement."
+  ],
+  "content_html": "\u003cp\u003eAs AI-made images and video get harder to spot by eye, transparency tools are shifting from \u0026quot;trust us\u0026quot; statements to actual settings you can check. The Verge reports Google added exactly that: a \u0026quot;created or edited with AI\u0026quot; label, visible under the \u0026quot;how this ad was made\u0026quot; tab in My Ad Center, covering ads across Google Search, Google Discover, and YouTube.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe value here isn't flashy, but it's real: instead of guessing whether a striking ad was AI-made, there's now a specific place to check. It joins a small but growing category of concrete AI-disclosure tools — alongside things like library apps letting readers filter AI-narrated audiobooks — that put a checkable fact in front of users rather than a general assurance. As with any self-disclosed labeling system, its usefulness depends on how consistently Google applies it across the ads running through its platforms. But knowing the setting exists at all is the first step; most people will never benefit from a transparency tool they don't know is there.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Stevie Bonifield"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+    "published_at": "2026-07-09",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-09",
+  "related": [
+    {
+      "id": "card_c517f9",
+      "slug": "libby-ai-content-filter",
+      "type": "news",
+      "title": "Your Library App Is Adding an AI Content Filter — Sort Of",
+      "hook": "Libby, the library ebook app, is letting readers hide AI-generated books, narration, and art. The catch: the filter only works if publishers and authors honestly disclose using AI.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_798d26",
+      "slug": "spotting-ai-content",
+      "type": "concept",
+      "title": "Spotting AI-Made Content",
+      "hook": "There are real tells for AI text and images — but they're fading fast, and 'AI detector' tools are unreliable. The durable skill is judging the source, not squinting at the pixels.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_87ffda#0",
+      "format": "quiz",
+      "prompt": "Where can you actually check whether a Google or YouTube ad was made with AI?",
+      "choices": [
+        {
+          "text": "The 'how this ad was made' tab in Google's My Ad Center",
+          "correct": true
+        },
+        {
+          "text": "There's no way to check — it's not disclosed anywhere",
+          "correct": false
+        },
+        {
+          "text": "Only Google employees can see this information",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGoogle added a specific, checkable label in My Ad Center rather than just a\ngeneral policy — it's a concrete tool, not just a promise.\u003c/p\u003e"
+    },
+    {
+      "id": "card_87ffda#1",
+      "format": "flip",
+      "prompt": "What kinds of ads does this new label cover?",
+      "back_html": "\u003cp\u003eAds on Google Search, Google Discover, and YouTube — anywhere Google shows\nads across its own major surfaces.\u003c/p\u003e"
+    }
+  ]
+}

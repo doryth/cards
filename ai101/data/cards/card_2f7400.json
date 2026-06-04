@@ -1,0 +1,109 @@
+{
+  "id": "card_2f7400",
+  "slug": "apple-sues-openai-trade-secrets",
+  "type": "news",
+  "title": "Apple Sues OpenAI, Alleging Stolen Hardware Secrets",
+  "hook": "Two of tech's biggest names are now suing each other. Apple says former employees carried its confidential hardware secrets straight into OpenAI's push to build its own devices.",
+  "key_points": [
+    "The Verge reports Apple sued OpenAI, alleging theft of Apple's trade secrets to advance OpenAI's hardware plans.",
+    "Apple's complaint alleges 'a pattern of theft' by OpenAI employees formerly at Apple.",
+    "Ars Technica reports the suit claims one ex-engineer exploited a software bug to obtain trade secrets.",
+    "The lawsuit also names IO Products, the hardware startup co-founded by former Apple designer Jony Ive.",
+    "The Verge reports OpenAI's hardware lead allegedly asked Apple job candidates to bring in unreleased Apple hardware samples.",
+    "It's a sign of how fierce the competition for AI hardware talent — and secrets — has become, with OpenAI's hardware bet now on the line."
+  ],
+  "content_html": "\u003cp\u003eThe race to build the next big AI hardware device just turned into a courtroom fight. The Verge reports Apple has sued OpenAI, alleging that engineers who left Apple carried confidential trade secrets with them and used them to advance OpenAI's own hardware ambitions.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eApple's complaint describes what it calls \u0026quot;a pattern of theft\u0026quot; by former Apple employees who joined OpenAI, and the lawsuit also names IO Products — the hardware startup co-founded by celebrated former Apple designer Jony Ive, which has been working with OpenAI on new AI devices. Ars Technica reports one specific allegation: that a former engineer exploited a software bug to get at Apple's confidential material. The Verge separately reports an even more pointed claim from the suit — that when Apple employees interviewed for jobs at OpenAI, the company's hardware lead allegedly asked them to bring in components and unreleased product samples they'd been working on at Apple.\u003c/p\u003e\n\u003cp\u003eThe specifics will get argued out in court, but the bigger picture is easy to read: as AI labs push beyond software into physical devices, they're competing directly with the company that has defined consumer hardware for two decades, for the same specialized talent and know-how. When that competition gets personal enough — engineers moving from one to the other, allegedly with confidential material in tow — it stops being just a race and starts being a legal fight over who actually owns the ideas. The stakes are real for OpenAI too: it's one of several lawsuits the company is now juggling, and it lands squarely on top of its own expensive hardware ambitions.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jay Peters"
+    ],
+    "url": "https://theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "published_at": "2026-07-10",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "who-controls-ai",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6045bc",
+      "slug": "asml-chipmaking-machine",
+      "type": "news",
+      "title": "The $400 Million Machine Behind Every AI Chip",
+      "hook": "Every AI chip starts on a machine most people have never heard of: a $400-million, bus-sized contraption from a single Dutch company that the whole industry depends on.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2f7400#0",
+      "format": "quiz",
+      "prompt": "What is Apple alleging in its lawsuit against OpenAI?",
+      "choices": [
+        {
+          "text": "That former Apple employees stole its hardware trade secrets to help OpenAI's hardware plans",
+          "correct": true
+        },
+        {
+          "text": "That OpenAI copied ChatGPT's writing style from Siri",
+          "correct": false
+        },
+        {
+          "text": "That OpenAI refused to sell Apple any AI models",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe complaint centers on hardware trade secrets, alleging a pattern of theft\nby employees who moved from Apple to OpenAI's hardware efforts.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2f7400#1",
+      "format": "flip",
+      "prompt": "Who else does the lawsuit name besides OpenAI?",
+      "back_html": "\u003cp\u003eIO Products — the hardware startup co-founded by former Apple chief designer\nJony Ive, which OpenAI has been working with on new devices.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2f7400#2",
+      "format": "quiz",
+      "prompt": "What's one of the more striking specific claims in Apple's lawsuit?",
+      "choices": [
+        {
+          "text": "That OpenAI's hardware lead asked Apple job candidates to bring in unreleased Apple product samples",
+          "correct": true
+        },
+        {
+          "text": "That OpenAI publicly released Apple's source code on GitHub",
+          "correct": false
+        },
+        {
+          "text": "That Apple invented ChatGPT first",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer The Verge's reporting on the suit, Apple alleges OpenAI's hardware lead\nasked interviewing candidates to bring components and unreleased samples\nthey'd worked on at Apple.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "card_0ac579",
+  "slug": "hubble-tension",
+  "type": "paper",
+  "title": "The Hubble Tension: Cosmology's Stubborn Crisis",
+  "hook": "Two trustworthy ways of measuring how fast the universe expands keep disagreeing — and a decade of cross-checks has only hardened the gap into a genuine crisis.",
+  "key_points": [
+    "The Hubble constant (H₀) measures how fast the universe is expanding today.",
+    "Early-universe data — the cosmic microwave background — give a lower H₀ than nearby measurements do.",
+    "Local measurements step outward with a 'distance ladder' of stars and Type Ia supernovae.",
+    "The gap exceeds known errors and has persisted for a decade across independent methods.",
+    "A local 'void' was ruled out; leading fixes alter the early universe or invoke new dark-energy physics."
+  ],
+  "content_html": "\u003cp\u003eHow fast is the universe expanding right now? Two trustworthy ways of measuring that rate — the Hubble constant — keep giving different answers, and the gap is too big to blame on measurement error. After a decade of scrutiny, this \u0026quot;Hubble tension\u0026quot; has hardened from a curiosity into one of cosmology's deepest problems.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eOne method reads the expansion rate off the early universe: the cosmic microwave background — the afterglow of the Big Bang — predicts a value once you assume the standard ΛCDM model. The other works outward from nearby space using a \u0026quot;distance ladder\u0026quot; of stars and exploding stars (Type Ia supernovae). The early-universe value comes out lower than the local one. In their decade review, Rong-Gen Cai and Shao-Jiang Wang note the disagreement survives whether or not the early measurement relies on \u003cem\u003ePlanck\u003c/em\u003e data, and whether or not the local one uses the distance ladder, and that a local \u0026quot;bubble\u0026quot; or void has been ruled out as the cause. That leaves uncomfortable options: shrink the early universe's \u0026quot;sound horizon,\u0026quot; rethink how bright supernovae really are, or — the focus of their review — invoke new, possibly evolving dark-energy physics. See the full review for the competing fixes.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Rong-Gen Cai",
+      "Shao-Jiang Wang"
+    ],
+    "url": "https://arxiv.org/abs/2606.20434",
+    "published_at": "2026-06-18",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-22",
+  "date": "2026-06-18",
+  "related": [
+    {
+      "id": "card_1d07ca",
+      "slug": "is-dark-energy-evolving",
+      "type": "paper",
+      "title": "Is Dark Energy Changing Over Time?",
+      "hook": "For decades dark energy looked like a constant. New galaxy-survey data hints it may evolve — and that would shift even our measured value of the cosmic expansion rate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_402dc8",
+      "slug": "cosmic-acceleration-confirmed",
+      "type": "news",
+      "title": "Dark Energy Survives a Major Challenge",
+      "hook": "A bold claim said the universe's accelerating expansion was an illusion. Astronomers checked the math, found the mistakes — and cosmic acceleration came out as strong as ever.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0ac579#0",
+      "format": "quiz",
+      "prompt": "What does the 'Hubble tension' refer to?",
+      "choices": [
+        {
+          "text": "Early-universe and nearby measurements of the cosmic expansion rate disagree",
+          "correct": true
+        },
+        {
+          "text": "Galaxies are receding faster than the speed of light",
+          "correct": false
+        },
+        {
+          "text": "Telescopes can't agree on a single galaxy's exact distance",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe two well-established ways of measuring H₀ — from the early universe's afterglow and from\nthe nearby distance ladder — give values that disagree by more than their error bars.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0ac579#1",
+      "format": "flip",
+      "prompt": "Why is the Hubble tension treated as a real problem, not just noise?",
+      "back_html": "\u003cp\u003eThe disagreement is larger than the known measurement errors and persists across independent\nmethods — whether or not the early estimate leans on Planck data, or the local one on the\ndistance ladder.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0ac579#2",
+      "format": "quiz",
+      "prompt": "Which proposed explanation for the Hubble tension has been ruled out?",
+      "choices": [
+        {
+          "text": "That we sit in a local low-density 'bubble' or cosmic void",
+          "correct": true
+        },
+        {
+          "text": "That the early universe's sound horizon was smaller than assumed",
+          "correct": false
+        },
+        {
+          "text": "That dark energy might evolve over time",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA local Hubble bubble or void has long been excluded as a significant cause. Altering the early\nuniverse or invoking new dark-energy physics remain live options.\u003c/p\u003e"
+    }
+  ]
+}

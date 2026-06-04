@@ -1,0 +1,121 @@
+{
+  "id": "card_1c33ae",
+  "slug": "electromagnetism",
+  "type": "concept",
+  "title": "Electricity \u0026 Magnetism Are One Force",
+  "hook": "Move a magnet near a wire and you make electricity; run current through a wire and you make a magnet. They're two faces of the same force.",
+  "key_points": [
+    "A moving electric charge creates a magnetic field — that's how electromagnets work.",
+    "A changing magnetic field drives an electric current — that's how generators work.",
+    "This two-way link unifies electricity and magnetism into electromagnetism.",
+    "Light itself is an electromagnetic wave — linked electric and magnetic fields in motion."
+  ],
+  "content_html": "\u003cp\u003eElectricity and magnetism look like separate phenomena, but they're deeply intertwined. In the 1800s experiments showed the connection runs both ways: a moving electric charge produces a magnetic field, and a changing magnetic field pushes electric charge into motion. Send current through a coil and it becomes a magnet; spin a magnet past a coil and you generate current.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis two-way relationship lets us combine them into a single force, electromagnetism. It's the principle behind electric motors, generators, transformers, and the magnetic strip on a card. The unification went further still: the linked dance of electric and magnetic fields can propagate through space as a wave, and that wave is light. Radio, microwaves, visible light, and X-rays are all electromagnetic waves differing only in wavelength. Britannica recounts how the link was discovered and why it counts as one of physics' great unifications.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/electromagnetism",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "electricity-magnetism"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2b87f5",
+      "slug": "electric-charge-and-current",
+      "type": "concept",
+      "title": "Electric Charge \u0026 Current",
+      "hook": "Everything electrical comes down to charge — and an electric current is simply charge on the move.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_275a24",
+      "slug": "electric-and-magnetic-fields",
+      "type": "concept",
+      "title": "Electric and Magnetic Fields",
+      "hook": "How does a magnet pull a paperclip it isn't touching? Through a field — an invisible region of influence that tells other charges and magnets how to feel a force.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3b2456",
+      "slug": "electromagnetic-induction",
+      "type": "concept",
+      "title": "Electromagnetic Induction: How We Make Electricity",
+      "hook": "Almost all the electricity you use was made by waving magnets past coils of wire. A changing magnetic field pushes charge into motion — that's Faraday's great discovery.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1c33ae#0",
+      "format": "flip",
+      "prompt": "What happens when an electric charge moves?",
+      "back_html": "\u003cp\u003eA moving charge creates a \u003cstrong\u003emagnetic field\u003c/strong\u003e. This is the basis of\nelectromagnets and the deep link between electricity and magnetism.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1c33ae#1",
+      "format": "quiz",
+      "prompt": "How does a generator produce electricity?",
+      "choices": [
+        {
+          "text": "A changing magnetic field drives an electric current in a wire",
+          "correct": true
+        },
+        {
+          "text": "It creates charge out of nothing",
+          "correct": false
+        },
+        {
+          "text": "It cools wires until current appears",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA changing magnetic field induces a current — the reverse of a current\nmaking a magnetic field — which is how generators work.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1c33ae#2",
+      "format": "quiz",
+      "prompt": "According to this card, what is light?",
+      "choices": [
+        {
+          "text": "An electromagnetic wave — linked electric and magnetic fields in motion",
+          "correct": true
+        },
+        {
+          "text": "A flow of electric charge through space",
+          "correct": false
+        },
+        {
+          "text": "A purely magnetic disturbance with no electric part",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eElectricity and magnetism are unified as electromagnetism, and light is a\ntraveling wave of coupled electric and magnetic fields.\u003c/p\u003e"
+    }
+  ]
+}

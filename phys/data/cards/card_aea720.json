@@ -1,0 +1,138 @@
+{
+  "id": "card_aea720",
+  "slug": "graviton-decoherence-negligible",
+  "type": "paper",
+  "title": "Do Gravitons Ruin Quantum Interference? Not Even Close",
+  "hook": "If gravity is quantum, a molecule in two places at once should radiate gravitons and lose its interference. The calculated effect lands around one part in 10⁶¹.",
+  "key_points": [
+    "In a matter-wave interferometer, an object travels two paths and interferes with itself.",
+    "If anything records which path it took, the interference fades — that's 'which-path' decoherence.",
+    "Radiating gravitons would in principle leak that information into the gravitational field.",
+    "The problem is exactly solvable: in vacuum, the decoherence exponent is half the mean graviton number radiated.",
+    "Across realistic platforms the effect spans 10⁻⁸⁹ to 10⁻⁶¹ — utterly unmeasurable.",
+    "Even inflation's strongly squeezed graviton background reaches only ~10⁻²⁷ at best."
+  ],
+  "content_html": "\u003cp\u003eHere is a genuinely deep experimental question. Matter-wave interferometers send an object along two paths at once and recombine them, and the resulting fringes only survive if nothing in the universe has recorded which path was taken. But a mass in superposition should, if gravity is quantum, radiate gravitons differently on each branch — leaking exactly that information into the gravitational field. Hiroki Matsui worked out how much interference that costs.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe calculation is unusually clean because gravitons in linearized quantum gravity are driven linearly by the matter source, which makes the branch-dependent evolution exactly solvable: the surviving coherence is just the characteristic function of the initial graviton state, evaluated at the difference between the two branches' field displacements. In vacuum, the decoherence exponent works out to half the mean number of gravitons radiated by that difference source. Plugging in a smooth Gaussian trajectory gives Γ = (8/15)Gm²d⁴/(ħc⁵τ⁴), and across representative matter-wave platforms this spans 10⁻⁸⁹ to 10⁻⁶¹. For comparison, \u0026quot;one\u0026quot; would mean total loss of interference. Matsui also treats a general squeezed graviton vacuum, where squeezing can suppress \u003cem\u003eor\u003c/em\u003e enhance the effect depending on its phase; even the strongly squeezed background left over from inflation reaches at most about 10⁻²⁷ under optimistic assumptions. The conclusion is a clean negative: radiative gravitons are not what limits today's interferometers, and any decoherence experimenters see is coming from somewhere far more mundane.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Hiroki Matsui"
+    ],
+    "url": "https://arxiv.org/abs/2607.20867",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_da171f",
+      "slug": "quantum-classical-crossover-point",
+      "type": "paper",
+      "title": "Quantum-Classical Crossover in Fault-Tolerant Quantum Dynamics Simulation",
+      "hook": "A new paper puts an actual number on 'when do quantum computers win': about 2 hours and 370,000 qubits to beat 100 years of classical computing on one benchmark physics problem.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fbcad2",
+      "slug": "classical-probability-double-slit",
+      "type": "paper",
+      "title": "Can Classical Probability Alone Explain the Double-Slit Pattern?",
+      "hook": "The double-slit interference pattern is physics' go-to symbol of quantum weirdness. A theoretical study shows classical probability alone can reproduce it, given the right ingredients.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_aea720#0",
+      "format": "quiz",
+      "prompt": "Why would radiating gravitons destroy an interferometer's fringes?",
+      "choices": [
+        {
+          "text": "The gravitons carry away which-path information, so the two branches no longer interfere cleanly",
+          "correct": true
+        },
+        {
+          "text": "Gravitons physically push the particle off its trajectory",
+          "correct": false
+        },
+        {
+          "text": "Gravitons add mass to the particle mid-flight",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTracing out the gravitons leaves the particle in a mixed state: the field has effectively\nrecorded which path was taken, and recorded which-path information kills interference.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aea720#1",
+      "format": "flip",
+      "prompt": "How large is the vacuum graviton decoherence across real matter-wave platforms?",
+      "back_html": "\u003cp\u003eBetween about \u003cstrong\u003e10⁻⁸⁹ and 10⁻⁶¹\u003c/strong\u003e — many tens of orders of magnitude below anything current\nexperiments could detect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_aea720#2",
+      "format": "quiz",
+      "prompt": "What is the practical takeaway for experiments hunting quantum gravity?",
+      "choices": [
+        {
+          "text": "Radiative graviton decoherence can be safely ignored as a background in today's interferometers",
+          "correct": true
+        },
+        {
+          "text": "Matter-wave interferometers cannot work at all if gravity is quantum",
+          "correct": false
+        },
+        {
+          "text": "Gravitons are the dominant source of decoherence in these devices",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe computed effect is negligible in current matter-wave interferometers, so any observed loss of\ncoherence must come from ordinary environmental sources instead.\u003c/p\u003e"
+    }
+  ]
+}

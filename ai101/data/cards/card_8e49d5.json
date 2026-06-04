@@ -1,0 +1,105 @@
+{
+  "id": "card_8e49d5",
+  "slug": "dave-eggers-chatgpt-silencing",
+  "type": "news",
+  "title": "A Novelist Told OpenAI's Staff: You're Silencing a Generation",
+  "hook": "Sam Altman invited author Dave Eggers to give OpenAI staff an inspiring talk. Instead, Eggers told 200 employees that ChatGPT is making it harder for young people to find their own voice.",
+  "key_points": [
+    "OpenAI invited novelist Dave Eggers to address roughly 200 staff; he delivered a warning, not a pep talk.",
+    "Eggers said ChatGPT's effect on educators is 'catastrophic,' making it far harder to judge original student work.",
+    "His broader point: writing is how people learn to think, so outsourcing it changes more than grades.",
+    "He later called letting AI 'speak for you' a form of 'dystopian' self-silencing for an entire generation.",
+    "His argument centers on losing the struggle of drafting and revising — not just the risk of plagiarism."
+  ],
+  "content_html": "\u003cp\u003eSam Altman invited novelist Dave Eggers — author, founder of McSweeney's, and longtime advocate for young writers — to speak to about 200 OpenAI staff last year, presumably expecting something inspiring. The Verge reports Eggers used the moment instead to deliver a warning: that ChatGPT's effect on educators, in his words, is \u0026quot;catastrophic,\u0026quot; making it dramatically harder to tell whether student writing is genuinely a student's own.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003e\u0026quot;Whether you intended to do it or not, you've made every teacher's life infinitely more difficult than it was two years ago,\u0026quot; Eggers reportedly told the room. He's since expanded on the idea publicly, framing the risk not as cheating in the narrow sense but as something deeper: writing is how people learn to think, working through a messy draft to arrive at something that's actually theirs. If students hand that struggle over to a chatbot — letting it \u0026quot;speak for me,\u0026quot; as he's put it — they may lose the process that helps them understand themselves and the world, not just the assignment grade. He's called that trade a form of \u0026quot;dystopian\u0026quot; self-silencing playing out across an entire generation. It's a useful counterweight to the more common framing of AI-in-writing as purely a plagiarism-detection problem: Eggers' worry is what's lost even when nobody's cheating at all.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O'Brien"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "published_at": "2026-07-18",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "over-reliance",
+    "ai-for-writing",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-18",
+  "related": [
+    {
+      "id": "card_84ed63",
+      "slug": "ai-for-writing",
+      "type": "concept",
+      "title": "AI for Writing",
+      "hook": "Writing is where AI earns its keep for most people: not replacing your voice, but beating the blank page, tightening drafts, and translating 'ugh' into a sendable email.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_df602c",
+      "slug": "ai-kids-and-school",
+      "type": "concept",
+      "title": "AI, Kids \u0026 School",
+      "hook": "Banning AI is like banning calculators — futile and beside the point. The real job is teaching kids to use it honestly, to learn with it, and to know when it's lying.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eb9c92",
+      "slug": "over-relying-on-ai",
+      "type": "concept",
+      "title": "Over-Relying on AI",
+      "hook": "The subtle risk isn't that AI fails — it's that it usually works, so you stop checking. Trusting a confident machine over your own judgment is its own kind of mistake.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8e49d5#0",
+      "format": "quiz",
+      "prompt": "What was surprising about Dave Eggers' talk to OpenAI staff?",
+      "choices": [
+        {
+          "text": "He was invited to inspire them but instead delivered a sharp warning about ChatGPT's effects",
+          "correct": true
+        },
+        {
+          "text": "He refused to speak at all",
+          "correct": false
+        },
+        {
+          "text": "He praised ChatGPT as flawless for students",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSam Altman invited Eggers expecting an uplifting talk; Eggers instead told\nthe room that ChatGPT was making teachers' jobs \u0026quot;infinitely more difficult.\u0026quot;\u003c/p\u003e"
+    },
+    {
+      "id": "card_8e49d5#1",
+      "format": "flip",
+      "prompt": "What is Eggers' core argument about writing and thinking?",
+      "back_html": "\u003cp\u003eWriting is how people learn to think — the struggle of drafting, revising,\nand finding your own words. Outsourcing that struggle to AI can mean\nlosing the process, not just the output.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8e49d5#2",
+      "format": "flip",
+      "prompt": "What phrase did Eggers use to describe letting AI 'speak for you'?",
+      "back_html": "\u003cp\u003eHe called it a form of \u0026quot;dystopian\u0026quot; self-silencing — an entire generation\nvoluntarily giving up the thing that makes their expression their own.\u003c/p\u003e"
+    }
+  ]
+}

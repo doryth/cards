@@ -1,0 +1,110 @@
+{
+  "id": "card_81b171",
+  "slug": "reading-evolutionary-trees",
+  "type": "concept",
+  "title": "Reading Evolutionary Trees",
+  "hook": "A phylogenetic tree is a map of evolutionary relationships — once you know how to read its branches and nodes, it tells you who is related to whom.",
+  "key_points": [
+    "A phylogenetic tree (cladogram) shows how groups descend from common ancestors.",
+    "The tips are living or known groups; internal nodes are shared ancestors.",
+    "A branch point (node) marks where one lineage split into two.",
+    "Closeness is read by shared ancestors, not by nearness along the tips.",
+    "Branches can be rotated at a node without changing the relationships shown."
+  ],
+  "content_html": "\u003cp\u003eA phylogenetic tree — sometimes called a cladogram — is a diagram of how living things are related through evolution. The tips of the branches are the groups or species being compared; the points where branches meet, called nodes, represent common ancestors they share. Reading one is less about the picture's left-to-right layout and more about tracing back to those shared ancestors.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe key skill is reading relatedness through nodes rather than appearances. Two groups are most closely related if they share the most recent common ancestor — the nearest node that connects them — regardless of how close their tips happen to be drawn. A common trap: branches can be freely rotated at any node, like spinning the arms of a mobile, without altering the relationships, so tip order alone tells you nothing. Branch points record splits where one lineage became two. Khan Academy's article on phylogenetic trees walks through reading nodes, tips, and branches so the diagram's true meaning comes through.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/ap-biology/natural-selection/phylogeny/a/phylogenetic-trees",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "classification"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_043084",
+      "slug": "common-descent",
+      "type": "concept",
+      "title": "The Tree of Life",
+      "hook": "Humans, mushrooms, and oak trees share an ancestor if you go back far enough — all life on Earth branches from a single common root.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5bfd13",
+      "slug": "naming-and-classifying-species",
+      "type": "concept",
+      "title": "How Species Are Named",
+      "hook": "Every species on Earth gets a two-word Latin name — like Homo sapiens — under a tidy ranked system invented 250 years ago that scientists still use today.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_50ecfa",
+      "slug": "how-new-species-form",
+      "type": "concept",
+      "title": "How New Species Form",
+      "hook": "Split one population in two, let them drift apart long enough, and eventually they can no longer interbreed — that's speciation, the engine that fills the tree of life with branches.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_81b171#0",
+      "format": "flip",
+      "prompt": "On a phylogenetic tree, what does a branch point (node) represent?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003ecommon ancestor\u003c/strong\u003e — the point where one lineage split into two. Everything\nbeyond that node descends from that shared ancestor.\u003c/p\u003e"
+    },
+    {
+      "id": "card_81b171#1",
+      "format": "quiz",
+      "prompt": "How do you tell which two groups on a tree are most closely related?",
+      "choices": [
+        {
+          "text": "They share the most recent common ancestor",
+          "correct": true
+        },
+        {
+          "text": "They are printed closest together at the tips",
+          "correct": false
+        },
+        {
+          "text": "They have the longest branches",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRelatedness is read by shared ancestry, not tip position. Two groups joined by\nthe most recent node are the most closely related.\u003c/p\u003e"
+    },
+    {
+      "id": "card_81b171#2",
+      "format": "quiz",
+      "prompt": "Does rotating the branches at a node change what the tree means?",
+      "choices": [
+        {
+          "text": "No — rotating at a node keeps the relationships the same",
+          "correct": true
+        },
+        {
+          "text": "Yes — it reverses which species are related",
+          "correct": false
+        },
+        {
+          "text": "Yes — it makes the tips into ancestors",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA node is like a hanging mobile: you can swap which branch is on the left or\nright without changing the underlying pattern of ancestry.\u003c/p\u003e"
+    }
+  ]
+}

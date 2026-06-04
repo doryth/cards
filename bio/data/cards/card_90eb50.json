@@ -1,0 +1,101 @@
+{
+  "id": "card_90eb50",
+  "slug": "what-are-bacteria",
+  "type": "concept",
+  "title": "What Are Bacteria?",
+  "hook": "Single-celled and everywhere — in soil, oceans, and your gut — bacteria run much of the planet's chemistry, and most of them never make you sick.",
+  "key_points": [
+    "Bacteria are single-celled prokaryotes with no nucleus.",
+    "They are among the oldest and most abundant life forms on Earth.",
+    "Most bacteria are harmless or helpful; only a minority cause disease.",
+    "Antibiotics kill bacteria but have no effect on viruses."
+  ],
+  "content_html": "\u003cp\u003eBacteria are single-celled organisms, and they are everywhere — a teaspoon of soil holds billions, and your own body carries more bacterial cells than it does human ones. As prokaryotes, they keep things simple: no nucleus, no membrane-bound organelles, just DNA and machinery inside a single cell wrapped in a tough wall. They were among the first life on Earth and have been adapting for billions of years.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir reputation is worse than it deserves. The headline-grabbing few — the ones behind strep throat, tuberculosis, or food poisoning — are a tiny minority. Most bacteria are harmless, and many are essential: gut bacteria help you digest food, soil bacteria recycle nutrients, and others fix nitrogen that plants need to grow. When the harmful ones do strike, antibiotics can help, because these drugs attack structures unique to bacteria. Crucially, that means antibiotics do nothing against viruses, which work in a completely different way. Britannica surveys the group's diversity and roles.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/bacteria",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "microbiology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d56522",
+      "slug": "prokaryote-vs-eukaryote",
+      "type": "concept",
+      "title": "Two Kinds of Cells",
+      "hook": "All cells fall into two camps: simple prokaryotes with no nucleus, and complex eukaryotes that pack their DNA into a sealed control room.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8510f0",
+      "slug": "viruses-living-or-not",
+      "type": "concept",
+      "title": "Are Viruses Alive?",
+      "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_90eb50#0",
+      "format": "flip",
+      "prompt": "What kind of cell is a bacterium?",
+      "back_html": "\u003cp\u003eA single-celled \u003cstrong\u003eprokaryote\u003c/strong\u003e — it has no nucleus, keeping its DNA loose in\nthe cell. Bacteria are among Earth's oldest and most abundant organisms.\u003c/p\u003e"
+    },
+    {
+      "id": "card_90eb50#1",
+      "format": "quiz",
+      "prompt": "Are most bacteria harmful to humans?",
+      "choices": [
+        {
+          "text": "No — most are harmless or helpful; only a minority cause disease",
+          "correct": true
+        },
+        {
+          "text": "Yes — nearly all bacteria cause illness",
+          "correct": false
+        },
+        {
+          "text": "Bacteria have no effect on humans at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe vast majority of bacteria are neutral or beneficial — many live in your gut\nand aid digestion — while only a small fraction are pathogens.\u003c/p\u003e"
+    },
+    {
+      "id": "card_90eb50#2",
+      "format": "quiz",
+      "prompt": "What do antibiotics act against?",
+      "choices": [
+        {
+          "text": "Bacteria — they do not work on viruses",
+          "correct": true
+        },
+        {
+          "text": "Viruses — they do not work on bacteria",
+          "correct": false
+        },
+        {
+          "text": "Both bacteria and viruses equally",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAntibiotics target features unique to bacteria, so they're useless against\nviruses like the common cold or flu.\u003c/p\u003e"
+    }
+  ]
+}

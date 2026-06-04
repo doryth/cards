@@ -1,0 +1,104 @@
+{
+  "id": "card_e2c56f",
+  "slug": "the-muon-puzzle",
+  "type": "paper",
+  "title": "The muon puzzle: air showers make more muons than physics predicts",
+  "hook": "Cosmic rays hitting the atmosphere produce far more muons than any collider-tuned model expects. Auger now says the fix is that proton collisions must dump several times more energy into hadrons.",
+  "key_points": [
+    "The muon puzzle: cosmic-ray air showers contain more muons than models tuned on collider data predict.",
+    "Pierre Auger's hybrid detectors probe collisions at about 98 TeV — roughly seven times the LHC's energy.",
+    "Most hadronic interaction models underestimate the average depth at which a shower peaks, called Xmax.",
+    "The team found a universal link between a model's predicted Xmax and the energy spectra of the first collision's debris.",
+    "Matching Auger's data demands more elastic collisions and a larger share of energy going into hadrons.",
+    "That hadronic energy fraction must be amplified 2.8 to 4.6 times to account for the muon excess."
+  ],
+  "content_html": "\u003cp\u003eWhen a high-energy cosmic ray slams into the upper atmosphere it starts a cascade of secondary particles — an air shower — that rains down over square kilometres of ground. For years these showers have carried an embarrassment for particle physics: they contain far more muons than simulations predict, no matter which hadronic interaction model you plug in. That discrepancy is known as the muon puzzle, and it matters because air showers probe proton collisions at energies no accelerator can reach.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn a new Letter, the Pierre Auger Collaboration attacks the problem through a different observable: Xmax, the average atmospheric depth at which a shower reaches its maximum. Auger's hybrid measurements indicate that most high-energy hadronic interaction models underestimate the mean Xmax at a centre-of-mass energy of 97.7 TeV. The collaboration then shows that the models all obey a universal relation between their predicted Xmax and the mean properties of the energy spectra of secondary particles produced in a proton-induced shower's very first interaction. Assuming that relation holds in nature, they invert it: the Xmax values Auger actually measures map onto an increase in the mean elasticity of proton–air collisions and an increase in the fraction of energy going into hadrons — the latter needing amplification by a factor of 2.8 to 4.6 to account for the muon puzzle.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "The Pierre Auger Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2607.22323",
+    "published_at": "2026-07-24",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_5ac508",
+      "slug": "amaterasu-particle",
+      "type": "news",
+      "title": "The Amaterasu Particle Might Not Be a Proton",
+      "hook": "One of the most energetic cosmic rays ever caught hit Earth with the energy of a thrown brick — packed into a single particle. New work says it may be a heavy nucleus, not a proton.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f86885",
+      "slug": "how-far-cosmic-rays-travel",
+      "type": "paper",
+      "title": "The universe's most energetic particles come from nearby",
+      "hook": "Match the sky map of ultra-high-energy cosmic rays against catalogues of galaxies and the signal snaps into focus at one distance: everything within about 60 megaparsecs.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e2c56f#0",
+      "format": "flip",
+      "prompt": "What is the 'muon puzzle' in cosmic-ray physics?",
+      "back_html": "\u003cp\u003eAir showers produced by high-energy cosmic rays contain substantially more muons than\nhadronic interaction models — tuned on collider data — predict.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e2c56f#1",
+      "format": "quiz",
+      "prompt": "According to this analysis, what change would explain the muon excess?",
+      "choices": [
+        {
+          "text": "A larger fraction of collision energy going into hadrons, amplified by 2.8–4.6 times",
+          "correct": true
+        },
+        {
+          "text": "Cosmic rays being far heavier nuclei than iron",
+          "correct": false
+        },
+        {
+          "text": "The atmosphere being denser than assumed in shower simulations",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMapping Auger's favoured Xmax values into first-interaction variables, all models favour\nhigher elasticity and a hadronic energy fraction boosted by a factor of 2.8 to 4.6.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e2c56f#2",
+      "format": "flip",
+      "prompt": "Why are air showers a useful particle-physics laboratory?",
+      "back_html": "\u003cp\u003eThey probe proton collisions at roughly 98 TeV in the centre of mass — well above what any\nbuilt accelerator, including the LHC, can reach.\u003c/p\u003e"
+    }
+  ]
+}

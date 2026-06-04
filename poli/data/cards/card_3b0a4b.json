@@ -1,0 +1,118 @@
+{
+  "id": "card_3b0a4b",
+  "slug": "local-democracy-and-data-centers",
+  "type": "blog",
+  "title": "Who Decides Where the Data Center Goes?",
+  "hook": "A data center brings jobs and tax revenue — and noise, pollution, and higher power bills. Deciding whether to host one is a stress test for local democracy.",
+  "key_points": [
+    "Big infrastructure like data centers concentrates benefits (jobs, tax base) while spreading costs (noise, pollution, electricity prices) onto neighbors.",
+    "These fights play out in local government — zoning boards, council votes, public hearings — the tier of democracy nearest to daily life.",
+    "Residents use public comment, organizing, and elections to contest projects; large firms bring lobbying power and the promise of investment.",
+    "The clash pits local needs against corporate power, with elected local officials caught in between.",
+    "It shows how abstract debates over Big Tech land as very concrete questions about a specific lot down the road."
+  ],
+  "content_html": "\u003cp\u003eThe debate over Big Tech can sound abstract — until a company proposes building a sprawling data center on a specific lot near your home. Then it becomes a very local question: the facility promises jobs and tax revenue, but neighbors worry about constant noise, pollution, and electricity bills that rise as the center draws power from the regional grid.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Rachel Mural writes in The Conversation, these disputes are decided through the ordinary machinery of local democracy — zoning boards, council votes, and public hearings — the level of government nearest to everyday life. Residents push back using public comment, community organizing, and local elections, while large firms arrive with lobbying resources and the lure of investment. The result is a contest among local needs, political tensions, and corporate power, with elected officials caught in the middle. It is a useful reminder that some of the biggest questions about technology and the economy are settled not in Congress but in a packed municipal meeting room. (U.S. examples, though similar siting battles over big infrastructure recur across democracies.)\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Rachel Mural"
+    ],
+    "url": "https://theconversation.com/how-local-communities-are-challenging-big-tech-data-centers-noise-pollution-and-rising-electricity-bills-284642",
+    "published_at": "2026-06-18",
+    "license": "CC BY-ND 4.0"
+  },
+  "topic_ids": [
+    "technology-and-politics",
+    "federalism-levels",
+    "environment-and-politics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-22",
+  "date": "2026-06-18",
+  "related": [
+    {
+      "id": "card_e521e1",
+      "slug": "local-government",
+      "type": "concept",
+      "title": "Local Government",
+      "hook": "The layer of government you meet most often isn't the national one — it's the city or council that runs your streets, schools, and rubbish collection.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bb70fb",
+      "slug": "environmental-governance",
+      "type": "concept",
+      "title": "Environmental Governance",
+      "hook": "How do you regulate something that ignores borders and belongs to no one? Environmental governance is the toolkit societies use to manage nature collectively.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3b0a4b#0",
+      "format": "quiz",
+      "prompt": "Why do data centers so often spark local political conflict?",
+      "choices": [
+        {
+          "text": "They concentrate benefits like jobs and tax revenue while spreading costs like noise, pollution, and higher power bills onto neighbors",
+          "correct": true
+        },
+        {
+          "text": "Federal law requires a citywide referendum before any can be built",
+          "correct": false
+        },
+        {
+          "text": "They are illegal in most residential areas by default",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eConcentrated benefits and diffuse local costs are a classic recipe for\npolitical friction — neighbors bear burdens others profit from.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3b0a4b#1",
+      "format": "flip",
+      "prompt": "Which level of government usually decides whether a data center can be built?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eLocal government\u003c/strong\u003e — zoning boards, councils, and public hearings — the\ntier of democracy closest to residents' daily lives.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3b0a4b#2",
+      "format": "quiz",
+      "prompt": "What tension does the article highlight in these siting fights?",
+      "choices": [
+        {
+          "text": "Local community needs versus corporate power, with elected local officials in between",
+          "correct": true
+        },
+        {
+          "text": "The national government versus foreign investors",
+          "correct": false
+        },
+        {
+          "text": "Courts versus the legislature over free speech",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eResidents organizing through local democracy push against large firms\noffering investment, leaving local officials to weigh both.\u003c/p\u003e"
+    }
+  ]
+}

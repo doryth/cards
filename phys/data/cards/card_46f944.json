@@ -1,0 +1,101 @@
+{
+  "id": "card_46f944",
+  "slug": "antimatter",
+  "type": "concept",
+  "title": "Antimatter",
+  "hook": "Every particle has a mirror twin with opposite charge, and when the two meet they vanish in a flash of pure energy — yet the universe is almost entirely matter, and nobody fully knows why.",
+  "key_points": [
+    "Each particle has an antimatter twin with opposite charge — the electron's is the positron.",
+    "When matter meets antimatter they annihilate, turning their mass entirely into energy.",
+    "Antimatter is real: made in labs and used in PET medical scans.",
+    "It's vanishingly rare in the universe — a deep unsolved puzzle."
+  ],
+  "content_html": "\u003cp\u003eFor every kind of particle, nature provides an opposite: an antiparticle with the same mass but reversed charge. The electron's twin is the positron, which is just an electron with a positive charge. This isn't science fiction — antimatter is routinely created in laboratories, and positrons are already at work in hospitals, where PET scans detect their telltale signal to image the body.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe drama happens when matter and antimatter touch. They annihilate each other completely, with all their mass converting straight into energy, usually a flash of photons. That makes antimatter both spectacular and hard to keep around. It also raises one of physics' great unsolved mysteries: the Big Bang should have made matter and antimatter in equal amounts, yet the cosmos is overwhelmingly ordinary matter. Where the antimatter went is still an open question. Wikipedia covers how antimatter is produced, studied, and why its scarcity puzzles physicists.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Antimatter",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_46f944#0",
+      "format": "flip",
+      "prompt": "What is the antimatter twin of the electron?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003epositron\u003c/strong\u003e — identical to an electron but with positive charge\ninstead of negative.\u003c/p\u003e"
+    },
+    {
+      "id": "card_46f944#1",
+      "format": "quiz",
+      "prompt": "What happens when a particle meets its antiparticle?",
+      "choices": [
+        {
+          "text": "They annihilate, converting all their mass into energy",
+          "correct": true
+        },
+        {
+          "text": "They stick together and become heavier",
+          "correct": false
+        },
+        {
+          "text": "They bounce off each other unchanged",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMatter and antimatter annihilate on contact, releasing their entire mass as\nenergy (most often as photons).\u003c/p\u003e"
+    },
+    {
+      "id": "card_46f944#2",
+      "format": "quiz",
+      "prompt": "Which statement about antimatter is true?",
+      "choices": [
+        {
+          "text": "It is real and even used in medical PET scans",
+          "correct": true
+        },
+        {
+          "text": "It exists only in science fiction",
+          "correct": false
+        },
+        {
+          "text": "It is the same as dark matter",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAntimatter is genuinely produced in labs, and positron emission is the\nbasis of PET imaging in medicine.\u003c/p\u003e"
+    }
+  ]
+}

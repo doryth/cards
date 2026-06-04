@@ -1,0 +1,96 @@
+{
+  "id": "card_778211",
+  "slug": "turbulence-in-quantum-gases",
+  "type": "paper",
+  "title": "Turbulence, but every whirlpool is the same size",
+  "hook": "Stir a superfluid and it can't swirl however it likes — circulation comes in fixed, indivisible units. That makes ultracold gases the cleanest lab for physics' oldest unsolved problem.",
+  "key_points": [
+    "In a Bose-Einstein condensate circulation is quantized: vortices carry fixed, indivisible units of swirl.",
+    "That turns turbulence from a messy continuum problem into countable, individually trackable vortex lines.",
+    "The review catalogues diagnostics that separate real cascades from lookalikes: energy spectra, spectral fluxes, vortex correlations.",
+    "A key warning: a power-law spectrum alone is not sufficient evidence of an energy cascade.",
+    "Experiments now span 2D Onsager vortex clustering, 3D vortex-line tangles, and wave cascades in box traps."
+  ],
+  "content_html": "\u003cp\u003eTurbulence is famously the last great unsolved problem of classical physics: a smooth fluid stirred hard enough dissolves into eddies within eddies, and there is still no complete theory of it. Ultracold quantum gases offer an unusual way in. In a Bose-Einstein condensate, circulation cannot take any value it likes — it is quantized, so the swirls come in fixed, indivisible units. Suddenly turbulence is made of discrete objects you can count and track.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAshton S. Bradley, Tyler W. Neely, Xiaoquan Yu and Brian P. Anderson review the field, using the scalar contact-interaction condensate as their reference system for quantized circulation, compressibility, vortices, sound and cascades. Their focus is on the quantitative diagnostics that link classical and helium turbulence phenomenology back to microscopic wave-function dynamics: incompressible and compressible kinetic-energy spectra, wave-occupation spectra, spectral fluxes, vortex-resolved correlations and velocity statistics. Together these can distinguish equilibrium vortex organization from decaying relaxation, forced cascade dynamics and weak-wave turbulence — and, the authors emphasise, they show why a power law on its own is not sufficient evidence for a cascade. The review surveys experiments on two-dimensional Onsager clustering, three-dimensional vortex-line turbulence, box-trap wave cascades, engineered dissipation and turbulent equations of state, before placing the scalar superfluid in the wider landscape of nonlocal, multicomponent, fermionic and driven-dissipative quantum fluids.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Ashton S. Bradley",
+      "Tyler W. Neely",
+      "Xiaoquan Yu",
+      "Brian P. Anderson"
+    ],
+    "url": "https://arxiv.org/abs/2607.22244",
+    "published_at": "2026-07-24",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "fluids-pressure",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_d18019",
+      "slug": "bose-einstein-condensate",
+      "type": "news",
+      "title": "The Fifth State of Matter, Made in Space",
+      "hook": "Chill a gas to a hair above absolute zero and its atoms stop acting like a crowd and merge into one quantum entity. In orbit, weightlessness lets that strange state last even longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "card_02ca0c",
+      "slug": "absolute-zero",
+      "type": "concept",
+      "title": "Absolute Zero: The Coldest Possible Temperature",
+      "hook": "There's no limit to how hot things can get, but cold has a floor. At absolute zero, −273°C, particle motion bottoms out — and you can get achingly close but never quite reach it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_778211#0",
+      "format": "flip",
+      "prompt": "What does it mean that circulation is quantized in a superfluid?",
+      "back_html": "\u003cp\u003eVortices can only carry fixed, indivisible units of swirl — so turbulence becomes a matter of\ncountable, individually trackable vortex lines rather than a smooth continuum.\u003c/p\u003e"
+    },
+    {
+      "id": "card_778211#1",
+      "format": "quiz",
+      "prompt": "According to the review, why is a power-law energy spectrum not enough to claim a turbulent cascade?",
+      "choices": [
+        {
+          "text": "Power laws can arise from other states, so you need spectral fluxes and vortex-resolved diagnostics too",
+          "correct": true
+        },
+        {
+          "text": "Power laws never appear in genuine turbulence",
+          "correct": false
+        },
+        {
+          "text": "Energy spectra cannot be measured in ultracold gases",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors stress that power laws alone are insufficient evidence; distinguishing a forced\ncascade from equilibrium vortex organization or decaying relaxation needs flux measurements.\u003c/p\u003e"
+    },
+    {
+      "id": "card_778211#2",
+      "format": "flip",
+      "prompt": "Name two experimental regimes of quantum turbulence surveyed in this review.",
+      "back_html": "\u003cp\u003eTwo-dimensional Onsager vortex clustering and three-dimensional vortex-line turbulence — plus\nbox-trap wave cascades and engineered dissipation.\u003c/p\u003e"
+    }
+  ]
+}

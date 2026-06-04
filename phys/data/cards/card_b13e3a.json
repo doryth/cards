@@ -1,0 +1,101 @@
+{
+  "id": "card_b13e3a",
+  "slug": "center-of-mass",
+  "type": "concept",
+  "title": "Center of Mass: An Object's Balance Point",
+  "hook": "Throw a wrench and it tumbles wildly — but one point traces a clean arc. That point, the center of mass, is where an object's weight effectively acts.",
+  "key_points": [
+    "The center of mass is the average position of all an object's mass.",
+    "It's the balance point — support it there and the object won't tip.",
+    "A thrown object spins around its center of mass while that point arcs smoothly.",
+    "An object topples once its center of mass passes outside its base."
+  ],
+  "content_html": "\u003cp\u003eThe center of mass is the single point that best represents where all of an object's mass is concentrated. Find it and you've found the balance point: hold a ruler there and it won't tip either way. For simple, even shapes it sits right in the middle, but for a hammer or a human body it shifts toward the heavier end.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis one point quietly explains a lot. A tumbling wrench looks chaotic, yet its center of mass sails through the air in a smooth arc as the rest spins around it. A tower stands as long as its center of mass stays over its base and topples the instant it drifts past the edge — which is why wide bases feel stable and tall, narrow ones feel precarious. Wikipedia explains how to locate the center of mass and why it behaves like the spot where gravity effectively pulls.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Center_of_mass",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "rotational-motion"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_8f74bc",
+      "slug": "torque",
+      "type": "concept",
+      "title": "Torque: The Twist That Makes Things Turn",
+      "hook": "Why is a long wrench easier than a short one? Torque is rotational force — it grows with how far from the pivot you push, not just how hard.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d3af76",
+      "slug": "mass-vs-weight",
+      "type": "concept",
+      "title": "Mass vs. Weight",
+      "hook": "Your mass is the same on the Moon as on Earth — but your weight isn't. They're related, but they are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b13e3a#0",
+      "format": "flip",
+      "prompt": "What is the center of mass of an object?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eaverage position\u003c/strong\u003e of all its mass — its balance point. Support an\nobject there and it stays put without tipping.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b13e3a#1",
+      "format": "quiz",
+      "prompt": "When does a standing object tip over?",
+      "choices": [
+        {
+          "text": "When its center of mass moves outside the area of its base",
+          "correct": true
+        },
+        {
+          "text": "When it gets too heavy for the floor",
+          "correct": false
+        },
+        {
+          "text": "Only when something pushes harder than its weight",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAs long as the center of mass stays above the base, gravity holds the\nobject upright. Once it passes beyond the base, the object falls.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b13e3a#2",
+      "format": "quiz",
+      "prompt": "What does the center of mass do when you throw a tumbling object?",
+      "choices": [
+        {
+          "text": "It follows a smooth arc while the object spins around it",
+          "correct": true
+        },
+        {
+          "text": "It stays fixed while the rest of the object orbits the Earth",
+          "correct": false
+        },
+        {
+          "text": "It wobbles randomly along with every part of the object",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHowever chaotically an object tumbles, its center of mass traces the same\nclean path a single point would — the object rotates about it.\u003c/p\u003e"
+    }
+  ]
+}

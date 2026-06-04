@@ -1,0 +1,114 @@
+{
+  "id": "card_da171f",
+  "slug": "quantum-classical-crossover-point",
+  "type": "paper",
+  "title": "Quantum-Classical Crossover in Fault-Tolerant Quantum Dynamics Simulation",
+  "hook": "A new paper puts an actual number on 'when do quantum computers win': about 2 hours and 370,000 qubits to beat 100 years of classical computing on one benchmark physics problem.",
+  "key_points": [
+    "Researchers pin down a concrete 'crossover': when a fault-tolerant quantum computer beats the best classical algorithms.",
+    "For a 100-site 1D benchmark, quantum simulation needs ~2 hours and ~370,000 physical qubits.",
+    "The best classical method (tensor networks) would need roughly 100 years for the same task.",
+    "For 2D systems, where classical methods choke on entanglement, quantum could finish in minutes.",
+    "A 10x lower hardware error rate cuts the needed qubits and runtime by at least another 10x."
+  ],
+  "content_html": "\u003cp\u003eAccording to a new arXiv preprint led by Jinzhao Sun and collaborators, quantum computers may not need to be enormous to beat classical supercomputers at real physics problems — just precisely engineered. The team pins down a concrete \u0026quot;crossover point\u0026quot;: the exact hardware needed for an error-corrected quantum computer to outperform the best classical algorithms at simulating how a many-body quantum system evolves over time.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eFor a standard 100-site test system, the researchers calculate that a fault-tolerant quantum computer would need about 370,000 physical qubits and roughly 2 hours — while the best classical approach, tensor networks, would take about 100 years. In two-dimensional systems, where entanglement grows too fast for classical methods to track at all, they project quantum runtimes of just minutes. Improving hardware error rates by a factor of 10 shrinks both the qubit count and runtime by at least another order of magnitude, giving engineers concrete numbers to build toward.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Jinzhao Sun",
+      "Bozhen Zhou",
+      "Jue Xu"
+    ],
+    "url": "https://arxiv.org/abs/2607.16116",
+    "published_at": "2026-07-17",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_b1fdb9",
+      "slug": "quantum-proofs-more-powerful",
+      "type": "news",
+      "title": "Quantum Proofs Really Are More Powerful Than Classical Ones",
+      "hook": "For 20+ years it was open whether a 'quantum-shaped' proof gives a quantum computer more power than checking an ordinary one. Researchers just found strong evidence that it does.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_da171f#0",
+      "format": "flip",
+      "prompt": "What is the 'crossover point' this paper pins down?",
+      "back_html": "\u003cp\u003eThe concrete hardware needed for a \u003cstrong\u003efault-tolerant\u003c/strong\u003e quantum computer to\nbeat the best classical algorithms at simulating many-body quantum dynamics.\u003c/p\u003e"
+    },
+    {
+      "id": "card_da171f#1",
+      "format": "quiz",
+      "prompt": "For the 100-site benchmark, how does fault-tolerant quantum simulation time compare to the best classical method?",
+      "choices": [
+        {
+          "text": "About 2 hours for quantum vs. about 100 years for the best classical method",
+          "correct": true
+        },
+        {
+          "text": "About 2 hours for both approaches",
+          "correct": false
+        },
+        {
+          "text": "About 100 years for quantum vs. 2 hours for classical",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe fault-tolerant simulation needs ~2 hours and ~370,000 qubits; the best\nclassical tensor-network approach needs roughly 100 years for the same task.\u003c/p\u003e"
+    },
+    {
+      "id": "card_da171f#2",
+      "format": "quiz",
+      "prompt": "What happens to the required qubits and runtime if the hardware error rate drops 10x?",
+      "choices": [
+        {
+          "text": "Both drop by at least another order of magnitude",
+          "correct": true
+        },
+        {
+          "text": "They stay about the same",
+          "correct": false
+        },
+        {
+          "text": "Both increase by an order of magnitude",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA 10x lower physical error rate cuts the required qubit count and\nruntime by at least another factor of 10.\u003c/p\u003e"
+    },
+    {
+      "id": "card_da171f#3",
+      "format": "flip",
+      "prompt": "Why does the quantum advantage look even bigger for 2D systems than 1D ones?",
+      "back_html": "\u003cp\u003eEntanglement grows too fast in 2D for classical methods to keep up at all —\nquantum simulation there could finish in just minutes.\u003c/p\u003e"
+    }
+  ]
+}

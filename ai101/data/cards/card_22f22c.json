@@ -1,0 +1,120 @@
+{
+  "id": "card_22f22c",
+  "slug": "hugging-face-nudify-models",
+  "type": "news",
+  "title": "Seven of Nine Top Image Models Agreed to Undress People",
+  "hook": "A European watchdog tested the most popular image-editing models on Hugging Face. Most complied with requests to strip clothes off photos of women — and, the report says, children.",
+  "key_points": [
+    "Nonprofit AI Forensics tested the top image-editing models hosted on Hugging Face.",
+    "Seven of the top nine readily complied with requests to remove clothing from photos, per the report.",
+    "The report says the models did not reliably refuse when the subject appeared to be a child.",
+    "The Verge reports Hugging Face does very little to prevent this despite hosting the models.",
+    "Open model repositories distribute capability with almost no gate — the flip side of open AI.",
+    "Making a nonconsensual sexual image of someone is abuse, regardless of how easy the tool makes it."
+  ],
+  "content_html": "\u003cp\u003eThe European nonprofit AI Forensics ran a simple test on Hugging Face, the biggest public repository of open AI models: ask the most popular image-editing models to remove someone's clothes and see what happens. Seven of the top nine complied, according to the report — and it says the models didn't reliably refuse when the person in the photo appeared to be a child.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe Verge's reporting is that Hugging Face does very little to stop this, despite hosting the models in question. That's the uncomfortable trade at the center of open AI: the same free downloadability that lets researchers, small companies, and hobbyists build without asking anyone's permission also means there's no company-run gate standing between an abusive request and a finished image. Once weights are public, the only real control point is the host, and hosting has historically been treated as a neutral act. It isn't one here. Worth saying plainly, whatever the technology: an image made this way is nonconsensual sexual abuse of the person depicted, and the fact that a model produced it in seconds changes nothing about what it does to them.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Jess Weatherbed"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+    "published_at": "2026-07-28",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "deepfakes",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "open-source"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-07-28",
+  "related": [
+    {
+      "id": "card_1dd856",
+      "slug": "sf-nudify-apps-app-stores",
+      "type": "news",
+      "title": "San Francisco Tells Apple and Google: Stop Selling 'Nudify' Apps",
+      "hook": "Apps that use AI to digitally strip clothes from a photo have been sitting in the App Store and Google Play, taking a cut of the profits. San Francisco just gave both companies 28 days to pull them.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_0e1241",
+      "slug": "deepfakes",
+      "type": "concept",
+      "title": "Deepfakes \u0026 Misinformation",
+      "hook": "Seeing is no longer believing. AI can now fake a photo, a voice, or a video convincingly enough to fool a quick glance — so the new skill is knowing when to doubt.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ea06ac",
+      "slug": "xai-sues-grok-csam-user",
+      "type": "news",
+      "title": "xAI Sues Its Own User Over Grok-Made Child Abuse Images",
+      "hook": "Elon Musk's xAI usually gets sued over Grok's failures. This time it's the plaintiff — suing a man it says jailbroke Grok's safeguards to generate child sexual abuse material.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-16"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_22f22c#0",
+      "format": "quiz",
+      "prompt": "What did AI Forensics find when testing Hugging Face's top image-editing models?",
+      "choices": [
+        {
+          "text": "Seven of the top nine readily complied with requests to remove people's clothing",
+          "correct": true
+        },
+        {
+          "text": "All nine models refused every such request",
+          "correct": false
+        },
+        {
+          "text": "None of the models could edit photos of people at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe nonprofit's report found the overwhelming majority of the most popular\nhosted image-editing models complied — including, it says, when the subject\nappeared to be a child.\u003c/p\u003e"
+    },
+    {
+      "id": "card_22f22c#1",
+      "format": "flip",
+      "prompt": "Why do open model repositories make this problem harder to contain?",
+      "back_html": "\u003cp\u003eA downloadable model has no company-run gate between the request and the\nresult. Once weights are public, safety depends on the host's willingness to\npolice uploads — and here, the report says, it barely did.\u003c/p\u003e"
+    },
+    {
+      "id": "card_22f22c#2",
+      "format": "quiz",
+      "prompt": "What's the right frame for a 'nudify' image of a real person?",
+      "choices": [
+        {
+          "text": "It's nonconsensual sexual abuse imagery, however easy the tool made it",
+          "correct": true
+        },
+        {
+          "text": "It's harmless because the image is synthetic, not a real photo",
+          "correct": false
+        },
+        {
+          "text": "It's only a problem if the image is shared publicly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe image being generated rather than photographed doesn't change what it does\nto the person depicted — which is why lawmakers and platforms treat it as abuse.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "card_157c10",
+  "slug": "natural-experiments-in-policy",
+  "type": "news",
+  "title": "When a Policy Reversal Becomes an Experiment",
+  "hook": "A city banned needle exchange, then a court reinstated it. That accident handed researchers something rare in policy debate — a before-and-after test of the predicted harm.",
+  "key_points": [
+    "A natural experiment uses an abrupt, externally imposed policy change to compare outcomes before and after, without researchers assigning the treatment.",
+    "Pueblo, Colorado banned its syringe services program; the ban was later overturned, creating a clean on–off–on sequence to measure.",
+    "Researchers found syringe litter did not increase after the ban was lifted — the outcome opponents had warned about.",
+    "They also found the interruption damaged health services: contact with people who use drugs, and the care that flows through it, was lost.",
+    "The mechanism is intuitive — people given a supply of syringes through a program have somewhere to return them.",
+    "The wider lesson: predicted harms are testable claims, and policy arguments improve when someone bothers to check them."
+  ],
+  "content_html": "\u003cp\u003eMost policy arguments are predictions: do this and X will happen. They are rarely tested, because you cannot usually randomize a city. Occasionally politics does the randomizing for you. Pueblo, Colorado banned its syringe services program, a court later overturned the ban, and the resulting on–off–on sequence gave researchers an unusually clean before-and-after comparison — a natural experiment.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWriting in The Conversation, a University of Colorado team — Pranav Padmanabhan, Katherine LeMasters and Paul Christine — report that the central predicted harm did not materialize: syringe litter did not increase after the exchange resumed. The intuition is simple once stated. People who get syringes through a program also have somewhere to bring them back.\u003c/p\u003e\n\u003cp\u003eThe costs turned up elsewhere. During the interruption, health services suffered: the program is a point of contact with people who use drugs, and testing, referrals and overdose-prevention supplies travel through that contact. When it closes, those go with it.\u003c/p\u003e\n\u003cp\u003eThe transferable idea is not about syringes. It is that claims made in a policy fight are usually empirical, and the moment a jurisdiction switches a policy off and on, someone can go and check.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Pranav Padmanabhan",
+      "Katherine LeMasters",
+      "Paul Christine"
+    ],
+    "url": "https://theconversation.com/syringe-litter-did-not-increase-after-a-needle-exchange-ban-was-overturned-in-pueblo-colorado-but-health-services-suffered-287054",
+    "published_at": "2026-08-25",
+    "license": "CC BY-ND (The Conversation)"
+  },
+  "topic_ids": [
+    "public-policy-economy",
+    "media-civil-society"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e521e1",
+      "slug": "local-government",
+      "type": "concept",
+      "title": "Local Government",
+      "hook": "The layer of government you meet most often isn't the national one — it's the city or council that runs your streets, schools, and rubbish collection.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0d397a",
+      "slug": "public-opinion-and-polling",
+      "type": "concept",
+      "title": "Public Opinion \u0026 Polling",
+      "hook": "What 'the people' think shapes what governments do — but measuring it is trickier than it looks, and a bad poll can mislead as easily as a good one informs.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_11cc0c",
+      "slug": "how-official-statistics-earn-trust",
+      "type": "news",
+      "title": "How Official Statistics Earn Trust",
+      "hook": "A government statistic carries weight only because of the process behind it. When a report skips the usual methodology and review, the number stops being evidence and becomes an argument.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-19"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_157c10#0",
+      "format": "flip",
+      "prompt": "What makes a policy reversal useful as a natural experiment?",
+      "back_html": "\u003cp\u003eThe change is abrupt and imposed from outside, so before-and-after\noutcomes can be compared without researchers assigning who gets the policy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_157c10#1",
+      "format": "quiz",
+      "prompt": "What did the Pueblo researchers find after the needle exchange ban was overturned?",
+      "choices": [
+        {
+          "text": "Syringe litter did not increase, but the interruption had harmed health services",
+          "correct": true
+        },
+        {
+          "text": "Syringe litter rose sharply once the program resumed",
+          "correct": false
+        },
+        {
+          "text": "Neither litter nor health services changed at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe predicted harm did not appear; the cost showed up instead in lost\ncontact with people who use drugs and the care delivered through it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_157c10#2",
+      "format": "flip",
+      "prompt": "Why might a syringe program reduce rather than increase improper disposal?",
+      "back_html": "\u003cp\u003ePeople who receive syringes through a program have a place to return\nthem — the program creates a disposal route that otherwise doesn't exist.\u003c/p\u003e"
+    }
+  ]
+}

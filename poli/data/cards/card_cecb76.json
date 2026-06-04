@@ -1,0 +1,117 @@
+{
+  "id": "card_cecb76",
+  "slug": "party-spending-and-campaign-finance",
+  "type": "news",
+  "title": "Party Spending \u0026 Campaign Finance",
+  "hook": "Since Watergate, a law has capped how much a political party can spend directly coordinating with its own candidate. In 2026 the Supreme Court struck that cap down.",
+  "key_points": [
+    "Post-Watergate campaign-finance law drew a line between a party's independent spending and spending coordinated with its candidate.",
+    "'Coordinated party expenditures' — money spent working directly with a candidate's campaign — were capped by federal law.",
+    "In June 2026 the Supreme Court struck down those limits, per NPR and SCOTUSblog.",
+    "Parties can now spend unlimited money coordinating directly with the candidates they support.",
+    "The ruling extends a decades-long trend of the Court loosening campaign-finance limits, from Buckley v. Valeo onward."
+  ],
+  "content_html": "\u003cp\u003eCampaign-finance law has long drawn a line between two kinds of party spending: money a party spends entirely on its own (\u0026quot;independent expenditures\u0026quot;) and money it spends working directly with its candidate's campaign to buy ads or organize outreach (\u0026quot;coordinated expenditures\u0026quot;). Because coordinated spending functions almost like a direct contribution to the candidate, Congress capped it after Watergate to prevent parties from becoming a backdoor around individual contribution limits.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn June 2026, the Supreme Court struck those caps down. NPR's Grady Martin reports the case centered on the post-Watergate law limiting how much a party can spend in direct coordination with its own candidates; \u003ca href=\"https://scotusblog.com/2026/06/justices-strike-down-campaign-finance-law\"\u003eSCOTUSblog\u003c/a\u003e confirmed the justices ruled against the limits. Writing in \u003ca href=\"https://theconversation.com/political-parties-can-now-spend-unlimited-money-supporting-candidates-after-supreme-court-overturns-decades-of-precedent-280664\"\u003eThe Conversation\u003c/a\u003e, legal scholar John J. Martin notes the decision continues a pattern stretching back decades: since \u003cem\u003eBuckley v. Valeo\u003c/em\u003e (1976) first distinguished contribution limits (upheld, to fight corruption) from expenditure limits (treated skeptically, as speech), the Court has steadily narrowed how much campaign spending government may restrict. The result: political parties can now spend unlimited sums coordinating directly with their candidates — reopening the very channel Congress once tried to cap. (This card describes U.S. campaign-finance law specifically; other democracies regulate party and candidate spending very differently.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Grady Martin"
+    ],
+    "url": "https://npr.org/2026/06/30/nx-s1-5827039/supreme-court-campaign-finance",
+    "published_at": "2026-06-30",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "parties-and-ideologies",
+    "elections-voting-systems"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_fd8b20",
+      "slug": "member-to-member-money-in-congress",
+      "type": "blog",
+      "title": "How Lawmakers Fund Each Other",
+      "hook": "Some of the most important campaign money in Congress doesn't come from voters or donors — it flows between lawmakers themselves, and it quietly buys power.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "card_47b520",
+      "slug": "party-systems",
+      "type": "concept",
+      "title": "Political Parties \u0026 Party Systems",
+      "hook": "Parties are how scattered voters become an organized choice. Whether a country has two big ones or a dozen shapes how its whole politics feels.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bbd2b",
+      "slug": "interest-groups-and-lobbying",
+      "type": "concept",
+      "title": "Interest Groups \u0026 Lobbying",
+      "hook": "Between elections, organized groups press their case to government every day. Lobbying is how that pressure is applied — and it's both a feature and a worry of democracy.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cecb76#0",
+      "format": "flip",
+      "prompt": "What is the difference between 'independent' and 'coordinated' party campaign spending?",
+      "back_html": "\u003cp\u003eIndependent spending is a party acting entirely on its own; coordinated\nspending is done together with the candidate's campaign — which\nCongress capped because it resembles a direct contribution.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cecb76#1",
+      "format": "quiz",
+      "prompt": "What did the Supreme Court do to coordinated-spending limits in June 2026?",
+      "choices": [
+        {
+          "text": "Struck them down, letting parties spend unlimited amounts coordinating with candidates",
+          "correct": true
+        },
+        {
+          "text": "Left them unchanged",
+          "correct": false
+        },
+        {
+          "text": "Extended them to cover independent spending too",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Court ruled against the post-Watergate caps, removing the limit on\nhow much a party can spend working directly with its candidate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cecb76#2",
+      "format": "quiz",
+      "prompt": "What broader trend does this 2026 ruling continue?",
+      "choices": [
+        {
+          "text": "Decades of the Court narrowing what campaign-spending limits government may impose",
+          "correct": true
+        },
+        {
+          "text": "A trend of the Court expanding contribution limits",
+          "correct": false
+        },
+        {
+          "text": "A move toward publicly funding all campaigns",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSince Buckley v. Valeo (1976), the Court has repeatedly struck down\nexpenditure limits while treating them as protected speech.\u003c/p\u003e"
+    }
+  ]
+}

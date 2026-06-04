@@ -1,0 +1,101 @@
+{
+  "id": "card_275a24",
+  "slug": "electric-and-magnetic-fields",
+  "type": "concept",
+  "title": "Electric and Magnetic Fields",
+  "hook": "How does a magnet pull a paperclip it isn't touching? Through a field — an invisible region of influence that tells other charges and magnets how to feel a force.",
+  "key_points": [
+    "A field is the region around a charge or magnet that exerts force on others without contact.",
+    "Electric field lines point away from positive charges and toward negative ones.",
+    "Magnetic field lines loop from a magnet's north pole around to its south pole.",
+    "Fields carry energy, and a changing electric or magnetic field creates the other."
+  ],
+  "content_html": "\u003cp\u003eReach a magnet toward a paperclip and the clip jumps before they ever touch. The thing reaching across the gap is a field — an invisible region of influence surrounding any charge or magnet. A field doesn't push anything by itself; it tells other charges and magnets how strong a force to feel and in which direction.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWe picture fields with lines. Electric field lines stream away from positive charges and into negative ones; magnetic field lines loop out of a magnet's north pole and curve back into its south. These lines aren't just bookkeeping — fields genuinely carry energy and momentum through empty space. The deepest part is the coupling: a changing electric field gives rise to a magnetic field, and a changing magnetic field gives rise to an electric one. That mutual creation is exactly what lets forces act at a distance and what makes light possible. Wikipedia describes the electromagnetic field and how its two parts intertwine.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Electromagnetic_field",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "electricity-magnetism"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_2b87f5",
+      "slug": "electric-charge-and-current",
+      "type": "concept",
+      "title": "Electric Charge \u0026 Current",
+      "hook": "Everything electrical comes down to charge — and an electric current is simply charge on the move.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1c33ae",
+      "slug": "electromagnetism",
+      "type": "concept",
+      "title": "Electricity \u0026 Magnetism Are One Force",
+      "hook": "Move a magnet near a wire and you make electricity; run current through a wire and you make a magnet. They're two faces of the same force.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_275a24#0",
+      "format": "flip",
+      "prompt": "What is a field, in the context of charges and magnets?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003eregion of influence\u003c/strong\u003e around a charge or magnet that tells other charges\nand magnets how to feel a force — letting forces act without contact.\u003c/p\u003e"
+    },
+    {
+      "id": "card_275a24#1",
+      "format": "quiz",
+      "prompt": "Which way do electric field lines point near a positive charge?",
+      "choices": [
+        {
+          "text": "Away from the positive charge",
+          "correct": true
+        },
+        {
+          "text": "Toward the positive charge",
+          "correct": false
+        },
+        {
+          "text": "In circular loops around it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBy convention, electric field lines point away from positive charges and\ntoward negative ones, showing the direction of force on a positive test charge.\u003c/p\u003e"
+    },
+    {
+      "id": "card_275a24#2",
+      "format": "quiz",
+      "prompt": "What happens when an electric or magnetic field changes over time?",
+      "choices": [
+        {
+          "text": "It creates the other kind of field",
+          "correct": true
+        },
+        {
+          "text": "It disappears with no effect",
+          "correct": false
+        },
+        {
+          "text": "It turns into electric charge",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA changing electric field produces a magnetic field and vice versa — the\ncoupling that underlies electromagnetism and light.\u003c/p\u003e"
+    }
+  ]
+}

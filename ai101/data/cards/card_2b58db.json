@@ -1,0 +1,94 @@
+{
+  "id": "card_2b58db",
+  "slug": "gemini-student-hub",
+  "type": "news",
+  "title": "Gemini Gets a Study Corner Built for Students",
+  "hook": "Google is bundling its AI study tricks — research notebooks, flashcards, practice quizzes — into one dedicated student hub, just in time for back-to-school.",
+  "key_points": [
+    "Google is rolling out a dedicated student hub inside Gemini, The Verge reports.",
+    "It's a single place to collect research in a study notebook, make flashcards, and take practice quizzes.",
+    "Study notebooks also gain support for graphs and images, not just text.",
+    "It can track things like test dates, nudging it from study tool toward study planner.",
+    "The pattern to notice: AI features are being packaged by who you are, not by what the model does."
+  ],
+  "content_html": "\u003cp\u003eGoogle is putting a dedicated student hub inside Gemini for back-to-school season, The Verge reports. Rather than a new model, it's a repackaging: one place to collect research in a study notebook, spin up flashcards, and run practice quizzes, with study notebooks now handling graphs and images alongside text, and support for tracking things like test dates.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe interesting part isn't the feature list, it's the framing. The underlying model is the same one answering everyone else's questions; what's new is a wrapper shaped around a student's actual week — sources to gather, material to memorize, a test on Thursday. Expect more of this: AI packaged by audience rather than by capability.\u003c/p\u003e\n\u003cp\u003eFor anyone using it to study, the old caution still applies. Flashcards and practice quizzes are genuinely good for learning because they force you to retrieve the answer yourself, which is exactly the work that makes something stick. A generated summary you skim is not. And an AI-written quiz can still get a fact wrong, so check anything surprising against your actual course material before you memorize it.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Terrence O'Brien"
+    ],
+    "url": "https://theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "published_at": "2026-08-19",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-as-tutor",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 2,
+  "difficulty": "intro",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_a8247e",
+      "slug": "notebooklm-becomes-gemini-notebook",
+      "type": "news",
+      "title": "Your Study Tool Has a New Name: NotebookLM Is Now Gemini Notebook",
+      "hook": "If NotebookLM disappeared from your apps, don't worry — Google just renamed it Gemini Notebook, and gave it a new trick: a built-in cloud computer that can run code on your sources.",
+      "importance": 2,
+      "difficulty": "intro",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_c25220",
+      "slug": "ai-as-a-tutor",
+      "type": "concept",
+      "title": "AI as a Tutor",
+      "hook": "A chatbot is a tutor with infinite patience: ask it to explain anything five different ways at any level, with no judgment. Just remember it can be confidently wrong.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2b58db#0",
+      "format": "quiz",
+      "prompt": "What does Gemini's new student hub mainly do?",
+      "choices": [
+        {
+          "text": "Gathers study tools — research notebooks, flashcards, practice quizzes — in one place",
+          "correct": true
+        },
+        {
+          "text": "Grades your homework and submits it to your teacher",
+          "correct": false
+        },
+        {
+          "text": "Replaces your school's learning management system",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Verge describes it as a one-stop hub for collecting research in a study\nnotebook, making flashcards, and taking practice quizzes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2b58db#1",
+      "format": "flip",
+      "prompt": "Why are flashcards and practice quizzes a better use of an AI tutor than asking for finished answers?",
+      "back_html": "\u003cp\u003eThey make you retrieve the material yourself. The AI does the tedious part —\ngenerating the questions — while your brain still does the learning.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2b58db#2",
+      "format": "flip",
+      "prompt": "What broader trend does a student-specific AI hub illustrate?",
+      "back_html": "\u003cp\u003eAI features are increasingly packaged around who you are rather than what the\nmodel does — the same underlying model, wrapped for one audience's routine.\u003c/p\u003e"
+    }
+  ]
+}

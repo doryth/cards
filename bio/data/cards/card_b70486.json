@@ -1,0 +1,111 @@
+{
+  "id": "card_b70486",
+  "slug": "cape-leopards-shrank",
+  "type": "news",
+  "title": "Why South Africa's Leopards Shrank by Half",
+  "hook": "Cut off for 20,000 years, leopards in South Africa's Cape evolved to half normal size and became genetically distinct — yet, against expectations, they kept much of their diversity.",
+  "key_points": [
+    "Leopards in the Cape Floristic Region are about half the size of typical African leopards.",
+    "Whole-genome analysis shows they are genetically distinct from other leopards.",
+    "They've been isolated from other populations for roughly 20,000 years.",
+    "Isolation plus local conditions can reshape a population's size and genes over time.",
+    "Surprisingly, this small population retained much of its genetic diversity."
+  ],
+  "content_html": "\u003cp\u003eIn the mountains of South Africa's Cape, leopards come in a smaller model. Whole-genome research covered by ScienceDaily reveals a hidden population that is both physically and genetically set apart.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eLeopards of the Cape Floristic Region are roughly half the size of most African leopards, and their genomes show they're a distinct lineage, isolated from other leopards for about 20,000 years. That long separation — paired with the region's particular conditions and prey — is the kind of pressure that reshapes a population's body and genes over time, a glimpse of how isolation nudges populations apart on the way to new species. The twist is that despite their small numbers, these leopards have held onto much of their genetic diversity, which is unexpected: small, cut-off populations usually erode diversity and become inbred. How they've avoided that fate is part of what makes the discovery worth a closer look.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260623083113.htm",
+    "published_at": "2026-06-24",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "evolution"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-29",
+  "date": "2026-06-24",
+  "related": [
+    {
+      "id": "card_50ecfa",
+      "slug": "how-new-species-form",
+      "type": "concept",
+      "title": "How New Species Form",
+      "hook": "Split one population in two, let them drift apart long enough, and eventually they can no longer interbreed — that's speciation, the engine that fills the tree of life with branches.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_75b0ad",
+      "slug": "genetic-drift",
+      "type": "concept",
+      "title": "Genetic Drift",
+      "hook": "Evolution isn't only survival of the fittest — sometimes traits spread or vanish purely by luck, especially in small populations.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_89dd5d",
+      "slug": "natural-selection",
+      "type": "concept",
+      "title": "Natural Selection",
+      "hook": "No designer, no goal — just heritable variation, a struggle to survive, and the slow accumulation of whatever happens to work. That's how life adapts.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b70486#0",
+      "format": "quiz",
+      "prompt": "What likely drove the Cape leopards to become small and genetically distinct?",
+      "choices": [
+        {
+          "text": "Roughly 20,000 years of isolation plus local conditions",
+          "correct": true
+        },
+        {
+          "text": "A single individual that was born small last year",
+          "correct": false
+        },
+        {
+          "text": "Crossbreeding with lions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLong isolation from other leopard populations, combined with the region's conditions,\nshaped both their reduced body size and their genetic distinctiveness.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b70486#1",
+      "format": "flip",
+      "prompt": "What was surprising about the genetics of this small, isolated leopard population?",
+      "back_html": "\u003cp\u003eDespite their small numbers, they retained much of their genetic diversity — unexpected,\nsince small, isolated populations often lose diversity over time.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b70486#2",
+      "format": "quiz",
+      "prompt": "What general idea does the Cape leopard story illustrate?",
+      "choices": [
+        {
+          "text": "Isolation can drive a population to diverge in size and genes from its relatives",
+          "correct": true
+        },
+        {
+          "text": "Body size never changes within a species",
+          "correct": false
+        },
+        {
+          "text": "Isolated populations always go extinct quickly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCut off from gene flow, a population adapts to local conditions and drifts genetically —\na key step toward how new, distinct populations and eventually species can form.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "card_dceadc",
+  "slug": "stellar-aberration-hunts-dark-matter-subhalos",
+  "type": "paper",
+  "title": "Using Wobbling Starlight to Find Dark Matter Clumps",
+  "hook": "A passing dark matter clump would nudge the Earth, and that nudge would tilt every star's apparent position at once. TESS has the sky coverage to look for that shared tilt.",
+  "key_points": [
+    "Stellar aberration is the apparent shift in a star's position caused by the observer's own motion.",
+    "A dark matter subhalo passing nearby would accelerate the observer, tilting star positions together.",
+    "The signature is spatially correlated across the sky, which is what separates it from noise.",
+    "TESS suits the search: wide coverage, high cadence, and a long time baseline.",
+    "Fisher-matrix forecasts give sensitivity to accelerations down to 6.3e-9 m/s^2.",
+    "That reaches subhalos above about 1e-6 solar masses at AU distances, up to 1e7 at ~10 parsecs."
+  ],
+  "content_html": "\u003cp\u003eSmall-scale dark matter structure is one of the sharpest ways to tell competing dark matter models apart — how clumpy the dark sector is on small scales depends on what the particle actually is. The trouble is that these subhalos emit nothing. You can only find them by their gravity, and their gravity is feeble.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMatthias Daniel, Xiao Xue, Kris Pardo and Laura Sagunski propose a channel that has barely been explored: stellar aberration. Aberration is the familiar effect where your own motion shifts where a star appears to be — the reason astronomers must correct for Earth's orbital velocity. Crucially, it depends on the observer, not the light path, so it shifts many stars in a coherent, spatially correlated pattern. A dark matter subhalo drifting past would perturb the observer's motion and imprint exactly that kind of correlated pattern across the sky.\u003c/p\u003e\n\u003cp\u003eThe authors argue NASA's TESS is unusually well matched to the search: it has a long temporal baseline, wide sky coverage and high-cadence observations, and its sector-based observing strategy gives intrinsic time resolution on any signal. Fisher-matrix forecasts for constant observer accelerations give a projected sensitivity down to 6.3 x 10^-9 m/s^2 from the combined sample of TESS stars brighter than magnitude 10. That translates into reach over a wide range of concentrated subhalos — above roughly 10^-6 solar masses at AU-scale distances, up to 10^7 solar masses at around 10 parsecs.\u003c/p\u003e\n\u003cp\u003eThis is a forecast, not a detection, and the paper is candid about what stands in the way: instrumental systematics, and astrometric foregrounds such as parallax and proper motion that also move stars around. Still, it establishes aberration as a real handle on dark matter substructure for TESS and the wide-field surveys that follow.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Matthias Daniel",
+      "Xiao Xue",
+      "Kris Pardo",
+      "Laura Sagunski"
+    ],
+    "url": "https://arxiv.org/abs/2608.23795",
+    "published_at": "2026-08-24",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper",
+    "benchmark"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-24",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b3f9f3",
+      "slug": "supermagnified-stars-dark-matter-clumps",
+      "type": "paper",
+      "title": "A Single Star, Magnified a Thousandfold, Maps Invisible Dark Matter",
+      "hook": "Gravity can magnify one ordinary star a thousandfold — and the flicker pattern as it drifts behind a galaxy cluster's lens encodes clues about dark matter clumps invisible any other way.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "card_3dea3c",
+      "slug": "merging-clusters-probe-dark-matter",
+      "type": "paper",
+      "title": "Cluster Collisions as Dark Matter Labs",
+      "hook": "Smash two galaxy clusters together and the gas gets stuck while the dark matter sails through. How far it sails is a direct measurement of whether dark matter interacts with itself.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-17"
+    },
+    {
+      "id": "card_cb7f47",
+      "slug": "milky-way-gamma-ray-glow-dark-matter",
+      "type": "news",
+      "title": "The Milky Way's Mystery Glow Might Really Be Dark Matter",
+      "hook": "A gamma-ray haze at the galaxy's center has split scientists for years between 'hidden neutron stars' and 'dark matter.' Machine learning just tipped the scales.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-30"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_dceadc#0",
+      "format": "quiz",
+      "prompt": "What is stellar aberration?",
+      "choices": [
+        {
+          "text": "The apparent shift in a star's position caused by the observer's own motion",
+          "correct": true
+        },
+        {
+          "text": "The bending of starlight by the gravity of an intervening mass",
+          "correct": false
+        },
+        {
+          "text": "The reddening of starlight as it passes through interstellar dust",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAberration comes from the observer moving, not from anything happening to the\nlight along the way — which is why it shifts many stars coherently.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dceadc#1",
+      "format": "flip",
+      "prompt": "How would a dark matter subhalo show up in aberration data?",
+      "back_html": "\u003cp\u003eBy gravitationally accelerating the observer, producing spatially correlated\nshifts in stellar positions across the sky rather than random scatter.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dceadc#2",
+      "format": "quiz",
+      "prompt": "Why is TESS well suited to this search despite being an exoplanet mission?",
+      "choices": [
+        {
+          "text": "Wide sky coverage, high cadence, and a long baseline are exactly what a correlated shift needs",
+          "correct": true
+        },
+        {
+          "text": "It has the sharpest single-star resolution of any telescope",
+          "correct": false
+        },
+        {
+          "text": "It observes in gamma rays, where dark matter annihilates",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe signal is a subtle pattern shared across many stars over time, so breadth\nand repetition matter more than depth on any one target.\u003c/p\u003e"
+    }
+  ]
+}

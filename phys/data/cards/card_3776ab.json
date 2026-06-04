@@ -1,0 +1,112 @@
+{
+  "id": "card_3776ab",
+  "slug": "conservation-of-momentum",
+  "type": "concept",
+  "title": "Conservation of Momentum",
+  "hook": "Fire a gun and it kicks back; push off a friend on skates and you both glide apart. Total momentum never changes unless an outside force interferes.",
+  "key_points": [
+    "With no outside force, a system's total momentum stays constant over time.",
+    "Momentum lost by one object is exactly gained by another.",
+    "It explains recoil: a gun kicks back as the bullet shoots forward.",
+    "It powers rockets: throwing exhaust one way pushes the rocket the other way."
+  ],
+  "content_html": "\u003cp\u003eOne of physics' most reliable rules: if no outside force acts on a system, its total momentum stays exactly the same. Objects inside can shove each other around all they like, but whatever momentum one gains, another loses by an equal amount. The grand total is locked in.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis single principle explains a surprising range of everyday and high-tech events. A rifle and its bullet start with zero momentum; when fired, the bullet flies forward and the gun recoils backward so the two cancel out. Two skaters who push apart drift off in opposite directions for the same reason. And it's how rockets work even in the vacuum of space — there's nothing to push against, so the engine hurls exhaust gas backward and the rocket gains an equal and opposite momentum forward. Conservation of momentum holds because internal forces always come in equal-and-opposite pairs, as Newton's third law guarantees. Wikipedia's section on conservation lays out the reasoning and these classic examples.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Momentum#Conservation",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "momentum-collisions"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a13f1f",
+      "slug": "what-is-momentum",
+      "type": "concept",
+      "title": "Momentum: The Quantity of Motion",
+      "hook": "A slow freight train and a fast bullet are both brutally hard to stop. Momentum captures why: it's mass times velocity, the real measure of moving 'oomph'.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a49489",
+      "slug": "elastic-vs-inelastic-collisions",
+      "type": "concept",
+      "title": "Elastic vs. Inelastic Collisions",
+      "hook": "Billiard balls click and bounce; cars crumple and stick. Both conserve momentum, but only one keeps its energy of motion — the difference is where the energy goes.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a13f1f",
+      "slug": "what-is-momentum",
+      "type": "concept",
+      "title": "Momentum: The Quantity of Motion",
+      "hook": "A slow freight train and a fast bullet are both brutally hard to stop. Momentum captures why: it's mass times velocity, the real measure of moving 'oomph'.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_3776ab#0",
+      "format": "flip",
+      "prompt": "When is the total momentum of a system conserved?",
+      "back_html": "\u003cp\u003eWhenever \u003cstrong\u003eno net external force\u003c/strong\u003e acts on the system. The total momentum\nstays the same even as objects within it push on each other.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3776ab#1",
+      "format": "quiz",
+      "prompt": "Two ice skaters at rest push off each other. What happens?",
+      "choices": [
+        {
+          "text": "They glide apart in opposite directions so total momentum stays zero",
+          "correct": true
+        },
+        {
+          "text": "They both move the same direction",
+          "correct": false
+        },
+        {
+          "text": "They stay put because momentum can't appear from nothing",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eStarting at zero momentum, they must end at zero total. Equal and opposite\nmomenta cancel, so they slide apart.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3776ab#2",
+      "format": "quiz",
+      "prompt": "How does a rocket accelerate in empty space with nothing to push against?",
+      "choices": [
+        {
+          "text": "It throws exhaust backward, so it gains equal momentum forward",
+          "correct": true
+        },
+        {
+          "text": "It pushes against the air around it",
+          "correct": false
+        },
+        {
+          "text": "It creates momentum from its fuel's chemical energy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eConservation of momentum: the backward momentum of the exhaust is matched by\nthe rocket's forward momentum. No outside air needed.\u003c/p\u003e"
+    }
+  ]
+}

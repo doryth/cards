@@ -1,0 +1,98 @@
+{
+  "id": "card_20e19f",
+  "slug": "grk2-aggregates-alzheimers",
+  "type": "news",
+  "title": "Blocking a Clumping Enzyme Slowed Alzheimer's in Mice",
+  "hook": "An ETH Zurich team found the enzyme GRK2 forms clumps in the Alzheimer's brain — and an experimental compound that stopped the clumping kept mice's nerve cells alive longer.",
+  "key_points": [
+    "GRK2 is a regulatory enzyme most Alzheimer's research has overlooked; the team found it aggregating inside brain cells.",
+    "Their experimental 'Compound 10' prevented GRK2 molecules from forming those aggregates.",
+    "Treated mice lost nerve cells more slowly, accumulated less amyloid beta, and lived longer.",
+    "Unexpected side effects were good ones: better heart function, and fewer grey hairs in older animals.",
+    "This is mouse work published in Cell Reports Medicine — a new target to test, not a treatment."
+  ],
+  "content_html": "\u003cp\u003eMost Alzheimer's research chases two proteins: amyloid beta and tau. A team led by Ursula Quitterer at ETH Zurich went looking somewhere else and found a third suspect — GRK2, an enzyme that normally helps regulate signalling inside cells, but which they saw clumping into aggregates in the Alzheimer's brain.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe group built an experimental molecule they call Compound 10 to keep GRK2 from aggregating. In mouse models of Alzheimer's, treated animals lost nerve cells more slowly, accumulated less amyloid beta, and lived longer than untreated ones. Two side effects came as a surprise: the mice's heart function improved, and older treated animals grew fewer grey hairs — which the researchers read as a hint that GRK2 clumping may be a broader feature of aging tissue, not a brain-only problem.\u003c/p\u003e\n\u003cp\u003eThe usual caution applies with force here. This is mouse work, reported in \u003cem\u003eCell Reports Medicine\u003c/em\u003e, and the history of Alzheimer's drug development is largely a history of mouse results that did not survive human trials. What it offers is a target nobody was aiming at. Read the full write-up via the source link.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260814235856.htm",
+    "published_at": "2026-08-16",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "healthy-aging"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-16",
+  "related": [
+    {
+      "id": "card_f3c2dd",
+      "slug": "sorla-protein-protects-against-tau",
+      "type": "news",
+      "title": "A Protein That Shields the Brain From Alzheimer's Tau Damage",
+      "hook": "Mice with extra SORLA, a protein already linked to Alzheimer's risk, developed less tau buildup, less brain atrophy, and healthier neural connections — pointing to a new drug target.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "card_b417c8",
+      "slug": "kcl-286-alzheimers-dna-repair",
+      "type": "news",
+      "title": "A Spinal-Injury Drug Repairs DNA Damage in Alzheimer's",
+      "hook": "A drug originally developed for spinal cord injury repaired DNA damage and cut brain inflammation in mouse Alzheimer's studies — and it's already cleared a human safety trial.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_64fe27",
+      "slug": "how-alzheimers-kills-brain-cells",
+      "type": "news",
+      "title": "Scientists May Have Found How Alzheimer's Kills Brain Cells",
+      "hook": "Researchers say they've found a previously overlooked mechanism of brain cell death behind both Alzheimer's and frontotemporal dementia — and it might be possible to interrupt.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_20e19f#0",
+      "format": "flip",
+      "prompt": "What did the ETH Zurich team's compound actually do inside brain cells?",
+      "back_html": "\u003cp\u003eIt stopped molecules of the enzyme \u003cstrong\u003eGRK2\u003c/strong\u003e from clumping together into aggregates —\nwhich in turn slowed nerve cell death and reduced amyloid beta buildup.\u003c/p\u003e"
+    },
+    {
+      "id": "card_20e19f#1",
+      "format": "quiz",
+      "prompt": "Why is this GRK2 result described as a new target rather than a treatment?",
+      "choices": [
+        {
+          "text": "The work was done in mice, not people",
+          "correct": true
+        },
+        {
+          "text": "The compound worked but was too expensive to make",
+          "correct": false
+        },
+        {
+          "text": "It only helped mice that already had heart disease",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCompound 10 was tested in mice and published in \u003cem\u003eCell Reports Medicine\u003c/em\u003e. Promising\nanimal results routinely fail to carry over to humans, so this opens a line of\nresearch rather than offering a therapy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_20e19f#2",
+      "format": "flip",
+      "prompt": "Besides the brain, what other effects did treated mice show?",
+      "back_html": "\u003cp\u003eImproved heart function, and older treated animals developed fewer grey hairs —\nhinting GRK2 clumping may matter beyond the brain.\u003c/p\u003e"
+    }
+  ]
+}

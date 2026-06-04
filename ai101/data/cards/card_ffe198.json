@@ -1,0 +1,94 @@
+{
+  "id": "card_ffe198",
+  "slug": "ai-super-pacs",
+  "type": "news",
+  "title": "Why the AI Industry Is Spending Big on Elections",
+  "hook": "Corporate super PACs backed by the AI industry poured a reported $27 million into a single local US election — a startling sum that hints at how hard the industry will fight over who writes its rules.",
+  "key_points": [
+    "The Verge reports AI-industry-backed super PACs spent about $27 million on one local US election.",
+    "That's an enormous sum for a single congressional-district race — a sign of high political stakes.",
+    "Super PACs can raise and spend unlimited money to support or oppose candidates.",
+    "As regulators weigh AI rules, the industry is spending to shape who makes those decisions.",
+    "Following the money is part of reading AI news critically — who benefits from which rules?"
+  ],
+  "content_html": "\u003cp\u003eAI's biggest fights aren't only about technology — increasingly they're about politics and money. The Verge reports that corporate super PACs tied to the AI industry spent roughly $27 million on a single local US election, an extraordinary amount for one congressional-district race.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA super PAC is a political group that can raise and spend unlimited money to support or oppose candidates, as long as it doesn't coordinate directly with a campaign. When an industry starts deploying that kind of money at the local level, it's usually a signal that something it cares about is at stake — and for AI, the obvious prize is regulation: who gets elected helps decide what rules the technology will face. You don't need to follow every twist of a given race to take the broader lesson. As AI grows more powerful and more contested, the companies building it have strong incentives to influence the people who'll govern it. Reading AI news well increasingly means asking a money-and-power question alongside the tech one: who stands to gain from which rules, and what are they spending to get them?\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Tina Nguyen"
+    ],
+    "url": "https://theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+    "published_at": "2026-06-23",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-regulation",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-25",
+  "date": "2026-06-23",
+  "related": [
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_737672",
+      "slug": "who-controls-ai",
+      "type": "concept",
+      "title": "Who Controls AI?",
+      "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ffe198#0",
+      "format": "flip",
+      "prompt": "What is a super PAC?",
+      "back_html": "\u003cp\u003eA political group that can raise and spend unlimited money to support or oppose\ncandidates, as long as it doesn't directly coordinate with a campaign.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ffe198#1",
+      "format": "quiz",
+      "prompt": "Why would the AI industry spend heavily on elections?",
+      "choices": [
+        {
+          "text": "Elected officials help decide what rules AI will face, so the industry has a stake in who wins",
+          "correct": true
+        },
+        {
+          "text": "To give away free AI chatbots to voters",
+          "correct": false
+        },
+        {
+          "text": "Because AI models are allowed to vote in elections",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSpending big at the local level usually signals something is at stake — and for AI,\nthe obvious prize is regulation: who gets elected helps set the rules.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ffe198#2",
+      "format": "flip",
+      "prompt": "What's the broader lesson for reading AI news?",
+      "back_html": "\u003cp\u003eAsk the money-and-power question alongside the tech one — who benefits from which\nrules, and what are they spending to shape them?\u003c/p\u003e"
+    }
+  ]
+}

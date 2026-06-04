@@ -1,0 +1,108 @@
+{
+  "id": "card_c46f00",
+  "slug": "cold-atom-comagnetometer-sixty-second-coherence",
+  "type": "paper",
+  "title": "Two Ytterbium Isotopes That Cancel Out Magnetic Noise",
+  "hook": "A comagnetometer runs two spin species side by side so the stray magnetic field cancels and only new physics survives. This one holds coherence for a full minute in a cold-atom lattice.",
+  "key_points": [
+    "Comagnetometers compare two co-located spin species: a real magnetic field shifts both, so subtracting them exposes anything that is not magnetic.",
+    "Gas-cell comagnetometers dominate the field, but cold atoms reach much shorter distance scales and allow optical quantum control.",
+    "The team trapped nuclear spins of 171-Yb (spin-1/2) and 173-Yb (spin-5/2) together in an optical lattice — diamagnetic atoms chosen for long coherence.",
+    "Vector light shifts were killed by keeping the lattice light linearly polarised; tensor shifts in 173-Yb were suppressed using a Schrödinger cat state.",
+    "Simultaneous Ramsey interferometry on both isotopes reached a spin coherence time of 60 seconds."
+  ],
+  "content_html": "\u003cp\u003eSome of the most sensitive tests of fundamental physics work by subtraction. A comagnetometer holds two different spin species in the same volume; a real magnetic field shifts both in a predictable ratio, so taking the difference cancels the field and leaves behind whatever is left — a hypothetical spin-dependent force, a violation of Lorentz symmetry, an exotic interaction. Almost all such devices use warm gas cells. Cold atoms would probe much shorter distances and open the door to optical quantum control, but holding cold spins coherent long enough has been the obstacle.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA group including Zheng-Tian Lu reports a cold-atom comagnetometer built from the nuclear spins of two ytterbium isotopes, 171-Yb (spin-1/2) and 173-Yb (spin-5/2), jointly trapped in an optical lattice. Ytterbium's diamagnetic ground state is the starting advantage; the remaining enemy is decoherence from light shifts caused by the trapping laser itself. The team suppressed vector light shifts by enforcing linear polarisation of the lattice, and suppressed the tensor shifts that afflict the higher-spin 173-Yb by working in a Schrödinger cat state. Running Ramsey interferometry on both isotopes at once, they measured a spin coherence time of 60 seconds along with a large magnetic-noise suppression factor — the kind of platform that makes cold-atom searches for new spin-dependent physics practical.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "J.-L. Zhang",
+      "W.-T. Luo",
+      "Y. A. Yang",
+      "Y.-Q. Wang",
+      "T. Xia",
+      "Z.-T. Lu"
+    ],
+    "url": "https://arxiv.org/abs/2608.13936",
+    "published_at": "2026-08-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "atomic-nuclear",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_302533",
+      "slug": "nuclear-clock-thorium-229",
+      "type": "paper",
+      "title": "The First Clock That Ticks With a Nucleus",
+      "hook": "Atomic clocks keep time with jumps in an atom's electrons. Physicists just ran a clock that ticks on a jump inside the atom's nucleus instead — a far more shielded, stabler reference.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-07"
+    },
+    {
+      "id": "card_0f51ff",
+      "slug": "quantum-sensor-hunts-dark-matter",
+      "type": "news",
+      "title": "A Quantum Sensor Built to Catch Dark Matter and Ancient Gravitational Waves",
+      "hook": "Two clouds of ultracold atoms, compared against each other, cancel out noise so well that a signal buried in one measurement reappears — aimed at dark matter and ancient gravitational waves.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_4799e5",
+      "slug": "methanol-benchmark-tests-fundamental-constants",
+      "type": "paper",
+      "title": "A 20x-Sharper Methanol Line to Test If Nature's Constants Ever Change",
+      "hook": "Methanol clouds across the galaxy emit a radio line astronomers use to test whether a fundamental constant has drifted since the early universe. A new lab measurement made that test 20x sharper.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-14"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c46f00#0",
+      "format": "flip",
+      "prompt": "What is a comagnetometer for?",
+      "back_html": "\u003cp\u003eIt runs \u003cstrong\u003etwo spin species in the same place\u003c/strong\u003e. A genuine magnetic field shifts both, so\ntaking the difference cancels magnetic noise and leaves behind any non-magnetic,\nexotic effect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c46f00#1",
+      "format": "quiz",
+      "prompt": "Why use cold atoms rather than the more common gas cells?",
+      "choices": [
+        {
+          "text": "They probe much shorter distance scales and allow optical quantum control",
+          "correct": true
+        },
+        {
+          "text": "They are immune to all light shifts by default",
+          "correct": false
+        },
+        {
+          "text": "They require no magnetic shielding of any kind",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCold-atom systems trade the convenience of gas cells for access to short distance scales\nand optical control techniques — at the cost of having to fight light-shift decoherence,\nwhich this work does with linear polarisation and a cat state.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c46f00#2",
+      "format": "flip",
+      "prompt": "How long did the two Yb isotopes stay coherent together?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003e60 seconds\u003c/strong\u003e of spin coherence, with simultaneous Ramsey interferometry running on\n171-Yb and 173-Yb in the same optical lattice.\u003c/p\u003e"
+    }
+  ]
+}

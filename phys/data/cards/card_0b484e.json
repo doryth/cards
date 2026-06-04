@@ -1,0 +1,93 @@
+{
+  "id": "card_0b484e",
+  "slug": "fiber-interferometer-beats-diffraction-limit",
+  "type": "paper",
+  "title": "A 170km Fiber Link Just Beat the Diffraction Limit by 4x",
+  "hook": "Borrowing phase-stabilization tricks from quantum communications, physicists turned a 170km optical fiber into an interferometer sharp enough to beat the diffraction limit by 4x.",
+  "key_points": [
+    "Any telescope's resolution is capped by the diffraction limit, set by the wavelength observed and the size of its aperture — bigger apertures see finer detail.",
+    "Linking distant telescopes via interferometry synthesizes a much larger effective aperture, but long optical fiber links are highly sensitive to phase noise from the fiber itself.",
+    "Researchers adapted phase-stabilization techniques from quantum communications to tame that noise over a 170km fiber pseudo-baseline.",
+    "Using a quantum-optimal measurement technique, they resolved a source four times smaller than the system's diffraction limit, with only 1.5% error — a step toward a full-scale 350km interferometer that could resolve sub-microarcsecond features."
+  ],
+  "content_html": "\u003cp\u003eEvery telescope has a hard resolution ceiling called the diffraction limit — set by the light's wavelength and the telescope's aperture size. Astronomers get around this by linking multiple telescopes together as an interferometer, effectively synthesizing a much bigger aperture. Doing that over free-space beams is one thing; doing it over long stretches of optical fiber is another, because the fiber medium itself introduces phase noise that scrambles the delicate signal interferometry depends on.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team led by Joshua J. Collier and David R. Gozzard adapted phase-stabilization techniques developed for quantum communications to tame that noise over an unusually long 170km fiber pseudo-baseline. Combined with a quantum-optimal measurement technique, their interferometer resolved the extent of a source four times smaller than the system's diffraction limit, with just 1.5% error. It's a proof-of-principle result rather than an astronomical observation, but it brings a full-scale, on-sky long-baseline optical interferometer meaningfully closer — the team estimates a 350km version at 1550nm could resolve features smaller than a millionth of an arcsecond across the sky.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Joshua J. Collier",
+      "David R. Gozzard"
+    ],
+    "url": "https://arxiv.org/abs/2607.12167",
+    "published_at": "2026-07-13",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "light-optics",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-13",
+  "related": [
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af8914",
+      "slug": "reflection-and-refraction",
+      "type": "concept",
+      "title": "Reflection \u0026 Refraction",
+      "hook": "A straw looks bent in a glass of water — not because the straw bends, but because light does when it changes speed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0b484e#0",
+      "format": "flip",
+      "prompt": "What sets the resolution limit of any single telescope?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003ediffraction limit\u003c/strong\u003e — determined by the wavelength of light observed and\nthe size of the telescope's aperture. Bigger apertures resolve finer detail.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0b484e#1",
+      "format": "quiz",
+      "prompt": "Why are fiber-linked interferometers harder to build than free-space ones over long distances?",
+      "choices": [
+        {
+          "text": "Optical fiber is much more susceptible to phase noise from inhomogeneities in the fiber medium",
+          "correct": true
+        },
+        {
+          "text": "Fiber cables cannot carry light at astronomically useful wavelengths",
+          "correct": false
+        },
+        {
+          "text": "Fiber links can only work over distances shorter than 1 km",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eInhomogeneities inside the fiber degrade the phase signal needed for\ninterferometry, an effect that gets worse as the fiber baseline lengthens.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0b484e#2",
+      "format": "flip",
+      "prompt": "What result did the team achieve with their 170km fiber pseudo-baseline?",
+      "back_html": "\u003cp\u003eThey resolved a source \u003cstrong\u003efour times smaller\u003c/strong\u003e than the system's diffraction\nlimit, with just 1.5% error — using phase-stabilization techniques borrowed\nfrom quantum communications.\u003c/p\u003e"
+    }
+  ]
+}

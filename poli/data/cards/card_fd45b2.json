@@ -1,0 +1,106 @@
+{
+  "id": "card_fd45b2",
+  "slug": "census-data-privacy",
+  "type": "concept",
+  "title": "Why Census Data Has 'Noise' Added",
+  "hook": "To stop anyone reverse-engineering your identity from public statistics, the U.S. census deliberately blurs its own numbers — a privacy-for-accuracy trade with real political stakes.",
+  "key_points": [
+    "Published statistics can be cross-referenced to re-identify individuals, so agencies add controlled error.",
+    "The U.S. Census Bureau adopted 'differential privacy' for the 2020 census to bound that re-identification risk.",
+    "There's an unavoidable trade-off: more privacy protection means less precise data for small areas.",
+    "Census figures drive redistricting and funding, so how much 'noise' to add is a contested policy choice."
+  ],
+  "content_html": "\u003cp\u003eIt sounds strange that a statistical agency would put deliberately inexact numbers into its public tables — but that is exactly what modern privacy protection requires. When an agency publishes many overlapping statistics about the same population, someone can cross-reference them to deduce facts about specific individuals, even with no names attached. To prevent that, the U.S. Census Bureau adopted a method called \u0026quot;differential privacy\u0026quot; for the 2020 census: it injects a calibrated amount of mathematical \u0026quot;noise\u0026quot; into published figures so that no single person's data can be reliably reconstructed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch is an unavoidable trade-off. The more noise you add, the harder it is to re-identify anyone — but the less precise the numbers become, especially for small geographic areas and small population groups. Because census data is used to draw electoral districts and to distribute government funding, the question of how much protection to apply is not merely technical; it shapes political representation and resources. NPR reports a policy push to limit how aggressively the Census Bureau protects privacy this way, which analysts say could change what detailed data the bureau is able to release. The episode is a clear illustration of a tension that runs through all data-driven governance: privacy and statistical usefulness pull in opposite directions, and where to set the dial is ultimately a political decision.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Hansi Lo Wang"
+    ],
+    "url": "https://npr.org/2026/06/12/nx-s1-5855734/census-bureau-data-differential-privacy",
+    "published_at": "2026-06-12",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "technology-and-politics",
+    "public-policy-economy"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-15",
+  "date": "2026-06-12",
+  "related": [
+    {
+      "id": "card_cbef24",
+      "slug": "surveillance-and-privacy",
+      "type": "concept",
+      "title": "Surveillance \u0026 Privacy",
+      "hook": "Technology lets states and companies watch people at a scale once unimaginable — putting the old right to be left alone on a collision course with security and profit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_fd45b2#0",
+      "format": "flip",
+      "prompt": "Why does the Census Bureau deliberately add 'noise' to its published statistics?",
+      "back_html": "\u003cp\u003eBecause overlapping public statistics can be cross-referenced to\nre-identify individuals; calibrated noise (\u003cstrong\u003edifferential privacy\u003c/strong\u003e)\nbounds that risk.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fd45b2#1",
+      "format": "quiz",
+      "prompt": "What is the core trade-off in adding privacy 'noise' to census data?",
+      "choices": [
+        {
+          "text": "More privacy protection means less precise data, especially for small areas",
+          "correct": true
+        },
+        {
+          "text": "More noise makes the data both more private and more accurate",
+          "correct": false
+        },
+        {
+          "text": "Noise only affects national totals, never local figures",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePrivacy and statistical precision pull in opposite directions — stronger\nprotection blurs small-area figures.\u003c/p\u003e"
+    },
+    {
+      "id": "card_fd45b2#2",
+      "format": "quiz",
+      "prompt": "Why is the amount of census 'noise' a political question, not just a technical one?",
+      "choices": [
+        {
+          "text": "Census data drives redistricting and funding, so precision affects representation and resources",
+          "correct": true
+        },
+        {
+          "text": "Because voters choose the noise level directly on the ballot",
+          "correct": false
+        },
+        {
+          "text": "Because it determines the contents of the president's daily brief",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe figures allocate electoral districts and government money, so where the\nprivacy-accuracy dial is set has real stakes.\u003c/p\u003e"
+    }
+  ]
+}

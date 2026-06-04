@@ -1,0 +1,87 @@
+{
+  "id": "card_9882eb",
+  "slug": "openai-nyt-copyright-logs",
+  "type": "news",
+  "title": "OpenAI's Copyright Fight Takes a Turn Over Missing Logs",
+  "hook": "In its copyright fight with news organizations, OpenAI reportedly claimed it couldn't search its training data — while allegedly hiding and deleting billions of ChatGPT logs. That gap could cost it.",
+  "key_points": [
+    "Ars Technica reports OpenAI may face sanctions in its copyright fight with news organizations, including The New York Times.",
+    "OpenAI reportedly said it lacked the ability to search its training data for infringing content.",
+    "The report alleges OpenAI hid and deleted billions of ChatGPT logs relevant to the case.",
+    "Courts take data preservation seriously — hiding or destroying evidence can backfire on the party doing it."
+  ],
+  "content_html": "\u003cp\u003eThe copyright fight between AI companies and news organizations has mostly been about one question: is training an AI model on copyrighted articles legal? Ars Technica reports a new wrinkle in OpenAI's case against The New York Times and other publishers — allegations that could matter more than the original dispute.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to the report, OpenAI told the court it lacked the ability to search its own training data for content at issue in the case, while separately being accused of hiding and deleting billions of ChatGPT logs relevant to the lawsuit. Courts don't just weigh the substance of a claim; they also police how parties handle evidence during a case, and getting caught concealing or destroying it can lead to sanctions independent of who's actually right on the underlying copyright question. For a story about \u0026quot;who owns what AI makes,\u0026quot; this is a useful reminder that these fights are also just ordinary lawsuits — won or lost partly on conduct inside the courtroom, not only on the big philosophical questions outside it.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Ashley Belanger"
+    ],
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says",
+    "published_at": "2026-07-09",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-09",
+  "related": [
+    {
+      "id": "card_efe310",
+      "slug": "who-owns-ai-output",
+      "type": "concept",
+      "title": "Who Owns AI's Output?",
+      "hook": "You typed the prompt, the AI made the image — so who owns it? The law is genuinely unsettled, and the answer depends on where you are and how much was really you.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_05a983",
+      "slug": "ai-search-court-ruling",
+      "type": "news",
+      "title": "A Court Just Pushed Back on AI Search",
+      "hook": "A German court ruled against Google's AI Overviews — the AI summaries atop search results — in a decision that could reshape AI search and back publishers who don't want their work summarized away.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-10"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9882eb#0",
+      "format": "quiz",
+      "prompt": "What is OpenAI accused of doing in the copyright case, beyond the underlying training-data dispute?",
+      "choices": [
+        {
+          "text": "Hiding and deleting billions of ChatGPT logs relevant to the lawsuit",
+          "correct": true
+        },
+        {
+          "text": "Publishing every log publicly for anyone to review",
+          "correct": false
+        },
+        {
+          "text": "Refusing to release any AI models at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe new twist reported here isn't just about whether training on news content\nwas legal — it's an allegation that OpenAI mishandled evidence during the case.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9882eb#1",
+      "format": "flip",
+      "prompt": "Why could mishandling evidence hurt OpenAI more than the original copyright question?",
+      "back_html": "\u003cp\u003eCourts penalize hiding or destroying evidence on its own — a party can face\nsanctions for that conduct even separate from who ultimately wins the underlying claim.\u003c/p\u003e"
+    }
+  ]
+}

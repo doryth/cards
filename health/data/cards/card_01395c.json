@@ -1,0 +1,102 @@
+{
+  "id": "card_01395c",
+  "slug": "prolonged-sitting-cancer-risk",
+  "type": "news",
+  "title": "It's Not How Long You Sit — It's How Long Without Getting Up",
+  "hook": "Same total hours in a chair, different risk. Each extra hour of *unbroken* sitting tracked with a 9% higher risk of dying from cancer; swapping it for light activity, 12% lower.",
+  "key_points": [
+    "Long uninterrupted stretches of sitting looked riskier than the same total time split into shorter bouts.",
+    "Each extra hour of prolonged sedentary time was associated with a 9% higher risk of cancer death.",
+    "Replacing an hour of prolonged sitting with light activity was linked to a 12% lower risk.",
+    "Breaking sitting up with movement showed the opposite, protective pattern.",
+    "The actionable takeaway: interrupt the sitting, not just shorten the total."
+  ],
+  "content_html": "\u003cp\u003eYou can hit your step count and still spend the day in one long, unbroken sit — and that shape of the day appears to matter on its own. Researchers reported in coverage summarized by ScienceDaily that sitting in long, uninterrupted stretches carried greater health risk than sitting the same number of hours in shorter bouts, with each extra hour of prolonged sedentary behavior associated with a 9% higher risk of dying from cancer.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe encouraging half of the finding is the mirror image: breaking sitting up with movement showed the opposite pattern, and replacing an hour of prolonged sitting with \u003cstrong\u003elight\u003c/strong\u003e activity was linked to a 12% lower risk of cancer death. Light is the operative word — this isn't about adding a gym session, it's about not letting the chair run uninterrupted for hours.\u003c/p\u003e\n\u003cp\u003eThese are observational associations, so they show a pattern rather than proving that sitting causes the deaths — people who sit in long unbroken blocks differ in other ways too. But the practical advice it points to costs nothing and matches long-standing guidance to \u003ca href=\"https://www.who.int/news-room/questions-and-answers/item/physical-activity\"\u003emove more and sit less\u003c/a\u003e: set something that gets you up, and take the interruption when it comes.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/09/260901070548.htm",
+    "published_at": "2026-09-01",
+    "license": "ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "movement",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-09-03",
+  "date": "2026-09-01",
+  "related": [
+    {
+      "id": "card_e69256",
+      "slug": "move-more-sit-less",
+      "type": "concept",
+      "title": "Move More, Sit Less",
+      "hook": "Even if you hit the gym, hours of unbroken sitting carry their own health risk. Breaking up the day with movement matters as much as the workout.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_27852a",
+      "slug": "how-much-exercise-you-need",
+      "type": "concept",
+      "title": "How Much Exercise You Actually Need",
+      "hook": "The headline number is smaller than most people fear: about 150 minutes of moderate activity a week — roughly 20-some minutes a day — moves the needle on your health.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ffc29a",
+      "slug": "tv-time-and-brain-aging",
+      "type": "news",
+      "title": "Heavy TV in Midlife, Smaller Brain Later",
+      "hook": "A study of ~1,700 adults links lots of midlife TV to brain shrinkage decades on. The twist: sitting itself wasn't the villain — sitting at a mentally engaging job looked fine.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-21"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_01395c#0",
+      "format": "flip",
+      "prompt": "Two people sit eight hours a day. Why might their risk differ?",
+      "back_html": "\u003cp\u003eBecause of \u003cstrong\u003ehow the sitting is distributed\u003c/strong\u003e. The research found that long,\nuninterrupted stretches carried greater risk than the same total time broken into\nshorter bouts — the pattern matters, not just the tally.\u003c/p\u003e"
+    },
+    {
+      "id": "card_01395c#1",
+      "format": "quiz",
+      "prompt": "What was each extra hour of prolonged sedentary time associated with?",
+      "choices": [
+        {
+          "text": "A 9% higher risk of cancer death",
+          "correct": true
+        },
+        {
+          "text": "A 9% lower risk of cancer death",
+          "correct": false
+        },
+        {
+          "text": "No measurable change in cancer risk",
+          "correct": false
+        },
+        {
+          "text": "A 12% higher risk of cancer death",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEach extra hour of \u003cem\u003eprolonged\u003c/em\u003e sedentary behavior was linked to a \u003cstrong\u003e9% higher\u003c/strong\u003e risk of\ncancer death. The 12% figure runs the other way — that was the \u003cem\u003elower\u003c/em\u003e risk seen when an\nhour of prolonged sitting was replaced with light activity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_01395c#2",
+      "format": "flip",
+      "prompt": "What's the practical instruction this study points to?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eInterrupt the sitting.\u003c/strong\u003e Breaking up long stretches with movement showed the opposite,\nprotective pattern, and trading an hour of prolonged sitting for light activity was\nlinked to a 12% lower risk of cancer death — light counts, it doesn't have to be a workout.\u003c/p\u003e"
+    }
+  ]
+}

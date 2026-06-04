@@ -1,0 +1,115 @@
+{
+  "id": "card_32fc26",
+  "slug": "codeine-cyp2d6-metabolism",
+  "type": "concept",
+  "title": "The Same Painkiller Dose Can Do Nothing — Or Cause an Overdose",
+  "hook": "Codeine only relieves pain after your liver converts it into morphine. One gene decides whether that conversion barely happens, or happens so fast it can be fatal.",
+  "key_points": [
+    "Codeine itself doesn't relieve pain — the liver enzyme CYP2D6 converts it into morphine, which does.",
+    "People with two inactive copies of CYP2D6 ('poor metabolizers') get little pain relief from codeine.",
+    "People with extra active copies ('ultrarapid metabolizers') convert codeine to morphine so fast and completely that a normal dose can cause overdose symptoms — even death.",
+    "Nursing mothers who are ultrarapid metabolizers can pass dangerous morphine levels to their infants through breast milk.",
+    "The FDA label carries a boxed warning after deaths in children given codeine after tonsil surgery; guidelines recommend a different painkiller for ultrarapid metabolizers."
+  ],
+  "content_html": "\u003cp\u003eCodeine is one of the most widely prescribed painkillers — and it doesn't actually relieve pain on its own. Your liver has to convert it first, into morphine, using an enzyme called CYP2D6. How well that conversion works depends entirely on which version of the CYP2D6 gene you carry.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePeople with two inactive copies of CYP2D6 — \u0026quot;poor metabolizers\u0026quot; — barely convert codeine into morphine at all, so a normal dose often does little for their pain. At the other extreme, people with extra working copies of the gene — \u0026quot;ultrarapid metabolizers\u0026quot; — convert codeine into morphine so fast and so completely that even a standard, correctly-dosed prescription can produce morphine-overdose symptoms: extreme sleepiness, confusion, dangerously shallow breathing, and in rare cases, death. The risk isn't hypothetical: nursing mothers who are ultrarapid metabolizers can pass elevated morphine levels to their infants through breast milk, and the FDA's drug label carries a boxed warning after children who were ultrarapid metabolizers died of respiratory depression following tonsil or adenoid surgery. Clinical guidelines now recommend an alternative painkiller entirely for anyone known to be a CYP2D6 ultrarapid — or poor — metabolizer, rather than adjusting the codeine dose.\u003c/p\u003e",
+  "source": {
+    "name": "NCBI Medical Genetics Summaries",
+    "authors": [
+      "Laura Dean",
+      "Megan Kane"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28520350",
+    "published_at": "2026-07-06",
+    "license": "NCBI Bookshelf (open access)"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_817bf0",
+      "slug": "warfarin-pharmacogenomics",
+      "type": "concept",
+      "title": "Why One Drug Dose Doesn't Fit All",
+      "hook": "The blood thinner warfarin can need up to a 20-fold different dose from person to person — and about half of that swing is written into two of your genes.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "card_e37437",
+      "slug": "abacavir-hla-hypersensitivity",
+      "type": "concept",
+      "title": "The Gene Test That Prevents a Deadly Drug Reaction",
+      "hook": "One HIV drug can trigger a severe, sometimes fatal allergic reaction — but only in people carrying one specific immune gene variant. A simple DNA test now screens it out before treatment starts.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "card_2c3b3b",
+      "slug": "the-liver",
+      "type": "concept",
+      "title": "The Liver",
+      "hook": "The liver is the body's chemical plant — it filters toxins, makes bile, stores fuel, and runs hundreds of jobs no other organ can.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_32fc26#0",
+      "format": "flip",
+      "prompt": "Why doesn't codeine relieve pain directly?",
+      "back_html": "\u003cp\u003eCodeine is a \u003cstrong\u003eprodrug\u003c/strong\u003e — the liver enzyme \u003cstrong\u003eCYP2D6\u003c/strong\u003e must convert it into\nmorphine first. Morphine is what actually relieves the pain.\u003c/p\u003e"
+    },
+    {
+      "id": "card_32fc26#1",
+      "format": "quiz",
+      "prompt": "What happens to someone with two inactive copies of CYP2D6 ('poor metabolizers') who takes codeine?",
+      "choices": [
+        {
+          "text": "They convert little codeine to morphine, so pain relief is often inadequate",
+          "correct": true
+        },
+        {
+          "text": "They convert codeine to morphine unusually fast, risking overdose",
+          "correct": false
+        },
+        {
+          "text": "Codeine has no effect on them at all, positive or negative",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePoor metabolizers make little of the active morphine metabolite, so the drug\noften fails to control pain at normal doses.\u003c/p\u003e"
+    },
+    {
+      "id": "card_32fc26#2",
+      "format": "quiz",
+      "prompt": "Why is CYP2D6 'ultrarapid metabolizer' status especially dangerous, particularly in children?",
+      "choices": [
+        {
+          "text": "It converts codeine to morphine so fast and completely that even a normal dose can cause life-threatening respiratory depression",
+          "correct": true
+        },
+        {
+          "text": "It blocks codeine from working at all",
+          "correct": false
+        },
+        {
+          "text": "It only affects how codeine tastes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUltrarapid metabolizers produce unusually high morphine levels from a standard\ndose. This led to a boxed FDA warning after children who were ultrarapid\nmetabolizers died from respiratory depression following tonsillectomy.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "card_b37088",
+  "slug": "circular-motion",
+  "type": "concept",
+  "title": "Circular Motion Needs a Force Pulling Inward",
+  "hook": "Anything moving in a circle is accelerating, even at constant speed — so something must constantly pull it inward. There is no real outward force flinging you out.",
+  "key_points": [
+    "Moving in a circle constantly changes direction, which counts as acceleration.",
+    "That acceleration requires a net inward (centripetal) force toward the center.",
+    "The force can be gravity, tension, friction, or a wall pushing in.",
+    "There's no real centrifugal force; the outward feeling is inertia going straight."
+  ],
+  "content_html": "\u003cp\u003eWhen something moves in a circle, its direction is always changing — and a change in velocity is acceleration, even if the speed never changes. By Newton's second law, acceleration needs a force, so circular motion always requires a net force pointed toward the center of the circle. That inward force is called centripetal force.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe centripetal force isn't a new kind of force; it's whatever happens to be pulling inward in a given situation. For a ball on a string it's the tension; for a car rounding a bend it's friction between tires and road; for the Moon it's gravity. The familiar outward push you feel in a sharp turn is not a real force pulling you out — it's your own inertia trying to carry you in a straight line while the vehicle curves into you. Cut the string or hit a patch of ice, and the object flies off tangent to the circle, not radially outward. Wikipedia lays out the geometry and why \u0026quot;centrifugal force\u0026quot; is best understood as inertia.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Circular_motion",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "motion-forces"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d32c83",
+      "slug": "newtons-three-laws",
+      "type": "concept",
+      "title": "Newton's Three Laws of Motion",
+      "hook": "Three short rules — inertia, F=ma, and action-reaction — quietly govern almost everything that moves around you.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_d32c83",
+      "slug": "newtons-three-laws",
+      "type": "concept",
+      "title": "Newton's Three Laws of Motion",
+      "hook": "Three short rules — inertia, F=ma, and action-reaction — quietly govern almost everything that moves around you.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_b37088#0",
+      "format": "flip",
+      "prompt": "Why does an object moving at constant speed in a circle still accelerate?",
+      "back_html": "\u003cp\u003eBecause its \u003cstrong\u003edirection\u003c/strong\u003e is constantly changing, and any change in velocity —\nincluding direction — is acceleration. That demands a net inward force.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b37088#1",
+      "format": "quiz",
+      "prompt": "What keeps a car moving around a flat curve?",
+      "choices": [
+        {
+          "text": "Friction between the tires and road, pointing inward (centripetal)",
+          "correct": true
+        },
+        {
+          "text": "An outward centrifugal force pushing the car around",
+          "correct": false
+        },
+        {
+          "text": "The car's own inertia curving the path",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA centripetal force — here, tire friction pointing toward the center — bends\nthe car's path into a circle. On ice with no friction, it slides straight.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b37088#2",
+      "format": "quiz",
+      "prompt": "What is the 'centrifugal force' you feel pushed outward in a turning car?",
+      "choices": [
+        {
+          "text": "Not a real force — it's your inertia trying to keep going straight",
+          "correct": true
+        },
+        {
+          "text": "A real outward force created by the circular motion",
+          "correct": false
+        },
+        {
+          "text": "The reaction force from the centripetal force",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYour body wants to travel in a straight line; the car turns into you, so it\nfeels like you're flung outward. The only real force here points inward.\u003c/p\u003e"
+    }
+  ]
+}

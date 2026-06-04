@@ -1,0 +1,109 @@
+{
+  "id": "card_80bbc5",
+  "slug": "mutations",
+  "type": "concept",
+  "title": "Mutations: When DNA Changes",
+  "hook": "Every time a cell copies its DNA, tiny typos can slip in — most do nothing at all, a few cause disease, and rare ones fuel evolution.",
+  "key_points": [
+    "A mutation is a change in the sequence of DNA.",
+    "Causes include copying errors, radiation, and certain chemicals.",
+    "Most mutations are neutral — they fall in unused DNA or don't change the protein.",
+    "Some are harmful, a few are beneficial, and they're the raw material of evolution."
+  ],
+  "content_html": "\u003cp\u003eA mutation is simply a change in the sequence of DNA — a typo in the genetic code. They sound alarming, but they're constant and mostly harmless: cells copy billions of DNA letters, and the occasional error is inevitable. The vast majority go unnoticed, a small share cause problems, and a rare few turn out to be useful.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMutations arise from copying mistakes during cell division and from outside agents like ultraviolet radiation or certain chemicals. As the NIH's genetics glossary notes, most are \u003cstrong\u003eneutral\u003c/strong\u003e: they fall in DNA that isn't used, or they change a codon in a way that still specifies the same amino acid, leaving the protein unchanged. Some mutations are harmful and underlie genetic diseases, while a rare few are beneficial. Crucially, mutations are the original source of all genetic variation — without them, natural selection would have nothing to act on, and evolution couldn't happen.\u003c/p\u003e",
+  "source": {
+    "name": "NIH National Human Genome Research Institute",
+    "url": "https://www.genome.gov/genetics-glossary/Mutation",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_88ba5a",
+      "slug": "from-dna-to-protein",
+      "type": "concept",
+      "title": "From DNA to Protein: The Central Dogma",
+      "hook": "Your DNA is a recipe book locked in the nucleus — so the cell copies a single recipe to RNA, carries it out, and reads it to build a protein.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9fc450",
+      "slug": "crispr-gene-editing",
+      "type": "concept",
+      "title": "CRISPR: Molecular Scissors for DNA",
+      "hook": "Borrowed from a bacterial immune system, CRISPR lets scientists find a precise spot in the genome and cut it — turning gene editing into something almost routine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_80bbc5#0",
+      "format": "flip",
+      "prompt": "What is a mutation?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003echange in the DNA sequence\u003c/strong\u003e — anything from a single swapped base to a\nlarger rearrangement of the genetic code.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80bbc5#1",
+      "format": "quiz",
+      "prompt": "Why are most mutations neutral?",
+      "choices": [
+        {
+          "text": "They fall in unused DNA or don't change the resulting protein",
+          "correct": true
+        },
+        {
+          "text": "Cells delete every mutation immediately",
+          "correct": false
+        },
+        {
+          "text": "Mutations never affect proteins",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMany mutations land in stretches of DNA that aren't used, or change a codon in a\nway that still codes for the \u003cstrong\u003esame amino acid\u003c/strong\u003e, so the protein is unaffected.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80bbc5#2",
+      "format": "quiz",
+      "prompt": "What role do mutations play in evolution?",
+      "choices": [
+        {
+          "text": "They are the raw source of new genetic variation",
+          "correct": true
+        },
+        {
+          "text": "They always make organisms weaker",
+          "correct": false
+        },
+        {
+          "text": "They have no connection to evolution",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMutations create \u003cstrong\u003enew variation\u003c/strong\u003e. Natural selection then acts on it —\noccasionally a mutation is beneficial and spreads through a population.\u003c/p\u003e"
+    }
+  ]
+}

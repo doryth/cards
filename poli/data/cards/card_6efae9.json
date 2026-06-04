@@ -1,0 +1,111 @@
+{
+  "id": "card_6efae9",
+  "slug": "taxation-and-public-budgets",
+  "type": "concept",
+  "title": "Taxation \u0026 Public Budgets",
+  "hook": "A government's budget is its values written in numbers — and taxation is how it raises the money to act at all. Follow the money to understand the priorities.",
+  "key_points": [
+    "Taxation is how governments raise revenue to fund public spending.",
+    "A budget allocates that revenue, revealing real priorities better than speeches do.",
+    "Taxes can be progressive (higher rates on higher incomes) or regressive (heavier on lower incomes).",
+    "Deficits (spending above revenue) add to public debt, which must eventually be financed."
+  ],
+  "content_html": "\u003cp\u003eEvery government action costs money, so before it can do anything else a state must raise revenue — and taxation is the primary way it does so. Taxes take many forms: on income, on goods and services (like sales or value-added taxes), on property, on company profits, on imports. The other half of the story is the budget, the plan that decides how the collected money is spent across defense, health, education, infrastructure, and the rest. A budget is revealing precisely because it forces choices: a government that says one thing but funds another shows its real priorities in the numbers.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHow a tax system is structured carries political weight. A progressive tax takes a higher \u003cem\u003erate\u003c/em\u003e from those with higher incomes, on the principle of ability to pay; a regressive tax takes a larger share from those with less, as a flat charge on essentials often does in practice. Debates over fairness, growth, and the proper size of government turn heavily on this design. Encyclopaedia Britannica notes that taxation has always been politically charged — the link between taxing and consent (\u0026quot;no taxation without representation\u0026quot;) helped spark revolutions. Budgets also need not balance each year: when spending exceeds revenue, the result is a deficit, financed by borrowing that adds to the public debt. Debt lets governments invest or respond to crises now, but it must eventually be serviced, so the level and purpose of borrowing is itself a recurring political argument.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/taxation",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "public-policy-economy"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_58bb3e",
+      "slug": "public-goods-and-the-state",
+      "type": "concept",
+      "title": "Public Goods \u0026 the State",
+      "hook": "Some things markets struggle to provide — clean air, national defense, street lighting — because no one can be charged for them. That gap is a core reason states exist.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_63346f",
+      "slug": "the-legislature",
+      "type": "concept",
+      "title": "The Legislature",
+      "hook": "The branch that makes the law is also where a society argues out loud — the legislature turns competing interests into binding rules through debate and votes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6efae9#0",
+      "format": "flip",
+      "prompt": "Why is a government's budget often called its priorities made concrete?",
+      "back_html": "\u003cp\u003eBecause it \u003cstrong\u003eallocates real money\u003c/strong\u003e across competing goals — what a\ngovernment funds reveals what it actually values, more reliably than speeches.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6efae9#1",
+      "format": "quiz",
+      "prompt": "What makes a tax 'progressive'?",
+      "choices": [
+        {
+          "text": "It takes a higher rate from those with higher incomes",
+          "correct": true
+        },
+        {
+          "text": "It charges everyone the same flat fee",
+          "correct": false
+        },
+        {
+          "text": "It only applies to imported goods",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA progressive tax rises with ability to pay; a regressive one takes a\nlarger share from lower incomes.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6efae9#2",
+      "format": "quiz",
+      "prompt": "What is a budget deficit?",
+      "choices": [
+        {
+          "text": "Spending that exceeds revenue, adding to public debt",
+          "correct": true
+        },
+        {
+          "text": "Revenue that exceeds spending",
+          "correct": false
+        },
+        {
+          "text": "A tax that applies only to businesses",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen a government spends more than it raises, the gap is a deficit, which\naccumulates as debt that must eventually be financed.\u003c/p\u003e"
+    }
+  ]
+}

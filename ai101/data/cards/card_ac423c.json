@@ -1,0 +1,121 @@
+{
+  "id": "card_ac423c",
+  "slug": "ai-agents-explained",
+  "type": "concept",
+  "title": "AI Agents: AI That Does Things",
+  "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+  "key_points": [
+    "An agent doesn't just reply — it takes actions: searching, filling forms, using apps.",
+    "It chains steps together to finish a goal, not just answer one question.",
+    "More power means more risk: a wrong step now does something, not just says something.",
+    "Keep a human in the loop and limit what an agent is allowed to touch."
+  ],
+  "content_html": "\u003cp\u003eFor its first couple of years, mainstream AI mostly \u003cem\u003etalked\u003c/em\u003e: you asked, it answered, and what you did with the answer was up to you. The big shift now underway is toward \u003cstrong\u003eagents\u003c/strong\u003e — AI that doesn't just respond but \u003cem\u003eacts\u003c/em\u003e. Instead of telling you how to book a flight, an agent can open a browser, search the options, fill in the form, and complete the booking. It breaks a goal into steps, takes each one, checks the result, and keeps going until the task is done.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis is genuinely powerful, and it's where a lot of the industry is heading: assistants that handle errands, manage your calendar, do research and produce a finished document, or operate software on your behalf. But notice what changes when AI can act rather than just speak — the stakes of its mistakes go up sharply. A hallucination in a chatbot wastes a minute; a wrong move by an agent might send the wrong email, buy the wrong thing, or delete a file. Agents can also be tricked into harmful actions through manipulated content they encounter while working. So the safety mindset matters more, not less: keep a human in the loop to approve consequential steps, limit what an agent is allowed to access (your money, your accounts, your files), and start with low-stakes tasks. Agents are likely the next big leap in everyday AI — useful to understand now, and to adopt with your eyes open.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-agents"
+  ],
+  "tags": [
+    "agent",
+    "generative"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a0dcb3",
+      "slug": "ai-at-work",
+      "type": "concept",
+      "title": "AI at Work",
+      "hook": "The biggest everyday payoff from AI is at work: drafting the email, summarizing the meeting, untangling the spreadsheet formula. The trick is using it without leaking secrets or trust.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eb9c92",
+      "slug": "over-relying-on-ai",
+      "type": "concept",
+      "title": "Over-Relying on AI",
+      "hook": "The subtle risk isn't that AI fails — it's that it usually works, so you stop checking. Trusting a confident machine over your own judgment is its own kind of mistake.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6e744d",
+      "slug": "meta-ai-agent-hijacked",
+      "type": "news",
+      "title": "Hackers Talked Meta's AI Into Handing Over Accounts",
+      "hook": "Attackers stole Instagram accounts not by cracking passwords, but by asking Meta's support AI to relink them — proof that an AI agent with real permissions can be talked into real harm.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_71b26d",
+      "slug": "deepmind-multi-agent-risk",
+      "type": "news",
+      "title": "What If Millions of AI Agents Start Talking to Each Other?",
+      "hook": "Google DeepMind is funding research into a problem barely here yet: not one AI agent misbehaving, but millions of them interacting online with no human watching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-11"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_ac423c#0",
+      "format": "quiz",
+      "prompt": "What's the difference between a chatbot and an AI agent?",
+      "choices": [
+        {
+          "text": "A chatbot answers; an agent takes actions to complete a task",
+          "correct": true
+        },
+        {
+          "text": "Nothing — they're two words for the same thing",
+          "correct": false
+        },
+        {
+          "text": "An agent is just a faster chatbot",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn agent goes beyond replying: it can browse, click, fill forms, and chain\nmultiple steps to actually get something done on your behalf.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ac423c#1",
+      "format": "flip",
+      "prompt": "Why do AI agents need tighter guardrails than chatbots?",
+      "back_html": "\u003cp\u003eBecause a mistake now \u003cem\u003edoes\u003c/em\u003e something in the real world — books, buys,\nsends — instead of just printing wrong text. Keep a human approving key steps.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "card_7fbbeb",
+  "slug": "journalism-and-federal-policy-change",
+  "type": "news",
+  "title": "From Local Investigation to Federal Policy, in Two Months",
+  "hook": "A local newsroom's investigation found California let dozens of teachers accused of sexual misconduct keep working. The federal government cited it directly when it acted.",
+  "key_points": [
+    "A free press's 'watchdog' role isn't just abstract — it can trace a direct line from a specific investigation to a specific policy change.",
+    "KQED and ProPublica reported that California's teacher-licensing agency failed to revoke credentials for at least 67 educators school districts had found committed sexual misconduct, and that at least 14 were later rehired elsewhere.",
+    "In July 2026, the U.S. Education Secretary cited that reporting directly when issuing guidance threatening to withhold federal funding from schools that fail to protect students.",
+    "The federal response also opened investigations into 20 school districts nationwide, including two in California — beyond the original story's scope.",
+    "It's a clear example of how investigative journalism can convert a state-level failure into a national policy response, rather than persuasion alone shaping opinion over time."
+  ],
+  "content_html": "\u003cp\u003eThe \u0026quot;watchdog\u0026quot; role of a free press is often described in the abstract — informing voters, deterring abuse just by the threat of exposure. Sometimes, though, the line from a specific investigation to a specific policy response is short and direct.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eKQED and ProPublica reported that California's teacher-licensing agency had failed to revoke credentials for at least 67 educators whom school districts determined had committed sexual misconduct against students, and that at least 14 of them were later rehired at other schools. In July 2026, ProPublica's Tracy Jan and Holly McDede reported that U.S. Education Secretary Linda McMahon cited that reporting directly when issuing new federal guidance — threatening to withhold funding from schools that fail to protect students from being \u0026quot;passed the trash\u0026quot; to another district — and opened investigations into 20 school districts nationwide, including two in California, well beyond the original story's scope. The case is a clean illustration of the press's watchdog function actually working end to end: a local investigation surfaced a specific failure, and a federal official cited it by name in building a national policy response. (This card describes a specific U.S. case; the general watchdog mechanism recurs across democracies with a free press.)\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Tracy Jan",
+      "Holly McDede"
+    ],
+    "url": "https://propublica.org/article/trump-teacher-sexual-misconduct-crackdown-linda-mcmahon",
+    "published_at": "2026-07-14",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "media-civil-society"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_b3bd44",
+      "slug": "free-press-and-democracy",
+      "type": "concept",
+      "title": "The Free Press \u0026 Democracy",
+      "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_b3bd44",
+      "slug": "free-press-and-democracy",
+      "type": "concept",
+      "title": "The Free Press \u0026 Democracy",
+      "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_7fbbeb#0",
+      "format": "flip",
+      "prompt": "What did the original KQED-ProPublica investigation find?",
+      "back_html": "\u003cp\u003eThat California's teacher-licensing agency failed to revoke credentials\nfor at least 67 educators found by districts to have committed sexual\nmisconduct — and that at least 14 were later rehired elsewhere.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7fbbeb#1",
+      "format": "quiz",
+      "prompt": "How did the federal government respond to the investigation in July 2026?",
+      "choices": [
+        {
+          "text": "The Education Secretary cited the reporting directly when issuing guidance threatening to withhold federal funding from schools that fail to protect students",
+          "correct": true
+        },
+        {
+          "text": "It ignored the reporting entirely",
+          "correct": false
+        },
+        {
+          "text": "It only responded within California, with no federal action",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe response explicitly referenced the outlets' findings and expanded\nwell beyond California, opening investigations into 20 districts\nnationwide.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7fbbeb#2",
+      "format": "quiz",
+      "prompt": "What does this case illustrate about the press's 'watchdog' role?",
+      "choices": [
+        {
+          "text": "Investigative reporting can trigger a concrete, traceable policy response, not just shape opinion diffusely",
+          "correct": true
+        },
+        {
+          "text": "Journalism has no measurable effect on government policy",
+          "correct": false
+        },
+        {
+          "text": "Only investigations by national outlets, never local ones, can influence policy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA local investigation (KQED, with ProPublica) here led directly to a\nspecific federal action — a clean, traceable case of the watchdog\nfunction working as intended.\u003c/p\u003e"
+    }
+  ]
+}

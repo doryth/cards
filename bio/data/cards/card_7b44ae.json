@@ -1,0 +1,106 @@
+{
+  "id": "card_7b44ae",
+  "slug": "pestwin-gene-drive-digital-twin",
+  "type": "paper",
+  "title": "A Digital Twin for Testing Mosquito Gene Drives Before They're Released",
+  "hook": "Before releasing a genetically engineered mosquito into the wild, scientists can now test the release strategy inside a validated computer simulation first.",
+  "key_points": [
+    "PesTwin is an agent-based simulator for genetic pest-control technologies — sterile insect technique, Wolbachia, and gene drives — used against crop pests and disease-carrying insects.",
+    "It models messy real-world details: random population swings, each species' life history, uneven dispersal, and shifting resources.",
+    "Validated against lab cage data from four real genetic-control systems across two insect species, matching not just outcomes but replicate-to-replicate variability.",
+    "Once validated, the same models scale up to field-sized landscapes — testing release timing, density, and placement before a single insect is released.",
+    "Goal: let researchers compare strategies and predict regulatory questions in silico, shortening the path from lab construct to real deployment."
+  ],
+  "content_html": "\u003cp\u003eGenetic pest control — releasing engineered insects that can't reproduce, or that spread a gene drive through a wild population — is one of the most powerful tools in biotech for fighting crop pests and disease-carrying mosquitoes. It's also hard to predict: release too few sterile males, or in the wrong place, and a control program fails quietly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers built PesTwin, an agent-based simulation framework that models how genetic control technologies — from the classic sterile insect technique to Wolbachia-based suppression to modern gene drives — actually spread through a population. It accounts for the real-world mess simpler models ignore: random swings in population size, each species' particular life history, how far individuals disperse, and how resources shift over time. Crucially, the team validated PesTwin against real laboratory cage data from four genetic-control systems in two insect species, and it reproduced not just the average outcome but the replicate-to-replicate variability — a much higher bar than most models clear. With that validation in hand, the same models scale up to field-sized landscapes, letting researchers test how the timing, density, and placement of releases affect success before anyone releases a single modified insect into the wild.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Andrea De Antoni",
+      "Giovanni Iacca",
+      "Andrea Pugliese",
+      "Anna Strampelli",
+      "Gerard Terradas",
+      "Matteo Rucco",
+      "Andrew Hammond"
+    ],
+    "url": "https://arxiv.org/abs/2607.09420",
+    "published_at": "2026-07-10",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "biotechnology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_9fc450",
+      "slug": "crispr-gene-editing",
+      "type": "concept",
+      "title": "CRISPR: Molecular Scissors for DNA",
+      "hook": "Borrowed from a bacterial immune system, CRISPR lets scientists find a precise spot in the genome and cut it — turning gene editing into something almost routine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_022270",
+      "slug": "gene-edited-crop-nutrition",
+      "type": "news",
+      "title": "Editing Lettuce to Order",
+      "hook": "Scientists switched off the gene for red pigment in lettuce — and instead of just losing color, the plant rerouted its chemistry to pile up other healthy compounds.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-15"
+    },
+    {
+      "id": "card_ba0985",
+      "slug": "what-is-biotechnology",
+      "type": "concept",
+      "title": "What Is Biotechnology?",
+      "hook": "From cheese and beer to insulin and vaccines, biotechnology puts living things — or their molecular parts — to work making products we need.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7b44ae#0",
+      "format": "flip",
+      "prompt": "What real-world complications does PesTwin's simulation account for that simpler models often ignore?",
+      "back_html": "\u003cp\u003eRandom swings in population size, each species' specific life history, uneven\ndispersal across a landscape, and resources or infestation pressure that\nchange over time.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7b44ae#1",
+      "format": "quiz",
+      "prompt": "Why does it matter that PesTwin was validated against replicate-to-replicate variability, not just average outcomes?",
+      "choices": [
+        {
+          "text": "It shows the model captures the natural randomness of real biological experiments, not just their averages",
+          "correct": true
+        },
+        {
+          "text": "It proves the simulation eliminates all randomness from genetic control",
+          "correct": false
+        },
+        {
+          "text": "It means the model only works for a single insect species",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMatching averages is easy; matching how much replicate cages actually varied\nfrom each other is a much higher bar — and PesTwin cleared it against real\nlab data from four systems in two species.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7b44ae#2",
+      "format": "flip",
+      "prompt": "What's the practical payoff of testing a genetic control strategy in PesTwin before a real release?",
+      "back_html": "\u003cp\u003eResearchers can compare release timing, density, and placement in silico\nfirst — informing which designs to prioritize before committing to an actual\nfield release.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "card_3dea3c",
+  "slug": "merging-clusters-probe-dark-matter",
+  "type": "paper",
+  "title": "Cluster Collisions as Dark Matter Labs",
+  "hook": "Smash two galaxy clusters together and the gas gets stuck while the dark matter sails through. How far it sails is a direct measurement of whether dark matter interacts with itself.",
+  "key_points": [
+    "In a high-speed cluster collision, the X-ray-emitting intracluster gas is collisional and gets held up; dark matter and stars pass through.",
+    "That separation is what makes merging clusters a macroscopic laboratory for the dark sector.",
+    "The key question they probe: is dark matter strictly collisionless, or does it have nonzero self-interaction?",
+    "The Bullet Cluster demonstrated the effect; the field has since become a multi-method discipline.",
+    "Modern analyses combine gravitational lensing maps, multi-wavelength X-ray observations, and N-body hydrodynamical simulations.",
+    "The translation from spatial offsets to particle-level constraints is the hard part — and using ensembles of mergers rather than single systems is the way forward."
+  ],
+  "content_html": "\u003cp\u003eDark matter is defined by what it doesn't do — it doesn't emit light and it barely interacts with anything. That makes it hard to study in a detector, but easy to study in a collision, because \u0026quot;barely interacts\u0026quot; has an observable consequence. When two galaxy clusters slam into each other at thousands of kilometres per second, the hot X-ray-emitting gas between the galaxies behaves like a fluid: it shocks, it piles up, it lags. The dark matter, along with the galaxies themselves, keeps going. Look at the aftermath and the mass and the gas are in different places.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat was the Bullet Cluster's famous result, and Rogério Monteiro-Oliveira's review traces how the observation became a discipline. The physics being tested is sharp: if dark matter were self-interacting rather than strictly collisionless, it too would have been slowed, and the separation between mass and gas would be smaller. So the offset is a measurement of a microscopic particle property using a structure millions of light years across.\u003c/p\u003e\n\u003cp\u003eGetting from one to the other is the difficult part, and the review is largely about method. Current work combines gravitational lensing to map where the mass is, multi-wavelength observations to map where the gas is, and high-fidelity N-body hydrodynamical simulations to work out what collision geometry and timing could have produced what is seen. Since a single merger's history is always underdetermined, the argument is for ensembles: many mergers, different configurations, constraints that survive the variation.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Rogério Monteiro-Oliveira"
+    ],
+    "url": "https://arxiv.org/abs/2608.16987",
+    "published_at": "2026-08-17",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_007ce6",
+      "slug": "two-species-dark-matter-theory",
+      "type": "news",
+      "title": "What If Dark Matter Comes in Two Flavors?",
+      "hook": "A single, simple particle can't explain everything odd about dark matter. A new model splits it into two — a heavy kind and a light kind — that quietly sort themselves over cosmic time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_7e2fda",
+      "slug": "dark-matter-neutrino-scattering-constrained",
+      "type": "paper",
+      "title": "Ancient Quasar Light Just Ruled Out a Dark Matter Idea",
+      "hook": "Light from distant quasars, filtered through hydrogen gas, just delivered the tightest-ever limit on whether dark matter secretly bumps into neutrinos — ruling out earlier hints that it might.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-16"
+    },
+    {
+      "id": "card_cb7f47",
+      "slug": "milky-way-gamma-ray-glow-dark-matter",
+      "type": "news",
+      "title": "The Milky Way's Mystery Glow Might Really Be Dark Matter",
+      "hook": "A gamma-ray haze at the galaxy's center has split scientists for years between 'hidden neutron stars' and 'dark matter.' Machine learning just tipped the scales.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-30"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3dea3c#0",
+      "format": "quiz",
+      "prompt": "In a galaxy cluster collision, why do the gas and the dark matter end up in different places?",
+      "choices": [
+        {
+          "text": "The gas is collisional and gets held up, while dark matter and stars pass through",
+          "correct": true
+        },
+        {
+          "text": "The dark matter is heavier, so it decelerates faster",
+          "correct": false
+        },
+        {
+          "text": "The gas is blown away by the collision's radiation pressure",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe X-ray-emitting intracluster gas interacts with itself and lags behind. Dark matter,\nbeing at most weakly self-interacting, sails onward — and the offset is the signal.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3dea3c#1",
+      "format": "flip",
+      "prompt": "What property of dark matter do merging clusters test?",
+      "back_html": "\u003cp\u003eWhether dark matter is \u003cstrong\u003estrictly collisionless\u003c/strong\u003e or has \u003cstrong\u003enonzero self-interaction\u003c/strong\u003e.\nSelf-interacting dark matter would lag behind, shrinking the offset from the gas.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3dea3c#2",
+      "format": "flip",
+      "prompt": "Which three methods are combined in modern merger analyses?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eGravitational lensing\u003c/strong\u003e to map the mass, \u003cstrong\u003eX-ray observations\u003c/strong\u003e to map the hot gas, and\n\u003cstrong\u003eN-body hydrodynamical simulations\u003c/strong\u003e to interpret the geometry.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3dea3c#3",
+      "format": "quiz",
+      "prompt": "Why does the review argue for using ensembles of mergers rather than individual famous systems?",
+      "choices": [
+        {
+          "text": "Heterogeneous ensembles make the translation to microscopic dark-matter properties more reliable",
+          "correct": true
+        },
+        {
+          "text": "Individual clusters are too faint to observe well",
+          "correct": false
+        },
+        {
+          "text": "Only ensembles can be simulated at sufficient resolution",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAny single merger has an uncertain collision geometry and history. Leveraging many\nmergers with different configurations is how the field aims to get robust constraints.\u003c/p\u003e"
+    }
+  ]
+}

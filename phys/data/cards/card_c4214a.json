@@ -1,0 +1,113 @@
+{
+  "id": "card_c4214a",
+  "slug": "sun-silver-abundance",
+  "type": "news",
+  "title": "The Sun Holds 55% More Silver Than We Thought",
+  "hook": "Recount the silver in the Sun with a better model of its atmosphere and the number jumps by 55% — landing right where ancient meteorites said it should be.",
+  "key_points": [
+    "We read the Sun's chemical makeup from absorption lines in its light, not from samples.",
+    "Turning those lines into abundances requires a model of the solar atmosphere.",
+    "A more advanced atmospheric model raised the calculated silver abundance by 55%.",
+    "The new value agrees far better with the silver measured in ancient meteorites.",
+    "The same technique should help trace where silver and other heavy elements are forged."
+  ],
+  "content_html": "\u003cp\u003eNobody has ever scooped up a sample of the Sun. Everything we know about what it's made of comes from reading dark absorption lines in sunlight — and converting those lines into actual amounts requires a model of the churning, turbulent gas they formed in. Swap in a better model and the answer can move. A new analysis reported by ScienceDaily did exactly that for silver, and the Sun's silver content jumped by 55 percent.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe revision matters because it settles a disagreement. Meteorites are pristine leftovers from the solar system's formation, so their composition should broadly match the Sun's — yet the old solar silver figure sat awkwardly below what meteorites showed. The upgraded atmospheric model brings the two into much closer agreement, which is the sort of consistency check that makes astronomers trust a number. Beyond silver itself, the researchers note the technique should help track the cosmic origins of silver and other heavy elements, since the Sun is the reference point against which the chemistry of other stars is measured.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260723084049.htm",
+    "published_at": "2026-07-24",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_3bf1e2",
+      "slug": "what-powers-the-sun",
+      "type": "concept",
+      "title": "What Powers the Sun",
+      "hook": "The Sun isn't burning like a fire — it's fusing hydrogen into helium in its core, and a sliver of mass turning into pure energy is what lights up our sky.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2b3958",
+      "slug": "ai-model-neutron-star-nucleosynthesis",
+      "type": "news",
+      "title": "An AI Shortcut for How Star Mergers Forge Heavy Elements",
+      "hook": "Simulating how neutron star collisions forge gold and other heavy elements normally needs a huge nuclear calculation at every step. A neural network now approximates it almost for free.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-08"
+    },
+    {
+      "id": "card_0697df",
+      "slug": "lab-made-cosmic-dust",
+      "type": "news",
+      "title": "A tiny universe in a bottle reveals clues to the origins of life",
+      "hook": "Researchers grew real cosmic dust from scratch in a glass tube, recreating space's harsh conditions to study how life's raw ingredients might form and hitch a ride on comets.",
+      "importance": 2,
+      "difficulty": "core",
+      "date": "2026-07-19"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c4214a#0",
+      "format": "quiz",
+      "prompt": "Why did the Sun's silver abundance change without any new observations?",
+      "choices": [
+        {
+          "text": "A more advanced model of the solar atmosphere was used to interpret the same spectral lines",
+          "correct": true
+        },
+        {
+          "text": "A spacecraft returned the first physical sample of solar material",
+          "correct": false
+        },
+        {
+          "text": "Silver was newly discovered in the Sun for the first time",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAbundances are inferred from absorption lines, and that inference depends on the atmospheric\nmodel. Improving the model raised the calculated silver content by 55%.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c4214a#1",
+      "format": "flip",
+      "prompt": "What independent check supports the new, higher solar silver value?",
+      "back_html": "\u003cp\u003eAncient \u003cstrong\u003emeteorites\u003c/strong\u003e — leftovers from the birth of the solar system. The revised solar number\nagrees with them far more closely than the old estimate did.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c4214a#2",
+      "format": "quiz",
+      "prompt": "Why do astronomers care about pinning down the Sun's heavy-element abundances?",
+      "choices": [
+        {
+          "text": "They serve as a reference for tracing where heavy elements are forged in the cosmos",
+          "correct": true
+        },
+        {
+          "text": "They determine how much hydrogen the Sun can still fuse",
+          "correct": false
+        },
+        {
+          "text": "They set the Sun's surface temperature",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Sun is the yardstick for cosmic chemistry, so a corrected silver abundance feeds directly\ninto work on the origins of silver and other heavy elements.\u003c/p\u003e"
+    }
+  ]
+}

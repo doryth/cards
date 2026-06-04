@@ -1,0 +1,121 @@
+{
+  "id": "card_58bb3e",
+  "slug": "public-goods-and-the-state",
+  "type": "concept",
+  "title": "Public Goods \u0026 the State",
+  "hook": "Some things markets struggle to provide — clean air, national defense, street lighting — because no one can be charged for them. That gap is a core reason states exist.",
+  "key_points": [
+    "A public good is non-excludable (hard to charge for) and non-rival (one person's use doesn't reduce another's).",
+    "Markets tend to under-provide them because of the 'free-rider' problem.",
+    "Examples: national defense, clean air, public health, basic research, street lighting.",
+    "This 'market failure' is a classic economic justification for government provision."
+  ],
+  "content_html": "\u003cp\u003eMarkets are good at providing many things, but they systematically struggle with a particular category economists call public goods. A public good has two defining features. It is non-excludable: once it exists, it is hard or impossible to stop people who didn't pay from enjoying it — you cannot easily withhold national defense or clean air from a single non-payer. And it is non-rival: one person benefiting doesn't use it up for others — your enjoyment of street lighting doesn't dim it for your neighbor.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThese features create the \u0026quot;free-rider problem.\u0026quot; If people can benefit whether or not they pay, each individual has an incentive to let others foot the bill — and if everyone reasons that way, the good is under-produced or never produced at all, even though society would gladly pay for it collectively. A private company cannot easily profit from something it can't charge people to use. Encyclopaedia Britannica notes this is a classic case of \u0026quot;market failure\u0026quot;: a situation where free markets, left alone, don't deliver an efficient or adequate outcome. It is one of the oldest and least ideologically loaded justifications for government: the state can fund public goods through taxation that everyone contributes to, solving the collective-action problem markets cannot. Defense, public health, basic scientific research, clean air, and the legal system itself are often cited examples — which is part of why even thinkers skeptical of large government usually accept a core role for the state here.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/public-good-economics",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "public-policy-economy"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a6a2f1",
+      "slug": "what-is-public-policy",
+      "type": "concept",
+      "title": "What Public Policy Is",
+      "hook": "Passing a law is just the start. Public policy is the whole arc — from defining a problem to actually delivering a solution and seeing whether it worked.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6efae9",
+      "slug": "taxation-and-public-budgets",
+      "type": "concept",
+      "title": "Taxation \u0026 Public Budgets",
+      "hook": "A government's budget is its values written in numbers — and taxation is how it raises the money to act at all. Follow the money to understand the priorities.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7322d2",
+      "slug": "what-is-government",
+      "type": "concept",
+      "title": "What Government Is For",
+      "hook": "Every society needs a way to make and enforce collective decisions — that shared system of authority is what we call government.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3fb211",
+      "slug": "tragedy-of-the-commons",
+      "type": "concept",
+      "title": "The Tragedy of the Commons",
+      "hook": "When everyone shares a resource but no one owns it, each person's rational choice can add up to collective ruin. That trap explains a huge slice of environmental politics.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_58bb3e#0",
+      "format": "flip",
+      "prompt": "What two features define a 'public good' in economics?",
+      "back_html": "\u003cp\u003eIt is \u003cstrong\u003enon-excludable\u003c/strong\u003e (hard to stop non-payers using it) and\n\u003cstrong\u003enon-rival\u003c/strong\u003e (one person's use doesn't diminish another's).\u003c/p\u003e"
+    },
+    {
+      "id": "card_58bb3e#1",
+      "format": "quiz",
+      "prompt": "What is the 'free-rider problem'?",
+      "choices": [
+        {
+          "text": "People can enjoy a good without paying, so markets under-provide it",
+          "correct": true
+        },
+        {
+          "text": "Public transport that is always free to use",
+          "correct": false
+        },
+        {
+          "text": "A rule that bans charging for any service",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIf no one can be excluded, individuals have little incentive to pay, so\nprivate provision falls short of what society needs.\u003c/p\u003e"
+    },
+    {
+      "id": "card_58bb3e#2",
+      "format": "quiz",
+      "prompt": "Why is the existence of public goods used to justify government action?",
+      "choices": [
+        {
+          "text": "It is a 'market failure' — the state can provide what markets under-supply",
+          "correct": true
+        },
+        {
+          "text": "Because markets always provide too much of everything",
+          "correct": false
+        },
+        {
+          "text": "Because public goods are illegal to sell",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen markets predictably under-provide essential goods, collective\nprovision funded by taxation is a standard economic rationale for the state.\u003c/p\u003e"
+    }
+  ]
+}

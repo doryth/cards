@@ -1,0 +1,101 @@
+{
+  "id": "card_3ad16a",
+  "slug": "states-of-matter",
+  "type": "concept",
+  "title": "States of Matter",
+  "hook": "Solid, liquid, gas, plasma — the difference is how tightly particles are bound. Add heat and matter changes state, but during the change the temperature holds still.",
+  "key_points": [
+    "Solid, liquid, gas, and plasma differ in how tightly particles bind and how freely they move.",
+    "Adding or removing heat drives phase changes: melting, boiling, freezing.",
+    "During a phase change the temperature stays steady — heat goes into breaking or forming bonds.",
+    "That latent heat is why boiling water holds near 100 C until it's all steam."
+  ],
+  "content_html": "\u003cp\u003eMost matter shows up as a solid, a liquid, or a gas — and there's a fourth common state, plasma, where the gas is so hot its particles tear apart into charged pieces. What separates them is simple: how tightly the particles are locked together and how freely they roam. In a solid they're held in fixed positions; in a liquid they slide past one another; in a gas they fly apart and fill whatever space they're given.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMove between states by adding or removing heat — melting, boiling, freezing, condensing. Here's the surprising part: while a substance is actually changing state, its temperature doesn't budge. The energy you pour in goes entirely into breaking the bonds that hold particles together, not into making them move faster. That hidden energy is called latent heat, and it's why a pot of boiling water sits stubbornly near 100 C until the last of it has turned to steam. Wikipedia's article on states of matter covers the states and the energetics of changing between them.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/State_of_matter",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "heat-thermo"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_eff6e4",
+      "slug": "heat-vs-temperature",
+      "type": "concept",
+      "title": "Heat vs. Temperature",
+      "hook": "A sparkler can hit thousands of degrees yet barely burn you — because temperature and heat are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_52d8f2",
+      "slug": "heat-transfer",
+      "type": "concept",
+      "title": "Three Ways Heat Moves",
+      "hook": "Heat travels three ways: conduction through contact, convection by circulating fluid, and radiation across empty space. Most warming you feel mixes all three.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3ad16a#0",
+      "format": "flip",
+      "prompt": "What basically distinguishes a solid, a liquid, and a gas?",
+      "back_html": "\u003cp\u003eHow \u003cstrong\u003etightly the particles are bound\u003c/strong\u003e and \u003cstrong\u003ehow freely they move\u003c/strong\u003e: rigidly\nheld in a solid, loosely flowing in a liquid, and spread far apart and free\nin a gas.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3ad16a#1",
+      "format": "quiz",
+      "prompt": "Why does the temperature of boiling water stay near 100 C even as you keep heating it?",
+      "choices": [
+        {
+          "text": "The added heat goes into breaking bonds (latent heat), not raising temperature",
+          "correct": true
+        },
+        {
+          "text": "Water cannot get any hotter than 100 C under any conditions",
+          "correct": false
+        },
+        {
+          "text": "The stove automatically stops adding heat",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDuring the liquid-to-gas change, incoming energy is spent pulling molecules\napart rather than speeding them up, so the temperature holds steady.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3ad16a#2",
+      "format": "quiz",
+      "prompt": "What drives a substance to change from one state to another?",
+      "choices": [
+        {
+          "text": "Adding or removing heat",
+          "correct": true
+        },
+        {
+          "text": "Stirring it faster",
+          "correct": false
+        },
+        {
+          "text": "Changing its color",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAdding heat melts or boils a substance; removing heat freezes or condenses\nit — phase changes are driven by gaining or losing energy.\u003c/p\u003e"
+    }
+  ]
+}

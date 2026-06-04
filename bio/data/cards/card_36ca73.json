@@ -1,0 +1,108 @@
+{
+  "id": "card_36ca73",
+  "slug": "cyclospora-parasite-outbreak",
+  "type": "news",
+  "title": "A Foodborne Parasite Outbreak Has Grown to Thousands of Cases",
+  "hook": "A microscopic parasite that spreads through contaminated produce has now reached 1,645 confirmed cases across the U.S. — with over 5,100 more pending and the source still unconfirmed.",
+  "key_points": [
+    "Cyclospora is a microscopic, spherical parasite that infects the bowels and spreads through fecal contamination, typically via fruits or vegetables exposed to contaminated irrigation water.",
+    "The outbreak has grown to 1,645 lab-confirmed U.S. cases, with over 5,100 additional cases still pending analysis.",
+    "Michigan is one of four states suspected to be part of a major shared cluster; officials have tentatively flagged lettuce or salad greens, and Taco Bell is under investigation.",
+    "Symptoms can take up to two weeks to appear after exposure, which badly complicates tracing a contaminated batch back to its source.",
+    "Outbreaks like this are most common in late spring and summer, when the parasite thrives and fresh produce is in heavy circulation.",
+    "The CDC now plans to provide outbreak updates at least weekly, and recommends rinsing and cooking fresh produce as a precaution."
+  ],
+  "content_html": "\u003cp\u003eA parasite most people have never heard of has quietly become one of the larger foodborne outbreaks in recent U.S. history, and it keeps growing. Cyclospora, a microscopic, spherical parasite that infects the bowels, has now reached 1,645 lab-confirmed cases in the U.S., with more than 5,100 additional cases still pending analysis.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eCyclospora typically spreads through fruits or vegetables exposed to feces-contaminated irrigation water. Michigan is one of four states now suspected to be part of a shared cluster, and state officials have tentatively pointed to lettuce or salad greens as a possible source, with Taco Bell under investigation — though federal health officials still haven't confirmed exactly what produce or supplier is responsible. Part of the difficulty is timing: symptoms can take up to two weeks to appear after exposure, which badly complicates tracing a contaminated batch back to its source. The illness itself causes watery, sometimes explosive diarrhea that can drag on for weeks, though it's treatable with antibiotics and rarely life-threatening. In response to the outbreak's continued growth, the CDC says it will now provide updates at least weekly, and in the meantime, officials recommend rinsing and cooking fresh produce before eating it. As before, there's no evidence the parasite itself has evolved to become more infectious — this remains a story about contaminated produce, not a more dangerous microbe.\u003c/p\u003e",
+  "source": {
+    "name": "STAT",
+    "url": "https://statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite",
+    "published_at": "2026-07-09",
+    "license": "© STAT"
+  },
+  "topic_ids": [
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-13",
+  "date": "2026-07-09",
+  "related": [
+    {
+      "id": "card_3815e1",
+      "slug": "what-are-protists",
+      "type": "concept",
+      "title": "What Are Protists?",
+      "hook": "Amoebas, pond algae, and the wriggling paramecium all land in one messy group — protists, biology's catch-all for eukaryotes that aren't plants, animals, or fungi.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1976d",
+      "slug": "how-infections-spread",
+      "type": "concept",
+      "title": "How Infections Spread",
+      "hook": "Germs can't fly to a new host on their own — they hitch rides on coughs, hands, food, water, and insects. Break the ride, and you break the chain of infection.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_36ca73#0",
+      "format": "flip",
+      "prompt": "What is Cyclospora, and how does it typically spread?",
+      "back_html": "\u003cp\u003eA microscopic, spherical \u003cstrong\u003eparasite\u003c/strong\u003e that infects the bowels. It typically\nspreads through fruits or vegetables exposed to \u003cstrong\u003efeces-contaminated irrigation\nwater\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_36ca73#1",
+      "format": "quiz",
+      "prompt": "How large is the current Cyclospora outbreak?",
+      "choices": [
+        {
+          "text": "1,645 lab-confirmed cases, with over 5,100 more cases pending analysis",
+          "correct": true
+        },
+        {
+          "text": "A handful of cases confined to a single restaurant",
+          "correct": false
+        },
+        {
+          "text": "Over a million cases worldwide",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe outbreak has grown large enough to rank among the biggest U.S. Cyclospora\noutbreaks in recent years, though it remains far smaller than a major viral\npandemic.\u003c/p\u003e"
+    },
+    {
+      "id": "card_36ca73#2",
+      "format": "quiz",
+      "prompt": "Why do Cyclospora outbreaks tend to cluster in late spring and summer?",
+      "choices": [
+        {
+          "text": "The parasite thrives in warm conditions, and produce contamination risk rises with the growing season",
+          "correct": true
+        },
+        {
+          "text": "It only survives in freezing temperatures",
+          "correct": false
+        },
+        {
+          "text": "Summer heat kills off competing bacteria, letting Cyclospora spread unchecked",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCyclospora thrives in warm conditions, and outbreaks are most common in late\nspring and summer, often tied to fresh produce grown or irrigated during that\nperiod.\u003c/p\u003e"
+    },
+    {
+      "id": "card_36ca73#3",
+      "format": "flip",
+      "prompt": "What's the latest lead in the search for this outbreak's source?",
+      "back_html": "\u003cp\u003eMichigan officials have tentatively pointed to \u003cstrong\u003elettuce or salad greens\u003c/strong\u003e,\nand Taco Bell is under investigation — though federal officials haven't\nconfirmed an exact source yet.\u003c/p\u003e"
+    }
+  ]
+}

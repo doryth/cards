@@ -1,0 +1,104 @@
+{
+  "id": "card_537599",
+  "slug": "optical-time-travel-experiment",
+  "type": "paper",
+  "title": "An optical experiment to test whether the universe forbids time travel",
+  "hook": "Einstein's equations allow loops back into the past; Hawking bet quantum mechanics always blocks them. Two physicists propose settling the argument with a laser.",
+  "key_points": [
+    "General relativity permits closed timelike curves — paths through spacetime that return to their own past.",
+    "Hawking's 1992 Chronology Protection Conjecture says quantum effects always intervene to prevent them.",
+    "Bermudez and Leonhardt propose testing that idea in an optical analogue rather than in spacetime itself.",
+    "In their scheme, a light loop returning to its own past maps onto a laser crossing its lasing threshold.",
+    "Above threshold, amplified vacuum fluctuations run away — the optical stand-in for chronology protection."
+  ],
+  "content_html": "\u003cp\u003eClassical general relativity is oddly permissive about time travel: its equations admit closed timelike curves, paths that loop back to their own past. Stephen Hawking's response in 1992 was the Chronology Protection Conjecture — the claim that quantum mechanics always intervenes to shut such loops down. It has been a hard idea to test, because nobody can build a time machine. D. Bermudez and U. Leonhardt propose a workaround: build the analogue in optics instead.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn the scheme Bermudez and Leonhardt describe, time travel is inherently related to lasing. A light loop that would return to its own past corresponds to an optical system pushed above its lasing threshold, and there the amplified vacuum fluctuations — quantum noise that grows without bound — establish the quantum limits of time travel. That runaway amplification is the optical stand-in for Hawking's protection mechanism. Analogue experiments cannot settle whether spacetime itself permits closed timelike curves, but they can test whether the quantum mechanism Hawking invoked behaves the way he conjectured. Leonhardt has long worked on optical analogues of gravitational physics; the full proposal is on arXiv.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "D. Bermudez",
+      "U. Leonhardt"
+    ],
+    "url": "https://arxiv.org/abs/2607.22056",
+    "published_at": "2026-07-24",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "light-optics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_65937b",
+      "slug": "how-lasers-work",
+      "type": "concept",
+      "title": "How Lasers Work",
+      "hook": "A flashlight sprays a jumble of colors every which way. A laser does the opposite: one pure color, marching in perfect step, in a beam so tight it can reach the Moon.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_10daf5",
+      "slug": "black-hole-energy-extraction-in-the-lab",
+      "type": "news",
+      "title": "Physicists Recreated a Black Hole's Energy-Extraction Trick",
+      "hook": "Roger Penrose showed a spinning black hole can hand energy to whatever passes through it. Physicists just reproduced that effect on a lab bench — no black hole, nothing spinning, required.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-12"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_537599#0",
+      "format": "flip",
+      "prompt": "What does Hawking's Chronology Protection Conjecture claim?",
+      "back_html": "\u003cp\u003eThat although classical general relativity allows time travel, quantum mechanics ultimately\nsteps in to prevent it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_537599#1",
+      "format": "quiz",
+      "prompt": "In the proposed optical analogue, what plays the role of time travel?",
+      "choices": [
+        {
+          "text": "Lasing — a light loop returning to its own past maps onto crossing the laser threshold",
+          "correct": true
+        },
+        {
+          "text": "A laser beam physically travelling faster than light",
+          "correct": false
+        },
+        {
+          "text": "Light being slowed to a complete standstill in a cold gas",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors tie time travel to lasing: above threshold, amplified vacuum fluctuations set the\nquantum limits on the analogue's closed loop.\u003c/p\u003e"
+    },
+    {
+      "id": "card_537599#2",
+      "format": "flip",
+      "prompt": "What sets the quantum limit on time travel in this scheme?",
+      "back_html": "\u003cp\u003eAmplified \u003cstrong\u003evacuum fluctuations\u003c/strong\u003e above the laser threshold — spontaneous quantum noise that\ngets amplified without bound.\u003c/p\u003e"
+    }
+  ]
+}

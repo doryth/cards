@@ -1,0 +1,92 @@
+{
+  "id": "card_cfe40f",
+  "slug": "exercise-dose-for-your-heart",
+  "type": "news",
+  "title": "Is 150 Minutes a Week Really Enough?",
+  "hook": "The famous 150-minute target may buy less heart protection than advertised. A large study points to roughly 560–610 minutes a week for substantially bigger gains.",
+  "key_points": [
+    "The standard guideline is 150 minutes a week of moderate-to-vigorous activity.",
+    "A large study found that dose offers only modest protection against heart attack and stroke.",
+    "Substantially greater benefit appeared around 560–610 minutes a week.",
+    "That's roughly 9 to 10 hours of brisk walking, cycling, or similar activity.",
+    "This is observational: more active people may differ in other ways too."
+  ],
+  "content_html": "\u003cp\u003eThe 150-minutes-a-week guideline is the most quoted number in public health. A large study suggests it is better understood as a floor than as a target.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, hitting the recommended 150 minutes of moderate-to-vigorous activity was associated with only modest protection against heart attacks and strokes. The bigger reductions showed up much further along the curve — around 560 to 610 minutes a week, roughly 9 to 10 hours of brisk walking, running, cycling, or equivalent effort.\u003c/p\u003e\n\u003cp\u003eTwo things are worth holding at once. This is observational data: people who log ten hours a week of exercise tend to differ from people who log two in diet, sleep, income, and baseline health, and those differences inflate the apparent benefit of the exercise itself. But the general shape — that benefit keeps accruing well past the guideline rather than plateauing at it — matches what other large activity studies have found. The practical reading isn't \u0026quot;150 minutes is pointless.\u0026quot; It's that if you're already comfortably clearing the guideline, more still buys you something.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260806050724.htm",
+    "published_at": "2026-08-08",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "movement",
+    "chronic-conditions"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-08",
+  "related": [
+    {
+      "id": "card_27852a",
+      "slug": "how-much-exercise-you-need",
+      "type": "concept",
+      "title": "How Much Exercise You Actually Need",
+      "hook": "The headline number is smaller than most people fear: about 150 minutes of moderate activity a week — roughly 20-some minutes a day — moves the needle on your health.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e69256",
+      "slug": "move-more-sit-less",
+      "type": "concept",
+      "title": "Move More, Sit Less",
+      "hook": "Even if you hit the gym, hours of unbroken sitting carry their own health risk. Breaking up the day with movement matters as much as the workout.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_fc9417",
+      "slug": "keeping-your-heart-healthy",
+      "type": "concept",
+      "title": "Keeping Your Heart Healthy",
+      "hook": "Most heart disease isn't bad luck — it's the sum of a few everyday habits. The American Heart Association distills them into eight that move the needle most.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_cfe40f#0",
+      "format": "flip",
+      "prompt": "What weekly activity level did the study link to substantially better heart protection?",
+      "back_html": "\u003cp\u003eRoughly 560 to 610 minutes a week — about 9 to 10 hours of brisk walking,\nrunning, cycling, or similar — well above the standard 150-minute guideline.\u003c/p\u003e"
+    },
+    {
+      "id": "card_cfe40f#1",
+      "format": "quiz",
+      "prompt": "Why shouldn't this study be read as 'the 150-minute guideline is wrong'?",
+      "choices": [
+        {
+          "text": "It's observational, so highly active people may differ in other ways too",
+          "correct": true
+        },
+        {
+          "text": "Because it only studied competitive athletes",
+          "correct": false
+        },
+        {
+          "text": "Because exercise has never been linked to heart health",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study tracked activity and outcomes rather than assigning people to exercise\ndoses, so unmeasured differences between very active and less active people can\ninflate the apparent benefit. 150 minutes remains a floor worth clearing.\u003c/p\u003e"
+    }
+  ]
+}

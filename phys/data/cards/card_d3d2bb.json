@@ -1,0 +1,115 @@
+{
+  "id": "card_d3d2bb",
+  "slug": "cosmic-muons-as-a-random-number-source",
+  "type": "paper",
+  "title": "Turning Cosmic Rays Into Random Numbers",
+  "hook": "Muons rain down from the sky in unpredictable directions. Point a telescope at them and you have a physical random number generator — one useful for closing a loophole in Bell tests.",
+  "key_points": [
+    "Cosmic-ray muons arrive at random zenith and azimuth angles measurable by a muon telescope.",
+    "Six months of tracks were converted into random bits using those two arrival angles.",
+    "Each muon track yields up to 4 bits, at an entropy of about 0.999 bits per bit.",
+    "The demonstrated rate reaches roughly 650 bits per second.",
+    "Bigger detectors and better angular resolution would raise that rate.",
+    "One motivating use is randomising Bell-test settings to close the settings-independence loophole."
+  ],
+  "content_html": "\u003cp\u003eCosmic rays hitting the upper atmosphere produce showers of muons that reach the ground continuously, and no one can predict which direction the next one will come from. Deepak Samuel's August 2026 paper takes that literally: it treats a muon telescope as a hardware random number generator and measures how good one is.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe method is direct. For each muon track the detector records the local zenith and azimuth angles, and those two numbers are fed through data reduction and conditioning algorithms to extract random bits. Using six months of collected data, the paper reports up to 4 bits per track at an entropy of 0.999182 bits per bit — close to ideal — and a maximum rate of roughly 650 bits per second. Both the yield per track and the overall rate are limited by the instrument, and would improve with a larger detector and finer angular resolution.\u003c/p\u003e\n\u003cp\u003eThe motivating application is a nice piece of foundational physics. Tests of Bell's inequality assume the experimenters' measurement-setting choices are independent of the particles being measured; if some shared prior cause influenced both, a local-realist model could fake the result. That is the settings-independence (or \u0026quot;freedom-of-choice\u0026quot;) loophole, and the standard countermeasure is to derive the settings from something as causally remote as possible. Particles arriving from the sky are a reasonable candidate.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Deepak Samuel"
+    ],
+    "url": "https://arxiv.org/abs/2608.24729",
+    "published_at": "2026-08-25",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_f86885",
+      "slug": "how-far-cosmic-rays-travel",
+      "type": "paper",
+      "title": "The universe's most energetic particles come from nearby",
+      "hook": "Match the sky map of ultra-high-energy cosmic rays against catalogues of galaxies and the signal snaps into focus at one distance: everything within about 60 megaparsecs.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5ac508",
+      "slug": "amaterasu-particle",
+      "type": "news",
+      "title": "The Amaterasu Particle Might Not Be a Proton",
+      "hook": "One of the most energetic cosmic rays ever caught hit Earth with the energy of a thrown brick — packed into a single particle. New work says it may be a heavy nucleus, not a proton.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d3d2bb#0",
+      "format": "quiz",
+      "prompt": "What property of cosmic-ray muons makes them a source of randomness?",
+      "choices": [
+        {
+          "text": "Their arrival directions are unpredictable, so measured angles carry genuine entropy",
+          "correct": true
+        },
+        {
+          "text": "Their energies are always identical, making them a fixed reference",
+          "correct": false
+        },
+        {
+          "text": "They arrive in a strict repeating pattern that is hard to compute",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe zenith and azimuth angles of each incoming track are physically\nunpredictable, which is what an entropy source needs.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d3d2bb#1",
+      "format": "flip",
+      "prompt": "Why would a Bell test want randomness from an astrophysical source?",
+      "back_html": "\u003cp\u003eTo close the settings-independence loophole — the measurement choices need a\ncause not shared with the particles being measured.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d3d2bb#2",
+      "format": "flip",
+      "prompt": "What limits the bit rate of this generator, and how could it be raised?",
+      "back_html": "\u003cp\u003eDetector size and angular resolution. A larger telescope catches more muons\nand finer angle resolution extracts more bits from each track.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "card_9d1582",
+  "slug": "enzymes",
+  "type": "concept",
+  "title": "Enzymes: Life's Catalysts",
+  "hook": "The chemical reactions that keep you alive would crawl too slowly to matter — enzymes speed them up millions of times without being used up themselves.",
+  "key_points": [
+    "Enzymes are mostly proteins that act as biological catalysts.",
+    "They speed up reactions by lowering the energy needed to start them.",
+    "Each enzyme has a specific shape that fits only certain molecules.",
+    "Enzymes are not consumed, so one molecule works again and again."
+  ],
+  "content_html": "\u003cp\u003eMost of the reactions inside you wouldn't happen fast enough to keep you alive — at body temperature, they'd take years instead of seconds. Enzymes solve that problem. These molecules, almost all of them proteins, are catalysts: they dramatically speed up chemical reactions without being changed or used up themselves, so a single enzyme can do its job over and over.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAn enzyme works by lowering a reaction's activation energy, the initial hump of energy needed to get it going. It does this by grabbing its target molecules at a pocket called the active site, whose shape fits only certain partners — often compared to a lock and key. That specificity means your cells run thousands of different enzymes, each tuned to one task, from digesting food to copying DNA. As Encyclopaedia Britannica notes, life's entire web of chemistry depends on these proteins quietly accelerating reactions that would otherwise grind to a halt.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/enzyme",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "energy-in-life"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_19a817",
+      "slug": "metabolism",
+      "type": "concept",
+      "title": "Metabolism",
+      "hook": "Every breath, heartbeat, and thought runs on metabolism — the vast web of chemical reactions that builds your body up and breaks your fuel down.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_32c407",
+      "slug": "atp-energy-currency",
+      "type": "concept",
+      "title": "ATP: The Cell's Energy Currency",
+      "hook": "Cells don't store usable energy as sugar or fat alone — they spend it through ATP, a tiny rechargeable molecule that powers almost everything they do.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3d61f3",
+      "slug": "the-digestive-system",
+      "type": "concept",
+      "title": "The Digestive System",
+      "hook": "From the first bite to the final absorption, your digestive tract is a one-way assembly line that turns food into fuel your cells can use.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_9d1582#0",
+      "format": "flip",
+      "prompt": "What is an enzyme?",
+      "back_html": "\u003cp\u003eA biological \u003cstrong\u003ecatalyst\u003c/strong\u003e — usually a protein — that speeds up a chemical\nreaction in a living thing without being used up in the process.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9d1582#1",
+      "format": "quiz",
+      "prompt": "How do enzymes speed up reactions?",
+      "choices": [
+        {
+          "text": "By lowering the energy needed to start the reaction",
+          "correct": true
+        },
+        {
+          "text": "By adding heat to the reaction",
+          "correct": false
+        },
+        {
+          "text": "By becoming part of the final product",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEnzymes reduce the activation energy — the push a reaction needs to begin — so\nreactions that would otherwise be far too slow can happen quickly at body\ntemperature.\u003c/p\u003e"
+    },
+    {
+      "id": "card_9d1582#2",
+      "format": "quiz",
+      "prompt": "Why is each enzyme specific to certain molecules?",
+      "choices": [
+        {
+          "text": "Its shape fits only particular molecules, like a lock and key",
+          "correct": true
+        },
+        {
+          "text": "It can speed up any reaction equally",
+          "correct": false
+        },
+        {
+          "text": "It is consumed after each reaction, so it can only act once",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn enzyme's precisely folded shape creates an active site that fits only its\ntarget molecules — the classic lock-and-key idea — which is why each enzyme\nhandles a specific job.\u003c/p\u003e"
+    }
+  ]
+}

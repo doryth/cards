@@ -1,0 +1,110 @@
+{
+  "id": "card_876e40",
+  "slug": "where-do-viruses-fit",
+  "type": "concept",
+  "title": "Where Do Viruses Fit?",
+  "hook": "Viruses sit awkwardly off the tree of life — they carry genes and evolve, yet can't grow, eat, or copy themselves without hijacking a living cell.",
+  "key_points": [
+    "The tree of life is organized into three domains: Bacteria, Archaea, and Eukarya.",
+    "Viruses aren't placed in any of them — they fall outside the standard tree.",
+    "A virus has genes and can evolve, but it has no cells and no metabolism.",
+    "It cannot reproduce on its own; it must hijack a host cell's machinery.",
+    "Scientists classify viruses by their own separate system, not the domains."
+  ],
+  "content_html": "\u003cp\u003eThe standard tree of life branches into three domains — Bacteria, Archaea, and Eukarya — all built from cells that grow and reproduce on their own. Viruses fit none of them. A virus carries genes and can evolve, but it has no cell, no metabolism, and no way to copy itself without invading a host. So it sits awkwardly off to the side of the tree entirely.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Encyclopaedia Britannica's overview of the tree of life makes clear, the framework is designed for cellular life that descends from common ancestors. Viruses break the mold: between infections they are inert particles, springing to \u0026quot;life\u0026quot; only by hijacking a host cell's machinery. Rather than force them onto a branch, virologists give viruses their own classification system based on their genetic material and structure. Their placement remains genuinely unsettled — a reminder that even biology's master diagram has ragged edges.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/tree-of-life-biology",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "classification"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_8510f0",
+      "slug": "viruses-living-or-not",
+      "type": "concept",
+      "title": "Are Viruses Alive?",
+      "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e69708",
+      "slug": "the-three-domains",
+      "type": "concept",
+      "title": "The Three Domains of Life",
+      "hook": "At the very top, all life splits into just three branches — Bacteria, Archaea, and Eukarya — and your cells belong to the same one as mushrooms and oak trees.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5bfd13",
+      "slug": "naming-and-classifying-species",
+      "type": "concept",
+      "title": "How Species Are Named",
+      "hook": "Every species on Earth gets a two-word Latin name — like Homo sapiens — under a tidy ranked system invented 250 years ago that scientists still use today.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_876e40#0",
+      "format": "flip",
+      "prompt": "Which domain of life do viruses belong to?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eNone.\u003c/strong\u003e Viruses fall outside the three domains (Bacteria, Archaea, Eukarya)\nbecause they lack cells and their own metabolism — so they're left off the tree.\u003c/p\u003e"
+    },
+    {
+      "id": "card_876e40#1",
+      "format": "quiz",
+      "prompt": "Why do viruses sit awkwardly outside the tree of life?",
+      "choices": [
+        {
+          "text": "They have genes but no cells and can't reproduce on their own",
+          "correct": true
+        },
+        {
+          "text": "They are too large to fit on any branch",
+          "correct": false
+        },
+        {
+          "text": "They have no genetic material of any kind",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe tree organizes cellular, self-reproducing life. A virus has genes and\nevolves, but with no cell and no metabolism it can't copy itself unaided.\u003c/p\u003e"
+    },
+    {
+      "id": "card_876e40#2",
+      "format": "quiz",
+      "prompt": "How does a virus make more of itself?",
+      "choices": [
+        {
+          "text": "By hijacking a host cell's machinery",
+          "correct": true
+        },
+        {
+          "text": "By dividing in two like a bacterium",
+          "correct": false
+        },
+        {
+          "text": "By photosynthesizing its own parts",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA virus can't replicate alone. It must invade a living cell and commandeer its\nmachinery to build new virus particles — a hallmark that sets it apart from cellular life.\u003c/p\u003e"
+    }
+  ]
+}

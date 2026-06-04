@@ -1,0 +1,90 @@
+{
+  "id": "card_db84a0",
+  "slug": "ai-and-your-money",
+  "type": "concept",
+  "title": "AI \u0026 Your Money",
+  "hook": "AI is a great explainer of money and a decent budgeting helper — but a risky advisor. Use it to understand your finances, not to make the calls or to hand over your account details.",
+  "key_points": [
+    "Excellent for plain-English explanations: what's an ETF, how does APR work, what's a Roth IRA.",
+    "Handy for budgeting drafts, comparison questions, and prepping to talk to a professional.",
+    "Don't trust it for specific numbers, tax/legal advice, or 'what should I buy' calls.",
+    "Never hand it bank logins, card numbers, or account access — and beware AI investment scams."
+  ],
+  "content_html": "\u003cp\u003eMoney is one of the areas where AI is both genuinely useful and genuinely risky, and the line between the two is worth getting right. On the useful side, a chatbot is a wonderful, judgment-free financial \u003cem\u003eexplainer\u003c/em\u003e. You can ask what an index fund is, how credit card interest actually compounds, what the difference is between gross and net, or what a term in your insurance policy means — and get a clear, patient answer at whatever level you need. It's also handy for the scaffolding of money management: drafting a monthly budget from your numbers, listing questions to ask a mortgage broker, or comparing the general pros and cons of two approaches before you talk to a real professional.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe risky side is just as important. AI should not be your financial \u003cem\u003eadvisor\u003c/em\u003e. It can state specific figures, tax rules, or \u0026quot;best\u0026quot; products with total confidence and be wrong, and it knows nothing about your actual situation, risk tolerance, or local laws. Treat any concrete number, tax claim, or \u0026quot;you should buy X\u0026quot; as unverified — confirm it with official sources or a qualified human before acting, especially where real money or the tax authorities are involved. Two hard rules keep you safe: never give an AI tool (or a website pretending to be one) your bank logins, card numbers, or account access; and be deeply skeptical of \u0026quot;AI-powered\u0026quot; investment or trading schemes, which have become a favorite scam dressed up with fake celebrity endorsements and promises of guaranteed returns. Use AI to \u003cem\u003eunderstand\u003c/em\u003e your money better — then make the decisions yourself, with real advice where it counts.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-money"
+  ],
+  "tags": [
+    "tutorial",
+    "safety"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_4830ed",
+      "slug": "ai-scams",
+      "type": "concept",
+      "title": "AI Scams \u0026 Staying Safe",
+      "hook": "AI didn't invent scams — it just made them cheaper, faster, and far more convincing. The good news: the habits that beat them haven't changed.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80583f",
+      "slug": "why-ai-makes-things-up",
+      "type": "concept",
+      "title": "When AI Makes Things Up",
+      "hook": "AI 'hallucinations' aren't glitches — they're the technology working as designed. A model that always predicts a plausible next word will sometimes produce a plausible falsehood.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_db84a0#0",
+      "format": "quiz",
+      "prompt": "What's a good use of AI for personal finance?",
+      "choices": [
+        {
+          "text": "Explaining financial concepts in plain language and drafting a budget",
+          "correct": true
+        },
+        {
+          "text": "Picking exactly which stocks to buy with your savings",
+          "correct": false
+        },
+        {
+          "text": "Logging into your bank to manage your money",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI shines at explaining concepts and organizing a budget. It's unreliable\nfor specific advice and should never be given account access.\u003c/p\u003e"
+    },
+    {
+      "id": "card_db84a0#1",
+      "format": "flip",
+      "prompt": "Why be cautious about 'AI investment' opportunities advertised online?",
+      "back_html": "\u003cp\u003eMany are scams — using AI branding, fake testimonials, or deepfakes of\ncelebrities to lend false credibility. Treat them like any too-good-to-be-true pitch.\u003c/p\u003e"
+    }
+  ]
+}

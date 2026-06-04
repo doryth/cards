@@ -1,0 +1,127 @@
+{
+  "id": "card_ed31c1",
+  "slug": "how-precedent-erodes",
+  "type": "concept",
+  "title": "How Precedent Erodes",
+  "hook": "Courts rarely kill an old ruling outright. More often it dies slowly — narrowed, distinguished, and ignored until little is left.",
+  "key_points": [
+    "Stare decisis means courts usually follow their own past rulings, giving the law stability and predictability.",
+    "A precedent can be 'distinguished' — set aside as not applying to the facts at hand — without being overturned.",
+    "Repeated narrowing and selective citing can hollow out a precedent long before any formal reversal.",
+    "By the time a court formally overrules a case, it may already be a dead letter in practice."
+  ],
+  "content_html": "\u003cp\u003eCourts lean on a principle called \u003cem\u003estare decisis\u003c/em\u003e — Latin for \u0026quot;to stand by things decided.\u0026quot; It tells judges to follow their own past rulings, which gives the law stability: people can plan around settled answers, and like cases get treated alike. But following precedent is not the same as being trapped by it, and a ruling can lose its force long before any court formally reverses it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA SCOTUSblog essay by Adam Feldman traces how a precedent can \u0026quot;die\u0026quot; gradually. The most common tool is \u003cem\u003edistinguishing\u003c/em\u003e: a court says the old case doesn't really apply because the facts are different, leaving it technically on the books while shrinking what it actually governs. Over time, repeated narrowing, selective citation, and quiet refusals to extend a ruling can hollow it out. By the time the court announces it is overruling the precedent, the decision may simply confirm what years of erosion already accomplished. The lesson for reading the law: watch not only what courts overturn, but how they treat the cases they claim to still respect.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Adam Feldman"
+    ],
+    "url": "https://scotusblog.com/2026/06/how-supreme-court-precedents-die-before-they-are-overruled",
+    "published_at": "2026-06-16",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "how-laws-are-made",
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-18",
+  "date": "2026-06-16",
+  "related": [
+    {
+      "id": "card_7f5b6a",
+      "slug": "statute-vs-common-law",
+      "type": "concept",
+      "title": "Statute Law vs Common Law",
+      "hook": "Not all law is written by legislators. Some of it is built up, case by case, by judges — and these two sources of law work very differently.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_766f74",
+      "slug": "rule-of-law",
+      "type": "concept",
+      "title": "The Rule of Law",
+      "hook": "The principle that everyone — including those in power — is bound by the same publicly known laws, applied equally.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7f5b6a",
+      "slug": "statute-vs-common-law",
+      "type": "concept",
+      "title": "Statute Law vs Common Law",
+      "hook": "Not all law is written by legislators. Some of it is built up, case by case, by judges — and these two sources of law work very differently.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_ed31c1#0",
+      "format": "flip",
+      "prompt": "What does the principle of stare decisis ask courts to do?",
+      "back_html": "\u003cp\u003eGenerally follow their own earlier rulings, so the law stays stable\nand predictable rather than shifting case to case.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ed31c1#1",
+      "format": "quiz",
+      "prompt": "A court treats an old precedent as not applying because the facts differ, leaving it formally intact. What is this called?",
+      "choices": [
+        {
+          "text": "Distinguishing the precedent",
+          "correct": true
+        },
+        {
+          "text": "Formally overruling it",
+          "correct": false
+        },
+        {
+          "text": "Ratifying it into statute",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDistinguishing sidesteps a precedent by saying it doesn't fit the case\nat hand — the ruling stays on the books but loses reach.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ed31c1#2",
+      "format": "quiz",
+      "prompt": "Why can a precedent be 'effectively dead' before it is ever formally overruled?",
+      "choices": [
+        {
+          "text": "Years of narrowing and selective citing can drain its force first",
+          "correct": true
+        },
+        {
+          "text": "Precedents expire automatically after a fixed number of years",
+          "correct": false
+        },
+        {
+          "text": "Lower courts are forbidden from citing old cases",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eErosion is gradual: each ruling that narrows or quietly declines to apply\na precedent leaves less of it, so a later reversal may just confirm what\nalready happened.\u003c/p\u003e"
+    }
+  ]
+}

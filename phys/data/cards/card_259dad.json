@@ -1,0 +1,112 @@
+{
+  "id": "card_259dad",
+  "slug": "certified-fidelity-for-hard-quantum-circuits",
+  "type": "paper",
+  "title": "Proving You Really Ran the Hard Quantum Circuit",
+  "hook": "Quantum advantage demos have a credibility gap: the circuits are hard to check. This one carries its own error-detecting certificate.",
+  "key_points": [
+    "Sampling experiments are a leading route to computations beyond classical supercomputers, but they have been hard to combine with error suppression and verification.",
+    "The authors design \"structured\" circuits that keep provable hardness guarantees while also admitting an encoding in a quantum code.",
+    "Because the circuit is encoded, measuring code syndromes both suppresses errors and certifies the achieved fidelity.",
+    "The certificate is device-dependent but relies on much weaker noise assumptions than the usual fidelity proxy benchmarks.",
+    "The demonstration is a 70-qubit, depth-70 Clifford circuit doped with 468 T gates, encoded using 97 physical qubits in spacetime codes.",
+    "Syndrome post-selection cut effective gate error rates roughly tenfold, yielding a state with fidelity of at least 0.284 at 95% confidence."
+  ],
+  "content_html": "\u003cp\u003eSampling experiments are the front-runners for showing a quantum computer doing something a classical supercomputer cannot. They have an awkward property: the very hardness that makes the demonstration interesting makes it hard to confirm the machine did the job. Existing claims rest on fidelity proxies that assume a lot about the noise. This paper builds circuits that come with their own certificate.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSimon Martiel and colleagues introduce what they call structured circuits — designed to retain provable hardness guarantees while simultaneously admitting an encoding into a quantum error-detecting code. That combination is the trick, because it lets one set of measurements serve two purposes. Reading out the code syndromes and discarding runs with detected errors suppresses noise, which pushes achievable fidelity up at greater circuit depth; and the syndrome record itself, together with the circuit's structure, underwrites a lower bound on the fidelity actually achieved. The bound is device-dependent, but the authors stress it needs substantially weaker noise assumptions than the usual benchmarks. Their demonstration runs a 70-qubit, depth-70 Clifford circuit doped with 468 T gates — the T gates being what lift it out of the classically simulable regime — encoded into 97 physical qubits using spacetime codes. Syndrome post-selection suppressed effective gate error rates about tenfold and produced a state with fidelity at least 0.284 at 95% confidence. More generally, they present the construction as a systematic recipe for promoting a stabiliser state to a magic state while keeping an error-detected certificate attached.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Simon Martiel",
+      "Jay-U Chung",
+      "Alireza Seif",
+      "Soumik Ghosh",
+      "Ian Hincks",
+      "Abhinav Deshpande",
+      "Bill Fefferman",
+      "Jay M. Gambetta",
+      "Ali Javadi-Abhari"
+    ],
+    "url": "https://arxiv.org/abs/2607.25941",
+    "published_at": "2026-07-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-10",
+  "date": "2026-07-28",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf6284",
+      "slug": "laptop-beats-77-qubit-chemistry-run",
+      "type": "paper",
+      "title": "A Laptop Redoes a 77-Qubit Chemistry Experiment in Under a Minute",
+      "hook": "One of the largest quantum-chemistry runs ever took 77 qubits and a supercomputer's worth of post-processing. A new classical algorithm reproduces it on a laptop — and does better.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_b6cd84",
+      "slug": "ai-scientist-designs-error-correcting-codes",
+      "type": "paper",
+      "title": "An AI That Invents Quantum Error-Correcting Codes",
+      "hook": "Designing a good quantum code means balancing code structure, hardware layout, syndrome extraction and decoding at once. An LLM-driven search now beats the standard codes at equal qubit budgets.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-28"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_259dad#0",
+      "format": "flip",
+      "prompt": "What is the verification problem with quantum sampling experiments?",
+      "back_html": "\u003cp\u003eThe circuits are chosen to be classically hard — which also makes it hard to\n\u003cstrong\u003echeck\u003c/strong\u003e that the machine really produced the right distribution, so claims lean\non fidelity proxies with strong noise assumptions.\u003c/p\u003e"
+    },
+    {
+      "id": "card_259dad#1",
+      "format": "quiz",
+      "prompt": "How do the structured circuits provide a fidelity certificate?",
+      "choices": [
+        {
+          "text": "They are encoded in a quantum code, so measuring code syndromes both suppresses errors and certifies fidelity",
+          "correct": true
+        },
+        {
+          "text": "A classical supercomputer recomputes the answer for comparison",
+          "correct": false
+        },
+        {
+          "text": "The circuit is run twice and the outputs are compared",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEncoding the computation lets syndrome measurements do double duty: post-selecting\non clean syndromes suppresses errors, and the syndrome record underwrites a\nfidelity lower bound.\u003c/p\u003e"
+    },
+    {
+      "id": "card_259dad#2",
+      "format": "flip",
+      "prompt": "What did the demonstration achieve numerically?",
+      "back_html": "\u003cp\u003eA 70-qubit, depth-70 Clifford circuit with 468 T gates, encoded in 97 physical\nqubits: roughly \u003cstrong\u003e10× effective gate-error suppression\u003c/strong\u003e after syndrome\npost-selection and a certified fidelity lower bound of \u003cstrong\u003e0.284\u003c/strong\u003e at 95% confidence.\u003c/p\u003e"
+    }
+  ]
+}

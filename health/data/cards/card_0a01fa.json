@@ -1,0 +1,89 @@
+{
+  "id": "card_0a01fa",
+  "slug": "mothers-age-without-dna-change",
+  "type": "news",
+  "title": "A Mother's Age Shapes Her Offspring — Without Changing Their DNA",
+  "hook": "The effects of maternal age were assumed to be accumulated DNA damage. In rotifers, they turned out to be reversible switches on gene activity — undone in a single generation.",
+  "key_points": [
+    "Maternal age effects are real and measurable: offspring of older mothers often fare worse.",
+    "The long-standing explanation was permanent DNA damage piling up over generations.",
+    "In rotifers, the effects did not compound generation after generation — and reversed within one generation.",
+    "That points to epigenetics: histone modifications that switch genes on and off without touching the DNA sequence.",
+    "Genotype mattered a lot — in some strains, older mothers were neutral or even beneficial.",
+    "Rotifer work in The American Naturalist; the human implication is a hypothesis, not a finding."
+  ],
+  "content_html": "\u003cp\u003eChildren of older mothers show measurable differences, on average, in health and lifespan — a pattern biologists have documented across many species. The standard explanation was grim and simple: eggs and their DNA accumulate damage over a lifetime, and that damage gets passed down permanently. New work from the Marine Biological Laboratory suggests the mechanism may be something far more fluid.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eKristin Gribble's group, with postdoctoral scientist Alyssa Liguori doing the primary experiments, tracked maternal age effects across generations in rotifers (\u003cem\u003eBrachionus manjavacas\u003c/em\u003e) — millimetre-scale aquatic invertebrates that reproduce fast enough to follow many generations in the lab. If accumulated DNA damage were the driver, the effects should have intensified with each successive generation and stuck. They did neither: across two genotypes the effects failed to compound, and could be reversed inside a single generation.\u003c/p\u003e\n\u003cp\u003eThat reversibility is what points to epigenetics. The team's prime suspect is histone modification — chemical marks on the proteins that DNA wraps around, which switch genes on and off without editing the sequence itself. Inherited mitochondrial DNA is another candidate route. Gribble's framing is that your health may depend partly on the health and environment of your mother, grandmother and great-grandmother — a kind of biological memory carried outside the genome.\u003c/p\u003e\n\u003cp\u003eTwo cautions. This is a rotifer study, published in \u003cem\u003eThe American Naturalist\u003c/em\u003e, and the jump to human reproduction is a hypothesis rather than a result. And genotype mattered enormously: some strains showed protective or even beneficial effects from older mothers, which makes blanket statements about advanced maternal age hard to defend. Read the full write-up via the source link.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260819041220.htm",
+    "published_at": "2026-08-19",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "womens-health"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_a0a7c6",
+      "slug": "superagers-genes-dont-explain",
+      "type": "news",
+      "title": "SuperAgers' Memories Are Extraordinary. Their Genes Are Not.",
+      "hook": "People in their 80s with the memory of a 50-year-old were expected to have lucky DNA. They don't — their Alzheimer's risk genes look like everyone else's, which points the search back at life itself.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-25"
+    },
+    {
+      "id": "card_44a617",
+      "slug": "aging-isnt-all-decline",
+      "type": "news",
+      "title": "Aging Isn't Only Decline",
+      "hook": "A long-term Yale study found nearly half of adults over 65 actually improved — physically, mentally, or both — and a more positive view of aging tracked with those gains.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-21"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0a01fa#0",
+      "format": "quiz",
+      "prompt": "What observation argued against DNA damage as the cause of maternal age effects?",
+      "choices": [
+        {
+          "text": "The effects reversed within one generation instead of compounding",
+          "correct": true
+        },
+        {
+          "text": "No effects of maternal age could be detected at all",
+          "correct": false
+        },
+        {
+          "text": "The DNA sequence of older mothers was identical to that of younger ones",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAccumulated damage should get worse each generation and stay put. Instead the\neffects did not build up, and a single generation was enough to undo them — the\nsignature of something reversible.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0a01fa#1",
+      "format": "flip",
+      "prompt": "What mechanism did the researchers propose instead of DNA damage?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eEpigenetic\u003c/strong\u003e change — chiefly histone modifications, chemical marks that turn\ngenes on or off without altering the underlying DNA sequence. Mitochondrial DNA was\nalso floated as a route for passing information along.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0a01fa#2",
+      "format": "flip",
+      "prompt": "Why can't this study tell you whether an older mother is riskier for a human child?",
+      "back_html": "\u003cp\u003eIt was done in rotifers — tiny aquatic invertebrates — and even there the outcome\ndepended on genotype, with some strains showing neutral or beneficial effects. The\nhuman parallel is a hypothesis to test.\u003c/p\u003e"
+    }
+  ]
+}

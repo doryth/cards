@@ -1,0 +1,93 @@
+{
+  "id": "card_b596f2",
+  "slug": "metabolism-first-soil",
+  "type": "news",
+  "title": "The Dirt That Kept Doing Chemistry",
+  "hook": "Sterilized soil with nothing alive in it kept running lifelike chemical reactions for six years — a clue pointing toward a 'metabolism-first' origin of life.",
+  "key_points": [
+    "Researchers report lifelike biochemistry unfolding in sterilized soil for six years.",
+    "The reactions ran with no living organisms present to drive them.",
+    "It supports a 'metabolism-first' view: chemical cycles came before genes or cells.",
+    "Contrasts with ideas that a self-copying molecule like RNA came first."
+  ],
+  "content_html": "\u003cp\u003eHow did plain chemistry on early Earth cross the line into life? One long-debated answer is \u0026quot;metabolism-first\u0026quot;: the idea that self-sustaining networks of chemical reactions came first, before genes or cells, and life's machinery assembled around them. A report in Quanta Magazine describes evidence that fits this view — lifelike biochemistry that kept unfolding in sterilized soil for six years, with nothing alive present to drive it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat a sample scrubbed of living organisms could keep running complex, lifelike reactions on its own is the striking part. It suggests the raw chemistry of a place like soil can sustain the kind of ongoing reaction cycles that a metabolism-first origin would require — no genetic molecule needed to get started. This contrasts with the popular \u0026quot;RNA world\u0026quot; idea, which puts a self-copying molecule at the very beginning and lets metabolism follow. Origin-of-life research is far from settled, and a single observation doesn't crown a winner, but Quanta frames this as a notable point in favor of chemistry, rather than heredity, coming first.\u003c/p\u003e",
+  "source": {
+    "name": "Quanta Magazine",
+    "authors": [
+      "Siddhant Pusdekar"
+    ],
+    "url": "https://quantamagazine.org/the-dirt-that-refused-to-die-20260601",
+    "published_at": "2026-06-01",
+    "license": "© Quanta Magazine"
+  },
+  "topic_ids": [
+    "origin-of-life"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-06-01",
+  "related": [
+    {
+      "id": "card_be717b",
+      "slug": "how-life-began",
+      "type": "concept",
+      "title": "How Life Began",
+      "hook": "Before the first living thing, there was only chemistry. Abiogenesis is the idea — and active research — into how plain molecules on early Earth crossed the line into life.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b596f2#0",
+      "format": "flip",
+      "prompt": "What does a 'metabolism-first' theory of life's origin propose?",
+      "back_html": "\u003cp\u003eThat self-sustaining \u003cstrong\u003echemical reaction cycles\u003c/strong\u003e came first — before genes,\ncopying molecules, or cells — and life's machinery built up from there.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b596f2#1",
+      "format": "quiz",
+      "prompt": "What surprising observation in sterilized soil pointed toward this theory?",
+      "choices": [
+        {
+          "text": "Lifelike chemistry kept unfolding for six years with nothing alive present",
+          "correct": true
+        },
+        {
+          "text": "Bacteria secretly survived sterilization",
+          "correct": false
+        },
+        {
+          "text": "The soil grew into a plant",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAs Quanta reports, complex, lifelike reactions continued in sterile soil for\nyears — chemistry running on its own, without any organism driving it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b596f2#2",
+      "format": "quiz",
+      "prompt": "How does 'metabolism-first' differ from the RNA-world idea?",
+      "choices": [
+        {
+          "text": "It puts chemical cycles before a self-copying molecule, not after",
+          "correct": true
+        },
+        {
+          "text": "It claims life never needed any chemistry",
+          "correct": false
+        },
+        {
+          "text": "It says DNA appeared before any reactions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe RNA-world view starts with a self-copying molecule; metabolism-first starts\nwith self-sustaining reaction networks that genes joined later.\u003c/p\u003e"
+    }
+  ]
+}

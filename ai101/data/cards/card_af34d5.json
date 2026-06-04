@@ -1,0 +1,89 @@
+{
+  "id": "card_af34d5",
+  "slug": "ai-in-everyday-tools",
+  "type": "concept",
+  "title": "AI in Everyday Tools",
+  "hook": "You've used AI for years without calling it that — every time your phone unlocks with your face, your maps reroute around traffic, or your inbox filters spam.",
+  "key_points": [
+    "AI quietly powers face unlock, autocorrect, photo search, and spam filters.",
+    "Maps, ride apps, and delivery estimates use it to predict traffic and timing.",
+    "Streaming and shopping 'recommended for you' are AI matching you to patterns.",
+    "Most everyday AI is invisible — narrow tools doing one job well."
+  ],
+  "content_html": "\u003cp\u003eWhen people ask \u0026quot;have you tried AI yet?\u0026quot; the honest answer is: you've been using it for years. The face unlock on your phone, the autocorrect fixing your typos, the search that finds every photo of your dog, the spam that never reaches your inbox — all AI. It just never announced itself, because there's no chat window; it's woven invisibly into features that simply \u0026quot;work.\u0026quot;\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe pattern is everywhere once you look. Maps and ride apps predict traffic and arrival times from huge amounts of historical and live data. Streaming services and online stores use AI to match you with shows or products people like you enjoyed. Your camera brightens faces and blurs backgrounds; your bank flags an odd transaction. Almost all of this is \u003cstrong\u003enarrow\u003c/strong\u003e AI — each tool does one specific job well and nothing else. Recognizing how much AI you already trust is useful perspective: the technology isn't only the headline-grabbing chatbots, and the everyday versions have quietly earned their place by being genuinely helpful.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-everyday"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_aef977",
+      "slug": "what-is-ai",
+      "type": "concept",
+      "title": "What AI Actually Is",
+      "hook": "AI isn't a thinking robot — it's software that learns patterns from huge piles of examples, then uses them to make a good guess about something new.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fb7581",
+      "slug": "adobe-ai-assistants",
+      "type": "news",
+      "title": "AI Assistants Move Into Photoshop and Premiere",
+      "hook": "The chatbot is moving into the software you already use: Adobe is putting AI assistants inside Photoshop, Premiere, and the rest of Creative Cloud — so you edit by describing what you want.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-18"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_af34d5#0",
+      "format": "quiz",
+      "prompt": "Which of these is powered by AI?",
+      "choices": [
+        {
+          "text": "All of them — face unlock, spam filters, and 'recommended for you'",
+          "correct": true
+        },
+        {
+          "text": "Only chatbots like ChatGPT",
+          "correct": false
+        },
+        {
+          "text": "Only self-driving cars",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEveryday AI is mostly invisible: face unlock, autocorrect, photo search,\nspam filtering, maps rerouting, and recommendations all rely on it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_af34d5#1",
+      "format": "flip",
+      "prompt": "Why don't we usually notice everyday AI?",
+      "back_html": "\u003cp\u003eIt's narrow AI doing one job quietly inside an app — there's no chat window,\nso it just feels like the feature 'working.'\u003c/p\u003e"
+    }
+  ]
+}

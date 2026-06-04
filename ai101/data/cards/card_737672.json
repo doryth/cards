@@ -1,0 +1,100 @@
+{
+  "id": "card_737672",
+  "slug": "who-controls-ai",
+  "type": "concept",
+  "title": "Who Controls AI?",
+  "hook": "The most powerful AI models are built by a handful of giant companies, because training them costs a fortune. Who holds that power — and whether 'open' AI can balance it — shapes everything.",
+  "key_points": [
+    "Cutting-edge models cost enormous money and computing power, so few can build them.",
+    "A small set of big tech firms and labs dominate the frontier.",
+    "'Open' models (free to download and run) push back against that concentration.",
+    "At stake: prices, privacy, censorship, bias, and who sets the rules for everyone."
+  ],
+  "content_html": "\u003cp\u003eBehind the friendly chatbot interface sits an uncomfortable fact about power. Building a cutting-edge AI model is extraordinarily expensive — it takes vast amounts of specialized computing hardware, enormous datasets, rare expertise, and budgets running into the hundreds of millions or more. That price tag means only a small number of players can operate at the frontier: a few giant technology companies and well-funded labs, concentrated in a handful of countries. When a technology this consequential is controlled by so few hands, it's worth asking what that concentration means for the rest of us.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eQuite a lot, it turns out. The companies that build the leading models effectively get to decide what those models will and won't do, what they cost, what data they were trained on, whose values are baked into their \u0026quot;guardrails,\u0026quot; and what speech they allow or refuse. That's significant power over a tool that's becoming infrastructure for work, information, and creativity — and it raises concerns about prices, privacy, dependence, and a narrow set of worldviews shaping a global technology. The main counterweight is \u003cstrong\u003eopen models\u003c/strong\u003e: AI that companies or researchers release freely for anyone to download, run, inspect, and adapt. Open models let smaller businesses, academics, and individuals use powerful AI without being beholden to a gatekeeper, and they enable scrutiny that closed, secret systems don't allow. The trade-off, critics note, is that freely available powerful models are also harder to prevent from being misused. This tension — concentrated and controllable versus open and free-but-harder-to-govern — is one of the defining policy fights of the AI era, and it sits underneath the question of \u003cem\u003ewho\u003c/em\u003e, exactly, gets to steer a technology that increasingly steers us. It's a big reason the debate over regulation (and the resources, like energy and chips, that AI consumes) matters to everyone, not just the engineers.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "who-controls-ai"
+  ],
+  "tags": [
+    "safety",
+    "open-source"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_18caec",
+      "slug": "ai-rules-and-regulation",
+      "type": "concept",
+      "title": "Rules \u0026 Regulation",
+      "hook": "AI raced ahead of the law, and governments are now scrambling to catch up. The big debate: how to curb real harms without strangling a genuinely useful technology.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_969523",
+      "slug": "ai-energy-and-water",
+      "type": "concept",
+      "title": "AI's Energy \u0026 Water",
+      "hook": "Every chatbot reply runs in a warehouse of power-hungry computers somewhere. AI's convenience has a real physical footprint — in electricity, water for cooling, and carbon.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6c6e41",
+      "slug": "where-ai-learns-from",
+      "type": "concept",
+      "title": "Where AI Learns From",
+      "hook": "An AI is a mirror of its training data — and most big models learned from a giant scrape of the public internet. That explains both their broad knowledge and their inherited flaws.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5711da",
+      "slug": "anthropic-fable-government-ban",
+      "type": "news",
+      "title": "A Government Orders an AI Model Switched Off",
+      "hook": "The US government ordered Anthropic to cut off foreign access to two of its top models over national-security fears — so the company shut them off for everyone. A new kind of control over AI.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_737672#0",
+      "format": "quiz",
+      "prompt": "Why do only a few companies build the most powerful AI models?",
+      "choices": [
+        {
+          "text": "Training them takes enormous money, data, and computing power",
+          "correct": true
+        },
+        {
+          "text": "It's illegal for small companies to try",
+          "correct": false
+        },
+        {
+          "text": "No one else is interested",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFrontier models require vast compute, data, and capital — resources only a\nhandful of large firms and labs can muster, concentrating the power.\u003c/p\u003e"
+    },
+    {
+      "id": "card_737672#1",
+      "format": "flip",
+      "prompt": "What's the role of 'open' (downloadable) AI models?",
+      "back_html": "\u003cp\u003eThey counterbalance concentration — letting researchers, smaller companies,\nand individuals run and adapt capable AI without depending on a few gatekeepers.\u003c/p\u003e"
+    }
+  ]
+}

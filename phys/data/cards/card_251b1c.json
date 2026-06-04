@@ -1,0 +1,129 @@
+{
+  "id": "card_251b1c",
+  "slug": "unclonable-encryption",
+  "type": "paper",
+  "title": "Encryption a Thief Can't Even Copy",
+  "hook": "Classical ciphertext can be stolen now and cracked later. Quantum ciphertext can't be duplicated at all — and this construction gets that guarantee with no unproven assumptions.",
+  "key_points": [
+    "Any classical ciphertext can be copied and stored until the key or better hardware turns up.",
+    "Unclonable encryption encodes the message in a quantum state, which no-cloning forbids duplicating.",
+    "The authors give an *unconditional* construction — security rests on physics, not unproven hardness assumptions.",
+    "It is information-theoretically secure, one-time private-key, and covers one-bit messages.",
+    "Encryption and decryption are efficient; an adversary's advantage is exponentially small."
+  ],
+  "content_html": "\u003cp\u003eEncrypted traffic being intercepted today can be filed away and attacked later, once the key leaks or the math gets easier. That \u0026quot;harvest now, decrypt later\u0026quot; problem is baked into classical cryptography for one reason: classical data is copyable. Quantum data isn't — the no-cloning theorem says an unknown quantum state cannot be duplicated — and unclonable encryption turns that into a security guarantee. Prabhanjan Ananth and Amit Sahai now report a construction that achieves it unconditionally.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003e\u0026quot;Unconditionally\u0026quot; is the load-bearing word. Most cryptography rests on assumptions nobody has proved, like factoring being hard; break the assumption and the scheme falls. The authors' scheme is instead information-theoretically secure, meaning the guarantee comes from the structure of quantum mechanics rather than from an adversary's limited computing power. They describe a one-time private-key scheme for one-bit messages with efficient encryption and decryption, and an exponentially small \u0026quot;unclonable-indistinguishability advantage\u0026quot; — the edge an adversary who tries to split the ciphertext between two parties can gain. The parameters make clear this is a foundational result, not a product: one bit, one use. But it establishes that unclonable encryption doesn't need a computational crutch, which is the kind of question the field has been circling for years. See the preprint for the construction.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Prabhanjan Ananth",
+      "Amit Sahai"
+    ],
+    "url": "https://arxiv.org/abs/2607.21551",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3d4d4f",
+      "slug": "entanglement-in-a-fist-sized-crystal",
+      "type": "news",
+      "title": "Quantum Entanglement, Found in a Crystal You Can Hold",
+      "hook": "Entanglement is usually a fragile, microscopic effect. Physicists just found clear signs of it acting across groups of particles inside a crystal big enough to fit in your palm.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-07"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_251b1c#0",
+      "format": "quiz",
+      "prompt": "What does 'unclonable' buy you that ordinary encryption cannot?",
+      "choices": [
+        {
+          "text": "An eavesdropper can't keep a copy of the ciphertext to decrypt once the key leaks",
+          "correct": true
+        },
+        {
+          "text": "The message can be read without any key at all",
+          "correct": false
+        },
+        {
+          "text": "The ciphertext becomes shorter than the plaintext",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eClassical ciphertext is copyable, so \u0026quot;harvest now, decrypt later\u0026quot; always works in principle.\nA quantum ciphertext can't be duplicated, which removes that attack.\u003c/p\u003e"
+    },
+    {
+      "id": "card_251b1c#1",
+      "format": "flip",
+      "prompt": "What makes this construction 'unconditional'?",
+      "back_html": "\u003cp\u003eIts security is \u003cstrong\u003einformation-theoretic\u003c/strong\u003e — it doesn't rest on unproven computational hardness\nassumptions, so no future algorithm or faster computer can undermine it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_251b1c#2",
+      "format": "quiz",
+      "prompt": "What are the stated limits of the scheme?",
+      "choices": [
+        {
+          "text": "It is one-time, private-key, and handles one-bit messages",
+          "correct": true
+        },
+        {
+          "text": "It requires a fault-tolerant quantum computer to run",
+          "correct": false
+        },
+        {
+          "text": "It only works if the sender and receiver never share a key",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors present a one-time private-key scheme for one-bit messages with efficient\nencryption and decryption — a foundational result rather than a deployable product.\u003c/p\u003e"
+    }
+  ]
+}

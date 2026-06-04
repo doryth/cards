@@ -1,0 +1,114 @@
+{
+  "id": "card_08aa81",
+  "slug": "teleportation-over-hollow-core-fibre",
+  "type": "paper",
+  "title": "Quantum Teleportation Down a Fibre That's Mostly Empty Space",
+  "hook": "A quantum state was teleported across a deployed city fibre network while ordinary data traffic blasted through the same strands — because the fibre's core is hollow.",
+  "key_points": [
+    "Quantum teleportation transfers a photon's state to a distant partner of an entangled pair via a joint Bell-state measurement, without shipping the photon itself.",
+    "In real networks, loss, drift, and stray light wreck the fidelity — and classical data traffic in the same fibre is a major noise source.",
+    "Hollow-core fibre guides light mostly through air, so light barely interacts with glass and generates far less Raman scattering noise.",
+    "The team reports Raman noise roughly three orders of magnitude below standard solid-core fibre.",
+    "Teleportation survived alongside classical launch powers up to 160 mW across three nodes of a deployed network in Chengdu.",
+    "The links held photons indistinguishable over long periods without active stabilisation — the researchers call it a plug-and-play path to a quantum internet."
+  ],
+  "content_html": "\u003cp\u003eQuantum teleportation does not move a particle; it moves a particle's state. Measure your photon jointly with one half of an entangled pair, and the pair's far-away partner inherits the state. It works beautifully on a lab bench. On real fibre buried under a city — with loss, drift, and terabits of ordinary internet traffic lighting up the same glass — it mostly doesn't.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eRi-Yao Song and colleagues went after the noise problem with hardware: hollow-core fibre, in which light is guided through an air channel instead of solid glass. Less glass means less light-matter interaction, and specifically far less Raman scattering — the process by which a strong classical beam sprays stray photons across other wavelengths and drowns single-photon detectors. The team measures Raman noise about a thousand times lower than in standard fibre. On a deployed metropolitan network spanning three separated nodes in Chengdu, they teleported states through an intermediate Bell-state measurement while classical data co-propagated at launch powers up to 160 mW. The links also kept photons indistinguishable over long stretches without active stabilisation, which is what makes the authors describe the approach as wavelength-agnostic and plug-and-play: a quantum internet that shares infrastructure with the ordinary one, rather than demanding its own dark fibre.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Ri-Yao Song",
+      "Ya-Zhou Zhao",
+      "Yun-Ru Fan",
+      "Yang-Bin Ma",
+      "Yan-Yu Wei",
+      "Si Shen",
+      "Hao Li",
+      "Li-Xing You",
+      "Kai Guo",
+      "Guang-Can Guo",
+      "Qiang Zhou"
+    ],
+    "url": "https://arxiv.org/abs/2607.25352",
+    "published_at": "2026-07-28",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics",
+    "light-optics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-10",
+  "date": "2026-07-28",
+  "related": [
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3d4d4f",
+      "slug": "entanglement-in-a-fist-sized-crystal",
+      "type": "news",
+      "title": "Quantum Entanglement, Found in a Crystal You Can Hold",
+      "hook": "Entanglement is usually a fragile, microscopic effect. Physicists just found clear signs of it acting across groups of particles inside a crystal big enough to fit in your palm.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "card_251b1c",
+      "slug": "unclonable-encryption",
+      "type": "paper",
+      "title": "Encryption a Thief Can't Even Copy",
+      "hook": "Classical ciphertext can be stolen now and cracked later. Quantum ciphertext can't be duplicated at all — and this construction gets that guarantee with no unproven assumptions.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_08aa81#0",
+      "format": "flip",
+      "prompt": "Why does a hollow core make a fibre better for quantum signals?",
+      "back_html": "\u003cp\u003eLight travels mostly through \u003cstrong\u003eair\u003c/strong\u003e rather than glass, so it barely interacts\nwith the material — cutting Raman scattering noise by about three orders of\nmagnitude versus solid-core fibre.\u003c/p\u003e"
+    },
+    {
+      "id": "card_08aa81#1",
+      "format": "quiz",
+      "prompt": "What practical problem does this result address?",
+      "choices": [
+        {
+          "text": "Running quantum links and high-power classical data traffic through the same deployed fibre",
+          "correct": true
+        },
+        {
+          "text": "Teleporting matter rather than quantum states",
+          "correct": false
+        },
+        {
+          "text": "Beating the speed of light for data transmission",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eClassical traffic normally floods a fibre with scattered light that destroys\nquantum fidelity. In hollow-core fibre, teleportation survived alongside\nclassical launch powers up to 160 mW.\u003c/p\u003e"
+    },
+    {
+      "id": "card_08aa81#2",
+      "format": "flip",
+      "prompt": "In teleportation, what actually crosses the network?",
+      "back_html": "\u003cp\u003eNot the original photon. A \u003cstrong\u003eBell-state measurement\u003c/strong\u003e on it and one half of an\nentangled pair transfers its state to the pair's distant partner.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "card_71db63",
+  "slug": "ai-universal-coronavirus-vaccine",
+  "type": "news",
+  "title": "An AI-Designed 'Universal' Coronavirus Vaccine",
+  "hook": "A vaccine designed with AI to target a whole virus family — not one strain — passed its first human trial safely and triggered immunity against SARS-CoV-2, SARS, and pandemic-risk bat viruses.",
+  "key_points": [
+    "First human trial of an AI-designed universal coronavirus vaccine found it safe and well tolerated.",
+    "It targets features shared across the coronavirus family, aiming to hold up even as the viruses mutate.",
+    "It generated immune responses against multiple coronaviruses, including SARS-CoV-2, SARS, and related bat viruses.",
+    "An early-stage result — designed for breadth and pandemic preparedness, not yet a proven replacement for current shots."
+  ],
+  "content_html": "\u003cp\u003eScientists report the first human trial of a coronavirus vaccine designed with the help of artificial intelligence — and the goal is unusually ambitious. Rather than chasing one variant at a time, the vaccine is built to recognize features common to an entire family of coronaviruses. In the trial it was found safe and well tolerated, and it triggered immune responses against several of them, including SARS-CoV-2, the original SARS virus, and related bat viruses thought to carry pandemic potential.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe appeal of a \u0026quot;universal\u0026quot; design, as ScienceDaily describes it, is that today's vaccines often need updating as a virus drifts. By aiming at the parts of the virus that stay relatively constant across the whole family, researchers hope to make protection that doesn't go stale as quickly — and that might blunt a future coronavirus we haven't seen yet.\u003c/p\u003e\n\u003cp\u003eIt's worth keeping expectations grounded. This is an early-phase trial showing the shot is safe and provokes the immune system; that is a long way from proving it actually prevents illness in the real world. Those answers come from larger trials. Still, pairing AI-driven design with a pandemic-preparedness goal is a notable direction for vaccine science.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260605023357.htm",
+    "published_at": "2026-06-05",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "vaccines"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-08",
+  "date": "2026-06-05",
+  "related": [
+    {
+      "id": "card_d8a0ad",
+      "slug": "vaccines-adults-still-need",
+      "type": "concept",
+      "title": "Vaccines Adults Still Need",
+      "hook": "Vaccination isn't just a childhood checklist. Protection from some shots fades, new ones are recommended with age, and a few need regular boosters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9bbd5f",
+      "slug": "flu-and-seasonal-shots",
+      "type": "concept",
+      "title": "Flu and Seasonal Shots",
+      "hook": "Some vaccines are a yearly habit, not a one-time event — because the viruses change, or immunity fades, and a fresh shot keeps protection current each season.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_14abd3",
+      "slug": "ai-clinical-second-opinion-trial",
+      "type": "news",
+      "title": "AI Gave Doctors a 'Second Pair of Eyes.' Did Patients Benefit?",
+      "hook": "A 10,000-visit trial in Kenyan clinics gave clinicians an AI 'second opinion.' It cut their documented errors — but didn't clearly improve how patients actually fared.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_71db63#0",
+      "format": "flip",
+      "prompt": "How does a 'universal' coronavirus vaccine aim to stay effective as the viruses mutate?",
+      "back_html": "\u003cp\u003eInstead of targeting one strain, it's designed to recognize features \u003cstrong\u003eshared across\nthe whole coronavirus family\u003c/strong\u003e. Those shared parts change less as individual viruses\nevolve, so the protection is meant to be broader and more durable.\u003c/p\u003e"
+    },
+    {
+      "id": "card_71db63#1",
+      "format": "quiz",
+      "prompt": "What did the first human trial of this AI-designed vaccine actually show?",
+      "choices": [
+        {
+          "text": "It was safe and triggered immune responses against several coronaviruses",
+          "correct": true
+        },
+        {
+          "text": "It cured active COVID-19 infections",
+          "correct": false
+        },
+        {
+          "text": "It permanently replaced all seasonal vaccines",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe trial found the vaccine safe and well tolerated, and it generated immune responses\nagainst multiple coronaviruses. That's an early safety-and-immunity signal — not proof\nit prevents disease or replaces other shots.\u003c/p\u003e"
+    }
+  ]
+}

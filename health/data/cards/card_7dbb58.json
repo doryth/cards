@@ -1,0 +1,109 @@
+{
+  "id": "card_7dbb58",
+  "slug": "shingles-vaccine-dementia-risk",
+  "type": "news",
+  "title": "The Shingles Shot and Dementia Risk",
+  "hook": "In more than 500,000 older adults, those who got Shingrix were 24% less likely to be diagnosed with dementia over four years — an unusually large signal from a vaccine you're already due for.",
+  "key_points": [
+    "Older adults who received the Shingrix shingles vaccine had 24% lower dementia diagnosis rates over four years.",
+    "The study followed more than 500,000 people.",
+    "Researchers estimate roughly one dementia case avoided per 17 people vaccinated.",
+    "This is observational: vaccinated people may differ from unvaccinated ones in other ways.",
+    "It fits a growing pattern linking viral infection and inflammation to dementia risk.",
+    "The shingles vaccine is already recommended from around age 50 on its own merits."
+  ],
+  "content_html": "\u003cp\u003eShingles is caused by the chickenpox virus reawakening decades later, and the Shingrix vaccine is already recommended for adults from around age 50. This study asked a different question: among more than 500,000 older adults, were the vaccinated ones less likely to be diagnosed with dementia? Over four years, they were — by 24%, which the researchers translate to roughly one case avoided for every 17 people vaccinated.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe number is large enough to be worth taking seriously and large enough to be worth doubting. This is observational data, not a trial, and the people who show up for a shingles shot are systematically different from those who don't — better access to care, more engaged with their health, often healthier to begin with. That \u0026quot;healthy vaccinee\u0026quot; effect can manufacture a protective association out of nothing.\u003c/p\u003e\n\u003cp\u003eWhat keeps it interesting is that it fits a wider pattern: several lines of evidence now link persistent viral infection and chronic inflammation to dementia risk, and a vaccine that keeps a herpesvirus dormant is a plausible way to interrupt that. Either way, the practical takeaway is unchanged and easy — if you're over 50 and haven't had the two-dose Shingrix series, it's already on your list.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260823015013.htm",
+    "published_at": "2026-08-25",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "vaccines",
+    "healthy-aging"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-25",
+  "related": [
+    {
+      "id": "card_d8a0ad",
+      "slug": "vaccines-adults-still-need",
+      "type": "concept",
+      "title": "Vaccines Adults Still Need",
+      "hook": "Vaccination isn't just a childhood checklist. Protection from some shots fades, new ones are recommended with age, and a few need regular boosters.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cafbdc",
+      "slug": "half-of-dementia-risk-is-modifiable",
+      "type": "news",
+      "title": "Nearly Half of Dementia Risk Is Something You Can Change",
+      "hook": "A long-term brain study tied smoking, high blood pressure, heart disease, and high blood lipids to the damage behind vascular dementia — risks that are all treatable.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-06"
+    },
+    {
+      "id": "card_2ead17",
+      "slug": "keeping-your-brain-healthy",
+      "type": "concept",
+      "title": "Keeping Your Brain Healthy",
+      "hook": "No pill prevents dementia, but the habits that protect your heart turn out to protect your brain too.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_37bd27",
+      "slug": "dementia-risk-varies-by-country",
+      "type": "news",
+      "title": "Where You Live Could Shape Your Dementia Risk",
+      "hook": "A massive study of over 214,000 people found dementia risk factors differ widely by country — challenging the idea that one prevention checklist fits everyone.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7dbb58#0",
+      "format": "flip",
+      "prompt": "What did this study find about Shingrix and dementia?",
+      "back_html": "\u003cp\u003eOver four years, vaccinated older adults were \u003cstrong\u003e24% less likely\u003c/strong\u003e to be diagnosed with\ndementia, in a cohort of more than 500,000 people — roughly one case avoided per 17 vaccinated.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7dbb58#1",
+      "format": "quiz",
+      "prompt": "What's the key limitation of a result like this?",
+      "choices": [
+        {
+          "text": "It's observational — people who get vaccinated may differ in other health-relevant ways",
+          "correct": true
+        },
+        {
+          "text": "The sample was too small to detect an effect",
+          "correct": false
+        },
+        {
+          "text": "Dementia can't be diagnosed within four years",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith half a million people the sample is ample. The risk is \u003cstrong\u003econfounding\u003c/strong\u003e: those who\nseek out vaccines also tend to seek out other care, which can mimic a protective effect.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7dbb58#2",
+      "format": "flip",
+      "prompt": "Does this change what you should actually do?",
+      "back_html": "\u003cp\u003eNot really — the shingles vaccine is already recommended from around age 50 to prevent\nshingles itself. A possible dementia benefit is a bonus reason, not a new indication.\u003c/p\u003e"
+    }
+  ]
+}

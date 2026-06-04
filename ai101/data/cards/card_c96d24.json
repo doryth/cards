@@ -1,0 +1,109 @@
+{
+  "id": "card_c96d24",
+  "slug": "musicians-hunting-ai-grifters",
+  "type": "news",
+  "title": "Musicians Turned Detectives Are Hunting AI Grifters",
+  "hook": "AI-made tracks are flooding streaming platforms, and some uploaders flatly deny using AI. Working musicians have started doing the forensics themselves.",
+  "key_points": [
+    "The Verge reported on August 29, 2026 on musicians investigating undisclosed AI-generated music.",
+    "Generative audio tools have grown sophisticated enough that AI tracks fill the internet.",
+    "The melodies and vocals are algorithmically derived from the work of human artists.",
+    "Some uploaders admit to using AI; others deny it — which is what turns fans into investigators.",
+    "The pattern generalizes: as generators improve, disclosure matters more than detection."
+  ],
+  "content_html": "\u003cp\u003eGenerative audio tools have gotten good enough that a lot of what's uploaded to streaming platforms is AI-made — music whose melodies and vocals are algorithmically derived from the work of human artists. On August 29, 2026, The Verge reported on the response: musicians and fans turning themselves into investigators, digging through releases to work out which artists are quietly using AI.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe reason it's fans doing this is that disclosure is voluntary. Some people pumping out AI music say so up front. Others deny it, and there's no reliable authority to check. So listeners compare release schedules, vocal artifacts, and suspiciously prolific output, and argue about it in public.\u003c/p\u003e\n\u003cp\u003eThat's a familiar shape by now, and it's the reason \u0026quot;spotting AI\u0026quot; is a losing game long-term: every improvement in the generator makes the telltale signs fainter, while the incentive to hide the tool stays constant. Detection is a stopgap. What actually scales is disclosure — labels attached at upload by the platform or the tool — which is why so many of the fights in this space are about labelling rules rather than about detectors.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Charles Pulliam-Moore"
+    ],
+    "url": "https://theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "published_at": "2026-08-29",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "spotting-ai",
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-31",
+  "date": "2026-08-29",
+  "related": [
+    {
+      "id": "card_990b33",
+      "slug": "suno-watermark-ai-music",
+      "type": "news",
+      "title": "The Biggest AI Music Maker Wants to Label Its Own Songs",
+      "hook": "Suno is adding watermarking and download rules to stem the flood of AI tracks clogging streaming services — a rare case of a generator volunteering to mark its output.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-06"
+    },
+    {
+      "id": "card_11daca",
+      "slug": "spotify-ai-persona-labels",
+      "type": "news",
+      "title": "Spotify Will Badge AI Artists — and Stop Recommending Them",
+      "hook": "From mid-September, artists that 'do not represent a real person' get an AI Persona badge, and Spotify keeps them out of your recommendations. Labeling plus demotion, not a ban.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_7a965e",
+      "slug": "ai-creators-harder-to-spot",
+      "type": "news",
+      "title": "AI 'Creators' Are Getting Harder to Spot",
+      "hook": "AI influencers used to be easy to clock — too-smooth skin, an uncanny stare. The tells are vanishing, and fully synthetic 'creators' now slip into feeds without announcing themselves.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_c96d24#0",
+      "format": "flip",
+      "prompt": "Why are listeners doing the detective work instead of the platforms?",
+      "back_html": "\u003cp\u003eBecause disclosure is voluntary. Some uploaders admit to using AI, others deny\nit — so fans and musicians investigate the tracks themselves.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c96d24#1",
+      "format": "quiz",
+      "prompt": "Where do the melodies and vocals in AI-generated music come from?",
+      "choices": [
+        {
+          "text": "They're algorithmically derived from the work of human artists",
+          "correct": true
+        },
+        {
+          "text": "They're invented from scratch with no reference to existing music",
+          "correct": false
+        },
+        {
+          "text": "They're licensed note-for-note from each original artist",
+          "correct": false
+        },
+        {
+          "text": "They're recorded by session musicians and relabeled",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGenerative audio models learn patterns from existing recordings, which is why\nthe output can echo particular human artists.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c96d24#2",
+      "format": "flip",
+      "prompt": "As generators get better, what protects listeners more — detection or disclosure?",
+      "back_html": "\u003cp\u003eDisclosure. Detection gets harder as the tools improve, so the durable fix is a\nlabel the uploader or platform is required to attach.\u003c/p\u003e"
+    }
+  ]
+}

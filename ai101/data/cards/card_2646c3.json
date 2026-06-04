@@ -1,0 +1,100 @@
+{
+  "id": "card_2646c3",
+  "slug": "talking-with-your-voice",
+  "type": "concept",
+  "title": "Voice Assistants",
+  "hook": "Siri and Alexa could set a timer; the new voice AIs can hold a real conversation. Talking is becoming a normal way to use AI — handy, natural, and always a little bit listening.",
+  "key_points": [
+    "Older assistants did simple commands; new voice AI converses fluently and helps with real tasks.",
+    "Great hands-free: cooking, driving, accessibility, practicing a language.",
+    "It works by turning speech to text, thinking, then speaking back — same AI underneath.",
+    "Privacy trade-off: a device that hears your wake word is, by design, listening for it."
+  ],
+  "content_html": "\u003cp\u003eVoice assistants have been around for years, but they used to be glorified command-takers: \u0026quot;set a timer,\u0026quot; \u0026quot;what's the weather,\u0026quot; \u0026quot;play that song\u0026quot; — and not much beyond a narrow script. That's changing fast. Plug a modern language model into a microphone and speaker, and you get something that can actually \u003cem\u003econverse\u003c/em\u003e — answer follow-ups, handle nuance, brainstorm with you, even chat to pass the time. Talking is quietly becoming a normal way to use AI, not just typing.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eUnder the hood it's less mysterious than it feels: the device turns your speech into text, runs that through the same kind of AI behind chatbots, then converts the reply back into a spoken voice. The appeal is real, especially hands-free — cooking, driving, working out — and it's transformative for accessibility and for practicing a foreign language out loud with infinite patience. The catch is privacy, and it's worth being clear-eyed about. A device that responds to a wake word has to be \u003cem\u003elistening\u003c/em\u003e for that word, which means an always-on microphone in your home or pocket. Reputable products only send audio to the cloud after the wake word, but companies have had stumbles, and some keep recordings or have humans review samples to improve accuracy. The practical move is to visit the settings: see what's stored, turn off human review if offered, and delete your voice history periodically. Convenience and an open microphone come together — knowing the trade-off lets you decide how much you want.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "voice-ai"
+  ],
+  "tags": [
+    "speech",
+    "agent"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_7a2c16",
+      "slug": "what-is-a-chatbot",
+      "type": "concept",
+      "title": "Chatbots \u0026 Assistants",
+      "hook": "ChatGPT, Claude, and Gemini feel like talking to a person, but they're generative AI with a chat wrapper — brilliant writing partners, unreliable encyclopedias.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_af34d5",
+      "slug": "ai-in-everyday-tools",
+      "type": "concept",
+      "title": "AI in Everyday Tools",
+      "hook": "You've used AI for years without calling it that — every time your phone unlocks with your face, your maps reroute around traffic, or your inbox filters spam.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3f3416",
+      "slug": "siri-ai-arrives",
+      "type": "news",
+      "title": "Siri Gets Rebuilt as a Real Assistant",
+      "hook": "After years of promises, Apple unveiled 'Siri AI' — an 'entirely new version' that's more conversational and can handle messy tasks, like turning a flyer into calendar events. It's now in public beta.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2646c3#0",
+      "format": "quiz",
+      "prompt": "How is new voice AI different from the old Siri/Alexa?",
+      "choices": [
+        {
+          "text": "It holds fluent, back-and-forth conversations instead of simple commands",
+          "correct": true
+        },
+        {
+          "text": "It runs without any internet at all",
+          "correct": false
+        },
+        {
+          "text": "It only understands one language",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEarly assistants handled rigid commands ('set a timer'). Newer voice AI,\npowered by modern language models, can actually converse and handle nuance.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2646c3#1",
+      "format": "flip",
+      "prompt": "What's the privacy trade-off of a voice assistant?",
+      "back_html": "\u003cp\u003eTo catch its wake word, the device is always listening for it. Check the\nsettings for what's recorded, stored, or reviewed — and delete history if you like.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "card_2a6bac",
+  "slug": "gunshot-detection-technology",
+  "type": "blog",
+  "title": "Gunshot Detection Tech",
+  "hook": "Cities pay millions for microphones that promise to pinpoint gunfire and speed up police. The evidence that it actually works is surprisingly thin.",
+  "key_points": [
+    "Acoustic gunshot detection (e.g., ShotSpotter) uses networked microphones to flag likely gunfire and alert police to a location.",
+    "Research on Detroit's deployment found it did not measurably speed up officer response times.",
+    "Of nearly 5,900 alerts in one study period, almost none led to an arrest; false alerts are a known problem.",
+    "Whether it reduces violence is unclear — Detroit's homicides fell, but other anti-violence programs ran at the same time.",
+    "Several big U.S. cities have dropped the technology, citing weak evidence of any public-safety benefit."
+  ],
+  "content_html": "\u003cp\u003eIt sounds like an obvious win: scatter microphones across a city, let software listen for gunfire, and send police straight to the spot within seconds. Gunshot detection systems like ShotSpotter are sold on exactly that promise — and cities have spent millions on them. The trouble comes when researchers check the results.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWriting in The Conversation, researchers Tian An Wong and Divya Ramjee examine Detroit's use of ShotSpotter and find the technology did not measurably improve police response times. In one deployment period the system generated nearly 5,900 alerts, almost none of which led to an arrest, and false positives and missed shots are recurring problems. Whether the tools reduce violence is unclear — Detroit's homicides did fall, but the city ran other anti-violence programs at the same time, so the cause can't be pinned on the sensors. The authors note that renewal decisions often aren't grounded in any rigorous review, and several big cities — including Chicago — have dropped the technology over thin evidence. The broader lesson is about evidence-based governance: shiny surveillance tools tend to outrun the proof that they actually work, and citizens have reason to demand that proof first.\u003c/p\u003e",
+  "source": {
+    "name": "The Conversation",
+    "authors": [
+      "Tian An Wong",
+      "Divya Ramjee"
+    ],
+    "url": "https://theconversation.com/detroit-is-spending-millions-on-gunshot-detection-tech-is-it-an-effective-tool-in-the-fight-against-violent-crime-281590",
+    "published_at": "2026-06-08",
+    "license": "© The Conversation (CC BY-ND)"
+  },
+  "topic_ids": [
+    "technology-and-politics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-11",
+  "date": "2026-06-08",
+  "related": [
+    {
+      "id": "card_cbef24",
+      "slug": "surveillance-and-privacy",
+      "type": "concept",
+      "title": "Surveillance \u0026 Privacy",
+      "hook": "Technology lets states and companies watch people at a scale once unimaginable — putting the old right to be left alone on a collision course with security and profit.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_94e772",
+      "slug": "technology-and-democracy",
+      "type": "concept",
+      "title": "Technology \u0026 Democracy",
+      "hook": "The internet promised to supercharge democracy — more voice, more information, more connection. It delivered that, and a tangle of new threats alongside it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2a6bac#0",
+      "format": "flip",
+      "prompt": "How does acoustic gunshot detection technology like ShotSpotter work?",
+      "back_html": "\u003cp\u003eNetworked \u003cstrong\u003emicrophones\u003c/strong\u003e across a city detect likely gunfire and alert\npolice to its location, aiming to speed up response.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2a6bac#1",
+      "format": "quiz",
+      "prompt": "What did research on Detroit's ShotSpotter deployment find?",
+      "choices": [
+        {
+          "text": "It did not measurably improve officer response times, and almost no alerts led to arrests",
+          "correct": true
+        },
+        {
+          "text": "It cut response times in half and solved most shootings",
+          "correct": false
+        },
+        {
+          "text": "It eliminated gun violence within a year",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study found minimal effect on response times and arrests, with false\nalerts a persistent problem.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2a6bac#2",
+      "format": "quiz",
+      "prompt": "What broader governance lesson does the gunshot-detection case illustrate?",
+      "choices": [
+        {
+          "text": "Expensive surveillance tools are often adopted faster than rigorous evidence that they work",
+          "correct": true
+        },
+        {
+          "text": "New policing technology always pays for itself",
+          "correct": false
+        },
+        {
+          "text": "Cities are legally required to use such tools",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors note renewals often lack rigorous review, and several cities\ndropped the tech over weak evidence.\u003c/p\u003e"
+    }
+  ]
+}

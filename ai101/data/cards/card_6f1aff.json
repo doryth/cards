@@ -1,0 +1,120 @@
+{
+  "id": "card_6f1aff",
+  "slug": "twitch-ai-training-optout",
+  "type": "news",
+  "title": "Your Streams Trained Amazon's AI. Now There's a Switch.",
+  "hook": "Twitch content has fed Amazon's AI models for years. A new setting finally lets streamers opt out — of future training only, which is how these switches usually work.",
+  "key_points": [
+    "Twitch now offers an opt-out from using your content to train Amazon's generative AI.",
+    "Coverage says it spans streams, VODs, clips, chats, and channel images and text.",
+    "The opt-out applies to future training — models already trained don't forget.",
+    "Amazon's terms said user content 'may be used' for gen-AI improvement all along.",
+    "Pattern to learn: the default is opt-in, and the control appears years later."
+  ],
+  "content_html": "\u003cp\u003eIf you've streamed on Twitch, your content has likely been part of training Amazon's AI models — the platform's terms have long said user-generated content \u0026quot;may be used for future Gen AI model improvements.\u0026quot; As Ars Technica and The Verge both reported this week, Twitch has now added a setting to opt out. Per the reporting, it covers your streams, VODs, clips, stream chats, and the pictures and text on your channel.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo things are worth pulling out of a story like this. First, the direction of the default: using your content for training was on unless you turned it off, and the off switch arrived years into the practice. That's the pattern across most platforms, which is why it pays to re-check the privacy settings on services where you publish.\u003c/p\u003e\n\u003cp\u003eSecond, what an opt-out can and can't do. It governs \u003cem\u003efuture\u003c/em\u003e training. Models that have already been trained on your material don't hold a tidy copy they can delete — the data is baked into billions of numeric weights, and selectively removing one streamer's influence isn't something you can just ask for. Opting out shapes what happens next, not what already happened.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Scharon Harding"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now",
+    "published_at": "2026-08-12",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "privacy-data",
+    "ai-ownership",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "training",
+    "dataset"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_98e80e",
+      "slug": "google-search-history-ai-training",
+      "type": "news",
+      "title": "Google Will Save Your Searches to Train AI",
+      "hook": "Google is adding a setting that saves the photos, audio, and video you use to search — Lens snaps, voice queries, Translate clips — and that data can help train its AI. Worth a look.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "card_d53f08",
+      "slug": "your-data-and-privacy",
+      "type": "concept",
+      "title": "Your Data \u0026 Privacy",
+      "hook": "When you type into a free AI tool, you might be the product. What you share can be stored, reviewed by humans, and used to train future models — so share like it's not private.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6c6e41",
+      "slug": "where-ai-learns-from",
+      "type": "concept",
+      "title": "Where AI Learns From",
+      "hook": "An AI is a mirror of its training data — and most big models learned from a giant scrape of the public internet. That explains both their broad knowledge and their inherited flaws.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6f1aff#0",
+      "format": "quiz",
+      "prompt": "What does the Twitch opt-out actually change?",
+      "choices": [
+        {
+          "text": "Your content won't be used in future AI training — past training isn't undone",
+          "correct": true
+        },
+        {
+          "text": "It erases your content from every model Amazon has ever trained",
+          "correct": false
+        },
+        {
+          "text": "It deletes your streams and clips from Twitch",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eOpt-outs are forward-looking. A model that already absorbed your data during\ntraining can't selectively unlearn it, so the switch only affects what comes next.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6f1aff#1",
+      "format": "flip",
+      "prompt": "What kinds of Twitch content does the opt-out cover?",
+      "back_html": "\u003cp\u003ePer the reporting: your streams, VODs, clips, stream chats, and the pictures\nand text on your channel.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6f1aff#2",
+      "format": "quiz",
+      "prompt": "What general lesson does this story teach about platforms and AI training?",
+      "choices": [
+        {
+          "text": "Training on user content is usually the default, with an opt-out arriving only later",
+          "correct": true
+        },
+        {
+          "text": "Platforms must get written permission before any training",
+          "correct": false
+        },
+        {
+          "text": "User content is legally off-limits for AI training",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAmazon's terms already allowed gen-AI use; the control showed up years into the\npractice. Checking your settings periodically is the practical takeaway.\u003c/p\u003e"
+    }
+  ]
+}

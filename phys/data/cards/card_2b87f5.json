@@ -1,0 +1,94 @@
+{
+  "id": "card_2b87f5",
+  "slug": "electric-charge-and-current",
+  "type": "concept",
+  "title": "Electric Charge \u0026 Current",
+  "hook": "Everything electrical comes down to charge — and an electric current is simply charge on the move.",
+  "key_points": [
+    "Charge comes in two kinds, positive and negative; like charges repel, opposites attract.",
+    "An electric current is the flow of charge, usually electrons moving through a wire.",
+    "Voltage is the push that drives current; resistance is what opposes it.",
+    "Charge is conserved — it's never created or destroyed, only moved around."
+  ],
+  "content_html": "\u003cp\u003eElectricity starts with electric charge, a fundamental property of matter that comes in two kinds: positive and negative. The rule is simple — like charges repel each other, opposite charges attract. Protons carry positive charge and electrons carry negative charge, and most objects are neutral because the two balance out.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAn electric current is nothing more exotic than charge in motion. In a wire it's electrons drifting along, pushed by a voltage — the electrical \u0026quot;pressure\u0026quot; that drives them. Resistance is whatever opposes that flow, turning some electrical energy into heat. Underlying all of it is conservation of charge: charge is never created or destroyed, only shuffled from place to place, which is why a circuit must form a complete loop for current to flow. HyperPhysics lays out charge, current, voltage, and resistance and how they fit together.\u003c/p\u003e",
+  "source": {
+    "name": "HyperPhysics (Georgia State University)",
+    "authors": [
+      "Rod Nave"
+    ],
+    "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/elecur.html",
+    "license": "© Georgia State University (educational use)"
+  },
+  "topic_ids": [
+    "electricity-magnetism"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1c33ae",
+      "slug": "electromagnetism",
+      "type": "concept",
+      "title": "Electricity \u0026 Magnetism Are One Force",
+      "hook": "Move a magnet near a wire and you make electricity; run current through a wire and you make a magnet. They're two faces of the same force.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_2b87f5#0",
+      "format": "flip",
+      "prompt": "What is an electric current?",
+      "back_html": "\u003cp\u003eThe flow of electric charge — usually electrons moving through a wire. It is\ncharge in motion, not a new kind of thing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2b87f5#1",
+      "format": "quiz",
+      "prompt": "How do two negative charges interact?",
+      "choices": [
+        {
+          "text": "They repel — like charges push apart",
+          "correct": true
+        },
+        {
+          "text": "They attract — like charges pull together",
+          "correct": false
+        },
+        {
+          "text": "They neither attract nor repel",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLike charges repel and opposite charges attract, so two negatives push each\nother away.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2b87f5#2",
+      "format": "quiz",
+      "prompt": "In a simple circuit, what role does voltage play?",
+      "choices": [
+        {
+          "text": "It is the push that drives charge through the circuit",
+          "correct": true
+        },
+        {
+          "text": "It is the opposition to current flow",
+          "correct": false
+        },
+        {
+          "text": "It is the total amount of charge stored",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVoltage is the driving push; resistance opposes the flow, and current is the\nresulting flow of charge.\u003c/p\u003e"
+    }
+  ]
+}

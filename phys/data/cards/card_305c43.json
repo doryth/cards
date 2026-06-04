@@ -1,0 +1,122 @@
+{
+  "id": "card_305c43",
+  "slug": "dark-stars-cosmic-hum",
+  "type": "news",
+  "title": "A Cosmic Hum From Dark Stars?",
+  "hook": "The faint gravitational-wave rumble filling the universe may be an echo of dark-matter-powered stars from cosmic dawn — and the seeds of the first giant black holes.",
+  "key_points": [
+    "The gravitational-wave background is a low-frequency hum built from countless unresolved sources blended together.",
+    "Its origin is contested; the leading candidate is merging supermassive black holes in distant galaxies.",
+    "The new proposal traces a major portion of the signal to descendants of hypothetical Dark Stars from the universe's first few hundred million years.",
+    "Dark Stars would be enormous early stars supported by dark matter annihilation rather than ordinary fusion.",
+    "Collapsing, they would leave unusually heavy black hole seeds — a shortcut to the supermassive black holes seen surprisingly early.",
+    "If the link holds, the hum becomes a joint probe of cosmic dawn and of dark matter itself."
+  ],
+  "content_html": "\u003cp\u003eSpace is filled with a faint gravitational-wave rumble — a background hum made of countless sources too blended to pick apart. Where it comes from is still argued over; merging supermassive black holes are the usual suspects. A new proposal reported by ScienceDaily adds a stranger source: the descendants of Dark Stars, hypothetical objects from the universe's first few hundred million years that were held up by dark matter annihilation rather than nuclear fusion.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe appeal is that it solves two problems with one idea. Dark Stars could grow enormous, so when they collapsed they would leave unusually heavy black hole seeds — a plausible head start for the supermassive black holes astronomers keep finding earlier in cosmic history than models comfortably allow. And if their merging descendants really do contribute a major share of the background, then the hum stops being just an astrophysical nuisance signal and becomes a way to study cosmic dawn and dark matter at the same time. This is a theoretical proposal, not a measurement; see the source for the modelling behind it.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260827010457.htm",
+    "published_at": "2026-08-27",
+    "license": "ScienceDaily (press summary)"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-27",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_fb31ee",
+      "slug": "heavy-black-hole-seeds-need-less-light",
+      "type": "paper",
+      "title": "Giant Black Hole Seeds May Be Far Easier to Make Than We Thought",
+      "hook": "To grow the monster quasars seen in the early universe, you need heavy black hole seeds — and those were thought to require rare, intense radiation. New simulations say a modest glow will do.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-13"
+    },
+    {
+      "id": "card_67d2a9",
+      "slug": "stochastic-gravitational-wave-background-limits",
+      "type": "paper",
+      "title": "Closing In on the Gravitational-Wave Hum",
+      "hook": "Every merger the universe has ever had leaves a faint background rumble. LIGO-Virgo-KAGRA still can't hear it — but their new limit is now within a factor of a few of where it should be.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7b1e60",
+      "slug": "primordial-black-holes-little-red-dots",
+      "type": "paper",
+      "title": "Did Clusters of Primordial Black Holes Seed JWST's Puzzling 'Little Red Dots'?",
+      "hook": "JWST found overweight black holes far too early in the universe for standard theories to explain. One proposal: they were seeded by swarms of black holes born moments after the Big Bang.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-10"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_305c43#0",
+      "format": "flip",
+      "prompt": "What is the gravitational-wave background?",
+      "back_html": "\u003cp\u003eA low-frequency \u003cstrong\u003ehum\u003c/strong\u003e made of countless gravitational-wave sources too faint or too\noverlapping to resolve individually — not one event, but the blend of many.\u003c/p\u003e"
+    },
+    {
+      "id": "card_305c43#1",
+      "format": "quiz",
+      "prompt": "What powers a hypothetical Dark Star?",
+      "choices": [
+        {
+          "text": "Annihilation of dark matter inside it, rather than nuclear fusion",
+          "correct": true
+        },
+        {
+          "text": "Accretion onto a central black hole",
+          "correct": false
+        },
+        {
+          "text": "Ordinary hydrogen fusion, just at enormous scale",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDark Stars are proposed early stars held up by energy from dark matter annihilation\ninstead of fusion, which lets them grow far larger than normal stars.\u003c/p\u003e"
+    },
+    {
+      "id": "card_305c43#2",
+      "format": "flip",
+      "prompt": "Why would Dark Star descendants help explain early supermassive black holes?",
+      "back_html": "\u003cp\u003eTheir collapse would leave unusually \u003cstrong\u003eheavy black hole seeds\u003c/strong\u003e, giving giant black holes\na head start — which helps explain the ones observed surprisingly early in cosmic history.\u003c/p\u003e"
+    }
+  ]
+}

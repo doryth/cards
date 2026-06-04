@@ -1,0 +1,80 @@
+{
+  "id": "card_a20f71",
+  "slug": "melanomas-immortality-trick",
+  "type": "news",
+  "title": "Melanoma's Secret to Cheating Death",
+  "hook": "Scientists say they've found the missing genetic ingredient that lets melanoma cells become effectively immortal — a discovery that could open new lines of attack on the cancer.",
+  "key_points": [
+    "Normal cells have a built-in limit on how many times they can divide before dying.",
+    "Researchers identified the genetic ingredient that lets melanoma cells sidestep that limit.",
+    "The mechanism helps explain why melanoma is so persistent and hard to eradicate.",
+    "The finding points toward new treatments aimed at disrupting cancer's survival machinery."
+  ],
+  "content_html": "\u003cp\u003eMost cells carry a built-in expiration date — a limit on how many times they can divide before they die off. Cancer cells like melanoma evade that limit, effectively becoming immortal, but exactly how has been a long-standing puzzle. According to ScienceDaily, researchers say they've now identified the missing genetic ingredient that lets melanoma cells pull this off.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSolving that mechanism matters because it hands researchers a specific target: if scientists can find a way to disrupt the process that keeps melanoma cells dividing indefinitely, they may be able to strip the cancer of one of its most important survival strategies. The finding is described as a breakthrough that could open the door to new treatments, though it's still early — turning a mechanistic discovery into an actual therapy is a much longer road.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260625014833.htm",
+    "published_at": "2026-06-30",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-06",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_b3f798",
+      "slug": "new-sunscreen-ingredient-approved",
+      "type": "news",
+      "title": "The First New Sunscreen Filter in the U.S. in 20 Years",
+      "hook": "The FDA approved bemotrizinol — a broad-spectrum UV filter used for decades in Europe and Asia — the first new sunscreen ingredient cleared in the U.S. in about 20 years.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "card_e94193",
+      "slug": "mrna-melanoma-vaccine",
+      "type": "news",
+      "title": "An mRNA Vaccine Aimed at Keeping Melanoma From Coming Back",
+      "hook": "Merck and Moderna say a late-stage trial of their mRNA melanoma vaccine succeeded — a shot meant not to prevent cancer, but to stop it from returning after surgery.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-08-20"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a20f71#0",
+      "format": "flip",
+      "prompt": "What long-standing mystery about melanoma did researchers say they solved?",
+      "back_html": "\u003cp\u003eHow melanoma cells become effectively \u003cstrong\u003eimmortal\u003c/strong\u003e — they found the missing genetic\ningredient that lets these cells bypass the normal limit on cell division.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a20f71#1",
+      "format": "quiz",
+      "prompt": "Why does this discovery matter for future cancer treatment?",
+      "choices": [
+        {
+          "text": "It could open new ways to disrupt one of cancer's key survival strategies",
+          "correct": true
+        },
+        {
+          "text": "It proves melanoma cannot be treated",
+          "correct": false
+        },
+        {
+          "text": "It shows melanoma cells behave identically to normal cells",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eUnderstanding the mechanism behind melanoma's near-immortality gives researchers a new\ntarget: disrupt that survival trick, and the cancer may become easier to treat.\u003c/p\u003e"
+    }
+  ]
+}

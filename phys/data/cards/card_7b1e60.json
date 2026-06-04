@@ -1,0 +1,102 @@
+{
+  "id": "card_7b1e60",
+  "slug": "primordial-black-holes-little-red-dots",
+  "type": "paper",
+  "title": "Did Clusters of Primordial Black Holes Seed JWST's Puzzling 'Little Red Dots'?",
+  "hook": "JWST found overweight black holes far too early in the universe for standard theories to explain. One proposal: they were seeded by swarms of black holes born moments after the Big Bang.",
+  "key_points": [
+    "JWST has spotted 'Little Red Dots' — compact, unusually massive, actively feeding black holes in young galaxies from when the universe was only a few hundred million years old.",
+    "Standard models struggle to grow black holes that massive that quickly from ordinary stellar collapse.",
+    "A new theoretical proposal: a central primordial black hole, surrounded by a swarm of smaller ones embedded in gas, could rapidly grow by swallowing its neighbors within tens of millions of years.",
+    "The model predicts a distinctive gravitational-wave signature from the swarm's inspirals — a testable prediction for future observatories, not yet a confirmed detection."
+  ],
+  "content_html": "\u003cp\u003eAmong the biggest surprises from the James Webb Space Telescope are the \u0026quot;Little Red Dots\u0026quot; — compact, actively feeding black holes found in galaxies from when the universe was only a few hundred million years old, and far more massive than standard theories expect black holes to grow that fast from ordinary collapsing stars.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003ePhysicist Juan Garcia-Bellido proposes an alternative origin: primordial black holes, hypothetical black holes that could have formed directly from density fluctuations moments after the Big Bang, long before any stars existed. In this picture, a heavier primordial black hole \u0026quot;nucleus\u0026quot; sits at the center of a dense, gas-embedded swarm of lighter primordial black holes. Friction from the surrounding gas lets the swarm sink inward and get swallowed within tens of millions of years — fast enough to build a Little-Red-Dot-scale seed well before the epoch JWST observed. The model makes a concrete, testable prediction: the swarm's mergers should leave behind a distinctive gravitational-wave signature, differing from what a directly-formed black hole seed of the same mass would produce — something future gravitational-wave observatories could eventually check, though this remains an unconfirmed theoretical proposal rather than a detection.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Juan Garcia-Bellido"
+    ],
+    "url": "https://arxiv.org/abs/2607.09201",
+    "published_at": "2026-07-10",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-16",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_326281",
+      "slug": "ancient-quasars-too-early",
+      "type": "news",
+      "title": "31 Quasars That Are Too Old to Make Sense",
+      "hook": "Astronomers found 31 quasars shining from when the universe was just 5% of its current age — powered by black holes that shouldn't have had time to grow so big yet.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_3c0997",
+      "slug": "ligo-signal-primordial-black-holes-dark-matter",
+      "type": "news",
+      "title": "Could This Odd LIGO Signal Be the Missing Dark Matter?",
+      "hook": "An unusual gravitational-wave signal has revived a long-shot idea: that primordial black holes born moments after the Big Bang could be the universe's missing dark matter.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "card_06b9c7",
+      "slug": "the-big-bang",
+      "type": "concept",
+      "title": "The Big Bang",
+      "hook": "About 13.8 billion years ago the universe began hot and dense and has been expanding ever since — but it wasn't an explosion into empty space. Space itself stretched.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7b1e60#0",
+      "format": "flip",
+      "prompt": "What are JWST's 'Little Red Dots,' and why are they puzzling?",
+      "back_html": "\u003cp\u003eCompact, overmassive, actively accreting black holes seen in very young galaxies —\ntoo early and too heavy for standard black-hole growth models to easily explain.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7b1e60#1",
+      "format": "quiz",
+      "prompt": "What does this proposal suggest seeded the Little Red Dot black holes?",
+      "choices": [
+        {
+          "text": "A swarm of smaller primordial black holes, embedded in gas, sinking into and merging with a central primordial black hole",
+          "correct": true
+        },
+        {
+          "text": "Ordinary collapsing stars that happened to form unusually early",
+          "correct": false
+        },
+        {
+          "text": "Collisions between fully-formed galaxies in the early universe",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe model has a heavy primordial black hole \u0026quot;nucleus\u0026quot; swallowing a surrounding\nswarm of lighter primordial black holes, growing rapidly within tens of millions\nof years.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7b1e60#2",
+      "format": "flip",
+      "prompt": "How could this idea eventually be tested?",
+      "back_html": "\u003cp\u003eThe model predicts a distinctive \u003cstrong\u003egravitational-wave signature\u003c/strong\u003e from the\nswarm's inspirals — a prediction future detectors could check, though it hasn't\nbeen confirmed yet.\u003c/p\u003e"
+    }
+  ]
+}

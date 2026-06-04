@@ -1,0 +1,101 @@
+{
+  "id": "card_c25220",
+  "slug": "ai-as-a-tutor",
+  "type": "concept",
+  "title": "AI as a Tutor",
+  "hook": "A chatbot is a tutor with infinite patience: ask it to explain anything five different ways at any level, with no judgment. Just remember it can be confidently wrong.",
+  "key_points": [
+    "Ask it to explain at your level: 'like I'm 12,' 'with an analogy,' 'step by step.'",
+    "Use it to test yourself — have it quiz you, then check your answers.",
+    "Learn *with* it, not just *from* it: try first, then ask where you got stuck.",
+    "Verify facts and formulas — a tutor that hallucinates can teach you wrong things."
+  ],
+  "content_html": "\u003cp\u003eOne of AI's most genuinely transformative uses is as a personal tutor. A human tutor is expensive and has limited patience; a chatbot will explain the same idea ten different ways at two in the morning without ever sighing. The trick is to direct it like a tutor. Ask for your level — \u0026quot;explain compound interest like I'm twelve,\u0026quot; \u0026quot;give me an analogy,\u0026quot; \u0026quot;walk me through it step by step.\u0026quot; Ask it to come at a confusing topic from a different angle when the first explanation doesn't land. Have it generate practice questions and quiz you, which is one of the most effective ways to actually learn.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThere's an important distinction between learning \u003cem\u003efrom\u003c/em\u003e AI and learning \u003cem\u003ewith\u003c/em\u003e it. If you just ask for the answer and copy it, you've outsourced the thinking and learned little. The better pattern is to try the problem yourself first, then bring AI your specific sticking point — \u0026quot;I got this far and I'm confused about this step.\u0026quot; Used that way, it coaches rather than replaces your reasoning. The one real caution is accuracy: a tutor that hallucinates can confidently teach you something false, especially with specific facts, dates, or formulas. So treat it as a brilliant, slightly unreliable study partner — fantastic for understanding and practice, but worth double-checking on the details that matter.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-as-tutor"
+  ],
+  "tags": [
+    "generative",
+    "tutorial"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a0b7eb",
+      "slug": "talking-to-ai",
+      "type": "concept",
+      "title": "Talking to AI",
+      "hook": "The difference between a useless answer and a great one is usually the question. Give the AI context, an example, and a clear job — and treat it as a conversation, not a vending machine.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_df602c",
+      "slug": "ai-kids-and-school",
+      "type": "concept",
+      "title": "AI, Kids \u0026 School",
+      "hook": "Banning AI is like banning calculators — futile and beside the point. The real job is teaching kids to use it honestly, to learn with it, and to know when it's lying.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_74281d",
+      "slug": "fact-checking-ai",
+      "type": "concept",
+      "title": "How to Fact-Check AI",
+      "hook": "You can't tell a true AI answer from a made-up one by reading it — both sound equally sure. So build a habit: for anything that matters, verify it somewhere that isn't the AI.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_a0b7eb",
+      "slug": "talking-to-ai",
+      "type": "concept",
+      "title": "Talking to AI",
+      "hook": "The difference between a useless answer and a great one is usually the question. Give the AI context, an example, and a clear job — and treat it as a conversation, not a vending machine.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_c25220#0",
+      "format": "quiz",
+      "prompt": "What makes AI a uniquely good study aid?",
+      "choices": [
+        {
+          "text": "It'll re-explain a concept at any level, any number of ways, without judgment",
+          "correct": true
+        },
+        {
+          "text": "It's guaranteed to be correct on every subject",
+          "correct": false
+        },
+        {
+          "text": "It replaces the need to practice yourself",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIts superpower is patient, on-demand re-explanation tailored to you. But it\ncan be wrong, so verify facts — and you still have to do the practice.\u003c/p\u003e"
+    },
+    {
+      "id": "card_c25220#1",
+      "format": "flip",
+      "prompt": "What does it mean to learn *with* AI rather than just *from* it?",
+      "back_html": "\u003cp\u003eAttempt the problem yourself first, then ask AI where you got stuck — so it\ncoaches your thinking instead of just handing you the answer.\u003c/p\u003e"
+    }
+  ]
+}

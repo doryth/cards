@@ -1,0 +1,111 @@
+{
+  "id": "card_ee55cb",
+  "slug": "voter-turnout-and-engagement",
+  "type": "concept",
+  "title": "Voter Turnout \u0026 Engagement",
+  "hook": "Who shows up changes who wins. Turnout — the share of eligible people who actually vote — is one of the quiet forces shaping every election.",
+  "key_points": [
+    "Turnout is the percentage of eligible voters who cast a ballot in an election.",
+    "It varies widely by country, election type, and group — and is rarely close to 100%.",
+    "Drivers include the stakes, ease of voting, compulsory-voting laws, and habit.",
+    "Low or uneven turnout can skew outcomes toward the groups that vote most."
+  ],
+  "content_html": "\u003cp\u003eAn election measures the preferences of the people who actually vote — not of everyone entitled to. Voter turnout, the percentage of eligible voters who cast a ballot, is therefore one of the most consequential and least discussed numbers in politics. It is rarely close to 100%, and it varies dramatically: between countries, between national and local elections (local turnout is usually lower), and between social groups, with older and more affluent citizens often voting at higher rates than younger or poorer ones.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMany factors shape how many people show up. The perceived stakes matter — close, high-consequence elections draw more voters. So does the sheer ease of voting: registration rules, polling-place access, early or postal voting, and election timing can each raise or lower turnout. Some countries make voting compulsory, which pushes turnout very high. And habit plays a large role — voting, like not voting, tends to repeat. Data compilations such as International IDEA's voter-turnout database track these patterns across the world. Why turnout matters goes beyond the headline figure: because results reflect the people who vote, low or uneven turnout can skew outcomes toward whichever groups participate most, and politicians, knowing this, may tailor their appeals to reliable voters. A healthy democracy therefore cares not only that elections are free and fair, but that participation is broad and reasonably equal across its citizens.\u003c/p\u003e",
+  "source": {
+    "name": "International IDEA — Voter Turnout Database",
+    "url": "https://www.idea.int/data-tools/data/voter-turnout-database",
+    "license": "© International IDEA (open data, educational use)"
+  },
+  "topic_ids": [
+    "citizenship-civic-life"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_59e5ca",
+      "slug": "political-participation",
+      "type": "concept",
+      "title": "Ways to Participate",
+      "hook": "Voting is the headline act of citizenship — but it's only one of many ways people shape politics, from joining a party to signing a petition or marching.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_256fe8",
+      "slug": "who-can-vote-suffrage",
+      "type": "concept",
+      "title": "Who Can Vote: Suffrage",
+      "hook": "Democracy means rule by the people — but for most of history, 'the people' meant a narrow few. The story of suffrage is the slow widening of that circle.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_51131a",
+      "slug": "what-is-democracy",
+      "type": "concept",
+      "title": "What Democracy Means",
+      "hook": "Rule by the people: a system where political power ultimately traces back to citizens, usually through regular, free elections.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ee55cb#0",
+      "format": "flip",
+      "prompt": "What is 'voter turnout'?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003epercentage of eligible voters who actually cast a ballot\u003c/strong\u003e in an\nelection.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ee55cb#1",
+      "format": "quiz",
+      "prompt": "Which factor tends to raise voter turnout?",
+      "choices": [
+        {
+          "text": "Making voting easier, or laws that make it compulsory",
+          "correct": true
+        },
+        {
+          "text": "Holding elections in secret with no notice",
+          "correct": false
+        },
+        {
+          "text": "Banning political parties",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEasier access (and, where used, compulsory-voting rules) tends to lift\nturnout, as do high-stakes contests.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ee55cb#2",
+      "format": "quiz",
+      "prompt": "Why can low or uneven turnout distort an election's outcome?",
+      "choices": [
+        {
+          "text": "Results reflect the groups that vote most, not the whole electorate",
+          "correct": true
+        },
+        {
+          "text": "It changes how votes are legally counted",
+          "correct": false
+        },
+        {
+          "text": "It always favors smaller parties",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIf some groups vote far more than others, the result over-represents the\nvoters who turned out rather than the full eligible population.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "card_466bf3",
+  "slug": "separation-of-powers",
+  "type": "concept",
+  "title": "Separation of Powers",
+  "hook": "Split government into branches that make, enforce, and interpret the law — so no single part can do all three.",
+  "key_points": [
+    "Power is divided among legislative (makes law), executive (enforces law), and judicial (interprets law) branches.",
+    "The aim is to prevent any one body from concentrating too much authority.",
+    "Checks and balances let each branch limit the others' actions.",
+    "The idea is associated with thinkers like Montesquieu and is common across democracies."
+  ],
+  "content_html": "\u003cp\u003eSeparation of powers is the idea that the main jobs of government should be handled by distinct branches rather than a single ruler or body. The standard division is threefold: a legislative branch that makes laws, an executive branch that carries them out, and a judicial branch that interprets them and resolves disputes. By keeping these functions in separate hands, the design makes it hard for any one part of government to dominate the others.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe principle is closely associated with the 18th-century French thinker Montesquieu, who argued that liberty is safest when these powers are not combined. Many modern democracies build their constitutions around some version of it, though the details differ: a parliamentary system fuses the legislature and executive more closely than a presidential one, for example. Encyclopaedia Britannica traces the idea's history and its variations. Separation of powers works hand in hand with checks and balances, the subject of the next card.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/separation-of-powers",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_015396",
+      "slug": "checks-and-balances",
+      "type": "concept",
+      "title": "Checks and Balances",
+      "hook": "Separating power isn't enough — each branch also gets tools to limit the others, so power keeps power in check.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_766f74",
+      "slug": "rule-of-law",
+      "type": "concept",
+      "title": "The Rule of Law",
+      "hook": "The principle that everyone — including those in power — is bound by the same publicly known laws, applied equally.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_63346f",
+      "slug": "the-legislature",
+      "type": "concept",
+      "title": "The Legislature",
+      "hook": "The branch that makes the law is also where a society argues out loud — the legislature turns competing interests into binding rules through debate and votes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3e760d",
+      "slug": "the-executive",
+      "type": "concept",
+      "title": "The Executive",
+      "hook": "Laws don't enforce themselves. The executive is the branch that runs the state day to day — carrying out the law, commanding the bureaucracy, and acting in a crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_466bf3#0",
+      "format": "flip",
+      "prompt": "Name the three branches in the classic separation of powers and what each does.",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eLegislative\u003c/strong\u003e makes the law, \u003cstrong\u003eexecutive\u003c/strong\u003e enforces it, and\n\u003cstrong\u003ejudicial\u003c/strong\u003e interprets it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_466bf3#1",
+      "format": "quiz",
+      "prompt": "What is the main purpose of separating powers into branches?",
+      "choices": [
+        {
+          "text": "To prevent any single body from holding too much power",
+          "correct": true
+        },
+        {
+          "text": "To make government act as fast as possible",
+          "correct": false
+        },
+        {
+          "text": "To remove the need for elections",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDividing the power to make, enforce, and interpret law keeps it from\nconcentrating in one set of hands.\u003c/p\u003e"
+    },
+    {
+      "id": "card_466bf3#2",
+      "format": "quiz",
+      "prompt": "Which branch's core role is to interpret the law?",
+      "choices": [
+        {
+          "text": "The judicial branch",
+          "correct": true
+        },
+        {
+          "text": "The legislative branch",
+          "correct": false
+        },
+        {
+          "text": "The executive branch",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCourts (the judicial branch) interpret and apply the law; legislatures\nmake it and the executive enforces it.\u003c/p\u003e"
+    }
+  ]
+}

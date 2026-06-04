@@ -1,0 +1,89 @@
+{
+  "id": "card_e99d41",
+  "slug": "ai-and-mental-health",
+  "type": "concept",
+  "title": "AI \u0026 Mental Health",
+  "hook": "A chatbot that listens at 2 a.m. without judgment is a real comfort to many. It's also not a therapist, not a crisis line, and not your friend — and confusing the two can be dangerous.",
+  "key_points": [
+    "Upsides: always available, judgment-free, good for venting, journaling, and reframing.",
+    "Hard limits: no real understanding, no duty of care, no accountability, can give harmful advice.",
+    "It can reinforce what you say rather than challenge it — risky in a spiral.",
+    "In crisis, contact a human professional or a local emergency/crisis line — not a chatbot."
+  ],
+  "content_html": "\u003cp\u003eOne of the most human uses people have found for AI is also one of the most fraught: talking to it about how they feel. The appeal is genuine and easy to understand. A chatbot is available at 2 a.m., never judges, never gets tired of you, costs little or nothing, and carries none of the stigma some people fear in opening up. For everyday venting, journaling your thoughts, organizing a worry, or being walked through a calming or reframing exercise, many find it genuinely helpful — and for someone who'd otherwise say nothing to anyone, that can matter.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBut the limits here aren't academic — they can be a matter of safety. A chatbot does not understand you; it has no training as a therapist, no duty of care, no accountability, and no way to truly grasp your situation. It can give advice that's wrong or even harmful, and because it's built to be agreeable, it tends to validate and echo what you tell it rather than challenge a distorted thought — exactly the wrong move when someone is spiraling. There have been tragic cases tied to over-reliance on chatbots in crisis. So hold a firm line: AI can be a low-stakes supplement — a place to vent or prepare for a real conversation — but it is \u003cstrong\u003enot\u003c/strong\u003e a therapist, \u003cstrong\u003enot\u003c/strong\u003e a crisis service, and \u003cstrong\u003enot\u003c/strong\u003e a substitute for human care. If you or someone you know is in crisis or considering self-harm, step away from the chatbot and reach a trained human: a mental-health professional, a local crisis line, or emergency services. The technology's patience is real; its care is not.\u003c/p\u003e",
+  "source": {
+    "url": ""
+  },
+  "topic_ids": [
+    "ai-mental-health"
+  ],
+  "tags": [
+    "safety"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1b27c5",
+      "slug": "ai-companions",
+      "type": "concept",
+      "title": "AI Companions \u0026 Friends",
+      "hook": "Millions now have an AI friend, partner, or confidant that's always available and always on their side. It can ease loneliness — and quietly reshape what we expect from real people.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eb9c92",
+      "slug": "over-relying-on-ai",
+      "type": "concept",
+      "title": "Over-Relying on AI",
+      "hook": "The subtle risk isn't that AI fails — it's that it usually works, so you stop checking. Trusting a confident machine over your own judgment is its own kind of mistake.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_eb781a",
+      "slug": "ai-in-healthcare",
+      "type": "concept",
+      "title": "AI in Healthcare",
+      "hook": "AI can spot a tumor on a scan faster than a tired radiologist and flag patterns no one would catch by eye. It's a powerful assistant to doctors — not a replacement for one.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e99d41#0",
+      "format": "quiz",
+      "prompt": "What should you do in a mental-health crisis?",
+      "choices": [
+        {
+          "text": "Contact a human professional or a crisis/emergency line — not a chatbot",
+          "correct": true
+        },
+        {
+          "text": "Rely on a chatbot since it's available instantly",
+          "correct": false
+        },
+        {
+          "text": "Wait until you feel better on your own",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA chatbot has no duty of care and can give harmful advice. In a crisis,\nreach a trained human — a professional, crisis line, or emergency services.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e99d41#1",
+      "format": "flip",
+      "prompt": "What's a subtle risk of using AI for emotional support?",
+      "back_html": "\u003cp\u003eIt tends to agree with and reinforce what you say rather than challenge it —\nwhich can deepen an unhealthy spiral instead of interrupting it.\u003c/p\u003e"
+    }
+  ]
+}

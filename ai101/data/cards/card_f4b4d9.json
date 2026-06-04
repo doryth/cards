@@ -1,0 +1,119 @@
+{
+  "id": "card_f4b4d9",
+  "slug": "when-a-robot-friend-shuts-down",
+  "type": "news",
+  "title": "What Happens When a Kid's Robot Best Friend Dies",
+  "hook": "Moxie taught autistic kids to breathe like a bee when anxious. Then its maker folded, the servers went dark, and thousands of children lost a friend overnight.",
+  "key_points": [
+    "Moxie was a 15-inch social robot for neurodivergent kids, launched in 2020 at $1,499 plus a monthly subscription.",
+    "Its maker, Embodied, ceased operations in 2024 — and because the robot leaned on external servers, it simply stopped working.",
+    "Parents described devastated children; a former staffer released OpenMoxie so families could revive robots themselves.",
+    "A new investor restarted Moxie in 2025, then folded too — the same loss, twice.",
+    "Research shows social robots help some kids, but benefits often fade once the robot is gone."
+  ],
+  "content_html": "\u003cp\u003eXander learned from Moxie that when he felt anxious, he could calm down by exhaling through his lips until he buzzed like a bee. Moxie was a 15-inch blue robot with big expressive eyes, built by the company Embodied and launched in 2020 to help neurodivergent children practice social and emotional skills. It cost $1,499 plus a monthly subscription, and it was carefully designed to be lovable — an ambassador from a fictional \u0026quot;Global Robotics Laboratory\u0026quot; who asked kids to go try things with real people and come back to report how it went. Then, in 2024, Embodied ran out of money and shut down. Because Moxie needed the company's servers to hold a conversation, every robot went quiet at once. MIT Technology Review's Sara Harrison reports on the families left behind.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe grief was real: parents posted heartbroken messages, one writing that their autistic child was devastated. A former Embodied technical director, Justin Beghtol, published an open-source replacement called OpenMoxie so families could bring the robots back themselves — many managed it, some gave up. A new investor revived the product in 2025, then folded too, putting families through the loss a second time.\u003c/p\u003e\n\u003cp\u003eTwo ideas are worth carrying away. First, the practical one: \u003cstrong\u003ea device that thinks in someone else's cloud only lives as long as that company does.\u003c/strong\u003e That's true of companion robots, smart speakers, and AI toys alike — before you let a child bond with one, it's fair to ask what happens when the business fails. Second, the evidence for these robots was always thinner than the marketing. Yale's Brian Scassellati documented real gains, like autistic children making more eye contact, but clinical psychologists interviewed for the piece note that studies tended to be small and that benefits often faded once the robot was gone. Researcher Meryl Alper goes further, questioning the stereotype that autistic kids prefer machines to people — and the ethics of designing planned obsolescence into something built to be loved by a vulnerable child.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Sara Harrison"
+    ],
+    "url": "https://technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies",
+    "published_at": "2026-08-17"
+  },
+  "topic_ids": [
+    "ai-companions",
+    "ai-and-kids",
+    "ai-news"
+  ],
+  "tags": [
+    "safety",
+    "news",
+    "agent"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-17",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_1b27c5",
+      "slug": "ai-companions",
+      "type": "concept",
+      "title": "AI Companions \u0026 Friends",
+      "hook": "Millions now have an AI friend, partner, or confidant that's always available and always on their side. It can ease loneliness — and quietly reshape what we expect from real people.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b76a5a",
+      "slug": "how-kids-feel-about-ai",
+      "type": "news",
+      "title": "Kids Are Pickier About AI Than Adults Assume",
+      "hook": "MIT Technology Review asked kids aged 10 to 18 what they think of AI. Not cheating, not wonder — mostly a shrug, some hard boundaries, and worry about their own thinking.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-08-13"
+    },
+    {
+      "id": "card_66e39d",
+      "slug": "robots-and-self-driving",
+      "type": "concept",
+      "title": "Robots \u0026 Self-Driving Cars",
+      "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f4b4d9#0",
+      "format": "quiz",
+      "prompt": "Why did Moxie robots stop working when the company shut down?",
+      "choices": [
+        {
+          "text": "The robots depended on the company's external servers to function",
+          "correct": true
+        },
+        {
+          "text": "The batteries were designed to expire after four years",
+          "correct": false
+        },
+        {
+          "text": "A software update deliberately bricked them as punishment",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMoxie processed some things on-device but relied on Embodied's cloud servers to talk.\nWhen the company folded in 2024 and the servers went off, the robots went silent.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f4b4d9#1",
+      "format": "flip",
+      "prompt": "What's the lesson for anyone buying an AI companion device?",
+      "back_html": "\u003cp\u003eIf it needs a company's servers to think, it lives only as long as that company does.\nAsk what happens to the device — and the relationship — when the business fails.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f4b4d9#2",
+      "format": "quiz",
+      "prompt": "What do researchers say about social robots helping neurodivergent children?",
+      "choices": [
+        {
+          "text": "They help some kids, but gains often fade once the robot is taken away",
+          "correct": true
+        },
+        {
+          "text": "They reliably cure social difficulties in nearly all children",
+          "correct": false
+        },
+        {
+          "text": "They have been shown to have no effect on any child",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eStudies found real benefits like more eye contact for some children, but samples were\nsmall and improvements frequently faded after the robot was removed.\u003c/p\u003e"
+    }
+  ]
+}

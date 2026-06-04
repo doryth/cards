@@ -1,0 +1,111 @@
+{
+  "id": "card_56a3a0",
+  "slug": "the-molecules-of-life",
+  "type": "concept",
+  "title": "The Molecules of Life",
+  "hook": "Almost everything in a living cell is built from just four families of large molecules — carbohydrates, lipids, proteins, and nucleic acids.",
+  "key_points": [
+    "Life's big molecules fall into four classes: carbohydrates, lipids, proteins, and nucleic acids.",
+    "Most are built from small repeating units strung into long chains called polymers.",
+    "Each class has a job: fuel and structure, membranes and storage, machinery, and information.",
+    "All four are based on carbon, which bonds in four directions to form complex skeletons."
+  ],
+  "content_html": "\u003cp\u003eIf you took a cell apart and sorted its molecules, most of the big ones would fall into just four bins: carbohydrates, lipids, proteins, and nucleic acids. These are the macromolecules — \u0026quot;macro\u0026quot; because they are large, often built from hundreds or thousands of smaller pieces. Each family has a characteristic job, but all share one thing: a skeleton of carbon.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Khan Academy's introduction to macromolecules describes, three of the four classes are \u003cstrong\u003epolymers\u003c/strong\u003e — long chains assembled from small repeating units called monomers, the way a brick wall is built from bricks. Carbohydrates string together sugars for quick fuel and structure; nucleic acids like DNA and RNA chain up nucleotides to store information; proteins link amino acids into the cell's working machinery. Lipids, including fats and the molecules of every membrane, are the exception — they clump together rather than forming neat chains. What unites them all is \u003cstrong\u003ecarbon\u003c/strong\u003e, an atom that bonds in four directions at once and so can build the elaborate backbones life requires.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/macromolecules/introduction-to-macromolecules/a/introduction-to-macromolecules",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "molecules-of-life"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_53fd95",
+      "slug": "water-and-life",
+      "type": "concept",
+      "title": "Water and Life",
+      "hook": "Life is built around a single small molecule — water. Its odd properties make it the stage on which almost all of biology happens.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c81364",
+      "slug": "carbohydrates-and-fats",
+      "type": "concept",
+      "title": "Carbohydrates and Fats: Fuel and Storage",
+      "hook": "Sugars give cells quick energy; fats pack energy away for the long haul. Two molecule families, two strategies for powering life.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_280170",
+      "slug": "proteins-the-workhorses",
+      "type": "concept",
+      "title": "Proteins: The Cell's Workhorses",
+      "hook": "Strings of amino acids fold into intricate shapes that become almost every working machine in the cell — from enzymes to muscle.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_56a3a0#0",
+      "format": "flip",
+      "prompt": "What are the four main classes of large biological molecules?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eCarbohydrates, lipids, proteins, and nucleic acids.\u003c/strong\u003e Together these four\nfamilies make up most of the structures and machinery of every living cell.\u003c/p\u003e"
+    },
+    {
+      "id": "card_56a3a0#1",
+      "format": "quiz",
+      "prompt": "Many of life's large molecules are polymers. What does that mean?",
+      "choices": [
+        {
+          "text": "They are long chains built from many small repeating subunits",
+          "correct": true
+        },
+        {
+          "text": "They are single atoms with no internal structure",
+          "correct": false
+        },
+        {
+          "text": "They are always made of pure metal",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA \u003cstrong\u003epolymer\u003c/strong\u003e is a chain of many small units, called \u003cstrong\u003emonomers\u003c/strong\u003e, linked\ntogether — like beads on a string. Proteins, nucleic acids, and many\ncarbohydrates are built this way.\u003c/p\u003e"
+    },
+    {
+      "id": "card_56a3a0#2",
+      "format": "quiz",
+      "prompt": "Which element forms the backbone of all four classes of biological molecules?",
+      "choices": [
+        {
+          "text": "Carbon",
+          "correct": true
+        },
+        {
+          "text": "Gold",
+          "correct": false
+        },
+        {
+          "text": "Neon",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u003cstrong\u003eCarbon\u003c/strong\u003e can form four stable bonds, letting it build long chains, rings, and\nbranches. That versatility makes it the structural core of life's molecules.\u003c/p\u003e"
+    }
+  ]
+}

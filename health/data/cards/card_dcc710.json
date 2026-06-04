@@ -1,0 +1,98 @@
+{
+  "id": "card_dcc710",
+  "slug": "lipoprotein-a-hidden-heart-risk",
+  "type": "news",
+  "title": "The Inherited Heart Risk a Standard Cholesterol Test Misses",
+  "hook": "About 1 in 5 people carry high Lp(a) — an inherited cholesterol particle tied to stroke and cardiac death that routine lipid panels don't measure. One blood test finds it.",
+  "key_points": [
+    "Lp(a) is an inherited cholesterol-carrying particle; roughly 1 in 5 people have elevated levels.",
+    "In a study of over 20,000 people, very high Lp(a) tracked with more major cardiovascular events.",
+    "The strongest links were to stroke and death from cardiovascular causes.",
+    "Standard cholesterol panels don't measure it, so high Lp(a) usually goes undetected.",
+    "A single blood test can check it — levels are set by genes and barely move with diet."
+  ],
+  "content_html": "\u003cp\u003eYour cholesterol panel can look fine and still miss a risk you were born with. Lipoprotein(a) — \u0026quot;Lp(a)\u0026quot; — is a cholesterol-carrying particle whose level is set largely by your genes, and roughly one in five people carry a high one without knowing it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, researchers following more than 20,000 people found that very high Lp(a) was linked to more major cardiovascular events, with the connection strongest for stroke and death from cardiovascular causes. Because a routine lipid panel reports LDL, HDL, and triglycerides but not Lp(a), someone with reassuring numbers can still be carrying elevated risk.\u003c/p\u003e\n\u003cp\u003eThe practical takeaway is small and concrete: Lp(a) can be checked with a simple blood test, and because levels are genetically fixed, once is usually enough. It's worth asking about if heart disease or early stroke runs in your family. Knowing the number doesn't change it — diet and exercise barely move Lp(a) — but it does change how aggressively you and your clinician manage everything else that is modifiable, from blood pressure to LDL.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260808235011.htm",
+    "published_at": "2026-08-10",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "chronic-conditions",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-10",
+  "related": [
+    {
+      "id": "card_818108",
+      "slug": "understanding-cholesterol",
+      "type": "concept",
+      "title": "Understanding Cholesterol",
+      "hook": "Cholesterol has a good side and a bad side. Too much of the bad kind builds up in your arteries for years — silently — until it triggers a heart attack or stroke.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_5b527c",
+      "slug": "apob-vs-ldl-cholesterol-test",
+      "type": "news",
+      "title": "Millions May Be Getting the Wrong Cholesterol Test",
+      "hook": "A new study finds that apoB — a blood test measuring harmful cholesterol particles directly — beats standard LDL testing at identifying who actually needs more intensive treatment.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "card_fc9417",
+      "slug": "keeping-your-heart-healthy",
+      "type": "concept",
+      "title": "Keeping Your Heart Healthy",
+      "hook": "Most heart disease isn't bad luck — it's the sum of a few everyday habits. The American Heart Association distills them into eight that move the needle most.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_dcc710#0",
+      "format": "flip",
+      "prompt": "Why does high Lp(a) usually go undetected?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eStandard cholesterol panels don't measure it.\u003c/strong\u003e Lp(a) needs its own blood test, so\nsomeone with normal-looking LDL results can still carry a high inherited risk.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dcc710#1",
+      "format": "quiz",
+      "prompt": "Roughly how many people carry elevated Lp(a)?",
+      "choices": [
+        {
+          "text": "About 1 in 5",
+          "correct": true
+        },
+        {
+          "text": "About 1 in 500",
+          "correct": false
+        },
+        {
+          "text": "Almost everyone",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eElevated Lp(a) is common — around one in five people — which is part of why\nresearchers argue it deserves a place in routine heart-risk assessment.\u003c/p\u003e"
+    },
+    {
+      "id": "card_dcc710#2",
+      "format": "flip",
+      "prompt": "Which outcomes were most strongly linked to very high Lp(a)?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eStroke and death from cardiovascular causes.\u003c/strong\u003e In a study of more than 20,000\npeople, very high Lp(a) tracked with more major cardiovascular events overall.\u003c/p\u003e"
+    }
+  ]
+}

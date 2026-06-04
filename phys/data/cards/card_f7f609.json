@@ -1,0 +1,104 @@
+{
+  "id": "card_f7f609",
+  "slug": "reactor-antineutrino-afterglow",
+  "type": "news",
+  "title": "A Nuclear Reactor Still Glows After You Switch It Off",
+  "hook": "Shut a reactor down and the fission stops — but the fuel keeps emitting antineutrinos for months. Physicists have now caught that ghostly afterglow for the first time.",
+  "key_points": [
+    "Fission fragments left in the fuel are radioactive and keep beta-decaying long after the chain reaction ends, each decay releasing an antineutrino.",
+    "Researchers detected this residual antineutrino signal from a shut-down reactor for the first time.",
+    "The measured glow closely matched predictions from the known decay chains in the core and in nearby spent-fuel pools.",
+    "Antineutrinos pass straight through shielding, so they report on the fuel's true state from outside the building.",
+    "That makes the technique attractive for safeguards: verifying what is in a reactor even when it is offline."
+  ],
+  "content_html": "\u003cp\u003eA reactor's power does not fall to zero the moment the control rods drop. The chain\nreaction stops, but the fuel is now full of fission fragments — unstable nuclei that\nkeep beta-decaying for months. Every one of those decays throws off an antineutrino,\nand physicists have now detected that residual glow for the first time.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe measured signal matched predictions built from the known decay chains inside the\ncore and in the spent-fuel pools next door, which is the encouraging part: the model\nof what is sitting in the fuel can be checked against a real measurement. Because\nantineutrinos pass through shielding, containment, and rock essentially unimpeded, a\ndetector outside the building sees the fuel's true state without needing access to\nit.\u003c/p\u003e\n\u003cp\u003eThat is the practical hook. Antineutrino detectors have long been floated as a\nnon-intrusive safeguards tool for verifying reactor activity; being able to read the\nsignal from a reactor that is \u003cem\u003eoffline\u003c/em\u003e extends the idea to the periods when\nmonitoring is hardest. See ScienceDaily's report for details on the detection.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260814011036.htm",
+    "published_at": "2026-08-14",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "atomic-nuclear",
+    "particle-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_bb8286",
+      "slug": "geoneutrinos-map-earths-mantle",
+      "type": "news",
+      "title": "Neutrinos From Inside the Earth Are Mapping the Mantle",
+      "hook": "You can't drill to the mantle, but its radioactive decays leak neutrinos straight through the planet — and detectors are starting to read them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-07"
+    },
+    {
+      "id": "card_37dae0",
+      "slug": "tracking-the-elusive-neutrino",
+      "type": "news",
+      "title": "Catching the Ghost Particle",
+      "hook": "Trillions of neutrinos stream through your body every second, yet they almost never touch anything. To catch even a few, physicists build some of the most audacious detectors ever conceived.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_fea6ef",
+      "slug": "nuclear-fission",
+      "type": "concept",
+      "title": "Nuclear Fission",
+      "hook": "Split one heavy nucleus and it releases neutrons that split more — a chain reaction that, tamed, lights cities, and unleashed, levels them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a1831a",
+      "slug": "radioactivity",
+      "type": "concept",
+      "title": "Radioactivity and Half-Life",
+      "hook": "You can't predict when a single unstable atom will decay, yet a huge sample decays on a clock so precise we use it to date rocks billions of years old.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f7f609#0",
+      "format": "flip",
+      "prompt": "Why does a reactor keep emitting antineutrinos after it is shut down?",
+      "back_html": "\u003cp\u003eThe fission fragments left in the fuel are themselves radioactive. They keep\nbeta-decaying for months, and every beta decay emits an antineutrino — long\nafter the chain reaction has stopped.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f7f609#1",
+      "format": "quiz",
+      "prompt": "What property makes antineutrinos useful for monitoring a reactor from outside?",
+      "choices": [
+        {
+          "text": "They barely interact, so they pass through shielding and containment unimpeded",
+          "correct": true
+        },
+        {
+          "text": "They are absorbed by concrete, so the wall thickness reveals the core's power",
+          "correct": false
+        },
+        {
+          "text": "They travel faster than light, so the signal arrives before the fission event",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAntineutrinos are famously reluctant to interact. Nothing practical stops them,\nso the signal leaving the core reports on the fuel's actual state regardless of\nhow well the reactor is shielded.\u003c/p\u003e"
+    }
+  ]
+}

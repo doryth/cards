@@ -1,0 +1,122 @@
+{
+  "id": "card_5947ac",
+  "slug": "universal-gravitation",
+  "type": "concept",
+  "title": "Universal Gravitation: One Force, Apple to Moon",
+  "hook": "Newton's leap: the same pull that drops an apple also holds the Moon in orbit. Every mass tugs on every other mass, everywhere in the universe.",
+  "key_points": [
+    "Every mass attracts every other mass — gravity is universal.",
+    "The pull grows stronger with more mass on either side.",
+    "It weakens with the square of the distance (the inverse-square law).",
+    "The apple falling and the Moon orbiting obey the very same law."
+  ],
+  "content_html": "\u003cp\u003eIn the 1680s Isaac Newton proposed a strikingly bold idea: gravity is not a special property of the Earth but a force between all masses everywhere. The apple that falls from a tree and the Moon that circles the Earth are governed by exactly the same rule. That is why it's called universal gravitation.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe law is simple in shape. The attraction between two objects grows with the mass of each and weakens with the square of the distance between them — so doubling the separation cuts the pull to a quarter. With this one equation Newton could explain falling objects, the tides, the paths of the planets, and the orbits of moons. Wikipedia traces how Newton arrived at the law and why it stood as physics' picture of gravity until Einstein refined it.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "gravity-orbits"
+  ],
+  "tags": [
+    "foundational",
+    "landmark"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d3af76",
+      "slug": "mass-vs-weight",
+      "type": "concept",
+      "title": "Mass vs. Weight",
+      "hook": "Your mass is the same on the Moon as on Earth — but your weight isn't. They're related, but they are not the same thing.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_de7edd",
+      "slug": "why-everything-falls-at-the-same-rate",
+      "type": "concept",
+      "title": "Why Everything Falls at the Same Rate",
+      "hook": "Drop a hammer and a feather together in a vacuum and they hit the ground at the same instant. Gravity doesn't care how heavy you are — and that fact runs surprisingly deep.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_0c4530",
+      "slug": "planet-nine",
+      "type": "news",
+      "title": "The Hunt for Planet Nine Gets Stranger",
+      "hook": "A hidden giant planet far past Neptune would explain the odd orbits of distant icy worlds. New observations show those orbits behaving more normally than expected — deepening the mystery.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5947ac#0",
+      "format": "flip",
+      "prompt": "What was revolutionary about Newton's law of universal gravitation?",
+      "back_html": "\u003cp\u003eIt showed that \u003cstrong\u003eone\u003c/strong\u003e force — the same one that drops an apple — also\nholds the Moon in orbit. Gravity acts between all masses, everywhere.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5947ac#1",
+      "format": "quiz",
+      "prompt": "What happens to gravity's pull as two objects move farther apart?",
+      "choices": [
+        {
+          "text": "It weakens with the square of the distance",
+          "correct": true
+        },
+        {
+          "text": "It stays exactly the same at any distance",
+          "correct": false
+        },
+        {
+          "text": "It weakens in direct proportion to the distance",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGravity follows an inverse-square law: double the distance and the pull\ndrops to a quarter. It fades fast but never reaches zero.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5947ac#2",
+      "format": "quiz",
+      "prompt": "Which two objects feel a stronger gravitational pull between them?",
+      "choices": [
+        {
+          "text": "Two very massive objects close together",
+          "correct": true
+        },
+        {
+          "text": "Two light objects far apart",
+          "correct": false
+        },
+        {
+          "text": "Mass and distance don't affect the pull",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGravity strengthens with more mass on either side and weakens with\ndistance, so massive, nearby objects pull hardest.\u003c/p\u003e"
+    }
+  ]
+}

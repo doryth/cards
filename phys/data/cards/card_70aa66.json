@@ -1,0 +1,113 @@
+{
+  "id": "card_70aa66",
+  "slug": "minkowski-explains-length-contraction",
+  "type": "paper",
+  "title": "Minkowski Drew Length Contraction as Plain Geometry",
+  "hook": "Unpublished 1908 notes show Hermann Minkowski explaining relativistic length contraction not with algebra but with a hyperbola on a spacetime diagram — for an audience of schoolteachers.",
+  "key_points": [
+    "Length contraction is usually taught as a formula from the Lorentz transformation.",
+    "Minkowski instead derived it geometrically on a spacetime diagram.",
+    "His construction used the conic-section geometry of a standard hyperbola.",
+    "The hyperbola marks points at equal spacetime interval, playing the role a circle plays in ordinary geometry.",
+    "The notes date to spring 1908 and were likely prepared for a lecture to physics and maths teachers.",
+    "They show Minkowski as an educator arguing for mathematising physics, not just a theorist."
+  ],
+  "content_html": "\u003cp\u003eMost people meet length contraction as a formula: take the Lorentz transformation, turn a crank, and a moving metre stick comes out shorter. Hermann Minkowski, the mathematician who gave relativity its spacetime, preferred to draw it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTilman Sauer reconstructs that argument on arXiv from unpublished manuscript notes dated to the spring of 1908. Minkowski's route runs through the conic-section geometry of a standard hyperbola on a spacetime diagram. The hyperbola is the spacetime counterpart of a circle: where a circle collects points at equal distance, the hyperbola collects points at equal invariant spacetime interval, and that is exactly the calibration you need to compare lengths measured in different frames. Contraction stops being a strange physical shrinking and becomes what it looks like when two observers slice the same geometry along different axes. The notes appear to have been prepared for a lecture to physics and mathematics teachers, and Sauer reads them as evidence of Minkowski the educator — popularising mathematics, commenting on Einstein's work, and arguing for a more mathematical physics.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Tilman Sauer"
+    ],
+    "url": "https://arxiv.org/abs/2608.20138",
+    "published_at": "2026-08-20",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-24",
+  "date": "2026-08-20",
+  "related": [
+    {
+      "id": "card_987298",
+      "slug": "special-relativity-basics",
+      "type": "concept",
+      "title": "Special Relativity, Gently",
+      "hook": "Einstein started with one strange fact — light's speed is the same for everyone — and out fell that time itself can stretch.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d065fa",
+      "slug": "the-wigner-angle",
+      "type": "paper",
+      "title": "Two speed boosts don't make a bigger boost — they make a rotation",
+      "hook": "Combine two Lorentz boosts in different directions and relativity hands you back a boost plus an unexpected twist. That twist is the Wigner angle, and it's notoriously awkward to compute.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_9735f4",
+      "slug": "general-relativity",
+      "type": "concept",
+      "title": "General Relativity: Gravity Is Geometry",
+      "hook": "Einstein's biggest idea: gravity isn't a force pulling objects, it's the bending of spacetime by mass and energy. Matter curves space; curved space steers matter.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_45c4fe",
+      "slug": "e-equals-mc-squared",
+      "type": "concept",
+      "title": "E = mc²: Mass Is Energy",
+      "hook": "The most famous equation in physics says mass and energy are the same thing. Because the speed of light squared is a colossal number, a tiny bit of mass holds a staggering amount of energy.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_70aa66#0",
+      "format": "flip",
+      "prompt": "What geometric object did Minkowski use to explain length contraction?",
+      "back_html": "\u003cp\u003eA standard hyperbola on a spacetime diagram. Its conic-section geometry lets you\nread contraction off the picture instead of computing it from the Lorentz\ntransformation.\u003c/p\u003e"
+    },
+    {
+      "id": "card_70aa66#1",
+      "format": "quiz",
+      "prompt": "In a spacetime diagram, what does a hyperbola pick out?",
+      "choices": [
+        {
+          "text": "The set of points at equal spacetime interval from the origin",
+          "correct": true
+        },
+        {
+          "text": "The set of points at equal time in every reference frame",
+          "correct": false
+        },
+        {
+          "text": "The path of an accelerating light ray",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe hyperbola is the spacetime analogue of a circle: it collects points the same\ninvariant interval away, which is why it calibrates lengths between frames.\u003c/p\u003e"
+    },
+    {
+      "id": "card_70aa66#2",
+      "format": "flip",
+      "prompt": "Who were Minkowski's 1908 notes apparently written for?",
+      "back_html": "\u003cp\u003eA lecture to physics and mathematics teachers — the reconstruction reads them as\npopularisation, showing Minkowski working as an educator and advocate for\nmathematising physics.\u003c/p\u003e"
+    }
+  ]
+}

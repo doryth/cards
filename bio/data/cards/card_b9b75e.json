@@ -1,0 +1,99 @@
+{
+  "id": "card_b9b75e",
+  "slug": "what-blood-does",
+  "type": "concept",
+  "title": "What Blood Does",
+  "hook": "Blood looks like a single red liquid, but it's really a fleet of specialized parts — each cell type and the fluid itself carrying out a different life-sustaining job.",
+  "key_points": [
+    "Red blood cells carry oxygen from the lungs to every tissue using the protein hemoglobin.",
+    "White blood cells defend the body, hunting and destroying invading microbes.",
+    "Platelets are cell fragments that clump together to seal wounds and stop bleeding.",
+    "Plasma is the liquid that carries cells, nutrients, hormones, and wastes throughout the body."
+  ],
+  "content_html": "\u003cp\u003eBlood may look like a simple red fluid, but it is a busy transport system made of several distinct parts. Roughly half of it is cells; the other half is a watery fluid called plasma. Together they keep every cell in your body fed, oxygenated, defended, and patched up.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to NIH MedlinePlus, blood has four main components, each with a job. Red blood cells, the most numerous, are loaded with hemoglobin, an iron-containing protein that grabs oxygen in the lungs and releases it in the tissues — and gives blood its red color. White blood cells are the immune system's mobile defenders, seeking out and destroying bacteria, viruses, and other intruders. Platelets are tiny cell fragments that swarm to an injury and clump together to form a clot, stopping the bleeding. All of these float in plasma, a mostly-water fluid that also ferries nutrients, hormones, and waste products to where they need to go. Pumped by the heart through the circulatory system, blood touches every corner of the body.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/blood.html",
+    "license": "Public domain (U.S. National Library of Medicine)"
+  },
+  "topic_ids": [
+    "human-body"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_630b44",
+      "slug": "circulatory-system",
+      "type": "concept",
+      "title": "The Circulatory System",
+      "hook": "Your heart pumps blood through roughly 60,000 miles of vessels, delivering oxygen and fuel to every cell and hauling waste away — about once a minute.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_13b9d2",
+      "slug": "the-respiratory-system",
+      "type": "concept",
+      "title": "The Respiratory System",
+      "hook": "With every breath, your lungs trade carbon dioxide for fresh oxygen — the gas swap that keeps every cell in your body running.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b9b75e#0",
+      "format": "flip",
+      "prompt": "What is the main job of red blood cells?",
+      "back_html": "\u003cp\u003eThey carry \u003cstrong\u003eoxygen\u003c/strong\u003e from the lungs to the rest of the body, using the\niron-rich protein \u003cstrong\u003ehemoglobin\u003c/strong\u003e that also gives blood its red color.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b9b75e#1",
+      "format": "quiz",
+      "prompt": "Which part of the blood is responsible for clotting a wound?",
+      "choices": [
+        {
+          "text": "Platelets",
+          "correct": true
+        },
+        {
+          "text": "Red blood cells",
+          "correct": false
+        },
+        {
+          "text": "Plasma alone",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePlatelets are cell fragments that rush to a cut, stick together, and form a\nplug that stops the bleeding while the wound heals.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b9b75e#2",
+      "format": "quiz",
+      "prompt": "What is plasma?",
+      "choices": [
+        {
+          "text": "The liquid that carries blood cells, nutrients, and wastes",
+          "correct": true
+        },
+        {
+          "text": "A type of white blood cell",
+          "correct": false
+        },
+        {
+          "text": "The solid clot that forms over a wound",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePlasma is the pale yellow fluid — mostly water — that the cells float in. It\ntransports nutrients, hormones, and waste products around the body.\u003c/p\u003e"
+    }
+  ]
+}

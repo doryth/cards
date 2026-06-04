@@ -1,0 +1,116 @@
+{
+  "id": "card_ea6171",
+  "slug": "dementia-brain-connectivity-paradox",
+  "type": "paper",
+  "title": "Dementia Doesn't Just Disconnect the Brain — Some Regions Wire Up More",
+  "hook": "Dementia is usually pictured as a brain quietly losing its connections. New imaging analysis finds a handful of regions that get more connected, not less.",
+  "key_points": [
+    "Using detailed brain-imaging data (the OASIS-3 dataset), researchers mapped which gray-matter regions gain or lose structural connectivity in dementia.",
+    "As expected, fine structures in the hippocampus and temporal lobe — regions central to memory — show decreased connectivity in dementia.",
+    "Surprisingly, the precuneus, cuneus, and parts of the insula show higher connectivity in dementia than in healthy aging.",
+    "This suggests dementia isn't simply uniform 'wiring loss' — some regions may be reorganizing or compensating rather than degrading."
+  ],
+  "content_html": "\u003cp\u003eThe common picture of a brain with dementia is one quietly losing its wiring. A new analysis of detailed brain-imaging data mostly confirms that — but also finds a twist researchers didn't expect.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eUsing the OASIS-3 imaging dataset, researchers mapped fine-grained structural connectivity across the gray matter in aging and demented brains. As anticipated, small structures within the hippocampus and temporal lobe — regions central to forming and retrieving memories — showed reduced connectivity in dementia, consistent with the usual story of memory decline. But the precuneus, the cuneus, and parts of the insula told a different story: these regions showed higher connectivity in dementia than in healthy aging. The finding suggests dementia isn't simply a uniform unraveling of the brain's wiring — some regions may be reorganizing, compensating, or responding to damage elsewhere, rather than just fading. It's an early, dataset-specific result, but it pushes back against a purely \u0026quot;less is worse\u0026quot; model of what's happening inside a demented brain.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv (q-bio.NC)",
+    "authors": [
+      "Daniel Hegedus",
+      "Marton Barnabas Mora",
+      "Balint Varga",
+      "Vince Grolmusz"
+    ],
+    "url": "https://arxiv.org/abs/2607.05654",
+    "published_at": "2026-07-06",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-13",
+  "date": "2026-07-06",
+  "related": [
+    {
+      "id": "card_f21e0c",
+      "slug": "the-brain",
+      "type": "concept",
+      "title": "The Brain",
+      "hook": "Three pounds of folded tissue runs the whole show — thinking, balance, breathing, memory — divided into regions that each handle a different part of the job.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c65348",
+      "slug": "memory-and-learning",
+      "type": "concept",
+      "title": "Memory and Learning",
+      "hook": "Every memory you hold is a pattern of connections between neurons — and learning is, quite literally, your brain rewiring itself to make those connections stronger.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_916bd5",
+      "slug": "shingles-vaccine-lowers-dementia",
+      "type": "news",
+      "title": "Could a Shingles Shot Protect the Brain?",
+      "hook": "Nursing-home residents who got a shingles vaccine were 24% less likely to develop dementia, a new study found — fresh fuel for the idea that viruses and immunity shape brain aging.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ea6171#0",
+      "format": "flip",
+      "prompt": "What's the common assumption about how dementia affects brain connectivity, and how does this study complicate it?",
+      "back_html": "\u003cp\u003eDementia is usually pictured as widespread loss of connections. This study found\nthat's true for memory regions like the hippocampus — but a few regions (the\nprecuneus, cuneus, and parts of the insula) actually show \u003cstrong\u003eincreased\u003c/strong\u003e\nconnectivity.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ea6171#1",
+      "format": "quiz",
+      "prompt": "Which brain regions showed the expected decreased connectivity in dementia?",
+      "choices": [
+        {
+          "text": "Fine structures in the hippocampus and temporal lobe",
+          "correct": true
+        },
+        {
+          "text": "The precuneus and cuneus",
+          "correct": false
+        },
+        {
+          "text": "The entire brain, uniformly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe hippocampus and temporal lobe — core memory-related regions — showed the\nexpected pattern of decreased structural connectivity in dementia.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ea6171#2",
+      "format": "quiz",
+      "prompt": "What does finding increased connectivity in some regions suggest?",
+      "choices": [
+        {
+          "text": "Dementia may involve reorganization or compensation in some regions, not just uniform decline",
+          "correct": true
+        },
+        {
+          "text": "The imaging method must have been faulty",
+          "correct": false
+        },
+        {
+          "text": "Dementia has no measurable effect on brain structure",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA pattern of both gains and losses across regions points to a more complex\npicture than simple wholesale connectivity loss — possibly reflecting the brain\ncompensating or reorganizing around damaged areas.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "card_4626e2",
+  "slug": "dark-matter-running-out-of-principles",
+  "type": "paper",
+  "title": "Has Dark Matter Run Out of Good Ideas?",
+  "hook": "Two philosophers of physics dissect how dark matter candidates get proposed — and argue the guiding principles that generated WIMPs, axions and the rest may have exhausted their heuristic steam.",
+  "key_points": [
+    "Physicists exploring new territory lean on principles — conservation laws, symmetries, naturalness — as scaffolding for building theories.",
+    "The authors call this 'principled inquiry' and treat principles functionally: their force comes from context-dependent reasons to trust them for a purpose.",
+    "They analyse four mainstream candidates: supersymmetric WIMPs, axions, sterile neutrinos, and primordial black holes.",
+    "All four share a common core of gravitational and non-gravitational principles that defines the dark matter paradigm.",
+    "Each departs from orthodox physics differently, and by different amounts — varying degrees of 'minimal mutilation'.",
+    "Their diagnosis: the crisis is that the trusted principles may no longer be generating fruitful new options, arguing for more radical exploration."
+  ],
+  "content_html": "\u003cp\u003eDecades of experiments have failed to catch a dark matter particle, and the search has grown philosophically self-conscious. Duerr and Read step back from any particular candidate and ask a methodological question instead: what actually generates dark matter proposals, and is that generator still working?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir answer starts with principles — conservation laws, symmetries, naturalness arguments, the constraints physicists treat as non-negotiable when venturing into unknown territory. The authors offer a functionalist account: a principle is defined by the job it is meant to do, and its argumentative force reduces to context-sensitive, often tentative reasons for believing it fit for that job. Leaning on well-motivated principles when pushing into new domains is what they call \u0026quot;principled inquiry\u0026quot;, and they present it as a historically widespread and methodologically prudent strategy rather than a mistake.\u003c/p\u003e\n\u003cp\u003eApplying that machinery to four mainstream candidates — supersymmetric WIMPs, axions, sterile neutrinos, and primordial black holes — they argue that the dark matter paradigm is precisely the space of possibilities carved out by a shared cluster of gravitational and non-gravitational principles. Beyond that shared core, each candidate breaks with orthodox physics in a different way and to a different extent, displaying varying degrees of what they call minimal mutilation. Their conclusion is a diagnosis of the field's unease: the crisis is not that dark matter has been refuted, but that the principles researchers have routinely and reasonably relied on may have run out of heuristic steam — which is an argument for exploring ideas that stray considerably further from the cautious path.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Patrick Duerr",
+      "James Read"
+    ],
+    "url": "https://arxiv.org/abs/2608.25954",
+    "published_at": "2026-08-26",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_007ce6",
+      "slug": "two-species-dark-matter-theory",
+      "type": "news",
+      "title": "What If Dark Matter Comes in Two Flavors?",
+      "hook": "A single, simple particle can't explain everything odd about dark matter. A new model splits it into two — a heavy kind and a light kind — that quietly sort themselves over cosmic time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_cb7f47",
+      "slug": "milky-way-gamma-ray-glow-dark-matter",
+      "type": "news",
+      "title": "The Milky Way's Mystery Glow Might Really Be Dark Matter",
+      "hook": "A gamma-ray haze at the galaxy's center has split scientists for years between 'hidden neutron stars' and 'dark matter.' Machine learning just tipped the scales.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_42fd73",
+      "slug": "how-fine-tuned-is-our-universe",
+      "type": "paper",
+      "title": "Maybe the Universe Isn't as Finely Tuned as Advertised",
+      "hook": "A review of what happens when you change the constants of nature argues the usual story is overstated: universes with quite different parameters could still make stars, planets, and possibly life.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-25"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4626e2#0",
+      "format": "quiz",
+      "prompt": "Which four dark matter approaches do the authors analyse in detail?",
+      "choices": [
+        {
+          "text": "Supersymmetric WIMPs, axions, sterile neutrinos, and primordial black holes",
+          "correct": true
+        },
+        {
+          "text": "MOND, modified gravity, extra dimensions, and dark energy",
+          "correct": false
+        },
+        {
+          "text": "Neutrons, neutrinos, brown dwarfs, and interstellar dust",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThese four are the paper's case studies for showing how each departs from orthodox\nphysics in its own way and to its own degree.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4626e2#1",
+      "format": "flip",
+      "prompt": "What do Duerr and Read mean by 'minimal mutilation'?",
+      "back_html": "\u003cp\u003eHow little of established physics a proposal has to break. Candidates differ in \u003cstrong\u003ewhich\u003c/strong\u003e\nprinciples they abandon and \u003cstrong\u003ehow far\u003c/strong\u003e they stray from orthodoxy.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4626e2#2",
+      "format": "quiz",
+      "prompt": "What is the authors' central worry about the dark matter paradigm?",
+      "choices": [
+        {
+          "text": "The principles researchers have rationally relied on may have stopped generating fruitful new candidates",
+          "correct": true
+        },
+        {
+          "text": "That dark matter has been definitively ruled out by direct-detection experiments",
+          "correct": false
+        },
+        {
+          "text": "That the paradigm never had any principled basis in the first place",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTheir claim is about heuristics running dry, not about a refutation — hence the call to\nexplore ideas that stray further from cautious, principled inquiry.\u003c/p\u003e"
+    }
+  ]
+}

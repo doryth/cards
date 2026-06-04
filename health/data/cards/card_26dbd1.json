@@ -1,0 +1,82 @@
+{
+  "id": "card_26dbd1",
+  "slug": "air-pollution-arthritis-flares",
+  "type": "news",
+  "title": "Dirty Air May Trigger Arthritis Flares",
+  "hook": "Fine particles from smoke, soot, and dust were linked to worse rheumatoid arthritis and more painful flares — making air quality a possible part of disease management.",
+  "key_points": [
+    "Fine particulate pollution was linked to worse rheumatoid arthritis symptoms.",
+    "The association with painful flares was strongest after prolonged exposure.",
+    "Rheumatoid arthritis is autoimmune — inflammation attacking the joints.",
+    "Inhaled particles are thought to drive systemic inflammation beyond the lungs.",
+    "It suggests watching air quality could become part of managing the disease."
+  ],
+  "content_html": "\u003cp\u003eRheumatoid arthritis flares are notoriously hard to predict. A new analysis adds an unexpected candidate to the list of triggers: the air outside.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, exposure to fine particulate pollution — the microscopic material in smoke, soot, and dust — was linked to worse rheumatoid arthritis symptoms and a higher risk of painful flares, with the association strongest after prolonged exposure rather than a single bad day.\u003c/p\u003e\n\u003cp\u003eThe proposed mechanism is not local. Rheumatoid arthritis is an autoimmune disease in which inflammation attacks the joints, and inhaled fine particles are known to provoke inflammatory activity well beyond the lungs. If that systemic inflammation feeds the same process, air quality stops being purely a respiratory concern.\u003c/p\u003e\n\u003cp\u003eThis is association rather than proof, and nobody is suggesting air filters replace treatment. But it points at something patients can act on: tracking local air quality indices during wildfire smoke or high-pollution stretches, and adjusting outdoor time accordingly, is low-cost and may matter more than it appears.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260805082452.htm",
+    "published_at": "2026-08-05",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "home-safety"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-05",
+  "related": [
+    {
+      "id": "card_5bcd11",
+      "slug": "wildfire-smoke-2026",
+      "type": "news",
+      "title": "Wildfire Smoke Is Like Smoking Half a Pack a Day",
+      "hook": "As Canadian wildfire smoke blanketed the U.S. in July 2026, doctors compared short-term exposure to smoking half a pack a day — and a $20 box fan turned out to be a top home defense.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_7c77b8",
+      "slug": "how-extreme-heat-harms-the-body",
+      "type": "news",
+      "title": "How Extreme Heat Harms the Body",
+      "hook": "Your body cools itself by sweating — but in high heat and humidity, that system can be overwhelmed, and the result can be deadly. Knowing the signs is how you stay ahead of it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_26dbd1#0",
+      "format": "flip",
+      "prompt": "How might air pollution worsen a joint disease like rheumatoid arthritis?",
+      "back_html": "\u003cp\u003eRheumatoid arthritis is autoimmune inflammation attacking the joints. Inhaled\nfine particles are thought to drive inflammation throughout the body, not just\nin the lungs — which can feed the same process.\u003c/p\u003e"
+    },
+    {
+      "id": "card_26dbd1#1",
+      "format": "quiz",
+      "prompt": "When was the link to painful flares strongest?",
+      "choices": [
+        {
+          "text": "After prolonged exposure to fine particulate pollution",
+          "correct": true
+        },
+        {
+          "text": "Within minutes of a single exposure",
+          "correct": false
+        },
+        {
+          "text": "Only during winter months",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe association with flares was particularly evident after sustained exposure,\nwhich is what makes tracking local air quality — rather than reacting to one\nbad day — the practical response.\u003c/p\u003e"
+    }
+  ]
+}

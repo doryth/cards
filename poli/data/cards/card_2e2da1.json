@@ -1,0 +1,130 @@
+{
+  "id": "card_2e2da1",
+  "slug": "how-many-jurors-make-a-jury",
+  "type": "news",
+  "title": "How Many Jurors Make a Jury?",
+  "hook": "Everyone pictures twelve. But in 1970 the Supreme Court called that number a 'historical accident' — and now it has agreed to look again.",
+  "key_points": [
+    "The Sixth Amendment guarantees 'trial by jury' but never states a number.",
+    "Williams v. Florida (1970) held jury size was a historical accident, letting states drop below 12.",
+    "Kian v. Florida (No. 25-6623) asks the Court whether six-person criminal juries are constitutional.",
+    "Kian argues 'trial by jury' had a settled founding-era meaning that included 12 members.",
+    "Florida invokes 56 years of reliance on Williams and says the amendment preserved the jury's function, not every detail.",
+    "SCOTUSblog notes over 5,000 pending convictions in Florida alone could be affected."
+  ],
+  "content_html": "\u003cp\u003eAsk anyone to picture a jury and they will picture twelve people. The Sixth Amendment, though, guarantees only a \u0026quot;trial by jury\u0026quot; — it never says how many. In \u003cem\u003eWilliams v. Florida\u003c/em\u003e (1970) the Supreme Court called the number twelve a \u0026quot;historical accident\u0026quot; with no constitutional significance, and several states responded by shrinking criminal juries to six. The Court has now agreed to revisit that in \u003cem\u003eKian v. Florida\u003c/em\u003e, the case of a man convicted by six jurors of practicing chiropractic medicine without a valid license.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWriting for SCOTUSblog, Anastasia Boden lays out the two sides. Kian's argument is originalist: at the founding, \u0026quot;trial by jury\u0026quot; was a term of art that already meant twelve, and he points to modern research finding that larger juries deliberate longer, recall evidence better, and bring a wider range of viewpoints. Florida answers that \u003cem\u003eWilliams\u003c/em\u003e has governed for 56 years — states have built their court systems around it — and that the Sixth Amendment preserved the jury's essential function rather than freezing every detail of common-law practice.\u003c/p\u003e\n\u003cp\u003eThe card is worth knowing less for the outcome than for the structure of the fight. It is a clean example of how a constitutional text that sounds specific (\u0026quot;trial by jury\u0026quot;) can leave a crucial detail open, and of how courts weigh original meaning against reliance on long-settled precedent. Boden notes the practical stakes are real: over 5,000 pending convictions in Florida alone could be affected. This describes U.S. constitutional law specifically; jury size varies widely across democracies.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Anastasia Boden"
+    ],
+    "url": "https://scotusblog.com/2026/08/twelve-angry-men-or-six",
+    "published_at": "2026-08-10",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties",
+    "branches-separation-of-powers"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-10",
+  "related": [
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d5569e",
+      "slug": "junk-science-and-wrongful-conviction",
+      "type": "news",
+      "title": "Junk Science \u0026 Wrongful Conviction",
+      "hook": "A courtroom isn't a lab — but it has to rely on forensic science anyway. When that science turns out to be unreliable, the wrong person can spend years, or a life, on death row.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_3080a6",
+      "slug": "trying-juveniles-as-adults",
+      "type": "blog",
+      "title": "Trying Children as Adults",
+      "hook": "Most legal systems treat young offenders differently — on the logic that a still-developing brain can change. So why are some children still tried in adult courts?",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-08"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_2e2da1#0",
+      "format": "flip",
+      "prompt": "Why is the size of a criminal jury a constitutional question at all?",
+      "back_html": "\u003cp\u003eThe Sixth Amendment guarantees a \u003cstrong\u003e\u0026quot;trial by jury\u0026quot;\u003c/strong\u003e without naming a\nnumber, so courts must decide whether that phrase carried a fixed\nfounding-era meaning — 12 — or only guarantees the jury's function.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2e2da1#1",
+      "format": "quiz",
+      "prompt": "What did Williams v. Florida (1970) hold about jury size?",
+      "choices": [
+        {
+          "text": "That 12 was a historical accident, so states may use smaller juries",
+          "correct": true
+        },
+        {
+          "text": "That the Constitution requires exactly 12 jurors in every criminal trial",
+          "correct": false
+        },
+        {
+          "text": "That jury size is a matter for Congress, not the states, to set",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWilliams treated the number 12 as an accident of history rather than a\nconstitutional command, which is why several states now use six-person\ncriminal juries.\u003c/p\u003e"
+    },
+    {
+      "id": "card_2e2da1#2",
+      "format": "quiz",
+      "prompt": "Which argument is Florida making in defense of six-person juries?",
+      "choices": [
+        {
+          "text": "Decades of reliance on Williams, and that the amendment preserved the jury's essential function",
+          "correct": true
+        },
+        {
+          "text": "That smaller juries convict more reliably than larger ones",
+          "correct": false
+        },
+        {
+          "text": "That the Sixth Amendment does not apply to state criminal trials",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFlorida's response leans on 56 years of settled practice and reads the\nSixth Amendment as protecting what a jury does, not every detail of\ncommon-law procedure.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "card_b379a7",
+  "slug": "glp1-beyond-weight-loss",
+  "type": "news",
+  "title": "GLP-1 Drugs Linked to Lower Addiction Risk",
+  "hook": "A study of ~600,000 U.S. veterans links GLP-1 drugs like semaglutide to lower rates of addiction and overdose — an association, not proof that the drugs cause the effect.",
+  "key_points": [
+    "Large observational study of more than 600,000 U.S. veterans — it shows links, not cause and effect.",
+    "GLP-1 users had lower rates of new substance use disorders across alcohol, nicotine, cannabis, cocaine, and opioids.",
+    "Among people already struggling with addiction, GLP-1 use was tied to fewer overdoses, hospitalizations, and deaths.",
+    "Findings are early; randomized trials are needed before GLP-1s can be recommended for addiction."
+  ],
+  "content_html": "\u003cp\u003eA large study of more than 600,000 U.S. veterans suggests that GLP-1 drugs such as semaglutide — already used for diabetes and weight loss — may be associated with lower rates of addiction and overdose. Researchers found that people taking these medications were less likely to develop substance use disorders, and that those already struggling with addiction had fewer overdoses, hospitalizations, and drug-related deaths. Importantly, this is an association, not proof that the drugs cause those benefits.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAccording to the ScienceDaily report, the analysis spanned a wide range of substances — alcohol, nicotine, cannabis, cocaine, and opioids — and consistently pointed in the same direction. That breadth is part of what makes researchers curious, since it hints the drugs might affect reward or craving pathways in the brain rather than any single substance.\u003c/p\u003e\n\u003cp\u003eStill, a study like this watches what happens to people who were already prescribed the drugs; it can't rule out that those patients differed in other ways. The researchers themselves frame the results as a promising signal that needs randomized clinical trials before GLP-1 medications could be recommended for treating addiction. For now, it's an intriguing lead, not a treatment.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260603023919.htm",
+    "published_at": "2026-06-03",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "substance-use"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-05",
+  "date": "2026-06-03",
+  "related": [
+    {
+      "id": "card_5940fa",
+      "slug": "why-glp1-doesnt-work-for-everyone",
+      "type": "news",
+      "title": "Why GLP-1 Drugs Don't Work for Everyone",
+      "hook": "Scientists found genetic variants — carried by roughly 1 in 10 people — that seem to cause a kind of 'GLP-1 resistance,' making drugs like Ozempic less effective at controlling blood sugar.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_9b7380",
+      "slug": "glp1-and-breast-cancer-risk",
+      "type": "news",
+      "title": "GLP-1 Drugs Linked to Lower Breast Cancer Risk",
+      "hook": "A large study found women on GLP-1 drugs were about 30% less likely to develop breast cancer — a promising association, not yet proof, with trials now being planned to test it.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "card_da28f1",
+      "slug": "glp1-and-moving-less",
+      "type": "news",
+      "title": "People on GLP-1 Drugs May Start Moving Less",
+      "hook": "Weight-loss drugs like Ozempic clearly shrink the number on the scale — but Fitbit data suggests users also take fewer steps, raising a flag about losing muscle along with fat.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-14"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b379a7#0",
+      "format": "flip",
+      "prompt": "Why can't this veterans study prove GLP-1 drugs reduce addiction?",
+      "back_html": "\u003cp\u003eIt's an \u003cstrong\u003eobservational\u003c/strong\u003e study — it tracks people who happened to take the drugs\nversus those who didn't. That reveals an \u003cstrong\u003eassociation\u003c/strong\u003e, but other differences\nbetween the groups could explain the result. Only randomized trials can show cause.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b379a7#1",
+      "format": "quiz",
+      "prompt": "What did researchers find among veterans taking GLP-1 drugs?",
+      "choices": [
+        {
+          "text": "Lower rates of substance use disorders and fewer overdoses",
+          "correct": true
+        },
+        {
+          "text": "Proof that GLP-1 drugs cure addiction",
+          "correct": false
+        },
+        {
+          "text": "Higher rates of drug-related hospitalization",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study linked GLP-1 use to lower rates of new substance use disorders and, among\nthose already affected, fewer overdoses and deaths. These are associations, not proof.\u003c/p\u003e"
+    }
+  ]
+}

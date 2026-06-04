@@ -1,0 +1,106 @@
+{
+  "id": "card_0aa867",
+  "slug": "cmb-physics-decade-review",
+  "type": "paper",
+  "title": "Update on the Physics of the Cosmic Microwave Background (2015-2025)",
+  "hook": "Cosmology's most important fossil record just got its decade-in-review: a comprehensive update on everything the cosmic microwave background has taught us since 2015.",
+  "key_points": [
+    "This is a book-chapter update to a decade-old review of cosmic microwave background (CMB) physics.",
+    "It covers 2015-2025: refined CMB measurements and tighter cosmological parameter constraints.",
+    "It tracks how open questions, like the Hubble tension, have sharpened over the decade.",
+    "It also previews future prospects for CMB observations.",
+    "It's written as a single textbook-style reference for where CMB cosmology stands today."
+  ],
+  "content_html": "\u003cp\u003eAccording to a new arXiv book chapter by Martin Bucher, cosmology's most important fossil record — the cosmic microwave background (CMB), the faint afterglow of the Big Bang — just got its own decade-in-review. The piece updates an earlier review from a decade ago, cataloging what has changed in CMB physics and observations between 2015 and 2025.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe update walks through refined measurements of the CMB's tiny temperature and polarization variations, tighter constraints on the universe's basic parameters, and how the field's biggest open questions — including the Hubble tension — have sharpened rather than resolved over the decade. It closes with a look at future prospects for CMB observations, serving as a single reference point for how the field has moved since the mid-2010s.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Martin Bucher"
+    ],
+    "url": "https://arxiv.org/abs/2607.15666",
+    "published_at": "2026-07-17",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_461ffa",
+      "slug": "cosmic-microwave-background",
+      "type": "concept",
+      "title": "The Cosmic Microwave Background",
+      "hook": "The oldest light we can see is a faint glow filling all of space — released when the infant universe first cooled enough to become transparent, about 380,000 years after the Big Bang.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ec7256",
+      "slug": "hubble-tension-world-cup",
+      "type": "paper",
+      "title": "The H₀ World Cup II: A Comprehensive Competition Between Proposed Hubble Tension Solutions",
+      "hook": "Fourteen rival theories all claim to fix cosmology's biggest headache — the Hubble tension. A new 'World Cup' pits them head-to-head on the same data to see which ones actually survive.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-14"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0aa867#0",
+      "format": "flip",
+      "prompt": "What is this arXiv paper, in one line?",
+      "back_html": "\u003cp\u003eA book-chapter update reviewing everything that changed in cosmic\nmicrowave background (CMB) physics and observations between 2015 and 2025.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0aa867#1",
+      "format": "quiz",
+      "prompt": "What does the review say happened to open questions like the Hubble tension over the decade?",
+      "choices": [
+        {
+          "text": "They sharpened, rather than being resolved",
+          "correct": true
+        },
+        {
+          "text": "They were fully resolved",
+          "correct": false
+        },
+        {
+          "text": "They disappeared entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe update tracks how the field's biggest open questions, including the\nHubble tension, have sharpened over 2015-2025.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0aa867#2",
+      "format": "quiz",
+      "prompt": "Besides measurements and open questions, what else does the review cover?",
+      "choices": [
+        {
+          "text": "Future prospects for CMB observations",
+          "correct": true
+        },
+        {
+          "text": "Only historical measurements from before 2015",
+          "correct": false
+        },
+        {
+          "text": "Nothing beyond temperature maps",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe review also looks ahead, closing with a section on future\nprospects for CMB observations.\u003c/p\u003e"
+    }
+  ]
+}

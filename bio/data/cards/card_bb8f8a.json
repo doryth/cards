@@ -1,0 +1,99 @@
+{
+  "id": "card_bb8f8a",
+  "slug": "the-senses",
+  "type": "concept",
+  "title": "The Senses",
+  "hook": "Light, sound, chemicals, and pressure can't enter your brain directly — your senses translate all of them into the one language your neurons understand: electrical signals.",
+  "key_points": [
+    "Sense organs contain receptor cells that detect a specific kind of stimulus.",
+    "Receptors convert stimuli — light, sound, chemicals, pressure — into nerve signals (transduction).",
+    "Those signals travel along nerves to the brain, which interprets them as sight, sound, smell, taste, or touch.",
+    "Sight uses light, hearing uses vibration, smell and taste use chemicals, and touch uses pressure, temperature, and pain."
+  ],
+  "content_html": "\u003cp\u003eYour senses are translators. The world is full of light, sound, smells, flavors, and textures, but your brain can't read any of those directly — it only speaks in nerve signals. Each sense organ's job is to catch one kind of stimulus and convert it into that electrical language.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSpecialized receptor cells do the converting, a process called transduction: light-sensitive cells in the eye respond to photons, hair cells in the ear respond to vibrations, chemical receptors in the nose and tongue respond to molecules, and receptors in the skin respond to pressure, temperature, and pain. Each fires off nerve signals that travel to the brain, where they're interpreted into the sights, sounds, smells, tastes, and touches you actually experience. As Encyclopaedia Britannica's overview of human sensory reception notes, perception isn't passive recording — the brain actively assembles a picture of the world from these streams of signals.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/human-sensory-reception",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_945f3f",
+      "slug": "neurons-and-signals",
+      "type": "concept",
+      "title": "Neurons and Signals",
+      "hook": "Your every thought, twitch, and feeling rides on tiny electrical pulses fired by neurons — and leaps the gaps between them as bursts of chemicals.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f21e0c",
+      "slug": "the-brain",
+      "type": "concept",
+      "title": "The Brain",
+      "hook": "Three pounds of folded tissue runs the whole show — thinking, balance, breathing, memory — divided into regions that each handle a different part of the job.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_bb8f8a#0",
+      "format": "flip",
+      "prompt": "What do sensory receptors do to a stimulus like light or sound?",
+      "back_html": "\u003cp\u003eThey \u003cstrong\u003econvert it into an electrical nerve signal\u003c/strong\u003e — a process called\ntransduction — so the brain can read it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bb8f8a#1",
+      "format": "quiz",
+      "prompt": "Which sense relies on detecting chemicals?",
+      "choices": [
+        {
+          "text": "Smell (and taste)",
+          "correct": true
+        },
+        {
+          "text": "Hearing",
+          "correct": false
+        },
+        {
+          "text": "Sight",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSmell and taste are chemical senses: receptors detect specific molecules in\nthe air or in food. Hearing detects vibration, and sight detects light.\u003c/p\u003e"
+    },
+    {
+      "id": "card_bb8f8a#2",
+      "format": "quiz",
+      "prompt": "Where is the actual experience of seeing, hearing, or tasting produced?",
+      "choices": [
+        {
+          "text": "In the brain, which interprets the incoming signals",
+          "correct": true
+        },
+        {
+          "text": "In the eyes, ears, and tongue themselves",
+          "correct": false
+        },
+        {
+          "text": "In the spinal cord before signals reach the brain",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSense organs gather and convert stimuli, but the brain does the\ninterpreting — it builds the experience from the signals it receives.\u003c/p\u003e"
+    }
+  ]
+}

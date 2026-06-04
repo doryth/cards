@@ -1,0 +1,78 @@
+{
+  "id": "card_024cfd",
+  "slug": "lucy-asteroid-donaldjohanson",
+  "type": "news",
+  "title": "A Wobbling, Peanut-Shaped Asteroid Reshaped by Sunlight",
+  "hook": "NASA's Lucy found that asteroid Donaldjohanson is a peanut-shaped relic of an ancient collision — slowly reshaped by sunlight, and still carrying traces of old water.",
+  "key_points": [
+    "NASA's Lucy spacecraft studied the asteroid Donaldjohanson up close.",
+    "It is peanut-shaped and wobbling, born from a violent ancient collision.",
+    "Sunlight has slowly reshaped it — light carries momentum and can nudge small bodies.",
+    "It also carries traces of ancient water, a clue to the early solar system."
+  ],
+  "content_html": "\u003cp\u003eAccording to a ScienceDaily report, NASA's Lucy spacecraft flew past the asteroid Donaldjohanson and found a wobbling, peanut-shaped world. Its lumpy form is thought to be the leftover of a violent ancient collision, and it has been slowly reshaped since then by an unlikely sculptor: sunlight. Light carries momentum, so over very long times the gentle, uneven push of sunlight on an irregular body can subtly change how it spins and how it is shaped.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe asteroid also carries traces of ancient water, which makes it a useful clue to the solar system's distant past — a record of where water and raw materials sat among the small bodies that formed billions of years ago. Missions like Lucy visit these leftovers precisely because they are time capsules: little changed since the era of planet formation, they preserve evidence that has long since been erased on larger, more active worlds.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260624025455.htm",
+    "published_at": "2026-06-25",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-29",
+  "date": "2026-06-25",
+  "related": [
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_024cfd#0",
+      "format": "flip",
+      "prompt": "How did asteroid Donaldjohanson likely get its peanut shape?",
+      "back_html": "\u003cp\u003eIt is a relic of a violent \u003cstrong\u003eancient collision\u003c/strong\u003e, then slowly reshaped over\ntime by the subtle force of sunlight.\u003c/p\u003e"
+    },
+    {
+      "id": "card_024cfd#1",
+      "format": "quiz",
+      "prompt": "How can sunlight slowly reshape or nudge a small asteroid?",
+      "choices": [
+        {
+          "text": "Light carries momentum, so absorbing and re-emitting it exerts a tiny ongoing force",
+          "correct": true
+        },
+        {
+          "text": "Sunlight has no effect on solid objects in space",
+          "correct": false
+        },
+        {
+          "text": "Sunlight melts the entire asteroid into a sphere",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLight carries momentum; over long times the gentle, uneven push of sunlight\non an irregular body can change its spin and shape.\u003c/p\u003e"
+    },
+    {
+      "id": "card_024cfd#2",
+      "format": "flip",
+      "prompt": "Why is the asteroid's trace of ancient water interesting?",
+      "back_html": "\u003cp\u003eIt's a clue to the early solar system, hinting at where and how water was\ndistributed among the small bodies that formed long ago.\u003c/p\u003e"
+    }
+  ]
+}

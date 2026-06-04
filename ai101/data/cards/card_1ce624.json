@@ -1,0 +1,99 @@
+{
+  "id": "card_1ce624",
+  "slug": "gpt-red-ai-hacks-ai",
+  "type": "news",
+  "title": "OpenAI Built an AI Whose Job Is to Hack Its Other AI",
+  "hook": "Meet GPT-Red: an AI system OpenAI built specifically to attack its own models — so the flaws get found by a friendly hacker before a real one finds them first.",
+  "key_points": [
+    "MIT Technology Review reports OpenAI built GPT-Red, an AI 'super-hacker' sparring partner.",
+    "Its job: automate attacks on OpenAI's other models to expose weaknesses before release.",
+    "OpenAI says training its flagship model against GPT-Red made it its most robust release yet.",
+    "It's a form of 'red-teaming' — deliberately attacking your own system to toughen it up.",
+    "Using AI to attack AI can scale far beyond what human security testers could do alone."
+  ],
+  "content_html": "\u003cp\u003eIt's a strange-sounding idea: build an AI whose entire job is to hack your other AI. MIT Technology Review reports that's exactly what OpenAI did with GPT-Red, an automated \u0026quot;super-hacker\u0026quot; system used internally as a sparring partner for the company's flagship models.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe practice is called \u003cstrong\u003ered-teaming\u003c/strong\u003e — deliberately attacking your own system the way a real adversary would, so you find the cracks first. Security teams have done this by hand for years; the shift here is automating it with another AI, which can run far more attack attempts, far faster, than any human red team could manage alone. OpenAI says it trained its latest flagship model, GPT-5.6, against GPT-Red specifically to harden its defenses against cyberattacks, and that the result was its most robust release yet. For a general reader, the useful takeaway isn't the specific product — it's the pattern: as AI models get more capable, testing them increasingly means turning AI loose on AI, since the range of possible attacks has grown too large for people to cover by hand. It's also a reminder that \u0026quot;safety\u0026quot; isn't something a model has by default; it's something companies have to actively hunt for and patch, the same way a bank tests its own vault by trying to break into it.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Will Douglas Heaven"
+    ],
+    "url": "https://technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer",
+    "published_at": "2026-07-15",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-agents",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-16",
+  "date": "2026-07-15",
+  "related": [
+    {
+      "id": "card_6e744d",
+      "slug": "meta-ai-agent-hijacked",
+      "type": "news",
+      "title": "Hackers Talked Meta's AI Into Handing Over Accounts",
+      "hook": "Attackers stole Instagram accounts not by cracking passwords, but by asking Meta's support AI to relink them — proof that an AI agent with real permissions can be talked into real harm.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_e0c338",
+      "slug": "ai-browser-guardrail-bypass",
+      "type": "news",
+      "title": "The Trick That Fools AI Browsers Into Ignoring Their Own Rules",
+      "hook": "Telling an AI browser agent something as absurd as '2 + 2 = 5' can be enough to unlock forbidden instructions — a new attack shows how easily an agent's sense of reality can be hijacked.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_192b5c",
+      "slug": "defenders-embrace-prompt-injection",
+      "type": "news",
+      "title": "Now Defenders Are Using Prompt Injection, Too",
+      "hook": "Prompt injection usually means tricking an AI agent into doing something bad. Security teams found a twist: feed a hacking agent so much fake noise it gives up and shuts itself down.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1ce624#0",
+      "format": "quiz",
+      "prompt": "What is GPT-Red, as reported by MIT Technology Review?",
+      "choices": [
+        {
+          "text": "An AI system OpenAI built to automatically attack its own models and find flaws",
+          "correct": true
+        },
+        {
+          "text": "A chatbot for customer support",
+          "correct": false
+        },
+        {
+          "text": "A tool that blocks all hacking attempts instantly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGPT-Red is OpenAI's own automated hacking system, used as a sparring partner\nto probe other OpenAI models for cyberattack weaknesses before they ship.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1ce624#1",
+      "format": "flip",
+      "prompt": "What is 'red-teaming,' the practice GPT-Red automates?",
+      "back_html": "\u003cp\u003eDeliberately attacking your own system — the way a real adversary would — to\nfind and fix weaknesses before someone with bad intentions finds them.\u003c/p\u003e"
+    }
+  ]
+}

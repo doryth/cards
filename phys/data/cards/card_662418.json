@@ -1,0 +1,101 @@
+{
+  "id": "card_662418",
+  "slug": "buoyancy-and-floating",
+  "type": "concept",
+  "title": "Buoyancy: Why Things Float",
+  "hook": "Any fluid pushes up on what's in it with a force equal to the weight of fluid it shoves aside. Match your weight that way and you float — that's Archimedes.",
+  "key_points": [
+    "Archimedes' principle: buoyant force equals the weight of fluid displaced.",
+    "An object floats if it's less dense than the fluid, sinks if denser.",
+    "A floating object displaces exactly its own weight in fluid.",
+    "Steel ships float because the hull's shape displaces water like a giant air pocket."
+  ],
+  "content_html": "\u003cp\u003eDrop something into water and the water pushes back up. Archimedes figured out exactly how hard: the upward buoyant force equals the weight of the fluid the object pushes out of the way. Sink a beach ball and it shoves aside a lot of water, so the water shoves back hard — which is why it leaps to the surface the moment you let go.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhether something floats comes down to density. If an object is less dense than the fluid, it can displace its own weight in fluid before it's fully submerged, and it settles at the surface. Denser objects can't displace enough, so they sink. That's the trick behind a steel ship: bend the steel into a wide hollow hull and the vessel, counting all the air inside, ends up less dense than water. Wikipedia's buoyancy article walks through the principle and the density argument behind floating.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Buoyancy",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "fluids-pressure"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_7de888",
+      "slug": "what-is-pressure",
+      "type": "concept",
+      "title": "What Is Pressure?",
+      "hook": "Pressure is force spread over an area. Concentrate the same push on a tiny spot and it skyrockets — which is why a sharp knife cuts and a thumbtack pierces.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e40f9b",
+      "slug": "atmospheric-pressure",
+      "type": "concept",
+      "title": "Atmospheric Pressure",
+      "hook": "Air has weight, and the whole column of it above you presses down — about 101 kPa at sea level. That push is what makes straws and suction cups work.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_662418#0",
+      "format": "flip",
+      "prompt": "What does Archimedes' principle say about the upward force on a submerged object?",
+      "back_html": "\u003cp\u003eThe buoyant force equals the \u003cstrong\u003eweight of the fluid the object displaces\u003c/strong\u003e.\nDisplace enough to match your weight and you float.\u003c/p\u003e"
+    },
+    {
+      "id": "card_662418#1",
+      "format": "quiz",
+      "prompt": "When does an object float in a fluid?",
+      "choices": [
+        {
+          "text": "When it is less dense than the fluid",
+          "correct": true
+        },
+        {
+          "text": "When it is heavier than the fluid",
+          "correct": false
+        },
+        {
+          "text": "Only when it is made of wood",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA less-dense object can displace enough fluid to match its weight before it\nfully submerges, so it floats; a denser one sinks.\u003c/p\u003e"
+    },
+    {
+      "id": "card_662418#2",
+      "format": "quiz",
+      "prompt": "How can a steel ship float when steel sinks?",
+      "choices": [
+        {
+          "text": "Its hollow hull displaces a large volume of water, mostly air inside",
+          "correct": true
+        },
+        {
+          "text": "Steel becomes lighter in water",
+          "correct": false
+        },
+        {
+          "text": "The ship is secretly made of plastic",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eShaping the steel into a wide, air-filled hull makes the ship's average\ndensity less than water, so it displaces enough water to stay up.\u003c/p\u003e"
+    }
+  ]
+}

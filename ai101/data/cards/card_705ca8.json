@@ -1,0 +1,130 @@
+{
+  "id": "card_705ca8",
+  "slug": "cloudflare-open-source-agent-workspace",
+  "type": "news",
+  "title": "Cloudflare Open-Sources Its Vibe-Coding Tool for Non-Coders",
+  "hook": "Cloudflare built an AI workspace so its non-engineer staff could make software by describing it. Now it's giving the tool away — a sign 'building without code' is becoming office equipment.",
+  "key_points": [
+    "Ars Technica reports Cloudflare built an AI agent workspace for employees, then open-sourced it.",
+    "The pitch is explicit: for people who aren't coders.",
+    "Open source means anyone can run, inspect, or modify the tool for free.",
+    "'Vibe coding' = describing what you want in plain English and letting AI write the code.",
+    "The bottleneck shifts from writing code to describing, testing, and reviewing it."
+  ],
+  "content_html": "\u003cp\u003eCloudflare has released, as open source, an AI agent workspace it originally built so its own employees could create software without being programmers, Ars Technica reports. Open source here means the code is public: anyone can download it, run it themselves, or change it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe interesting part isn't the product, it's the normalization. \u0026quot;Vibe coding\u0026quot; — describing what you want in plain language and letting an AI write and wire up the code — started as a novelty and is turning into standard office equipment, with a large infrastructure company building an internal version for marketers, analysts, and support staff rather than engineers. What that changes is where the effort goes. You no longer need to know a programming language's syntax, but you still need to know what you want, notice when the result is subtly wrong, and think about who can see the data you feed it. Those are the same skills that separate a useful AI answer from a confident wrong one — which is why the sensible way to start is on something small and low-stakes, where a mistake costs you an afternoon rather than a customer list.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders",
+    "published_at": "2026-08-06",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-making",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "agent",
+    "open-source"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-10",
+  "date": "2026-08-06",
+  "related": [
+    {
+      "id": "card_4e9253",
+      "slug": "ai-for-non-coders",
+      "type": "concept",
+      "title": "Making Things Without Code",
+      "hook": "Describe an app, a website, or a little tool in plain English, and AI will write the code and build a first version. 'Vibe coding' lets non-programmers make software — within limits.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_dc48f5",
+      "slug": "vibe-coding-security-risks",
+      "type": "news",
+      "title": "The Hidden Risk of Vibe-Coded Apps",
+      "hook": "Anyone can now describe an app and have AI build it — but the AI can quietly leave the doors unlocked. One builder ran his live site for months before noticing a gaping security hole.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_4e9253",
+      "slug": "ai-for-non-coders",
+      "type": "concept",
+      "title": "Making Things Without Code",
+      "hook": "Describe an app, a website, or a little tool in plain English, and AI will write the code and build a first version. 'Vibe coding' lets non-programmers make software — within limits.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_705ca8#0",
+      "format": "flip",
+      "prompt": "What does it mean that Cloudflare 'open-sourced' its tool?",
+      "back_html": "\u003cp\u003eThe code is published for anyone to download, read, run, or modify — usually free.\nYou're not dependent on the company's hosted version or its pricing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_705ca8#1",
+      "format": "quiz",
+      "prompt": "When a non-coder builds software by describing it, what work does *not* disappear?",
+      "choices": [
+        {
+          "text": "Deciding what it should do, then testing and reviewing what came back",
+          "correct": true
+        },
+        {
+          "text": "Nothing — the AI handles the entire job end to end",
+          "correct": false
+        },
+        {
+          "text": "Typing, since you still write every line by hand",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAI removes the syntax, not the judgment. Someone still has to specify the goal and\ncheck that the result actually works and is safe to use.\u003c/p\u003e"
+    },
+    {
+      "id": "card_705ca8#2",
+      "format": "quiz",
+      "prompt": "Why is it notable that Cloudflare built this for its own employees first?",
+      "choices": [
+        {
+          "text": "It suggests AI app-building is now routine internal tooling, not a demo",
+          "correct": true
+        },
+        {
+          "text": "It proves the tool has no security weaknesses",
+          "correct": false
+        },
+        {
+          "text": "It means only Cloudflare staff can legally use it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTools companies actually run their own operations on tend to be more grounded than\nshowcase products — though open-sourcing it doesn't make it risk-free.\u003c/p\u003e"
+    }
+  ]
+}

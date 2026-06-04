@@ -1,0 +1,118 @@
+{
+  "id": "card_74d0f8",
+  "slug": "what-really-powers-a-quantum-demon",
+  "type": "paper",
+  "title": "The Quantum Demon Was Cheating in a Different Way Than We Thought",
+  "hook": "The story went: perfectly tell apart overlapping quantum states and you could break the second law. A new analysis says that operation makes things worse — the real culprit is its reverse.",
+  "key_points": [
+    "Quantum mechanics forbids perfectly distinguishing nonorthogonal states — states that partly overlap — because the theory is linear and unitary.",
+    "The standard assumption was that such distinguishing, if allowed, would be the resource enabling work extraction from a single heat bath.",
+    "The authors show this identifies the wrong operation: hypothetical perfect distinguishing would increase the joint entropy of system plus detector.",
+    "The entropy-decreasing resource is the inverse operation, which they name nonorthogonal-state erasure.",
+    "Re-analysing a Peres-type Szilard engine on a spin mixture, they find an apparent extracted work of 0.2766 kBT supplied by erasure, not by distinguishing."
+  ],
+  "content_html": "\u003cp\u003eMaxwell's demon is the thought experiment that refuses to die: a being who sorts fast molecules from slow ones seems to extract work from a single heat bath, apparently violating the second law. The modern resolution charges the demon for information handling. In the quantum version, a long-standing piece of folklore held that the forbidden superpower would be perfectly distinguishing nonorthogonal states — states that partly overlap, which quantum linearity says you can never separate with certainty.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eXinshu Xia and colleagues argue that folklore points at the wrong operation. They prove that a hypothetical machine performing perfect distinguishing would \u003cem\u003eincrease\u003c/em\u003e, not decrease, the joint entropy of the system and its detector — so it cannot be what pays for the extracted work. The entropy-decreasing resource is instead the inverse operation, which they call nonorthogonal-state erasure: mapping distinct outcomes back onto overlapping states. Re-analysing a Peres-type Szilard engine acting on an equal mixture of an atomic ensemble prepared in the spin-up and spin-right states, they find an apparent extracted work of 0.2766 kBT, and trace its origin to that erasure step rather than to any act of distinguishing. It is a clean example of how carefully you have to identify \u003cem\u003ewhich\u003c/em\u003e operation in a thought experiment is doing the thermodynamic work.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Xinshu Xia",
+      "Hui Hui Qin",
+      "Yu-Han Ma",
+      "Chang-Pu Sun",
+      "Hui Dong"
+    ],
+    "url": "https://arxiv.org/abs/2608.13881",
+    "published_at": "2026-08-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "heat-thermo",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7150b9",
+      "slug": "heat-engines-and-efficiency",
+      "type": "concept",
+      "title": "Heat Engines and Why None Are Perfect",
+      "hook": "Every car engine and power plant turns heat into motion — but physics forbids turning all of it. Some heat must always be thrown away, which is why perpetual motion is impossible.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_6ca0c3",
+      "slug": "superconducting-quantum-heat-engine",
+      "type": "news",
+      "title": "A Heat Engine That Runs Near Absolute Zero",
+      "hook": "The first cyclic superconducting quantum heat engine turns a whisper of heat a hair above absolute zero into useful work — and could one day power quantum computers from inside the fridge.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-14"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_74d0f8#0",
+      "format": "flip",
+      "prompt": "What does it mean for two quantum states to be nonorthogonal, and why can't you tell them apart?",
+      "back_html": "\u003cp\u003eThey partly overlap. The \u003cstrong\u003elinear and unitary\u003c/strong\u003e structure of quantum mechanics forbids any\ndeterministic measurement that perfectly distinguishes overlapping states.\u003c/p\u003e"
+    },
+    {
+      "id": "card_74d0f8#1",
+      "format": "quiz",
+      "prompt": "Which operation, according to this paper, is the real entropy-decreasing resource behind an apparent second-law violation?",
+      "choices": [
+        {
+          "text": "Nonorthogonal-state erasure — the inverse of perfect distinguishing",
+          "correct": true
+        },
+        {
+          "text": "Perfect distinguishing of nonorthogonal states",
+          "correct": false
+        },
+        {
+          "text": "Measuring the temperature of the single heat bath",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe authors prove that hypothetical perfect distinguishing would \u003cem\u003eincrease\u003c/em\u003e the joint\nentropy of system and detector. It is the inverse operation — erasure — that decreases it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_74d0f8#2",
+      "format": "flip",
+      "prompt": "What did the re-analysed Peres-type Szilard engine appear to extract?",
+      "back_html": "\u003cp\u003eAn apparent work of \u003cstrong\u003e0.2766 kBT\u003c/strong\u003e for an equal mixture of an atomic ensemble in the\nspin-up and spin-right states — supplied by nonorthogonal-state erasure.\u003c/p\u003e"
+    }
+  ]
+}

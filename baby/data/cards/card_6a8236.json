@@ -1,0 +1,102 @@
+{
+  "id": "card_6a8236",
+  "slug": "fever-basics",
+  "type": "concept",
+  "title": "Fever Basics for Parents",
+  "hook": "A fever is a sign the body is fighting infection, not a disease itself — how your child looks and acts often matters more than the exact number on the thermometer.",
+  "key_points": [
+    "Fever is usually defined as a temperature of about 38°C (100.4°F) or higher.",
+    "A child's overall behavior — alert and drinking vs. very lethargic — is a key signal alongside the number.",
+    "Any fever in a baby under 3 months is treated as urgent: contact a doctor promptly.",
+    "Watch for warning signs like trouble breathing, a stiff neck, a non-fading rash, or a hard-to-wake child, and seek care."
+  ],
+  "content_html": "\u003cp\u003eIt helps to reframe what a fever is: not an illness, but a sign that the body is doing its job and fighting an infection. A temperature of around 38°C (100.4°F) or higher is generally considered a fever. The exact number matters less than the bigger picture — a child who is alert, drinking, and playing is reassuring even with a fever, while one who is very lethargic warrants more concern.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThere are clear lines where you don't wait and watch. Any fever in a baby under three months old is treated as urgent — contact a doctor promptly, because young infants can deteriorate quickly. At any age, warning signs like difficulty breathing, a stiff neck, a rash that doesn't fade when pressed, or a child who is very hard to wake mean you should seek medical care right away. This is general guidance from sources like the NHS, not a substitute for advice from your own clinician.\u003c/p\u003e",
+  "source": {
+    "name": "NHS",
+    "url": "https://www.nhs.uk/conditions/fever-in-children/",
+    "license": "© Crown copyright (Open Government Licence)"
+  },
+  "topic_ids": [
+    "health-safety",
+    "newborn"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_9ce053",
+      "slug": "childhood-vaccines",
+      "type": "concept",
+      "title": "How Childhood Vaccines Work",
+      "hook": "Vaccines train a child's immune system to recognize a disease in advance, so it can fight off the real thing — and they're scheduled to protect kids when they're most vulnerable.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_983b5b",
+      "slug": "newborn-crying",
+      "type": "concept",
+      "title": "Crying Is a Newborn's Main Language",
+      "hook": "Crying is how a newborn communicates every need — and a lot of crying in the first months is normal, peaking around six weeks and easing after that.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6a8236#0",
+      "format": "quiz",
+      "prompt": "A fever in a baby younger than 3 months should be treated as:",
+      "choices": [
+        {
+          "text": "Urgent — contact a doctor promptly",
+          "correct": true
+        },
+        {
+          "text": "Normal and best left to pass on its own",
+          "correct": false
+        },
+        {
+          "text": "Only a concern above 40°C",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eYoung infants can become unwell quickly, so any fever under 3 months of age\nwarrants prompt medical advice.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6a8236#1",
+      "format": "flip",
+      "prompt": "What is a fever, and what does it tell you?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003eraised body temperature (about 38°C / 100.4°F or higher)\u003c/strong\u003e — a sign the\nbody is \u003cstrong\u003efighting an infection\u003c/strong\u003e, not a disease in itself.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6a8236#2",
+      "format": "quiz",
+      "prompt": "Alongside the thermometer reading, what's an important thing to watch?",
+      "choices": [
+        {
+          "text": "How the child looks and behaves — alert and drinking vs. very lethargic",
+          "correct": true
+        },
+        {
+          "text": "Only the exact decimal of the temperature",
+          "correct": false
+        },
+        {
+          "text": "Whether the room feels warm to you",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA child's overall behavior is a key signal. Warning signs like trouble\nbreathing or a non-fading rash mean seek care regardless of the number.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "card_b6b786",
+  "slug": "meta-nudify-app-ads",
+  "type": "news",
+  "title": "Meta Ran Ads for an App That 'Nudifies' Politicians",
+  "hook": "Nudify apps don't spread in the shadows — they buy advertising. Meta ran ads for one, including a deepfake video resembling a US politician.",
+  "key_points": [
+    "Ars Technica reports Meta carried ads promoting an app that generates fake nude images of women.",
+    "One ad reportedly featured a pornographic deepfake closely resembling a US politician.",
+    "The ads targeted female politicians specifically — sexualized fakes used as political intimidation.",
+    "Ad platforms are a distribution channel for abuse tools, not just a place abuse gets discussed.",
+    "Enforcement is reactive: policies exist, but violating ads still get served before they're caught."
+  ],
+  "content_html": "\u003cp\u003eAds for an app promising to generate fake nude images of women ran on Meta's platforms, according to Ars Technica — including, in one case, a pornographic video featuring a deepfake closely resembling a US politician.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSo-called nudify apps have existed for years, but the striking part of this reporting is the marketing. The tool wasn't circulating on obscure forums; it was buying ads on one of the largest advertising systems in the world. Platform rules prohibit this kind of content, which means the gap here is between policy on paper and review in practice — ads get served first and pulled later.\u003c/p\u003e\n\u003cp\u003eThe choice of targets matters too. Sexualized fakes aimed at women in public office aren't only a privacy violation; they function as intimidation, and researchers studying online abuse have long argued that's the point. Ars Technica has the details and Meta's response.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Vittoria Elliott",
+      "Matt Burgess"
+    ],
+    "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians",
+    "published_at": "2026-08-19",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "deepfakes",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "generative"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_1dd856",
+      "slug": "sf-nudify-apps-app-stores",
+      "type": "news",
+      "title": "San Francisco Tells Apple and Google: Stop Selling 'Nudify' Apps",
+      "hook": "Apps that use AI to digitally strip clothes from a photo have been sitting in the App Store and Google Play, taking a cut of the profits. San Francisco just gave both companies 28 days to pull them.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_22f22c",
+      "slug": "hugging-face-nudify-models",
+      "type": "news",
+      "title": "Seven of Nine Top Image Models Agreed to Undress People",
+      "hook": "A European watchdog tested the most popular image-editing models on Hugging Face. Most complied with requests to strip clothes off photos of women — and, the report says, children.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "card_c3cf19",
+      "slug": "meta-muse-instagram-deepfakes",
+      "type": "news",
+      "title": "Meta Let You Put Strangers Into AI Photos — Then Pulled It Back Fast",
+      "hook": "Meta's new AI image model could pull any public Instagram user into your AI-generated photos, no permission asked. Backlash was swift, and so was the shutdown.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-07"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_b6b786#0",
+      "format": "flip",
+      "prompt": "What does this story reveal about how nudify apps reach people?",
+      "back_html": "\u003cp\u003eThey advertise. Rather than hiding, the app bought placements on a mainstream\nplatform — so enforcement gaps in ad review become a distribution channel.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b6b786#1",
+      "format": "quiz",
+      "prompt": "Why is targeting female politicians with sexual deepfakes treated as more than a privacy problem?",
+      "choices": [
+        {
+          "text": "It works as political intimidation — pushing women out of public life",
+          "correct": true
+        },
+        {
+          "text": "Politicians have no legal right to their own likeness",
+          "correct": false
+        },
+        {
+          "text": "The images are usually accurate depictions",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSexualized fakes aimed at public figures function as harassment designed to\ndeter participation in politics, which is why this case drew scrutiny.\u003c/p\u003e"
+    }
+  ]
+}

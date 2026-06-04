@@ -1,0 +1,94 @@
+{
+  "id": "card_6e9316",
+  "slug": "firesat-wildfire-satellites",
+  "type": "news",
+  "title": "Satellites Now Use AI to Catch Wildfires the Size of a Tennis Court",
+  "hook": "Three new satellites just launched with one job: spot a wildfire early enough to matter — using AI that checks every image against a thousand before it, to tell smoke from a false alarm.",
+  "key_points": [
+    "FireSat's first three operational satellites launched July 7, 2026 from Vandenberg Space Force Base.",
+    "Built by Google Research, the nonprofit Earth Fire Alliance, and satellite maker Muon Space.",
+    "Sensors can spot fires as small as 5x5 meters — much earlier than most existing satellites.",
+    "AI compares each new image against roughly 1,000 past images of the same spot to confirm a real fire.",
+    "Goal: cover every fire-prone region twice a day now, hourly by 2029, every 20 minutes by the early 2030s."
+  ],
+  "content_html": "\u003cp\u003eThree new satellites launched from California on July 7, 2026 with a specific mission: catch wildfires while they're still small enough to stop. The FireSat program — a partnership between Google Research, the nonprofit Earth Fire Alliance, and satellite maker Muon Space — reports its sensors can spot a fire as small as 5x5 meters, far earlier than most wildfire-watching satellites manage today.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe hard part isn't just seeing a hot spot — it's telling a real, growing fire from sunlight glinting off a rooftop or a routine controlled burn. That's where the AI comes in: each new image gets compared against roughly a thousand past images of that same patch of ground, plus local weather conditions, before the system flags it as a genuine wildfire. For now, the three satellites give fire agencies a look at any fire-prone region on Earth about twice a day. As more launch, FireSat aims for hourly updates by 2029 and a refresh every 20 minutes — once more than 50 satellites are in orbit — by the early 2030s. It's a useful reminder that not all consequential AI is a chatbot: some of it is quietly watching the planet from orbit.\u003c/p\u003e",
+  "source": {
+    "name": "Ars Technica",
+    "authors": [
+      "Jeremy Hsu"
+    ],
+    "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada",
+    "published_at": "2026-07-17",
+    "license": "© Ars Technica (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-everyday",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "vision"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_af34d5",
+      "slug": "ai-in-everyday-tools",
+      "type": "concept",
+      "title": "AI in Everyday Tools",
+      "hook": "You've used AI for years without calling it that — every time your phone unlocks with your face, your maps reroute around traffic, or your inbox filters spam.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ce155a",
+      "slug": "how-ai-learns",
+      "type": "concept",
+      "title": "How AI Learns",
+      "hook": "Training an AI is like teaching by flashcards on a massive scale: show it an example, let it guess, tell it how wrong it was, and nudge it to do better — billions of times.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6e9316#0",
+      "format": "quiz",
+      "prompt": "How does FireSat's AI decide a satellite image shows a real wildfire?",
+      "choices": [
+        {
+          "text": "It compares the new image against about 1,000 past images of that same spot",
+          "correct": true
+        },
+        {
+          "text": "It asks a human reviewer to check every single image",
+          "correct": false
+        },
+        {
+          "text": "It only checks the image's file size",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe AI weighs a new image against roughly 1,000 prior images of the same\nlocation, plus local weather, to reliably tell a real fire from noise.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6e9316#1",
+      "format": "flip",
+      "prompt": "Why does early detection size matter for wildfire satellites?",
+      "back_html": "\u003cp\u003eFireSat can spot fires as small as 5x5 meters — catching a blaze while it's\nstill tiny gives firefighters a real head start before it spreads.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6e9316#2",
+      "format": "flip",
+      "prompt": "Who's behind the FireSat program?",
+      "back_html": "\u003cp\u003eGoogle Research, the nonprofit Earth Fire Alliance, and satellite maker Muon\nSpace — a partnership building a purpose-made wildfire-detection constellation.\u003c/p\u003e"
+    }
+  ]
+}

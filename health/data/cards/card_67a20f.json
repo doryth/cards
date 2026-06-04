@@ -1,0 +1,99 @@
+{
+  "id": "card_67a20f",
+  "slug": "brp-appetite-peptide",
+  "type": "news",
+  "title": "An AI Search Through the Genome Turned Up a Natural Appetite Peptide",
+  "hook": "Stanford scientists let an algorithm read all 20,000 human protein-coding genes looking for hidden hormones. It found a 12-amino-acid peptide that curbs appetite through the hypothalamus alone.",
+  "key_points": [
+    "An algorithm called Peptide Predictor scanned all 20,000 human protein-coding genes for hormone cleavage sites.",
+    "It narrowed them to 373 candidate prohormones and 2,683 possible peptides; the team tested 100 and found BRP the most potent.",
+    "BRP is just 12 amino acids long and acts specifically in the hypothalamus, the brain's appetite and metabolism hub.",
+    "Semaglutide acts on the gut, pancreas, and other tissues too — BRP's narrower target is the point of interest.",
+    "One injection cut food intake in the next hour by up to 50% in mice and minipigs; 14 days of daily shots made obese mice lose about 3 grams, almost all fat.",
+    "Researchers saw no nausea-type responses, no change in stool output, and no major muscle loss — but this is animal work, published in Nature in March 2025."
+  ],
+  "content_html": "\u003cp\u003eMost hormones were found the slow way — notice an effect, chase the molecule. A Stanford Medicine team tried the reverse: build an algorithm, called Peptide Predictor, and have it read all 20,000 human protein-coding genes looking for the molecular signatures that mark a hormone precursor. That search narrowed to 373 candidate prohormones, which could in principle yield 2,683 distinct peptides. The team tested 100 of them. The standout was BRP — BRINP2-related peptide — a chain of only 12 amino acids that suppresses appetite.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhat makes BRP interesting isn't just that it works but where. Semaglutide, the active ingredient in Ozempic, hits receptors across the gut, pancreas, and other tissues, which is a large part of why it comes with nausea and constipation. BRP appears to act specifically in the hypothalamus, the brain's appetite-and-metabolism control center, activating a separate group of neurons. In mice and minipigs, a single injection cut food intake over the following hour by as much as 50%. Obese mice given daily injections for 14 days lost about 3 grams, with nearly all of the reduction coming from body fat, while control animals gained roughly 3 grams. The researchers reported no meaningful difference in fecal output, and did not observe the nausea-related responses or major muscle loss seen with existing drugs.\u003c/p\u003e\n\u003cp\u003eThe honest caveat is the stage. This work, led by Laetitia Coassolo and Katrin Svensson, was published in Nature in March 2025 and remains animal research; human trials were planned but not yet run, and Svensson co-founded a company, Merrifield Therapeutics, to develop it. Plenty of appetite molecules have looked clean in mice and disappointed in people. What's durable here is the method — using computation to mine the genome for hormones we simply hadn't noticed.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/07/260719230608.htm",
+    "published_at": "2026-07-24",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "healthy-weight"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_b379a7",
+      "slug": "glp1-beyond-weight-loss",
+      "type": "news",
+      "title": "GLP-1 Drugs Linked to Lower Addiction Risk",
+      "hook": "A study of ~600,000 U.S. veterans links GLP-1 drugs like semaglutide to lower rates of addiction and overdose — an association, not proof that the drugs cause the effect.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "card_6bf44e",
+      "slug": "new-weight-loss-pill-orforglipron",
+      "type": "news",
+      "title": "A New Weight-Loss Pill Beats Oral Ozempic in a Major Trial",
+      "hook": "Orforglipron, a once-daily weight-loss pill, outperformed oral semaglutide on weight loss and blood sugar in a major trial — and skips the refrigeration and meal-timing rules.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-08"
+    },
+    {
+      "id": "card_1cd954",
+      "slug": "protein-switch-burns-fat",
+      "type": "news",
+      "title": "A Protein Switch That Burns Fat and Blocks New Fat Cells",
+      "hook": "Disabling a protein nicknamed 'Mitch' boosted fat burning and blocked new fat cells from forming in human cells — and made mice leaner and more athletic.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_67a20f#0",
+      "format": "flip",
+      "prompt": "How did researchers find BRP in the first place?",
+      "back_html": "\u003cp\u003eAn algorithm called \u003cstrong\u003ePeptide Predictor\u003c/strong\u003e searched all 20,000 human protein-coding genes\nfor the cleavage sites that mark a hormone precursor — narrowing to 373 candidate\nprohormones and 2,683 possible peptides. The team then tested 100 in the lab; BRP was\nthe most potent.\u003c/p\u003e"
+    },
+    {
+      "id": "card_67a20f#1",
+      "format": "quiz",
+      "prompt": "What distinguishes BRP's mechanism from semaglutide's?",
+      "choices": [
+        {
+          "text": "BRP acts specifically in the hypothalamus, while semaglutide also acts on the gut, pancreas, and other tissues",
+          "correct": true
+        },
+        {
+          "text": "BRP works only in the stomach and never reaches the brain",
+          "correct": false
+        },
+        {
+          "text": "BRP blocks fat absorption in the intestine",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBRP activates a separate group of neurons and acts specifically in the hypothalamus, the\nbrain region governing appetite and metabolism. Semaglutide's receptors are spread across\nmany tissues — which is part of why it brings gut side effects.\u003c/p\u003e"
+    },
+    {
+      "id": "card_67a20f#2",
+      "format": "flip",
+      "prompt": "How far along is BRP as a treatment?",
+      "back_html": "\u003cp\u003eNot far. The results are in \u003cstrong\u003emice and minipigs\u003c/strong\u003e, published in \u003cem\u003eNature\u003c/em\u003e in March 2025.\nHuman trials are planned but hadn't begun; senior author Katrin Svensson co-founded a\ncompany to develop the molecule.\u003c/p\u003e"
+    }
+  ]
+}

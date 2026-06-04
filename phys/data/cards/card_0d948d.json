@@ -1,0 +1,106 @@
+{
+  "id": "card_0d948d",
+  "slug": "tensor-networks-outrun-a-quantum-simulation",
+  "type": "paper",
+  "title": "A Classical Method Redid a Quantum Chip's Showcase Run — Faster",
+  "hook": "A quantum processor simulated 7,260 measurement trajectories of a Fermi-Hubbard model. Classical tensor networks reproduced all of them more quickly, more accurately, and for longer.",
+  "key_points": [
+    "The quantum experiment tracked 'Néel quench' dynamics in a 1D Fermi-Hubbard model — electrons hopping on a chain, released from an up-down-up-down starting pattern.",
+    "Ouyang, Chi and Chan reproduced the full set of 7,260 measured observable trajectories using transverse tensor network contraction on modest classical hardware.",
+    "A bond dimension of just 32 — a measure of how much entanglement the classical method tracks — was already enough to match the hardware.",
+    "The classical run also pushed the trajectories to later times than either the quantum device or other recent classical simulations reached.",
+    "It is another entry in a recurring pattern: quantum-advantage claims get re-examined, and better classical algorithms often close the gap."
+  ],
+  "content_html": "\u003cp\u003eA quantum processor recently ran a showcase simulation: the \u0026quot;Néel quench\u0026quot; of a one-dimensional Fermi-Hubbard model, where electrons hopping along a chain are released from a neat alternating spin pattern and allowed to scramble. The run produced 7,260 measured observable trajectories — an impressive haul, and the kind of result that gets framed as a milestone for quantum simulation of materials.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eXiao-Yu Ouyang, Runze Chi and Garnet Kin-Lic Chan report that the same trajectories can be obtained more quickly and more accurately on a classical computer, with only modest resources. Their method is transverse tensor network contraction, which sweeps the network across the time direction rather than the spatial one. The telling number is the bond dimension: 32 was already enough to reproduce the hardware results. Bond dimension caps how much entanglement the classical description can carry, so a small value means the quantum state simply never got complicated enough to escape classical reach. The authors also carried the converged trajectories out to later times than either the quantum device or other recent classical efforts managed. This is not a claim that quantum simulation is pointless — it is the healthy adversarial process by which the field figures out where the real classical frontier lies.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Xiao-Yu Ouyang",
+      "Runze Chi",
+      "Garnet Kin-Lic Chan"
+    ],
+    "url": "https://arxiv.org/abs/2608.13805",
+    "published_at": "2026-08-13",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-13",
+  "related": [
+    {
+      "id": "card_cf6284",
+      "slug": "laptop-beats-77-qubit-chemistry-run",
+      "type": "paper",
+      "title": "A Laptop Redoes a 77-Qubit Chemistry Experiment in Under a Minute",
+      "hook": "One of the largest quantum-chemistry runs ever took 77 qubits and a supercomputer's worth of post-processing. A new classical algorithm reproduces it on a laptop — and does better.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_259dad",
+      "slug": "certified-fidelity-for-hard-quantum-circuits",
+      "type": "paper",
+      "title": "Proving You Really Ran the Hard Quantum Circuit",
+      "hook": "Quantum advantage demos have a credibility gap: the circuits are hard to check. This one carries its own error-detecting certificate.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0d948d#0",
+      "format": "flip",
+      "prompt": "What did the classical tensor-network simulation achieve relative to the quantum hardware run?",
+      "back_html": "\u003cp\u003eIt reproduced all \u003cstrong\u003e7,260\u003c/strong\u003e measured observable trajectories more quickly and more\naccurately, using modest computation — and extended them to \u003cstrong\u003elonger times\u003c/strong\u003e than the\nhardware reached.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0d948d#1",
+      "format": "quiz",
+      "prompt": "What does a small bond dimension (here, 32) sufficing tell you about the simulated dynamics?",
+      "choices": [
+        {
+          "text": "The state stayed low enough in entanglement for a classical method to track it cheaply",
+          "correct": true
+        },
+        {
+          "text": "The quantum processor had no errors at all",
+          "correct": false
+        },
+        {
+          "text": "The Fermi-Hubbard model has no exact solution",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBond dimension measures how much entanglement a tensor network carries. Needing only 32\nmeans the quenched state never became entangled enough to put it out of classical reach.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0d948d#2",
+      "format": "flip",
+      "prompt": "Why do results like this matter for how we read quantum-advantage claims?",
+      "back_html": "\u003cp\u003eThey show that the classical baseline is a moving target: a task that looks out of reach\ntoday can be matched tomorrow by a better classical algorithm, so advantage claims need\ncontinual re-testing.\u003c/p\u003e"
+    }
+  ]
+}

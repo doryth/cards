@@ -1,0 +1,137 @@
+{
+  "id": "card_344f40",
+  "slug": "ai-invents-hiring-bias",
+  "type": "news",
+  "title": "AI Doesn't Just Inherit Bias — It Invents New Ones",
+  "hook": "A hiring simulation found ChatGPT, Claude, and Gemini turned one failed candidate into a stereotype for their whole group — segregating candidates far more aggressively than human participants did.",
+  "key_points": [
+    "Princeton/University of Chicago researchers had LLMs hire from 4 fictional groups across 20 jobs over 40 rounds.",
+    "Every group actually succeeded at the same rate — but models still built stereotypes from a few data points.",
+    "One failed 'doctor' candidate led models to funnel that whole group toward low-status jobs like janitor.",
+    "Humans scored 0.84 on a segregation scale; the AI models scored about 65% higher, one hitting 1.83 — near the max.",
+    "Stronger-reasoning models were more biased, not less, and simple 'be fair' instructions barely helped."
+  ],
+  "content_html": "\u003cp\u003eEveryone knows AI can inherit bias baked into its training data. New research from Princeton and the University of Chicago found something more unsettling: large language models can invent entirely new biases on their own, from nothing more than a handful of simulated interactions.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eResearchers had ChatGPT, Claude, and Gemini play recruiter in a simulation adapted from psychology studies — hiring candidates from four fictional ethnic groups across 20 job types over 40 rounds. Unknown to the models, every group's candidates succeeded at exactly the same rate. That didn't stop the models from acting otherwise: after one candidate from a group happened to fail at a high-status role like doctor, models began systematically funneling that entire group toward low-status jobs like janitor, extrapolating a stereotype from a single data point. On a standard segregation scale, human participants in comparable studies scored 0.84; the AI models scored roughly 65% higher, and OpenAI's o3 model hit 1.83 — close to the maximum possible. Oddly, models built for stronger reasoning showed \u003cem\u003emore\u003c/em\u003e of this bias, and simply telling them to \u0026quot;be fair\u0026quot; barely helped. What did work: explicitly rewarding the models for hiring a diverse slate, which sharply cut the segregation. As lead researcher Ryan Liu put it, models are \u0026quot;eager to create generalizations from limited data\u0026quot; — worth knowing before handing one the keys to a real hiring pipeline.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Michelle Kim"
+    ],
+    "url": "https://technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
+    "published_at": "2026-07-20",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-hiring",
+    "bias-fairness",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety",
+    "alignment"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-20",
+  "related": [
+    {
+      "id": "card_58c33d",
+      "slug": "ai-bias",
+      "type": "concept",
+      "title": "Bias \u0026 Fairness",
+      "hook": "AI learns from data made by people, so it inherits our patterns — including the unfair ones. A model trained on a biased past will confidently recommend a biased future.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fc554a",
+      "slug": "being-judged-by-ai",
+      "type": "concept",
+      "title": "Being Judged by AI",
+      "hook": "An algorithm may now screen your résumé, score your loan, or rank your rental application before any human sees it. Knowing that — and your rights — is the first step to a fair shot.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ee4e60",
+      "slug": "meta-ai-layoffs-lawsuit",
+      "type": "news",
+      "title": "A Lawsuit Claims AI, Not People, Picked Who Meta Laid Off",
+      "hook": "Being screened by AI isn't just about getting hired — a new lawsuit claims Meta used AI-driven performance data to decide who to fire, allegedly targeting workers on medical leave.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-14"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_58c33d",
+      "slug": "ai-bias",
+      "type": "concept",
+      "title": "Bias \u0026 Fairness",
+      "hook": "AI learns from data made by people, so it inherits our patterns — including the unfair ones. A model trained on a biased past will confidently recommend a biased future.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_344f40#0",
+      "format": "flip",
+      "prompt": "Where did this new bias come from, if not from training data?",
+      "back_html": "\u003cp\u003eFrom experience during the simulation itself — models over-generalized from\na few outcomes (like one failed \u0026quot;doctor\u0026quot; candidate) into a stereotype for\na whole group, even though every group had equal success rates.\u003c/p\u003e"
+    },
+    {
+      "id": "card_344f40#1",
+      "format": "quiz",
+      "prompt": "What happened when researchers just told the models to 'be fair'?",
+      "choices": [
+        {
+          "text": "Little difference — the bias persisted anyway",
+          "correct": true
+        },
+        {
+          "text": "It eliminated the bias completely",
+          "correct": false
+        },
+        {
+          "text": "It made the bias worse",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBlunt fairness instructions weren't enough to fix the segregation.\nExplicitly rewarding the models for a diverse slate worked much better.\u003c/p\u003e"
+    },
+    {
+      "id": "card_344f40#2",
+      "format": "flip",
+      "prompt": "Did stronger reasoning make the models fairer in this study?",
+      "back_html": "\u003cp\u003eNo — models with stronger reasoning capabilities showed \u003cem\u003emore\u003c/em\u003e bias,\nnot less, which surprised the researchers.\u003c/p\u003e"
+    },
+    {
+      "id": "card_344f40#3",
+      "format": "quiz",
+      "prompt": "How did the AI models' bias compare to the human participants?",
+      "choices": [
+        {
+          "text": "AI models segregated candidates far more than humans did",
+          "correct": true
+        },
+        {
+          "text": "AI models and humans showed identical bias levels",
+          "correct": false
+        },
+        {
+          "text": "AI models showed no bias while humans did",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHumans scored 0.84 on a segregation scale; the AI models scored roughly\n65% higher, with one (OpenAI's o3) hitting 1.83 — close to the maximum.\u003c/p\u003e"
+    }
+  ]
+}

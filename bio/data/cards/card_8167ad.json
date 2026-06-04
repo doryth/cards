@@ -1,0 +1,102 @@
+{
+  "id": "card_8167ad",
+  "slug": "melodic-molecular-evolution",
+  "type": "paper",
+  "title": "What 40,000 Irish Tunes Reveal About How Evolution Works",
+  "hook": "A new method aligns folk melodies the way biologists align proteins — and finds that music evolves under strikingly different rules than genes do.",
+  "key_points": [
+    "Researchers adapted sequence-alignment tools from protein bioinformatics to compare 40,000 variants of Irish dance tunes.",
+    "Melodies encode rhythm, which breaks standard alignment algorithms built for DNA/protein strings — so the team built a rhythm-aware method first.",
+    "Four classic bioinformatics analyses (mutability, substitution patterns, positional conservation, covariance) revealed patterns distinct from molecular evolution.",
+    "Proteins are constrained by biochemistry and biophysics; melodies are shaped by memory, motor skill, and social transmission instead.",
+    "The result argues bioinformatics is a general toolkit for studying any evolving, transmitted sequence — not just genes."
+  ],
+  "content_html": "\u003cp\u003eEvolutionary biologists have spent decades building tools to align and compare DNA and protein sequences — spotting mutations, tracking conservation, mapping constraints. It turns out those same tools work on folk music.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eA team including evolutionary biologist W. Tecumseh Fitch applied bioinformatics-style sequence alignment to 40,000 variants of Irish dance tunes, treating each melody as a one-dimensional sequence drawn from a limited alphabet — much like a protein. The catch: melodies also encode rhythm, which breaks the assumptions most alignment algorithms rely on, so the team first built a rhythm-aware alignment method of their own. Applying four staple bioinformatics analyses — mutability, substitution matrices, positional conservation, and covariance — to the tune dataset revealed patterns clearly different from molecular evolution: proteins are shaped by biochemical and biophysical constraints, while melodies are shaped by memory, motor coordination, and social transmission. The result is less a claim about music itself and more a demonstration that bioinformatics, as a conceptual and algorithmic toolkit, generalizes well beyond biology to any evolving, transmitted sequence.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "John M McBride",
+      "W Tecumseh Fitch"
+    ],
+    "url": "https://arxiv.org/abs/2607.12673",
+    "published_at": "2026-07-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "evolution",
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-16",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_75b0ad",
+      "slug": "genetic-drift",
+      "type": "concept",
+      "title": "Genetic Drift",
+      "hook": "Evolution isn't only survival of the fittest — sometimes traits spread or vanish purely by luck, especially in small populations.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_043084",
+      "slug": "common-descent",
+      "type": "concept",
+      "title": "The Tree of Life",
+      "hook": "Humans, mushrooms, and oak trees share an ancestor if you go back far enough — all life on Earth branches from a single common root.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_80bbc5",
+      "slug": "mutations",
+      "type": "concept",
+      "title": "Mutations: When DNA Changes",
+      "hook": "Every time a cell copies its DNA, tiny typos can slip in — most do nothing at all, a few cause disease, and rare ones fuel evolution.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8167ad#0",
+      "format": "flip",
+      "prompt": "Why couldn't researchers just reuse standard protein-alignment algorithms directly on folk melodies?",
+      "back_html": "\u003cp\u003eMelodies encode \u003cstrong\u003erhythm\u003c/strong\u003e alongside pitch, which breaks assumptions built into\nstandard sequence-alignment algorithms designed for DNA/protein strings — the\nteam had to design a new rhythm-aware alignment method first.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8167ad#1",
+      "format": "quiz",
+      "prompt": "What did comparing melodic evolution to molecular (protein) evolution reveal?",
+      "choices": [
+        {
+          "text": "Melodies show distinct patterns, shaped by memory, motor coordination, and social transmission rather than biochemistry",
+          "correct": true
+        },
+        {
+          "text": "Both evolve under identical statistical patterns, since both are evolved sequences",
+          "correct": false
+        },
+        {
+          "text": "Melodies evolve far more slowly than proteins do",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProteins are constrained by biochemical and biophysical forces. Melodies are\nshaped by different forces entirely — human memory, motor coordination, and\nsocial transmission — producing distinct statistical signatures.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8167ad#2",
+      "format": "flip",
+      "prompt": "What's the broader takeaway of applying bioinformatics methods to music?",
+      "back_html": "\u003cp\u003eThat the conceptual and algorithmic toolkit of bioinformatics — built for genes\nand proteins — generalizes to any evolving, culturally transmitted sequence,\nnot just biological ones.\u003c/p\u003e"
+    }
+  ]
+}

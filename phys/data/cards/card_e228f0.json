@@ -1,0 +1,118 @@
+{
+  "id": "card_e228f0",
+  "slug": "bell-test-with-matter-waves",
+  "type": "paper",
+  "title": "A Bell Test on Where Atoms Are Going",
+  "hook": "Bell's inequality has fallen for photons and atomic spins. Now for motion itself — entangled helium atoms that defy local realism about their own momentum.",
+  "key_points": [
+    "Bell's theorem says no local-realist theory can reproduce all of quantum mechanics' correlations.",
+    "Previous violations used photons or the internal states of massive particles — never their motional states.",
+    "This experiment entangles the momenta of pairs of metastable helium atoms and reads them out with matter-wave interferometry.",
+    "The measured CHSH parameter is S = 2.52 +/- 0.17, where any local-realist theory is capped at S \u003c= 2.",
+    "External degrees of freedom — where a particle is and where it's headed — are now confirmed nonlocal too.",
+    "The authors note this opens a route to probing where quantum mechanics meets gravity, which couples to motion and mass."
+  ],
+  "content_html": "\u003cp\u003eBell's theorem is the sharpest knife in quantum foundations: it turns a philosophical dispute about whether particles have definite properties before measurement into an inequality you can test in a lab. That test has now been run on something new — not the polarization of light, not the spin of an atom, but the motion of massive particles.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAthreya, Kannan, Yan, Kheruntsyan, Truscott, and Hodgman used pairs of metastable helium atoms whose momenta are entangled, manipulating them with matter-wave interferometry so that a \u0026quot;measurement setting\u0026quot; corresponds to a choice about how the atomic wave packets are recombined. They measure a Clauser-Horne-Shimony-Holt Bell parameter of S = 2.52 +/- 0.17, comfortably above the local-realist ceiling of S = 2. Bell violations with photons and with the internal states of atoms have been standard for decades; extending the result to external degrees of freedom closes a long-standing gap in quantum atom optics. The authors argue the most interesting consequence is what it enables next: gravity couples to mass and to motion, so nonlocal matter waves are a natural place to look for the interplay between quantum mechanics and gravitation.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Y. S. Athreya",
+      "S. Kannan",
+      "X. T. Yan",
+      "K. V. Kheruntsyan",
+      "A. G. Truscott",
+      "S. S. Hodgman"
+    ],
+    "url": "https://arxiv.org/abs/2609.02009",
+    "published_at": "2026-09-02",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "modern-physics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_d97533",
+      "slug": "loophole-free-bell-test-time-bin",
+      "type": "paper",
+      "title": "Closing the Last Loophole in a Fiber-Based Bell Test",
+      "hook": "Time-bin entanglement is how quantum signals travel down real optical fiber — but the standard measurement quietly throws away photons. This test finally plugs that hole.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-28"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b8a69a",
+      "slug": "quantum-weirdness",
+      "type": "concept",
+      "title": "What Makes Quantum Physics Weird",
+      "hook": "In the quantum world energy comes in lumps, particles act like waves, and you can't pin down everything at once — and yet it's our best-tested theory.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d18019",
+      "slug": "bose-einstein-condensate",
+      "type": "news",
+      "title": "The Fifth State of Matter, Made in Space",
+      "hook": "Chill a gas to a hair above absolute zero and its atoms stop acting like a crowd and merge into one quantum entity. In orbit, weightlessness lets that strange state last even longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-23"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e228f0#0",
+      "format": "flip",
+      "prompt": "What was new about this Bell test compared to earlier ones?",
+      "back_html": "\u003cp\u003eIt used the motional (external) states of massive particles — the momenta of entangled helium\natoms — rather than photons or internal states like spin.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e228f0#1",
+      "format": "quiz",
+      "prompt": "What does a measured CHSH parameter of S = 2.52 tell you?",
+      "choices": [
+        {
+          "text": "No local-realist theory can explain the correlations, since such theories cap S at 2",
+          "correct": true
+        },
+        {
+          "text": "The atoms were measured 2.52 times more accurately than usual",
+          "correct": false
+        },
+        {
+          "text": "Quantum mechanics predicts S = 2.52 exactly for all systems",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe CHSH inequality bounds any local hidden-variable theory at S \u0026lt;= 2. Measuring 2.52 +/- 0.17\nis a violation well outside the uncertainty.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e228f0#2",
+      "format": "flip",
+      "prompt": "Why is doing a Bell test with motion, not spin, interesting for gravity?",
+      "back_html": "\u003cp\u003eGravity couples to mass and motion. Demonstrating nonlocality in the external degrees of\nfreedom of massive particles opens a regime where quantum weirdness and gravity can be probed together.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "card_5b0ad5",
+  "slug": "coffee-and-body-composition",
+  "type": "news",
+  "title": "Same BMI, Different Body",
+  "hook": "Finnish researchers found heavier coffee drinkers carried less fat and more muscle than light drinkers at the same BMI — a reminder that the scale hides a lot.",
+  "key_points": [
+    "In a Finnish study, higher coffee intake tracked with less total and abdominal fat.",
+    "Heavier coffee drinkers also had more muscle and healthier metabolic markers.",
+    "The striking part: these differences showed up despite similar BMIs.",
+    "Higher intake was also linked to lower levels of amino acids tied to insulin resistance and type 2 diabetes risk.",
+    "It's an observational link — coffee drinking may travel with other habits, so causation isn't established."
+  ],
+  "content_html": "\u003cp\u003eA Finnish study reported by ScienceDaily found that people who drank more coffee tended to carry less total and abdominal fat, hold more muscle, and show healthier metabolic markers — even when their BMI looked the same as lighter drinkers'.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe blood work pointed the same direction: higher coffee intake was associated with lower levels of certain amino acids that are themselves linked to insulin resistance and type 2 diabetes risk. It's a coherent picture, and it lines up with a long run of research finding coffee drinkers healthier on average than non-drinkers.\u003c/p\u003e\n\u003cp\u003eTwo things worth holding onto. First, the BMI detail is the real lesson: two people at the same weight and height can differ substantially in how much of that is fat versus muscle, and BMI can't see the difference. Second, this is observational. Coffee habits come bundled with sleep patterns, activity levels, and diets, and a study like this can't fully untangle them — so treat it as one more reason not to worry about your coffee, not as a fat-loss plan.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260819041228.htm",
+    "published_at": "2026-08-19",
+    "license": "ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "nutrition",
+    "healthy-weight"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_fd60c1",
+      "slug": "coffee-nr4a1-stress-switch",
+      "type": "news",
+      "title": "Coffee May Fight Aging Through a Hidden Cellular Switch",
+      "hook": "Scientists may have found why coffee tracks with healthier aging: its compounds activate NR4A1, a cellular switch that guards against stress and damage — and caffeine isn't the one doing it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "card_8fc841",
+      "slug": "caffeine-heart-safety",
+      "type": "news",
+      "title": "Coffee May Help Your Heart — Energy Drinks, Not So Much",
+      "hook": "A new American Heart Association review says up to ~400 mg of caffeine a day is fine for most hearts, and coffee may even lower some risks. The catch is what you get it from.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-21"
+    },
+    {
+      "id": "card_f1ffae",
+      "slug": "finding-a-healthy-weight",
+      "type": "concept",
+      "title": "Finding a Healthy Weight",
+      "hook": "BMI is a quick screen, not a verdict. A healthy weight is the range where your risk of disease stays low — and your waistline tells part of the story too.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5b0ad5#0",
+      "format": "flip",
+      "prompt": "What was surprising about the body differences between heavy and light coffee drinkers?",
+      "back_html": "\u003cp\u003eThey appeared at \u003cstrong\u003esimilar BMIs\u003c/strong\u003e — less total and abdominal fat, more muscle, in people the\nscale would call equivalent.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5b0ad5#1",
+      "format": "quiz",
+      "prompt": "What did higher coffee intake track with in the blood?",
+      "choices": [
+        {
+          "text": "Lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk",
+          "correct": true
+        },
+        {
+          "text": "Higher blood sugar and higher insulin",
+          "correct": false
+        },
+        {
+          "text": "Lower levels of all amino acids across the board",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study linked higher intake to lower levels of specific amino acids that are themselves\nassociated with insulin resistance and diabetes risk.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5b0ad5#2",
+      "format": "quiz",
+      "prompt": "Why shouldn't this study be read as 'drink more coffee to lose fat'?",
+      "choices": [
+        {
+          "text": "It's observational — coffee habits travel with other lifestyle factors",
+          "correct": true
+        },
+        {
+          "text": "The study only looked at decaf drinkers",
+          "correct": false
+        },
+        {
+          "text": "Body composition wasn't actually measured",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eObservational data can show a link but not prove cause. People who drink more coffee may\ndiffer in sleep, activity, or diet in ways the coffee itself doesn't explain.\u003c/p\u003e"
+    }
+  ]
+}

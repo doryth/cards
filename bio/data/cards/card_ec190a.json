@@ -1,0 +1,111 @@
+{
+  "id": "card_ec190a",
+  "slug": "nutrition-and-diet",
+  "type": "concept",
+  "title": "Nutrition and Diet",
+  "hook": "Your body runs on food, but not all food does the same job — different food groups supply the fuel, building blocks, and protection your cells need.",
+  "key_points": [
+    "Nutrition is how the body takes in and uses the nutrients in food.",
+    "A balanced diet draws from several food groups, each with a different role.",
+    "Carbohydrates and fats supply energy; proteins build and repair tissue.",
+    "Fruits and vegetables provide vitamins, minerals, and fiber."
+  ],
+  "content_html": "\u003cp\u003eNutrition is how your body takes in food and turns it into everything it needs — energy to move, raw materials to grow and repair, and the small helpers that keep its chemistry running. No single food does it all, which is why a healthy diet pulls from several food groups, each playing a distinct role.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe USDA's MyPlate guide sorts food into a few key groups: fruits, vegetables, grains, protein foods, and dairy. Carbohydrates from grains and fruit are the body's go-to energy source, while fats supply concentrated, longer-lasting energy. Proteins — from beans, eggs, fish, and meat — provide the amino acids used to build and repair tissue. Fruits and vegetables deliver vitamins, minerals, and fiber that keep systems working smoothly. The MyPlate message is simple: fill half your plate with fruits and vegetables and vary what you eat, because balance across the groups is what gives the body the full mix it depends on.\u003c/p\u003e",
+  "source": {
+    "name": "USDA MyPlate",
+    "url": "https://www.myplate.gov/eat-healthy/what-is-myplate",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "nutrition-health"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_f25fc0",
+      "slug": "vitamins-and-minerals",
+      "type": "concept",
+      "title": "Vitamins and Minerals",
+      "hook": "Needed in only tiny amounts, vitamins and minerals are the micronutrients that quietly run reactions your body can't manage without.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3d61f3",
+      "slug": "the-digestive-system",
+      "type": "concept",
+      "title": "The Digestive System",
+      "hook": "From the first bite to the final absorption, your digestive tract is a one-way assembly line that turns food into fuel your cells can use.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1ffae",
+      "slug": "diet-and-disease",
+      "type": "concept",
+      "title": "Diet and Disease",
+      "hook": "What you eat over years quietly shapes your odds of heart disease, type 2 diabetes, and more — diet is one of the strongest levers on long-term health.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ec190a#0",
+      "format": "flip",
+      "prompt": "What is a balanced diet?",
+      "back_html": "\u003cp\u003eEating from a \u003cstrong\u003evariety of food groups\u003c/strong\u003e — fruits, vegetables, grains, protein\nfoods, and dairy — so the body gets the energy and nutrients it needs.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ec190a#1",
+      "format": "quiz",
+      "prompt": "Which food group is the body's main source of quick energy?",
+      "choices": [
+        {
+          "text": "Carbohydrates, like grains, bread, and fruit",
+          "correct": true
+        },
+        {
+          "text": "Water",
+          "correct": false
+        },
+        {
+          "text": "Fiber alone",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCarbohydrates break down into sugars the body burns for energy. Grains, fruits,\nand starchy vegetables are rich sources.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ec190a#2",
+      "format": "quiz",
+      "prompt": "What is the main job of protein in the diet?",
+      "choices": [
+        {
+          "text": "Building and repairing tissues like muscle",
+          "correct": true
+        },
+        {
+          "text": "Coloring the skin",
+          "correct": false
+        },
+        {
+          "text": "Replacing the need for water",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProteins supply amino acids — the building blocks the body uses to grow,\nmaintain, and repair tissues such as muscle.\u003c/p\u003e"
+    }
+  ]
+}

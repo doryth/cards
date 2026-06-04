@@ -1,0 +1,95 @@
+{
+  "id": "card_96372e",
+  "slug": "azahar-project-early-bright-galaxies",
+  "type": "paper",
+  "title": "The Azahar Project: Non-Thermal Physics Drives Star Formation Burstiness and the Evolution of the UV Luminosity Density at Cosmic Dawn",
+  "hook": "JWST keeps finding early galaxies too bright and fast-growing for standard simulations — a new suite finally reproduces them, and the fix is radiation pressure and cosmic rays, not supernovae.",
+  "key_points": [
+    "JWST has found early-universe galaxies brighter and faster-growing than standard simulations predict.",
+    "The Azahar suite runs 10 high-resolution cosmological simulations that add ever more realistic physics.",
+    "Its 'Non-Thermal' model adds radiative transfer (starlight pressure) and cosmic rays to gas and gravity.",
+    "That model matches observed galaxy brightness from redshift ~14 down to cosmic noon (z~3).",
+    "It works via burstier star formation and outflows that weaken as cosmic-ray pressure builds up.",
+    "Boosted-supernova-only models fail: they overproduce stars or blow overly puffy galaxies."
+  ],
+  "content_html": "\u003cp\u003eSince JWST turned its eye on the earliest galaxies, it's kept finding ones that are unexpectedly bright and growing fast — too fast for standard galaxy-formation simulations to explain. A new suite of simulations finally reproduces them, and the fix isn't more supernovae: it's radiation pressure from starlight and cosmic rays reshaping how galaxies form stars.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eSergio Martin-Alvarez, Risa Wechsler, and Debora Sijacki's team built Azahar, ten high-resolution cosmological simulations that progressively add radiative transfer, cosmic rays, and magnetic fields on top of standard gas-and-gravity physics. Their \u0026quot;Non-Thermal\u0026quot; version — radiative transfer plus cosmic rays together — matches observed galaxy brightness from redshift 14 down to cosmic noon (z~3), plus how total stellar mass and gas chemistry evolve over that stretch. The trick: burstier star formation, and outflows that weaken over time as cosmic-ray pressure builds inside galaxies. Models that just boost supernova feedback overproduce stars or blow galaxies into unrealistically puffy shapes, because they're missing these several distinct, differently-timed feedback channels.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Sergio Martin-Alvarez",
+      "Risa H. Wechsler",
+      "Debora Sijacki"
+    ],
+    "url": "https://arxiv.org/abs/2607.15344",
+    "published_at": "2026-07-16",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_a212b1",
+      "slug": "webb-new-universe-puzzle",
+      "type": "news",
+      "title": "Why Does Webb Keep Finding Things That Shouldn't Exist?",
+      "hook": "JWST keeps spotting early black holes and galaxies that are too big, too bright, or too early to fit standard models — and cosmologists are racing to figure out which of many new theories is right.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "card_326281",
+      "slug": "ancient-quasars-too-early",
+      "type": "news",
+      "title": "31 Quasars That Are Too Old to Make Sense",
+      "hook": "Astronomers found 31 quasars shining from when the universe was just 5% of its current age — powered by black holes that shouldn't have had time to grow so big yet.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_96372e#0",
+      "format": "flip",
+      "prompt": "What has JWST found about early-universe galaxies that puzzled existing simulations?",
+      "back_html": "\u003cp\u003eGalaxies far brighter and faster-growing than standard galaxy-formation simulations predicted\nfor the very early universe.\u003c/p\u003e"
+    },
+    {
+      "id": "card_96372e#1",
+      "format": "quiz",
+      "prompt": "What does the Azahar Project's 'Non-Thermal' model add on top of standard gas-and-gravity physics?",
+      "choices": [
+        {
+          "text": "Radiative transfer (starlight pressure) and cosmic rays, together",
+          "correct": true
+        },
+        {
+          "text": "Only stronger, boosted supernova explosions",
+          "correct": false
+        },
+        {
+          "text": "Nothing — it uses the same physics as older simulations",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe Non-Thermal model adds radiative transfer and cosmic rays together, which is what lets it\nmatch the galaxies JWST is actually seeing.\u003c/p\u003e"
+    },
+    {
+      "id": "card_96372e#2",
+      "format": "flip",
+      "prompt": "Why do simple 'boosted supernova' models fail to match early JWST galaxies?",
+      "back_html": "\u003cp\u003eThey lack the distinct non-thermal feedback channels, so they either overproduce stellar mass\nor blow galaxies into overly puffy, unrealistic outflows.\u003c/p\u003e"
+    }
+  ]
+}

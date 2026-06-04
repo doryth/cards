@@ -1,0 +1,81 @@
+{
+  "id": "card_14abd3",
+  "slug": "ai-clinical-second-opinion-trial",
+  "type": "news",
+  "title": "AI Gave Doctors a 'Second Pair of Eyes.' Did Patients Benefit?",
+  "hook": "A 10,000-visit trial in Kenyan clinics gave clinicians an AI 'second opinion.' It cut their documented errors — but didn't clearly improve how patients actually fared.",
+  "key_points": [
+    "AI Consult, built on OpenAI's GPT-4o, ran in the background as clinicians typed, flagging issues with a green/yellow/red 'traffic light.'",
+    "A randomized trial covered nearly 10,000 patient visits across 16 Penda Health clinics in Kenya; results ran in Nature Medicine.",
+    "Clinicians using the AI made fewer diagnosis and treatment errors, as graded by expert reviewers.",
+    "But the trial found no statistically significant improvement in actual patient outcomes, like unresolved symptoms.",
+    "The lesson: better documentation and decisions don't automatically mean patients end up healthier.",
+    "It was cheap — about 4 cents per patient — and one clinician credited it with catching a heart defect she might have missed."
+  ],
+  "content_html": "\u003cp\u003eOne of the biggest real-world tests of medical AI just reported back, and the result is a useful reality check. Across 16 primary-care clinics in Kenya, clinicians got an AI tool called AI Consult — built on OpenAI's GPT-4o — that watched their notes as they worked and flagged possible mistakes with a simple green-yellow-red \u0026quot;traffic light.\u0026quot; It clearly sharpened their paperwork and decisions. Whether patients actually ended up healthier is a murkier story.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe study, published in Nature Medicine and covered by NPR, ran across nearly 10,000 patient visits. Clinicians whose work was double-checked by the AI made fewer errors in diagnosis and treatment, as graded by expert reviewers, and the tool cost only about 4 cents per patient. One clinical officer described catching a possible congenital heart defect in an infant that she says she \u0026quot;would have missed on any other day.\u0026quot;\u003c/p\u003e\n\u003cp\u003eThe catch is in the outcomes that matter most. The trial did not find a statistically significant drop in things like unresolved symptoms — the number of bad outcomes was small to begin with, leaving too little signal to be sure the AI moved the needle. It's a distinction worth holding onto as AI spreads through medicine: a tool can measurably improve how care is documented and decided without yet proving that patients are better off. Those are exactly the questions large real-world trials — not accuracy benchmarks — are built to answer.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Joseph Kim"
+    ],
+    "url": "https://npr.org/2026/07/23/g-s1-134929/this-ai-tool-promises-a-second-sight-of-eyes-to-clinicians-did-patients-benefit",
+    "published_at": "2026-07-23",
+    "license": "© NPR (educational use)"
+  },
+  "topic_ids": [
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-07-23",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_71db63",
+      "slug": "ai-universal-coronavirus-vaccine",
+      "type": "news",
+      "title": "An AI-Designed 'Universal' Coronavirus Vaccine",
+      "hook": "A vaccine designed with AI to target a whole virus family — not one strain — passed its first human trial safely and triggered immunity against SARS-CoV-2, SARS, and pandemic-risk bat viruses.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-05"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_14abd3#0",
+      "format": "quiz",
+      "prompt": "In the Kenyan trial, what did the AI 'second opinion' clearly improve?",
+      "choices": [
+        {
+          "text": "The accuracy of clinicians' diagnoses and treatment decisions",
+          "correct": true
+        },
+        {
+          "text": "Patients' long-term survival rates",
+          "correct": false
+        },
+        {
+          "text": "The speed of patient check-ins at the clinic",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eExpert reviewers found clinicians using AI Consult made fewer diagnostic and treatment\nerrors. The harder question — whether patients actually ended up healthier — didn't\nshow a clear benefit.\u003c/p\u003e"
+    },
+    {
+      "id": "card_14abd3#1",
+      "format": "flip",
+      "prompt": "Why is 'fewer documented errors' not the same as 'patients did better'?",
+      "back_html": "\u003cp\u003eThe trial showed clinicians made better-graded decisions, but found \u003cstrong\u003eno statistically\nsignificant improvement\u003c/strong\u003e in actual outcomes like unresolved symptoms. Better process\ndoesn't automatically mean better results — which is exactly what real-world outcome\ntrials are built to test.\u003c/p\u003e"
+    },
+    {
+      "id": "card_14abd3#2",
+      "format": "flip",
+      "prompt": "How did AI Consult fit into the clinicians' workflow?",
+      "back_html": "\u003cp\u003eIt ran in the background on OpenAI's GPT-4o as clinicians typed their notes, flagging\npossible problems or gaps with a green/yellow/red 'traffic light' — a cheap 'second pair\nof eyes,' about 4 cents per patient.\u003c/p\u003e"
+    }
+  ]
+}

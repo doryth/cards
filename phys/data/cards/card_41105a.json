@@ -1,0 +1,116 @@
+{
+  "id": "card_41105a",
+  "slug": "black-hole-horizons-go-comoving",
+  "type": "paper",
+  "title": "Black Hole Horizons Drift With the Expanding Universe",
+  "hook": "A static horizon cannot survive in a universe that keeps expanding. New work argues that black hole apparent horizons instead become comoving — quietly carried along with the cosmic flow.",
+  "key_points": [
+    "Earlier work showed static event horizons in a time-dependent background turn into naked singularities.",
+    "That leaves an open question: how does a real black hole horizon behave inside an expanding universe?",
+    "Faraoni and Rinaldi argue in general that apparent horizons tend to become comoving.",
+    "Apparent horizons, unlike event horizons, are defined locally and can evolve in time.",
+    "The result supports the idea that black holes are cosmologically coupled to the expansion.",
+    "The authors note implications for how black holes may have grown in the early universe."
+  ],
+  "content_html": "\u003cp\u003eTextbook black holes sit in empty, unchanging space. Real ones sit in a universe that has been expanding for 13.8 billion years, and reconciling those two pictures is harder than it sounds. Previous work established a sharp no-go: a static event horizon cannot exist in a time-dependent background without degenerating into a naked singularity. So what does the horizon of a real black hole actually do?\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eValerio Faraoni and Massimiliano Rinaldi offer an answer, and the key move is switching which horizon you talk about. An event horizon is a global object — you need the entire future history of the spacetime to locate it. An apparent horizon is local and can evolve. Working with apparent horizons, they argue in full generality that these surfaces tend to become comoving: carried along by the cosmic expansion in the same way distant galaxies are.\u003c/p\u003e\n\u003cp\u003eThe authors read this as confirming that a cosmological coupling between black holes and the expanding universe is necessary rather than optional — an idea that has been debated hard in recent years, partly because a coupling strong enough to matter would change how black hole masses grow over cosmic time. They flag the early universe as the interesting regime, where such coupling could contribute to the rapid early growth of black holes that observations keep demanding explanations for.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Valerio Faraoni",
+      "Massimiliano Rinaldi"
+    ],
+    "url": "https://arxiv.org/abs/2608.21222",
+    "published_at": "2026-08-21",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-08-24",
+  "date": "2026-08-21",
+  "related": [
+    {
+      "id": "card_921259",
+      "slug": "black-holes",
+      "type": "concept",
+      "title": "Black Holes",
+      "hook": "A black hole is a place where gravity wins so completely that nothing — not even light — can escape once it crosses the edge called the event horizon.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_30a04a",
+      "slug": "black-hole-laws-get-a-dynamical-upgrade",
+      "type": "news",
+      "title": "Hawking's Black Hole Laws Get a Real-World Upgrade",
+      "hook": "Hawking's famous black hole laws only strictly work for black holes frozen in perfect equilibrium. A new framework extends them to real black holes that merge, grow, and evaporate.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_551cf7",
+      "slug": "black-holes-older-than-the-big-bang",
+      "type": "news",
+      "title": "Black Holes That Predate the Big Bang",
+      "hook": "If our universe expanded out of an earlier contracting one rather than from nothing, black holes could have survived the handover — cosmic fossils that might also be the dark matter.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-11"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_41105a#0",
+      "format": "quiz",
+      "prompt": "Why can't a black hole in an expanding universe simply keep a static event horizon?",
+      "choices": [
+        {
+          "text": "Earlier results show a static horizon in a time-dependent background becomes a naked singularity",
+          "correct": true
+        },
+        {
+          "text": "Expansion pulls the horizon apart faster than light can cross it",
+          "correct": false
+        },
+        {
+          "text": "Hawking radiation always shrinks the horizon faster than expansion grows it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe no-go result is what motivates the paper: staticity and a time-dependent background are\nincompatible without the horizon degenerating.\u003c/p\u003e"
+    },
+    {
+      "id": "card_41105a#1",
+      "format": "flip",
+      "prompt": "What does it mean for a horizon to become comoving?",
+      "back_html": "\u003cp\u003eIt gets carried along by the cosmic expansion rather than staying at a fixed physical size —\nthe same sense in which distant galaxies are comoving with the Hubble flow.\u003c/p\u003e"
+    },
+    {
+      "id": "card_41105a#2",
+      "format": "flip",
+      "prompt": "Why do the authors work with apparent horizons instead of event horizons?",
+      "back_html": "\u003cp\u003eAn event horizon is a \u003cstrong\u003eglobal\u003c/strong\u003e, whole-history construct; an apparent horizon is defined\n\u003cstrong\u003elocally\u003c/strong\u003e and can evolve, which is what you need in a time-dependent spacetime.\u003c/p\u003e"
+    }
+  ]
+}

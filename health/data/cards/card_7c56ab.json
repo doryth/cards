@@ -1,0 +1,67 @@
+{
+  "id": "card_7c56ab",
+  "slug": "triple-therapy-clears-hiv-primates",
+  "type": "news",
+  "title": "Three Drugs Together Cleared HIV Where None Could Alone",
+  "hook": "In newborn primates treated within three days of exposure, a one-time combination of three therapies completely cleared the virus — something none of the three achieved on its own.",
+  "key_points": [
+    "Regimen combined standard antiretrovirals, broadly neutralizing antibodies, and leronlimab.",
+    "Given to newborn nonhuman primates within three days of exposure.",
+    "The combination completely cleared the virus; no single component did.",
+    "Leronlimab is experimental — it blocks a receptor HIV uses to enter cells.",
+    "Animal study, and the tight three-day window is a major practical constraint."
+  ],
+  "content_html": "\u003cp\u003eHIV is famously hard to eliminate: it embeds itself in the body's cells and waits, which is why treatment is lifelong rather than curative. Researchers report that in newborn nonhuman primates, a one-time combination of three therapies given within three days of exposure completely cleared the virus.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe regimen paired standard antiretroviral drugs with broadly neutralizing antibodies and leronlimab, an experimental antibody. What makes the result notable is the arithmetic: none of the three cleared the virus on its own. Only together did they finish the job, which suggests each is closing a different escape route the others leave open.\u003c/p\u003e\n\u003cp\u003eThe caveats are substantial and worth stating plainly. This is an animal study, in newborns, with a three-day treatment window — an extremely narrow one in practice, though it maps onto real scenarios like mother-to-child transmission at birth. Nothing here says anything about clearing established infection in adults. What it does offer is a proof of principle that combination approaches can achieve what single agents cannot, which is the direction cure research has been pointing for years.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260812015200.htm",
+    "published_at": "2026-08-13",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "sexual-health"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-13",
+  "related": [],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7c56ab#0",
+      "format": "quiz",
+      "prompt": "What was the key result of the three-part HIV regimen in newborn primates?",
+      "choices": [
+        {
+          "text": "It fully cleared the virus, though no single component could",
+          "correct": true
+        },
+        {
+          "text": "Each of the three drugs cleared the virus equally well alone",
+          "correct": false
+        },
+        {
+          "text": "It reduced symptoms but left viral levels unchanged",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe combination of antiretrovirals, broadly neutralizing antibodies, and leronlimab\ncompletely cleared the virus — an effect none of the three produced alone.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7c56ab#1",
+      "format": "flip",
+      "prompt": "What is the biggest practical limitation of this result?",
+      "back_html": "\u003cp\u003eTreatment had to start within \u003cstrong\u003ethree days\u003c/strong\u003e of exposure, in newborn nonhuman\nprimates. Translating that timing and species to people is unproven.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7c56ab#2",
+      "format": "flip",
+      "prompt": "What are 'broadly neutralizing antibodies' doing in this regimen?",
+      "back_html": "\u003cp\u003eThey're one of the three components combined with standard antiretrovirals and the\nexperimental antibody leronlimab — no one of which cleared the virus alone.\u003c/p\u003e"
+    }
+  ]
+}

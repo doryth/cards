@@ -1,0 +1,101 @@
+{
+  "id": "card_324518",
+  "slug": "bones-and-muscles",
+  "type": "concept",
+  "title": "Bones and Muscles",
+  "hook": "Your skeleton is the frame and your muscles are the engines — together they let you stand, move, and protect the soft organs inside you.",
+  "key_points": [
+    "Bones form the skeleton, giving the body shape, support, and protection.",
+    "Muscles pull on bones to produce movement.",
+    "Skeletal muscles work in pairs, since they can only pull, not push.",
+    "Bones are living tissue that also store minerals and make blood cells."
+  ],
+  "content_html": "\u003cp\u003eStand up, wave, or take a step, and you're relying on a partnership between two systems. Your bones form the skeleton — a sturdy internal frame that gives the body shape, holds it upright, and shields delicate organs like the brain, heart, and lungs. But bones can't move on their own. That's the job of muscles, which attach to the skeleton and pull it into motion.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trick is that muscles can only pull, never push. So they're arranged in opposing pairs: bend your arm and the biceps contracts to pull the forearm up; straighten it and the triceps on the other side pulls it back down. Bones aren't dead scaffolding either — they're living tissue laced with blood vessels, storing minerals like calcium and producing new blood cells inside their marrow. As NIH MedlinePlus describes, this muscular-skeletal teamwork supports the body, powers every movement, and keeps repairing and rebuilding itself throughout life.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/bonesandmuscles.html",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "human-body"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_82a753",
+      "slug": "homeostasis",
+      "type": "concept",
+      "title": "Homeostasis: Staying Balanced",
+      "hook": "Your body works hard to keep its inside world steady — temperature, water, blood sugar — no matter what's happening outside. That balancing act is homeostasis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_13b9d2",
+      "slug": "the-respiratory-system",
+      "type": "concept",
+      "title": "The Respiratory System",
+      "hook": "With every breath, your lungs trade carbon dioxide for fresh oxygen — the gas swap that keeps every cell in your body running.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_324518#0",
+      "format": "flip",
+      "prompt": "How do bones and muscles work together to move you?",
+      "back_html": "\u003cp\u003eMuscles \u003cstrong\u003epull on bones\u003c/strong\u003e across joints. The skeleton is the rigid frame, and\nmuscles are the engines that move that frame — bones can't move themselves.\u003c/p\u003e"
+    },
+    {
+      "id": "card_324518#1",
+      "format": "quiz",
+      "prompt": "Why do skeletal muscles often work in pairs?",
+      "choices": [
+        {
+          "text": "Muscles can only pull, not push, so one pulls a bone each way",
+          "correct": true
+        },
+        {
+          "text": "Each muscle is too weak to move a bone alone",
+          "correct": false
+        },
+        {
+          "text": "Pairs let bones grow faster",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA muscle moves a bone by contracting and pulling. Since it can't push the bone\nback, an opposing muscle pulls it the other way — like the biceps and triceps at\nyour elbow.\u003c/p\u003e"
+    },
+    {
+      "id": "card_324518#2",
+      "format": "quiz",
+      "prompt": "Besides support, what else do bones do?",
+      "choices": [
+        {
+          "text": "Store minerals and make blood cells",
+          "correct": true
+        },
+        {
+          "text": "Pump blood through the body",
+          "correct": false
+        },
+        {
+          "text": "Digest food into nutrients",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBones are living tissue: they store minerals like calcium and, in their marrow,\nproduce the body's blood cells.\u003c/p\u003e"
+    }
+  ]
+}

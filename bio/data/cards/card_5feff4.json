@@ -1,0 +1,110 @@
+{
+  "id": "card_5feff4",
+  "slug": "blood-types-and-inheritance",
+  "type": "concept",
+  "title": "Blood Types and Inheritance",
+  "hook": "Your ABO blood type is a real, everyday example of inherited alleles — three gene versions combining to make four possible types.",
+  "key_points": [
+    "The ABO gene comes in three alleles: A, B, and O.",
+    "You inherit one allele from each parent, giving your genotype.",
+    "A and B are codominant; both show up when present together as type AB.",
+    "O is recessive — it only shows when you inherit two O alleles.",
+    "The four blood types (A, B, AB, O) arise from these allele combinations."
+  ],
+  "content_html": "\u003cp\u003eBlood type is one of the clearest real-life examples of how alleles — different versions of a gene — combine to produce a trait. The ABO gene comes in three flavors: A, B, and O. You inherit one copy from each parent, and the pair you end up with determines whether your blood is type A, B, AB, or O. It's textbook Mendelian inheritance you can actually get tested for.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe ABO system shows off two genetic ideas at once. First, codominance: the A and B alleles are equally \u0026quot;loud,\u0026quot; so inheriting one of each gives blood type AB, where both are expressed together. Second, recessiveness: the O allele is silent next to A or B, so type O appears only when someone inherits two O alleles. That's why two type-A parents can have a type-O child if each carries a hidden O. The NIH MedlinePlus entry on the ABO gene describes how these alleles encode the molecules on red blood cells that define each type.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/genetics/gene/abo/",
+    "license": "Public domain (NIH/U.S. National Library of Medicine)"
+  },
+  "topic_ids": [
+    "dna-genetics"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_dec393",
+      "slug": "mendelian-inheritance",
+      "type": "concept",
+      "title": "Mendelian Inheritance",
+      "hook": "A 19th-century monk breeding pea plants worked out the hidden rules of heredity — why a trait can skip a generation and reappear in your grandchild.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_82d3b1",
+      "slug": "genes-and-traits",
+      "type": "concept",
+      "title": "How Genes Become Traits",
+      "hook": "You inherit two copies of every gene — one from each parent — and the way those copies interact helps decide everything from eye color to blood type.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1bc8aa",
+      "slug": "what-is-dna",
+      "type": "concept",
+      "title": "What Is DNA?",
+      "hook": "A four-letter chemical code, coiled into a double helix, carries the full instruction manual for building and running a living thing.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5feff4#0",
+      "format": "flip",
+      "prompt": "How many alleles does the ABO blood-type gene have, and what are they?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eThree\u003c/strong\u003e: the A allele, the B allele, and the O allele. You inherit one from\neach parent, and the pair determines your blood type.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5feff4#1",
+      "format": "quiz",
+      "prompt": "Why does someone with one A allele and one B allele have type AB blood?",
+      "choices": [
+        {
+          "text": "A and B are codominant, so both are expressed",
+          "correct": true
+        },
+        {
+          "text": "A always masks B",
+          "correct": false
+        },
+        {
+          "text": "The two alleles cancel each other out, giving type O",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe A and B alleles are codominant — neither hides the other — so a person who\ninherits both expresses both, producing type AB.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5feff4#2",
+      "format": "quiz",
+      "prompt": "What allele combination produces type O blood?",
+      "choices": [
+        {
+          "text": "Two O alleles (O is recessive)",
+          "correct": true
+        },
+        {
+          "text": "One A and one O allele",
+          "correct": false
+        },
+        {
+          "text": "One A and one B allele",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eO is recessive, so it only shows up when no A or B allele is present — that is,\nwhen a person inherits an O allele from each parent.\u003c/p\u003e"
+    }
+  ]
+}

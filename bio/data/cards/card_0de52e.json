@@ -1,0 +1,99 @@
+{
+  "id": "card_0de52e",
+  "slug": "from-embryo-to-baby",
+  "type": "concept",
+  "title": "From Embryo to Baby",
+  "hook": "A single fertilized cell becomes trillions of specialized ones in nine months — dividing, folding, and organizing itself into a heartbeat, a brain, and a body ready to be born.",
+  "key_points": [
+    "Development begins when the zygote divides repeatedly into a ball of cells.",
+    "Early on it's called an embryo; once major organs are forming it's called a fetus.",
+    "Cells specialize and organize into tissues and organs through development.",
+    "In humans, this takes about nine months of pregnancy from fertilization to birth."
+  ],
+  "content_html": "\u003cp\u003eThe journey from a single fertilized egg to a newborn baby is one of biology's most astonishing feats. That one cell — the zygote — has to become trillions of specialized cells arranged into a working body, and it does it in about nine months.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIt starts with division: the zygote splits into two cells, then four, then a hollow ball that implants in the womb. In these early weeks the developing organism is called an embryo, and something remarkable happens — cells begin to specialize, becoming nerve, muscle, blood, and skin, and folding into the beginnings of organs. By around the end of the eighth week, with the major structures laid down, it's called a fetus, and the rest of pregnancy is mostly growth and refinement: the heart strengthens, the brain wires up, the lungs prepare for air. NIH's MedlinePlus describes how this orderly sequence of dividing, specializing, and organizing turns one cell into a baby ready to be born.\u003c/p\u003e",
+  "source": {
+    "name": "NIH MedlinePlus",
+    "url": "https://medlineplus.gov/ency/article/002398.htm",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "reproduction"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_f16037",
+      "slug": "human-reproduction",
+      "type": "concept",
+      "title": "Human Reproduction",
+      "hook": "New human life begins when two specialized cells — one egg, one sperm — combine, merging half a set of genetic instructions from each parent into a brand-new whole.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_648120",
+      "slug": "hormones-and-the-endocrine-system",
+      "type": "concept",
+      "title": "Hormones and the Endocrine System",
+      "hook": "Your body runs a chemical messaging service: glands release hormones into the blood, and far-off organs read them like instructions — slow signals that shape growth, mood, and metabolism.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0de52e#0",
+      "format": "quiz",
+      "prompt": "What's the difference between an embryo and a fetus?",
+      "choices": [
+        {
+          "text": "Embryo is the early stage; fetus is the later stage once major organs are forming",
+          "correct": true
+        },
+        {
+          "text": "An embryo is human and a fetus is an animal",
+          "correct": false
+        },
+        {
+          "text": "They are two words for exactly the same stage",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe developing organism is called an embryo in its earliest weeks, then a\nfetus once the major organs have begun to form and it grows and matures.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0de52e#1",
+      "format": "flip",
+      "prompt": "How does a single fertilized cell become a whole body?",
+      "back_html": "\u003cp\u003eIt \u003cstrong\u003edivides repeatedly\u003c/strong\u003e, and the resulting cells \u003cstrong\u003especialize\u003c/strong\u003e into\ndifferent types — nerve, muscle, skin — organizing into tissues and organs.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0de52e#2",
+      "format": "quiz",
+      "prompt": "About how long does human development from fertilization to birth take?",
+      "choices": [
+        {
+          "text": "About nine months",
+          "correct": true
+        },
+        {
+          "text": "About nine days",
+          "correct": false
+        },
+        {
+          "text": "About three years",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eHuman pregnancy lasts roughly nine months, during which the zygote develops\ninto an embryo, then a fetus, then a baby ready to be born.\u003c/p\u003e"
+    }
+  ]
+}

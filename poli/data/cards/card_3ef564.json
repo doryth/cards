@@ -1,0 +1,140 @@
+{
+  "id": "card_3ef564",
+  "slug": "when-the-circuits-disagree",
+  "type": "news",
+  "title": "When Federal Law Means Different Things in Different States",
+  "hook": "Nine federal appeals courts have read the same detention statute; seven say one thing and two say the opposite. Until the Supreme Court steps in, your rights depend on your address.",
+  "key_points": [
+    "Federal appeals courts bind only their own circuit, so the same statute can carry opposite meanings in different regions.",
+    "A 'circuit split' is the single strongest reason the Supreme Court agrees to hear a case.",
+    "At issue: whether immigration law lets ICE mandatorily detain people arrested in the interior with no chance at a bond hearing.",
+    "The 1st, 2nd, 6th, 7th, 9th, 10th and 11th Circuits ruled against the policy; the 5th and 8th upheld it.",
+    "The 6th Circuit also found the policy violates Fifth Amendment due process.",
+    "SCOTUSblog reports ICE detention rose from about 40,000 people daily in January 2025 to 65,634 in July 2026."
+  ],
+  "content_html": "\u003cp\u003eFederal law is written once, but it is interpreted by thirteen regional appeals courts, and each one's ruling binds only the states beneath it. Most of the time they converge. When they do not, the country ends up with the same statute meaning genuinely different things depending on where you happen to be — a situation lawyers call a circuit split, and the clearest signal that the Supreme Court will need to intervene.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWriting at SCOTUSblog, César Cuauhtémoc García Hernández describes a live example. The question is whether the Immigration and Nationality Act allows ICE to mandatorily detain people arrested in the interior of the country — not at a border — without letting them ask an immigration judge for release on bond. Seven circuits (the 1st, 2nd, 6th, 7th, 9th, 10th and 11th) have ruled against that reading; the 5th and 8th have upheld it, and the 6th went further, finding the policy violates Fifth Amendment due process. The solicitor general calls the idea of bond hearings here \u0026quot;perverse\u0026quot;; advocates call the government's reading \u0026quot;radical, new, and countertextual.\u0026quot; The practical stakes have grown with the caseload: SCOTUSblog reports ICE detention rising from roughly 40,000 people a day in January 2025 to 65,634 in July 2026, nearly 59,000 of them arrested in the interior. Two petitions now await the Court. The structural point outlasts this dispute — a system with regional appellate courts trades uniformity for capacity, and only the top court can buy the uniformity back.\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "César Cuauhtémoc García Hernández"
+    ],
+    "url": "https://scotusblog.com/2026/08/trump-detention-policy-nears-scotus",
+    "published_at": "2026-08-19",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers",
+    "human-rights"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-19",
+  "related": [
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_7da30b",
+      "slug": "how-the-supreme-court-decides",
+      "type": "blog",
+      "title": "How the Supreme Court Decides a Case",
+      "hook": "A top court hears only a sliver of the cases that beg for its attention — and the path from petition to ruling runs through written briefs, a public argument, and a vote taken in secret.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8b4e22",
+      "slug": "outsourcing-detention",
+      "type": "news",
+      "title": "When Detention Is a Revenue Line",
+      "hook": "Contract out a coercive government function and you create a company whose earnings rise with enforcement — and whose shareholders now have a stake in how the policy goes.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-08"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_3ef564#0",
+      "format": "flip",
+      "prompt": "What is a circuit split, and why does it matter?",
+      "back_html": "\u003cp\u003eFederal appeals courts disagreeing on the meaning of the same federal\nlaw. Each binds only its own region, so identical statutes carry\ndifferent meanings by geography — the strongest reason for the Supreme\nCourt to take a case.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3ef564#1",
+      "format": "quiz",
+      "prompt": "What legal question do the detention cases heading to the Supreme Court turn on?",
+      "choices": [
+        {
+          "text": "Whether immigration law permits mandatory detention without a bond hearing for people arrested in the interior",
+          "correct": true
+        },
+        {
+          "text": "Whether immigration courts may use juries",
+          "correct": false
+        },
+        {
+          "text": "Whether states can run their own immigration agencies",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIt is a question of statutory interpretation, with the 6th Circuit\nadding a Fifth Amendment due process holding on top.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3ef564#2",
+      "format": "quiz",
+      "prompt": "Why doesn't a federal appeals court ruling settle a statute nationwide?",
+      "choices": [
+        {
+          "text": "Its precedent binds only the states within its own circuit",
+          "correct": true
+        },
+        {
+          "text": "Appeals court rulings expire after one year",
+          "correct": false
+        },
+        {
+          "text": "Only Congress may interpret statutes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eNationwide uniformity on a contested reading comes only from the\nSupreme Court.\u003c/p\u003e"
+    }
+  ]
+}

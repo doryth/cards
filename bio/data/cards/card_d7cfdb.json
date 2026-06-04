@@ -1,0 +1,104 @@
+{
+  "id": "card_d7cfdb",
+  "slug": "marburg-outbreak-uganda",
+  "type": "news",
+  "title": "A Second Deadly Virus Surfaces in Uganda's Ebola Zone",
+  "hook": "Uganda has confirmed Marburg virus cases in the same western region already fighting one of the largest Ebola outbreaks on record — two close viral relatives, at once, in one place.",
+  "key_points": [
+    "Marburg virus is a filovirus, the same viral family as Ebola, and one of the deadliest hemorrhagic fever viruses known.",
+    "Uganda confirmed Marburg cases in western Uganda — the same region as an already major, ongoing Ebola outbreak.",
+    "Both viruses spread through contact with infected bodily fluids, including during traditional burial practices.",
+    "No licensed Marburg vaccine exists yet, though candidate vaccines are in development.",
+    "Uganda has successfully contained five previous Marburg outbreaks since the virus's 1967 discovery."
+  ],
+  "content_html": "\u003cp\u003eWestern Uganda is already managing one of the largest Ebola outbreaks on record. Now it has a second problem: STAT reports that health officials have confirmed cases of Marburg virus, a close viral relative, in the same outbreak zone.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMarburg belongs to the filovirus family alongside the Ebola viruses, and it ranks among the deadliest hemorrhagic fever viruses known to infect people. Like Ebola, it spreads through contact with the bodily fluids of infected people, including through traditional burial practices — which is why two simultaneous filovirus outbreaks in one region is so concerning: containment teams, treatment capacity, and safe-burial efforts now have to stretch across two diseases at once. There's no licensed Marburg vaccine yet, though candidates are in development. Uganda has successfully contained five previous Marburg outbreaks since the virus was first identified in 1967, but the country has also historically been slow to disclose outbreaks, in part because of tourism's importance to its economy.\u003c/p\u003e",
+  "source": {
+    "name": "STAT",
+    "authors": [
+      "Helen Branswell"
+    ],
+    "url": "https://statnews.com/2026/06/30/marburg-virus-cases-ugandan-ebola-outbreak-zone",
+    "published_at": "2026-06-30",
+    "license": "© STAT"
+  },
+  "topic_ids": [
+    "microbiology"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-02",
+  "date": "2026-06-30",
+  "related": [
+    {
+      "id": "card_8510f0",
+      "slug": "viruses-living-or-not",
+      "type": "concept",
+      "title": "Are Viruses Alive?",
+      "hook": "A virus is little more than genes in a protein shell — it can't eat, grow, or reproduce on its own, which is why biologists still argue whether it counts as living.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_f1976d",
+      "slug": "how-infections-spread",
+      "type": "concept",
+      "title": "How Infections Spread",
+      "hook": "Germs can't fly to a new host on their own — they hitch rides on coughs, hands, food, water, and insects. Break the ride, and you break the chain of infection.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_d7cfdb#0",
+      "format": "flip",
+      "prompt": "What is Marburg virus, and how is it related to Ebola?",
+      "back_html": "\u003cp\u003eIt's a \u003cstrong\u003efilovirus\u003c/strong\u003e — the same viral family as Ebola — and one of the deadliest\nhemorrhagic fever viruses known to infect humans.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d7cfdb#1",
+      "format": "quiz",
+      "prompt": "Why does this Marburg detection complicate Uganda's public-health response?",
+      "choices": [
+        {
+          "text": "It emerged in the same western region as an already major, ongoing Ebola outbreak",
+          "correct": true
+        },
+        {
+          "text": "Marburg had never been recorded anywhere in Uganda before",
+          "correct": false
+        },
+        {
+          "text": "It replaced the Ebola outbreak, which has now ended",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe cases surfaced in the same outbreak zone where Uganda is already managing one\nof the largest Ebola outbreaks on record, straining the same response resources.\u003c/p\u003e"
+    },
+    {
+      "id": "card_d7cfdb#2",
+      "format": "quiz",
+      "prompt": "How do Marburg and Ebola typically spread between people?",
+      "choices": [
+        {
+          "text": "Through contact with infected bodily fluids, including during traditional burials",
+          "correct": true
+        },
+        {
+          "text": "Through casual airborne contact, similar to a common cold",
+          "correct": false
+        },
+        {
+          "text": "Only through mosquito bites",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBoth filoviruses spread via direct contact with the bodily fluids of infected people\nor corpses, which is why unsafe burial practices are a major transmission risk.\u003c/p\u003e"
+    }
+  ]
+}

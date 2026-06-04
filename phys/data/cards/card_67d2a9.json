@@ -1,0 +1,142 @@
+{
+  "id": "card_67d2a9",
+  "slug": "stochastic-gravitational-wave-background-limits",
+  "type": "paper",
+  "title": "Closing In on the Gravitational-Wave Hum",
+  "hook": "Every merger the universe has ever had leaves a faint background rumble. LIGO-Virgo-KAGRA still can't hear it — but their new limit is now within a factor of a few of where it should be.",
+  "key_points": [
+    "The stochastic background is the blended hum of countless unresolved sources, not any single event.",
+    "Data through April 2025 shows no background signal; the search sets upper limits instead.",
+    "For the binary-inspiral spectral shape the limit is an energy density of 2.0e-9 at 25 Hz (95% credible).",
+    "New frequency-domain cuts removed non-stationary noise features earlier checks had missed.",
+    "The limits improve on previous ones by a factor of 1.4, and bounds on non-standard polarizations were updated too.",
+    "Population models predict the compact-binary background sits near 6.3e-10 — just below the current reach."
+  ],
+  "content_html": "\u003cp\u003eEvery neutron star and black hole merger in cosmic history radiated gravitational waves. Most were far too faint and far away to pick out individually, but they never went away — they pile up into a persistent hum filling the universe. Detecting that stochastic background is one of gravitational-wave astronomy's standing goals, and the LIGO-Virgo-KAGRA collaborations have just tightened the net again.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTheir August 2026 analysis covers data from the first observing run through 1 April 2025, partway into the fourth run. A practical piece of the work was cleaning: the team introduced new frequency-domain cuts targeting a class of non-stationary spectral noise features that earlier data-quality checks had not caught, and reprocessed previously analysed fourth-run data with them.\u003c/p\u003e\n\u003cp\u003eThe search finds no evidence of a background. For a spectrum with the 2/3 power-law slope expected from inspiralling compact binaries, the collaborations report an energy density limit of 2.0 x 10^-9 at 25 Hz at 95% credibility; scale-invariant backgrounds are held under 2.8 x 10^-9. Relative to previous constraints recomputed with the same cuts, that is an improvement of about 1.4. The paper also updates bounds on alternative-gravity scenarios that predict extra gravitational-wave polarization modes, and checks that correlated magnetic noise between sites stays below the search's sensitivity.\u003c/p\u003e\n\u003cp\u003eThe interesting number is the one they cannot see yet. Folding the latest transient catalogue, GWTC-5.0, into population models, the authors predict the compact-binary background should sit around 6.3 x 10^-10 at 25 Hz — a factor of a few beneath where the search now reaches.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "The LIGO Scientific Collaboration",
+      "the Virgo Collaboration",
+      "the KAGRA Collaboration"
+    ],
+    "url": "https://arxiv.org/abs/2608.23477",
+    "published_at": "2026-08-24",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "cosmology"
+  ],
+  "tags": [
+    "paper",
+    "benchmark"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-24",
+  "related": [
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_001a65",
+      "slug": "ligo-a-sharp-upgrade",
+      "type": "paper",
+      "title": "LIGO's Next Upgrade Is Mostly About Heavier Mirrors",
+      "hook": "The proposed A-sharp detector wrings more out of room-temperature LIGO — heavier test masses, better suspensions, more laser power — enough to catch neutron star mergers before they collide.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "card_e9da69",
+      "slug": "gravitational-wave-catalog-390-detections",
+      "type": "news",
+      "title": "390 Gravitational Waves In, and Black Hole Astronomy Is Just Getting Started",
+      "hook": "The latest gravitational-wave catalog leaps to 390 confirmed detections — including the clearest signal ever caught and evidence some black holes are built from earlier mergers.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "card_3c0997",
+      "slug": "ligo-signal-primordial-black-holes-dark-matter",
+      "type": "news",
+      "title": "Could This Odd LIGO Signal Be the Missing Dark Matter?",
+      "hook": "An unusual gravitational-wave signal has revived a long-shot idea: that primordial black holes born moments after the Big Bang could be the universe's missing dark matter.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-02"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_67d2a9#0",
+      "format": "quiz",
+      "prompt": "What is a stochastic gravitational-wave background?",
+      "choices": [
+        {
+          "text": "The blended hum of many unresolved sources rather than any one detectable event",
+          "correct": true
+        },
+        {
+          "text": "The loudest single merger recorded in an observing run",
+          "correct": false
+        },
+        {
+          "text": "Instrumental noise generated inside the detector arms",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eIndividually too faint to pick out, countless mergers and other sources\noverlap into a persistent background that a search treats statistically.\u003c/p\u003e"
+    },
+    {
+      "id": "card_67d2a9#1",
+      "format": "flip",
+      "prompt": "The search found no signal — why is that still a useful result?",
+      "back_html": "\u003cp\u003eA non-detection sets upper limits on the background's energy density,\nwhich constrains source populations and alternative-gravity models.\u003c/p\u003e"
+    },
+    {
+      "id": "card_67d2a9#2",
+      "format": "quiz",
+      "prompt": "What does it mean that the predicted compact-binary background sits just below the new limit?",
+      "choices": [
+        {
+          "text": "Detection is plausibly within reach as detectors keep improving",
+          "correct": true
+        },
+        {
+          "text": "The background has already been detected and confirmed",
+          "correct": false
+        },
+        {
+          "text": "The background must be much stronger than models predict",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe expected amplitude (about 6.3e-10) is only a few times under the current\nbound (2.0e-9), so modest sensitivity gains could cross the gap.\u003c/p\u003e"
+    }
+  ]
+}

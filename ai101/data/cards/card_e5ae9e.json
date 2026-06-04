@@ -1,0 +1,88 @@
+{
+  "id": "card_e5ae9e",
+  "slug": "claude-consciousness-debate",
+  "type": "news",
+  "title": "Is It Risky to Call AI 'Conscious'?",
+  "hook": "Microsoft's AI chief says it's 'really, really dangerous' for Anthropic to even speculate about whether Claude is conscious — warning that the talk could nudge the chatbot into acting like it is.",
+  "key_points": [
+    "Microsoft AI CEO Mustafa Suleyman criticized Anthropic for speculating about Claude's consciousness.",
+    "He called it 'really, really dangerous' to put that speculation into the model's instructions.",
+    "His worry: such framing may prime a chatbot to behave as if it has feelings.",
+    "It's a live debate among top labs — not a settled scientific finding either way."
+  ],
+  "content_html": "\u003cp\u003eHow should a company talk about whether its AI might have an inner life? That question turned into a public spat. As The Verge reports, Microsoft AI CEO Mustafa Suleyman said it's \u0026quot;really, really dangerous\u0026quot; for Anthropic to speculate about Claude's consciousness inside the model's guiding instructions. His argument, made on the \u003cem\u003eDecoder\u003c/em\u003e podcast, is that this kind of framing could prime the chatbot to \u003cem\u003eact\u003c/em\u003e as though it's conscious — making the illusion stronger for the people using it.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eYou don't need to pick a side to take something useful from this. First, notice that there's no settled answer — when the leaders of major AI labs openly disagree about how to even \u003cem\u003ediscuss\u003c/em\u003e machine consciousness, that's a sign the question is genuinely open, not something anyone has proven. Second, Suleyman's specific worry is a practical one that applies to you as a user: a chatbot designed (or described) as feeling can be more convincing at \u003cem\u003eseeming\u003c/em\u003e to feel, and people form real attachments to systems that perform care they don't have. The grounded stance is the one in the prerequisite card — enjoy the fluency, but remember that emotional language from a model is mimicry of human writing, not evidence of an inner experience. The debate here is about how labs should handle that fact responsibly, not about whether today's AI has woken up.\u003c/p\u003e",
+  "source": {
+    "name": "The Verge",
+    "authors": [
+      "Emma Roth"
+    ],
+    "url": "https://theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+    "published_at": "2026-06-09",
+    "license": "© The Verge (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-consciousness",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "alignment"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-11",
+  "date": "2026-06-09",
+  "related": [
+    {
+      "id": "card_5cf371",
+      "slug": "is-ai-conscious",
+      "type": "concept",
+      "title": "Is AI Conscious?",
+      "hook": "When a chatbot says 'I feel' or 'I'm afraid,' it's predicting words a human would write — not reporting an inner experience. There's no evidence today's AI feels anything at all.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_5cf371",
+      "slug": "is-ai-conscious",
+      "type": "concept",
+      "title": "Is AI Conscious?",
+      "hook": "When a chatbot says 'I feel' or 'I'm afraid,' it's predicting words a human would write — not reporting an inner experience. There's no evidence today's AI feels anything at all.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_e5ae9e#0",
+      "format": "quiz",
+      "prompt": "Why did Microsoft's Mustafa Suleyman criticize talking about Claude's 'consciousness'?",
+      "choices": [
+        {
+          "text": "He worries the framing could prime a chatbot to act as if it has feelings",
+          "correct": true
+        },
+        {
+          "text": "He says it proves the chatbot is definitely conscious",
+          "correct": false
+        },
+        {
+          "text": "He thinks AI should never be discussed publicly",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003ePer The Verge, Suleyman called the speculation 'really, really dangerous,'\narguing it may set up the model to behave as though it's conscious.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e5ae9e#1",
+      "format": "flip",
+      "prompt": "What does this disagreement tell you about AI consciousness?",
+      "back_html": "\u003cp\u003eIt's an unsettled, contested question — even leaders of top AI labs disagree\non how to talk about it. There's no scientific consensus that AI is conscious.\u003c/p\u003e"
+    }
+  ]
+}

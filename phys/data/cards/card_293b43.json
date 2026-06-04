@@ -1,0 +1,133 @@
+{
+  "id": "card_293b43",
+  "slug": "kiloqubit-neutral-atom-register",
+  "type": "paper",
+  "title": "A Defect-Free Array of 1024 Atoms, Held by Light",
+  "hook": "Atoms are trapped one per laser spot, then shuffled by moving tweezers until every site in a 32x32 grid is filled — pushing neutral-atom qubits past the kiloqubit mark.",
+  "key_points": [
+    "A Darmstadt group assembled a defect-free 2D register of up to 1024 neutral-atom qubits.",
+    "Each qubit is a single atom held in an 'optical tweezer' — a tightly focused laser beam.",
+    "Atoms land in traps at random, so up to 50 movable tweezers shuttle them until no site is empty.",
+    "Splitting intensity-equalization and pattern-generation into separate optics removed the usual scaling limit.",
+    "The setup demonstrates arrays with more than 3500 trap sites, with near-unity filling sustained on 32x32 targets."
+  ],
+  "content_html": "\u003cp\u003eNeutral-atom quantum computers store each qubit in a single atom, pinned in place by a tightly focused laser beam — an \u0026quot;optical tweezer.\u0026quot; The catch has always been assembly: atoms fall into the traps at random, so a freshly loaded array is riddled with empty sites. A group at Darmstadt led by Lukas Sturm and Gerhard Birkl now reports a defect-free register of up to 1024 atoms, pushing the platform above the kiloqubit level.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe trick is twofold. First, the optics: instead of asking one device to simultaneously deliver high power, high resolution and large-scale light-field control, the team split intensity equalization and tweezer patterning into separate functional units — which, they report, lifts the restriction that normally caps array size. That yields arrays of over 3500 uniform trap sites. Second, the shuffling: up to 50 transport tweezers move atoms in parallel, with real-time control of intensity and position, ferrying atoms from wherever they happened to land into the target pattern. The result is a 32x32 grid held at near-unity filling. Size, uniformity and the speed of allocating qubits are the three numbers that decide whether this platform is useful, and this work moves all three at once. Posted to arXiv in August 2026.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Lukas Sturm",
+      "Marcel Mittenbuehler",
+      "Tim Gollerthan",
+      "Malte Schlosser",
+      "Gerhard Birkl"
+    ],
+    "url": "https://arxiv.org/abs/2608.12021",
+    "published_at": "2026-08-12",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech",
+    "modern-physics"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-12",
+  "related": [
+    {
+      "id": "card_80786e",
+      "slug": "neutral-atom-quantum-roadmap",
+      "type": "paper",
+      "title": "The Neutral-Atom Roadmap to a Useful Quantum Computer",
+      "hook": "Fifty-plus researchers from the atom-array world lay out what it would actually take to get practical quantum advantage — and how you'd prove you had it.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_e5d963",
+      "slug": "quantum-entanglement",
+      "type": "concept",
+      "title": "Quantum Entanglement",
+      "hook": "Two particles can share one quantum state so tightly that measuring one instantly fixes the other's matching property — even light-years apart. Einstein called it spooky.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_293b43#0",
+      "format": "flip",
+      "prompt": "What is an 'optical tweezer' in a neutral-atom quantum computer?",
+      "back_html": "\u003cp\u003eA tightly focused laser beam that traps and holds a \u003cstrong\u003esingle atom\u003c/strong\u003e in place.\nAn array of such beams becomes an array of qubits.\u003c/p\u003e"
+    },
+    {
+      "id": "card_293b43#1",
+      "format": "quiz",
+      "prompt": "Why does the array need movable 'transport tweezers' at all?",
+      "choices": [
+        {
+          "text": "Atoms load into traps at random, so some sites start empty and must be filled by moving atoms in",
+          "correct": true
+        },
+        {
+          "text": "The atoms would otherwise overheat and evaporate",
+          "correct": false
+        },
+        {
+          "text": "Moving the atoms is what entangles them",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eLoading is probabilistic, so a freshly loaded array is full of gaps. Up to 50 parallel transport\ntweezers relocate atoms until the target pattern is defect-free.\u003c/p\u003e"
+    },
+    {
+      "id": "card_293b43#2",
+      "format": "quiz",
+      "prompt": "What architectural choice let the group scale past previous limits?",
+      "choices": [
+        {
+          "text": "Separating intensity equalization and tweezer patterning into distinct optical units",
+          "correct": true
+        },
+        {
+          "text": "Cooling the whole apparatus with liquid helium",
+          "correct": false
+        },
+        {
+          "text": "Using heavier atomic species with deeper traps",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eDoing high-power, high-resolution, large-scale light control in one device is what caps array size.\nModularizing the two functions removes that restriction.\u003c/p\u003e"
+    }
+  ]
+}

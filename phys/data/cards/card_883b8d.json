@@ -1,0 +1,130 @@
+{
+  "id": "card_883b8d",
+  "slug": "lattice-qcd-confirms-strong-cp-problem",
+  "type": "paper",
+  "title": "Lattice QCD Confirms the Strong CP Problem Is Real",
+  "hook": "The strong force is allowed to violate CP symmetry, but the neutron refuses to show it. A lattice calculation pins how unnaturally small that knob must be: one part in 100 billion.",
+  "key_points": [
+    "QCD permits a CP-violating term whose size is set by a free parameter, the theta angle.",
+    "A non-zero theta would give the neutron a measurable electric dipole moment; experiments see none.",
+    "The puzzle is why nature picked a value so close to zero — the strong CP problem.",
+    "The team computed the neutron's dipole moment sensitivity to theta directly from lattice QCD.",
+    "They used the Feynman-Hellmann theorem with a background electric field and domain wall fermions.",
+    "Comparing to experiment gives a bound on theta of roughly 1e-11, confirming the fine-tuning is real."
+  ],
+  "content_html": "\u003cp\u003eQuantum chromodynamics, the theory of the strong force, contains a term that would violate CP symmetry. Its strength is set by a free parameter, the theta angle, and nothing in the theory says how big it should be — a number of order one would be perfectly natural. Yet if theta were anywhere near one, the neutron would carry a sizeable electric dipole moment, and decades of ever more sensitive experiments have failed to find one. That mismatch is the strong CP problem, and it is a leading motivation for the axion.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTurning the experimental non-detection into a bound on theta requires knowing how strongly the neutron's dipole moment responds to it, and that is a non-perturbative QCD calculation — the coupling is too strong for the usual expansion, so the theory has to be simulated on a discretised spacetime lattice.\u003c/p\u003e\n\u003cp\u003eThomas Blum and colleagues report a new route to it. Rather than the usual approach, they apply the Feynman-Hellmann theorem, computing the dipole moment from the matrix element of the local topological charge density between nucleon ground states that a background electric field has spatially polarised. Those states have mixed spatial parity and are constructed through variational analysis. Working with 2+1 dynamical domain wall fermions at pion masses of 340, 420 and 576 MeV and a lattice spacing near 0.11 fm, they extract a statistically significant signal and extrapolate to the physical point.\u003c/p\u003e\n\u003cp\u003eThe result implies the theta angle must be smaller than roughly 10^-11 — confirming, as the authors put it, that the strong CP problem genuinely exists rather than being an artefact of an imprecise calculation. They note the same local-topological-charge method should extend to other CP-violating interactions.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Thomas Blum",
+      "Fangcheng He",
+      "Taku Izubuchi",
+      "Luchang Jin",
+      "Hiroshi Ohki",
+      "Sergey Syritsyn"
+    ],
+    "url": "https://arxiv.org/abs/2608.22587",
+    "published_at": "2026-08-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper",
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-27",
+  "date": "2026-08-23",
+  "related": [
+    {
+      "id": "card_13b1bf",
+      "slug": "the-force-on-a-quark",
+      "type": "paper",
+      "title": "Measuring the force that traps a quark inside the proton",
+      "hook": "Nobody has ever seen a free quark. A sharpened reconstruction of the actual force tugging on one inside the proton comes out looking like a string pulled at constant tension.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_28f014",
+      "slug": "res-nova-archaeological-lead-axions",
+      "type": "paper",
+      "title": "Hunting Solar Axions With Ancient Lead",
+      "hook": "A detector built from archaeological lead was designed to catch supernova neutrinos. It turns out the same crystals are a competitive net for axions streaming out of the Sun.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_8608fa",
+      "slug": "muon-electric-dipole-moment-limit",
+      "type": "paper",
+      "title": "Is the Muon Lopsided? Still No Sign of It",
+      "hook": "A particle with a permanent electric dipole moment would violate time-reversal symmetry and point straight at new physics. Muon g-2 just squeezed the muon's limit tighter — and it stays at zero.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-11"
+    },
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_883b8d#0",
+      "format": "quiz",
+      "prompt": "What is the strong CP problem?",
+      "choices": [
+        {
+          "text": "QCD allows a CP-violating term, but nature's value for it is unnaturally close to zero",
+          "correct": true
+        },
+        {
+          "text": "The strong force violates CP symmetry far more than experiments can explain",
+          "correct": false
+        },
+        {
+          "text": "CP violation has never been observed in any interaction",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe theta angle could be anything of order one, yet the absent neutron\nelectric dipole moment forces it below about 1e-11 — a suspicious fine-tuning.\u003c/p\u003e"
+    },
+    {
+      "id": "card_883b8d#1",
+      "format": "flip",
+      "prompt": "Why is the neutron's electric dipole moment the key measurement here?",
+      "back_html": "\u003cp\u003eA non-zero theta angle would give the neutron a dipole moment proportional\nto it, so the experimental non-detection translates into a bound on theta.\u003c/p\u003e"
+    },
+    {
+      "id": "card_883b8d#2",
+      "format": "flip",
+      "prompt": "Why is this calculation hard enough to need a lattice?",
+      "back_html": "\u003cp\u003eThe effect lives in non-perturbative QCD, where the coupling is too strong\nfor perturbation theory — so the theory is simulated on a spacetime lattice instead.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "card_80e637",
+  "slug": "electromagnetic-spectrum",
+  "type": "concept",
+  "title": "The Electromagnetic Spectrum",
+  "hook": "Radio, microwaves, the warmth of sunlight, the colors you see, and a hospital X-ray are all the same thing — electromagnetic waves, differing only in wavelength.",
+  "key_points": [
+    "Radio, microwave, infrared, visible, ultraviolet, X-ray, and gamma are one family of electromagnetic waves.",
+    "They differ only in wavelength and frequency, not in their underlying nature.",
+    "Shorter wavelength means higher frequency and higher energy per photon.",
+    "Visible light is a tiny slice of the full spectrum, the part our eyes evolved to see."
+  ],
+  "content_html": "\u003cp\u003eIt's tempting to think radio waves, the heat from a fire, the colors of a sunset, and a medical X-ray are unrelated. They're not. Every one of them is an electromagnetic wave, and the only thing that changes from one to the next is the wavelength — how far apart the wave's peaks are — and the matching frequency.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eLine them up from longest wavelength to shortest and you get the electromagnetic spectrum: radio, microwave, infrared, visible light, ultraviolet, X-ray, and gamma. Shorter wavelength means higher frequency, which means more energy per photon — that's why gamma rays are dangerous and radio waves pass through you harmlessly. The colors your eyes can see make up just a sliver in the middle, the band where the Sun shines brightest and our vision evolved to take advantage of it. Wikipedia lays out the full lineup band by band.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Electromagnetic_spectrum",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "light-optics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_3d6a44",
+      "slug": "is-light-a-wave-or-particle",
+      "type": "concept",
+      "title": "Is Light a Wave or a Particle?",
+      "hook": "Light behaves like a wave in some experiments and like a stream of particles in others — and the surprising answer is that it's both.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_1c33ae",
+      "slug": "electromagnetism",
+      "type": "concept",
+      "title": "Electricity \u0026 Magnetism Are One Force",
+      "hook": "Move a magnet near a wire and you make electricity; run current through a wire and you make a magnet. They're two faces of the same force.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_81ea43",
+      "slug": "material-upconverts-sunlight-to-uv",
+      "type": "news",
+      "title": "A Material That Turns Sunlight Into UV Light",
+      "hook": "A new solid material soaks up ordinary visible sunlight and re-emits it as higher-energy ultraviolet — running uphill in energy, which light rarely does on its own.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-26"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_80e637#0",
+      "format": "flip",
+      "prompt": "What do radio waves, visible light, and X-rays have in common?",
+      "back_html": "\u003cp\u003eThey are all \u003cstrong\u003eelectromagnetic waves\u003c/strong\u003e — the same kind of wave, differing\nonly in wavelength and frequency.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80e637#1",
+      "format": "quiz",
+      "prompt": "Across the electromagnetic spectrum, shorter wavelength means...",
+      "choices": [
+        {
+          "text": "Higher frequency and higher energy",
+          "correct": true
+        },
+        {
+          "text": "Lower frequency and lower energy",
+          "correct": false
+        },
+        {
+          "text": "Slower travel through a vacuum",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWavelength and frequency are inversely related, and higher-frequency waves\ncarry more energy per photon — so gamma rays pack far more punch than radio.\u003c/p\u003e"
+    },
+    {
+      "id": "card_80e637#2",
+      "format": "quiz",
+      "prompt": "Where does visible light sit in the spectrum?",
+      "choices": [
+        {
+          "text": "It's a tiny slice in the middle, the part our eyes can detect",
+          "correct": true
+        },
+        {
+          "text": "It covers most of the spectrum",
+          "correct": false
+        },
+        {
+          "text": "It's a separate phenomenon, not electromagnetic",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eVisible light spans only a narrow band of wavelengths; the spectrum extends\nfar beyond it in both directions, from radio to gamma rays.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "card_6b3c49",
+  "slug": "neutron-star-black-hole-evaporation-neutrinos",
+  "type": "paper",
+  "title": "High-Energy Neutrinos from Black Hole Evaporation in Neutron Stars",
+  "hook": "A new theory chains four wild ideas together: dark matter piling up in a neutron star, collapsing into a microscopic black hole, evaporating away — and leaving behind detectable neutrinos.",
+  "key_points": [
+    "Dark matter can accumulate inside a neutron star and, if dense enough, collapse into a tiny black hole.",
+    "If that black hole evaporates (Hawking radiation) faster than it swallows matter, it releases exotic particles.",
+    "Those particles escape the star and decay into high-energy neutrinos.",
+    "The capture-collapse-evaporation cycle can repeat, falling into two distinct physical regimes.",
+    "The predicted neutrino spectrum peaks above roughly 10 TeV, concentrated toward the galactic center.",
+    "Predicted rates are small but could add up to a percent of the observed galactic neutrino flux."
+  ],
+  "content_html": "\u003cp\u003eA new arXiv preprint by Ioannis Dalianis traces a speculative but concrete chain connecting some of physics' strangest ideas. If dark matter particles pile up inside a neutron star and are dense enough, they could gravitationally collapse into a microscopic black hole. Should that black hole's Hawking evaporation win out over it swallowing more matter, the evaporation releases long-lived, exotic particles that escape the neutron star and decay into high-energy neutrinos.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eDalianis models this cycle of dark-matter capture, black-hole formation, and evaporation repeating over and over, finding two distinct regimes set by how fast the trapped dark matter heats up versus how fast the collapse cycle repeats — including one regime where the dark-matter cloud reaches a temperature far exceeding the neutron star's own core. The resulting neutrino spectrum is predicted to be broad, peaking above roughly 10 TeV, with a galactic component concentrated toward the Galactic Center. The predicted event rates are small, but under favorable conditions could contribute at the percent level to the high-energy neutrino flux astronomers already observe from the galaxy — a new theoretical thread linking dark matter, neutron stars, and neutrino astronomy.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Ioannis Dalianis"
+    ],
+    "url": "https://arxiv.org/abs/2607.13755",
+    "published_at": "2026-07-15",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-15",
+  "related": [
+    {
+      "id": "card_548bd7",
+      "slug": "black-hole-evaporation-exact-4d-solution",
+      "type": "paper",
+      "title": "The First Exact Picture of a Black Hole Evaporating in Our Universe",
+      "hook": "Physicists have finally worked out, in exact mathematical form, how a real 3D black hole's geometry evolves as it evaporates — previously solved only in toy 2D universes.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "card_37dae0",
+      "slug": "tracking-the-elusive-neutrino",
+      "type": "news",
+      "title": "Catching the Ghost Particle",
+      "hook": "Trillions of neutrinos stream through your body every second, yet they almost never touch anything. To catch even a few, physicists build some of the most audacious detectors ever conceived.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-24"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6b3c49#0",
+      "format": "flip",
+      "prompt": "What chain of events could turn a neutron star into a neutrino source, per this theory?",
+      "back_html": "\u003cp\u003eDark matter piles up inside the star, collapses into a microscopic black hole,\nwhich evaporates via Hawking radiation and releases particles that decay into high-energy neutrinos.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6b3c49#1",
+      "format": "quiz",
+      "prompt": "What determines whether the tiny black hole evaporates instead of just growing?",
+      "choices": [
+        {
+          "text": "Whether Hawking evaporation dominates over the black hole swallowing more matter",
+          "correct": true
+        },
+        {
+          "text": "The neutron star's rotation speed",
+          "correct": false
+        },
+        {
+          "text": "How many neutrinos have already been detected from it",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWhen evaporation wins out over accretion, the black hole releases long-lived\nparticles that escape the star and decay into high-energy neutrinos.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6b3c49#2",
+      "format": "quiz",
+      "prompt": "Where does the predicted neutrino spectrum peak, and where is the galactic signal concentrated?",
+      "choices": [
+        {
+          "text": "Above roughly 10 TeV, concentrated toward the Galactic Center",
+          "correct": true
+        },
+        {
+          "text": "Below 1 GeV, spread evenly across the whole sky",
+          "correct": false
+        },
+        {
+          "text": "Only at the galaxy's north and south poles",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe model predicts a broad neutrino spectrum peaking above about 10 TeV, with\nthe Galactic component strongly concentrated toward the Galactic Center.\u003c/p\u003e"
+    }
+  ]
+}

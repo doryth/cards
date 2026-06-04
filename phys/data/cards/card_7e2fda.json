@@ -1,0 +1,115 @@
+{
+  "id": "card_7e2fda",
+  "slug": "dark-matter-neutrino-scattering-constrained",
+  "type": "paper",
+  "title": "Ancient Quasar Light Just Ruled Out a Dark Matter Idea",
+  "hook": "Light from distant quasars, filtered through hydrogen gas, just delivered the tightest-ever limit on whether dark matter secretly bumps into neutrinos — ruling out earlier hints that it might.",
+  "key_points": [
+    "One idea: dark matter might weakly scatter off neutrinos, smoothing small-scale clumping.",
+    "The Lyman-α forest — absorption lines from quasar light through hydrogen gas — tracks that clumping.",
+    "The authors ran full hydrodynamical simulations across a range of interaction strengths.",
+    "They trained a fast emulator and fit it to high-resolution Lyman-α data via MCMC.",
+    "Result: the strongest direct bound to date, ruling out prior hints of the interaction.",
+    "A common shortcut — reusing 'warm dark matter' bounds — would overestimate the constraint's strength."
+  ],
+  "content_html": "\u003cp\u003eCould dark matter be quietly bumping into neutrinos? One proposed model says dark matter and neutrinos weakly scatter off each other, which would smooth out how clumpy matter is on small scales in the early universe. To test it, researchers turned to the Lyman-α forest: the pattern of absorption lines etched into light from distant quasars as it passes through intervening clouds of hydrogen gas, a sensitive tracer of small-scale clumpiness.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eMarkus Mosbech and colleagues ran a suite of full hydrodynamical simulations spanning a range of interaction strengths and thermal histories, trained a fast emulator on the results, and fit it against high-resolution Lyman-α data using a statistical (MCMC) analysis. The result is the strongest direct bound to date on dark matter-neutrino scattering — tight enough to rule out earlier hints in the literature that such an interaction might be nonzero. The authors also show that a common shortcut, mapping these constraints from existing \u0026quot;warm dark matter\u0026quot; bounds, would have overestimated how constraining the data really is for this specific model — meaning dedicated simulations like theirs are necessary to get the answer right.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Markus R. Mosbech",
+      "Olga Garcia-Gallego",
+      "Vid Iršič"
+    ],
+    "url": "https://arxiv.org/abs/2607.15020",
+    "published_at": "2026-07-16",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-16",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_007ce6",
+      "slug": "two-species-dark-matter-theory",
+      "type": "news",
+      "title": "What If Dark Matter Comes in Two Flavors?",
+      "hook": "A single, simple particle can't explain everything odd about dark matter. A new model splits it into two — a heavy kind and a light kind — that quietly sort themselves over cosmic time.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7e2fda#0",
+      "format": "flip",
+      "prompt": "What dark matter idea does this Lyman-α forest study test?",
+      "back_html": "\u003cp\u003eThat dark matter weakly scatters off neutrinos, which would smooth out small-scale\nclumping of matter in the early universe.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7e2fda#1",
+      "format": "quiz",
+      "prompt": "What is the Lyman-α forest, and why is it useful here?",
+      "choices": [
+        {
+          "text": "Absorption lines from quasar light passing through hydrogen gas — a sensitive tracer of small-scale clumpiness",
+          "correct": true
+        },
+        {
+          "text": "A literal forest of hydrogen atoms visible through a telescope",
+          "correct": false
+        },
+        {
+          "text": "The spectrum of light emitted directly by dark matter particles",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAbsorption lines from quasar light passing through hydrogen gas — a sensitive\ntracer of small-scale clumpiness.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7e2fda#2",
+      "format": "quiz",
+      "prompt": "What did the new constraint on dark matter-neutrino scattering find?",
+      "choices": [
+        {
+          "text": "The strongest direct bound to date, ruling out earlier hints that the interaction might be nonzero",
+          "correct": true
+        },
+        {
+          "text": "Strong evidence that dark matter definitely scatters off neutrinos",
+          "correct": false
+        },
+        {
+          "text": "That dark matter and neutrinos are the same particle",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe strongest direct bound to date, ruling out earlier hints that the interaction\nmight be nonzero.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7e2fda#3",
+      "format": "flip",
+      "prompt": "Why did the authors run dedicated simulations instead of reusing 'warm dark matter' bounds?",
+      "back_html": "\u003cp\u003eMapping warm dark matter constraints to this model would have overestimated how\nconstraining the data really is — dedicated simulations were needed.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "card_1d904c",
+  "slug": "why-primaries-go-to-a-runoff",
+  "type": "news",
+  "title": "Why Some Primaries Need a Second Round",
+  "hook": "Win 34 percent of a crowded primary and in some states you're the nominee. In others, you go to a runoff — a rule that quietly reshapes which candidates survive.",
+  "key_points": [
+    "Some jurisdictions nominate whoever finishes first; others require a majority, sending the top two to a runoff.",
+    "A runoff prevents a candidate with narrow but intense support from winning a fragmented field.",
+    "The cost is a second election: lower turnout, more spending, and a longer campaign.",
+    "NPR reports Sen. Darline Graham and Rep. Ralph Norman advanced to a South Carolina GOP special primary runoff for U.S. Senate later in August 2026.",
+    "The seat was being filled by special election, with Graham serving out the remainder of her brother's term."
+  ],
+  "content_html": "\u003cp\u003eA detail that decides more nominations than most voters realize: what counts as winning. Some jurisdictions simply nominate whoever finishes first, so a candidate can carry a crowded primary with a third of the vote. Others require a majority, and if nobody clears it, the top two finishers meet again in a runoff. NPR's Gavin Jackson reports that in South Carolina's GOP special primary for U.S. Senate, Sen. Darline Graham — serving out the remainder of her brother's term — and Rep. Ralph Norman both advanced to a runoff scheduled later in August 2026.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe rule embodies a real trade-off. A plurality rule is cheap and fast, but in a fragmented field it can hand the nomination to a candidate most of the party's voters actively opposed, since the opposition was split across several rivals. A majority rule fixes that by forcing a head-to-head choice, which tends to reward candidates with broad acceptability over those with an intense but narrow base. The price is another whole election: additional cost for the state and the campaigns, several more weeks of contest, and — reliably — lower turnout, so the electorate that picks the nominee in round two is often smaller and different from the one that voted in round one. None of this is unique to American primaries. The same logic drives two-round presidential elections in many countries, and it is the reason ranked-choice voting is sometimes offered as an alternative: it seeks a majority winner without making voters come back a second time.\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Gavin Jackson"
+    ],
+    "url": "https://npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
+    "published_at": "2026-08-11",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "elections-voting-systems",
+    "parties-and-ideologies"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-13",
+  "date": "2026-08-11",
+  "related": [
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4e842b",
+      "slug": "filling-senate-vacancies",
+      "type": "news",
+      "title": "What Happens When a Senator's Seat Suddenly Opens Up",
+      "hook": "When Sen. Lindsey Graham died in office in July 2026, South Carolina didn't call a snap election — it triggered a replacement process most voters never think about until it happens.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "card_fa0ec9",
+      "slug": "who-sets-the-primary-calendar",
+      "type": "news",
+      "title": "Who Decides Which State Votes First?",
+      "hook": "The order states vote in a presidential nominating contest isn't set by any constitution — it's a party rule, and parties rewrite it to change whose voters get courted first.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_ee55cb",
+      "slug": "voter-turnout-and-engagement",
+      "type": "concept",
+      "title": "Voter Turnout \u0026 Engagement",
+      "hook": "Who shows up changes who wins. Turnout — the share of eligible people who actually vote — is one of the quiet forces shaping every election.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_aaa41e",
+      "slug": "voting-systems-overview",
+      "type": "concept",
+      "title": "How Votes Become Seats",
+      "hook": "The same ballots can produce very different results depending on the electoral system used to count them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_1d904c#0",
+      "format": "flip",
+      "prompt": "What triggers a primary runoff in states that use them?",
+      "back_html": "\u003cp\u003eNo candidate clearing the required majority in the first round. The top two\nfinishers then face each other in a second election.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1d904c#1",
+      "format": "quiz",
+      "prompt": "What problem is a majority-runoff rule designed to solve?",
+      "choices": [
+        {
+          "text": "A candidate with narrow but intense support winning because the field was fragmented",
+          "correct": true
+        },
+        {
+          "text": "Too few candidates entering the race",
+          "correct": false
+        },
+        {
+          "text": "Voters casting ballots in the wrong district",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith many candidates splitting the vote, a plurality winner may be opposed\nby most of the electorate. A runoff forces a head-to-head majority choice.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1d904c#2",
+      "format": "quiz",
+      "prompt": "What is the main practical cost of a runoff?",
+      "choices": [
+        {
+          "text": "A whole second election — typically with lower turnout and more spending",
+          "correct": true
+        },
+        {
+          "text": "It voids the first round's results entirely",
+          "correct": false
+        },
+        {
+          "text": "It requires a court to certify the nominee",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRunoffs are separate elections held weeks later, and fewer voters return\nfor them, so the deciding electorate can be smaller than the first round's.\u003c/p\u003e"
+    }
+  ]
+}

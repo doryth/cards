@@ -1,0 +1,133 @@
+{
+  "id": "card_b6a1bf",
+  "slug": "how-rockets-work",
+  "type": "concept",
+  "title": "How Rockets Work",
+  "hook": "A rocket doesn't push against the air or the ground — it pushes against its own exhaust. Throw mass backward fast enough and you get thrown forward, even in empty space.",
+  "key_points": [
+    "A rocket hurls hot gas out the back; by conservation of momentum, it recoils forward.",
+    "It's Newton's third law: the rocket pushes the exhaust, the exhaust pushes the rocket.",
+    "Rockets work best in the vacuum of space — they need nothing to push against.",
+    "More exhaust mass and higher exhaust speed mean more thrust."
+  ],
+  "content_html": "\u003cp\u003eThere's a stubborn myth that rockets fly by pushing against the air or the ground. They don't — and that's lucky, because there's nothing to push against in space. A rocket works on conservation of momentum: it burns fuel and flings the resulting hot gas out the back at tremendous speed. That exhaust carries momentum in one direction, so the rocket must gain an equal momentum in the other. It's Newton's third law made vivid — the engine pushes the exhaust down, the exhaust pushes the rocket up.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eBecause the push comes entirely from throwing mass overboard, a rocket actually performs better in the vacuum of space than in the atmosphere, where air just gets in the way. The same principle explains why a fire extinguisher can scoot you across a frictionless floor, or why a deflating balloon zips around the room. To get more thrust, an engine either throws out more mass each second or throws it faster; real rockets do both, which is why they roar. Wikipedia details the momentum bookkeeping and the engineering that follows from it.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rocket",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "momentum-collisions",
+    "motion-forces"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_3776ab",
+      "slug": "conservation-of-momentum",
+      "type": "concept",
+      "title": "Conservation of Momentum",
+      "hook": "Fire a gun and it kicks back; push off a friend on skates and you both glide apart. Total momentum never changes unless an outside force interferes.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d32c83",
+      "slug": "newtons-three-laws",
+      "type": "concept",
+      "title": "Newton's Three Laws of Motion",
+      "hook": "Three short rules — inertia, F=ma, and action-reaction — quietly govern almost everything that moves around you.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a13f1f",
+      "slug": "what-is-momentum",
+      "type": "concept",
+      "title": "Momentum: The Quantity of Motion",
+      "hook": "A slow freight train and a fast bullet are both brutally hard to stop. Momentum captures why: it's mass times velocity, the real measure of moving 'oomph'.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_8f7ece",
+      "slug": "dual-mode-spacecraft-propulsion",
+      "type": "news",
+      "title": "One Fuel, Two Kinds of Rocket Engine",
+      "hook": "Spacecraft face a brutal trade-off: chemical engines give big shoves but guzzle fuel; electric ones sip fuel but barely push. MIT showed one propellant can do both.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-10"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_3776ab",
+      "slug": "conservation-of-momentum",
+      "type": "concept",
+      "title": "Conservation of Momentum",
+      "hook": "Fire a gun and it kicks back; push off a friend on skates and you both glide apart. Total momentum never changes unless an outside force interferes.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_b6a1bf#0",
+      "format": "flip",
+      "prompt": "In terms of momentum, why does a rocket move forward?",
+      "back_html": "\u003cp\u003eIt throws exhaust \u003cstrong\u003ebackward\u003c/strong\u003e, and to keep total momentum constant the rocket\nmust gain equal momentum \u003cstrong\u003eforward\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b6a1bf#1",
+      "format": "quiz",
+      "prompt": "Why can a rocket accelerate in the vacuum of space?",
+      "choices": [
+        {
+          "text": "It pushes against its own expelled exhaust, not the surroundings",
+          "correct": true
+        },
+        {
+          "text": "It pushes against the air behind it",
+          "correct": false
+        },
+        {
+          "text": "It pushes off the launch pad the whole way up",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThrust comes from ejecting mass, so a rocket needs nothing external to push\non. It actually works \u003cem\u003ebetter\u003c/em\u003e in vacuum, with no air resistance.\u003c/p\u003e"
+    },
+    {
+      "id": "card_b6a1bf#2",
+      "format": "quiz",
+      "prompt": "What makes a rocket engine produce more thrust?",
+      "choices": [
+        {
+          "text": "Ejecting more mass per second and at higher speed",
+          "correct": true
+        },
+        {
+          "text": "Having a larger, heavier body",
+          "correct": false
+        },
+        {
+          "text": "Pointing the nose more steeply upward",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThrust is the rate of momentum thrown out the back — boost either the exhaust\nmass flow or its speed and the forward push grows.\u003c/p\u003e"
+    }
+  ]
+}

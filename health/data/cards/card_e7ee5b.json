@@ -1,0 +1,92 @@
+{
+  "id": "card_e7ee5b",
+  "slug": "broken-heart-syndrome",
+  "type": "news",
+  "title": "\"Broken Heart Syndrome\" Looks Exactly Like a Heart Attack",
+  "hook": "Sudden grief or shock can stun the heart muscle badly enough to mimic a heart attack — same chest pain, same ECG changes. A new blood-based score may tell them apart without threading a catheter.",
+  "key_points": [
+    "Takotsubo, or \"broken heart syndrome,\" is a sudden weakening of the heart muscle usually triggered by intense emotional or physical stress.",
+    "It mimics a heart attack so closely that patients often need invasive cardiac catheterization to distinguish the two.",
+    "Researchers built the BioTAK score, combining biological sex with blood biomarkers, to flag the condition before catheterization.",
+    "In a validation study of nearly 1,800 patients, BioTAK correctly classified almost 90% of participants.",
+    "Practical takeaway is unchanged: the symptoms are indistinguishable at home, so treat them as a heart attack and call emergency services."
+  ],
+  "content_html": "\u003cp\u003e\u0026quot;Broken heart syndrome\u0026quot; is a real cardiac diagnosis — clinicians call it takotsubo — in which intense emotional or physical stress temporarily stuns the heart muscle. The trouble is that it presents like a heart attack: the same chest pain, the same alarming ECG, similar blood markers. Historically the only reliable way to separate the two has been to thread a catheter into the coronary arteries and look for a blockage that, in takotsubo, isn't there.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, researchers have developed a scoring tool called BioTAK that combines biological sex with a panel of blood biomarkers to identify takotsubo earlier in the workup. In a validation study of nearly 1,800 patients, the score correctly classified almost 90% of participants — enough, the authors suggest, to spare some people an invasive procedure.\u003c/p\u003e\n\u003cp\u003eFor everyone outside a cath lab, the lesson runs the other way. Because the two conditions are genuinely indistinguishable by symptoms, chest pain after a shock is not a reason to wait and see. Treat it as a heart attack and call emergency services; sorting out which one it was is the hospital's job.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/09/260901070518.htm",
+    "published_at": "2026-09-02",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "chronic-conditions",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-09-03",
+  "date": "2026-09-02",
+  "related": [
+    {
+      "id": "card_fc9417",
+      "slug": "keeping-your-heart-healthy",
+      "type": "concept",
+      "title": "Keeping Your Heart Healthy",
+      "hook": "Most heart disease isn't bad luck — it's the sum of a few everyday habits. The American Heart Association distills them into eight that move the needle most.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_12f601",
+      "slug": "what-stress-does-to-your-body",
+      "type": "concept",
+      "title": "What Stress Does to Your Body",
+      "hook": "A jolt of stress is useful — it sharpens you for a real threat. The problem is when the alarm never switches off, and the body pays for staying on high alert.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_a6b2b6",
+      "slug": "aortic-dissection",
+      "type": "news",
+      "title": "What Is an Aortic Dissection?",
+      "hook": "A tear in the wall of the body's largest artery — the emergency behind Sen. Lindsey Graham's death — can go from first symptom to fatal in minutes. Here's what it is and why speed matters.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-07-14"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e7ee5b#0",
+      "format": "quiz",
+      "prompt": "If you had sudden crushing chest pain after a severe emotional shock, what should you do?",
+      "choices": [
+        {
+          "text": "Call emergency services — the symptoms are indistinguishable from a heart attack",
+          "correct": true
+        },
+        {
+          "text": "Wait it out, since stress-related chest pain resolves on its own",
+          "correct": false
+        },
+        {
+          "text": "Take an antacid and reassess in the morning",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTakotsubo mimics a heart attack so closely that even cardiologists have needed invasive\ncatheterization to tell them apart. Nothing you can assess at home distinguishes them.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e7ee5b#1",
+      "format": "flip",
+      "prompt": "What problem is the BioTAK score meant to solve?",
+      "back_html": "\u003cp\u003eTelling takotsubo from a true heart attack \u003cstrong\u003ewithout cardiac catheterization\u003c/strong\u003e. It combines\nbiological sex with blood biomarkers, and correctly classified nearly 90% of participants\nin a validation study of about 1,800 patients.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "card_4905d9",
+  "slug": "wine-beer-or-spirits",
+  "type": "news",
+  "title": "Wine, Beer, or Spirits — Does the Drink Matter?",
+  "hook": "In 340,000 adults tracked for a decade, heavy drinking raised mortality no matter what was in the glass. At lower intakes, wine looked different from beer and spirits.",
+  "key_points": [
+    "The study followed more than 340,000 adults for over a decade.",
+    "At heavy intake, risk of death rose regardless of beverage type.",
+    "At lower intake, beer, cider, and spirits were linked to higher mortality.",
+    "Wine at lower intake was associated with lower risk.",
+    "Moderate wine drinkers had 21% lower cardiovascular death risk than rare or never drinkers.",
+    "Wine drinkers differ from beer and spirits drinkers in diet, income, and habits."
+  ],
+  "content_html": "\u003cp\u003eDoes it matter whether your alcohol arrives as wine, beer, or spirits? A study following more than 340,000 adults for over a decade found the answer depends entirely on how much you drink.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs ScienceDaily reports, at heavy intake the beverage was irrelevant: risk of death climbed regardless of what was in the glass. At lower levels the picture split. Beer, cider, and spirits were linked to higher mortality, while wine was associated with lower risk — moderate wine drinkers showed a 21% lower risk of cardiovascular death than people who rarely or never drank.\u003c/p\u003e\n\u003cp\u003eThat 21% is the number to be careful with. This is observational research, and wine drinking in these cohorts travels with a lot of other things: drinking with meals rather than in sessions, higher income, different diets, different smoking rates. Decades of \u0026quot;moderate drinking is protective\u0026quot; findings have eroded as researchers got better at accounting for exactly these confounders — particularly the tendency for the \u0026quot;never drinks\u0026quot; comparison group to include people who quit because they were already ill. The finding is worth knowing; it isn't grounds for taking up wine.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260808235008.htm",
+    "published_at": "2026-08-09",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "substance-use",
+    "health-news"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-09",
+  "related": [
+    {
+      "id": "card_8bc5c3",
+      "slug": "alcohol-and-your-health",
+      "type": "concept",
+      "title": "Alcohol and Your Health",
+      "hook": "There's no amount of alcohol proven to be good for you — but there's a meaningful difference between a glass with dinner and patterns that quietly raise your risk of cancer, liver disease, and more.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "card_472978",
+      "slug": "drinking-to-cope-rewires-brain",
+      "type": "news",
+      "title": "Drinking to Cope With Stress May Permanently Rewire the Brain",
+      "hook": "Using alcohol to cope with stress at a young age may permanently change the brain — making it harder to adapt to future challenges and raising the risk of drinking again later in life.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-03"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4905d9#0",
+      "format": "flip",
+      "prompt": "What happened at heavy drinking levels, regardless of beverage?",
+      "back_html": "\u003cp\u003eRisk of death rose no matter what people drank. The differences between wine,\nbeer, cider, and spirits only appeared at lower levels of intake.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4905d9#1",
+      "format": "quiz",
+      "prompt": "Why is 'wine is healthier' the wrong conclusion to draw from this study?",
+      "choices": [
+        {
+          "text": "Wine drinkers differ from other drinkers in diet, income, and lifestyle",
+          "correct": true
+        },
+        {
+          "text": "Because the study only included people over 80",
+          "correct": false
+        },
+        {
+          "text": "Because wine contains more alcohol per serving than spirits",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThis is observational. Wine drinking tends to travel with other patterns —\ndrinking with meals, higher income, different diets — that independently affect\nmortality, so the beverage may be a marker rather than the cause.\u003c/p\u003e"
+    }
+  ]
+}

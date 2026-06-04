@@ -1,0 +1,101 @@
+{
+  "id": "card_74ae50",
+  "slug": "biomes-of-the-world",
+  "type": "concept",
+  "title": "Biomes of the World",
+  "hook": "Deserts, rainforests, tundra, ocean — Earth sorts its life into great zones, each shaped mostly by temperature and rainfall, with similar communities appearing wherever the climate repeats.",
+  "key_points": [
+    "A biome is a large region defined by its climate and the community of life adapted to it.",
+    "Temperature and precipitation are the main forces that set which biome forms where.",
+    "Major land biomes include deserts, grasslands, forests (tropical, temperate, boreal), and tundra.",
+    "Aquatic biomes — oceans, lakes, rivers — cover most of the planet's surface."
+  ],
+  "content_html": "\u003cp\u003eTravel the planet and life doesn't change at random — it sorts into great zones called biomes. A biome is a large region defined by its climate and the community of organisms suited to it: the steamy tropical rainforest, the parched desert, the frozen tundra, the rolling grassland. What's striking is that the same kinds of biome show up on different continents wherever the climate matches, even when the actual species differ.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe master controls, as Khan Academy explains, are temperature and precipitation. Plot a place by how warm and how wet it is and you can largely predict its biome. Hot and wet gives tropical rainforest, dense with life; hot and dry gives desert, where organisms hoard water; cold gives boreal forest or, colder still, treeless tundra underlain by permafrost. Grasslands sit where there's too little rain for forest but too much for desert. And we shouldn't forget the water: aquatic biomes — the oceans most of all, plus lakes, rivers, and wetlands — cover most of Earth's surface and hold a huge share of its living things. Together these zones are the broad-brush map of where life can make a living.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/biology/ecology/biogeography/a/terrestrial-biomes",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "ecology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_a13f41",
+      "slug": "ecosystems-and-interdependence",
+      "type": "concept",
+      "title": "Ecosystems \u0026 Interdependence",
+      "hook": "An ecosystem is a community of living things plus their environment, all so tangled together that pulling one thread can shake the whole web.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cd7fc6",
+      "slug": "biodiversity-and-conservation",
+      "type": "concept",
+      "title": "Biodiversity \u0026 Conservation",
+      "hook": "Biodiversity is the full variety of life — genes, species, and ecosystems. It cleans our water, pollinates our food, and steadies the systems we depend on, and right now it's vanishing fast.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_74ae50#0",
+      "format": "flip",
+      "prompt": "What is a biome?",
+      "back_html": "\u003cp\u003eA \u003cstrong\u003elarge region defined by its climate\u003c/strong\u003e — mainly temperature and rainfall —\nand the community of plants and animals adapted to live there.\u003c/p\u003e"
+    },
+    {
+      "id": "card_74ae50#1",
+      "format": "quiz",
+      "prompt": "What two factors most strongly determine which biome forms in a region?",
+      "choices": [
+        {
+          "text": "Temperature and precipitation",
+          "correct": true
+        },
+        {
+          "text": "Soil color and altitude alone",
+          "correct": false
+        },
+        {
+          "text": "The number of human cities nearby",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u003cstrong\u003eClimate\u003c/strong\u003e — chiefly how warm a place is and how much rain it gets — sets the\nstage, which is why similar biomes appear wherever those conditions repeat.\u003c/p\u003e"
+    },
+    {
+      "id": "card_74ae50#2",
+      "format": "quiz",
+      "prompt": "Which of these is a defining feature of tundra?",
+      "choices": [
+        {
+          "text": "Cold temperatures and frozen ground (permafrost)",
+          "correct": true
+        },
+        {
+          "text": "Year-round heavy rainfall and tall trees",
+          "correct": false
+        },
+        {
+          "text": "Hot, dry sand dunes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTundra is the cold, treeless biome of the far north and high mountains, with\nshort growing seasons and a layer of permanently frozen soil called permafrost.\u003c/p\u003e"
+    }
+  ]
+}

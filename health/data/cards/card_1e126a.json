@@ -1,0 +1,89 @@
+{
+  "id": "card_1e126a",
+  "slug": "cold-flu-or-covid",
+  "type": "concept",
+  "title": "Cold, Flu, or COVID?",
+  "hook": "They share a lot of symptoms, but colds, flu, and COVID-19 differ in how fast they hit and how hard — and telling them apart can change what you do next.",
+  "key_points": [
+    "Colds come on gradually and stay mild; flu hits suddenly with fever, aches, and exhaustion.",
+    "COVID-19 overlaps with both and can only be confirmed with a test.",
+    "All three are respiratory viruses spread mainly through the air and close contact.",
+    "Testing matters because flu and COVID have antiviral treatments that work best taken early."
+  ],
+  "content_html": "\u003cp\u003eA scratchy throat and a runny nose could be any of three things, and for a while they can feel identical. Knowing the usual patterns — and when a test is worth it — helps you respond sensibly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe CDC groups colds, flu, and COVID-19 together as common respiratory viruses that spread mainly through the air and close contact, and notes their symptoms overlap heavily. There are tendencies, though. A common cold usually comes on gradually and stays mild — congestion, sneezing, sore throat. Flu tends to arrive suddenly and hit harder, with fever, body aches, and deep fatigue. COVID-19 can look like either and ranges from mild to severe, so it can't be distinguished by symptoms alone. That's why testing matters: confirming flu or COVID early opens the door to antiviral medications that work best in the first day or two, especially for people at higher risk. For all three, the same basics help — rest, fluids, staying home to avoid spreading it, and the everyday prevention of vaccines and handwashing.\u003c/p\u003e",
+  "source": {
+    "name": "U.S. Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/respiratory-viruses/index.html",
+    "license": "Public domain (U.S. CDC)"
+  },
+  "topic_ids": [
+    "common-illness"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_9bbd5f",
+      "slug": "flu-and-seasonal-shots",
+      "type": "concept",
+      "title": "Flu and Seasonal Shots",
+      "hook": "Some vaccines are a yearly habit, not a one-time event — because the viruses change, or immunity fades, and a fresh shot keeps protection current each season.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_2a9b89",
+      "slug": "when-a-symptom-needs-a-doctor",
+      "type": "concept",
+      "title": "When a Symptom Needs a Doctor",
+      "hook": "Most everyday symptoms pass on their own. The skill worth having is recognizing the red flags that mean don't wait — call for help now.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b74b25",
+      "slug": "handwashing-the-cheapest-medicine",
+      "type": "concept",
+      "title": "Handwashing: The Cheapest Medicine",
+      "hook": "It sounds almost too simple, but washing your hands well is one of the most effective things you can do to stop the spread of illness in a household.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1e126a#0",
+      "format": "quiz",
+      "prompt": "What's a typical clue that it's flu rather than a common cold?",
+      "choices": [
+        {
+          "text": "Sudden onset with fever, body aches, and exhaustion",
+          "correct": true
+        },
+        {
+          "text": "A gradual, mild runny nose only",
+          "correct": false
+        },
+        {
+          "text": "No symptoms at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFlu tends to come on abruptly with fever, aches, and fatigue, while a cold\nbuilds gradually and stays milder. COVID overlaps with both.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1e126a#1",
+      "format": "flip",
+      "prompt": "Why bother testing to tell COVID and flu apart?",
+      "back_html": "\u003cp\u003eBecause both have \u003cstrong\u003eantiviral treatments\u003c/strong\u003e that work best when started early —\nand the symptoms overlap too much to be sure without a test.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "card_3fb211",
+  "slug": "tragedy-of-the-commons",
+  "type": "concept",
+  "title": "The Tragedy of the Commons",
+  "hook": "When everyone shares a resource but no one owns it, each person's rational choice can add up to collective ruin. That trap explains a huge slice of environmental politics.",
+  "key_points": [
+    "A shared resource open to all can be overused because each user gains while all share the cost.",
+    "Individually rational choices add up to a collectively destructive outcome.",
+    "Classic examples: overfishing, pollution, and overgrazing of common land.",
+    "Solutions involve rules, ownership, or cooperation to align individual and collective interest."
+  ],
+  "content_html": "\u003cp\u003eThe tragedy of the commons is one of the most useful ideas for understanding environmental politics — and collective-action problems generally. The scenario: a resource is shared and open to all, like a common pasture, a fishery, or the atmosphere. Each individual user who takes a bit more — grazes another animal, catches more fish, emits more pollution — captures the full benefit of doing so, while the cost of the resulting depletion or damage is spread across everyone who shares the resource. So each person, acting entirely rationally in their own interest, has reason to take more. The sum of all those individually rational choices is the overuse and eventual ruin of the resource that everyone depended on.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eEncyclopaedia Britannica describes how this dynamic, popularized in a famous 1968 essay, illuminates real problems: overfished oceans, polluted air and water, and degraded common land all follow the pattern. What makes it tragic is that the outcome is bad for everyone, yet no individual can prevent it by restraining themselves alone — their sacrifice just leaves more for others to take. This is precisely why it is a \u003cem\u003epolitical\u003c/em\u003e problem and not merely a moral one: solving it requires changing the incentives that individuals face. The broad families of solution are rules and regulation (a government limits how much each may take), assigning ownership or rights (so someone bears the cost of overuse), and cooperation or self-governance (users agree among themselves and enforce the agreement). Each appears throughout environmental policy, and the tragedy of the commons is the lens that explains why purely voluntary, individual goodwill so often fails to protect shared resources.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/tragedy-of-the-commons",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "environment-and-politics"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_58bb3e",
+      "slug": "public-goods-and-the-state",
+      "type": "concept",
+      "title": "Public Goods \u0026 the State",
+      "hook": "Some things markets struggle to provide — clean air, national defense, street lighting — because no one can be charged for them. That gap is a core reason states exist.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9466c4",
+      "slug": "politics-of-climate-change",
+      "type": "concept",
+      "title": "The Politics of Climate Change",
+      "hook": "Climate change is a global commons problem at the largest scale — which is exactly why it's so politically hard: the costs are now, local, and certain; the benefits, future and shared.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bb70fb",
+      "slug": "environmental-governance",
+      "type": "concept",
+      "title": "Environmental Governance",
+      "hook": "How do you regulate something that ignores borders and belongs to no one? Environmental governance is the toolkit societies use to manage nature collectively.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_3fb211#0",
+      "format": "flip",
+      "prompt": "What is the 'tragedy of the commons'?",
+      "back_html": "\u003cp\u003eWhen a \u003cstrong\u003eshared, unowned resource is overused\u003c/strong\u003e because each user gains the\nfull benefit of taking more while the cost is spread across everyone.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3fb211#1",
+      "format": "quiz",
+      "prompt": "Why does the tragedy of the commons happen even when everyone is rational?",
+      "choices": [
+        {
+          "text": "Each user's gain is private, but the cost of overuse is shared by all",
+          "correct": true
+        },
+        {
+          "text": "Because people deliberately try to cause harm",
+          "correct": false
+        },
+        {
+          "text": "Because the resource is owned by one person",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe incentive structure rewards each individual for taking more, so\nrational individual choices sum to collective ruin.\u003c/p\u003e"
+    },
+    {
+      "id": "card_3fb211#2",
+      "format": "quiz",
+      "prompt": "What kinds of solutions address the tragedy of the commons?",
+      "choices": [
+        {
+          "text": "Rules, assigned ownership, or cooperation that align individual and collective interest",
+          "correct": true
+        },
+        {
+          "text": "Encouraging everyone to use more, faster",
+          "correct": false
+        },
+        {
+          "text": "Ignoring the problem entirely",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRegulation, property rights, or cooperative agreements change the\nincentives so individuals no longer profit from overuse.\u003c/p\u003e"
+    }
+  ]
+}

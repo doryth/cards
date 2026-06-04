@@ -1,0 +1,114 @@
+{
+  "id": "card_7a0d36",
+  "slug": "type-ia-supernova-early-flash",
+  "type": "paper",
+  "title": "Some exploding white dwarfs flash early — and nobody knows why",
+  "hook": "The first hours of a Type Ia supernova come from its outermost layers. A big survey found 17 that shine too bright too soon, and still can't say what causes it.",
+  "key_points": [
+    "Type Ia supernovae are thermonuclear blasts of carbon-oxygen white dwarfs, but their trigger is still uncertain.",
+    "Their earliest light comes from the outermost ejecta, so an early excess is a direct clue to the explosion mechanism.",
+    "Searching ZTF's DR2 sample, the team found 17 robust early-excess events; the strongest reach 10–17% of peak flux.",
+    "Two model-based searches flagged 145 and 199 candidates but disagreed substantially on which objects — a caution about method dependence.",
+    "Early-excess events favour higher-stretch supernovae in lower-mass, bluer host galaxies, hinting at younger stellar populations.",
+    "Neither the double-detonation nor the companion-interaction scenario came out ahead; at most ~25% of Type Ia show the effect."
+  ],
+  "content_html": "\u003cp\u003eThere is broad agreement that a Type Ia supernova is a carbon-oxygen white dwarf detonating in a binary system. What is much less settled is what actually lights the fuse. One promising clue hides in the first hours after the explosion: light from that window comes from the very outermost ejecta, where the signatures of different explosion mechanisms should still be visible before the bulk of the fireball takes over.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTomás E. Müller-Bravo, Kate Maguire and colleagues combed the ZTF DR2 sample for supernovae showing this early flux excess, using two complementary approaches: looking for deviations from models with no early excess (power-law and SALT2 fits), and directly comparing against double-detonation and companion-interaction models. The two model-based searches turned up 145 and 199 candidates respectively — but disagreed substantially on both which objects were selected and how many there were, a useful warning about how much such counts depend on method. Combining everything, the team identifies 17 robust candidates, six of them over-luminous (five 91T-like, one 03fg-like), with the strongest excesses reaching about 10–17% of peak flux. The best candidates tend to have higher stretch and sit in lower-mass, bluer host galaxies, pointing to younger stellar populations. Overall the authors estimate early-excess events make up no more than about 25% of all Type Ia supernovae — and find no compelling evidence that either the double-detonation or the companion-interaction scenario is the culprit.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Tomás E. Müller-Bravo",
+      "Kate Maguire",
+      "Alaa Alburai",
+      "Umut Burgaz",
+      "Georgios Dimitriadis",
+      "Lluís Galbany",
+      "Joel Johansson",
+      "Young-Lo Kim",
+      "Chang Liu",
+      "Adam A. Miller",
+      "Mathew Smith",
+      "Jesper Sollerman"
+    ],
+    "url": "https://arxiv.org/abs/2607.22050",
+    "published_at": "2026-07-24",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-24",
+  "related": [
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9018a5",
+      "slug": "ai-model-sharpens-supernova-distances",
+      "type": "news",
+      "title": "An AI Framework Could Turn Millions of Exploding Stars Into a Dark Energy Map",
+      "hook": "A new AI framework models a supernova, its host galaxy, and the dust between them all at once — squeezing spectroscopic-grade distances out of ordinary images alone.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_402dc8",
+      "slug": "cosmic-acceleration-confirmed",
+      "type": "news",
+      "title": "Dark Energy Survives a Major Challenge",
+      "hook": "A bold claim said the universe's accelerating expansion was an illusion. Astronomers checked the math, found the mistakes — and cosmic acceleration came out as strong as ever.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7a0d36#0",
+      "format": "flip",
+      "prompt": "Why is the earliest light from a Type Ia supernova so informative?",
+      "back_html": "\u003cp\u003eIt comes from the outermost ejecta, so it directly constrains the explosion mechanism and the\nprogenitor system — regions later light can't probe.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7a0d36#1",
+      "format": "quiz",
+      "prompt": "What did comparing the double-detonation and companion-interaction models show?",
+      "choices": [
+        {
+          "text": "Neither scenario was clearly preferred as the origin of the early excesses",
+          "correct": true
+        },
+        {
+          "text": "Companion interaction explained every early-excess event",
+          "correct": false
+        },
+        {
+          "text": "Double detonation was ruled out entirely by the data",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe two model-based searches flagged 145 and 199 candidates respectively but disagreed on\nwhich objects, and the authors found no compelling evidence favouring either scenario.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7a0d36#2",
+      "format": "flip",
+      "prompt": "What kind of host galaxies do early-excess Type Ia supernovae prefer?",
+      "back_html": "\u003cp\u003eLower-mass, bluer galaxies — which suggests they come preferentially from younger stellar\npopulations.\u003c/p\u003e"
+    }
+  ]
+}

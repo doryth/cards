@@ -1,0 +1,118 @@
+{
+  "id": "card_03b2ab",
+  "slug": "where-quantum-computing-helps-science",
+  "type": "paper",
+  "title": "Where Quantum Computers Will Actually Help",
+  "hook": "A sober audit of quantum computing's scientific promise: the bottleneck isn't qubit count, it's whether anyone can show a chemically meaningful gain after paying all the costs.",
+  "key_points": [
+    "Simulating molecules and materials is limited by the cost of treating electron correlation, excited states, and complex energy landscapes.",
+    "The plausible wins are correlated active spaces, better excited-state simulation, and faster search over combinatorial structure spaces.",
+    "The authors argue the central challenge is not qubit scaling but demonstrating real gains in predictive reliability.",
+    "Near-term value is more likely from disciplined integration into classical workflows than from replacing classical methods.",
+    "Usefulness claims must specify the regime: noisy devices, error-mitigated experiments, early fault-tolerant, or fully fault-tolerant.",
+    "The bar: reduce uncertainty in computed energies, rates, spectra or stability *after* counting state preparation, measurement, and error handling."
+  ],
+  "content_html": "\u003cp\u003eQuantum computers are supposed to be good at quantum problems, and chemistry is the canonical example: simulating electrons is expensive precisely because they're quantum. But \u0026quot;eventually useful\u0026quot; and \u0026quot;useful now\u0026quot; are very different claims, and this perspective piece is an attempt to keep them apart.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe authors start from where classical simulation actually hurts: electron correlation, excited states, and rugged energy landscapes. Those, they argue, are where a quantum machine might genuinely help — high-accuracy correlated active spaces, better excited-state spectra, faster search across combinatorial structure spaces. What they push back on is the framing that qubit count is the obstacle. The real test is whether a calculation reduces uncertainty in an energy, a reaction rate, a spectrum, or a materials-stability prediction \u003cem\u003eafter\u003c/em\u003e you pay for state preparation, measurement, error handling, and the classical coupling around it. On that accounting, near-term value looks likelier to come from carefully integrating quantum steps into classical workflows than from replacing them. They also ask for a discipline that's often missing: say which hardware regime you mean — noisy, error-mitigated, early fault-tolerant, or fully fault-tolerant — because the honest answer differs in each.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Bruno Camino",
+      "C. Richard A. Catlow",
+      "Vivien Kendon",
+      "Matthew J. Rosseinsky",
+      "Paul A. Warburton",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2608.16568",
+    "published_at": "2026-08-17",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "materials-tech"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-20",
+  "date": "2026-08-17",
+  "related": [
+    {
+      "id": "card_cd5a4b",
+      "slug": "qubits-and-quantum-computing",
+      "type": "concept",
+      "title": "Qubits and Quantum Computing",
+      "hook": "A normal bit is a 0 or a 1. A qubit can be both at once — and linking many of them lets a quantum computer explore a staggering number of possibilities together.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_cf6284",
+      "slug": "laptop-beats-77-qubit-chemistry-run",
+      "type": "paper",
+      "title": "A Laptop Redoes a 77-Qubit Chemistry Experiment in Under a Minute",
+      "hook": "One of the largest quantum-chemistry runs ever took 77 qubits and a supercomputer's worth of post-processing. A new classical algorithm reproduces it on a laptop — and does better.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "card_ee9c7f",
+      "slug": "chemistry-without-quantum-computers",
+      "type": "news",
+      "title": "A Chemistry Question Solved Without a Quantum Computer",
+      "hook": "Many assumed only a quantum computer could crack certain chemistry problems. A result decades in the making shows an ordinary computer can do it after all.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "card_0d948d",
+      "slug": "tensor-networks-outrun-a-quantum-simulation",
+      "type": "paper",
+      "title": "A Classical Method Redid a Quantum Chip's Showcase Run — Faster",
+      "hook": "A quantum processor simulated 7,260 measurement trajectories of a Fermi-Hubbard model. Classical tensor networks reproduced all of them more quickly, more accurately, and for longer.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_03b2ab#0",
+      "format": "quiz",
+      "prompt": "What do the authors identify as the central challenge for scientific quantum computing?",
+      "choices": [
+        {
+          "text": "Demonstrating chemically meaningful gains in predictive reliability, not just scaling qubits",
+          "correct": true
+        },
+        {
+          "text": "Reaching one million physical qubits",
+          "correct": false
+        },
+        {
+          "text": "Finding a quantum algorithm for protein folding",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eQubit count alone isn't the bottleneck. The paper's bar is a demonstrable reduction in\nuncertainty on real quantities, after all overheads are counted.\u003c/p\u003e"
+    },
+    {
+      "id": "card_03b2ab#1",
+      "format": "flip",
+      "prompt": "Which scientific problems do the authors see as the most promising quantum targets?",
+      "back_html": "\u003cp\u003eHigh-accuracy treatment of \u003cstrong\u003ecorrelated active spaces\u003c/strong\u003e, improved \u003cstrong\u003eexcited-state\u003c/strong\u003e\nsimulations, and accelerated exploration of \u003cstrong\u003ecombinatorial structure spaces\u003c/strong\u003e.\u003c/p\u003e"
+    },
+    {
+      "id": "card_03b2ab#2",
+      "format": "flip",
+      "prompt": "Why do the authors insist that usefulness claims name a hardware regime?",
+      "back_html": "\u003cp\u003eBecause noisy devices, error-mitigated utility experiments, early fault-tolerant, and\nfully fault-tolerant machines offer \u003cstrong\u003egenuinely different prospects\u003c/strong\u003e — a claim that\nholds in one regime may be meaningless in another.\u003c/p\u003e"
+    }
+  ]
+}

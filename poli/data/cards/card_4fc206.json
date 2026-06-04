@@ -1,0 +1,118 @@
+{
+  "id": "card_4fc206",
+  "slug": "donor-advised-funds-and-the-charity-gatekeeper",
+  "type": "news",
+  "title": "Who Decides Which Charities Get the Money?",
+  "hook": "A donor-advised fund gives the tax break the day money goes in — but the money legally belongs to the sponsor, and the sponsor decides which charities may receive it.",
+  "key_points": [
+    "In a donor-advised fund (DAF) the donor gets an immediate tax deduction, and the sponsoring charity takes legal ownership of the money.",
+    "The donor only *advises* where grants go; the sponsor holds the final say and can refuse a recommended charity.",
+    "Many of the largest sponsors are the nonprofit arms of financial firms, making them significant gatekeepers of charitable giving.",
+    "ProPublica reports that such sponsors have applied selective and opaque criteria when cutting off charities from grants.",
+    "The accountability gap: the deduction is already taken, there is no legal deadline to grant the money out, and exclusion decisions need not be explained."
+  ],
+  "content_html": "\u003cp\u003eA donor-advised fund is one of the most common ways large charitable gifts are made, and its mechanics surprise most people. A donor puts money into an account held by a \u003cstrong\u003esponsoring charity\u003c/strong\u003e and claims the tax deduction right away. But the money is now legally the sponsor's, not the donor's — from that point the donor may only \u003cem\u003erecommend\u003c/em\u003e which working charities receive grants. In practice sponsors nearly always follow the recommendation, which is why the arrangement feels like a personal giving account. Legally it is not, and the difference matters when the sponsor says no.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eProPublica's Ellis Simani reports on that scenario: sponsors — many of them the nonprofit arms of large financial firms, which together steward an enormous share of American charitable dollars — applying selective and opaque logic to cut particular charities off from receiving grants. The civics lesson underneath the story is about where accountability sits in this structure, and it is uncomfortable in both directions. The public has already paid its share through the deduction taken at deposit, yet no law requires the money to reach an operating charity by any particular date. The donor who intended to support a group can be overruled. And the excluded charity typically has no notice, no stated criteria, and no appeal, because the sponsor is a private organization making a private grantmaking decision rather than a government body bound by due process. This is a recurring pattern in accountability: an institution that performs a quasi-public function — allocating tax-subsidized money — while operating under private rules that require it to explain very little.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "authors": [
+      "Ellis Simani"
+    ],
+    "url": "https://propublica.org/article/donor-advised-funds-charity-contributions",
+    "published_at": "2026-08-14",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "accountability-and-corruption",
+    "media-civil-society"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-17",
+  "date": "2026-08-14",
+  "related": [
+    {
+      "id": "card_1bbd2b",
+      "slug": "interest-groups-and-lobbying",
+      "type": "concept",
+      "title": "Interest Groups \u0026 Lobbying",
+      "hook": "Between elections, organized groups press their case to government every day. Lobbying is how that pressure is applied — and it's both a feature and a worry of democracy.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_549c34",
+      "slug": "self-regulation-and-the-jurisdiction-gap",
+      "type": "news",
+      "title": "Self-Regulation and the Jurisdiction Gap",
+      "hook": "When a private body governs an activity but sits outside every regulator's remit, weak rules stop being a flaw and start being a competitive advantage.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-13"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_4fc206#0",
+      "format": "flip",
+      "prompt": "Who legally owns the money once it goes into a donor-advised fund?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003esponsoring charity\u003c/strong\u003e. The donor takes the tax deduction immediately\nbut afterwards can only \u003cem\u003eadvise\u003c/em\u003e where grants go — the sponsor decides.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4fc206#1",
+      "format": "quiz",
+      "prompt": "Why does the DAF structure create an accountability gap?",
+      "choices": [
+        {
+          "text": "The tax benefit is claimed up front, but there is no deadline requiring the money to reach a working charity",
+          "correct": true
+        },
+        {
+          "text": "Donations to DAFs are never tax-deductible at all",
+          "correct": false
+        },
+        {
+          "text": "Only the government may recommend which charities receive grants",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe public subsidy lands at deposit; the grant to an operating charity can\ncome years later, or in a given case not at all.\u003c/p\u003e"
+    },
+    {
+      "id": "card_4fc206#2",
+      "format": "quiz",
+      "prompt": "What did ProPublica report about how sponsors handle charities?",
+      "choices": [
+        {
+          "text": "Sponsors have used selective, opaque criteria when cutting charities off from grants",
+          "correct": true
+        },
+        {
+          "text": "Sponsors are required by law to publish their exclusion criteria",
+          "correct": false
+        },
+        {
+          "text": "Sponsors must fund every charity a donor names",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe reporting focuses on exclusion decisions made without transparent or\nconsistently applied standards.\u003c/p\u003e"
+    }
+  ]
+}

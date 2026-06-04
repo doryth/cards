@@ -1,0 +1,90 @@
+{
+  "id": "card_8c50b5",
+  "slug": "beyond-neutral-theory",
+  "type": "news",
+  "title": "Rethinking Neutral Evolution",
+  "hook": "A long-held idea says most genetic changes that stick around are neutral. A big new study reports beneficial mutations may be far more common than that.",
+  "key_points": [
+    "Neutral theory says most mutations that become permanent have little or no effect on fitness.",
+    "A University of Michigan study reports beneficial mutations are more common than long assumed.",
+    "The puzzle: those helpful mutations rarely sweep through a whole population.",
+    "Researchers suggest the conditions favoring a mutation keep shifting over time."
+  ],
+  "content_html": "\u003cp\u003eOne of evolution's most influential ideas is the \u0026quot;neutral theory\u0026quot;: the notion that most genetic changes which become permanent in a population are essentially neutral — they neither help nor harm survival, so they spread mostly by chance rather than by natural selection. A new study from the University of Michigan, reported by ScienceDaily, challenges that picture, finding that beneficial mutations may be far more common than scientists have long assumed.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe twist is a puzzle: if helpful mutations arise so often, why don't they reliably spread through entire populations? The researchers' proposed answer is that nature keeps changing the rules. A mutation that's advantageous under one set of conditions may lose its edge as the environment, competitors, or other genes shift around it — so it never gets the chance to sweep through. If the finding holds up, it suggests selection is busier and more dynamic than the neutral view implies, with the goalposts for \u0026quot;beneficial\u0026quot; constantly moving. As with any single study, it's a claim other researchers will now test against more data.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/05/260529030329.htm",
+    "published_at": "2026-05-29",
+    "license": "© ScienceDaily / source institution"
+  },
+  "topic_ids": [
+    "evolution"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-05",
+  "date": "2026-05-29",
+  "related": [
+    {
+      "id": "card_043084",
+      "slug": "common-descent",
+      "type": "concept",
+      "title": "The Tree of Life",
+      "hook": "Humans, mushrooms, and oak trees share an ancestor if you go back far enough — all life on Earth branches from a single common root.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_8c50b5#0",
+      "format": "flip",
+      "prompt": "What does the 'neutral theory' of evolution claim?",
+      "back_html": "\u003cp\u003eThat most genetic changes which become \u003cstrong\u003epermanent\u003c/strong\u003e in a population are\nessentially \u003cstrong\u003eneutral\u003c/strong\u003e — they don't help or hurt, so chance, not selection,\ndrives them to spread.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8c50b5#1",
+      "format": "quiz",
+      "prompt": "What did the University of Michigan study report that challenges neutral theory?",
+      "choices": [
+        {
+          "text": "Beneficial mutations are more common than long assumed",
+          "correct": true
+        },
+        {
+          "text": "Mutations almost never occur in nature",
+          "correct": false
+        },
+        {
+          "text": "All mutations are harmful",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe researchers found helpful mutations appear more often than expected — a\ncontrast with the idea that fixed changes are mostly neutral.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8c50b5#2",
+      "format": "quiz",
+      "prompt": "If beneficial mutations are common, why don't they all take over their populations?",
+      "choices": [
+        {
+          "text": "The conditions that make a mutation helpful keep changing",
+          "correct": true
+        },
+        {
+          "text": "Beneficial mutations are erased the moment they appear",
+          "correct": false
+        },
+        {
+          "text": "Populations refuse to reproduce",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe study suggests nature keeps shifting the rules, so a mutation that helps in\none moment may not keep its edge long enough to spread everywhere.\u003c/p\u003e"
+    }
+  ]
+}

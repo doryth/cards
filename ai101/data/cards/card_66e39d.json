@@ -1,0 +1,101 @@
+{
+  "id": "card_66e39d",
+  "slug": "robots-and-self-driving",
+  "type": "concept",
+  "title": "Robots \u0026 Self-Driving Cars",
+  "hook": "When AI leaves the screen and gets a body, the rules change. The physical world is messy and unforgiving — which is why self-driving cars and helpful robots arrived slower than promised.",
+  "key_points": [
+    "'Embodied AI' acts in the real world — cars, delivery bots, warehouse and home robots.",
+    "The physical world is far harder than text: rare events, split-second stakes, no undo.",
+    "Self-driving exists but rolled out slowly and cautiously; full autonomy is still partial.",
+    "Real questions: safety, liability when it goes wrong, and effects on driving jobs."
+  ],
+  "content_html": "\u003cp\u003eMost AI you meet lives on a screen. But a major frontier is \u003cstrong\u003eembodied AI\u003c/strong\u003e — putting that intelligence into machines that move through and act on the physical world: self-driving cars, sidewalk delivery bots, warehouse robots, and the long-promised helpful robot around the house. It's a natural next step, and progress is real. Yet anyone who remembers being told fully self-driving cars were \u0026quot;two years away\u0026quot; — for many years running — has learned the key lesson: the physical world is brutally harder than text.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eHere's why. A chatbot that says something wrong wastes a moment, and you just try again. A two-ton car that does something wrong at speed can kill someone — there's no undo, no second draft, and the stakes are immediate. The real world is also endlessly messy and full of \u003cstrong\u003erare, weird situations\u003c/strong\u003e (\u0026quot;edge cases\u0026quot;): a couch in the road, a cyclist doing something unexpected, snow covering the lane lines, a police officer waving you through a red light. Humans handle these with common sense; AI, which has no real understanding, can be brittle exactly when it matters most. That's why self-driving has rolled out cautiously and unevenly — impressive robotaxis operating in limited, mapped areas, and \u0026quot;driver assist\u0026quot; features that still legally require a human ready to take over, rather than true go-anywhere autonomy. The same goes for robots: great in the controlled environment of a warehouse, still clumsy in the chaos of a home. And the hardest questions aren't even technical — who's \u003cem\u003eliable\u003c/em\u003e when an autonomous machine causes harm, how safe is safe \u003cem\u003eenough\u003c/em\u003e to deploy, and what happens to the millions of people who drive for a living? Embodied AI is coming, but the gap between a clever demo and a machine you'd trust with your life on a highway is exactly the gap this technology is still working to close.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia — Self-driving car",
+    "url": "https://en.wikipedia.org/wiki/Self-driving_car",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "robots"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_ac423c",
+      "slug": "ai-agents-explained",
+      "type": "concept",
+      "title": "AI Agents: AI That Does Things",
+      "hook": "A chatbot answers; an agent acts. The new frontier is AI that can browse, click, book, and complete multi-step tasks for you — powerful, and exactly why you keep it on a leash.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_b4f14c",
+      "slug": "ai-and-jobs",
+      "type": "concept",
+      "title": "AI \u0026 Jobs",
+      "hook": "AI is less likely to take your whole job than to take certain tasks within it. The pattern through history: tools reshape work faster than they erase it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_102f69",
+      "slug": "what-ai-cant-do",
+      "type": "concept",
+      "title": "What AI Can't Do",
+      "hook": "Today's AI can write a sonnet and flunk a question a child gets right. Knowing its hard edges — no real understanding, no live truth, no common sense — is what makes you good at using it.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bd52ba",
+      "slug": "autonomous-weapons-ukraine",
+      "type": "news",
+      "title": "When the Drone Decides: AI and Autonomous Weapons",
+      "hook": "Ukraine reportedly ran a one-time test of fully autonomous drones that chose and struck targets with no human pulling the trigger. The 'killer robot' debate just stopped being hypothetical.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-12"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_66e39d#0",
+      "format": "quiz",
+      "prompt": "Why has physical AI (robots, self-driving) progressed slower than chatbots?",
+      "choices": [
+        {
+          "text": "The real world is messy and unforgiving, with rare events and no 'undo'",
+          "correct": true
+        },
+        {
+          "text": "Robots are illegal almost everywhere",
+          "correct": false
+        },
+        {
+          "text": "Nobody has tried to build them",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA wrong word costs little; a wrong move by a two-ton car can be fatal. Rare\nsituations and split-second physical stakes make embodied AI genuinely hard.\u003c/p\u003e"
+    },
+    {
+      "id": "card_66e39d#1",
+      "format": "flip",
+      "prompt": "Name a hard non-technical question raised by self-driving cars.",
+      "back_html": "\u003cp\u003eWho's liable when one crashes? Plus broader effects on driving jobs and how\nsafe is 'safe enough' to deploy at scale.\u003c/p\u003e"
+    }
+  ]
+}

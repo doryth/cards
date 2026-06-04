@@ -1,0 +1,101 @@
+{
+  "id": "card_29270f",
+  "slug": "simple-machines",
+  "type": "concept",
+  "title": "Simple Machines: Trading Force for Distance",
+  "hook": "A lever lets a child lift a piano — but there's no free lunch. Simple machines multiply your force only by making you move a longer distance.",
+  "key_points": [
+    "Levers, ramps, pulleys, wheels, screws, and wedges are the classic simple machines.",
+    "They give mechanical advantage: a small force does a big job.",
+    "You pay for it in extra distance — total work stays the same (minus friction).",
+    "They redirect and multiply force; they never create energy out of nothing."
+  ],
+  "content_html": "\u003cp\u003eSimple machines are the basic tools that change how a force acts: levers, ramps (inclined planes), pulleys, wheels and axles, screws, and wedges. Each one gives you mechanical advantage — the ability to do a big job with a small force. A long lever, a gentle ramp, or a block-and-tackle can let one person move loads they could never lift directly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe catch is that you never get something for nothing. Whatever force a machine saves you, it charges back in distance: to lift a load a little with a lever, you push the other end down a lot; to raise a weight gently up a ramp, you push it along a much longer path. The product of force and distance — the work — comes out roughly the same, and friction makes the real output a touch less than your input. Simple machines don't create energy; they just reshape how you deliver it, which is exactly why conservation of energy still holds. Wikipedia catalogs the six classic types and the force-versus-distance trade behind each.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Simple_machine",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "energy-work"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_cd9cd8",
+      "slug": "work-and-power",
+      "type": "concept",
+      "title": "Work and Power: Energy and How Fast You Spend It",
+      "hook": "Lifting a box and dropping it back does zero net work. Work is force times distance moved along it — and power is how fast you do that work.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_11b086",
+      "slug": "conservation-of-energy",
+      "type": "concept",
+      "title": "Conservation of Energy",
+      "hook": "Energy is never created or destroyed — it only changes form. That single rule is one of the most powerful ideas in all of physics.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_29270f#0",
+      "format": "flip",
+      "prompt": "What is 'mechanical advantage'?",
+      "back_html": "\u003cp\u003eIt's how much a simple machine multiplies your input force. The trade-off:\nyou must move the input over a \u003cstrong\u003elonger distance\u003c/strong\u003e to gain it.\u003c/p\u003e"
+    },
+    {
+      "id": "card_29270f#1",
+      "format": "quiz",
+      "prompt": "Why does pushing a heavy load up a ramp feel easier than lifting it straight up?",
+      "choices": [
+        {
+          "text": "The ramp spreads the same work over a longer distance, so less force is needed",
+          "correct": true
+        },
+        {
+          "text": "The ramp reduces the total work required",
+          "correct": false
+        },
+        {
+          "text": "The ramp creates extra energy to help you",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA ramp is a simple machine: it trades a smaller force for a longer path. The\ntotal work to gain that height is unchanged (ignoring friction).\u003c/p\u003e"
+    },
+    {
+      "id": "card_29270f#2",
+      "format": "quiz",
+      "prompt": "Can a simple machine give you more energy out than you put in?",
+      "choices": [
+        {
+          "text": "No — it only redirects or multiplies force; energy is conserved",
+          "correct": true
+        },
+        {
+          "text": "Yes, that's what mechanical advantage means",
+          "correct": false
+        },
+        {
+          "text": "Yes, if it has enough pulleys",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eMachines never create energy. They trade force for distance, and friction\nactually makes the output slightly less than the input.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "card_f21e0c",
+  "slug": "the-brain",
+  "type": "concept",
+  "title": "The Brain",
+  "hook": "Three pounds of folded tissue runs the whole show — thinking, balance, breathing, memory — divided into regions that each handle a different part of the job.",
+  "key_points": [
+    "The brain is the control center of the nervous system, made of billions of neurons.",
+    "The cerebrum (the big wrinkled part) handles thought, senses, language, and voluntary movement.",
+    "The cerebellum coordinates balance and smooth, precise movement.",
+    "The brainstem runs automatic life-support tasks like breathing and heartbeat."
+  ],
+  "content_html": "\u003cp\u003eThe brain is the body's command center: roughly three pounds of tissue packed with billions of neurons, running everything from solving a puzzle to keeping your heart beating. It isn't one uniform blob — it's divided into regions, each specialized for different jobs, all working together.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe biggest, most recognizable part is the cerebrum, the deeply wrinkled outer surface where conscious thought, sensation, language, and voluntary movement happen — its folds pack more surface area into the skull. Behind and below it sits the cerebellum, which coordinates balance and turns clumsy intentions into smooth, accurate motion. At the base, the brainstem connects to the spinal cord and quietly handles the automatic essentials — breathing, heart rate, blood pressure — that you never have to think about. As the NIH's NINDS \u0026quot;Know Your Brain\u0026quot; overview lays out, these regions form a layered system from life-support reflexes up to abstract thought.\u003c/p\u003e",
+  "source": {
+    "name": "NIH NINDS",
+    "url": "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain",
+    "license": "Public domain (U.S. government)"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_945f3f",
+      "slug": "neurons-and-signals",
+      "type": "concept",
+      "title": "Neurons and Signals",
+      "hook": "Your every thought, twitch, and feeling rides on tiny electrical pulses fired by neurons — and leaps the gaps between them as bursts of chemicals.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_bb8f8a",
+      "slug": "the-senses",
+      "type": "concept",
+      "title": "The Senses",
+      "hook": "Light, sound, chemicals, and pressure can't enter your brain directly — your senses translate all of them into the one language your neurons understand: electrical signals.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_f21e0c#0",
+      "format": "quiz",
+      "prompt": "Which brain region handles thought, language, and voluntary movement?",
+      "choices": [
+        {
+          "text": "The cerebrum",
+          "correct": true
+        },
+        {
+          "text": "The cerebellum",
+          "correct": false
+        },
+        {
+          "text": "The brainstem",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe cerebrum is the large, wrinkled outer part of the brain — home to\nconscious thought, the senses, language, and deliberate movement.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f21e0c#1",
+      "format": "flip",
+      "prompt": "What does the brainstem mainly control?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eAutomatic life-support functions\u003c/strong\u003e — things like breathing, heart rate, and\nblood pressure that keep you alive without conscious effort.\u003c/p\u003e"
+    },
+    {
+      "id": "card_f21e0c#2",
+      "format": "quiz",
+      "prompt": "What is the cerebellum mainly responsible for?",
+      "choices": [
+        {
+          "text": "Balance and coordinating smooth, precise movement",
+          "correct": true
+        },
+        {
+          "text": "Storing your earliest childhood memories",
+          "correct": false
+        },
+        {
+          "text": "Filtering toxins out of the blood",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTucked under the back of the brain, the cerebellum fine-tunes movement and\nkeeps you balanced and coordinated.\u003c/p\u003e"
+    }
+  ]
+}

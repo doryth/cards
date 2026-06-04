@@ -1,0 +1,129 @@
+{
+  "id": "card_8e3b84",
+  "slug": "bail-in-extradition-cases",
+  "type": "news",
+  "title": "Why Bail Is Rare in Extradition Cases",
+  "hook": "Bail turns on one question: will this person come back? Extradition cases are the setting where courts trust that answer least.",
+  "key_points": [
+    "Bail is a conditional release before a case concludes, granted when a court believes the person will return and poses no danger.",
+    "In extradition proceedings the whole point is a transfer abroad, so a released person has an unusually strong reason to disappear.",
+    "Courts also have less leverage: once someone crosses a border, the requesting state's process cannot easily reach them.",
+    "NPR reports Andrew Tate and his brother are seeking bail while fighting extradition, facing 59 criminal charges in the U.K.",
+    "Denying bail is not a finding of guilt — it is a judgment about flight risk, which is why detention can precede any trial."
+  ],
+  "content_html": "\u003cp\u003eBail looks like a favor, but it is really a prediction. A court releasing someone before their case ends is betting that they will show up for the rest of it — and that letting them out endangers no one in the meantime. Extradition proceedings are close to the worst possible setting for that bet, which is why, as NPR's Bill Chappell reports, the request by Andrew Tate and his brother for bail while they fight extradition is unlikely to succeed. The two face a total of 59 criminal charges in the U.K., including rape and human trafficking.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe structural problem is that extradition exists to move a person across a border against their wishes. Anyone contesting it therefore has an unusually powerful motive to leave on their own terms instead, and courts know the remedy is thin: once someone is gone, the machinery of the requesting state has no simple way to reach them, and the sending state's own process has been defeated. So judges in these cases lean heavily toward detention, sometimes for many months while appeals run.\u003c/p\u003e\n\u003cp\u003eWorth separating two things that get blurred in coverage. Denying bail says nothing about whether the charges are true — it is a finding about the risk of flight, made before anyone has weighed the evidence. That is also why pre-trial detention sits uneasily with the presumption of innocence, and why democracies limit it with rules on review, duration, and conditions rather than leaving it to a single official's judgment. (U.K. and U.S. example; most legal systems apply a comparable flight-risk test.)\u003c/p\u003e",
+  "source": {
+    "name": "NPR",
+    "authors": [
+      "Bill Chappell"
+    ],
+    "url": "https://npr.org/2026/08/27/nx-s1-5918058/andrew-tate-extradition",
+    "published_at": "2026-08-27",
+    "license": "© NPR (educational reference)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties",
+    "international-relations"
+  ],
+  "tags": [
+    "news",
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-27",
+  "related": [
+    {
+      "id": "card_1c8726",
+      "slug": "how-extradition-works",
+      "type": "news",
+      "title": "How Extradition Works",
+      "hook": "One country asking another to hand over a person is not a favor between friends — it runs on treaties and courts, and political goodwill is not the deciding vote.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_766f74",
+      "slug": "rule-of-law",
+      "type": "concept",
+      "title": "The Rule of Law",
+      "hook": "The principle that everyone — including those in power — is bound by the same publicly known laws, applied equally.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_8e3b84#0",
+      "format": "flip",
+      "prompt": "What question does a bail decision actually turn on?",
+      "back_html": "\u003cp\u003eWhether the court believes the person will \u003cstrong\u003ereturn\u003c/strong\u003e for the rest of the\nproceedings — and whether releasing them poses a danger. It is not a\njudgment about guilt.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8e3b84#1",
+      "format": "quiz",
+      "prompt": "Why do courts treat extradition defendants as especially high flight risks?",
+      "choices": [
+        {
+          "text": "The proceeding's purpose is to send them abroad, and once across a border the process cannot easily reach them",
+          "correct": true
+        },
+        {
+          "text": "Extradition treaties forbid granting bail under any circumstances",
+          "correct": false
+        },
+        {
+          "text": "Anyone charged in a foreign country is presumed guilty until transferred",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eA person fighting transfer has a strong incentive to vanish, and there is\nlittle practical way to retrieve them once they leave the jurisdiction.\u003c/p\u003e"
+    },
+    {
+      "id": "card_8e3b84#2",
+      "format": "quiz",
+      "prompt": "What does a denial of bail tell you about the strength of the case?",
+      "choices": [
+        {
+          "text": "Very little — it is a judgment about flight risk, not about guilt",
+          "correct": true
+        },
+        {
+          "text": "That the court has already concluded the charges are proven",
+          "correct": false
+        },
+        {
+          "text": "That the charges carry a mandatory prison sentence",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBail and guilt are separate questions. Detention before trial reflects the\nrisk of non-appearance, which is why it can precede any verdict.\u003c/p\u003e"
+    }
+  ]
+}

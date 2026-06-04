@@ -1,0 +1,137 @@
+{
+  "id": "card_edd9a6",
+  "slug": "wrongful-conviction-compensation",
+  "type": "news",
+  "title": "Exonerated Isn't the Same as Compensated",
+  "hook": "Getting a conviction thrown out does not get you paid. In most states you must then prove your innocence all over again — to a higher standard, against a state that may still call you guilty.",
+  "key_points": [
+    "Thirty-nine states and Washington, DC have wrongful-conviction compensation programs; Louisiana created its fund in 2005.",
+    "Vacating a conviction is not enough: a claimant must separately establish factual innocence.",
+    "Louisiana requires 'clear and convincing' evidence of innocence, a higher bar than the 'preponderance' standard many states use.",
+    "Louisiana's statute contemplates a decision within five months and payment up to $480,000 — timelines are routinely exceeded.",
+    "Elvis Brooks served 42 years on a 1977 eyewitness conviction; a prosecutor later admitted withholding fingerprint evidence that did not match him.",
+    "The attorney general's office opposed 22 of 23 claims — far above a predecessor's roughly one-third rate."
+  ],
+  "content_html": "\u003cp\u003eThere is a gap in the exoneration story that rarely makes the headlines. A court vacating a conviction says the conviction cannot stand; it does not say the person is innocent. Compensation is a separate proceeding with its own burden of proof, and in most states it is the claimant who carries it. ProPublica's reporting on Louisiana shows how wide that gap can get.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThirty-nine states and the District of Columbia have compensation programs; Louisiana set its fund up in 2005, with awards up to $480,000 and a statutory expectation that claims be resolved within about five months — a deadline the reporting says is frequently blown. The distinguishing feature is the standard: applicants must show innocence by \u0026quot;clear and convincing\u0026quot; evidence, a level meant to leave little doubt in the judge's mind, rather than the \u0026quot;preponderance\u0026quot; standard (more likely than not) used in many states and in ordinary civil cases.\u003c/p\u003e\n\u003cp\u003eElvis Brooks illustrates the stakes. He spent 42 years in prison on a 1977 murder conviction built on eyewitness identification, with no physical evidence tying him to the crime and twelve witnesses placing him elsewhere; fingerprints lifted from beer cans at the scene did not match him, and a prosecutor later admitted the fingerprint evidence had been withheld. His conviction was vacated in 2022, after he had already taken a plea in 2019. Attorney General Liz Murrill's office argued he should receive nothing, maintaining he is still guilty, and sought to reinstate a manslaughter charge. ProPublica puts that in context: Murrill's office has opposed 22 of 23 claims, where a predecessor opposed roughly a third and another former attorney general opposed 10 of 12 — a national expert told the outlet they could not think of a more aggressive record. The design lesson is generic to any compensation scheme: a right that requires you to defeat the government twice, on the government's terms, is worth much less than it looks on paper.\u003c/p\u003e",
+  "source": {
+    "name": "ProPublica",
+    "url": "https://propublica.org/article/louisiana-wrongful-conviction-compensation-liz-murrill-elvis-brooks",
+    "published_at": "2026-08-06",
+    "license": "© ProPublica (educational reference)"
+  },
+  "topic_ids": [
+    "rights-civil-liberties",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational",
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-08-10",
+  "date": "2026-08-06",
+  "related": [
+    {
+      "id": "card_d5569e",
+      "slug": "junk-science-and-wrongful-conviction",
+      "type": "news",
+      "title": "Junk Science \u0026 Wrongful Conviction",
+      "hook": "A courtroom isn't a lab — but it has to rely on forensic science anyway. When that science turns out to be unreliable, the wrong person can spend years, or a life, on death row.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "card_23f435",
+      "slug": "dna-evidence-and-statutes-of-limitations",
+      "type": "news",
+      "title": "When DNA Evidence Outlasts the Statute of Limitations",
+      "hook": "A crime can go unprosecuted forever once its statute of limitations runs out — even if DNA later identifies a suspect. Massachusetts is one of the last states moving to close that gap.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_26ba28",
+      "slug": "civil-liberties-basics",
+      "type": "concept",
+      "title": "Civil Liberties Basics",
+      "hook": "The freedoms that protect individuals from overreach by the state — like speech, belief, and a fair trial.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_7dcbda",
+      "slug": "due-process",
+      "type": "concept",
+      "title": "Due Process",
+      "hook": "Due process is the promise that the state can't take your liberty or property on a whim — it must follow fair, known rules before it acts against you.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_edd9a6#0",
+      "format": "flip",
+      "prompt": "Why can someone whose conviction was vacated still be denied compensation?",
+      "back_html": "\u003cp\u003eVacatur means the conviction cannot stand — not that innocence was\nproved. Compensation statutes require a separate showing of factual\ninnocence, often to a demanding standard.\u003c/p\u003e"
+    },
+    {
+      "id": "card_edd9a6#1",
+      "format": "quiz",
+      "prompt": "How does Louisiana's evidentiary standard for compensation compare with many other states?",
+      "choices": [
+        {
+          "text": "It requires 'clear and convincing' evidence of innocence, higher than the 'preponderance' standard many states use",
+          "correct": true
+        },
+        {
+          "text": "It requires proof beyond a reasonable doubt, the criminal standard",
+          "correct": false
+        },
+        {
+          "text": "It requires no showing at all once a conviction is vacated",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eClear and convincing sits above preponderance (more likely than not) and\nbelow beyond a reasonable doubt — a meaningfully harder burden for the\nclaimant to carry.\u003c/p\u003e"
+    },
+    {
+      "id": "card_edd9a6#2",
+      "format": "quiz",
+      "prompt": "What structural feature of these programs does the Brooks case expose?",
+      "choices": [
+        {
+          "text": "The same state that prosecuted the case gets to contest the compensation claim",
+          "correct": true
+        },
+        {
+          "text": "Compensation is paid automatically by the federal government",
+          "correct": false
+        },
+        {
+          "text": "Claims are decided by a jury of local residents",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe attorney general's office litigates against claimants — and can\nmaintain a person is guilty even after a court has vacated the\nconviction.\u003c/p\u003e"
+    }
+  ]
+}

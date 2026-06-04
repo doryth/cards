@@ -1,0 +1,114 @@
+{
+  "id": "card_5ac508",
+  "slug": "amaterasu-particle",
+  "type": "news",
+  "title": "The Amaterasu Particle Might Not Be a Proton",
+  "hook": "One of the most energetic cosmic rays ever caught hit Earth with the energy of a thrown brick — packed into a single particle. New work says it may be a heavy nucleus, not a proton.",
+  "key_points": [
+    "Cosmic rays are charged particles from space; a rare few carry staggering energies.",
+    "The Amaterasu particle was one of the highest-energy cosmic rays ever detected.",
+    "New research argues it was an ultraheavy nucleus — heavier than iron — not a lone proton.",
+    "Heavier nuclei hold onto their energy better while crossing intergalactic space.",
+    "That could explain how such extreme particles reach us and hint at their violent origins."
+  ],
+  "content_html": "\u003cp\u003eIn 2021 a detector in Utah recorded a cosmic ray so energetic that physicists named it after Amaterasu, the Shinto sun goddess. A single subatomic particle arrived carrying roughly the kinetic energy of a hard-thrown object — absurdly more than anything human accelerators produce. Where it came from, and what it even was, has been a puzzle ever since.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eCosmic rays are charged particles — usually protons or atomic nuclei — that stream in from space, and the rarest of them reach energies that strain explanation. New research suggests the Amaterasu particle was not a proton, as often assumed, but an ultraheavy nucleus, heavier than iron. The appeal of that idea is practical: heavier nuclei are better able to hold onto their energy while crossing the vast, particle-thinning reaches of intergalactic space. If so, it both helps explain how the particle arrived so energetic and offers fresh clues about the violent cosmic explosions powerful enough to launch it. The work is a reminder that even a single particle, read carefully, can point back to some of the most extreme events in the universe.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/06/260608040015.htm",
+    "published_at": "2026-06-09",
+    "license": "© ScienceDaily (summary; educational reference)"
+  },
+  "topic_ids": [
+    "astrophysics",
+    "particle-physics"
+  ],
+  "tags": [
+    "news"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-11",
+  "date": "2026-06-09",
+  "related": [
+    {
+      "id": "card_8869c9",
+      "slug": "supernovae-and-neutron-stars",
+      "type": "concept",
+      "title": "Supernovae \u0026 Neutron Stars",
+      "hook": "When a giant star dies, its core collapses and its outer layers blast away in a supernova that can briefly outshine an entire galaxy — leaving behind something extraordinary.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_d6127d",
+      "slug": "inside-the-atom",
+      "type": "concept",
+      "title": "Inside the Atom",
+      "hook": "An atom is almost entirely empty space wrapped around a tiny, dense nucleus — and the number of protons in that nucleus is what makes an atom gold instead of oxygen.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_3e5004",
+      "slug": "starburst-neutrino-factory",
+      "type": "news",
+      "title": "A Galaxy That Makes Neutrinos Without a Black Hole",
+      "hook": "Astronomers expected a feeding black hole behind a flood of cosmic neutrinos. Instead they found furious star formation — hinting dusty starburst galaxies seed the high-energy neutrino sky.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-19"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_5ac508#0",
+      "format": "flip",
+      "prompt": "What is a cosmic ray, and what was unusual about the Amaterasu particle?",
+      "back_html": "\u003cp\u003eA cosmic ray is a charged particle arriving from space. The Amaterasu particle was one of the\n\u003cstrong\u003ehighest-energy cosmic rays ever detected\u003c/strong\u003e — carrying an astonishing energy in a single particle.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5ac508#1",
+      "format": "quiz",
+      "prompt": "What does the new research propose the Amaterasu particle actually was?",
+      "choices": [
+        {
+          "text": "An ultraheavy atomic nucleus, heavier than iron",
+          "correct": true
+        },
+        {
+          "text": "A single proton, as long assumed",
+          "correct": false
+        },
+        {
+          "text": "A photon of visible light",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eRather than a lone proton, the work suggests it was a heavy nucleus. Heavier nuclei retain their\nenergy better over long journeys, which helps explain how it reached Earth so energetic.\u003c/p\u003e"
+    },
+    {
+      "id": "card_5ac508#2",
+      "format": "quiz",
+      "prompt": "Why might a heavy nucleus reach Earth with more of its energy intact than a proton?",
+      "choices": [
+        {
+          "text": "Heavier nuclei are better able to retain energy while traveling through space",
+          "correct": true
+        },
+        {
+          "text": "Heavy nuclei travel faster than light",
+          "correct": false
+        },
+        {
+          "text": "Protons are attracted back toward their source",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe proposal hinges on heavier nuclei holding onto their energy more effectively across\nintergalactic distances, making an ultraheavy nucleus a better fit for what was observed.\u003c/p\u003e"
+    }
+  ]
+}

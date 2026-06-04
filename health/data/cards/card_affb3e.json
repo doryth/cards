@@ -1,0 +1,109 @@
+{
+  "id": "card_affb3e",
+  "slug": "apoe4-nell2-early-changes",
+  "type": "news",
+  "title": "How the Biggest Alzheimer's Risk Gene May Start Early",
+  "hook": "In mice, APOE4 raised a protein called Nell2, shrinking neurons and leaving memory circuits oddly overactive years before memory failed — and lowering Nell2 reversed it.",
+  "key_points": [
+    "APOE4 is the strongest common genetic risk factor for late-onset Alzheimer's disease.",
+    "In mice, APOE4 increased levels of a protein called Nell2.",
+    "Higher Nell2 shrank neurons and made memory circuits abnormally hyperactive.",
+    "That early hyperactivity predicted worse memory later in life.",
+    "Reducing Nell2 in adult mice reversed the abnormal changes.",
+    "It suggests a pre-symptomatic window and a target inside it — in mice, for now."
+  ],
+  "content_html": "\u003cp\u003eAPOE4 is the best-known common genetic risk factor for late-onset Alzheimer's, and one of the least mechanistically understood. New mouse work offers a chain of events: APOE4 raises a protein called Nell2, higher Nell2 shrinks neurons, and the affected memory circuits become abnormally hyperactive — all well before any memory problem shows up.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eTwo details lift this above the usual mechanism paper. First, the early hyperactivity wasn't incidental: it predicted which animals had worse memory later in life, which turns it into a candidate early marker rather than a curiosity. Second, reducing Nell2 in \u003cem\u003eadult\u003c/em\u003e mice reversed the abnormal changes. That matters because a risk gene acting during development would be far less tractable; a process still running in adulthood is something a drug could in principle interrupt.\u003c/p\u003e\n\u003cp\u003eThe caveats are the standard ones and they're substantial: this is mouse biology, human APOE4 carriers vary enormously in outcome, and plenty of promising Alzheimer's targets have not survived translation. What's useful now is the picture it reinforces — that APOE4's effect starts decades before symptoms, in a window where the modifiable risks we already know about (blood pressure, hearing, activity, sleep) are also doing their work.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260821012234.htm",
+    "published_at": "2026-08-23",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "health-news",
+    "healthy-aging"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-08-24",
+  "date": "2026-08-23",
+  "related": [
+    {
+      "id": "card_645288",
+      "slug": "apoe2-protects-neurons",
+      "type": "news",
+      "title": "APOE2: The Alzheimer's Gene Variant That Protects You",
+      "hook": "Everyone knows APOE4 raises Alzheimer's risk. Its rare cousin APOE2 does the opposite — and researchers just watched why: those neurons take less DNA damage and repair it faster.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "card_40bc5a",
+      "slug": "how-alzheimers-spreads",
+      "type": "news",
+      "title": "How Alzheimer's Might Spread From Cell to Cell",
+      "hook": "A common brain protein may double as a delivery vehicle for Alzheimer's, ferrying toxic tau out of damaged neurons and into healthy ones — a possible new target for slowing the disease.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-30"
+    },
+    {
+      "id": "card_20e19f",
+      "slug": "grk2-aggregates-alzheimers",
+      "type": "news",
+      "title": "Blocking a Clumping Enzyme Slowed Alzheimer's in Mice",
+      "hook": "An ETH Zurich team found the enzyme GRK2 forms clumps in the Alzheimer's brain — and an experimental compound that stopped the clumping kept mice's nerve cells alive longer.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-08-16"
+    },
+    {
+      "id": "card_cafbdc",
+      "slug": "half-of-dementia-risk-is-modifiable",
+      "type": "news",
+      "title": "Nearly Half of Dementia Risk Is Something You Can Change",
+      "hook": "A long-term brain study tied smoking, high blood pressure, heart disease, and high blood lipids to the damage behind vascular dementia — risks that are all treatable.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-08-06"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_affb3e#0",
+      "format": "flip",
+      "prompt": "What did APOE4 do to neurons in these mice, and via what protein?",
+      "back_html": "\u003cp\u003eIt raised levels of \u003cstrong\u003eNell2\u003c/strong\u003e, which shrank neurons and left memory circuits\nabnormally \u003cstrong\u003ehyperactive\u003c/strong\u003e — long before memory problems appeared.\u003c/p\u003e"
+    },
+    {
+      "id": "card_affb3e#1",
+      "format": "quiz",
+      "prompt": "Which result makes Nell2 look like a drug target rather than just a marker?",
+      "choices": [
+        {
+          "text": "Reducing Nell2 in adult mice reversed the abnormal changes",
+          "correct": true
+        },
+        {
+          "text": "Nell2 levels were higher in older mice",
+          "correct": false
+        },
+        {
+          "text": "Nell2 is only found in the hippocampus",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eReversal after intervening in \u003cstrong\u003eadult\u003c/strong\u003e animals is the key step: it says the damage\nisn't locked in developmentally, so lowering Nell2 later could still matter.\u003c/p\u003e"
+    },
+    {
+      "id": "card_affb3e#2",
+      "format": "flip",
+      "prompt": "Why does early circuit hyperactivity matter?",
+      "back_html": "\u003cp\u003eBecause in these mice it \u003cstrong\u003epredicted worse memory later\u003c/strong\u003e — making it an early,\nmeasurable sign during the long pre-symptomatic phase rather than a late consequence.\u003c/p\u003e"
+    }
+  ]
+}

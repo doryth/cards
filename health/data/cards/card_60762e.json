@@ -1,0 +1,109 @@
+{
+  "id": "card_60762e",
+  "slug": "calorie-restriction-c3-inflammation",
+  "type": "news",
+  "title": "A Possible Shortcut Around Calorie Restriction",
+  "hook": "Moderate calorie restriction lowered an immune protein called C3 that helps drive the slow inflammation of aging — and blocking C3 directly reproduced part of the benefit in mice.",
+  "key_points": [
+    "Chronic low-grade inflammation is one of the hallmarks of biological aging.",
+    "Moderate calorie restriction lowered levels of an immune protein called C3.",
+    "C3 appears to be one of the drivers of that age-related inflammation.",
+    "Blocking C3 in mice reduced age-related inflammation without dieting.",
+    "It raises the possibility of mimicking part of calorie restriction pharmacologically.",
+    "Nothing here shows the trade-offs or the durability of that effect in people."
+  ],
+  "content_html": "\u003cp\u003eSevere calorie restriction reliably extends healthy lifespan in animals, and just as reliably fails as advice for humans — almost nobody sustains it. So the interesting question is which of its effects actually do the work, and whether any of them can be reached another way.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis work points at one candidate. Moderate calorie restriction lowered an immune protein called C3, part of the complement system, which appears to help drive the chronic low-grade inflammation that accumulates with age. The follow-up is the part that matters: blocking C3 in mice reduced that age-related inflammation on its own, with no dieting involved.\u003c/p\u003e\n\u003cp\u003eTreat it as a mechanism, not a prescription. Calorie restriction changes metabolism, immunity, and cellular repair simultaneously, and C3 is one thread in that knot. The complement system also has a day job — clearing pathogens and cellular debris — so suppressing it long-term has obvious costs to weigh. What the study earns is a target worth testing, not a pill worth waiting for.\u003c/p\u003e",
+  "source": {
+    "name": "ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260826055508.htm",
+    "published_at": "2026-08-26",
+    "license": "© ScienceDaily (educational use)"
+  },
+  "topic_ids": [
+    "healthy-aging",
+    "nutrition"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-08-27",
+  "date": "2026-08-26",
+  "related": [
+    {
+      "id": "card_dc50f5",
+      "slug": "the-thymus-and-aging",
+      "type": "news",
+      "title": "The Thymus: A 'Forgotten' Organ Tied to Longevity",
+      "hook": "The thymus was thought to clock out after childhood. A large imaging study found adults with healthier-looking thymuses tended to live longer — a striking link, not a prescription.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "card_5215c5",
+      "slug": "immune-cells-enter-aging-brain",
+      "type": "news",
+      "title": "The Aging Brain Isn't Sealed Off After All",
+      "hook": "Stanford researchers found immune cells from the blood streaming into the human brain as early as middle age — overturning the assumption that the brain keeps the body's immune system out.",
+      "importance": 3,
+      "difficulty": "deep",
+      "date": "2026-08-14"
+    },
+    {
+      "id": "card_41795e",
+      "slug": "mediterranean-low-methionine-longevity-diet",
+      "type": "news",
+      "title": "A Longevity Diet That Helped Mice Eat More and Lose Fat",
+      "hook": "A modified Mediterranean-style diet, low in protein but with just enough of one amino acid, methionine, helped mice live healthier, leaner lives — and human data hints at a similar link.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "card_44a617",
+      "slug": "aging-isnt-all-decline",
+      "type": "news",
+      "title": "Aging Isn't Only Decline",
+      "hook": "A long-term Yale study found nearly half of adults over 65 actually improved — physically, mentally, or both — and a more positive view of aging tracked with those gains.",
+      "importance": 3,
+      "difficulty": "intro",
+      "date": "2026-06-21"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_60762e#0",
+      "format": "flip",
+      "prompt": "What protein links calorie restriction to lower age-related inflammation here?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eC3\u003c/strong\u003e, an immune (complement) protein. Moderate calorie restriction lowered it, and\nC3 appears to help drive the chronic inflammation that builds up with age.\u003c/p\u003e"
+    },
+    {
+      "id": "card_60762e#1",
+      "format": "quiz",
+      "prompt": "Why is the mouse experiment that blocked C3 directly the interesting part?",
+      "choices": [
+        {
+          "text": "It reduced age-related inflammation without requiring dieting",
+          "correct": true
+        },
+        {
+          "text": "It proved calorie restriction extends human lifespan",
+          "correct": false
+        },
+        {
+          "text": "It showed C3 is the only cause of aging",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSeparating the \u003cem\u003eeffect\u003c/em\u003e from the \u003cem\u003ediet\u003c/em\u003e is what suggests a drug could one day\nreproduce part of the benefit — the point of the whole line of work.\u003c/p\u003e"
+    },
+    {
+      "id": "card_60762e#2",
+      "format": "flip",
+      "prompt": "What's the main caveat before treating this as a longevity strategy?",
+      "back_html": "\u003cp\u003eIt's mouse work on one inflammatory pathway. Calorie restriction does many things at\nonce; lowering C3 captures at most a slice of that, and human trials haven't been done.\u003c/p\u003e"
+    }
+  ]
+}

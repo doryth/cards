@@ -1,0 +1,98 @@
+{
+  "id": "card_0cc7d0",
+  "slug": "weather-data-sabotage-risk",
+  "type": "news",
+  "title": "Someone Faked the Weather to Win a $20,000 Bet",
+  "hook": "AI weather forecasts are only as honest as the sensors feeding them. At a Paris airport, someone tampered with a station to fake the temperature — and won a $20,000 bet on it.",
+  "key_points": [
+    "At Paris Charles de Gaulle Airport in April 2026, tampered sensors recorded inflated temperatures.",
+    "One gambler won $20,000 betting on 22°C readings while actual temperatures averaged 18°C.",
+    "Newer AI weather models rely more heavily on raw sensor data, bypassing older quality-control filters.",
+    "Researchers warn of an escalating threat: individual fraud, market manipulation, then state-level sabotage.",
+    "Airlines, utilities, farmers, and emergency responders all depend on forecasts these sensors feed."
+  ],
+  "content_html": "\u003cp\u003eAn AI weather model is only as trustworthy as the sensors it reads — and at Paris Charles de Gaulle Airport in April 2026, someone exploited exactly that. MIT Technology Review reports that tampered weather-station sensors recorded artificially inflated temperatures, letting one gambler win $20,000 betting on a 22°C reading while the actual temperature averaged 18°C. A French climate nonprofit caught the anomaly.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe deeper concern isn't really about one bet. Traditional forecasting models cross-check raw readings against other data and human quality control before trusting them; newer, more data-driven AI forecasting models lean much more heavily on the raw sensor feed itself, which means a manipulated sensor can distort the model's output more directly. The researchers behind the report describe an escalating ladder of risk: individual fraud like the Paris case, coordinated manipulation of energy or prediction markets, and — at the far end — state-level sabotage aimed at emergency warning systems during a real disaster. That matters well beyond gamblers: airlines, utility operators, farmers, and emergency responders all make real decisions based on the same underlying forecasts. The proposed fixes are unglamorous but sensible — better continuous monitoring of stations, more explainability tools inside the forecasting pipeline, and clearer accountability linking station operators to the forecasting centers that trust their data. It's a useful reminder that AI's biggest vulnerability is often not the model itself, but the real-world data someone can quietly tamper with before it ever reaches the model.\u003c/p\u003e",
+  "source": {
+    "name": "MIT Technology Review",
+    "authors": [
+      "Monique Kuglitsch",
+      "Jesper Dramsch",
+      "Franz G. Kuglitsch",
+      "Andrea Toreti"
+    ],
+    "url": "https://technologyreview.com/2026/07/17/1140622/weather-data-sabotage",
+    "published_at": "2026-07-17",
+    "license": "© MIT Technology Review (linked, not reproduced)"
+  },
+  "topic_ids": [
+    "ai-limits",
+    "ai-scams",
+    "ai-news"
+  ],
+  "tags": [
+    "news",
+    "safety"
+  ],
+  "importance": 3,
+  "difficulty": "intro",
+  "created_at": "2026-07-20",
+  "date": "2026-07-17",
+  "related": [
+    {
+      "id": "card_db84a0",
+      "slug": "ai-and-your-money",
+      "type": "concept",
+      "title": "AI \u0026 Your Money",
+      "hook": "AI is a great explainer of money and a decent budgeting helper — but a risky advisor. Use it to understand your finances, not to make the calls or to hand over your account details.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fa7ea4",
+      "slug": "protecting-older-relatives",
+      "type": "concept",
+      "title": "Protecting Older Relatives from AI Scams",
+      "hook": "AI voice-cloning has supercharged the 'grandparent scam' — a panicked call in a loved one's voice. The best protection is a five-minute conversation before it ever happens.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_0cc7d0#0",
+      "format": "quiz",
+      "prompt": "What actually happened at the Paris airport in this story?",
+      "choices": [
+        {
+          "text": "Someone tampered with weather sensors to fake a higher temperature and win a bet",
+          "correct": true
+        },
+        {
+          "text": "An AI model predicted the weather with 100% accuracy",
+          "correct": false
+        },
+        {
+          "text": "A storm damaged the airport's equipment",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eTampered sensors recorded inflated readings, and a gambler used the fake\n22°C reading to win a $20,000 bet, while real temperatures averaged 18°C.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0cc7d0#1",
+      "format": "flip",
+      "prompt": "Why are newer AI weather models more exposed to this kind of tampering?",
+      "back_html": "\u003cp\u003eThey lean more heavily on raw sensor data and bypass some of the older,\nhuman-run quality-control filters that used to catch bad readings.\u003c/p\u003e"
+    },
+    {
+      "id": "card_0cc7d0#2",
+      "format": "flip",
+      "prompt": "What's the escalation researchers warn about, beyond a single gambler?",
+      "back_html": "\u003cp\u003eThey describe a scale from individual fraud, to coordinated market\nmanipulation, up to state-level sabotage of emergency warning systems.\u003c/p\u003e"
+    }
+  ]
+}

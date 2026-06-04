@@ -1,0 +1,122 @@
+{
+  "id": "card_ab4608",
+  "slug": "the-fate-of-the-universe",
+  "type": "concept",
+  "title": "How Will the Universe End?",
+  "hook": "The universe began with a Big Bang — but how does the story end? With dark energy speeding up the expansion, the leading answer is a long, cold fade into darkness.",
+  "key_points": [
+    "The universe is expanding, and dark energy is making that expansion accelerate.",
+    "The favored fate is the 'Big Freeze': it expands forever and cools toward darkness.",
+    "Stars eventually burn out and galaxies drift beyond view; entropy keeps rising.",
+    "Rival ideas — a 'Big Crunch' collapse or a 'Big Rip' — look unlikely given the data."
+  ],
+  "content_html": "\u003cp\u003eWe have a good origin story — the Big Bang — but the ending is still being written. The answer hinges on a tug-of-war between gravity, which pulls everything together, and the expansion of space, which pushes everything apart. For decades the open question was whether gravity would eventually win and pull the universe back into a fiery collapse, the \u0026quot;Big Crunch.\u0026quot; Then came a stunning discovery: the expansion isn't slowing down at all. It's speeding up, driven by the mysterious dark energy.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThat acceleration tilts the odds firmly toward a different ending, often called the Big Freeze or heat death. Space keeps expanding ever faster, so distant galaxies recede beyond view, new stars stop forming, and existing stars one by one burn out. Over almost unimaginable stretches of time the universe drifts toward maximum entropy — spread thin, cold, and dark, with no concentrated energy left to power anything. More exotic possibilities linger: if dark energy strengthened over time it could eventually tear apart galaxies, stars, and atoms in a \u0026quot;Big Rip,\u0026quot; but current data don't favor that. Wikipedia surveys the scenarios and the evidence behind each. The honest summary: the smart money is on a slow fade to black.\u003c/p\u003e",
+  "source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ultimate_fate_of_the_universe",
+    "license": "CC BY-SA 4.0 (Wikipedia)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 4,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_1096b3",
+      "slug": "dark-matter-and-dark-energy",
+      "type": "concept",
+      "title": "Dark Matter \u0026 Dark Energy",
+      "hook": "Everything we can see — stars, planets, people — is only about 5% of the universe. The other 95% is two mysteries we've never directly detected.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_4a073a",
+      "slug": "what-is-entropy",
+      "type": "concept",
+      "title": "Entropy \u0026 the Arrow of Time",
+      "hook": "Why does a smashed cup never reassemble itself? The second law of thermodynamics says disorder almost always wins.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_760b0f",
+      "slug": "the-expanding-universe",
+      "type": "concept",
+      "title": "The Expanding Universe",
+      "hook": "Distant galaxies are rushing away from us, and the farther one is, the faster it flees — not because they're moving through space, but because space itself is stretching.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_ab4608#0",
+      "format": "flip",
+      "prompt": "What is the leading prediction for how the universe will end?",
+      "back_html": "\u003cp\u003eThe \u003cstrong\u003eBig Freeze\u003c/strong\u003e: expansion, accelerated by dark energy, continues forever as\nthe universe cools, stars die out, and everything fades toward darkness.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ab4608#1",
+      "format": "quiz",
+      "prompt": "Which discovery most shaped current thinking about the universe's fate?",
+      "choices": [
+        {
+          "text": "That dark energy is making the expansion accelerate, not slow down",
+          "correct": true
+        },
+        {
+          "text": "That the universe is perfectly static and unchanging",
+          "correct": false
+        },
+        {
+          "text": "That gravity is steadily pulling everything back together",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAn accelerating expansion makes a collapse ('Big Crunch') unlikely and points\ntoward an endless, cooling expansion instead.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ab4608#2",
+      "format": "quiz",
+      "prompt": "What happens to stars and galaxies in the Big Freeze scenario?",
+      "choices": [
+        {
+          "text": "Stars burn out, distant galaxies drift out of view, and the cosmos grows cold and dark",
+          "correct": true
+        },
+        {
+          "text": "They all collapse into a single hot point",
+          "correct": false
+        },
+        {
+          "text": "They keep forming new stars forever at the same rate",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eWith expansion accelerating, star formation eventually ceases, existing stars\ndie, and entropy rises toward a cold, dilute, dark end state.\u003c/p\u003e"
+    }
+  ]
+}

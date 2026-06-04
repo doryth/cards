@@ -1,0 +1,95 @@
+{
+  "id": "card_6bf2d9",
+  "slug": "exoplanets-around-colliding-black-holes",
+  "type": "paper",
+  "title": "Could We Spot a Planet Orbiting Two Colliding Black Holes?",
+  "hook": "A proposed technique would spot an exoplanet by the tiny 'wobble' it puts on the gravitational waves from a black hole collision happening trillions of miles away.",
+  "key_points": [
+    "All confirmed exoplanets so far orbit stars in our own galaxy — none are known beyond it.",
+    "Researchers propose that a planet orbiting a merging pair of black holes or neutron stars would tug the pair's center of mass, subtly 'wobbling' the gravitational waves they emit.",
+    "Future detectors — Einstein Telescope, DECIGO, and upgraded LIGO — could be sensitive enough to catch that wobble.",
+    "In simulations, the technique could recover a circling exoplanet's mass to within roughly a factor of two, for a useful range of orbital setups."
+  ],
+  "content_html": "\u003cp\u003eEvery exoplanet confirmed so far lives in our own galaxy — we simply don't have a way to spot planets orbiting stars, let alone black holes, in other galaxies. But a new theoretical study points to an unusual workaround: watch for planets not with light, but with gravitational waves.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eWhen two massive objects like black holes or neutron stars spiral together and merge, they emit gravitational waves that encode the motion of their shared center of mass. Researchers Avinash Tiwari, Aditya Vijaykumar, Shasvath J. Kapadia, and Sourav Chatterjee show that if a planet orbits that merging pair, its gravitational tug would make the center of mass wobble slightly, imprinting a distinctive signature on the emitted waves. Using simulated signals for detectors not yet built — including the Einstein Telescope, DECIGO, and an upgraded LIGO — the team found that for a meaningful range of planet masses and orbits, this wobble could reveal the exoplanet's presence and pin down its mass to within roughly a factor of two. It's a proof of concept, not a detection: the technique still needs detectors sensitive enough to catch it, but it opens a genuinely new way to hunt for worlds far beyond our galaxy.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Avinash Tiwari",
+      "Aditya Vijaykumar",
+      "Shasvath J. Kapadia",
+      "Sourav Chatterjee"
+    ],
+    "url": "https://arxiv.org/abs/2607.09658",
+    "published_at": "2026-07-10",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "gravity-orbits",
+    "astrophysics"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-07-16",
+  "date": "2026-07-10",
+  "related": [
+    {
+      "id": "card_e49be0",
+      "slug": "how-orbits-work",
+      "type": "concept",
+      "title": "How Orbits Work: Falling and Missing the Ground",
+      "hook": "A satellite in orbit is falling the whole time — it just moves sideways so fast that the Earth keeps curving away beneath it.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_78e07c",
+      "slug": "gravitational-waves",
+      "type": "concept",
+      "title": "Gravitational Waves: Ripples in Spacetime",
+      "hook": "When black holes collide, they shake the fabric of spacetime itself, sending out ripples that stretch and squeeze everything they pass — by less than the width of a proton.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_6bf2d9#0",
+      "format": "flip",
+      "prompt": "What's the core idea behind detecting an exoplanet orbiting a merging pair of black holes?",
+      "back_html": "\u003cp\u003eA nearby planet would pull on the pair's shared center of mass, making it\n\u003cstrong\u003ewobble\u003c/strong\u003e — and that wobble leaves a subtle imprint on the gravitational waves\nthe merger emits.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6bf2d9#1",
+      "format": "quiz",
+      "prompt": "Why can't current gravitational-wave detectors like LIGO test this idea yet?",
+      "choices": [
+        {
+          "text": "The proposed signal needs the greater sensitivity of future detectors like the Einstein Telescope or DECIGO",
+          "correct": true
+        },
+        {
+          "text": "LIGO cannot detect gravitational waves from black hole mergers at all",
+          "correct": false
+        },
+        {
+          "text": "The effect only exists for planets inside our own galaxy",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThis is a proof-of-concept study — the wobble signature is expected to be\ndetectable with next-generation detectors, not with current ones.\u003c/p\u003e"
+    },
+    {
+      "id": "card_6bf2d9#2",
+      "format": "flip",
+      "prompt": "How precisely could this technique, in simulation, recover an exoplanet's mass?",
+      "back_html": "\u003cp\u003eTo within roughly a \u003cstrong\u003efactor of two\u003c/strong\u003e of the true value (up to an unknown orbital\ntilt), for a useful range of planet and orbit parameters.\u003c/p\u003e"
+    }
+  ]
+}

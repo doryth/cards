@@ -1,0 +1,109 @@
+{
+  "id": "card_a18add",
+  "slug": "synthetic-biology",
+  "type": "concept",
+  "title": "Synthetic Biology",
+  "hook": "If genetic engineering edits life's existing code, synthetic biology aims to engineer it from the ground up — designing new biological parts and even whole systems.",
+  "key_points": [
+    "Synthetic biology designs and builds new biological parts, devices, and systems.",
+    "It treats genes like standardized parts that can be combined like engineering components.",
+    "Scientists can program cells to make medicines, fuels, materials, or to sense chemicals.",
+    "It raises questions about safety, biosecurity, and how far to redesign life."
+  ],
+  "content_html": "\u003cp\u003eGenetic engineering usually edits genes that already exist. Synthetic biology is more ambitious: it treats biology as an engineering discipline, aiming to design and build new biological parts, circuits, and even whole genetic systems. The mindset is to make life's components modular and predictable — genes that snap together like standardized parts.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eAs Encyclopaedia Britannica describes, synthetic biologists assemble genetic \u0026quot;parts\u0026quot; into circuits that give cells new behaviors: bacteria that glow when they detect a toxin, yeast engineered to brew a precursor of the antimalarial drug artemisinin, or microbes coaxed into producing fuels and novel materials. The field pushes toward genomes designed largely on a computer and written into living cells. That power brings real concern — about accidental release, biosecurity, and how far it is wise to redesign living things — which is why safety and governance are central to the conversation around it.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/synthetic-biology",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "biotechnology"
+  ],
+  "tags": [],
+  "importance": 3,
+  "difficulty": "deep",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_cb9097",
+      "slug": "gmos-and-genetic-engineering",
+      "type": "concept",
+      "title": "GMOs and Genetic Engineering",
+      "hook": "By deliberately rewriting an organism's DNA, scientists can make bacteria brew human insulin or crops resist pests — traits nature never handed them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_ba0985",
+      "slug": "what-is-biotechnology",
+      "type": "concept",
+      "title": "What Is Biotechnology?",
+      "hook": "From cheese and beer to insulin and vaccines, biotechnology puts living things — or their molecular parts — to work making products we need.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9fc450",
+      "slug": "crispr-gene-editing",
+      "type": "concept",
+      "title": "CRISPR: Molecular Scissors for DNA",
+      "hook": "Borrowed from a bacterial immune system, CRISPR lets scientists find a precise spot in the genome and cut it — turning gene editing into something almost routine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_a18add#0",
+      "format": "flip",
+      "prompt": "How does synthetic biology differ from ordinary genetic engineering?",
+      "back_html": "\u003cp\u003eRather than tweaking existing genes, synthetic biology aims to \u003cstrong\u003edesign and\nbuild new biological parts and systems\u003c/strong\u003e, treating life's components like\nengineering blocks that can be combined to order.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a18add#1",
+      "format": "quiz",
+      "prompt": "What is a core idea of synthetic biology?",
+      "choices": [
+        {
+          "text": "Treating genes as standardized parts that can be assembled into new systems",
+          "correct": true
+        },
+        {
+          "text": "Avoiding all use of DNA in experiments",
+          "correct": false
+        },
+        {
+          "text": "Only studying organisms without changing them",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSynthetic biology borrows from engineering: it tries to make genetic components\nmodular and predictable, so cells can be programmed for new jobs.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a18add#2",
+      "format": "quiz",
+      "prompt": "Which is a real application of synthetic biology?",
+      "choices": [
+        {
+          "text": "Engineering yeast to brew a malaria drug normally extracted from a plant",
+          "correct": true
+        },
+        {
+          "text": "Building a bridge out of recycled steel",
+          "correct": false
+        },
+        {
+          "text": "Writing a smartphone operating system",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eProgramming microbes to manufacture drugs, fuels, or materials is a hallmark of\nsynthetic biology — for example, engineering yeast to produce a precursor of the\nantimalarial drug artemisinin.\u003c/p\u003e"
+    }
+  ]
+}

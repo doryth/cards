@@ -1,0 +1,102 @@
+{
+  "id": "card_e69708",
+  "slug": "the-three-domains",
+  "type": "concept",
+  "title": "The Three Domains of Life",
+  "hook": "At the very top, all life splits into just three branches — Bacteria, Archaea, and Eukarya — and your cells belong to the same one as mushrooms and oak trees.",
+  "key_points": [
+    "The domain is the broadest category in biological classification, above kingdoms.",
+    "There are three domains: Bacteria, Archaea, and Eukarya.",
+    "Bacteria and Archaea are single-celled microbes without a nucleus (prokaryotes).",
+    "Eukarya covers everything with a nucleus: animals, plants, fungi, and protists.",
+    "Archaea look bacteria-like but are genetically distinct, often thriving in extreme places."
+  ],
+  "content_html": "\u003cp\u003eBefore life is divided into animals, plants, or anything familiar, it splits into just three giant branches called domains: Bacteria, Archaea, and Eukarya. This is the broadest layer of biological classification — bigger than a kingdom. Two of the domains, Bacteria and Archaea, are made of single-celled microbes whose DNA floats freely without a nucleus. The third, Eukarya, holds every organism whose cells package their DNA inside a nucleus, including you.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe three-domain system was proposed by microbiologist Carl Woese in the late 1970s after he compared the genetic material of microbes and found that some \u0026quot;bacteria\u0026quot; were actually radically different on the inside. Those became the Archaea — single-celled organisms that often thrive in punishing places like boiling springs and salt lakes. Bacteria and Archaea are both prokaryotes (no nucleus), yet they sit in separate domains because their genes and cell membranes diverged billions of years ago. Eukarya gathers the rest: animals, plants, fungi, and the grab-bag of protists. As Encyclopaedia Britannica explains, this scheme reorganized the tree of life around deep genetic ancestry rather than appearance alone.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/science/three-domain-system",
+    "license": "© Encyclopaedia Britannica"
+  },
+  "topic_ids": [
+    "classification"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 5,
+  "difficulty": "intro",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_d56522",
+      "slug": "prokaryote-vs-eukaryote",
+      "type": "concept",
+      "title": "Two Kinds of Cells",
+      "hook": "All cells fall into two camps: simple prokaryotes with no nucleus, and complex eukaryotes that pack their DNA into a sealed control room.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9fa649",
+      "slug": "kingdoms-of-life",
+      "type": "concept",
+      "title": "The Kingdoms of Life",
+      "hook": "One step below the domains, life sorts into kingdoms — animals, plants, fungi, and assorted microbes — each a different way of making a living on Earth.",
+      "importance": 4,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_e69708#0",
+      "format": "flip",
+      "prompt": "What are the three domains of life?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eBacteria\u003c/strong\u003e, \u003cstrong\u003eArchaea\u003c/strong\u003e, and \u003cstrong\u003eEukarya\u003c/strong\u003e. This top-level split is the broadest\nway biologists divide all living things.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e69708#1",
+      "format": "quiz",
+      "prompt": "Which domain do animals, plants, and fungi belong to?",
+      "choices": [
+        {
+          "text": "Eukarya — organisms whose cells have a nucleus",
+          "correct": true
+        },
+        {
+          "text": "Bacteria",
+          "correct": false
+        },
+        {
+          "text": "Archaea",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eAnimals, plants, fungi, and protists are all eukaryotes, meaning their cells keep\ntheir DNA inside a nucleus. They share the domain Eukarya.\u003c/p\u003e"
+    },
+    {
+      "id": "card_e69708#2",
+      "format": "quiz",
+      "prompt": "What makes Archaea their own domain instead of just being bacteria?",
+      "choices": [
+        {
+          "text": "Their genetics and cell chemistry are distinct from bacteria",
+          "correct": true
+        },
+        {
+          "text": "They are much larger than bacteria",
+          "correct": false
+        },
+        {
+          "text": "They have a nucleus like animal cells",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eArchaea look like bacteria under a microscope, but their genes and membranes differ\nenough that they earn a separate domain. Many live in extreme heat, salt, or acid.\u003c/p\u003e"
+    }
+  ]
+}

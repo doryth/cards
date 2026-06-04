@@ -1,0 +1,117 @@
+{
+  "id": "card_1332af",
+  "slug": "judicial-recusal",
+  "type": "blog",
+  "title": "When Judges Step Aside",
+  "hook": "A judge who might be biased is supposed to step aside. But on the U.S. Supreme Court, each justice decides that alone — and no one can overrule them.",
+  "key_points": [
+    "Recusal means a judge withdraws from a case where their impartiality could reasonably be questioned — a safeguard for fair, unbiased justice.",
+    "U.S. law (28 U.S.C. § 455) requires it when, e.g., a spouse or minor child has a financial stake, or a relative is a party or lawyer in the case.",
+    "On the Supreme Court each justice decides their own recusal — there is no enforcement mechanism and no higher court to review it.",
+    "The Court's 2023 Code of Conduct mirrors the statute but also lacks teeth; a 'duty to sit' can push justices to hear close cases.",
+    "Gray areas persist — like a relative serving in another branch of government — where the rules give little clear guidance."
+  ],
+  "content_html": "\u003cp\u003eImpartiality is the whole point of a court, so when a judge has a personal stake in a case the expected move is to step aside — to \u0026quot;recuse.\u0026quot; The hard part is deciding when the line is crossed, and who gets to decide.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eIn the U.S. federal system, the recusal statute (28 U.S.C. § 455) tells judges to disqualify themselves whenever their \u0026quot;impartiality might reasonably be questioned,\u0026quot; and it names specific triggers — a spouse or minor child with a financial interest that could be affected, or a close relative serving as a party, lawyer, or material witness. As SCOTUSblog's Kelsey Dallas explains, the Supreme Court is unusual: each justice rules on their own recusal, with no appeal and no enforcement mechanism. The Court adopted its first formal Code of Conduct in 2023, after controversy over justices' undisclosed gifts and travel, but it largely restates the statute and likewise has no enforcement provision. A countervailing \u0026quot;duty to sit\u0026quot; — the fact that a recused justice cannot be replaced — can even nudge justices to hear borderline cases. And genuine gray areas remain, such as whether a justice must step aside when a family member holds a senior post in another branch of government. (U.S.-specific example of a problem every judiciary faces.)\u003c/p\u003e",
+  "source": {
+    "name": "SCOTUSblog",
+    "authors": [
+      "Kelsey Dallas"
+    ],
+    "url": "https://scotusblog.com/2026/06/when-must-justices-recuse-themselves-over-family-members-acts",
+    "published_at": "2026-06-10",
+    "license": "© SCOTUSblog (educational reference)"
+  },
+  "topic_ids": [
+    "branches-separation-of-powers",
+    "accountability-and-corruption"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-11",
+  "date": "2026-06-10",
+  "related": [
+    {
+      "id": "card_d5b134",
+      "slug": "judiciary-and-judicial-review",
+      "type": "concept",
+      "title": "The Judiciary \u0026 Judicial Review",
+      "hook": "Courts don't just settle disputes between people — through judicial review, many can also strike down a law or an official act that violates the constitution.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_5b5349",
+      "slug": "accountability-and-oversight",
+      "type": "concept",
+      "title": "Accountability \u0026 Oversight",
+      "hook": "Power left unwatched drifts toward abuse. Accountability is the demand that officials answer for what they do — and oversight is the machinery that makes them.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_766f74",
+      "slug": "rule-of-law",
+      "type": "concept",
+      "title": "The Rule of Law",
+      "hook": "The principle that everyone — including those in power — is bound by the same publicly known laws, applied equally.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1332af#0",
+      "format": "flip",
+      "prompt": "What does it mean for a judge to 'recuse' themselves?",
+      "back_html": "\u003cp\u003eTo \u003cstrong\u003ewithdraw from a case\u003c/strong\u003e in which their impartiality could reasonably\nbe questioned, so the matter is decided by an unbiased judge.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1332af#1",
+      "format": "quiz",
+      "prompt": "Who decides whether a U.S. Supreme Court justice must recuse from a case?",
+      "choices": [
+        {
+          "text": "The individual justice, with no higher court to review or enforce the decision",
+          "correct": true
+        },
+        {
+          "text": "A majority vote of the other eight justices",
+          "correct": false
+        },
+        {
+          "text": "The Chief Justice, acting alone",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eEach justice rules on their own recusal; there is no enforcement mechanism,\nso the Court's ethics rules rely on voluntary compliance.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1332af#2",
+      "format": "quiz",
+      "prompt": "Under the federal recusal statute, which is a clear trigger to step aside?",
+      "choices": [
+        {
+          "text": "A spouse or minor child has a financial interest that could be substantially affected by the case",
+          "correct": true
+        },
+        {
+          "text": "The judge personally dislikes one of the lawyers",
+          "correct": false
+        },
+        {
+          "text": "The case has attracted heavy media coverage",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e§ 455 lists close relatives' financial stakes and roles in the case;\nmere publicity or personal taste is not the standard.\u003c/p\u003e"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "card_ec7256",
+  "slug": "hubble-tension-world-cup",
+  "type": "paper",
+  "title": "The H₀ World Cup II: A Comprehensive Competition Between Proposed Hubble Tension Solutions",
+  "hook": "Fourteen rival theories all claim to fix cosmology's biggest headache — the Hubble tension. A new 'World Cup' pits them head-to-head on the same data to see which ones actually survive.",
+  "key_points": [
+    "The Hubble tension: two ways of measuring the universe's expansion rate disagree by over 7 standard deviations.",
+    "Researchers tested 14 proposed fixes to the standard cosmological model against the same data.",
+    "The fixes fall into four families: late-time expansion changes, modified recombination, extra early radiation, or energy injection.",
+    "Each contender faced both Bayesian and frequentist statistical tests, not just one method.",
+    "Leading contenders were further stress-tested against alternative CMB, supernova, and structure data.",
+    "It's the most rigorous head-to-head test yet of competing Hubble-tension fixes."
+  ],
+  "content_html": "\u003cp\u003eA new arXiv preprint led by Nils Schöneberg and collaborators revisits one of cosmology's biggest open problems: the Hubble tension, where the early universe and the present-day universe seem to disagree about how fast space is expanding, now at a significance exceeding 7 standard deviations. Rather than championing one fix, the team stages a tournament — the \u0026quot;H₀ World Cup\u0026quot; — pitting 14 proposed solutions against each other using identical data and identical statistical rules.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe 14 contenders span four broad strategies for easing the tension: altering the universe's recent expansion history, tweaking how atoms first formed (recombination), adding extra radiation before that era, or injecting extra early energy. Each is scored with both Bayesian and frequentist statistics, and the strongest performers are further stress-tested against alternative cosmic microwave background data, supernova samples, large-scale-structure measurements, and big bang nucleosynthesis constraints. It's the most rigorous side-by-side test yet of the many competing ideas for resolving one of modern cosmology's most stubborn disagreements.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Nils Schöneberg",
+      "Vivian Poulin",
+      "Angelo G. Ferrari"
+    ],
+    "url": "https://arxiv.org/abs/2607.13283",
+    "published_at": "2026-07-14",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "cosmology"
+  ],
+  "tags": [
+    "paper"
+  ],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-07-20",
+  "date": "2026-07-14",
+  "related": [
+    {
+      "id": "card_0ac579",
+      "slug": "hubble-tension",
+      "type": "paper",
+      "title": "The Hubble Tension: Cosmology's Stubborn Crisis",
+      "hook": "Two trustworthy ways of measuring how fast the universe expands keep disagreeing — and a decade of cross-checks has only hardened the gap into a genuine crisis.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-18"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_ec7256#0",
+      "format": "flip",
+      "prompt": "What is the 'Hubble tension' this paper's contest is trying to resolve?",
+      "back_html": "\u003cp\u003eA disagreement of more than 7 standard deviations between early-universe\nand present-day measurements of how fast the universe is expanding.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ec7256#1",
+      "format": "quiz",
+      "prompt": "How many rival solutions did the 'H0 World Cup' test head-to-head?",
+      "choices": [
+        {
+          "text": "14",
+          "correct": true
+        },
+        {
+          "text": "4",
+          "correct": false
+        },
+        {
+          "text": "100",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eFourteen representative solutions were tested; those 14 fall into\nfour broader families of mechanism, but 14 is the number of contenders.\u003c/p\u003e"
+    },
+    {
+      "id": "card_ec7256#2",
+      "format": "quiz",
+      "prompt": "What are the four broad approaches the 14 solutions fall into?",
+      "choices": [
+        {
+          "text": "Late-time expansion changes, modified recombination, extra early radiation, or energy injection",
+          "correct": true
+        },
+        {
+          "text": "Four different telescope brands",
+          "correct": false
+        },
+        {
+          "text": "Four different supernova sample sizes",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe contenders span late-time modifications of the expansion history, modified\nrecombination, additional pre-recombination radiation, and early energy injection.\u003c/p\u003e"
+    }
+  ]
+}

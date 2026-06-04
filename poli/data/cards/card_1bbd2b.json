@@ -1,0 +1,111 @@
+{
+  "id": "card_1bbd2b",
+  "slug": "interest-groups-and-lobbying",
+  "type": "concept",
+  "title": "Interest Groups \u0026 Lobbying",
+  "hook": "Between elections, organized groups press their case to government every day. Lobbying is how that pressure is applied — and it's both a feature and a worry of democracy.",
+  "key_points": [
+    "An interest group organizes people around a shared cause to influence policy.",
+    "Lobbying is the activity of trying to persuade officials to act a certain way.",
+    "Groups supply expertise and represent specific concerns between elections.",
+    "The risk: well-funded interests can gain outsized influence over the broader public."
+  ],
+  "content_html": "\u003cp\u003eElections happen every few years, but governing happens every day — and in the long stretches between votes, organized interest groups are a major channel through which society presses on government. An interest group is an association of people united around a shared concern — a business sector, a profession, a union, an environmental cause, a patients' charity — that seeks to influence public policy. Lobbying is the activity itself: meeting officials, presenting research, testifying, and arguing for decisions favorable to the group's cause.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThis has a genuinely valuable side. Officials cannot be experts in everything, and interest groups supply detailed knowledge about how a proposed rule would work in practice, surface concerns that diffuse majorities might never voice, and give specific communities a way to be heard continuously rather than only on election day. In this sense, organized advocacy is part of healthy democratic participation. But Encyclopaedia Britannica notes the persistent worry that comes with it: influence tends to track resources. Well-funded interests can afford more access, better-prepared arguments, and sustained pressure, potentially shaping policy in ways that diverge from the broader public's preferences — especially when the benefits are concentrated on a small group while the costs are spread thinly across everyone. This is why many democracies regulate lobbying through disclosure rules, registration of lobbyists, and limits on gifts and funding, trying to keep the useful flow of information while curbing unequal influence.\u003c/p\u003e",
+  "source": {
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/topic/interest-group",
+    "license": "© Encyclopaedia Britannica (educational reference)"
+  },
+  "topic_ids": [
+    "media-civil-society"
+  ],
+  "tags": [
+    "foundational"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_b3bd44",
+      "slug": "free-press-and-democracy",
+      "type": "concept",
+      "title": "The Free Press \u0026 Democracy",
+      "hook": "A free press is sometimes called the \"fourth estate\" — an unofficial branch of power whose job is to watch the other three on the public's behalf.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_fb8f10",
+      "slug": "social-movements-and-protest",
+      "type": "concept",
+      "title": "Social Movements \u0026 Protest",
+      "hook": "When ordinary channels fail or move too slowly, people organize and take to the streets. Social movements are how the unrepresented push change onto the agenda.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_47b520",
+      "slug": "party-systems",
+      "type": "concept",
+      "title": "Political Parties \u0026 Party Systems",
+      "hook": "Parties are how scattered voters become an organized choice. Whether a country has two big ones or a dozen shapes how its whole politics feels.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_1bbd2b#0",
+      "format": "flip",
+      "prompt": "What is the difference between an interest group and lobbying?",
+      "back_html": "\u003cp\u003eAn \u003cstrong\u003einterest group\u003c/strong\u003e is people organized around a shared cause; \u003cstrong\u003elobbying\u003c/strong\u003e\nis the activity of trying to persuade officials to act in line with that cause.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1bbd2b#1",
+      "format": "quiz",
+      "prompt": "What is one legitimate contribution interest groups make to democracy?",
+      "choices": [
+        {
+          "text": "They supply expertise and represent specific concerns between elections",
+          "correct": true
+        },
+        {
+          "text": "They count the votes in national elections",
+          "correct": false
+        },
+        {
+          "text": "They appoint judges to the courts",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eGroups channel specialized knowledge and particular interests into\npolicymaking during the long gaps between elections.\u003c/p\u003e"
+    },
+    {
+      "id": "card_1bbd2b#2",
+      "format": "quiz",
+      "prompt": "What is the central worry about lobbying?",
+      "choices": [
+        {
+          "text": "Well-funded interests can gain influence out of proportion to public support",
+          "correct": true
+        },
+        {
+          "text": "It forces everyone to join the same group",
+          "correct": false
+        },
+        {
+          "text": "It makes elections happen too often",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe danger is unequal access: resource-rich interests may sway policy far\nmore than ordinary citizens or diffuse majorities.\u003c/p\u003e"
+    }
+  ]
+}

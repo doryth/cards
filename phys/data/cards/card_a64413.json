@@ -1,0 +1,145 @@
+{
+  "id": "card_a64413",
+  "slug": "lhcb-32-tbps-realtime",
+  "type": "paper",
+  "title": "Sifting 32 Terabits a Second, Live",
+  "hook": "LHCb's detector produces more data per second than the global internet backbone once carried. There's no disk big enough, so the physics has to be picked out in real time.",
+  "key_points": [
+    "The upgraded LHCb detector reads out 32 terabits per second of collision data.",
+    "Almost all of it is uninteresting, so a 'trigger' must select the good collisions on the fly.",
+    "Removing an earlier pre-filtering stage raised the incoming data rate by a factor of 40.",
+    "The team used off-the-shelf networking with zero-copy techniques to avoid wasted memory transfers.",
+    "Event selection runs entirely on GPUs rather than custom electronics.",
+    "The architecture handles the full 32 Tbps live — the highest rate of any physics experiment to date."
+  ],
+  "content_html": "\u003cp\u003eParticle physics has a data problem that dwarfs its physics problem. The upgraded LHCb detector at the Large Hadron Collider now reads out 32 terabits every second, and there is no storage system on Earth that could absorb that. Nearly all of it is ordinary collisions nobody needs. So the experiment has to decide, in real time, which fraction of a second's worth of debris is worth keeping — and the upgrade made that job forty times harder by deleting the pre-filtering stage that used to thin the stream first.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe LHCb collaboration's answer is a \u0026quot;converged\u0026quot; architecture built, notably, out of off-the-shelf parts. Commodity networking hardware handles ingest using zero-copy techniques, which move data without the redundant memory copies that would otherwise eat the bandwidth budget, and the event selection itself runs entirely on GPUs rather than the custom electronics such triggers traditionally required. Together they process the full 32 Tbps live — the highest real-time rate in any physics experiment to date, according to the authors. The physics consequence is direct: a trigger that keeps up with the raw detector output means fewer decisions baked into hardware and more of the collision stream available to search, extending what LHCb's physics programme can look for. It also quietly makes the case that the next generation of detectors can be fed by the same computing industry that feeds everyone else.\u003c/p\u003e",
+  "source": {
+    "name": "arXiv",
+    "authors": [
+      "Roel Aaij",
+      "Dorothea vom Bruch",
+      "Vladimir V. Gligorov",
+      "Niko Neufeld",
+      "Rosen Matev",
+      "Renato Quagliani",
+      "et al."
+    ],
+    "url": "https://arxiv.org/abs/2607.21492",
+    "published_at": "2026-07-23",
+    "license": "arXiv (open access)"
+  },
+  "topic_ids": [
+    "particle-physics"
+  ],
+  "tags": [
+    "paper",
+    "efficiency"
+  ],
+  "importance": 3,
+  "difficulty": "core",
+  "created_at": "2026-07-27",
+  "date": "2026-07-23",
+  "related": [
+    {
+      "id": "card_b2d4b1",
+      "slug": "ai-learns-standard-model-from-lhc-data",
+      "type": "paper",
+      "title": "Learning Standard Model structure from LHC data with Riemannian flow matching",
+      "hook": "Told nothing about particle physics except one energy rule, an AI trained on a billion real LHC collisions spontaneously rediscovered known particle masses and a constant of the weak force.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "card_ab5171",
+      "slug": "the-higgs-boson",
+      "type": "concept",
+      "title": "The Higgs Boson",
+      "hook": "An invisible field fills all of space, and the harder a particle drags through it, the more mass it has. Finding the ripple that proved it took 50 years and the world's biggest machine.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_09c3a3",
+      "slug": "atlas-observes-longitudinal-z-boson-pairs",
+      "type": "paper",
+      "title": "ATLAS Catches a Rare Pair of 'Longitudinal' Z Bosons",
+      "hook": "The Higgs mechanism predicts Z bosons can carry a special 'longitudinal' polarization. ATLAS just made the first-ever observation of two of them appearing together, at 6.5 standard deviations.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-07-14"
+    },
+    {
+      "id": "card_b229c8",
+      "slug": "platon-3d-particle-camera",
+      "type": "news",
+      "title": "Scientists built a camera that can track invisible particles in 3D",
+      "hook": "A new detector called PLATON swaps millions of wired-together sensor parts for one solid light-emitting block, read out by a camera and AI — and it may sharpen medical scans too.",
+      "importance": 3,
+      "difficulty": "core",
+      "date": "2026-07-17"
+    }
+  ],
+  "prereqs": [
+    {
+      "id": "card_305a5e",
+      "slug": "the-standard-model",
+      "type": "concept",
+      "title": "The Standard Model",
+      "hook": "Almost everything around you is built from a handful of particles obeying three forces — and one theory predicts it all with jaw-dropping precision, yet still can't explain gravity.",
+      "importance": 5,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card_a64413#0",
+      "format": "quiz",
+      "prompt": "Why must LHCb filter its data in real time instead of recording everything?",
+      "choices": [
+        {
+          "text": "At 32 Tbps there is no practical way to store the raw output, and almost all of it is uninteresting",
+          "correct": true
+        },
+        {
+          "text": "Storing the data would violate the detector's radiation limits",
+          "correct": false
+        },
+        {
+          "text": "The collisions are too fast for the detector to register at all",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe detector produces 32 terabits per second. Writing that to disk is infeasible, so a trigger\nselects the rare interesting collisions as they happen and discards the rest.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a64413#1",
+      "format": "flip",
+      "prompt": "What changed to make the data problem 40 times harder?",
+      "back_html": "\u003cp\u003eThe upgrade \u003cstrong\u003eremoved an earlier pre-filtering stage\u003c/strong\u003e, so the full rate now arrives at the\nreal-time system — a factor-40 increase in data rate.\u003c/p\u003e"
+    },
+    {
+      "id": "card_a64413#2",
+      "format": "quiz",
+      "prompt": "What technical choices let the system keep up?",
+      "choices": [
+        {
+          "text": "Off-the-shelf networking with zero-copy data handling plus a fully GPU-based filter",
+          "correct": true
+        },
+        {
+          "text": "Custom application-specific chips designed from scratch for the trigger",
+          "correct": false
+        },
+        {
+          "text": "Compressing every collision losslessly before selection",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eThe converged architecture combines commodity network hardware using zero-copy techniques — which\navoid needless memory copies — with event selection running entirely on GPUs.\u003c/p\u003e"
+    }
+  ]
+}

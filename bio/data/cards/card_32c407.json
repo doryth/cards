@@ -1,0 +1,109 @@
+{
+  "id": "card_32c407",
+  "slug": "atp-energy-currency",
+  "type": "concept",
+  "title": "ATP: The Cell's Energy Currency",
+  "hook": "Cells don't store usable energy as sugar or fat alone — they spend it through ATP, a tiny rechargeable molecule that powers almost everything they do.",
+  "key_points": [
+    "ATP (adenosine triphosphate) is the main energy-carrying molecule in cells.",
+    "Energy is released when ATP loses one of its three phosphate groups, becoming ADP.",
+    "ADP is recharged back into ATP using energy from food.",
+    "Cells cycle ATP constantly, recycling each molecule many times a day."
+  ],
+  "content_html": "\u003cp\u003eLiving cells need a way to pay for their work — building molecules, pumping ions, contracting muscle — and the currency they use is ATP, short for adenosine triphosphate. Energy from food is locked away in stores like sugar and fat, but cells can't tap those directly for most tasks. Instead, they convert that energy into ATP, a small molecule that delivers energy in convenient, ready-to-spend packets.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eATP earns its name from its three phosphate groups. When the cell needs energy, it snaps off the outermost phosphate, releasing energy and leaving behind ADP (adenosine diphosphate). Later, energy harvested from food — largely through cellular respiration — reattaches a phosphate, recharging ADP back into ATP. This cycle runs nonstop, and a single ATP molecule may be spent and recharged thousands of times a day. As Khan Academy describes, coupling ATP's breakdown to other reactions is how cells push energy-demanding processes forward.\u003c/p\u003e",
+  "source": {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/science/ap-biology/cellular-energetics/cellular-energy/a/atp-and-reaction-coupling",
+    "license": "© Khan Academy (CC BY-NC-SA)"
+  },
+  "topic_ids": [
+    "energy-in-life"
+  ],
+  "tags": [],
+  "importance": 4,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_e553ec",
+      "slug": "cellular-respiration",
+      "type": "concept",
+      "title": "Cellular Respiration",
+      "hook": "Every cell in your body slowly 'burns' sugar with oxygen to release energy — the same chemistry as photosynthesis, run in reverse.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_9d1582",
+      "slug": "enzymes",
+      "type": "concept",
+      "title": "Enzymes: Life's Catalysts",
+      "hook": "The chemical reactions that keep you alive would crawl too slowly to matter — enzymes speed them up millions of times without being used up themselves.",
+      "importance": 4,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_19a817",
+      "slug": "metabolism",
+      "type": "concept",
+      "title": "Metabolism",
+      "hook": "Every breath, heartbeat, and thought runs on metabolism — the vast web of chemical reactions that builds your body up and breaks your fuel down.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_32c407#0",
+      "format": "flip",
+      "prompt": "What is ATP and what does it do?",
+      "back_html": "\u003cp\u003e\u003cstrong\u003eATP\u003c/strong\u003e (adenosine triphosphate) is the cell's energy currency. It carries\nenergy in its chemical bonds and releases it on demand to power the cell's work.\u003c/p\u003e"
+    },
+    {
+      "id": "card_32c407#1",
+      "format": "quiz",
+      "prompt": "How does ATP release its energy?",
+      "choices": [
+        {
+          "text": "By losing one phosphate group, turning into ADP",
+          "correct": true
+        },
+        {
+          "text": "By gaining a phosphate group",
+          "correct": false
+        },
+        {
+          "text": "By splitting into glucose",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eBreaking the bond to ATP's third phosphate releases energy and leaves ADP\n(adenosine diphosphate) behind. The cell can later recharge ADP back into ATP.\u003c/p\u003e"
+    },
+    {
+      "id": "card_32c407#2",
+      "format": "quiz",
+      "prompt": "Why is ATP called a rechargeable molecule?",
+      "choices": [
+        {
+          "text": "ADP is rebuilt into ATP using energy from food, then spent again",
+          "correct": true
+        },
+        {
+          "text": "Cells make brand-new ATP from scratch each time and discard the old",
+          "correct": false
+        },
+        {
+          "text": "ATP never runs down once it is made",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eCells run ATP through a continuous cycle — spend it to ADP, recharge it with\nenergy harvested from food, and spend it again — recycling each molecule\ncountless times.\u003c/p\u003e"
+    }
+  ]
+}

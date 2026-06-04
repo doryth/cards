@@ -1,0 +1,110 @@
+{
+  "id": "card_7d67f6",
+  "slug": "sleep-and-the-brain",
+  "type": "concept",
+  "title": "Sleep and the Brain",
+  "hook": "Sleep isn't the brain switching off — it's when the brain does some of its most important work, from clearing waste to locking in memories.",
+  "key_points": [
+    "Sleep cycles between non-REM (deep, restorative) and REM (vivid dreaming) stages.",
+    "During sleep the brain consolidates memories, moving them into longer-term storage.",
+    "Sleep helps flush metabolic waste that builds up in the brain while awake.",
+    "Too little sleep impairs attention, mood, learning, and immune function.",
+    "The body's internal clock, the circadian rhythm, drives the sleep-wake cycle."
+  ],
+  "content_html": "\u003cp\u003eSleep can look like the brain shutting down, but it's the opposite — some of the brain's most important work happens while you're unconscious. Over a night, the brain cycles between non-REM sleep, which includes the deep, restorative stages, and REM sleep, the stage of vivid dreams and intense brain activity. We spend roughly a third of our lives doing it, and no animal can skip it for long.\u003c/p\u003e",
+  "extra_html": "\u003cp\u003eThe NIH's NINDS explains that sleep is far from passive. During the night the brain replays and consolidates the day's experiences, strengthening the connections that turn fleeting events into lasting memories. Sleep also appears to help flush out metabolic waste that builds up between neurons while you're awake. Driving all of this is the circadian rhythm — an internal clock, tuned by light, that schedules when you feel sleepy and when you feel alert. Skimp on sleep and the costs show up fast: blunted attention, low mood, poorer learning, and a weaker immune response.\u003c/p\u003e",
+  "source": {
+    "name": "NIH NINDS",
+    "url": "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep",
+    "license": "Public domain (NIH/NINDS)"
+  },
+  "topic_ids": [
+    "nervous-system"
+  ],
+  "tags": [],
+  "importance": 5,
+  "difficulty": "core",
+  "created_at": "2026-06-04",
+  "date": "2026-06-04",
+  "related": [
+    {
+      "id": "card_f21e0c",
+      "slug": "the-brain",
+      "type": "concept",
+      "title": "The Brain",
+      "hook": "Three pounds of folded tissue runs the whole show — thinking, balance, breathing, memory — divided into regions that each handle a different part of the job.",
+      "importance": 5,
+      "difficulty": "core",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_c65348",
+      "slug": "memory-and-learning",
+      "type": "concept",
+      "title": "Memory and Learning",
+      "hook": "Every memory you hold is a pattern of connections between neurons — and learning is, quite literally, your brain rewiring itself to make those connections stronger.",
+      "importance": 4,
+      "difficulty": "deep",
+      "date": "2026-06-04"
+    },
+    {
+      "id": "card_945f3f",
+      "slug": "neurons-and-signals",
+      "type": "concept",
+      "title": "Neurons and Signals",
+      "hook": "Your every thought, twitch, and feeling rides on tiny electrical pulses fired by neurons — and leaps the gaps between them as bursts of chemicals.",
+      "importance": 5,
+      "difficulty": "intro",
+      "date": "2026-06-04"
+    }
+  ],
+  "prereqs": [],
+  "flashcards": [
+    {
+      "id": "card_7d67f6#0",
+      "format": "flip",
+      "prompt": "Is the brain inactive during sleep?",
+      "back_html": "\u003cp\u003eNo — the brain is \u003cstrong\u003ebusy\u003c/strong\u003e during sleep. It cycles through stages, consolidates\nmemories, and clears out waste that piled up during the day.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7d67f6#1",
+      "format": "quiz",
+      "prompt": "Which sleep stage is most associated with vivid dreaming?",
+      "choices": [
+        {
+          "text": "REM sleep",
+          "correct": true
+        },
+        {
+          "text": "The deepest non-REM stage",
+          "correct": false
+        },
+        {
+          "text": "The moment of falling asleep",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003e\u003cstrong\u003eREM\u003c/strong\u003e (rapid eye movement) sleep is when most vivid dreaming occurs and the\nbrain is highly active even though the body's muscles are largely paralyzed.\u003c/p\u003e"
+    },
+    {
+      "id": "card_7d67f6#2",
+      "format": "quiz",
+      "prompt": "What is one well-supported function of sleep for the brain?",
+      "choices": [
+        {
+          "text": "Consolidating memories and clearing metabolic waste",
+          "correct": true
+        },
+        {
+          "text": "Growing new bones",
+          "correct": false
+        },
+        {
+          "text": "Replacing red blood cells",
+          "correct": false
+        }
+      ],
+      "explanation_html": "\u003cp\u003eSleep helps \u003cstrong\u003elock in memories\u003c/strong\u003e and lets the brain clear waste products that\naccumulate during waking hours, among other restorative roles.\u003c/p\u003e"
+    }
+  ]
+}
